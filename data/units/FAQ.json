@@ -1,0 +1,1524 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAQ",
+  "unit_id": "FAQ",
+  "unit_title": "Frequently asked questions",
+  "phase": "A",
+  "source_file": "03 Using MSP and Summaries/EN - MHPSS_MSP_appendix_en_FAQ_20221026_2.pdf",
+  "source_sha256": "f31cd34baffa854df4939a2ab2544553dad1dafbd9589cf77bc050a0c58b4fe1",
+  "pages": "1-4",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:25:36+05:45",
+  "coverage": {
+    "source_words": 2108,
+    "row_words": 2108,
+    "skipped": [
+      "Page 1: running page number 1.",
+      "Page 2: running page number 2.",
+      "Page 3: running page number 3.",
+      "Page 4: running page number 4."
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAQ-0001",
+      "page": "1",
+      "loc": "heading",
+      "section": "",
+      "en": "Frequently asked questions",
+      "ne": "बारम्बार सोधिने प्रश्नहरू",
+      "bt": "Frequently asked questions",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0002",
+      "page": "1",
+      "loc": "heading",
+      "section": "Frequently asked questions",
+      "en": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "ne": "आपत्कालीन अवस्थामा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) सम्बन्धी आवश्यकताहरू सम्बोधन गर्नु किन महत्त्वपूर्ण छ?",
+      "bt": "Why is it important to address needs related to mental health and psychosocial support (MHPSS) in emergencies?",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T131",
+        "T157",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The clinical composite reuses the supplied unreviewed candidate. A recurring equivalent for emergencies is proposed separately."
+    },
+    {
+      "id": "FAQ-0003",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "Humanitarian emergencies cause widespread suffering, affecting people’s mental health and psychosocial well-being.",
+      "ne": "मानवीय आपत्कालीन अवस्थाले व्यापक पीडा निम्त्याउँछन् र मानिसहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा असर पार्छन्।",
+      "bt": "Humanitarian emergencies cause widespread suffering and affect people's mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T131",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The wording for mental health and psychosocial well-being reuses supplied unreviewed candidates. Separate glossary entries for mental health and emergencies are proposed."
+    },
+    {
+      "id": "FAQ-0004",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "Affected populations experience a range of stressors that can have both immediate and long-term consequences.",
+      "ne": "प्रभावित जनसमुदायले दबाब सिर्जना गर्ने विभिन्न कारकहरूको सामना गर्छन्, जसका तत्कालीन र दीर्घकालीन दुवै परिणाम हुन सक्छन्।",
+      "bt": "Affected communities face various factors that create stress, which can have both immediate and long-term consequences.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Stressors is rendered as ordinary factors that create pressure, not as a diagnosis."
+    },
+    {
+      "id": "FAQ-0005",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "These include exposure to violence, separation from or loss of loved ones, poor living conditions, poverty, food insecurity, loss of livelihoods and means of survival, physical injuries and illnesses, and a lack of access to services such as health care, education and social care.",
+      "ne": "यसमा हिंसाको सामना गर्नुपर्ने अवस्था, प्रियजनबाट अलग हुनु वा उनीहरूलाई गुमाउनु, कमजोर जीवनयापन अवस्था, गरिबी, खाद्य असुरक्षा, जीविकोपार्जन तथा बाँच्ने साधन गुमाउनु, शारीरिक चोटपटक तथा रोगबिमार, र स्वास्थ्य सेवा, शिक्षा तथा सामाजिक हेरचाहजस्ता सेवामा पहुँचको अभाव पर्छन्।",
+      "bt": "These include having to face violence, separation from or loss of loved ones, poor living conditions, poverty, food insecurity, loss of livelihoods and means of survival, physical injuries and illnesses, and lack of access to services such as health care, education and social care.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T028",
+        "T155"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0006",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "Emergencies can also erode protective supports such as family and community networks and can lead to sudden changes in social roles and relationships.",
+      "ne": "आपत्कालीन अवस्थाले परिवार तथा समुदायका सञ्जालजस्ता संरक्षण प्रदान गर्ने सहयोगका आधारहरू पनि कमजोर बनाउन सक्छन् र सामाजिक भूमिका तथा सम्बन्धमा अचानक परिवर्तन ल्याउन सक्छन्।",
+      "bt": "Emergencies can also weaken protective sources of support such as family and community networks and can bring sudden changes in social roles and relationships.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T131",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring equivalent for emergencies."
+    },
+    {
+      "id": "FAQ-0007",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "Many people affected by emergencies experience common reactions such as difficulties with sleeping, fatigue, worry, anger and physical aches and pains.",
+      "ne": "आपत्कालीन अवस्थाबाट प्रभावित धेरै व्यक्तिहरूले निद्रासम्बन्धी कठिनाइहरू, थकान, चिन्ता, रिस र शरीर दुख्ने जस्ता सामान्य प्रतिक्रियाहरू अनुभव गर्छन्।",
+      "bt": "Many people affected by an emergency experience common reactions such as sleep-related difficulties, fatigue, anxiety, anger and body aches.",
+      "type": "safety",
+      "terms": [
+        "T131"
+      ],
+      "flags": [],
+      "note": "Unvalidated Nepali draft of the common reactions; no diagnosis is introduced. The source refers broadly to difficulties with sleeping; the Nepali and BT narrow this to difficulty falling asleep. The repair restores the broader sleep-related meaning."
+    },
+    {
+      "id": "FAQ-0008",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "For most people, these problems are manageable and improve over time, but for others they impair daily functioning.",
+      "ne": "अधिकांश व्यक्तिहरूका लागि यी समस्याहरू सम्हाल्न सकिने हुन्छन् र समयसँगै सुधार हुँदै जान्छन्, तर अरू व्यक्तिहरूमा भने यिनले दैनिक कामकाज गर्ने क्षमतामा बाधा पुर्‍याउँछन्।",
+      "bt": "For most people, these problems are manageable and improve over time, but in other people they hinder the ability to carry out daily activities.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The distinction between manageable problems for most people and impaired daily functioning for others is retained."
+    },
+    {
+      "id": "FAQ-0009",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "Globally, one in five (22.1%) people living in areas affected by conflict is estimated to have a mental health condition.1",
+      "ne": "विश्वभरि, द्वन्द्वबाट प्रभावित क्षेत्रहरूमा बस्ने प्रत्येक पाँच जनामध्ये एक जना (22.1%) मा मानसिक स्वास्थ्यसम्बन्धी अवस्था रहेको अनुमान गरिएको छ।1",
+      "bt": "Worldwide, it has been estimated that one in every five people (22.1%) living in conflict-affected areas has a mental health condition.1",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T296",
+        "T476"
+      ],
+      "flags": [],
+      "note": "The global estimate, conflict-affected population, percentage and citation marker 1 are retained."
+    },
+    {
+      "id": "FAQ-0010",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "Mental health and psychosocial support services are often sparse even before a crisis occurs, and emergencies can disrupt the availability of services and people’s access to them.",
+      "ne": "सङ्कट आउनुअघि नै मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग सेवा प्रायः थोरै मात्र उपलब्ध हुन्छन्, र आपत्कालीन अवस्थाले सेवाको उपलब्धता तथा ती सेवामा मानिसहरूको पहुँचमा अवरोध पुर्‍याउन सक्छन्।",
+      "bt": "Even before a crisis occurs, mental health and psychosocial support services are often available only to a limited extent, and emergency situations can obstruct the availability of services and people's access to those services.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T131",
+        "T157",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The clinical composite reuses the supplied unreviewed candidate. Uses the proposed recurring equivalent for emergencies. The source says services are often sparse, meaning limited in availability; the BT says inadequate, which can instead imply insufficient quality or adequacy. The revision makes limited availability explicit."
+    },
+    {
+      "id": "FAQ-0011",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "People with pre-existing mental health conditions are at risk of relapse or deterioration, often face stigma and discrimination, and need continued access to care and protection.",
+      "ne": "पहिलेदेखि नै मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरू समस्या फेरि बल्झिने वा अवस्था बिग्रिने जोखिममा रहेका हुन्छन्, उनीहरूले प्रायः लाञ्छना र भेदभाव सामना गर्छन्, र उनीहरूलाई हेरचाह तथा संरक्षणमा निरन्तर पहुँच आवश्यक हुन्छ।",
+      "bt": "People who already have mental health conditions are at risk of the problem flaring up again or the condition worsening, they often face stigma and discrimination, and they need continuous access to care and protection.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T029",
+        "T157",
+        "T195",
+        "T476",
+        "T478"
+      ],
+      "flags": [],
+      "note": "Pre-existing conditions, relapse or deterioration risk, frequent stigma and discrimination, and the need for continued access are retained."
+    },
+    {
+      "id": "FAQ-0012",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "For children, adverse conditions in emergencies can disrupt cognitive, emotional, social and physical development, with enduring consequences for their future.",
+      "ne": "बालबालिकाका हकमा, आपत्कालीन अवस्थाका प्रतिकूल परिस्थितिले उनीहरूको संज्ञानात्मक, भावनात्मक, सामाजिक तथा शारीरिक विकासमा बाधा पुर्‍याउन सक्छन्, जसको उनीहरूको भविष्यमा दीर्घकालसम्म असर पर्न सक्छ।",
+      "bt": "In the case of children, adverse circumstances in emergencies can hinder their cognitive, emotional, social and physical development, which can have a long-term effect on their future.",
+      "type": "general",
+      "terms": [
+        "T131"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The developmental domains are drafted as general descriptions, not diagnostic terminology. Uses the proposed recurring equivalent for emergencies."
+    },
+    {
+      "id": "FAQ-0013",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "Effective MHPSS programming provides critical services and supports across the life course to reduce suffering and improve people’s mental health and psychosocial well-being.",
+      "ne": "प्रभावकारी MHPSS कार्यक्रमले पीडा कम गर्न र मानिसहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण सुधार गर्न जीवनका सबै चरणमा अत्यावश्यक सेवा तथा सहयोग प्रदान गर्छन्।",
+      "bt": "Effective MHPSS programmes provide essential services and support at all stages of life to reduce suffering and improve people's mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The mental health and psychosocial well-being wording reuses supplied unreviewed candidates. Mental health is proposed as a separate glossary entry."
+    },
+    {
+      "id": "FAQ-0014",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "This can lead to improvements in people’s abilities to meet their basic needs to survive, recover, and rebuild their lives.",
+      "ne": "यसले मानिसहरूलाई बाँच्न, पुनः सम्हालिन र आफ्नो जीवन पुनर्निर्माण गर्न आवश्यक आधारभूत आवश्यकता पूरा गर्ने क्षमतामा सुधार ल्याउन सक्छ।",
+      "bt": "This can improve people's ability to meet the basic needs necessary to survive, recover and rebuild their lives.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0015",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "The integration of MHPSS into emergency responses can enhance the impact of programming across sectors and can contribute to saving lives.",
+      "ne": "आपत्कालीन प्रतिकार्यमा MHPSS समावेश गर्दा विभिन्न क्षेत्रका कार्यक्रमको प्रभाव बढ्न सक्छ र जीवन बचाउन योगदान पुग्न सक्छ।",
+      "bt": "Including MHPSS in emergency response can increase the impact of programmes in different sectors and can contribute to saving lives.",
+      "type": "general",
+      "terms": [
+        "T132",
+        "T174",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Emergency response is a recurring technical expression absent from the glossary; an equivalent is proposed."
+    },
+    {
+      "id": "FAQ-0016",
+      "page": "1",
+      "loc": "para",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "MHPSS programmes can also help strengthen health, social, and education systems in the longer term.",
+      "ne": "MHPSS कार्यक्रमले दीर्घकालमा स्वास्थ्य, सामाजिक तथा शिक्षा प्रणाली सुदृढ बनाउन पनि मद्दत गर्न सक्छन्।",
+      "bt": "MHPSS programmes can also help strengthen health, social and education systems in the long term.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T028",
+        "T160",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0017",
+      "page": "1",
+      "loc": "heading",
+      "section": "Why is responding to mental health and psychosocial support (MHPSS) needs important in emergencies?",
+      "en": "How was the MHPSS MSP developed?",
+      "ne": "MHPSS MSP कसरी विकास गरियो?",
+      "bt": "How was the MHPSS MSP developed?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "MSP recurs but has no supplied glossary entry or expansion. Retaining MSP without inventing an expansion is proposed."
+    },
+    {
+      "id": "FAQ-0018",
+      "page": "1",
+      "loc": "para",
+      "section": "How was the MHPSS MSP developed?",
+      "en": "The MHPSS MSP has been developed based on desk reviews, consultations, discussions and reviews by key stakeholders in global, regional and frontline positions, including:",
+      "ne": "MHPSS MSP विद्यमान दस्तावेजहरूको अध्ययन, परामर्श, छलफल तथा विश्वव्यापी, क्षेत्रीय र अग्रपंक्तिका भूमिकामा रहेका प्रमुख सरोकारवालाहरूले गरेका समीक्षाका आधारमा विकास गरिएको हो, जसमा निम्न समावेश छन्:",
+      "bt": "The MHPSS MSP was developed on the basis of study of existing documents, consultations, discussions and reviews carried out by key stakeholders in global, regional and frontline roles, including the following:",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T181",
+        "T182",
+        "T346",
+        "T347"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "MSP is retained as supplied; no expansion is inferred."
+    },
+    {
+      "id": "FAQ-0019",
+      "page": "1",
+      "loc": "bullet",
+      "section": "How was the MHPSS MSP developed?",
+      "en": "a. A review of existing global guidelines, standards and tools (a list of key documents reviewed is available in the corresponding section of the MHPSS MSP Web Platform);",
+      "ne": "a. विद्यमान विश्वव्यापी निर्देशिकाहरू, मापदण्डहरू तथा साधनहरूको समीक्षा (समीक्षा गरिएका प्रमुख दस्तावेजहरूको सूची MHPSS MSP वेब प्लेटफर्मको सम्बन्धित खण्डमा उपलब्ध छ)।",
+      "bt": "a. Review of existing global guidelines, standards and tools (a list of the main documents reviewed is available in the relevant section of the MHPSS MSP web platform).",
+      "type": "check",
+      "terms": [
+        "T086",
+        "T087",
+        "T163",
+        "T189",
+        "T422",
+        "T437",
+        "T438"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "MSP is retained as supplied."
+    },
+    {
+      "id": "FAQ-0020",
+      "page": "1",
+      "loc": "bullet",
+      "section": "How was the MHPSS MSP developed?",
+      "en": "b. A review of other key service packages (e.g. Minimum Initial Service Package for Sexual and Reproductive Health in Crisis Situations; Essential Services Package for Women and Girls Subject to Violence; Inter-Agency Minimum Standards for Gender Based Violence in Emergencies Programming);",
+      "ne": "b. अन्य प्रमुख सेवा प्याकेजहरूको समीक्षा (जस्तै, सङ्कटको अवस्थामा यौन तथा प्रजनन स्वास्थ्यका लागि न्यूनतम प्रारम्भिक सेवा प्याकेज; हिंसा भोगेका महिला तथा बालिकाहरूका लागि अत्यावश्यक सेवाहरूको प्याकेज; आपत्कालीन अवस्थामा लैङ्गिक हिंसासम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनका लागि संस्थाहरूबीचको न्यूनतम मापदण्डहरू);",
+      "bt": "b. Review of other major service packages (for example, the minimum initial service package for sexual and reproductive health in a crisis situation; the package of essential services for women and girls who have experienced violence; the inter-agency minimum standards for the formulation and implementation of programmes related to gender-based violence in emergencies);",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T087",
+        "T131",
+        "T140",
+        "T233",
+        "T247",
+        "T282",
+        "T508"
+      ],
+      "flags": [],
+      "note": "All three service-package or standards titles are drafted in Nepali as reference titles, not treated as named therapies."
+    },
+    {
+      "id": "FAQ-0021",
+      "page": "1",
+      "loc": "bullet",
+      "section": "How was the MHPSS MSP developed?",
+      "en": "c. A review of costing tools and lessons learned reviews;",
+      "ne": "c. लागत गणना गर्ने साधनहरू तथा सिकिएका पाठसम्बन्धी समीक्षाहरूको समीक्षा।",
+      "bt": "c. Review of costing tools and reviews concerning lessons learned.",
+      "type": "general",
+      "terms": [
+        "T437",
+        "T438"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0022",
+      "page": "1",
+      "loc": "bullet",
+      "section": "How was the MHPSS MSP developed?",
+      "en": "d. Online and in-person expert consultations and peer reviews with actors in global, regional and frontline positions, representing UN agencies, IFRC, INGOs, NGOs/CBOs, mental health service providers, government representatives and funders;",
+      "ne": "d. UN निकायहरू, IFRC, INGOs, NGOs/CBOs, मानसिक स्वास्थ्य सेवा प्रदायकहरू, सरकारी प्रतिनिधिहरू तथा वित्तीय सहयोगदाताहरूको प्रतिनिधित्व गर्ने विश्वव्यापी, क्षेत्रीय र अग्रपंक्तिका भूमिकामा रहेका सरोकारवालाहरूसँग अनलाइन तथा प्रत्यक्ष विज्ञ परामर्श र समकक्ष समीक्षा।",
+      "bt": "d. Online and in-person expert consultations and peer review with stakeholders in global, regional and frontline roles representing UN agencies, IFRC, INGOs, NGOs/CBOs, mental health service providers, government representatives and financial donors.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T346",
+        "T347"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Mental health service wording reuses the supplied unreviewed wording in activity 3.10. Mental health is proposed as a separate glossary entry; all source acronyms are retained."
+    },
+    {
+      "id": "FAQ-0023",
+      "page": "1",
+      "loc": "bullet",
+      "section": "How was the MHPSS MSP developed?",
+      "en": "e. A one-year field testing phase which included collection of feedback on the MSP content through surveys and interviews as well as two reviews by the IASC MHPSS Reference Group;",
+      "ne": "e. एक वर्षको स्थलगत परीक्षण चरण, जसमा सर्वेक्षण तथा अन्तर्वार्तामार्फत MSP को विषयवस्तुबारे प्रतिक्रिया सङ्कलन गर्नुका साथै IASC MHPSS सन्दर्भ समूहले गरेका दुई समीक्षा समावेश थिए।",
+      "bt": "e. A one-year field-testing phase, which included collecting feedback on the content of the MSP through surveys and interviews, as well as two reviews carried out by the IASC MHPSS Reference Group.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T171",
+        "T348",
+        "T434"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "MSP is retained as supplied. The source's one-year duration and two reviews are retained in words."
+    },
+    {
+      "id": "FAQ-0024",
+      "page": "1",
+      "loc": "bullet",
+      "section": "How was the MHPSS MSP developed?",
+      "en": "f. Partnerships with implementing agencies in five demonstration countries to gather feedback and field implementation examples.",
+      "ne": "f. प्रतिक्रिया तथा स्थलगत कार्यान्वयनका उदाहरणहरू सङ्कलन गर्न पाँच प्रदर्शन देशका कार्यान्वयन गर्ने निकायहरूसँग साझेदारी।",
+      "bt": "f. Partnership with implementing agencies in five demonstration countries to collect feedback and examples of field implementation.",
+      "type": "general",
+      "terms": [
+        "T380"
+      ],
+      "flags": [],
+      "note": "Demonstration countries refers to the five countries used to demonstrate implementation; no country names are added."
+    },
+    {
+      "id": "FAQ-0025",
+      "page": "1",
+      "loc": "footnote",
+      "section": "How was the MHPSS MSP developed?",
+      "en": "1 Charlson F. et al. (2019). New WHO prevalence estimates of mental disorders in conflict settings: a systematic review and meta-analysis. The Lancet 394, pp. 240-248.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the complete bibliographic citation exactly as supplied, including citation number 1, author information, 2019, the English article title, WHO, The Lancet 394, and pp. 240-248."
+    },
+    {
+      "id": "FAQ-0026",
+      "page": "2",
+      "loc": "heading",
+      "section": "How was the MHPSS MSP developed?",
+      "en": "Does the MHPSS MSP replace the IASC 2007 MHPSS guidelines?",
+      "ne": "के MHPSS MSP ले IASC का 2007 का MHPSS सम्बन्धी निर्देशिकाहरू प्रतिस्थापन गर्छ?",
+      "bt": "Does the MHPSS MSP replace the IASC's 2007 guidelines on MHPSS?",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "MSP is retained as supplied."
+    },
+    {
+      "id": "FAQ-0027",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Does the MHPSS MSP replace the IASC 2007 MHPSS guidelines?",
+      "en": "▶ No. The MSP is based on and consistent with existing guidelines, including the 2007 IASC MHPSS guidelines and other more recent IASC guidelines (e.g. IASC Common M&E Framework for MHPSS in Emergency Settings, the IASC Handbook of MHPSS Coordination, the IASC Information Note on Disability and Inclusion in Humanitarian Action) and also includes other global guidance across different sectors/areas of work such as the Sphere Standards, the Child Protection Minimum Standards, the GBV Minimum Standards, the INEE minimum standards among others.",
+      "ne": "▶ गर्दैन। MSP विद्यमान निर्देशिकाहरूमा आधारित छ र तिनीसँग सुसङ्गत छ। यसमा 2007 का IASC MHPSS सम्बन्धी निर्देशिकाहरू तथा IASC का अन्य पछिल्ला निर्देशिकाहरू (जस्तै, आपत्कालीन परिस्थितिमा MHPSS का लागि IASC को साझा अनुगमन तथा मूल्याङ्कन (M&E) ढाँचा, MHPSS समन्वयसम्बन्धी IASC को हातेपुस्तिका, मानवीय कार्यमा अपाङ्गता तथा समावेशीकरणसम्बन्धी IASC को जानकारीपत्र) पर्छन्। यसमा विभिन्न क्षेत्र तथा कार्यक्षेत्रका अन्य विश्वव्यापी मार्गदर्शन पनि समावेश छन्, जस्तै Sphere मापदण्डहरू, बाल संरक्षणका न्यूनतम मापदण्डहरू, GBV सम्बन्धी न्यूनतम मापदण्डहरू र INEE का न्यूनतम मापदण्डहरू लगायत।",
+      "bt": "▶ No. The MSP is based on existing guidelines and is consistent with them. These include the 2007 IASC guidelines on MHPSS and other later IASC guidelines (for example, the IASC common monitoring and evaluation (M&E) framework for MHPSS in emergency settings, the IASC handbook on MHPSS coordination, and the IASC information sheet on disability and inclusion in humanitarian action). It also includes other global guidance from different sectors and areas of work, such as the Sphere standards, minimum standards for child protection, minimum standards on GBV and INEE minimum standards, among others.",
+      "type": "check",
+      "terms": [
+        "T036",
+        "T086",
+        "T087",
+        "T163",
+        "T224",
+        "T296",
+        "T349",
+        "T372",
+        "T394"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "MSP is retained as supplied. Document titles are descriptive draft renderings, not claims of official Nepali titles. The monitoring and evaluation wording reuses the supplied activity 2.2 candidate."
+    },
+    {
+      "id": "FAQ-0028",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Does the MHPSS MSP replace the IASC 2007 MHPSS guidelines?",
+      "en": "▶ The MSP draws on these guidelines to identify minimum activities for the MHPSS response across sectors, and outlines key actions plan and implement those activities safely and effectively.",
+      "ne": "▶ विभिन्न क्षेत्रहरूमा गरिने MHPSS प्रतिकार्यका लागि न्यूनतम गतिविधिहरू पहिचान गर्न MSP ले यी निर्देशिकाहरूलाई आधार बनाउँछ र ती गतिविधिहरूको सुरक्षित तथा प्रभावकारी रूपमा योजना बनाउन र कार्यान्वयन गर्नका लागि प्रमुख कार्यहरू प्रस्तुत गर्छ।",
+      "bt": "▶ The MSP uses these guidelines as a basis to identify minimum activities for MHPSS responses carried out across different sectors and presents key actions for planning and implementing those activities safely and effectively.",
+      "type": "safety",
+      "terms": [
+        "T086",
+        "T161",
+        "T163",
+        "T174",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing",
+        "unclear-english"
+      ],
+      "note": "The source phrase 'outlines key actions plan and implement' lacks a grammatical link; the draft interprets it as key actions for planning and implementing the activities safely and effectively."
+    },
+    {
+      "id": "FAQ-0029",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Does the MHPSS MSP replace the IASC 2007 MHPSS guidelines?",
+      "en": "▶ It also brings together and aligns with more recent resources, such as the key resources that were developed in response to the COVID-19 pandemic.",
+      "ne": "▶ यसले COVID-19 महामारीको प्रतिकार्यका लागि विकास गरिएका प्रमुख स्रोतसामग्रीजस्ता थप पछिल्ला स्रोतसामग्री पनि एकत्रित गर्छ र तिनीसँग सुसङ्गत रहन्छ।",
+      "bt": "▶ It also brings together and remains consistent with more recent resource materials, such as key resource materials developed for the response to the COVID-19 pandemic.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T416"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0030",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Does the MHPSS MSP replace the IASC 2007 MHPSS guidelines?",
+      "en": "▶ The MSP provides a one-stop resource on MHPSS across sectors which also links to up-to-date relevant guidance that is available for each activity (see sections on “Relevant guidelines, standards and tools” which are listed at the end of each MSP activity). In light of the rapid growth of the field of MHPSS since the publication of the 2007 IASC MHPSS guidelines, with a proliferation of diverse MHPSS activities across sectors, the MSP helps to provide a common language and an overarching framework for MHPSS across sectors/areas of work.",
+      "ne": "▶ MSP ले विभिन्न क्षेत्रका MHPSS सम्बन्धी जानकारी एकै स्थानमा उपलब्ध गराउने स्रोत प्रदान गर्छ र प्रत्येक गतिविधिका लागि उपलब्ध अद्यावधिक सान्दर्भिक मार्गदर्शनका लिङ्कसमेत दिन्छ (प्रत्येक MSP गतिविधिको अन्त्यमा दिइएका “सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण” सम्बन्धी खण्डहरू हेर्नुहोस्)। 2007 का IASC MHPSS निर्देशिकाहरू प्रकाशित भएदेखि MHPSS को क्षेत्र तीव्र रूपमा विस्तार भएको र विभिन्न क्षेत्रमा विविध MHPSS गतिविधिहरू बढेको सन्दर्भमा, MSP ले विभिन्न क्षेत्र/कार्यका क्षेत्रमा MHPSS का लागि साझा भाषा र समग्र रूपरेखा उपलब्ध गराउन मद्दत गर्छ।",
+      "bt": "▶ The MSP provides a resource that makes information related to MHPSS from different sectors available in one place and also provides links to available, up-to-date relevant guidance for each activity (see the sections on “Relevant guidelines, standards and tools” given at the end of each MSP activity). In the context of the rapid expansion of the field of MHPSS and the increase in diverse MHPSS activities across different sectors since the publication of the 2007 IASC MHPSS guidelines, the MSP helps provide a common language and an overall framework for MHPSS across different sectors/areas of work.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T019",
+        "T086",
+        "T158",
+        "T163",
+        "T296",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Ordinary cross-sector resource guidance; no new clinical terminology introduced."
+    },
+    {
+      "id": "FAQ-0031",
+      "page": "2",
+      "loc": "heading",
+      "section": "Does the MHPSS MSP replace the IASC 2007 MHPSS guidelines?",
+      "en": "Does the MSP explain in detail how to implement each activity?",
+      "ne": "के MSP ले प्रत्येक गतिविधि कसरी कार्यान्वयन गर्ने भन्नेबारे विस्तृत व्याख्या गर्छ?",
+      "bt": "Does the MSP explain in detail how to implement each activity?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0032",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Does the MSP explain in detail how to implement each activity?",
+      "en": "▶ No. The MSP provides a concise checklist outlining what to do to implement each MSP activity safely and effectively. However, it is not a detailed “how-to” guide to implementing activities.",
+      "ne": "▶ गर्दैन। प्रत्येक MSP गतिविधि सुरक्षित र प्रभावकारी रूपमा कार्यान्वयन गर्न के गर्ने भन्ने रूपरेखासहितको संक्षिप्त जाँचसूची MSP ले प्रदान गर्छ। तर यो गतिविधिहरू कार्यान्वयन गर्ने विस्तृत “कसरी गर्ने” निर्देशिका होइन।",
+      "bt": "▶ It does not. The MSP provides a brief checklist with an outline of what to do to implement each MSP activity safely and effectively. But it is not a detailed “how-to” guide for implementing the activities.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T121",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The source says the checklist outlines 'what to do'; the BT introduces 'what must be done'. Removed the added obligation while retaining safe and effective implementation."
+    },
+    {
+      "id": "FAQ-0033",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Does the MSP explain in detail how to implement each activity?",
+      "en": "▶ Where available, examples of manuals and curricula which provide detailed guidance on how to implement activities are provided in the “Relevant guidelines, standards and tools” section corresponding to each activity.",
+      "ne": "▶ उपलब्ध भएमा, गतिविधिहरू कसरी कार्यान्वयन गर्ने भन्नेबारे विस्तृत मार्गदर्शन दिने पुस्तिका र पाठ्यक्रमका उदाहरणहरू प्रत्येक गतिविधिसँग सम्बन्धित “सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण” खण्डमा दिइएका छन्।",
+      "bt": "▶ Where available, examples of manuals and curricula that provide detailed guidance on how to implement activities are given in the “Relevant guidelines, standards and tools” section associated with each activity.",
+      "type": "general",
+      "terms": [
+        "T019",
+        "T259",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Ordinary information about implementation resources; translated rather than protected."
+    },
+    {
+      "id": "FAQ-0034",
+      "page": "2",
+      "loc": "heading",
+      "section": "Does the MSP explain in detail how to implement each activity?",
+      "en": "Does my organization have to implement all the minimum activities?",
+      "ne": "के मेरो संस्थाले सबै न्यूनतम गतिविधिहरू कार्यान्वयन गर्नुपर्छ?",
+      "bt": "Does my organization have to implement all the minimum activities?",
+      "type": "general",
+      "terms": [
+        "T379"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0035",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Does my organization have to implement all the minimum activities?",
+      "en": "▶ MSP Sections 1 and 3: No single organization is expected to implement the entire MSP. Rather, relevant agencies must work together across sectors to ensure that all MSP activities are implemented. Depending on their mandate and capacities, some agencies will be better placed to implement certain activities than others. For ease of reference, icons are provided alongside each MSP activity to indicate which sectors or areas of responsibility are typically well placed to deliver it.",
+      "ne": "▶ MSP का खण्ड 1 र 3: कुनै एक संस्थाले सम्पूर्ण MSP कार्यान्वयन गर्ने अपेक्षा गरिएको छैन। बरु, सबै MSP गतिविधि कार्यान्वयन भएको सुनिश्चित गर्न सम्बन्धित निकायहरूले विभिन्न क्षेत्रबीच मिलेर काम गर्नुपर्छ। आफ्नो कार्यादेश र क्षमताका आधारमा केही निकायहरू अरू निकायको तुलनामा निश्चित गतिविधिहरू कार्यान्वयन गर्न बढी उपयुक्त स्थितिमा हुन्छन्। सन्दर्भ हेर्न सजिलो होस् भनेर, प्रत्येक MSP गतिविधि सामान्यतया कुन क्षेत्र वा जिम्मेवारीका क्षेत्रले सञ्चालन गर्न उपयुक्त हुन्छ भन्ने जनाउन त्यसको छेउमा चित्रचिह्नहरू दिइएका छन्।",
+      "bt": "▶ Sections 1 and 3 of the MSP: No single organization is expected to implement the entire MSP. Rather, the relevant agencies must work together across different sectors to ensure that all MSP activities are implemented. Based on their mandate and capacity, some agencies are better placed than other agencies to implement particular activities. For ease of reference, pictograms are provided beside each MSP activity to indicate which sector or area of responsibility is generally suited to carrying it out.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T150",
+        "T163",
+        "T296",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0036",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Does my organization have to implement all the minimum activities?",
+      "en": "▶ Section 2: This section contains essential activities that are relevant for all organizations implementing any kind of MHPSS activity (e.g. establishing systems for M&E and staff well-being).",
+      "ne": "▶ खण्ड 2: यस खण्डमा जुनसुकै प्रकारको MHPSS गतिविधि कार्यान्वयन गर्ने सबै संस्थाका लागि सान्दर्भिक अत्यावश्यक गतिविधिहरू समावेश छन् (जस्तै, M&E र कर्मचारीको कल्याणका लागि प्रणालीहरू स्थापना गर्ने)।",
+      "bt": "▶ Section 2: This section includes essential activities relevant to all organizations implementing any type of MHPSS activity (for example, establishing systems for M&E and staff well-being).",
+      "type": "general",
+      "terms": [
+        "T180",
+        "T328",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0037",
+      "page": "2",
+      "loc": "heading",
+      "section": "Does my organization have to implement all the minimum activities?",
+      "en": "Should MSP activities be implemented in any particular order?",
+      "ne": "के MSP गतिविधि कुनै निश्चित क्रममा कार्यान्वयन गर्नु उचित हुन्छ?",
+      "bt": "Is it advisable to implement MSP activities in a particular order?",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T379"
+      ],
+      "flags": [],
+      "note": "The source asks whether activities 'should' follow a particular order; the BT asks whether they 'have to'. Revised the question to express advisability rather than obligation."
+    },
+    {
+      "id": "FAQ-0038",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Should MSP activities be implemented in any particular order?",
+      "en": "▶ Typically, the first step in any MHPSS response is to establish a coordination group or to connect with an existing coordination group (see MSP activities 1.1 and 2.1). In collaboration with this group, MSP activities can be coordinated and prioritized.",
+      "ne": "▶ सामान्यतया, कुनै पनि MHPSS प्रतिकार्यको पहिलो कदम समन्वय समूह स्थापना गर्नु वा विद्यमान समन्वय समूहसँग सम्पर्क गर्नु हो (MSP गतिविधि 1.1 र 2.1 हेर्नुहोस्)। यस समूहसँगको सहकार्यमा MSP गतिविधिको समन्वय गर्न र प्राथमिकता निर्धारण गर्न सकिन्छ।",
+      "bt": "▶ Generally, the first step in any MHPSS response is to establish a coordination group or contact an existing coordination group (see MSP activities 1.1 and 2.1). MSP activities can be coordinated and prioritized in collaboration with this group.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T127",
+        "T161",
+        "T163",
+        "T174",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring terms 'coordination group' and 'response' are absent from G-0.1; proposals supplied without changing the glossary. The source allows connecting with an existing coordination group; the Nepali and BT narrow this to affiliation or joining. Revised to connecting without requiring membership."
+    },
+    {
+      "id": "FAQ-0039",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Should MSP activities be implemented in any particular order?",
+      "en": "▶ Needs assessments (see MSP activity 2.1) are also useful in determining what MHPSS activities are needed and how they can be adjusted to the context and complement existing services and activities (e.g. those provided by government actors).",
+      "ne": "▶ कुन MHPSS गतिविधिहरू आवश्यक छन् र तिनलाई सन्दर्भअनुसार कसरी समायोजन गर्न तथा विद्यमान सेवा र गतिविधिहरूको पूरक बनाउन सकिन्छ भन्ने निर्धारण गर्न आवश्यकताको लेखाजोखा पनि उपयोगी हुन्छ (MSP गतिविधि 2.1 हेर्नुहोस्)। विद्यमान सेवा र गतिविधिहरूमा, उदाहरणका लागि, सरकारी निकायहरूले प्रदान गर्ने सेवा र गतिविधिहरू पर्छन्।",
+      "bt": "▶ A needs assessment is also useful for determining which MHPSS activities are needed and how they can be adapted to the context and made to complement existing services and activities (see MSP activity 2.1). Existing services and activities include, for example, services and activities provided by government agencies.",
+      "type": "general",
+      "terms": [
+        "T068",
+        "T091",
+        "T158",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The source reference to activity 2.1 is retained exactly."
+    },
+    {
+      "id": "FAQ-0040",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Should MSP activities be implemented in any particular order?",
+      "en": "▶ The MSP does not prescribe a set order for activities in sections 2 or 3. The prioritization and sequence of activities can be informed by coordination (see MSP activities 1.1 and 2.1) and needs assessments (see MSP activity 2.1).",
+      "ne": "▶ MSP ले खण्ड 2 वा 3 का गतिविधिहरूका लागि कुनै निश्चित क्रम तोक्दैन। समन्वय (MSP गतिविधि 1.1 र 2.1 हेर्नुहोस्) र आवश्यकताको लेखाजोखा (MSP गतिविधि 2.1 हेर्नुहोस्) ले गतिविधिहरूको प्राथमिकता र क्रम निर्धारणमा सहयोग पुर्‍याउन सक्छन्।",
+      "bt": "▶ The MSP does not prescribe any particular order for the activities in section 2 or 3. Coordination (see MSP activities 1.1 and 2.1) and assessment of needs (see MSP activity 2.1) can help determine the priority and order of activities.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T068",
+        "T163",
+        "T349",
+        "T422"
+      ],
+      "flags": [],
+      "note": "All source activity references are retained without correction. The source says coordination and needs assessments can inform prioritization and sequencing; the BT makes them the basis on which these are determined. Revised to preserve their contributing rather than determining role."
+    },
+    {
+      "id": "FAQ-0041",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Should MSP activities be implemented in any particular order?",
+      "en": "▶ The step-by-step guides for organizations and coordination groups provide a flowchart showing how to use the MSP.",
+      "ne": "▶ संस्था र समन्वय समूहका लागि तयार गरिएका चरणबद्ध मार्गदर्शिकाहरूमा MSP कसरी प्रयोग गर्ने भन्ने देखाउने प्रवाहचित्र दिइएको छ।",
+      "bt": "▶ The step-by-step guides prepared for organizations and coordination groups include a flowchart showing how to use the MSP.",
+      "type": "general",
+      "terms": [
+        "T127",
+        "T144",
+        "T163",
+        "T183",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring term 'coordination group' is absent from G-0.1; proposed wording is supplied separately."
+    },
+    {
+      "id": "FAQ-0042",
+      "page": "2",
+      "loc": "para",
+      "section": "Should MSP activities be implemented in any particular order?",
+      "en": "Must MSP activities be implemented within a set timeframe?",
+      "ne": "के MSP गतिविधि निश्चित समयसीमाभित्र कार्यान्वयन गर्नैपर्छ?",
+      "bt": "Must MSP activities be implemented within a specific timeframe?",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0043",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Should MSP activities be implemented in any particular order?",
+      "en": "▶ Activities should be implemented as soon as possible after the onset of an emergency (if they are not already available in the affected community).",
+      "ne": "▶ आपत्कालीन अवस्था सुरु भएपछि सकेसम्म चाँडो गतिविधिहरू कार्यान्वयन गर्नु उचित हुन्छ (यदि ती प्रभावित समुदायमा पहिलेदेखि नै उपलब्ध छैनन् भने)।",
+      "bt": "▶ It is advisable to implement the activities as soon as possible after the emergency begins (if they are not already available in the affected community).",
+      "type": "general",
+      "terms": [
+        "T344",
+        "T379"
+      ],
+      "flags": [],
+      "note": "The source says activities 'should' be implemented; the BT strengthens this to 'must'. Revised the modality while retaining urgency and the existing-availability condition."
+    },
+    {
+      "id": "FAQ-0044",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Should MSP activities be implemented in any particular order?",
+      "en": "▶ MSP activities can typically be initiated and implemented within a 12-month timeframe, but most activities will need to continue well beyond that.",
+      "ne": "▶ सामान्यतया, MSP गतिविधि 12 महिनाको समयसीमाभित्र सुरु र कार्यान्वयन गर्न सकिन्छ, तर अधिकांश गतिविधिहरू त्यस अवधिभन्दा धेरै पछिसम्म जारी राख्नुपर्ने हुन्छ।",
+      "bt": "▶ Generally, MSP activities can be started and implemented within a timeframe of 12 months, but most activities will need to be continued until long after that period.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0045",
+      "page": "2",
+      "loc": "bullet",
+      "section": "Should MSP activities be implemented in any particular order?",
+      "en": "▶ The additional actions under each activity should be reviewed in each context to determine their level of priority and feasibility, based on local needs and available resources.",
+      "ne": "▶ स्थानीय आवश्यकता र उपलब्ध स्रोतका आधारमा प्रत्येक गतिविधिअन्तर्गतका थप कार्यहरूको प्राथमिकताको स्तर र सम्भाव्यता निर्धारण गर्न हरेक सन्दर्भमा तिनको समीक्षा गर्नु उचित हुन्छ।",
+      "bt": "▶ It is advisable to review the additional actions under each activity in every context to determine their priority level and feasibility based on local needs and available resources.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The source says additional actions 'should' be reviewed; the BT says they 'must' be reviewed. Revised to a recommendation without changing the review criteria or contextual scope."
+    },
+    {
+      "id": "FAQ-0046",
+      "page": "3",
+      "loc": "heading",
+      "section": "Should MSP activities be implemented in any particular order?",
+      "en": "Is the MSP suitable for all kinds of emergencies?",
+      "ne": "के MSP सबै प्रकारका आपत्कालीन अवस्थाका लागि उपयुक्त छ?",
+      "bt": "Is the MSP suitable for all types of emergencies?",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0047",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP suitable for all kinds of emergencies?",
+      "en": "▶ Yes. The MSP is designed for all types of humanitarian emergencies, including:",
+      "ne": "▶ छ। MSP निम्नलगायत सबै प्रकारका मानवीय आपत्कालीन अवस्थाका लागि तयार गरिएको हो।",
+      "bt": "▶ Yes. The MSP has been prepared for all types of humanitarian emergencies, including the following.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring term 'humanitarian emergency' is absent from G-0.1; proposed wording is supplied separately."
+    },
+    {
+      "id": "FAQ-0048",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP suitable for all kinds of emergencies?",
+      "en": "• sudden-onset natural disasters such as earthquakes and hurricanes;",
+      "ne": "• भूकम्प र हरिकेनजस्ता अचानक सुरु हुने प्राकृतिक विपद्हरू।",
+      "bt": "• Sudden-onset natural disasters such as earthquakes and hurricanes.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0049",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP suitable for all kinds of emergencies?",
+      "en": "• protracted crises such long-term conflicts;",
+      "ne": "• दीर्घकालीन द्वन्द्वजस्ता लामो समयसम्म चल्ने सङ्कटहरू।",
+      "bt": "• Crises that last for a long time, such as long-term conflict.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0050",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP suitable for all kinds of emergencies?",
+      "en": "• public health emergencies e.g. infectious disease outbreaks.",
+      "ne": "• सार्वजनिक स्वास्थ्यसम्बन्धी आपत्कालीन अवस्थाहरू, जस्तै सरुवा रोगको प्रकोपहरू।",
+      "bt": "• Public health emergencies, such as outbreaks of communicable diseases.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T131",
+        "T383"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen candidate 'सरुवा रोगको प्रकोप' denotes communicable-disease outbreaks, whereas the source specifies infectious-disease outbreaks; those categories are not necessarily coextensive. bt-divergence: the frozen form सरुवा रोगको प्रकोप denotes a communicable-disease outbreak, whereas the source specifies infectious-disease outbreaks. Infectious diseases are not necessarily communicable. The frozen form is retained."
+    },
+    {
+      "id": "FAQ-0051",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP suitable for all kinds of emergencies?",
+      "en": "▶ The MSP was developed to support humanitarian emergencies that require a coordinated international response (e.g. where the humanitarian cluster system has been activated, or in a large refugee crisis). Nonetheless, the MSP can also be adapted and to inform the response in smaller emergencies that do not involve international actors.",
+      "ne": "▶ समन्वित अन्तर्राष्ट्रिय प्रतिकार्य आवश्यक पर्ने मानवीय आपत्कालीन अवस्थाहरूमा सहयोग पुर्‍याउन MSP विकास गरिएको थियो (जस्तै, मानवीय क्लस्टर प्रणाली सक्रिय गरिएको अवस्थामा वा ठूलो शरणार्थी सङ्कटमा)। तैपनि, MSP लाई अनुकूलन गर्न र अन्तर्राष्ट्रिय सम्बद्ध पक्षहरू संलग्न नभएका साना आपत्कालीन अवस्थाहरूमा प्रतिकार्यलाई दिशा दिन पनि प्रयोग गर्न सकिन्छ।",
+      "bt": "▶ The MSP was developed to provide support in humanitarian emergencies requiring a coordinated international response (for example, when the humanitarian cluster system has been activated or in a large refugee crisis). Nevertheless, the MSP can also be adapted and used to guide the response in smaller emergencies in which international stakeholders are not involved.",
+      "type": "safety",
+      "terms": [
+        "T114",
+        "T123",
+        "T131",
+        "T163",
+        "T174",
+        "T377"
+      ],
+      "flags": [
+        "glossary-missing",
+        "unclear-english"
+      ],
+      "note": "The source phrase 'can also be adapted and to inform' is grammatically incomplete; the draft preserves adaptation and informing smaller-emergency responses as two possible functions rather than making one the purpose of the other."
+    },
+    {
+      "id": "FAQ-0052",
+      "page": "3",
+      "loc": "heading",
+      "section": "Is the MSP suitable for all kinds of emergencies?",
+      "en": "Is the MSP prescriptive?",
+      "ne": "के MSP ले के गर्नुपर्छ भनेर तोक्छ?",
+      "bt": "Does the MSP prescribe what must be done?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0053",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP prescriptive?",
+      "en": "▶ The MSP identifies activities that should, in principle, be available and accessible to people in all emergencies. However, it does not prescribe which specific programme materials (e.g. training manuals) should be used to implement each activity.",
+      "ne": "▶ MSP ले सैद्धान्तिक रूपमा सबै आपत्कालीन अवस्थामा मानिसहरूका लागि उपलब्ध र पहुँचयोग्य हुनुपर्ने गतिविधिहरू पहिचान गर्छ। तर प्रत्येक गतिविधि कार्यान्वयन गर्न कुन विशिष्ट कार्यक्रम सामग्री (जस्तै, तालिम पुस्तिका) प्रयोग गर्नु उचित हुन्छ भनेर तोक्दैन।",
+      "bt": "▶ The MSP identifies activities that, in principle, should be available and accessible to people in all emergencies. But it does not specify which particular programme materials (such as training manuals) it is advisable to use to implement each activity.",
+      "type": "general",
+      "terms": [
+        "T078",
+        "T131",
+        "T163",
+        "T259",
+        "T409"
+      ],
+      "flags": [],
+      "note": "In the second sentence, the source denies prescribing which materials 'should' be used; the BT instead denies prescribing which materials 'must' be used. Revised that clause to retain the source's recommendation-level scope."
+    },
+    {
+      "id": "FAQ-0054",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP prescriptive?",
+      "en": "▶ The MSP points users towards a range of guidelines, standards and tools, and provides recommendations on training topics for staff implementing particular activities.",
+      "ne": "▶ MSP ले प्रयोगकर्ताहरूलाई विभिन्न निर्देशिकाहरू, मापदण्डहरू र उपकरणहरूतर्फ निर्देशित गर्छ र निश्चित गतिविधिहरू कार्यान्वयन गर्ने कर्मचारीका लागि तालिमका विषयहरू सिफारिस गर्छ।",
+      "bt": "▶ The MSP directs users to various guidelines, standards and tools and recommends training topics for staff implementing specific activities.",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087",
+        "T088",
+        "T163"
+      ],
+      "flags": [],
+      "note": "Ordinary guidance about reference materials and training topics; no clinical content requiring protection. The source says the MSP points users towards resources; the BT only says it informs users about them. Revised to retain the directing-to-resources function."
+    },
+    {
+      "id": "FAQ-0055",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP prescriptive?",
+      "en": "▶ However, the specific programme content will vary according to the needs in each specific emergency context, and materials must be developed or adapted using participatory methods to improve their appropriateness and relevance to the needs of the affected population (see key consideration on Contextualization).",
+      "ne": "▶ तर कार्यक्रमको विशिष्ट विषयवस्तु प्रत्येक आपत्कालीन अवस्थाको विशिष्ट सन्दर्भमा रहेका आवश्यकताअनुसार फरक हुन्छ। प्रभावित जनसङ्ख्याका आवश्यकतासँग सामग्रीको उपयुक्तता र सान्दर्भिकता बढाउन सहभागितामूलक विधि प्रयोग गरी सामग्री विकास वा अनुकूलन गर्नुपर्छ (सन्दर्भअनुकूलनसम्बन्धी मुख्य विचारणीय पक्ष हेर्नुहोस्)।",
+      "bt": "▶ But the specific content of the programme varies according to the needs in the specific context of each emergency. Materials must be developed or adapted using participatory methods to increase their suitability and relevance to the needs of the affected population (see the key considerations on contextual adaptation).",
+      "type": "general",
+      "terms": [
+        "T252",
+        "T348",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0056",
+      "page": "3",
+      "loc": "heading",
+      "section": "Is the MSP prescriptive?",
+      "en": "Is the MSP only for international organizations?",
+      "ne": "के MSP अन्तर्राष्ट्रिय संस्थाहरूका लागि मात्र हो?",
+      "bt": "Is the MSP only for international organizations?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0057",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP only for international organizations?",
+      "en": "▶ No. The MHPSS MSP is a resource for all humanitarian actors who plan, support, coordinate, implement and/or evaluate humanitarian activities. This includes government agencies, MHPSS Technical Working Groups (TWGs), national and international non-governmental organizations (NGOs), civil society and advocacy groups, Red Cross and Red Crescent networks, UN agencies, coordinators of sectors/clusters/AoRs and donors.",
+      "ne": "▶ होइन। मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) MSP मानवीय गतिविधिहरूको योजना बनाउने, तिनलाई सहयोग गर्ने, समन्वय गर्ने, कार्यान्वयन गर्ने र/वा मूल्याङ्कन गर्ने सबै मानवीय कार्यमा संलग्न पक्षहरूका लागि स्रोतसामग्री हो। यसमा सरकारी निकाय, MHPSS प्राविधिक कार्यसमूह (TWGs), राष्ट्रिय तथा अन्तर्राष्ट्रिय गैरसरकारी संस्थाहरू (NGOs), नागरिक समाज तथा पैरवी समूह, Red Cross तथा Red Crescent सञ्जाल, UN निकाय, क्षेत्र/क्लस्टर/AoRs का संयोजक र दातृ निकाय समावेश छन्।",
+      "bt": "▶ No. The Mental Health and Psychosocial Support (MHPSS) MSP is a resource for all actors involved in humanitarian work who plan, support, coordinate, implement and/or evaluate humanitarian activities. These include government bodies, MHPSS technical working groups (TWGs), national and international non-governmental organizations (NGOs), civil society and advocacy groups, Red Cross and Red Crescent networks, UN agencies, sector/cluster/AoR coordinators and donor agencies.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T050",
+        "T048",
+        "T035",
+        "T023",
+        "T123",
+        "T124",
+        "T147",
+        "T163",
+        "T191",
+        "T249",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The MHPSS expansion reuses the cited unreviewed candidate T001. A glossary entry is proposed for the recurring term humanitarian actors; the frozen glossary is unchanged."
+    },
+    {
+      "id": "FAQ-0058",
+      "page": "3",
+      "loc": "heading",
+      "section": "Is the MSP only for international organizations?",
+      "en": "Where does psychological first aid (PFA) fit within the MSP?",
+      "ne": "MSP मा [psychological first aid] (PFA) को स्थान कहाँ छ?",
+      "bt": "Where is the place of [psychological first aid] (PFA) in the MSP?",
+      "type": "safety",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": "The named intervention remains in exact source English, and PFA is retained."
+    },
+    {
+      "id": "FAQ-0059",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Where does psychological first aid (PFA) fit within the MSP?",
+      "en": "▶ The MSP uses the broader term “basic psychosocial support” to cover a range of similar orientation packages, including PFA and other packages such as the Basic Psychosocial Skills for COVID-19 Responders package and the WHO LIVES approach for providers working with survivors of GBV. These packages all cover basic psychosocial support skills and are described in MSP activity 3.2.",
+      "ne": "▶ MSP ले PFA, [Basic Psychosocial Skills for COVID-19 Responders] प्याकेज र GBV का प्रभावित व्यक्तिहरूसँग काम गर्ने सेवा प्रदायकहरूका लागि [WHO LIVES approach] जस्ता समान प्रकृतिका विभिन्न अभिमुखीकरण प्याकेजहरूलाई समेट्न “आधारभूत मनोसामाजिक सहयोग” भन्ने व्यापक शब्दावली प्रयोग गर्छ। यी सबै प्याकेजहरूले आधारभूत मनोसामाजिक सहयोग सीप समेट्छन् र तिनको विवरण MSP गतिविधि 3.2 मा दिइएको छ।",
+      "bt": "▶ MSP uses the broad term “basic psychosocial support” to cover various orientation packages of a similar nature, such as PFA, the [Basic Psychosocial Skills for COVID-19 Responders] package and the [WHO LIVES approach] for service providers working with people affected by GBV. All these packages include basic psychosocial support skills, and their descriptions are given in MSP activity 3.2.",
+      "type": "safety",
+      "terms": [
+        "T014",
+        "T091",
+        "T163",
+        "T196",
+        "T284",
+        "T317",
+        "T410",
+        "T454"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor label 'प्रभावित व्यक्तिहरू' means affected people and can include indirectly affected people, whereas the source specifies people who directly experienced and survived GBV; the intended source population remains survivors of GBV. The provider population applies to the WHO LIVES approach, not to the COVID-19 responder package. The original Nepali places the provider qualifier before both named packages, allowing it to modify both; the source applies it only to the WHO LIVES approach. The repair attaches it to that approach alone. bt-divergence remains: frozen प्रभावित व्यक्तिहरू means affected people and can include indirectly affected people, while survivors of GBV specifies people who directly experienced and survived GBV. The frozen label is retained. “People affected by GBV” is broader than “survivors of GBV” and can include indirectly affected people; the English specifies survivors as the population served by providers using WHO LIVES."
+    },
+    {
+      "id": "FAQ-0060",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Where does psychological first aid (PFA) fit within the MSP?",
+      "en": "▶ Activity 3.2 also outlines relevant considerations for health care settings and different protection services, and a list of additional potentially relevant training topics for frontline workers and community leaders.",
+      "ne": "▶ गतिविधि 3.2 मा स्वास्थ्य सेवा प्रदान गरिने स्थानहरू र विभिन्न संरक्षण सेवाका लागि सान्दर्भिक विचारणीय पक्षहरूका साथै अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवाका लागि सम्भावित रूपमा सान्दर्भिक थप तालिमका विषयहरू पनि उल्लेख गरिएका छन्।",
+      "bt": "▶ Activity 3.2 also mentions considerations relevant to locations where health services are provided and to various protection services, as well as additional training topics potentially relevant to frontline workers and community leaders.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T029",
+        "T013",
+        "T069",
+        "T088"
+      ],
+      "flags": [],
+      "note": "This row concerns service settings and training topics, not clinical procedures; it is translated as ordinary programme guidance."
+    },
+    {
+      "id": "FAQ-0061",
+      "page": "3",
+      "loc": "heading",
+      "section": "Where does psychological first aid (PFA) fit within the MSP?",
+      "en": "Is the MSP only for short-term emergency programming?",
+      "ne": "के MSP अल्पकालीन आपत्कालीन कार्यक्रम सञ्चालनका लागि मात्र हो?",
+      "bt": "Is the MSP only for running short-term emergency programmes?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0062",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP only for short-term emergency programming?",
+      "en": "▶ No. While the MSP focuses on emergency response programming, it incorporates planning for longer-term recovery.",
+      "ne": "▶ होइन। MSP ले आपत्कालीन प्रतिकार्यका कार्यक्रम सञ्चालनमा ध्यान केन्द्रित गरे पनि यसमा अझ लामो अवधिको पुनःस्थापनाका लागि योजना बनाउने कार्य समावेश छ।",
+      "bt": "▶ No. Although MSP focuses on running emergency response programmes, it includes planning for longer-term rehabilitation.",
+      "type": "general",
+      "terms": [
+        "T132",
+        "T163",
+        "T174"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The source says longer-term recovery, whereas the translation and back-translation say long-term recovery without the comparative. The back-translation replaces longer-term recovery with longer-term rehabilitation, narrowing the scope of recovery."
+    },
+    {
+      "id": "FAQ-0063",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP only for short-term emergency programming?",
+      "en": "▶ Emergency response activities will be more effective and sustainable if they are grounded in building or rebuilding local systems of care (including both government systems and civil society).",
+      "ne": "▶ आपत्कालीन प्रतिकार्यका गतिविधिहरू स्थानीय हेरचाह प्रणालीहरू निर्माण वा पुनर्निर्माण गर्ने आधारमा सञ्चालन गरिएमा अझ प्रभावकारी र दिगो हुनेछन्। यी प्रणालीहरूमा सरकारी प्रणाली र नागरिक समाज दुवै समावेश छन्।",
+      "bt": "▶ Emergency response activities will be more effective and sustainable if they are carried out on the basis of building or rebuilding local care systems. These systems include both government systems and civil society.",
+      "type": "general",
+      "terms": [
+        "T035",
+        "T132",
+        "T174"
+      ],
+      "flags": [],
+      "note": "Recovery and systems of care are used in their general programme sense, without introducing clinical terminology."
+    },
+    {
+      "id": "FAQ-0064",
+      "page": "3",
+      "loc": "bullet",
+      "section": "Is the MSP only for short-term emergency programming?",
+      "en": "▶ Many activities and actions in the MSP are also relevant and can be adapted for longer-term programming. Each MSP activity is accompanied by a list of ‘’additional actions for consideration’’, many of which are focused on longer-term capacity building and planning.",
+      "ne": "▶ MSP का धेरै गतिविधि र कार्यहरू अझ लामो अवधिको कार्यक्रम सञ्चालनका लागि पनि सान्दर्भिक छन् र तिनलाई सो प्रयोजनका लागि अनुकूलन गर्न सकिन्छ। प्रत्येक MSP गतिविधिसँगै ‘विचार गर्न सकिने थप कार्यहरू’ को सूची दिइएको छ, जसमध्ये धेरै कार्यहरू अझ लामो अवधिको क्षमता विकास र योजना निर्माणमा केन्द्रित छन्।",
+      "bt": "▶ Many MSP activities and actions are also relevant for running longer-term programmes and can be adapted for that purpose. Each MSP activity is accompanied by a list of ‘additional actions that can be considered’, many of which focus on longer-term capacity development and planning.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T201"
+      ],
+      "flags": [],
+      "note": "Both occurrences of longer-term became long-term, losing the source's comparative time horizon."
+    },
+    {
+      "id": "FAQ-0065",
+      "page": "4",
+      "loc": "heading",
+      "section": "Is the MSP only for short-term emergency programming?",
+      "en": "Does the MSP consider remote programme implementation, for example, in public health emergencies?",
+      "ne": "के MSP ले, उदाहरणका लागि जनस्वास्थ्य आपत्कालमा, कार्यक्रम दूरबाट कार्यान्वयन गर्ने विषयलाई विचार गर्छ?",
+      "bt": "Does the MSP consider implementing programmes remotely, for example in a public health emergency?",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T173",
+        "T380",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary entries are proposed for remote programme implementation and public health emergency; neither is added to the frozen glossary."
+    },
+    {
+      "id": "FAQ-0066",
+      "page": "4",
+      "loc": "bullet",
+      "section": "Does the MSP consider remote programme implementation, for example, in public health emergencies?",
+      "en": "▶ Remote programme implementation is sometimes required where there is a risk of spreading infectious diseases, where security risks make travel or in-person programming too dangerous, and where remote services facilitate access to populations that may otherwise be difficult to reach.",
+      "ne": "▶ सङ्क्रामक रोगहरू फैलिने जोखिम भएका अवस्थामा, सुरक्षासम्बन्धी जोखिमले यात्रा गर्न वा प्रत्यक्ष उपस्थितिमा कार्यक्रम सञ्चालन गर्न नमिल्ने गरी खतरनाक बनाएका अवस्थामा, र अन्यथा पुग्न कठिन हुन सक्ने जनसमूहसम्म पहुँच पुर्‍याउन दूरबाट प्रदान गरिने सेवाले सहज बनाउने अवस्थामा कहिलेकाहीँ कार्यक्रम दूरबाट कार्यान्वयन गर्न आवश्यक हुन्छ।",
+      "bt": "▶ It is sometimes necessary to implement programmes remotely in situations where there is a risk of infectious diseases spreading, where security risks make travel or running programmes in person too dangerous to be possible, and where remotely provided services make it easier to reach population groups that might otherwise be difficult to reach.",
+      "type": "safety",
+      "terms": [
+        "T380",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "General safety guidance drafted for review; safety review remains pending. The three circumstances requiring remote implementation and their conditional scope are retained. The proposed remote programme implementation terminology is not a frozen glossary entry. Too dangerous became extremely dangerous, replacing a safety threshold for travel or in-person programming with a description of intensity. The repair restores that threshold while retaining sometimes required and all three circumstances. The back-translation adds that travel or in-person programming is too dangerous to be possible, introducing impossibility beyond the source's safety threshold of too dangerous."
+    },
+    {
+      "id": "FAQ-0067",
+      "page": "4",
+      "loc": "bullet",
+      "section": "Does the MSP consider remote programme implementation, for example, in public health emergencies?",
+      "en": "▶ The key consideration on implementing MHPSS activities remotely provides information and a list of relevant guidelines on remote MHPSS programme implementation",
+      "ne": "▶ MHPSS गतिविधिहरू दूरबाट कार्यान्वयन गर्ने सम्बन्धी मुख्य विचारणीय पक्षमा MHPSS कार्यक्रम दूरबाट कार्यान्वयन गर्ने बारे जानकारी र सान्दर्भिक निर्देशिकाहरूको सूची दिइएको छ।",
+      "bt": "▶ The key considerations concerning implementing MHPSS activities remotely provide information about implementing MHPSS programmes remotely and a list of relevant guidelines.",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T158",
+        "T160",
+        "T252",
+        "T380",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary entries are proposed for remote programme implementation and key considerations. The wording describes a programme guidance section, not a clinical intervention."
+    },
+    {
+      "id": "FAQ-0068",
+      "page": "4",
+      "loc": "bullet",
+      "section": "Does the MSP consider remote programme implementation, for example, in public health emergencies?",
+      "en": "▶ The MSP also includes dedicated guidance for its use in the public health emergency (PHE) response to infectious disease outbreaks, which outlines:",
+      "ne": "▶ MSP मा सङ्क्रामक रोगको प्रकोपका बेला जनस्वास्थ्य आपत्काल (PHE) प्रतिकार्यमा यसको प्रयोगका लागि छुट्टै मार्गदर्शन पनि समावेश छ, जसमा निम्न विषयहरू उल्लेख छन्:",
+      "bt": "▶ The MSP also includes separate guidance for its use in public health emergency (PHE) response during infectious disease outbreaks, which mentions the following topics:",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T170",
+        "T174"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "PHE is preserved. A glossary entry is proposed for public health emergency. The introductory colon is retained to connect the following three list items."
+    },
+    {
+      "id": "FAQ-0069",
+      "page": "4",
+      "loc": "bullet",
+      "section": "Does the MSP consider remote programme implementation, for example, in public health emergencies?",
+      "en": "• MSP activities and actions specific to the public health emergency response to infectious disease outbreaks;",
+      "ne": "• सङ्क्रामक रोगको प्रकोपप्रतिको जनस्वास्थ्य आपत्काल प्रतिकार्यका लागि विशिष्ट MSP गतिविधि र कार्यहरू;",
+      "bt": "• Specific MSP activities and actions for the public health emergency response to an infectious disease outbreak;",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T170",
+        "T174"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Uses the proposed wording for public health emergency; the frozen glossary is unchanged. Specific to became specifically designated, adding formal designation not stated in the source. During outbreaks also weakened the explicit relationship of response to outbreaks. The back-translation changes infectious disease outbreaks to an infectious disease outbreak and describes specific activities for the response rather than activities specific to that response."
+    },
+    {
+      "id": "FAQ-0070",
+      "page": "4",
+      "loc": "bullet",
+      "section": "Does the MSP consider remote programme implementation, for example, in public health emergencies?",
+      "en": "• Guidance for adapting MSP activities during infectious disease outbreaks;",
+      "ne": "• सङ्क्रामक रोगको प्रकोपका बेला MSP गतिविधि अनुकूलन गर्नका लागि मार्गदर्शन।",
+      "bt": "• Guidance for adapting MSP activities during infectious disease outbreaks.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0071",
+      "page": "4",
+      "loc": "bullet",
+      "section": "Does the MSP consider remote programme implementation, for example, in public health emergencies?",
+      "en": "• Relevant guidelines, standards and tools to support the implementation of the MSP in the context of infectious disease outbreaks.",
+      "ne": "• सङ्क्रामक रोगको प्रकोपको सन्दर्भमा MSP कार्यान्वयनमा सहयोग गर्न सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण।",
+      "bt": "• Relevant guidelines, standards and tools to support MSP implementation in the context of an infectious disease outbreak.",
+      "type": "general",
+      "terms": [
+        "T019",
+        "T163",
+        "T380"
+      ],
+      "flags": [],
+      "note": "This is an ordinary resource-list item, not a validated instrument item; the provisional check classification is revised to general."
+    },
+    {
+      "id": "FAQ-0072",
+      "page": "4",
+      "loc": "heading",
+      "section": "Does the MSP consider remote programme implementation, for example, in public health emergencies?",
+      "en": "Does the MSP consider age, gender, disability and groups with specific needs?",
+      "ne": "के MSP ले उमेर, लैङ्गिकता, अपाङ्गता र विशिष्ट आवश्यकता भएका समूहहरूलाई ध्यानमा राख्छ?",
+      "bt": "Does the MSP take into account age, gender, disability and groups with specific needs?",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T233"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0073",
+      "page": "4",
+      "loc": "bullet",
+      "section": "Does the MSP consider age, gender, disability and groups with specific needs?",
+      "en": "▶ Yes. Experts in age, gender, and diversity mainstreaming provided input throughout the development process.",
+      "ne": "▶ हो। उमेर, लैङ्गिकता र विविधतालाई मूलप्रवाहीकरण गर्ने विषयका विशेषज्ञहरूले विकास प्रक्रियाभरि सुझाव दिएका थिए।",
+      "bt": "▶ Yes. Experts on mainstreaming age, gender and diversity provided suggestions throughout the development process.",
+      "type": "general",
+      "terms": [
+        "T233"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0074",
+      "page": "4",
+      "loc": "bullet",
+      "section": "Does the MSP consider age, gender, disability and groups with specific needs?",
+      "en": "▶ The overall structure of the MSP does not single out specific subgroups, as the same core MHPSS activities should be provided for all groups. However, specific considerations and adaptations may be required to meet the needs of some individuals and groups. Many of these are described in key considerations throughout the MSP, and additional information about existing guidance is also provided in Resources on MHPSS for at-risk groups.",
+      "ne": "▶ MSP को समग्र संरचनाले कुनै विशिष्ट उपसमूहलाई अलग्गै छुट्याएको छैन, किनकि सबै समूहलाई उही आधारभूत MHPSS गतिविधिहरू उपलब्ध गराइनुपर्छ। तथापि, केही व्यक्ति र समूहका आवश्यकता पूरा गर्न विशेष विचारणीय पक्षहरू र अनुकूलन आवश्यक हुन सक्छन्। यीमध्ये धेरैको वर्णन MSP का विभिन्न भागमा रहेका मुख्य विचारणीय पक्षहरूमा गरिएको छ। विद्यमान मार्गदर्शनबारे थप जानकारी ‘जोखिममा रहेका समूहका लागि MHPSS सम्बन्धी स्रोतसामग्री’ मा पनि दिइएको छ।",
+      "bt": "▶ The overall structure of the MSP does not single out any specific subgroup separately, because the same basic MHPSS activities should be made available to all groups. However, special considerations and adaptations may be needed to meet the needs of some individuals and groups. Many of these are described in the key considerations in various parts of the MSP. Further information about existing guidance is also provided in ‘MHPSS resources for groups at risk’.",
+      "type": "general",
+      "terms": [
+        "T154",
+        "T158",
+        "T163",
+        "T252",
+        "T334",
+        "T416",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "A glossary entry is proposed for key considerations. The resource heading is translated descriptively; this does not claim an approved Nepali publication title."
+    },
+    {
+      "id": "FAQ-0075",
+      "page": "4",
+      "loc": "heading",
+      "section": "Does the MSP consider age, gender, disability and groups with specific needs?",
+      "en": "How can the MSP support coordination between actors across different sectors?",
+      "ne": "विभिन्न क्षेत्रका मानवीय कार्यमा संलग्न पक्षहरूबीच समन्वय गर्न MSP ले कसरी सहयोग गर्न सक्छ?",
+      "bt": "How can the MSP help coordinate among actors involved in humanitarian work in different sectors?",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T296",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Actors is interpreted in the established humanitarian context. Uses the proposed wording for humanitarian actors without changing the glossary."
+    },
+    {
+      "id": "FAQ-0076",
+      "page": "4",
+      "loc": "bullet",
+      "section": "How can the MSP support coordination between actors across different sectors?",
+      "en": "▶ In defining a common set of minimum activities, the MSP provides a shared language and framework to help diverse actors communicate and collaborate on MHPSS.",
+      "ne": "▶ न्यूनतम गतिविधिहरूको साझा समूह परिभाषित गरेर MSP ले विभिन्न मानवीय कार्यमा संलग्न पक्षहरूलाई MHPSS सम्बन्धमा संवाद र सहकार्य गर्न सघाउने साझा भाषा र रूपरेखा प्रदान गर्छ।",
+      "bt": "▶ By defining a shared set of minimum activities, the MSP provides a common language and framework that help different actors involved in humanitarian work to communicate and collaborate on MHPSS.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for humanitarian actors. The common minimum set, shared language, framework, communication and collaboration are retained."
+    },
+    {
+      "id": "FAQ-0077",
+      "page": "4",
+      "loc": "bullet",
+      "section": "How can the MSP support coordination between actors across different sectors?",
+      "en": "▶ The MSP highlights which sectors/areas of work are typically well-placed to deliver and contribute to each activity. This can help to clarify the complementary roles of actors with expertise in different areas.",
+      "ne": "▶ प्रत्येक गतिविधि उपलब्ध गराउन र त्यसमा योगदान दिन सामान्यतया कुन क्षेत्र वा कार्यक्षेत्र उपयुक्त स्थितिमा हुन्छन् भन्ने कुरा MSP ले स्पष्ट पार्छ। यसले विभिन्न क्षेत्रमा विशेषज्ञता भएका पक्षहरूका एकअर्कालाई पूरक हुने भूमिका स्पष्ट गर्न मद्दत गर्न सक्छ।",
+      "bt": "▶ The MSP clarifies which sectors or areas of work are generally well placed to provide and contribute to each activity. This can help clarify the mutually complementary roles of actors with expertise in different sectors.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0078",
+      "page": "4",
+      "loc": "bullet",
+      "section": "How can the MSP support coordination between actors across different sectors?",
+      "en": "▶ Activity 1.1 lists actions to facilitate inter-agency coordination among relevant actors, including both national actors (e.g. community-based organizations, government) and international actors (e.g. INGOs, UN agencies).",
+      "ne": "▶ गतिविधि 1.1 मा सान्दर्भिक पक्षहरूबीच अन्तरनिकाय समन्वय सहज बनाउनका लागि कार्यहरूको सूची दिइएको छ। यसमा राष्ट्रिय पक्षहरू (जस्तै, समुदायमा आधारित संस्थाहरू, सरकार) र अन्तर्राष्ट्रिय पक्षहरू (जस्तै, INGOs, UN निकाय) दुवै समावेश छन्।",
+      "bt": "▶ Activity 1.1 provides a list of actions to facilitate inter-agency coordination among relevant actors. These include both national actors (such as community-based organizations and government) and international actors (such as INGOs and UN agencies).",
+      "type": "general",
+      "terms": [
+        "T152",
+        "T344",
+        "T349"
+      ],
+      "flags": [],
+      "note": "Activity code 1.1 and the source acronyms INGOs and UN are preserved."
+    },
+    {
+      "id": "FAQ-0079",
+      "page": "4",
+      "loc": "bullet",
+      "section": "How can the MSP support coordination between actors across different sectors?",
+      "en": "▶ The step-by-step guide for coordination groups shows how groups such as MHPSS Technical Working Groups can use the MSP.",
+      "ne": "▶ समन्वय समूहहरूका लागि चरणबद्ध मार्गदर्शिकाले MHPSS प्राविधिक कार्यसमूह जस्ता समूहहरूले MSP कसरी प्रयोग गर्न सक्छन् भन्ने देखाउँछ।",
+      "bt": "▶ The step-by-step guide for coordination groups shows how groups such as MHPSS technical working groups can use the MSP.",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T127",
+        "T128",
+        "T144",
+        "T163",
+        "T183",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0080",
+      "page": "4",
+      "loc": "bullet",
+      "section": "How can the MSP support coordination between actors across different sectors?",
+      "en": "▶ Activity 2.1 outlines how individual agencies can help to ensure that their work is well coordinated with other actors, and that programme design incorporates and builds on the strengths of affected community members.",
+      "ne": "▶ गतिविधि 2.1 मा प्रत्येक निकायले आफ्नो काम अन्य पक्षहरूसँग राम्रोसँग समन्वय भएको र कार्यक्रमको डिजाइनले प्रभावित समुदायका सदस्यहरूको सबल पक्ष समावेश गर्ने र तिनै सबल पक्षलाई आधार बनाएर अघि बढ्ने कुरा सुनिश्चित गर्न कसरी सहयोग गर्न सक्छ भन्ने उल्लेख छ।",
+      "bt": "▶ Activity 2.1 describes how each agency can help ensure that its work is well coordinated with other parties and that programme design incorporates the strengths of members of affected communities and moves forward on the basis of those same strengths.",
+      "type": "general",
+      "terms": [
+        "T344",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Preserves both coordination with other actors and the requirement to incorporate and build on affected community members' strengths. The source makes programme design both incorporate and build on community members' strengths. The translation shifted the second element to taking the programme forward rather than keeping both elements within programme design."
+    },
+    {
+      "id": "FAQ-0081",
+      "page": "4",
+      "loc": "heading",
+      "section": "How can the MSP support coordination between actors across different sectors?",
+      "en": "Who can I contact if I have more questions about the MSP?",
+      "ne": "MSP बारे थप प्रश्न भएमा म कसलाई सम्पर्क गर्न सक्छु?",
+      "bt": "Whom can I contact if I have further questions about the MSP?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAQ-0082",
+      "page": "4",
+      "loc": "bullet",
+      "section": "Who can I contact if I have more questions about the MSP?",
+      "en": "▶ For questions about the MSP project and website, you can contact the leads of the MSP project: Inka Weissbecker (weissbeckeri@who.int) and Caoimhe Nic a Bháird (cnic@unicef.org).",
+      "ne": "▶ MSP परियोजना र वेबसाइटबारे प्रश्नहरूका लागि तपाईंले MSP परियोजनाको नेतृत्व गर्ने Inka Weissbecker (weissbeckeri@who.int) र Caoimhe Nic a Bháird (cnic@unicef.org) लाई सम्पर्क गर्न सक्नुहुन्छ।",
+      "bt": "▶ For questions about the MSP project and website, you can contact Inka Weissbecker (weissbeckeri@who.int) and Caoimhe Nic a Bháird (cnic@unicef.org), who lead the MSP project.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T443"
+      ],
+      "flags": [],
+      "note": "Preserve the URL or email address exactly. Both personal names and email addresses are preserved exactly as supplied."
+    },
+    {
+      "id": "FAQ-0083",
+      "page": "4",
+      "loc": "bullet",
+      "section": "Who can I contact if I have more questions about the MSP?",
+      "en": "▶ For guidance on implementing MHPSS programme activities and up-to-date contact information for MHPSS TWGs, you can contact the IASC MHPSS RG Co-chairs (mhpss.refgroup@gmail.com).",
+      "ne": "▶ MHPSS कार्यक्रमका गतिविधिहरू कार्यान्वयन गर्ने सम्बन्धी मार्गदर्शन र MHPSS प्राविधिक कार्यसमूह (TWGs) का अद्यावधिक सम्पर्क विवरणका लागि तपाईंले IASC MHPSS RG का सह-अध्यक्षहरूलाई (mhpss.refgroup@gmail.com) सम्पर्क गर्न सक्नुहुन्छ।",
+      "bt": "▶ For guidance on implementing MHPSS programme activities and updated contact details for MHPSS technical working groups (TWGs), you can contact the co-chairs of the IASC MHPSS RG (mhpss.refgroup@gmail.com).",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T160",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Preserve the URL or email address exactly. MHPSS, TWGs, IASC MHPSS RG and mhpss.refgroup@gmail.com are preserved; Technical Working Groups is expanded using T050."
+    },
+    {
+      "id": "FAQ-0084",
+      "page": "4",
+      "loc": "para",
+      "section": "Who can I contact if I have more questions about the MSP?",
+      "en": "See MHPSS MSP: https://mhpssmsp.org",
+      "ne": "MHPSS MSP हेर्नुहोस्: https://mhpssmsp.org ।",
+      "bt": "See the MHPSS MSP: https://mhpssmsp.org .",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": "The ordinary instruction See is translated rather than omitted under keep; the URL is preserved exactly."
+    }
+  ]
+}

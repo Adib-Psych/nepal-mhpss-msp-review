@@ -1,0 +1,531 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "USE",
+  "unit_id": "USE",
+  "unit_title": "Using the MSP: a step-by-step guide for different users",
+  "phase": "A",
+  "source_file": "03 Using MSP and Summaries/EN - MHPSS_MSP_appendix_en_Using_the_MSP_20221024.pdf",
+  "source_sha256": "facddc476a03f76dec488552980c0dfd3f6f633ef2b4e50075eb77026458aa48",
+  "pages": "1",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:28:01+05:45",
+  "coverage": {
+    "source_words": 475,
+    "row_words": 475,
+    "skipped": [
+      "Page 1: running page number 1."
+    ]
+  },
+  "rows": [
+    {
+      "id": "USE-0001",
+      "page": "1",
+      "loc": "title",
+      "section": "",
+      "en": "Using the MSP: a step-by-step guide for different users",
+      "ne": "MSP को प्रयोग: विभिन्न प्रयोगकर्ताका लागि चरणबद्ध मार्गदर्शिका",
+      "bt": "Using the MSP: A step-by-step guide for different users",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163",
+        "T183"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "MSP recurs but has no glossary entry. Propose retaining MSP unchanged; its expansion is not supplied."
+    },
+    {
+      "id": "USE-0002",
+      "page": "1",
+      "loc": "heading",
+      "section": "Using the MSP: a step-by-step guide for different users",
+      "en": "Organizations implementing MHPSS activities",
+      "ne": "MHPSS गतिविधि कार्यान्वयन गर्ने संस्थाहरू",
+      "bt": "Organizations implementing MHPSS activities",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0003",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "1",
+      "ne": "1",
+      "bt": "1",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0004",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Start with the MSP Introduction/Guide, to understand what the MSP is, why it is needed and how it can be used (for more information, see Frequently asked questions).",
+      "ne": "MSP के हो, यो किन आवश्यक छ र यसलाई कसरी प्रयोग गर्न सकिन्छ भन्ने बुझ्न MSP को परिचय/मार्गदर्शिकाबाट सुरु गर्नुहोस् (थप जानकारीका लागि बारम्बार सोधिने प्रश्नहरू हेर्नुहोस्)।",
+      "bt": "Start with the MSP introduction/guide to understand what the MSP is, why it is needed and how it can be used (see frequently asked questions for more information).",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0005",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "2",
+      "ne": "2",
+      "bt": "2",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0006",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Go to section 1: Connect with the MHPSS TWG and other relevant coordination groups to understand what MHPSS activities are already in place and what the needs and the gaps in the MHPSS response are ( MSP activities 1.1 and 1.2).",
+      "ne": "खण्ड 1 मा जानुहोस्: कुन MHPSS गतिविधि पहिलेदेखि सञ्चालनमा छन् र MHPSS प्रतिकार्यमा के आवश्यकता तथा कमी छन् भन्ने बुझ्न MHPSS प्राविधिक कार्यसमूह (TWG) र अन्य सम्बन्धित समन्वय समूहसँग सम्पर्क गर्नुहोस् (MSP गतिविधि 1.1 र 1.2)।",
+      "bt": "Go to Section 1: Contact the MHPSS Technical Working Group (TWG) and other relevant coordination groups to understand which MHPSS activities are already underway and what needs and gaps there are in the MHPSS response (MSP activities 1.1 and 1.2).",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T127",
+        "T161",
+        "T163",
+        "T174",
+        "T349",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring term coordination group; this does not amend G-0.1."
+    },
+    {
+      "id": "USE-0007",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Review existing needs assessments and collect additional information on MHPSS needs and resources as required ( MSP activities 1.2 and 2.1).",
+      "ne": "विद्यमान आवश्यकताको लेखाजोखा समीक्षा गर्नुहोस् र आवश्यकताअनुसार MHPSS आवश्यकता र स्रोतबारे थप जानकारी सङ्कलन गर्नुहोस् (MSP गतिविधि 1.2 र 2.1)।",
+      "bt": "Review existing needs assessments and collect additional information about MHPSS needs and resources as needed (MSP activities 1.2 and 2.1).",
+      "type": "general",
+      "terms": [
+        "T068",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0008",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "3",
+      "ne": "3",
+      "bt": "3",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0009",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Review section 2, to guide you in designing programmes and begin developing or strengthening systems for M&E, staff well-being and supporting staff competencies ( MSP activities 2.1 to 2.4).",
+      "ne": "कार्यक्रमको डिजाइनका लागि मार्गदर्शन लिन खण्ड 2 समीक्षा गर्नुहोस् र अनुगमन तथा मूल्याङ्कन (M&E), कर्मचारीको कल्याण तथा कर्मचारीको सक्षमतामा सहयोगका लागि प्रणाली विकास गर्ने वा सुदृढ गर्ने काम सुरु गर्नुहोस् (MSP गतिविधि 2.1 देखि 2.4 सम्म)।",
+      "bt": "Review Section 2 for guidance on programme design and begin work on developing or strengthening systems to support monitoring and evaluation (M&E), staff well-being and staff competence (MSP activities 2.1 to 2.4).",
+      "type": "general",
+      "terms": [
+        "T046",
+        "T163",
+        "T179",
+        "T180",
+        "T209",
+        "T328",
+        "T394",
+        "T409",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for staff well-being and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for staff competencies. Both recur as nonclinical organizational concepts."
+    },
+    {
+      "id": "USE-0010",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "4",
+      "ne": "4",
+      "bt": "4",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0011",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Review sections 3 and 4, to guide you in selecting programme activities to initiate or strengthen ( MSP activities 3.1 to 4.2).",
+      "ne": "सुरु गर्ने वा सुदृढ गर्ने कार्यक्रमका गतिविधि छनोट गर्न मार्गदर्शन लिन खण्ड 3 र 4 समीक्षा गर्नुहोस् (MSP गतिविधि 3.1 देखि 4.2 सम्म)।",
+      "bt": "Review Sections 3 and 4 for guidance on selecting programme activities to start or strengthen (MSP activities 3.1 to 4.2).",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0012",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Once you have selected activities, work through the list of core actions to be implemented for each activity.",
+      "ne": "गतिविधि छनोट गरेपछि प्रत्येक गतिविधिका लागि कार्यान्वयन गर्नुपर्ने मुख्य कार्यहरूको सूचीमा क्रमशः काम गर्नुहोस्।",
+      "bt": "After selecting activities, work through the list of key actions to be implemented for each activity in sequence.",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring term core actions."
+    },
+    {
+      "id": "USE-0013",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "You should also check the additional actions for consideration and decide whether they should also be prioritized, based on local needs and resources.",
+      "ne": "तपाईंले विचार गर्नका लागि दिइएका थप कार्यहरू पनि जाँच्नुका साथै स्थानीय आवश्यकता तथा स्रोतका आधारमा तिनलाई पनि प्राथमिकता दिनु उचित हुन्छ कि हुँदैन भन्ने निर्णय गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate for you to also examine the additional actions provided for consideration and decide whether it is appropriate to prioritize them too based on local needs and resources.",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring label additional actions for consideration. The source recommends checking and deciding whether prioritization is advisable. The Nepali uses direct commands and frames prioritization as necessary; the revision makes both recommendations explicit without implying a requirement."
+    },
+    {
+      "id": "USE-0014",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "5",
+      "ne": "5",
+      "bt": "5",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0015",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Continue working on section 2 activities, as you implement the programmatic activities selected (from sections 3 and 4), by engaging regularly with relevant coordination mechanisms, refining and further developing monitoring and evaluation (M&E) systems, promoting staff well-being, and supporting staff competencies ( MSP activities 2.1 to 2.4).",
+      "ne": "छनोट गरिएका कार्यक्रमगत गतिविधि (खण्ड 3 र 4 बाट) कार्यान्वयन गर्दै जाँदा सम्बन्धित समन्वय संयन्त्रसँग नियमित रूपमा संलग्न हुँदै, अनुगमन तथा मूल्याङ्कन (M&E) प्रणाली परिष्कृत र थप विकास गर्दै, कर्मचारीको कल्याण प्रवर्द्धन गर्दै तथा कर्मचारीको सक्षमतामा सहयोग गर्दै खण्ड 2 का गतिविधिमा काम जारी राख्नुहोस् (MSP गतिविधि 2.1 देखि 2.4 सम्म)।",
+      "bt": "As you implement the selected programme activities (from Sections 3 and 4), continue working on the activities in Section 2 by regularly engaging with relevant coordination mechanisms, refining and further developing monitoring and evaluation (M&E) systems, promoting staff well-being and supporting staff competence (MSP activities 2.1 to 2.4).",
+      "type": "general",
+      "terms": [
+        "T046",
+        "T163",
+        "T166",
+        "T179",
+        "T180",
+        "T209",
+        "T271",
+        "T328",
+        "T349",
+        "T394",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring term programmatic activities, preserving its distinction from section 2 activities."
+    },
+    {
+      "id": "USE-0016",
+      "page": "1",
+      "loc": "box",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Section 2 activities should be implemented by all organizations conducting MHPSS activities.",
+      "ne": "MHPSS गतिविधि सञ्चालन गर्ने सबै संस्थाले खण्ड 2 का गतिविधि कार्यान्वयन गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate for all organizations conducting MHPSS activities to implement the activities in Section 2.",
+      "type": "general",
+      "terms": [
+        "T379",
+        "T422"
+      ],
+      "flags": [],
+      "note": "The source says 'should be implemented'; the Nepali and back-translation strengthen this to 'must implement'. The revision restores recommendation rather than mandatory obligation."
+    },
+    {
+      "id": "USE-0017",
+      "page": "1",
+      "loc": "box",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Note that programmatic activities (sections 3 and 4) are not listed in order of priority or chronology.",
+      "ne": "कार्यक्रमगत गतिविधि (खण्ड 3 र 4) प्राथमिकता वा समयक्रमअनुसार सूचीबद्ध गरिएका छैनन् भन्ने ध्यान दिनुहोस्।",
+      "bt": "Note that programme activities (Sections 3 and 4) are not listed in order of priority or time.",
+      "type": "general",
+      "terms": [
+        "T166",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0018",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "No single organization is expected to implement all programmatic activities (sections 3 and 4).",
+      "ne": "कुनै एक संस्थाले सबै कार्यक्रमगत गतिविधि (खण्ड 3 र 4) कार्यान्वयन गर्ने अपेक्षा गरिएको छैन।",
+      "bt": "No single organization is expected to implement all programme activities (Sections 3 and 4).",
+      "type": "general",
+      "terms": [
+        "T166",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0019",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Rather, relevant agencies must coordinate and work together across sectors/AoRs to ensure that all MSP activities are implemented.",
+      "ne": "बरु, सबै MSP गतिविधि कार्यान्वयन हुने सुनिश्चित गर्न सम्बन्धित निकायहरूले क्षेत्रहरू/AoRs बीच समन्वय गर्दै मिलेर काम गर्नुपर्छ।",
+      "bt": "Rather, relevant agencies must work together, coordinating across sectors/AoRs, to ensure that all MSP activities are implemented.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T296"
+      ],
+      "flags": [],
+      "note": "AoRs is retained without expanding an acronym whose expansion is not supplied."
+    },
+    {
+      "id": "USE-0020",
+      "page": "1",
+      "loc": "para",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Depending on their mandate and capacities, some agencies will be better placed than others to implement certain activities.",
+      "ne": "आफ्नो कार्यादेश र क्षमताका आधारमा केही निकायहरू निश्चित गतिविधि कार्यान्वयन गर्न अरूभन्दा बढी उपयुक्त अवस्थामा हुनेछन्।",
+      "bt": "Based on their mandates and capacities, some agencies will be better placed than others to implement particular activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0021",
+      "page": "1",
+      "loc": "box",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "! Make sure that your programme planning and implementation is informed by the MSP general principles and considerations.",
+      "ne": "! तपाईंको कार्यक्रमको योजना र कार्यान्वयनमा MSP का सामान्य सिद्धान्त तथा विचारणीय पक्षलाई ध्यानमा राखिएको सुनिश्चित गर्नुहोस्।",
+      "bt": "! Ensure that the general principles and considerations of the MSP have been taken into account in the planning and implementation of your programme.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T380",
+        "T409"
+      ],
+      "flags": [],
+      "note": "The source requires planning and implementation to be informed by the principles and considerations. 'Based on' makes them the foundation, a stronger relationship; the revision requires that they be taken into account."
+    },
+    {
+      "id": "USE-0022",
+      "page": "1",
+      "loc": "heading",
+      "section": "Organizations implementing MHPSS activities",
+      "en": "Coordination groups and MHPSS Technical Working Groups",
+      "ne": "समन्वय समूह र MHPSS प्राविधिक कार्यसमूह",
+      "bt": "Coordination groups and MHPSS technical working groups",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T127",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0023",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "Coordination groups and MHPSS Technical Working Groups",
+      "en": "1",
+      "ne": "1",
+      "bt": "1",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0024",
+      "page": "1",
+      "loc": "para",
+      "section": "Coordination groups and MHPSS Technical Working Groups",
+      "en": "Start with the MSP Introduction/Guide, to understand what the MSP is, why it is needed and how it can be used (for more information go the FAQs).",
+      "ne": "MSP के हो, यो किन आवश्यक छ र यसलाई कसरी प्रयोग गर्न सकिन्छ भन्ने बुझ्न MSP को परिचय/मार्गदर्शिकाबाट सुरु गर्नुहोस् (थप जानकारीका लागि बारम्बार सोधिने प्रश्नहरू (FAQs) हेर्नुहोस्)।",
+      "bt": "Start with the MSP introduction/guide to understand what the MSP is, why it is needed and how it can be used (see frequently asked questions (FAQs) for more information).",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0025",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "Coordination groups and MHPSS Technical Working Groups",
+      "en": "2",
+      "ne": "2",
+      "bt": "2",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0026",
+      "page": "1",
+      "loc": "para",
+      "section": "Coordination groups and MHPSS Technical Working Groups",
+      "en": "Go to section 1, which outlines activities that promote effective inter-agency and intersectoral coordination and assessment ( MSP activities 1.1 and 1.2).",
+      "ne": "खण्ड 1 मा जानुहोस्, जसमा प्रभावकारी अन्तरनिकाय र अन्तरक्षेत्रीय समन्वय तथा लेखाजोखालाई प्रवर्द्धन गर्ने गतिविधिको रूपरेखा दिइएको छ (MSP गतिविधि 1.1 र 1.2)।",
+      "bt": "Go to Section 1, which outlines activities that promote effective inter-agency and inter-sectoral coordination and assessment (MSP activities 1.1 and 1.2).",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T163",
+        "T296",
+        "T349",
+        "T389",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0027",
+      "page": "1",
+      "loc": "para",
+      "section": "Coordination groups and MHPSS Technical Working Groups",
+      "en": "Work through the list of core actions to be implemented for each activity.",
+      "ne": "प्रत्येक गतिविधिका लागि कार्यान्वयन गर्नुपर्ने मुख्य कार्यहरूको सूचीमा क्रमशः काम गर्नुहोस्।",
+      "bt": "Work through the list of key actions to be implemented for each activity in sequence.",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350",
+        "T379"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0028",
+      "page": "1",
+      "loc": "para",
+      "section": "Coordination groups and MHPSS Technical Working Groups",
+      "en": "You should also check the additional actions for consideration and decide whether they should also be prioritized, based on local needs and resources.",
+      "ne": "तपाईंले विचार गर्नका लागि दिइएका थप कार्यहरू पनि जाँच्नुका साथै स्थानीय आवश्यकता तथा स्रोतका आधारमा तिनलाई पनि प्राथमिकता दिनु उचित हुन्छ कि हुँदैन भन्ने निर्णय गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate for you to also examine the additional actions provided for consideration and decide whether it is appropriate to prioritize them too based on local needs and resources.",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": "The source recommends checking and deciding whether prioritization is advisable. The Nepali uses direct commands and frames prioritization as necessary; the revision makes both recommendations explicit without implying a requirement."
+    },
+    {
+      "id": "USE-0029",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "Coordination groups and MHPSS Technical Working Groups",
+      "en": "3",
+      "ne": "3",
+      "bt": "3",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0030",
+      "page": "1",
+      "loc": "para",
+      "section": "Coordination groups and MHPSS Technical Working Groups",
+      "en": "Help coordination group members decide which sections 3 and 4 MSP activities to implement or strengthen, (based on needs, gaps and resources) and advocate to fill identified gaps (e.g. with donors, governments).",
+      "ne": "आवश्यकता, कमी तथा स्रोतका आधारमा खण्ड 3 र 4 का कुन MSP गतिविधि कार्यान्वयन गर्ने वा सुदृढ गर्ने भन्ने निर्णय गर्न समन्वय समूहका सदस्यहरूलाई सहयोग गर्नुहोस् र पहिचान गरिएका कमी पूरा गर्न पैरवी गर्नुहोस् (जस्तै, दातृ निकाय र सरकारहरूसँग)।",
+      "bt": "Support coordination group members in deciding which MSP activities in Sections 3 and 4 to implement or strengthen based on needs, gaps and resources, and advocate for filling the identified gaps (for example, with donor agencies and governments).",
+      "type": "general",
+      "terms": [
+        "T023",
+        "T127",
+        "T163",
+        "T332",
+        "T349",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "USE-0031",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "Coordination groups and MHPSS Technical Working Groups",
+      "en": "See MHPSS MSP: https://mhpssmsp.org",
+      "ne": "MHPSS MSP का लागि https://mhpssmsp.org हेर्नुहोस्।",
+      "bt": "For the MHPSS MSP, see https://mhpssmsp.org.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": "Reclassified from keep because the row includes an ordinary instruction to consult the resource; the URL is unchanged."
+    }
+  ]
+}

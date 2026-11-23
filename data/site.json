@@ -14,8 +14,10 @@
    "pages": "2",
    "words": 821,
    "original": "https://drive.google.com/uc?export=download&id=16MSlpA0D15Qrp3dDcQQddpxlMxukNOFq",
-   "units": [],
-   "preview": true
+   "units": [
+    "SUM"
+   ],
+   "preview": false
   },
   {
    "id": "USE",
@@ -26,7 +28,9 @@
    "pages": "1",
    "words": 476,
    "original": "https://drive.google.com/uc?export=download&id=1IBT740Mw-VsAFppTgidg2Ls1PtOMSYLK",
-   "units": [],
+   "units": [
+    "USE"
+   ],
    "preview": false
   },
   {
@@ -38,7 +42,9 @@
    "pages": "3",
    "words": 1123,
    "original": "https://drive.google.com/uc?export=download&id=1bq9MhWJjwrPaFLwZk3GahOVX2_pyLaR5",
-   "units": [],
+   "units": [
+    "PYR"
+   ],
    "preview": false
   },
   {
@@ -50,7 +56,9 @@
    "pages": "4",
    "words": 2112,
    "original": "https://drive.google.com/uc?export=download&id=1BP8senmr1nAks_eYbatlWtVrDAtKYTgw",
-   "units": [],
+   "units": [
+    "FAQ"
+   ],
    "preview": false
   },
   {
@@ -62,7 +70,9 @@
    "pages": "1",
    "words": 72,
    "original": "https://drive.google.com/uc?export=download&id=1BFwSqyC_lJPgMBpY_B1UMfkDW4gOVDzB",
-   "units": [],
+   "units": [
+    "HELP"
+   ],
    "preview": false
   },
   {
@@ -74,7 +84,9 @@
    "pages": "3",
    "words": 1356,
    "original": "https://drive.google.com/uc?export=download&id=1XwsHk26E36Nkuy53eQXIDebsb4evcxUe",
-   "units": [],
+   "units": [
+    "QSG-CCCM"
+   ],
    "preview": false,
    "color": "#EC793D"
   },
@@ -87,7 +99,9 @@
    "pages": "3",
    "words": 1591,
    "original": "https://drive.google.com/uc?export=download&id=13BhwI_Z9l57PSW-DDSwMs7ubGPfa79xV",
-   "units": [],
+   "units": [
+    "QSG-CP"
+   ],
    "preview": false,
    "color": "#68BA69"
   },
@@ -100,7 +114,9 @@
    "pages": "3",
    "words": 1326,
    "original": "https://drive.google.com/uc?export=download&id=1raZ_-OKZXZoA7UhssN13bEGmM5acHnE5",
-   "units": [],
+   "units": [
+    "QSG-EDU"
+   ],
    "preview": false,
    "color": "#DD4648"
   },
@@ -113,7 +129,9 @@
    "pages": "3",
    "words": 1264,
    "original": "https://drive.google.com/uc?export=download&id=1Z9q70H6PfB9IXVILV2Zyv6JMm4bzrZzb",
-   "units": [],
+   "units": [
+    "QSG-FSL"
+   ],
    "preview": false,
    "color": "#122E38"
   },
@@ -126,7 +144,9 @@
    "pages": "3",
    "words": 1479,
    "original": "https://drive.google.com/uc?export=download&id=1qFXLuUpg6P9Yg4aR2T26g-XwV6w6GvKz",
-   "units": [],
+   "units": [
+    "QSG-GBV"
+   ],
    "preview": false,
    "color": "#8C2495"
   },
@@ -139,7 +159,9 @@
    "pages": "3",
    "words": 1369,
    "original": "https://drive.google.com/uc?export=download&id=1v8Fmz2mWMBGrJNB8LdHhihruPaFvh9Go",
-   "units": [],
+   "units": [
+    "QSG-HEA"
+   ],
    "preview": false,
    "color": "#52C5BF"
   },
@@ -152,7 +174,9 @@
    "pages": "3",
    "words": 1240,
    "original": "https://drive.google.com/uc?export=download&id=1hLdDy0gfLSPi90dovQBcIeXUgAYAu8wf",
-   "units": [],
+   "units": [
+    "QSG-MA"
+   ],
    "preview": false,
    "color": "#288673"
   },
@@ -165,7 +189,9 @@
    "pages": "3",
    "words": 1374,
    "original": "https://drive.google.com/uc?export=download&id=1qi5IstTZVx-Bvjq1U2FYbl84d7gVQSc1",
-   "units": [],
+   "units": [
+    "QSG-NUT"
+   ],
    "preview": false,
    "color": "#EF2578"
   },
@@ -178,7 +204,9 @@
    "pages": "3",
    "words": 1349,
    "original": "https://drive.google.com/uc?export=download&id=1HvtoTqaUBOoaxCqHPnMKqB6aXugg-lZX",
-   "units": [],
+   "units": [
+    "QSG-PRO"
+   ],
    "preview": false,
    "color": "#E8C43D"
   },
@@ -191,7 +219,9 @@
    "pages": "3",
    "words": 1313,
    "original": "https://drive.google.com/uc?export=download&id=1CokpgAckjW0J0mbVtUMHAzRvTntW1r4W",
-   "units": [],
+   "units": [
+    "QSG-SHE"
+   ],
    "preview": false,
    "color": "#122E38"
   },
@@ -204,7 +234,9 @@
    "pages": "3",
    "words": 1231,
    "original": "https://drive.google.com/uc?export=download&id=1GtRuAulbuBzxJmEAu-wSpTluUaYqQWEd",
-   "units": [],
+   "units": [
+    "QSG-WASH"
+   ],
    "preview": false,
    "color": "#122E38"
   },

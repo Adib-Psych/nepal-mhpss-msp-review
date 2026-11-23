@@ -1,0 +1,217 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "HELP",
+  "unit_id": "HELP",
+  "unit_title": "The IASC MHPSS Reference Group's HELPDESK",
+  "phase": "A",
+  "source_file": "03 Using MSP and Summaries/EN - IASC MHPSS MSP Helpdesk_May 2023 (1).pdf",
+  "source_sha256": "6a3bdee068583f4112894c92366004d472d92522065b3fdf97581aea0b758c01",
+  "pages": "1",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:22:36+05:45",
+  "coverage": {
+    "source_words": 72,
+    "row_words": 72,
+    "skipped": [
+      "Page 1: embedded image 2: IASC logo: IASC; Inter-Agency Standing Committee; IASC Reference Group for Mental Health and Psychosocial Support in Emergency Settings Embedded institutional logo text skipped.",
+      "Page 1: embedded image 5: Publication cover: MHPSS; MSP; MENTAL HEALTH & PSYCHOSOCIAL SUPPORT; MINIMUM SERVICE PACKAGE Embedded cover text skipped; clipped adjacent fragment not interpreted."
+    ]
+  },
+  "rows": [
+    {
+      "id": "HELP-0001",
+      "page": "1",
+      "loc": "title",
+      "section": "",
+      "en": "The IASC MHPSS Reference Group's HELPDESK",
+      "ne": "IASC MHPSS सन्दर्भ समूहको सहायता कक्ष (HELPDESK)",
+      "bt": "IASC MHPSS Reference Group's help desk (HELPDESK)",
+      "type": "general",
+      "terms": [
+        "T146",
+        "T171"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed nonclinical institutional labels for Reference Group and HELPDESK; these are not additions to the frozen glossary."
+    },
+    {
+      "id": "HELP-0002",
+      "page": "1",
+      "loc": "heading",
+      "section": "The IASC MHPSS Reference Group's HELPDESK",
+      "en": "AVAILABLE FOR",
+      "ne": "निम्नका लागि उपलब्ध",
+      "bt": "Available for the following",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "HELP-0003",
+      "page": "1",
+      "loc": "para",
+      "section": "AVAILABLE FOR",
+      "en": "All humanitarian actors",
+      "ne": "मानवीय सहायता कार्यमा संलग्न सबै पक्ष",
+      "bt": "All parties involved in humanitarian assistance work",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "HELP-0004",
+      "page": "1",
+      "loc": "heading",
+      "section": "AVAILABLE FOR",
+      "en": "SUPPORT",
+      "ne": "सहयोग",
+      "bt": "Support",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "HELP-0005",
+      "page": "1",
+      "loc": "bullet",
+      "section": "SUPPORT",
+      "en": "Orientations on the content and structure of the IASC MHPSS MSP",
+      "ne": "IASC MHPSS MSP को विषयवस्तु र संरचनासम्बन्धी अभिमुखीकरण",
+      "bt": "Orientation on the content and structure of the IASC MHPSS MSP",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T163",
+        "T348",
+        "T433"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed candidate for orientation."
+    },
+    {
+      "id": "HELP-0006",
+      "page": "1",
+      "loc": "bullet",
+      "section": "SUPPORT",
+      "en": "Integration of MHPSS into different sectors, areas of responsibility and workstreams",
+      "ne": "विभिन्न क्षेत्र, जिम्मेवारीका क्षेत्र र कार्यधारामा MHPSS को एकीकरण",
+      "bt": "Integration of MHPSS into various sectors, areas of responsibility and workstreams",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T384"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "HELP-0007",
+      "page": "1",
+      "loc": "bullet",
+      "section": "SUPPORT",
+      "en": "MHPSS MSP Costing Tool and Gap Analysis Tool",
+      "ne": "MHPSS MSP लागत अनुमान उपकरण र अन्तर विश्लेषण उपकरण",
+      "bt": "MHPSS MSP cost estimation tool and gap analysis tool",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T137",
+        "T163",
+        "T351",
+        "T370"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the supplied unreviewed costing-tool candidate. Proposed nonclinical wording for Gap Analysis Tool means a tool for analysing gaps; it is not an addition to the frozen glossary."
+    },
+    {
+      "id": "HELP-0008",
+      "page": "1",
+      "loc": "bullet",
+      "section": "SUPPORT",
+      "en": "Additional resources, incl. orientation videos",
+      "ne": "अभिमुखीकरणका भिडियोसहित थप स्रोतसामग्री",
+      "bt": "Additional resource materials, including orientation videos",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T416"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed candidate for orientation."
+    },
+    {
+      "id": "HELP-0009",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "SUPPORT",
+      "en": "Quick acknowledgement and response to queries",
+      "ne": "जिज्ञासाहरू प्राप्त भएको शीघ्र पुष्टि र तिनको शीघ्र जवाफ",
+      "bt": "Prompt confirmation of receipt of inquiries and prompt responses to them",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Acknowledgement refers to confirming receipt of queries, distinct from answering them."
+    },
+    {
+      "id": "HELP-0010",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "SUPPORT",
+      "en": "Support from global MHPSS experts with experience integrating MHPSS across sectors",
+      "ne": "विभिन्न क्षेत्रहरूमा MHPSS एकीकृत गर्ने अनुभव भएका विश्वस्तरका MHPSS विशेषज्ञहरूबाट सहयोग",
+      "bt": "Support from global-level MHPSS experts with experience integrating MHPSS into various sectors",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "HELP-0011",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "SUPPORT",
+      "en": "Available in English, Spanish and Portuguese",
+      "ne": "अङ्ग्रेजी, स्पेनी र पोर्चुगाली भाषामा उपलब्ध",
+      "bt": "Available in English, Spanish and Portuguese",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "HELP-0012",
+      "page": "1",
+      "loc": "heading",
+      "section": "SUPPORT",
+      "en": "CONTACT",
+      "ne": "सम्पर्क",
+      "bt": "Contact",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "HELP-0013",
+      "page": "1",
+      "loc": "para",
+      "section": "CONTACT",
+      "en": "mhpssmsp@gmail.com",
+      "ne": "mhpssmsp@gmail.com",
+      "bt": "mhpssmsp@gmail.com",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Email address preserved exactly."
+    }
+  ]
+}

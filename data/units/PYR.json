@@ -1,0 +1,1649 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "PYR",
+  "unit_id": "PYR",
+  "unit_title": "The MSP and the MHPSS intervention pyramid",
+  "phase": "A",
+  "source_file": "03 Using MSP and Summaries/EN - MHPSS_MSP_appendix_en_Intervention_Pyramid_221104.pdf.pdf",
+  "source_sha256": "12935443764af5b872236baf5cd8ad5116aa58f36cc18b0253d3143b1a8a7b54",
+  "pages": "1-3",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:25:35+05:45",
+  "coverage": {
+    "source_words": 1124,
+    "row_words": 1114,
+    "skipped": [
+      "Page 1: running page number 1.",
+      "Page 1: embedded image 1: Banner, table or diagram raster with selectable text overlay; circular logo text MHPSS / MSP. Selectable banner/table/diagram content retained in rows; logo wording not repeated as translation rows.",
+      "Page 2: running page number 2.",
+      "Page 2: embedded image 1: Banner, table or diagram raster with selectable text overlay; circular logo text MHPSS / MSP. Selectable banner/table/diagram content retained in rows; logo wording not repeated as translation rows.",
+      "Page 3: running page number 3.",
+      "Page 3: embedded image 1: Banner, table or diagram raster with selectable text overlay; circular logo text MHPSS / MSP. Selectable banner/table/diagram content retained in rows; logo wording not repeated as translation rows.",
+      "Page 3: embedded image 2: Banner, table or diagram raster with selectable text overlay; circular logo text MHPSS / MSP. Selectable banner/table/diagram content retained in rows; logo wording not repeated as translation rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "PYR-0001",
+      "page": "1",
+      "loc": "heading",
+      "section": "",
+      "en": "The MSP and the MHPSS intervention pyramid",
+      "ne": "MSP र MHPSS हस्तक्षेप पिरामिड",
+      "bt": "MSP and the MHPSS intervention pyramid",
+      "type": "general",
+      "terms": [
+        "T153",
+        "T163",
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring framework label 'intervention pyramid' is absent from G-0.1; a nonclinical terminology proposal is listed."
+    },
+    {
+      "id": "PYR-0002",
+      "page": "1",
+      "loc": "para",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "In emergencies, people are affected in different ways and require different kinds of services and supports.",
+      "ne": "आपत्कालीन अवस्थामा मानिसहरू विभिन्न तरिकाले प्रभावित हुन्छन् र उनीहरूलाई विभिन्न किसिमका सेवा तथा सहयोग आवश्यक पर्छन्।",
+      "bt": "In emergency situations, people are affected in different ways and need different kinds of services and support.",
+      "type": "general",
+      "terms": [
+        "T131"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0003",
+      "page": "1",
+      "loc": "para",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "The concept of a layered intervention pyramid has frequently been used to illustrate the range of complementary supports that are required (see Figure 1).",
+      "ne": "आवश्यक पर्ने परिपूरक सहयोगको दायरा स्पष्ट पार्न तहगत हस्तक्षेप पिरामिडको अवधारणा बारम्बार प्रयोग गरिएको छ (चित्र 1 हेर्नुहोस्)।",
+      "bt": "The concept of a layered intervention pyramid has been used repeatedly to clarify the range of complementary support needed (see Figure 1).",
+      "type": "general",
+      "terms": [
+        "T153",
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical framework label 'intervention pyramid'."
+    },
+    {
+      "id": "PYR-0004",
+      "page": "1",
+      "loc": "para",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "The most commonly referenced MHPSS pyramid is the IASC (2007) Intervention Pyramid for Mental Health and Psychosocial Support in Emergencies, although several versions have been published.",
+      "ne": "केही संस्करण प्रकाशित भएका भए पनि सबैभन्दा बढी सन्दर्भ दिइने MHPSS पिरामिड भनेको आपत्कालीन अवस्थामा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग सम्बन्धी IASC (2007) हस्तक्षेप पिरामिड हो।",
+      "bt": "Although some versions have been published, the most frequently referenced MHPSS pyramid is the IASC (2007) intervention pyramid on mental health and psychosocial support in emergencies.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T131",
+        "T153",
+        "T157",
+        "T410",
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "T001 is reused verbatim as an unreviewed candidate from PRIOR-SUM-29OCT2026 p.1 row 1. Uses the proposed nonclinical framework label 'intervention pyramid'. The source says several versions, whereas the Nepali and back-translation say many, increasing the stated quantity."
+    },
+    {
+      "id": "PYR-0005",
+      "page": "1",
+      "loc": "para",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "The different versions of the IASC pyramid and other pyramid models of organizing MHPSS vary in how the layers have been labelled and activities categorized.1",
+      "ne": "IASC पिरामिडका विभिन्न संस्करण र MHPSS व्यवस्थित गर्ने अन्य पिरामिड ढाँचाहरूमा तहहरूलाई दिइएका नाम र गतिविधिहरूको वर्गीकरण फरक छन्।1",
+      "bt": "The names given to the layers and the classification of activities differ across the various versions of the IASC pyramid and other pyramid frameworks for organizing MHPSS.1",
+      "type": "general",
+      "terms": [
+        "T412"
+      ],
+      "flags": [],
+      "note": "The trailing 1 is retained as the source footnote marker."
+    },
+    {
+      "id": "PYR-0006",
+      "page": "1",
+      "loc": "para",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "Notwithstanding these complexities, the various interpretations of the pyramid communicate a common set of underlying principles:",
+      "ne": "यी जटिलताका बाबजुद पिरामिडका विभिन्न व्याख्याले आधारभूत सिद्धान्तहरूको एउटै समूह प्रस्तुत गर्छन्:",
+      "bt": "Despite these complexities, the different interpretations of the pyramid present the same set of basic principles:",
+      "type": "general",
+      "terms": [
+        "T412"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0007",
+      "page": "1",
+      "loc": "bullet",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "▶ A key to organizing mental health and psychosocial support is to develop a layered system of complementary supports that meet different needs.",
+      "ne": "▶ मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग व्यवस्थित गर्ने एउटा प्रमुख उपाय विभिन्न आवश्यकता पूरा गर्ने परिपूरक सहयोगको तहगत प्रणाली विकास गर्नु हो।",
+      "bt": "▶ One major way of organizing mental health and psychosocial support is to develop a layered system of complementary support that meets different needs.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T157",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T001 is reused verbatim as an unreviewed candidate from PRIOR-SUM-29OCT2026 p.1 row 1."
+    },
+    {
+      "id": "PYR-0008",
+      "page": "1",
+      "loc": "bullet",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "▶ All layers of the pyramid are important and should be made available concurrently.",
+      "ne": "▶ पिरामिडका सबै तह महत्त्वपूर्ण छन् र तिनलाई एकै समयमा उपलब्ध गराउनु उचित हुन्छ।",
+      "bt": "▶ All levels of the pyramid are important, and it is appropriate to make them available at the same time.",
+      "type": "general",
+      "terms": [
+        "T412"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation renders should as must, reflecting stronger obligation in the Nepali. The revision preserves a recommendation and concurrent availability. The back-translation weakens the recommendation that all layers should be made available concurrently to a statement that doing so is appropriate."
+    },
+    {
+      "id": "PYR-0009",
+      "page": "1",
+      "loc": "bullet",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "▶ There is a wide spectrum of MHPSS services and supports, with fewer people needing services at the higher layers of the pyramid, and a greater number of people needing services at the lower layers.",
+      "ne": "▶ MHPSS सेवा तथा सहयोगको दायरा व्यापक छ; पिरामिडका माथिल्ला तहका सेवा आवश्यक पर्ने मानिसको सङ्ख्या कम हुन्छ भने तल्ला तहका सेवा आवश्यक पर्ने मानिसको सङ्ख्या बढी हुन्छ।",
+      "bt": "▶ The range of MHPSS services and support is broad; the number of people needing services at the upper layers of the pyramid is smaller, while the number of people needing services at the lower layers is larger.",
+      "type": "general",
+      "terms": [
+        "T412"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0010",
+      "page": "1",
+      "loc": "bullet",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "▶ Typically, delivering activities at higher layers of the pyramid requires more formal or specialized qualifications (education, health, social services etc.). This often corresponds to more training, supervision and mentoring being required for the staff involved.",
+      "ne": "▶ सामान्यतया पिरामिडका माथिल्ला तहका गतिविधि सञ्चालन गर्न बढी औपचारिक वा विशेषज्ञतासम्बन्धी योग्यता आवश्यक पर्छ (शिक्षा, स्वास्थ्य, सामाजिक सेवा आदि)। यससँगै संलग्न कर्मचारीलाई प्रायः थप तालिम, सुपरिवेक्षण र मेन्टरिङ आवश्यक पर्छ।",
+      "bt": "▶ Generally, conducting activities at the higher levels of the pyramid requires more formal or expertise-related qualifications (education, health, social services, etc.). Along with this, the staff involved often need additional training, supervision and mentoring.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T027",
+        "T309",
+        "T412"
+      ],
+      "flags": [],
+      "note": "Mentoring is rendered as general guidance, losing the distinct staff-development activity. Accordingly also suggests a stronger consequential relationship than often corresponds to."
+    },
+    {
+      "id": "PYR-0011",
+      "page": "1",
+      "loc": "bullet",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "▶ The provision of MHPSS services and activities involves different actors; it is unlikely that any single actor can do this alone.",
+      "ne": "▶ MHPSS सेवा तथा गतिविधि प्रदान गर्न विभिन्न पक्ष संलग्न हुन्छन्; कुनै एक पक्षले मात्र यो काम गर्न सक्ने सम्भावना कम हुन्छ।",
+      "bt": "▶ Various actors are involved in providing MHPSS services and activities; it is unlikely that any one actor alone can do this work.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0012",
+      "page": "1",
+      "loc": "bullet",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "▶ The MHPSS response not only involves MHPSS providers; rather, a wide range of humanitarian actors across sectors play an important part (e.g. by ensuring that humanitarian aid is provided in a way that minimized psychological distress and promotes well-being, dignity and agency).",
+      "ne": "▶ MHPSS प्रतिकार्यमा MHPSS प्रदान गर्नेहरू मात्र संलग्न हुँदैनन्; बरु विभिन्न क्षेत्रका धेरै किसिमका मानवीय कार्यमा संलग्न पक्षहरूले महत्त्वपूर्ण भूमिका खेल्छन् (उदाहरणका लागि, मानसिक व्यथा न्यून हुने र कल्याण, मर्यादा तथा आफ्ना निर्णय गर्ने र कार्य गर्ने क्षमतालाई प्रवर्द्धन गर्ने गरी मानवीय सहायता प्रदान गरिने कुरा सुनिश्चित गरेर)।",
+      "bt": "▶ It is not only those who provide MHPSS who are involved in the MHPSS response; rather, many kinds of actors involved in humanitarian work from different sectors play important roles (for example, by ensuring that humanitarian assistance is provided in a way that minimizes mental distress and promotes well-being, dignity and the ability to make one's own decisions and act).",
+      "type": "safety",
+      "terms": [
+        "T161",
+        "T147",
+        "T296",
+        "T376",
+        "T492",
+        "T328"
+      ],
+      "flags": [
+        "unclear-english"
+      ],
+      "note": "The source uses past-tense “minimized” within a present-tense description; the draft renders this as the stated manner of providing aid."
+    },
+    {
+      "id": "PYR-0013",
+      "page": "1",
+      "loc": "para",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "The pyramid model, in its various forms, can:",
+      "ne": "पिरामिड ढाँचाले आफ्ना विभिन्न स्वरूपमा निम्न कार्य गर्न सक्छ:",
+      "bt": "The pyramid framework, in its various forms, can do the following:",
+      "type": "general",
+      "terms": [
+        "T412"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0014",
+      "page": "1",
+      "loc": "bullet",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "▶ Serve as a common framework for an integrated and holistic response to inform the programmatic and operational work of various humanitarian actors;",
+      "ne": "▶ मानवीय कार्यमा संलग्न विभिन्न पक्षका कार्यक्रमसम्बन्धी तथा सञ्चालनसम्बन्धी कामलाई दिशा दिन एकीकृत र समग्र प्रतिकार्यका लागि साझा ढाँचाका रूपमा काम गर्न सक्छ।",
+      "bt": "▶ It can serve as a common framework for an integrated and comprehensive response to guide the programmatic and operational work of various actors involved in humanitarian work.",
+      "type": "general",
+      "terms": [
+        "T174"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'humanitarian actors' is absent from G-0.1; a terminology proposal is listed."
+    },
+    {
+      "id": "PYR-0015",
+      "page": "1",
+      "loc": "bullet",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "▶ Be a helpful visual aid when communicating the multi-layered nature of MHPSS with various actors from different sectors/areas of work and when advocating to fill gaps in service provision;",
+      "ne": "▶ विभिन्न क्षेत्र वा कार्यक्षेत्रका विभिन्न पक्षलाई MHPSS को बहुस्तरीय प्रकृतिबारे जानकारी दिँदा र सेवा प्रदान गर्ने कार्यमा रहेका कमी पूरा गर्न पैरवी गर्दा उपयोगी दृश्य सामग्रीका रूपमा काम गर्न सक्छ।",
+      "bt": "▶ It can serve as useful visual material when informing different parties from various sectors or fields of work about the multilayered nature of MHPSS and when advocating to fill gaps in service provision.",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": "The source concerns gaps in service provision; the Nepali and back-translation shift this to service availability."
+    },
+    {
+      "id": "PYR-0016",
+      "page": "1",
+      "loc": "bullet",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "▶ Help different actors to understand where their activities fit in the MHPSS response, and inform their current and future programming.",
+      "ne": "▶ विभिन्न पक्षलाई MHPSS प्रतिकार्यमा आफ्ना गतिविधि कहाँ पर्छन् भन्ने बुझ्न मद्दत गर्न र उनीहरूको वर्तमान तथा भावी कार्यक्रमसम्बन्धी कामलाई दिशा दिन सक्छ।",
+      "bt": "▶ It can help different parties understand where their activities fit within the MHPSS response and guide their current and future programme-related work.",
+      "type": "general",
+      "terms": [
+        "T161",
+        "T174"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'MHPSS response' is absent from G-0.1; a terminology proposal is listed. Programming is narrowed to programme formulation, excluding other current and future programme work."
+    },
+    {
+      "id": "PYR-0017",
+      "page": "1",
+      "loc": "heading",
+      "section": "The MSP and the MHPSS intervention pyramid",
+      "en": "Illustrative examples of MSP activities in different layers",
+      "ne": "विभिन्न तहमा MSP गतिविधिका दृष्टान्तमूलक उदाहरणहरू",
+      "bt": "Illustrative examples of MSP activities at different layers",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0018",
+      "page": "1",
+      "loc": "para",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Table 1 illustrates how MSP activities might be associated with different layers of the pyramid, and how this might vary depending on how the services are delivered.",
+      "ne": "तालिका 1 ले MSP गतिविधिहरू पिरामिडका विभिन्न तहसँग कसरी सम्बन्धित हुन सक्छन् र सेवा प्रदान गर्ने तरिकाअनुसार यो सम्बन्ध कसरी फरक पर्न सक्छ भन्ने देखाउँछ।",
+      "bt": "Table 1 shows how MSP activities can relate to different layers of the pyramid and how this relationship can differ according to the way services are provided.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T272",
+        "T412"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0019",
+      "page": "1",
+      "loc": "para",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "It provides a specific illustrative example of how MSP activities may be mapped onto the pyramid (using the IASC 2011 pyramid as a base).2",
+      "ne": "यसले MSP गतिविधिहरूलाई पिरामिडका तहहरूसँग कसरी मिलाएर देखाउन सकिन्छ भन्ने एउटा विशिष्ट दृष्टान्तमूलक उदाहरण प्रस्तुत गर्छ (IASC 2011 पिरामिडलाई आधारका रूपमा प्रयोग गरेर)।2",
+      "bt": "It presents one specific illustrative example of how MSP activities can be shown aligned with the layers of the pyramid (using the IASC 2011 pyramid as a basis).2",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T272",
+        "T412"
+      ],
+      "flags": [],
+      "note": "The trailing 2 is retained as the source footnote marker."
+    },
+    {
+      "id": "PYR-0020",
+      "page": "1",
+      "loc": "footnote",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "1 For example, the top layer has been labelled ‘Specialized Services`, ‘Clinical Services’ or ‘Specialized Mental Health Care`.",
+      "ne": "1 उदाहरणका लागि, सबैभन्दा माथिल्लो तहलाई ‘विशेषीकृत सेवाहरू’, ‘चिकित्सकीय सेवाहरू’ वा ‘विशेषीकृत मानसिक स्वास्थ्य हेरचाह’ भनिएको छ।",
+      "bt": "1 For example, the topmost level has been called ‘specialized services’, ‘medical services’ or ‘specialized mental health care’.",
+      "type": "safety",
+      "terms": [
+        "T178",
+        "T157"
+      ],
+      "flags": [],
+      "note": "All three alternative layer labels are retained as labels rather than named therapies."
+    },
+    {
+      "id": "PYR-0021",
+      "page": "1",
+      "loc": "footnote",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "The third layer has been labelled ‘Focused non-specialized supports’; ‘Psychological Support’, ‘Focused (person-to-person) non-specialized support’, or ‘Focused Care’.",
+      "ne": "तेस्रो तहलाई ‘केन्द्रित गैर-विशेषीकृत सहयोग’, ‘मनोवैज्ञानिक सहयोग’, ‘केन्द्रित (व्यक्तिबाट व्यक्तिलाई दिइने) गैर-विशेषीकृत सहयोग’ वा ‘केन्द्रित हेरचाह’ भनिएको छ।",
+      "bt": "The third level has been called ‘focused non-specialized support’, ‘psychological support’, ‘focused (provided from person to person) non-specialized support’ or ‘focused care’.",
+      "type": "safety",
+      "terms": [
+        "T465"
+      ],
+      "flags": [],
+      "note": "All four alternative labels and the person-to-person qualification are retained."
+    },
+    {
+      "id": "PYR-0022",
+      "page": "1",
+      "loc": "footnote",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "The pyramids also vary in terms of which activities they associate with each layer.",
+      "ne": "पिरामिडहरूमा प्रत्येक तहसँग सम्बन्धित मानिने गतिविधिहरू पनि फरक हुन्छन्।",
+      "bt": "The activities considered to be associated with each layer also differ across pyramids.",
+      "type": "general",
+      "terms": [
+        "T412"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0023",
+      "page": "1",
+      "loc": "footnote",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "For example, basic psychosocial support, including psychological first aid, has been associated with different layers, including layer three and layer one.",
+      "ne": "उदाहरणका लागि, [psychological first aid] सहितको आधारभूत मनोसामाजिक सहयोगलाई तेस्रो तह र पहिलो तहलगायत विभिन्न तहहरूसँग जोडिएको छ।",
+      "bt": "For example, basic psychosocial support including [psychological first aid] has been linked to various levels, including the third level and the first level.",
+      "type": "safety",
+      "terms": [
+        "T454",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The named intervention remains in exact source English; the sentence describes varying layer classifications rather than instructing its delivery."
+    },
+    {
+      "id": "PYR-0024",
+      "page": "1",
+      "loc": "footnote",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2 IASC (2011). Advocacy Package. IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings. Available here.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the source bibliographic citation in English, including footnote marker 2, IASC (2011), both publication titles and 'Available here.' No URL was supplied."
+    },
+    {
+      "id": "PYR-0025",
+      "page": "2",
+      "loc": "caption",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Table 1. Comparing the MHPSS MSP activities and the levels of the IASC MHPSS intervention pyramid",
+      "ne": "तालिका 1. MHPSS MSP गतिविधि र IASC MHPSS हस्तक्षेप पिरामिडका तहहरूको तुलना",
+      "bt": "Table 1. Comparison of MHPSS MSP activities and the layers of the IASC MHPSS intervention pyramid",
+      "type": "general",
+      "terms": [
+        "T153",
+        "T163",
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical framework label 'intervention pyramid'."
+    },
+    {
+      "id": "PYR-0026",
+      "page": "2",
+      "loc": "table-head",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "MHPSS MSP activities",
+      "ne": "MHPSS MSP गतिविधिहरू",
+      "bt": "MHPSS MSP activities",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0027",
+      "page": "2",
+      "loc": "table-head",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Level of IASC intervention pyramid",
+      "ne": "IASC हस्तक्षेप पिरामिडको तह",
+      "bt": "Layer of the IASC intervention pyramid",
+      "type": "general",
+      "terms": [
+        "T153",
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical framework label 'intervention pyramid'."
+    },
+    {
+      "id": "PYR-0028",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "1.1 Coordinate MHPSS within and across sectors",
+      "ne": "1.1 क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने।",
+      "bt": "1.1 Coordinate MHPSS within and between sectors.",
+      "type": "activity",
+      "terms": [
+        "T092",
+        "T296"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied T092 activity label verbatim, with the source code and a final danda."
+    },
+    {
+      "id": "PYR-0029",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Not applicable",
+      "ne": "लागू हुँदैन।",
+      "bt": "Does not apply.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0030",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "1.2 Assess MHPSS needs and resources to guide programming",
+      "ne": "1.2 कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने।",
+      "bt": "1.2 Assess MHPSS needs and resources to guide the programme.",
+      "type": "activity",
+      "terms": [
+        "T093"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied T093 activity label verbatim, with the source code and a final danda."
+    },
+    {
+      "id": "PYR-0031",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Not applicable",
+      "ne": "लागू हुँदैन।",
+      "bt": "Does not apply.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0032",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2.1 Design, plan and coordinate MHPSS programmes",
+      "ne": "2.1 MHPSS कार्यक्रमको डिजाइन, योजना र समन्वय गर्ने।",
+      "bt": "2.1 Design, plan and coordinate the MHPSS programme.",
+      "type": "activity",
+      "terms": [
+        "T094",
+        "T160",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied T094 activity label verbatim, with the source code and a final danda."
+    },
+    {
+      "id": "PYR-0033",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Not applicable",
+      "ne": "लागू हुँदैन।",
+      "bt": "Not applicable.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0034",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2.2 Develop and implement an M&E system",
+      "ne": "2.2 अनुगमन तथा मूल्याङ्कन (M&E) प्रणाली विकास र कार्यान्वयन गर्ने।",
+      "bt": "2.2 Develop and implement a monitoring and evaluation (M&E) system.",
+      "type": "activity",
+      "terms": [
+        "T095",
+        "T156",
+        "T394"
+      ],
+      "flags": [],
+      "note": "Uses the supplied activity-label candidate."
+    },
+    {
+      "id": "PYR-0035",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Not applicable",
+      "ne": "लागू हुँदैन।",
+      "bt": "Not applicable.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0036",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2.3 Care for staff and volunteers providing MHPSS",
+      "ne": "2.3 MHPSS प्रदान गर्ने कर्मचारी र स्वयंसेवकको हेरचाह गर्ने।",
+      "bt": "2.3 Care for staff and volunteers who provide MHPSS.",
+      "type": "activity",
+      "terms": [
+        "T096"
+      ],
+      "flags": [],
+      "note": "Uses the supplied activity-label candidate."
+    },
+    {
+      "id": "PYR-0037",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Not applicable",
+      "ne": "लागू हुँदैन।",
+      "bt": "Not applicable.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0038",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2.4 Support MHPSS competencies of staff and volunteers",
+      "ne": "2.4 कर्मचारी र स्वयंसेवकको MHPSS सक्षमतामा सहयोग गर्ने।",
+      "bt": "2.4 Support the MHPSS competence of staff and volunteers.",
+      "type": "activity",
+      "terms": [
+        "T097",
+        "T209"
+      ],
+      "flags": [],
+      "note": "Uses the supplied activity-label candidate."
+    },
+    {
+      "id": "PYR-0039",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Not applicable",
+      "ne": "लागू हुँदैन।",
+      "bt": "Not applicable.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0040",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.1 Orient humanitarian actors and community members on MHPSS",
+      "ne": "3.1 मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने।",
+      "bt": "3.1 Orient humanitarian actors and community members about MHPSS.",
+      "type": "activity",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": "Uses only the matching portion of the supplied 3.1 label; the advocacy clause absent from this source row is not added."
+    },
+    {
+      "id": "PYR-0041",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "1 (usually), but this activity can also be part of several MSP activities",
+      "ne": "1 (सामान्यतया), तर यो गतिविधि MSP का धेरैवटा गतिविधिहरूको अङ्ग पनि हुन सक्छ।",
+      "bt": "1 (generally), but this activity can also be a part of several MSP activities.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0042",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "ne": "3.2 अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने।",
+      "bt": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills.",
+      "type": "activity",
+      "terms": [
+        "T099",
+        "T013",
+        "T069",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Psychosocial wording is reused from the supplied cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "PYR-0043",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Variable",
+      "ne": "परिवर्तनशील",
+      "bt": "Variable",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0044",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.3 Disseminate key messages to promote mental health and psychosocial well-being",
+      "ne": "3.3 मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मुख्य सन्देशहरू प्रसार गर्ने।",
+      "bt": "3.3 Disseminate key messages to promote mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T100",
+        "T005",
+        "T157",
+        "T253",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical wording is reused from the supplied cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "PYR-0045",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3, if used as part of focused support 2, if used more broadly for affected communities or segments of communities",
+      "ne": "केन्द्रित सहयोगको अङ्गका रूपमा प्रयोग गरिएमा, 3; प्रभावित समुदाय वा समुदायका कुनै समूहका लागि अझ व्यापक रूपमा प्रयोग गरिएमा, 2।",
+      "bt": "If used as part of focused support, 3; if used more broadly for the affected community or any group within the community, 2.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the nonclinical layer term 'focused support'; terminology review is pending. The back-translation substitutes 'targeted support' for 'focused support', changing the layer descriptor. Revised that descriptor only; its technical terminology remains pending review."
+    },
+    {
+      "id": "PYR-0046",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.4 Support new and pre-existing group-based community MHPSS activities",
+      "ne": "3.4 नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने।",
+      "bt": "3.4 Support new and already operating group-based community MHPSS activities.",
+      "type": "activity",
+      "terms": [
+        "T101"
+      ],
+      "flags": [],
+      "note": "Uses the supplied activity-label candidate."
+    },
+    {
+      "id": "PYR-0047",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2, if activity focuses on strengthening community and family supports",
+      "ne": "गतिविधि समुदाय र परिवारबाट प्राप्त हुने सहयोग सुदृढ गर्न केन्द्रित भएमा, 2।",
+      "bt": "If the activity focuses on strengthening support received from the community and family, 2.",
+      "type": "general",
+      "terms": [
+        "T126",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0048",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "ne": "3.5 साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास (ECD) गतिविधि प्रदान गर्ने।",
+      "bt": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers.",
+      "type": "activity",
+      "terms": [
+        "T102",
+        "T006",
+        "T037"
+      ],
+      "flags": [],
+      "note": "Uses the supplied activity-label candidate."
+    },
+    {
+      "id": "PYR-0049",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2",
+      "ne": "2",
+      "bt": "2",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0050",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "3.6 बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने।",
+      "bt": "3.6 Provide group activities for children's mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical wording is reused from the supplied cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "PYR-0051",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2",
+      "ne": "2",
+      "bt": "2",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0052",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.7 Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children",
+      "ne": "3.7 हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.7 Promote caregivers' mental health and psychosocial well-being and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T104",
+        "T006",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical wording is reused from the supplied cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "PYR-0053",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2",
+      "ne": "2",
+      "bt": "2",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0054",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "ne": "3.8 शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.8 Promote the mental health and psychosocial well-being of education sector staff and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T105",
+        "T070",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical wording is reused from the supplied cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "PYR-0055",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2",
+      "ne": "2",
+      "bt": "2",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0056",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.9 Provide MHPSS through safe spaces for women and girls",
+      "ne": "3.9 महिला तथा बालिकाका लागि सुरक्षित स्थलमार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.9 Provide MHPSS through safe spaces for women and girls.",
+      "type": "activity",
+      "terms": [],
+      "flags": [],
+      "note": "Uses [Nepali wording recorded in terminology evidence] for 'girls' rather than the supplied activity label's adolescent-specific [Nepali wording recorded in terminology evidence], preserving the source population without an age restriction."
+    },
+    {
+      "id": "PYR-0057",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "2",
+      "ne": "2",
+      "bt": "2",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0058",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.10 Provide mental health care as part of general health services",
+      "ne": "3.10 सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने।",
+      "bt": "3.10 Provide mental health services as part of general health services.",
+      "type": "activity",
+      "terms": [
+        "T107",
+        "T027",
+        "T157"
+      ],
+      "flags": [],
+      "note": "Clinical wording is reused from the supplied cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "PYR-0059",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3",
+      "ne": "3",
+      "bt": "3",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0060",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "ne": "3.11 यौन हिंसा तथा घनिष्ठ साथीद्वारा हुने हिंसाबाट प्रभावितहरूको क्लिनिकल हेरचाहको अङ्गका रूपमा MHPSS प्रदान गर्ने।",
+      "bt": "3.11 Provide MHPSS as part of the clinical care of those affected by sexual violence and violence by an intimate partner.",
+      "type": "safety",
+      "terms": [
+        "T108",
+        "T009",
+        "T055",
+        "T299"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label denotes people affected by the violence and can include indirectly affected people, whereas the source specifically identifies people who directly experienced and survived sexual violence or intimate partner violence. bt-divergence: The frozen activity label describes people affected by sexual violence and intimate partner violence, potentially including indirectly affected people; the source specifies survivors who directly experienced and survived the violence. The frozen form is retained."
+    },
+    {
+      "id": "PYR-0061",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3",
+      "ne": "3",
+      "bt": "3",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "PYR-0062",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.12 Initiate or strengthen the provision of psychological interventions",
+      "ne": "3.12 मनोवैज्ञानिक हस्तक्षेपहरूको व्यवस्था सुरु गर्ने वा सुदृढ गर्ने।",
+      "bt": "3.12 Initiate or strengthen the provision of psychological interventions.",
+      "type": "activity",
+      "terms": [
+        "T109",
+        "T007"
+      ],
+      "flags": [],
+      "note": "Clinical wording, including the inflected form, is reused from the supplied cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "PYR-0063",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3 4, if it involves psychotherapy by mental health specialists",
+      "ne": "3 4, यदि यसमा मानसिक स्वास्थ्य विशेषज्ञहरूद्वारा गरिने मनोचिकित्सा समावेश हुन्छ भने।",
+      "bt": "3 4, if this includes psychotherapy carried out by mental health specialists.",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T264"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The unpunctuated “3 4” is retained; source layout is needed to confirm the separation of the layer numbers and the condition's attachment."
+    },
+    {
+      "id": "PYR-0064",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.13 Provide MHPSS through case management services",
+      "ne": "3.13 केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.13 Provide MHPSS through case management services.",
+      "type": "activity",
+      "terms": [
+        "T110",
+        "T118"
+      ],
+      "flags": [],
+      "note": "Uses the supplied cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "PYR-0065",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3",
+      "ne": "3",
+      "bt": "3",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numeric layer label retained exactly."
+    },
+    {
+      "id": "PYR-0066",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "ne": "3.14 मानसिक अस्पताल तथा अन्य संस्थामा रहेका व्यक्तिहरूको संरक्षण र हेरचाह गर्ने।",
+      "bt": "3.14 Protect and care for people in mental hospitals and other institutions.",
+      "type": "activity",
+      "terms": [
+        "T111",
+        "T015"
+      ],
+      "flags": [],
+      "note": "Reuses the unreviewed activity candidate T111, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 104."
+    },
+    {
+      "id": "PYR-0067",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "1 (if focused on providing for basic needs and social considerations), and/or 4 (if focused on provision of specialized mental health care)",
+      "ne": "1 (आधारभूत आवश्यकता पूरा गर्ने र सामाजिक पक्षलाई ध्यान दिने कार्यमा केन्द्रित भएमा), र/वा 4 (विशेषीकृत मानसिक स्वास्थ्य सेवा प्रदान गर्ने कार्यमा केन्द्रित भएमा)",
+      "bt": "1 (if focused on meeting basic needs and paying attention to social aspects), and/or 4 (if focused on providing specialized mental health services)",
+      "type": "general",
+      "terms": [
+        "T157"
+      ],
+      "flags": [],
+      "note": "The mental health care wording reuses the existing unreviewed wording within T107; the specialization qualifier and both conditional clauses are retained."
+    },
+    {
+      "id": "PYR-0068",
+      "page": "3",
+      "loc": "caption",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Figure 1. Illustrative figure of how MSP activities (section 3) can map on the IASC intervention pyramid for mental health and psychosocial support in emergencies (adapted with permission)",
+      "ne": "चित्र 1. आपत्कालीन अवस्थामा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगका लागि IASC को हस्तक्षेप पिरामिडमा MSP गतिविधिहरू (खण्ड 3) कसरी मिलान गर्न सकिन्छ भन्ने देखाउने दृष्टान्त चित्र (अनुमति लिएर रूपान्तरित)",
+      "bt": "Figure 1. Illustrative diagram showing how MSP activities (Section 3) can be aligned with the IASC intervention pyramid for mental health and psychosocial support in emergency situations (adapted with permission)",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T131",
+        "T153",
+        "T157",
+        "T163",
+        "T272",
+        "T410",
+        "T412",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "T001 is reused as an unreviewed candidate. Proposed technical glossary entry: intervention pyramid = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; this describes the framework, not a newly coined clinical intervention. The back-translation expresses inclusion in the pyramid rather than mapping activities onto it. The revision makes the mapping relationship explicit; the technical framework wording remains pending review."
+    },
+    {
+      "id": "PYR-0069",
+      "page": "3",
+      "loc": "heading",
+      "section": "Illustrative examples of MSP activities in different layers",
+      "en": "Section 1: Inter-agency coordination and assessment for the MHPSS response",
+      "ne": "खण्ड 1: MHPSS प्रतिकार्यका लागि अन्तर-निकाय समन्वय र लेखाजोखा",
+      "bt": "Section 1: Inter-agency coordination and assessment for the MHPSS response",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T161",
+        "T174",
+        "T349",
+        "T422"
+      ],
+      "flags": [],
+      "note": "This is a section heading rather than an individual activity instruction."
+    },
+    {
+      "id": "PYR-0070",
+      "page": "3",
+      "loc": "heading",
+      "section": "Section 1: Inter-agency coordination and assessment for the MHPSS response",
+      "en": "Section 2: Essential components of all MHPSS programmes (Design, M&E, workforce wellbeing, competencies)",
+      "ne": "खण्ड 2: सबै MHPSS कार्यक्रमका अत्यावश्यक अवयवहरू (डिजाइन, M&E, कार्यबलको कल्याण, सक्षमता)",
+      "bt": "Section 2: Essential components of all MHPSS programmes (design, M&E, workforce well-being, competence)",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T209",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Workforce well-being is rendered as an ordinary organizational concept, not a clinical condition; M&E is retained exactly."
+    },
+    {
+      "id": "PYR-0071",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 2: Essential components of all MHPSS programmes (Design, M&E, workforce wellbeing, competencies)",
+      "en": "Specialized ser vices",
+      "ne": "विशेषीकृत सेवाहरू",
+      "bt": "Specialized services",
+      "type": "safety",
+      "terms": [
+        "T178"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The draft interprets the broken source “Specialized ser vices” as “Specialized services”; source confirmation remains necessary."
+    },
+    {
+      "id": "PYR-0072",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 2: Essential components of all MHPSS programmes (Design, M&E, workforce wellbeing, competencies)",
+      "en": "Focused non-specialized supports",
+      "ne": "केन्द्रित गैरविशेषीकृत सहयोग",
+      "bt": "Focused non-specialized support",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Translated as an ordinary service-layer label, not a clinical procedure. Proposed framework label: focused non-specialized supports = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "PYR-0073",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 2: Essential components of all MHPSS programmes (Design, M&E, workforce wellbeing, competencies)",
+      "en": "Community and family supports",
+      "ne": "सामुदायिक तथा पारिवारिक सहयोग",
+      "bt": "Community and family support",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed framework label: community and family supports = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The translation adds that support is received from communities and families, whereas the source label does not specify that direction. The revision removes the added direction; interpretation of the framework label remains pending technical review."
+    },
+    {
+      "id": "PYR-0074",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 2: Essential components of all MHPSS programmes (Design, M&E, workforce wellbeing, competencies)",
+      "en": "Social consideration in basic services and security",
+      "ne": "आधारभूत सेवा तथा सुरक्षामा सामाजिक पक्षको विचार",
+      "bt": "Consideration of social aspects in basic services and security",
+      "type": "general",
+      "terms": [
+        "T176"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed framework label: social consideration in basic services and security = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "PYR-0075",
+      "page": "3",
+      "loc": "heading",
+      "section": "Section 2: Essential components of all MHPSS programmes (Design, M&E, workforce wellbeing, competencies)",
+      "en": "Section 3: MHPSS programme activities",
+      "ne": "खण्ड 3: MHPSS कार्यक्रमका गतिविधिहरू",
+      "bt": "Section 3: MHPSS programme activities",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Section heading translated without treating it as a separate activity instruction."
+    },
+    {
+      "id": "PYR-0076",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "Supportive supervision and mentoring of non-specialists and management and referral of persons in need of mental health specialists (e.g. psychiatrists, psychologists)",
+      "ne": "गैर-विशेषज्ञहरूको सहयोगात्मक सुपरिवेक्षण र मार्गदर्शन तथा मानसिक स्वास्थ्य विशेषज्ञहरू (जस्तै, मनोचिकित्सकहरू, मनोवैज्ञानिकहरू) आवश्यक पर्ने व्यक्तिहरूको व्यवस्थापन र उनीहरूलाई सम्बन्धित सेवामा पठाउने कार्य",
+      "bt": "Supportive supervision and guidance of non-specialists, and management of people who need mental health specialists (e.g., psychiatrists, psychologists) and referring them to the relevant services",
+      "type": "safety",
+      "terms": [
+        "T309",
+        "T157",
+        "T264",
+        "T491",
+        "T497",
+        "T172"
+      ],
+      "flags": [],
+      "note": "The draft retains supervision and mentoring for non-specialists, and management and referral for people needing mental health specialists."
+    },
+    {
+      "id": "PYR-0077",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.10Provide mental health care as part of general health services",
+      "ne": "3.10 सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने।",
+      "bt": "3.10 Provide mental health services as part of general health services.",
+      "type": "activity",
+      "terms": [
+        "T107",
+        "T157"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source joins the activity code directly to the following word; literal source wording retained. Reuses unreviewed T107, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 100. The source joins 3.10 to the following word; the code is unchanged and a word boundary is shown in Nepali."
+    },
+    {
+      "id": "PYR-0078",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.11Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "ne": "3.11 यौन हिंसा तथा घनिष्ठ साथीद्वारा हुने हिंसाबाट प्रभावितहरूको क्लिनिकल हेरचाहको अङ्गका रूपमा MHPSS प्रदान गर्ने।",
+      "bt": "3.11 Provide MHPSS as part of the clinical care of those affected by sexual violence and violence by an intimate partner.",
+      "type": "safety",
+      "terms": [
+        "T108",
+        "T009",
+        "T055",
+        "T299"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "bt-divergence"
+      ],
+      "note": "The source joins “3.11” directly to “Provide”; the code is retained with a separating space. The frozen activity label can include indirectly affected people, whereas the source specifies people who directly experienced and survived the stated violence. bt-divergence: The frozen activity label describes people affected by sexual violence and intimate partner violence, potentially including indirectly affected people; the source specifies survivors who directly experienced and survived the violence. The frozen form is retained."
+    },
+    {
+      "id": "PYR-0079",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.12Initiate or strengthen the provision of psychological interventions (by non-specialists)",
+      "ne": "3.12 मनोवैज्ञानिक हस्तक्षेपहरूको व्यवस्था सुरु गर्ने वा सुदृढ गर्ने (गैरविशेषज्ञद्वारा)।",
+      "bt": "3.12 Initiate or strengthen the provision of psychological interventions (by non-specialists).",
+      "type": "activity",
+      "terms": [
+        "T109",
+        "T007"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source joins the activity code directly to the following word; literal source wording retained. Reuses unreviewed T109, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 102, and retains the additional non-specialist actor. The source joins 3.12 to the following word; the code is unchanged and a word boundary is shown in Nepali."
+    },
+    {
+      "id": "PYR-0080",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.13Provide MHPSS through case management services",
+      "ne": "3.13 केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.13 Provide MHPSS through case management services.",
+      "type": "activity",
+      "terms": [
+        "T110",
+        "T118"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source joins the activity code directly to the following word; literal source wording retained. Reuses unreviewed T110, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 103. The source joins 3.13 to the following word; the code is unchanged and a word boundary is shown in Nepali."
+    },
+    {
+      "id": "PYR-0081",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.2",
+      "ne": "3.2",
+      "bt": "3.2",
+      "type": "keep",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source wraps the activity code over two lines and displaces it from its activity label. Sequential code fragments are joined without adding characters; the separate description follows. Code retained exactly; its activity description remains in the following row. The supplied source note reports a wrapped and displaced code."
+    },
+    {
+      "id": "PYR-0082",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "Orient frontline workers and community leaders in basic psychosocial support skills",
+      "ne": "अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने।",
+      "bt": "Orient frontline workers and community leaders in basic psychosocial support skills.",
+      "type": "activity",
+      "terms": [
+        "T099",
+        "T013",
+        "T069",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses unreviewed T099, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 90."
+    },
+    {
+      "id": "PYR-0083",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.3",
+      "ne": "3.3",
+      "bt": "3.3",
+      "type": "keep",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source wraps the activity code over two lines and displaces it from its activity label. Sequential code fragments are joined without adding characters; the separate description follows. Code retained exactly, separately from the key-message dissemination label that follows; source layout requires confirmation."
+    },
+    {
+      "id": "PYR-0084",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "Disseminate key messages to promote mental health and psychosocial well-being",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मुख्य सन्देशहरू प्रसार गर्ने।",
+      "bt": "Disseminate key messages to promote mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T100",
+        "T005",
+        "T157",
+        "T253",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses unreviewed T100, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 92."
+    },
+    {
+      "id": "PYR-0085",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.4",
+      "ne": "3.4",
+      "bt": "3.4",
+      "type": "keep",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source wraps the activity code over two lines and displaces it from its activity label. Sequential code fragments are joined without adding characters; the separate description follows. Code retained exactly, separately from the community-activity support label that follows; the source reports displacement."
+    },
+    {
+      "id": "PYR-0086",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "Support new and pre-existing group-based community MHPSS activities",
+      "ne": "नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने।",
+      "bt": "Support new and already operating group-based community MHPSS activities.",
+      "type": "safety",
+      "terms": [
+        "T101"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label implies that pre-existing activities are already operating; the source includes pre-existing activities without requiring current operation. bt-divergence: The frozen activity label describes pre-existing activities as already operating; the source does not require pre-existing activities to be currently operating. The frozen form is retained."
+    },
+    {
+      "id": "PYR-0087",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.5",
+      "ne": "3.5",
+      "bt": "3.5",
+      "type": "keep",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source wraps the activity code over two lines and displaces it from its activity label. Sequential code fragments are joined without adding characters; the separate description follows. Code retained exactly, separately from the ECD activity label that follows; the supplied source note reports wrapping."
+    },
+    {
+      "id": "PYR-0088",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "ne": "साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास (ECD) गतिविधि प्रदान गर्ने।",
+      "bt": "Provide early childhood development (ECD) activities to support young children and their caregivers.",
+      "type": "activity",
+      "terms": [
+        "T102",
+        "T037",
+        "T006"
+      ],
+      "flags": [],
+      "note": "Reuses unreviewed T102, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 94; ECD is retained."
+    },
+    {
+      "id": "PYR-0089",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.6",
+      "ne": "3.6",
+      "bt": "3.6",
+      "type": "keep",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source wraps the activity code over two lines and displaces it from its activity label. Sequential code fragments are joined without adding characters; the separate description follows. Code retained exactly, separately from the children's group-activity label that follows; its source placement remains uncertain."
+    },
+    {
+      "id": "PYR-0090",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने।",
+      "bt": "Provide group activities for children's mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses unreviewed T103, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 95."
+    },
+    {
+      "id": "PYR-0091",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.7",
+      "ne": "3.7",
+      "bt": "3.7",
+      "type": "keep",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source wraps the activity code over two lines and displaces it from its activity label. Sequential code fragments are joined without adding characters; the separate description follows. Code retained exactly, separately from the caregiver-focused activity label that follows; source layout requires confirmation."
+    },
+    {
+      "id": "PYR-0092",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children",
+      "ne": "हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "Promote caregivers' mental health and psychosocial well-being and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T104",
+        "T006",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses unreviewed T104, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 96, preserving both caregiver well-being and capacity to support children."
+    },
+    {
+      "id": "PYR-0093",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.8",
+      "ne": "3.8",
+      "bt": "3.8",
+      "type": "keep",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source wraps the activity code over two lines and displaces it from its activity label. Sequential code fragments are joined without adding characters; the separate description follows. Code retained exactly, separately from the education-personnel activity label that follows; the source reports wrapping and displacement."
+    },
+    {
+      "id": "PYR-0094",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "ne": "शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "Promote the mental health and psychosocial well-being of education-sector staff and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T105",
+        "T070",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses unreviewed T105, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 97, retaining education personnel as the actors whose capacity is strengthened."
+    },
+    {
+      "id": "PYR-0095",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.9",
+      "ne": "3.9",
+      "bt": "3.9",
+      "type": "keep",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source wraps the activity code over two lines and displaces it from its activity label. Sequential code fragments are joined without adding characters; the separate description follows. Code retained exactly, separately from the safe-space activity label that follows; its source placement requires confirmation."
+    },
+    {
+      "id": "PYR-0096",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "Provide MHPSS through women and girls safe spaces",
+      "ne": "महिला तथा किशोरीका लागि सुरक्षित स्थलमार्फत MHPSS प्रदान गर्ने।",
+      "bt": "Provide MHPSS through safe spaces for women and adolescent girls.",
+      "type": "safety",
+      "terms": [
+        "T106",
+        "T054"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label restricts “girls” to adolescent girls, while the source includes girls without that age restriction. bt-divergence: The frozen activity label restricts girls to adolescent girls; the source includes girls without that age restriction. The frozen form is retained."
+    },
+    {
+      "id": "PYR-0097",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.1 Orient humanitarian actors and community members and advocate for MHPSS considerations and actions",
+      "ne": "3.1 मानवीय कर्ता र समुदायका सदस्यलाई अभिमुखीकरण गर्ने र MHPSS सम्बन्धी विचारणीय पक्ष तथा कार्यका लागि पैरवी गर्ने।",
+      "bt": "3.1 Orient humanitarian actors and community members and advocate for considerations and actions related to MHPSS.",
+      "type": "activity",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": "The source does not specify the subject of the orientation; “on MHPSS” from the longer activity-list label has not been added."
+    },
+    {
+      "id": "PYR-0098",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "3.14Protect and care for people in psychiatric hospitals and other institutions(i ffocusedonbasicneedsandsocial considerations)",
+      "ne": "3.14 मानसिक अस्पताल तथा अन्य संस्थामा रहेका व्यक्तिहरूको संरक्षण र हेरचाह गर्ने (यदि आधारभूत आवश्यकता र सामाजिक पक्षहरूमा केन्द्रित भएमा)।",
+      "bt": "3.14 Protect and care for people in mental hospitals and other institutions (if focused on basic needs and social aspects).",
+      "type": "safety",
+      "terms": [
+        "T111",
+        "T015"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The damaged parenthetical “i ffocusedonbasicneedsandsocial considerations” is provisionally read as a condition concerning basic needs and social considerations; its exact wording and attachment require source-layout confirmation."
+    },
+    {
+      "id": "PYR-0099",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Section 3: MHPSS programme activities",
+      "en": "See MHPSS MSP:h ttps://mhpssmsp.org",
+      "ne": "MHPSS MSP:h ttps://mhpssmsp.org हेर्नुहोस्।",
+      "bt": "See MHPSS MSP:h ttps://mhpssmsp.org.",
+      "type": "safety",
+      "terms": [
+        "T163"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The malformed source sequence “MSP:h ttps://mhpssmsp.org” is preserved without normalization; the intended address and its displayed boundaries require source confirmation."
+    }
+  ]
+}

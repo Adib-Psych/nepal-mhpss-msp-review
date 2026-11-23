@@ -1,0 +1,1392 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "QSG-WASH",
+  "unit_id": "QSG-WASH",
+  "unit_title": "Quick start guide to the MHPSS Minimum Service Package for WATER SANITATION AND HYGIENE (WASH) ACTORS",
+  "phase": "A",
+  "source_file": "04 Sector Quick Start Guides/WASH_Guide_240730 (1).pdf",
+  "source_sha256": "8e7c1a1b75127661e89152edcbd24db4729224527c1c8246be24d5a3f15e46a0",
+  "pages": "1-3",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:28:58+05:45",
+  "coverage": {
+    "source_words": 1228,
+    "row_words": 1228,
+    "skipped": [
+      "Page 1: running page number 1.",
+      "Page 2: running page number 2.",
+      "Page 3: running page number 3.",
+      "Page 3: embedded image 1: European Union Embedded institutional logo text skipped.",
+      "Page 3: embedded image 2: Ministry of Foreign Affairs of the Netherlands Embedded institutional logo text skipped."
+    ]
+  },
+  "rows": [
+    {
+      "id": "QSG-WASH-0001",
+      "page": "1",
+      "loc": "title",
+      "section": "",
+      "en": "Quick start guide to the MHPSS Minimum Service Package for WATER SANITATION AND HYGIENE (WASH) ACTORS",
+      "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH) क्षेत्रका सम्बद्ध पक्षहरूका लागि MHPSS न्यूनतम सेवा प्याकेजको द्रुत आरम्भ मार्गदर्शिका",
+      "bt": "Quick-start guide to the MHPSS Minimum Service Package for stakeholders in the drinking water, sanitation and hygiene (WASH) sector",
+      "type": "general",
+      "terms": [
+        "T033",
+        "T002",
+        "T114",
+        "T144",
+        "T186"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring equivalent for actors: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; not added to the frozen glossary."
+    },
+    {
+      "id": "QSG-WASH-0002",
+      "page": "1",
+      "loc": "heading",
+      "section": "Quick start guide to the MHPSS Minimum Service Package for WATER SANITATION AND HYGIENE (WASH) ACTORS",
+      "en": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग न्यूनतम सेवा प्याकेज (MSP) के हो?",
+      "bt": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T002",
+        "T157",
+        "T163",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0003",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "The MSP outlines priority activities to meet the mental health and psychosocial support needs of emergency-affected populations.",
+      "ne": "MSP ले आपत्कालबाट प्रभावित जनसमुदायको मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी आवश्यकता पूरा गर्न प्राथमिकताका गतिविधिहरूको रूपरेखा प्रस्तुत गर्दछ।",
+      "bt": "The MSP outlines priority activities to meet the mental health and psychosocial support needs of communities affected by emergencies.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T089",
+        "T157",
+        "T163",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0004",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "It is based on existing guidelines, the best available evidence, and expert consensus.",
+      "ne": "यो विद्यमान निर्देशिकाहरू, उपलब्ध सर्वोत्तम प्रमाण र विज्ञहरूको सहमतिमा आधारित छ।",
+      "bt": "It is based on existing guidelines, the best available evidence and expert consensus.",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T090"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0005",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "The goal of the MSP is to contribute to reduced suffering and improved mental health and psychosocial well-being.",
+      "ne": "MSP को लक्ष्य पीडा कम गर्न तथा मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सुधार ल्याउन योगदान गर्नु हो।",
+      "bt": "The aim of the MSP is to contribute to reducing suffering and improving mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T157",
+        "T163",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental-health and well-being wording reuses the supplied unreviewed activity-label wording; it is not clinically validated."
+    },
+    {
+      "id": "QSG-WASH-0006",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "For more information on what the MSP is, why it is needed and how it can be used, please refer to the MSP guide.",
+      "ne": "MSP के हो, यो किन आवश्यक छ र यसलाई कसरी प्रयोग गर्न सकिन्छ भन्नेबारे थप जानकारीका लागि MSP मार्गदर्शिका हेर्नुहोस्।",
+      "bt": "For more information about what the MSP is, why it is needed and how it can be used, see the MSP guide.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0007",
+      "page": "1",
+      "loc": "heading",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "How is it relevant to Water, Sanitation and Hygiene (WASH) actors?",
+      "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH) क्षेत्रका सम्बद्ध पक्षहरूका लागि यो कसरी सान्दर्भिक छ?",
+      "bt": "How is this relevant to stakeholders in the drinking water, sanitation and hygiene (WASH) sector?",
+      "type": "general",
+      "terms": [
+        "T033",
+        "T114",
+        "T186",
+        "T188"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring equivalent [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for actors."
+    },
+    {
+      "id": "QSG-WASH-0008",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Water, Sanitation and Hygiene (WASH) actors?",
+      "en": "The way in which water, sanitation and hygiene is provided to affected populations can have a substantial impact on their dignity, safety, mental health, and psychosocial well-being.",
+      "ne": "प्रभावित जनसमुदायलाई खानेपानी, सरसफाइ तथा स्वच्छता उपलब्ध गराउने तरिकाले उनीहरूको मर्यादा, सुरक्षा, मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा उल्लेखनीय प्रभाव पार्न सक्छ।",
+      "bt": "The way drinking water, sanitation and hygiene are provided to affected communities can significantly affect their dignity, safety, mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T033",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0009",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Water, Sanitation and Hygiene (WASH) actors?",
+      "en": "Emergency-affected populations are likely to face substantially increased stress, protection risks, and illness where WASH facilities are unclean, unsafe, or culturally inappropriate; where there is a lack of menstrual hygiene management; where the water supply is inadequate; or where waste management is poor.",
+      "ne": "जहाँ WASH सुविधाहरू फोहोर, असुरक्षित वा सांस्कृतिक रूपमा अनुपयुक्त छन्; जहाँ महिनावारी स्वच्छता व्यवस्थापनको अभाव छ; जहाँ पानीको आपूर्ति अपर्याप्त छ; वा जहाँ फोहोरमैला व्यवस्थापन कमजोर छ, त्यहाँ आपत्कालबाट प्रभावित जनसमुदायमा तनाव, संरक्षणसम्बन्धी जोखिम र रोगबिमार उल्लेखनीय रूपमा बढ्ने सम्भावना हुन्छ।",
+      "bt": "Where WASH facilities are dirty, unsafe or culturally inappropriate; where menstrual hygiene management is lacking; where the water supply is inadequate; or where waste management is poor, stress, protection-related risks and illness are likely to increase significantly among emergency-affected communities.",
+      "type": "safety",
+      "terms": [
+        "T084",
+        "T029"
+      ],
+      "flags": [],
+      "note": "Drafted as general WASH safety guidance, not as diagnostic or clinical wording; review pending. The translation narrows 'water supply' to drinking-water supply. Revised to preserve the source's broader water-supply scope."
+    },
+    {
+      "id": "QSG-WASH-0010",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Water, Sanitation and Hygiene (WASH) actors?",
+      "en": "There is also growing evidence that mental health and psychosocial well-being (e.g. levels of anxiety, self-efficacy, social connectedness) shape the extent to which people engage in certain health and hygiene behaviours during public health emergencies (e.g. handwashing, physical distancing, restricting movement).",
+      "ne": "मानसिक स्वास्थ्य र मनोसामाजिक कल्याण (जस्तै, चिन्ताको स्तर, आफ्नै क्षमताप्रतिको विश्वास, सामाजिक सम्बन्धको अनुभूति) ले जनस्वास्थ्यसम्बन्धी आपत्कालीन अवस्थामा मानिसहरूले स्वास्थ्य र स्वच्छतासम्बन्धी निश्चित व्यवहारहरू (जस्तै, हात धुने, भौतिक दूरी कायम गर्ने, आवागमन सीमित गर्ने) कति हदसम्म अपनाउँछन् भन्ने कुरामा प्रभाव पार्छन् भन्ने प्रमाण पनि बढ्दै गएको छ।",
+      "bt": "There is also growing evidence that mental health and psychosocial well-being (for example, levels of anxiety, belief in one's own abilities, a sense of social connection) influence the extent to which people adopt certain health and hygiene behaviours (for example, washing hands, maintaining physical distance, limiting movement) during public health emergencies.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T027",
+        "T131",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Anxiety is used as a general concept here, not as a named diagnosis."
+    },
+    {
+      "id": "QSG-WASH-0011",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Water, Sanitation and Hygiene (WASH) actors?",
+      "en": "MHPSS and WASH outcomes are therefore closely interlinked.",
+      "ne": "त्यसैले MHPSS र WASH का नतिजाहरू एकअर्कासँग घनिष्ठ रूपमा जोडिएका छन्।",
+      "bt": "Therefore, MHPSS and WASH outcomes are closely connected to each other.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0012",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Water, Sanitation and Hygiene (WASH) actors?",
+      "en": "The MSP outlines priority activities WASH actors can contribute to for promoting the mental health and psychosocial well-being of people affected by emergencies.",
+      "ne": "MSP ले आपत्कालबाट प्रभावित व्यक्तिहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न WASH क्षेत्रका सम्बद्ध पक्षहरूले योगदान गर्न सक्ने प्राथमिकताका गतिविधिहरूको रूपरेखा प्रस्तुत गर्दछ।",
+      "bt": "The MSP outlines priority activities to which stakeholders in the WASH sector can contribute to promote the mental health and psychosocial well-being of people affected by emergencies.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T089",
+        "T114",
+        "T157",
+        "T163",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring equivalent [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for actors."
+    },
+    {
+      "id": "QSG-WASH-0013",
+      "page": "1",
+      "loc": "heading",
+      "section": "How is it relevant to Water, Sanitation and Hygiene (WASH) actors?",
+      "en": "How do I find WASH content in the MSP?",
+      "ne": "MSP मा WASH सम्बन्धी सामग्री कसरी खोज्ने?",
+      "bt": "How to find WASH-related material in the MSP?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0014",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "Each MSP activity is labelled with icons showing which sectors, clusters, or areas of responsibility (AoRs) are typically well placed to deliver it (colourful icons) or contribute to it (dark blue icons).1",
+      "ne": "प्रत्येक MSP गतिविधिमा कुन क्षेत्र, क्लस्टर वा जिम्मेवारीका क्षेत्र (AoRs) सामान्यतया उक्त गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा छन् (रङ्गीन चिन्हहरू) वा त्यसमा योगदान गर्न उपयुक्त अवस्थामा छन् (गाढा नीलो चिन्हहरू) भन्ने देखाउने चिन्हहरू राखिएका छन्।1",
+      "bt": "Each MSP activity has symbols showing which sectors, clusters or areas of responsibility (AoRs) are generally in a suitable position to carry out that activity (colored symbols) or to contribute to it (dark blue symbols).1",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T123",
+        "T124",
+        "T163",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed technical equivalents: [Nepali wording recorded in terminology evidence] for cluster and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for areas of responsibility (AoRs). Neither is added to the frozen glossary."
+    },
+    {
+      "id": "QSG-WASH-0015",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "The dark-blue WASH icon indicates that WASH actors are typically well-placed to contribute to the implementation of an activity.",
+      "ne": "गाढा नीलो WASH चिन्हले WASH क्षेत्रका सम्बद्ध पक्षहरू सामान्यतया कुनै गतिविधिको कार्यान्वयनमा योगदान गर्न उपयुक्त अवस्थामा छन् भन्ने जनाउँछ।",
+      "bt": "The dark blue WASH symbol indicates that stakeholders in the WASH sector are generally in a suitable position to contribute to the implementation of an activity.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T380"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring equivalent [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for actors."
+    },
+    {
+      "id": "QSG-WASH-0016",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "For more information, see Who should implement MSP activities?",
+      "ne": "थप जानकारीका लागि “MSP गतिविधिहरू कसले कार्यान्वयन गर्नुपर्छ?” हेर्नुहोस्।",
+      "bt": "For more information, see “Who should implement MSP activities?”",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T272",
+        "T379"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0017",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "Figure 1 shows activity 3.9, Provide MHPSS through safe spaces for women and girls, as an example.",
+      "ne": "चित्र 1 मा गतिविधि 3.9, महिला तथा किशोरीका लागि सुरक्षित स्थलमार्फत MHPSS प्रदान गर्ने, उदाहरणका रूपमा देखाइएको छ।",
+      "bt": "In Figure 1, activity 3.9, providing MHPSS through safe spaces for women and adolescent girls, is shown as an example.",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T106"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen T106 wording narrows the source population from women and girls to women and adolescent girls, excluding younger girls. bt-divergence: Frozen T106, incorporating T054, renders source 'women and girls' as 'women and adolescent girls', excluding younger girls. The frozen form is retained; no repair is permitted for this conflict."
+    },
+    {
+      "id": "QSG-WASH-0018",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "The colourful icon shows that Gender-based Violence actors are typically well placed to deliver this activity.",
+      "ne": "रङ्गीन चिन्हले लैङ्गिक हिंसासम्बन्धी कार्य गर्ने सम्बद्ध पक्षहरू सामान्यतया यो गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा छन् भन्ने देखाउँछ।",
+      "bt": "The colored symbol shows that stakeholders working on gender-based violence are generally in a suitable position to carry out this activity.",
+      "type": "general",
+      "terms": [
+        "T010",
+        "T114",
+        "T233"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring equivalent [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for actors."
+    },
+    {
+      "id": "QSG-WASH-0019",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "The dark blue icons show that Camp Coordination and Camp Management (CCCM), Shelter and Settlements, and WASH actors are typically well placed to contribute to activity 3.9. For example, WASH actors may provide gender-sensitive water and sanitation facilities for women and girls accessing safe spaces.",
+      "ne": "गाढा नीलो चिन्हहरूले शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM), आश्रय तथा बस्ती, र WASH क्षेत्रका सम्बद्ध पक्षहरू सामान्यतया गतिविधि 3.9 मा योगदान गर्न उपयुक्त अवस्थामा छन् भन्ने देखाउँछन्। उदाहरणका लागि, WASH क्षेत्रका सम्बद्ध पक्षहरूले सुरक्षित स्थलहरूमा पहुँच लिने महिला तथा बालिकाका लागि लैङ्गिक संवेदनशील पानी र सरसफाइ सुविधाहरू उपलब्ध गराउन सक्छन्।",
+      "bt": "The dark blue marks indicate that stakeholders in the camp coordination and camp management (CCCM), shelter and settlements, and WASH sectors are generally in a suitable position to contribute to activity 3.9. For example, WASH sector stakeholders can provide gender-sensitive water and sanitation facilities for women and girls accessing safe spaces.",
+      "type": "safety",
+      "terms": [
+        "T031",
+        "T032",
+        "T114",
+        "T233",
+        "T293",
+        "T300",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General gender-sensitive WASH safety guidance; review pending. Uses the proposed recurring equivalent [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for actors. The translation narrows 'girls' to adolescent girls and 'water' to drinking water. Revised both restrictions; the listed glossary forms for CCCM and Shelter and Settlements are retained."
+    },
+    {
+      "id": "QSG-WASH-0020",
+      "page": "1",
+      "loc": "caption",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "Figure 1",
+      "ne": "चित्र 1",
+      "bt": "Figure 1",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0021",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "Gender-based violence (GBV): typically well placed to deliver the activity",
+      "ne": "लैङ्गिक हिंसा (GBV): सामान्यतया गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा",
+      "bt": "Gender-based violence (GBV): generally in a suitable position to carry out the activity",
+      "type": "general",
+      "terms": [
+        "T010",
+        "T143",
+        "T233"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0022",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "3.9 Provide MHPSS through women and girls safe spaces",
+      "ne": "3.9 महिला तथा किशोरीका लागि सुरक्षित स्थलमार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.9 Provide MHPSS through safe spaces for women and adolescent girls.",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T106"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen T106 wording narrows the source population from women and girls to women and adolescent girls, excluding younger girls. bt-divergence: Frozen T106, incorporating T054, renders source 'women and girls' as 'women and adolescent girls', excluding younger girls. The frozen form is retained; no repair is permitted for this conflict."
+    },
+    {
+      "id": "QSG-WASH-0023",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "CCCM, Shelter & Settlements, and WASH: typically well placed to contribute to the activity",
+      "ne": "CCCM, आश्रय तथा बस्ती, र WASH: सामान्यतया गतिविधिमा योगदान गर्न उपयुक्त अवस्थामा",
+      "bt": "CCCM, shelter and settlements, and WASH: generally in a suitable position to contribute to the activity",
+      "type": "general",
+      "terms": [
+        "T032",
+        "T300",
+        "T301"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0024",
+      "page": "1",
+      "loc": "footnote",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "1 The icons are not intended to be prescriptive, but a guide to who typically does what.",
+      "ne": "1 यी चिन्हहरूको उद्देश्य कसले के गर्नैपर्छ भनेर तोक्नु नभई सामान्यतया कसले के गर्छ भन्नेबारे मार्गदर्शन गर्नु हो।",
+      "bt": "1 The purpose of these symbols is to provide guidance on who generally does what, rather than to prescribe who must do what.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0025",
+      "page": "2",
+      "loc": "heading",
+      "section": "How do I find WASH content in the MSP?",
+      "en": "Which MSP activities are most relevant to WASH actors?",
+      "ne": "WASH क्षेत्रका सम्बद्ध पक्षहरूका लागि कुन MSP गतिविधिहरू सबैभन्दा सान्दर्भिक छन्?",
+      "bt": "Which MSP activities are most relevant to stakeholders in the WASH sector?",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T114",
+        "T163",
+        "T272"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring equivalent [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for actors."
+    },
+    {
+      "id": "QSG-WASH-0026",
+      "page": "2",
+      "loc": "para",
+      "section": "Which MSP activities are most relevant to WASH actors?",
+      "en": "MSP activities are organized into four sections.",
+      "ne": "MSP गतिविधिहरूलाई चार खण्डमा व्यवस्थित गरिएको छ।",
+      "bt": "MSP activities are organized into four sections.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T272",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0027",
+      "page": "2",
+      "loc": "heading",
+      "section": "Which MSP activities are most relevant to WASH actors?",
+      "en": "Section 1: Inter-Agency Coordination and Assessment",
+      "ne": "खण्ड 1: निकायहरूबीच समन्वय र लेखाजोखा",
+      "bt": "Section 1: Coordination and assessment between agencies",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T349",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Classified as a section heading rather than an activity label."
+    },
+    {
+      "id": "QSG-WASH-0028",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Activities 1.1 and 1.2 are particularly relevant for coordination groups in all sectors and AoRs, and cross-cutting MHPSS technical working groups.",
+      "ne": "गतिविधि 1.1 र 1.2 सबै क्षेत्र तथा जिम्मेवारीका क्षेत्र (AoRs) का समन्वय समूहहरू र विभिन्न क्षेत्रलाई समेट्ने MHPSS प्राविधिक कार्यसमूहहरू (Technical Working Groups) का लागि विशेष रूपमा सान्दर्भिक छन्।",
+      "bt": "Activities 1.1 and 1.2 are particularly relevant to coordination groups of all sectors and areas of responsibility (AoRs) and MHPSS technical working groups (Technical Working Groups) that cover different sectors.",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T127",
+        "T128",
+        "T296",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for areas of responsibility (AoRs). English expansion accompanies the first use of the supplied technical-working-group label."
+    },
+    {
+      "id": "QSG-WASH-0029",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "They promote effective inter-agency and intersectoral coordination and assessment.",
+      "ne": "यी गतिविधिहरूले निकायहरूबीच तथा क्षेत्रहरूबीच प्रभावकारी समन्वय र लेखाजोखालाई प्रवर्द्धन गर्छन्।",
+      "bt": "These activities promote effective coordination and assessment between agencies and between sectors.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T296",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0030",
+      "page": "2",
+      "loc": "table-head",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "MSP activity",
+      "ne": "MSP गतिविधि",
+      "bt": "MSP activity",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0031",
+      "page": "2",
+      "loc": "table-head",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Relevance to WASH actors2",
+      "ne": "WASH क्षेत्रका सम्बद्ध पक्षहरूका लागि सान्दर्भिकता2",
+      "bt": "Relevance for stakeholders in the WASH sector2",
+      "type": "general",
+      "terms": [
+        "T114"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring equivalent [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for actors. Footnote marker 2 is retained."
+    },
+    {
+      "id": "QSG-WASH-0032",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "1.1 Coordinate MHPSS within and across sectors",
+      "ne": "1.1 क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने।",
+      "bt": "1.1 Coordinate MHPSS within the sector and between sectors.",
+      "type": "activity",
+      "terms": [
+        "T092",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0033",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Establishing communication between MHPSS TWG and WASH cluster, e.g. information sharing and discussions of areas for potential collaboration; assigning an MHPSS focal point within the WASH Cluster. Establishing referral pathways for the referral of individuals to the full range of MHPSS activities as needed.",
+      "ne": "MHPSS TWG र जल, सरसफाइ तथा स्वच्छता (WASH) क्लस्टरबीच सञ्चार स्थापित गर्ने, उदाहरणका लागि सूचना आदानप्रदान गर्ने र सम्भावित सहकार्यका क्षेत्रबारे छलफल गर्ने; WASH क्लस्टरभित्र MHPSS सम्पर्क व्यक्ति तोक्ने। आवश्यकताअनुसार व्यक्तिहरूलाई MHPSS गतिविधिहरूको सम्पूर्ण दायरामा सेवा प्रेषण गर्न सेवा प्रेषण मार्गहरू स्थापित गर्ने।",
+      "bt": "Establish communication between the MHPSS TWG and the water, sanitation and hygiene (WASH) cluster, for example by exchanging information and discussing possible areas of collaboration; designate an MHPSS contact person within the WASH cluster. Establish referral pathways to refer individuals to the full range of MHPSS activities as needed.",
+      "type": "safety",
+      "terms": [
+        "T063",
+        "T067",
+        "T123",
+        "T158",
+        "T267"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General coordination and referral guidance drafted; safety review pending. WASH is recurring but has no supplied glossary entry; a proposed expansion is listed separately."
+    },
+    {
+      "id": "QSG-WASH-0034",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "1.2 Assess MHPSS needs and resources to guide programming",
+      "ne": "1.2 कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने।",
+      "bt": "1.2 Assess MHPSS needs and resources to guide the programme.",
+      "type": "activity",
+      "terms": [
+        "T093",
+        "T004"
+      ],
+      "flags": [],
+      "note": "Supplied activity-label candidate retained."
+    },
+    {
+      "id": "QSG-WASH-0035",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Including MHPSS and cultural considerations in WASH assessments.",
+      "ne": "WASH सम्बन्धी लेखाजोखामा MHPSS तथा सांस्कृतिक विचारणीय पक्षहरू समावेश गर्ने।",
+      "bt": "Include MHPSS and cultural considerations in WASH-related assessments.",
+      "type": "general",
+      "terms": [
+        "T004"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "WASH is retained; its proposed glossary expansion is listed separately."
+    },
+    {
+      "id": "QSG-WASH-0036",
+      "page": "2",
+      "loc": "heading",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Section 2: Essential components of all MHPSS programmes",
+      "ne": "खण्ड 2: सबै MHPSS कार्यक्रमका आवश्यक अवयवहरू",
+      "bt": "Section 2: Essential components of all MHPSS programmes",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Translated as a section heading rather than an activity label. The back-translation renders essential as mandatory. The revision preserves necessity without introducing a stronger obligation."
+    },
+    {
+      "id": "QSG-WASH-0037",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 2: Essential components of all MHPSS programmes",
+      "en": "Section 2 activities (on programme design, implementing an M&E system, caring for staff and volunteers and supporting MHPSS competencies) should be implemented by all organizations delivering MHPSS activities.",
+      "ne": "MHPSS गतिविधिहरू सञ्चालन गर्ने सबै संस्थाले खण्ड 2 का गतिविधिहरू कार्यान्वयन गर्नु उचित हुन्छ, जसमा कार्यक्रमको डिजाइन, अनुगमन तथा मूल्याङ्कन (M&E) प्रणालीको कार्यान्वयन, कर्मचारी र स्वयंसेवकको हेरचाह तथा MHPSS सक्षमतामा सहयोग गर्ने कार्य समावेश छन्।",
+      "bt": "It is appropriate for all organizations conducting MHPSS activities to implement the activities in Section 2, which include programme design, implementation of monitoring and evaluation (M&E) systems, care for staff and volunteers, and work to support MHPSS competencies.",
+      "type": "general",
+      "terms": [
+        "T156",
+        "T158",
+        "T209",
+        "T379",
+        "T394",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "M&E wording and MHPSS competency wording reuse supplied activity-list candidates T095 and T097; neither complete activity label is reproduced. The source says should be implemented, whereas the back-translation says must implement. The revision preserves the recommendation and its application to all organizations delivering MHPSS activities."
+    },
+    {
+      "id": "QSG-WASH-0038",
+      "page": "2",
+      "loc": "heading",
+      "section": "Section 2 activities (on programme design, implementing an M&E system, caring for staff and volunteers and supporting MHPSS competencies) should be implemented by all organizations delivering MHPSS activities.",
+      "en": "Sections 3 & 4: MHPSS Programme Activities",
+      "ne": "खण्ड 3 र 4: MHPSS कार्यक्रमका गतिविधिहरू",
+      "bt": "Sections 3 and 4: MHPSS programme activities",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Translated as a heading; both section numbers are retained."
+    },
+    {
+      "id": "QSG-WASH-0039",
+      "page": "2",
+      "loc": "heading",
+      "section": "Sections 3 & 4: MHPSS Programme Activities",
+      "en": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "ne": "WASH क्षेत्रमा कार्यरत पक्षहरू सामान्यतया योगदान दिन उपयुक्त स्थितिमा हुने कार्यक्रमगत गतिविधिहरू निम्न छन्:",
+      "bt": "The following are programme activities to which actors working in the WASH sector are generally well placed to contribute:",
+      "type": "general",
+      "terms": [
+        "T166"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains the qualified claim about typical suitability to contribute, rather than assigning responsibility. WASH lacks a supplied glossary entry."
+    },
+    {
+      "id": "QSG-WASH-0040",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "ne": "3.1 मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने र MHPSS सम्बन्धी विचारणीय पक्ष तथा कार्यका लागि पैरवी गर्ने।",
+      "bt": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS-related considerations and actions.",
+      "type": "activity",
+      "terms": [
+        "T098",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Supplied activity-label candidate retained."
+    },
+    {
+      "id": "QSG-WASH-0041",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "Collaborating with MHPSS experts to orient WASH actors on MHPSS and interlinkages between MHPSS and WASH. Providing assistance in ways that support mental health and psychosocial well-being by: • Promoting the participation of the affected population in assessment, programme planning and implementation (e.g. gender-balanced water committees including representatives from various community sub-groups). • Promoting safety, dignity, and protection in all WASH activities. • Preventing and managing conflict relating to WASH facilities in a constructive manner (e.g. by involving community WASH committees in the development of a system for preventing and managing conflict). • Advocating for the inclusion of menstrual hygiene management and incontinence interventions that include MHPSS considerations for women and girls. Ensuring that WASH activities and services are accessible to and consider the specific needs of people with mental health conditions.",
+      "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH) का सम्बद्ध पक्षहरूलाई MHPSS र MHPSS तथा WASH बीचका अन्तरसम्बन्धहरूबारे अभिमुखीकरण गर्न MHPSS विशेषज्ञहरूसँग सहकार्य गर्ने। मानसिक स्वास्थ्य र मनोसामाजिक कल्याणलाई सहयोग पुग्ने गरी निम्न तरिकाले सहायता प्रदान गर्ने:\n• लेखाजोखा, कार्यक्रमको योजना निर्माण र कार्यान्वयनमा प्रभावित जनसङ्ख्याको सहभागितालाई प्रोत्साहन गर्ने (जस्तै, समुदायका विभिन्न उपसमूहहरूका प्रतिनिधिहरू समावेश भएका लैङ्गिक रूपमा सन्तुलित खानेपानी समितिहरू)।\n• WASH का सबै गतिविधिहरूमा सुरक्षा, मर्यादा र संरक्षणलाई प्रवर्द्धन गर्ने।\n• WASH सुविधाहरूसम्बन्धी द्वन्द्वको रोकथाम र व्यवस्थापन रचनात्मक ढङ्गले गर्ने (जस्तै, द्वन्द्वको रोकथाम र व्यवस्थापन गर्ने प्रणाली विकास गर्न समुदायका WASH समितिहरूलाई सहभागी गराएर)।\n• महिला र बालिकाहरूका लागि MHPSS सम्बन्धी पक्षहरूलाई ध्यानमा राख्ने महिनावारी स्वच्छता व्यवस्थापन तथा पिसाब वा दिसा नियन्त्रण गर्न नसक्ने अवस्थासम्बन्धी हस्तक्षेपहरू समावेश गर्न पैरवी गर्ने।\nWASH का गतिविधि र सेवाहरू मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका व्यक्तिहरूका लागि पहुँचयोग्य हुने र तिनमा ती व्यक्तिहरूका विशिष्ट आवश्यकताहरूलाई ध्यानमा राखिने कुरा सुनिश्चित गर्ने।",
+      "bt": "Collaborate with MHPSS specialists to orient stakeholders in drinking water, sanitation and hygiene (WASH) on MHPSS and the interrelationships between MHPSS and WASH. Provide assistance in the following ways to support mental health and psychosocial well-being:\n• Encourage the participation of the affected population in assessment, programme planning and implementation (for example, gender-balanced water committees that include representatives of different subgroups of the community).\n• Promote safety, dignity and protection in all WASH activities.\n• Prevent and manage conflicts related to WASH facilities constructively (for example, by involving community WASH committees in developing a system to prevent and manage conflicts).\n• Advocate for the inclusion of menstrual hygiene management and interventions related to the inability to control urination or defecation that take MHPSS-related aspects into account for women and girls.\nEnsure that WASH activities and services are accessible to people with mental health conditions and that their specific needs are taken into account in those activities and services.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T005",
+        "T027",
+        "T029",
+        "T078",
+        "T084",
+        "T114",
+        "T157",
+        "T186",
+        "T233",
+        "T328",
+        "T344",
+        "T380",
+        "T409",
+        "T410",
+        "T476"
+      ],
+      "flags": [],
+      "note": "Incontinence interventions are rendered as general clinical guidance, not as a named therapy; the source population remains women and girls."
+    },
+    {
+      "id": "QSG-WASH-0042",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "ne": "3.2 अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने।",
+      "bt": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills.",
+      "type": "activity",
+      "terms": [
+        "T099",
+        "T013",
+        "T069",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical-support wording is retained only as the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-WASH-0043",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "Collaborating with MHPSS experts to orient WASH workers on basic psychosocial support, including identification and referral of children and adults who may need MHPSS.",
+      "ne": "MHPSS आवश्यक पर्न सक्ने बालबालिका र वयस्कहरूको पहिचान तथा सेवा प्रेषणसमेत समेटेर WASH कार्यकर्तालाई आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्न MHPSS विशेषज्ञहरूसँग सहकार्य गर्ने।",
+      "bt": "Collaborate with MHPSS specialists to orient WASH workers on basic psychosocial support, including the identification and referral of children and adults who may need MHPSS.",
+      "type": "safety",
+      "terms": [
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the cited unreviewed candidate T099; the complete activity label is not reproduced. Identification is not rendered as diagnosis. Safety review pending. WASH lacks a supplied glossary entry."
+    },
+    {
+      "id": "QSG-WASH-0044",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "3.3 Disseminate key messages to promote mental health and psychosocial well-being",
+      "ne": "3.3 मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मुख्य सन्देशहरू प्रसार गर्ने।",
+      "bt": "3.3 Disseminate key messages to promote mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T100",
+        "T005",
+        "T157",
+        "T253",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical wording is retained only as the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-WASH-0045",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "Incorporating key MHPSS messages in WASH activities and Information, Education and Communication materials.",
+      "ne": "WASH गतिविधिहरू तथा सूचना, शिक्षा तथा सञ्चार सामग्रीहरूमा MHPSS का मुख्य सन्देशहरू समावेश गर्ने।",
+      "bt": "Include key MHPSS messages in WASH activities and information, education and communication materials.",
+      "type": "general",
+      "terms": [
+        "T043",
+        "T204"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied Information, Education and Communication wording is used. WASH lacks a supplied glossary entry."
+    },
+    {
+      "id": "QSG-WASH-0046",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "3.4 Support new and pre-existing group-based community MHPSS activities",
+      "ne": "3.4 नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने।",
+      "bt": "3.4 Support new and already operating group-based community MHPSS activities.",
+      "type": "activity",
+      "terms": [
+        "T101"
+      ],
+      "flags": [],
+      "note": "Supplied activity-label candidate retained."
+    },
+    {
+      "id": "QSG-WASH-0047",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "Ensuring access to safe, private, gender sensitive water and sanitation facilities and to hygiene items for the community (e.g. soap, pads) in spaces where group-based community MHPSS activities take place.",
+      "ne": "समूहमा आधारित सामुदायिक MHPSS गतिविधिहरू सञ्चालन हुने स्थानहरूमा समुदायका लागि सुरक्षित, गोपनीयता कायम हुने र लैङ्गिक संवेदनशील पानी तथा सरसफाइका सुविधा एवं स्वच्छताका सामग्रीहरू (उदाहरणका लागि साबुन, प्याड) मा पहुँच सुनिश्चित गर्ने।",
+      "bt": "Ensure access for the community to safe, privacy-preserving and gender-sensitive water and sanitation facilities and hygiene materials (for example, soap, pads) at locations where group-based community MHPSS activities take place.",
+      "type": "safety",
+      "terms": [
+        "T079",
+        "T085",
+        "T142",
+        "T158",
+        "T187",
+        "T233",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safe-access guidance drafted; safety review pending. Proposals are listed for recurring water and sanitation facilities and gender-sensitive terminology. Private is rendered as maintaining privacy, not private ownership."
+    },
+    {
+      "id": "QSG-WASH-0048",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "3.6 बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने।",
+      "bt": "3.6 Provide group activities for children's mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical wording is retained only as the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-WASH-0049",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "Ensuring access to safe, private, child-friendly, gender sensitive water and sanitation facilities and to hygiene items for children in spaces where group activities for children take place.",
+      "ne": "बालबालिकाका लागि सामूहिक गतिविधिहरू सञ्चालन हुने स्थानहरूमा बालबालिकाका लागि सुरक्षित, गोपनीयता कायम हुने, बालमैत्री र लैङ्गिक संवेदनशील पानी तथा सरसफाइका सुविधा एवं स्वच्छताका सामग्रीहरूमा पहुँच सुनिश्चित गर्ने।",
+      "bt": "Ensure access for children to safe, privacy-preserving, child-friendly and gender-sensitive water and sanitation facilities and hygiene materials at locations where group activities for children take place.",
+      "type": "safety",
+      "terms": [
+        "T085",
+        "T142",
+        "T187",
+        "T233"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safe-access guidance drafted; safety review pending. Recurring facility and gender-sensitive terminology is proposed separately; all four facility attributes are retained."
+    },
+    {
+      "id": "QSG-WASH-0050",
+      "page": "2",
+      "loc": "footnote",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "2 These examples should not be considered exhaustive.",
+      "ne": "2 यी उदाहरणहरूलाई सम्पूर्ण सूचीका रूपमा लिनु उचित हुँदैन।",
+      "bt": "2 It is not appropriate to take these examples as an exhaustive list.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Footnote marker 2 is retained. The source says should not be considered exhaustive; the back-translation strengthens this to must not. The revision retains the source's advisory strength and footnote marker."
+    },
+    {
+      "id": "QSG-WASH-0051",
+      "page": "2",
+      "loc": "footnote",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "For a more comprehensive list of actions, see the checklists under each MSP activity.",
+      "ne": "कार्यहरूको अझ व्यापक सूचीका लागि प्रत्येक MSP गतिविधिअन्तर्गतका जाँचसूचीहरू हेर्नुहोस्।",
+      "bt": "For a more comprehensive list of actions, see the checklists under each MSP activity.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T121",
+        "T163"
+      ],
+      "flags": [],
+      "note": "Preserves the reference to checklists under each MSP activity. More comprehensive concerns breadth of coverage, not merely greater detail. The revision makes that distinction explicit."
+    },
+    {
+      "id": "QSG-WASH-0052",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "3.9 Provide MHPSS through women and girls safe spaces",
+      "ne": "3.9 महिला तथा किशोरीका लागि सुरक्षित स्थलमार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.9 Provide MHPSS through safe spaces for women and adolescent girls.",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T106"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen T106 wording narrows the source population from women and girls to women and adolescent girls, excluding younger girls. bt-divergence: Frozen T106, incorporating T054, renders source 'women and girls' as 'women and adolescent girls', excluding younger girls. The frozen form is retained; no repair is permitted for this conflict."
+    },
+    {
+      "id": "QSG-WASH-0053",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "Ensuring access to safe, private, gender sensitive water and sanitation facilities and to hygiene items for women and girls accessing safe spaces. For example, through the provision of appropriate menstrual hygiene management products.",
+      "ne": "सुरक्षित स्थलहरूमा आउने महिला तथा बालिकाहरूका लागि सुरक्षित, गोपनीयता कायम हुने र लैङ्गिक संवेदनशील पानी तथा सरसफाइका सुविधा एवं स्वच्छताका सामग्रीहरूमा पहुँच सुनिश्चित गर्ने। उदाहरणका लागि, उपयुक्त महिनावारी स्वच्छता व्यवस्थापन सामग्रीहरू उपलब्ध गराएर यस्तो पहुँच सुनिश्चित गर्ने।",
+      "bt": "Ensure access to safe, privacy-preserving and gender-sensitive water and sanitation facilities and hygiene materials for women and girls coming to safe spaces. For example, ensure such access by providing appropriate menstrual hygiene management materials.",
+      "type": "safety",
+      "terms": [
+        "T085",
+        "T084",
+        "T142",
+        "T187",
+        "T233",
+        "T293"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safe-access guidance drafted; safety review pending. The menstrual hygiene management example is retained. Recurring facility and gender-sensitive terminology is proposed separately. The translation restricts girls to adolescent girls. The revision restores girls without that age restriction while retaining the access requirements and menstrual hygiene management example."
+    },
+    {
+      "id": "QSG-WASH-0054",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "ne": "3.14 मानसिक अस्पताल तथा अन्य संस्थामा रहेका व्यक्तिहरूको संरक्षण र हेरचाह गर्ने।",
+      "bt": "3.14 Protect and care for people in psychiatric hospitals and other institutions.",
+      "type": "activity",
+      "terms": [
+        "T111",
+        "T015",
+        "T029"
+      ],
+      "flags": [],
+      "note": "Institutional and clinical wording is retained only as the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-WASH-0055",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "Providing safe and dignified access to WASH for persons in psychiatric hospitals and institutions.",
+      "ne": "मानसिक अस्पताल र संस्थाहरूमा रहेका व्यक्तिहरूका लागि WASH मा सुरक्षित र मर्यादापूर्ण पहुँच उपलब्ध गराउने।",
+      "bt": "Provide safe and dignified access to WASH for people in psychiatric hospitals and institutions.",
+      "type": "safety",
+      "terms": [
+        "T015"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Mental hospital wording reuses the cited unreviewed candidate T015. General safe-access guidance is drafted, with safety review pending. WASH lacks a supplied glossary entry."
+    },
+    {
+      "id": "QSG-WASH-0056",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "4.2 Provide mental health and psychosocial support to persons deprived of their liberty",
+      "ne": "4.2 स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग प्रदान गर्ने।",
+      "bt": "4.2 Provide mental health and psychosocial support to people deprived of liberty.",
+      "type": "activity",
+      "terms": [
+        "T113",
+        "T001",
+        "T157",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical-support wording is retained only as the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-WASH-0057",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "Providing safe and dignified access to WASH for persons deprived of their liberty.",
+      "ne": "स्वतन्त्रताबाट वञ्चित व्यक्तिहरूका लागि WASH मा सुरक्षित र मर्यादापूर्ण पहुँच उपलब्ध गराउने।",
+      "bt": "Provide safe and dignified access to WASH for people deprived of liberty.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safe-access guidance drafted; safety review pending. WASH lacks a supplied glossary entry."
+    },
+    {
+      "id": "QSG-WASH-0058",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "You can use the filter on the ‘All Activities’ page of the web platform to show only WASH-relevant activities.",
+      "ne": "WASH सँग सम्बन्धित गतिविधिहरू मात्र देखाउन तपाईंले वेब प्लेटफर्मको ‘सबै गतिविधिहरू’ (‘All Activities’) पृष्ठमा रहेको फिल्टर प्रयोग गर्न सक्नुहुन्छ।",
+      "bt": "You can use the filter on the web platform's ‘All Activities’ page to show only activities related to WASH.",
+      "type": "general",
+      "terms": [
+        "T189"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The English interface label is retained alongside its Nepali rendering for navigation. WASH lacks a supplied glossary entry."
+    },
+    {
+      "id": "QSG-WASH-0059",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "For help navigating the MSP, see How is the MSP Structured? and the video tour of the web platform.",
+      "ne": "MSP मा चाहिएको जानकारी खोज्न सहयोगका लागि ‘MSP को संरचना कस्तो छ?’ र वेब प्लेटफर्मको परिचयात्मक भ्रमण भिडियो हेर्नुहोस्।",
+      "bt": "For help finding the information you need in the MSP, see ‘How is the MSP structured?’ and the introductory tour video of the web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189",
+        "T433"
+      ],
+      "flags": [],
+      "note": "The referenced heading and video tour are translated as navigation aids."
+    },
+    {
+      "id": "QSG-WASH-0060",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "No single organization is expected to implement all programme activities.",
+      "ne": "कुनै एक संस्थाले मात्र कार्यक्रमका सबै गतिविधिहरू कार्यान्वयन गर्ने अपेक्षा गरिएको छैन।",
+      "bt": "No single organization is expected to implement all programme activities alone.",
+      "type": "general",
+      "terms": [
+        "T409"
+      ],
+      "flags": [],
+      "note": "Preserves the limit on expectations placed on any single organization."
+    },
+    {
+      "id": "QSG-WASH-0061",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "Rather, relevant organizations must coordinate and work together across sectors/AoRs to ensure that activities are implemented, and a comprehensive response is delivered.",
+      "ne": "बरु, गतिविधिहरू कार्यान्वयन भएको र समग्र प्रतिकार्य प्रदान गरिएको सुनिश्चित गर्न सम्बन्धित संस्थाहरूले क्षेत्रहरू/AoRs बीच समन्वय गर्दै मिलेर काम गर्नुपर्छ।",
+      "bt": "Rather, the relevant organizations must work together, coordinating across sectors/AoRs, to ensure that activities are implemented and an overall response is provided.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T296"
+      ],
+      "flags": [],
+      "note": "Retains both required outcomes and the cross-sector/AoR coordination requirement; AoRs is preserved without an unsupported expansion."
+    },
+    {
+      "id": "QSG-WASH-0062",
+      "page": "3",
+      "loc": "heading",
+      "section": "The programmatic activities that WASH actors are typically well placed to contribute to are:",
+      "en": "What information is included in each activity?",
+      "ne": "प्रत्येक गतिविधिमा के-कस्ता जानकारी समावेश छन्?",
+      "bt": "What kinds of information are included in each activity?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Question heading retained."
+    },
+    {
+      "id": "QSG-WASH-0063",
+      "page": "3",
+      "loc": "heading",
+      "section": "What information is included in each activity?",
+      "en": "Each activity includes:",
+      "ne": "प्रत्येक गतिविधिमा निम्न कुरा समावेश छन्:",
+      "bt": "Each activity includes the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Retains the introduction to content included in every activity."
+    },
+    {
+      "id": "QSG-WASH-0064",
+      "page": "3",
+      "loc": "heading",
+      "section": "What information is included in each activity?",
+      "en": "Many activities also include:",
+      "ne": "धेरै गतिविधिहरूमा निम्न कुरा पनि समावेश छन्:",
+      "bt": "Many activities also include the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Retains the distinction between many activities and every activity."
+    },
+    {
+      "id": "QSG-WASH-0065",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Brief introduction",
+      "ne": "संक्षिप्त परिचय",
+      "bt": "Brief introduction",
+      "type": "general",
+      "terms": [
+        "T017"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0066",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Checklist of actions",
+      "ne": "कार्यहरूको जाँचसूची",
+      "bt": "Checklist of actions",
+      "type": "general",
+      "terms": [
+        "T018",
+        "T121"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0067",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Relevant guidelines, standards and tools",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण",
+      "bt": "Relevant guidelines, standards and tools",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0068",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Key considerations",
+      "ne": "मुख्य विचारणीय पक्षहरू",
+      "bt": "Key aspects to consider",
+      "type": "general",
+      "terms": [
+        "T154",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring label 'Key considerations' is absent from G-0.1; a terminology proposal is listed separately."
+    },
+    {
+      "id": "QSG-WASH-0069",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Recommended training topics",
+      "ne": "सिफारिस गरिएका तालिमका विषयहरू",
+      "bt": "Recommended training topics",
+      "type": "general",
+      "terms": [
+        "T088"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0070",
+      "page": "3",
+      "loc": "heading",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "How can I get more help?",
+      "ne": "म थप सहयोग कसरी पाउन सक्छु?",
+      "bt": "How can I get further support?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0071",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "The Step-by-Step Guide for different users provides guidance on how implementing organizations and coordinators can use the MSP.",
+      "ne": "विभिन्न प्रयोगकर्ताका लागि तयार गरिएको चरणबद्ध मार्गदर्शिका (Step-by-Step Guide) ले कार्यान्वयन गर्ने संस्था र समन्वयकर्ताहरूले MSP कसरी प्रयोग गर्न सक्छन् भन्ने मार्गदर्शन प्रदान गर्छ।",
+      "bt": "The Step-by-Step Guide prepared for different users provides guidance on how implementing organizations and coordinators can use the MSP.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163",
+        "T183",
+        "T214"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The guide title is absent from G-0.1; the proposed Nepali title retains the English title for identification."
+    },
+    {
+      "id": "QSG-WASH-0072",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "You can contact the MSP Helpdesk for tailored support by emailing mhpss.msp@gmail.com and mhpss.refgroup@gmail.com.",
+      "ne": "आफ्नो आवश्यकताअनुसारको सहयोगका लागि तपाईंले mhpss.msp@gmail.com र mhpss.refgroup@gmail.com मा इमेल पठाएर MSP सहायता कक्ष (MSP Helpdesk) लाई सम्पर्क गर्न सक्नुहुन्छ।",
+      "bt": "For support according to your needs, you can contact the MSP Helpdesk by sending an email to mhpss.msp@gmail.com and mhpss.refgroup@gmail.com.",
+      "type": "general",
+      "terms": [
+        "T146",
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. 'Helpdesk' is absent from G-0.1; a terminology proposal is listed separately."
+    },
+    {
+      "id": "QSG-WASH-0073",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "The Helpdesk can support with:",
+      "ne": "सहायता कक्षले निम्न विषयमा सहयोग गर्न सक्छ:",
+      "bt": "The helpdesk can provide support on the following topics:",
+      "type": "general",
+      "terms": [
+        "T146"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the same proposed rendering of 'Helpdesk' as the preceding row."
+    },
+    {
+      "id": "QSG-WASH-0074",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• orientations and workshops on using the MSP to strengthen the MHPSS response",
+      "ne": "• MHPSS प्रतिकार्यलाई सुदृढ बनाउन MSP को प्रयोगसम्बन्धी अभिमुखीकरण तथा कार्यशालाहरू।",
+      "bt": "• Orientations and workshops on using the MSP to strengthen the MHPSS response.",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T161",
+        "T163",
+        "T174",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0075",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• integrating MHPSS into different sectors, areas of responsibility and workstreams",
+      "ne": "• विभिन्न क्षेत्र, जिम्मेवारीका क्षेत्र र कार्यधाराहरूमा MHPSS एकीकृत गर्ने।",
+      "bt": "• Integrating MHPSS into different sectors, areas of responsibility and workstreams.",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0076",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• accompanying tools like the MSP Costing Tool, Gap Analysis Tool, and Monitoring & Evaluation Indicator Bank",
+      "ne": "• MSP लागत अनुमान उपकरण, अन्तर विश्लेषण उपकरण (Gap Analysis Tool) र अनुगमन तथा मूल्याङ्कन सूचक सङ्ग्रह (Monitoring & Evaluation Indicator Bank) जस्ता पूरक उपकरणहरू।",
+      "bt": "• Supplementary tools such as the MSP cost estimation tool, Gap Analysis Tool and Monitoring & Evaluation Indicator Bank.",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T137",
+        "T163",
+        "T271",
+        "T351",
+        "T370"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The titles 'Gap Analysis Tool' and 'Monitoring & Evaluation Indicator Bank' are absent from G-0.1; proposed Nepali renderings retain the English titles for identification."
+    },
+    {
+      "id": "QSG-WASH-0077",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• signposting to additional resources",
+      "ne": "• थप स्रोतहरू कहाँ पाइन्छन् भन्ने जानकारी दिने।",
+      "bt": "• Providing information on where further resources can be found.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-WASH-0078",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• other relevant queries.",
+      "ne": "• अन्य सान्दर्भिक जिज्ञासाहरू।",
+      "bt": "• Other relevant queries.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,1460 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "QSG-EDU",
+  "unit_id": "QSG-EDU",
+  "unit_title": "Quick start guide to the MHPSS Minimum Service Package for EDUCATION ACTORS",
+  "phase": "A",
+  "source_file": "04 Sector Quick Start Guides/Education_Guide_240731 (1).pdf",
+  "source_sha256": "30da971928c81c7190a309f79d015bf239c657b216d6d404388eb63615519e15",
+  "pages": "1-3",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:25:21+05:45",
+  "coverage": {
+    "source_words": 1325,
+    "row_words": 1323,
+    "skipped": [
+      "Page 1: running page number 1.",
+      "Page 2: running page number 2.",
+      "Page 3: running page number 3.",
+      "Page 3: embedded image 1: European Union Embedded institutional logo text skipped.",
+      "Page 3: embedded image 2: Ministry of Foreign Affairs of the Netherlands Embedded institutional logo text skipped."
+    ]
+  },
+  "rows": [
+    {
+      "id": "QSG-EDU-0001",
+      "page": "1",
+      "loc": "title",
+      "section": "",
+      "en": "Quick start guide to the MHPSS Minimum Service Package for EDUCATION ACTORS",
+      "ne": "शिक्षा क्षेत्रका सम्बद्ध पक्षहरूका लागि MHPSS न्यूनतम सेवा प्याकेजको द्रुत सुरुआत मार्गदर्शिका",
+      "bt": "Quick start guide to the MHPSS Minimum Service Package for education sector stakeholders",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T002",
+        "T114",
+        "T144"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary gap: Education actors. Proposed sense: parties working in the education sector, distinct from education personnel."
+    },
+    {
+      "id": "QSG-EDU-0002",
+      "page": "1",
+      "loc": "heading",
+      "section": "Quick start guide to the MHPSS Minimum Service Package for EDUCATION ACTORS",
+      "en": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग न्यूनतम सेवा प्याकेज (MSP) के हो?",
+      "bt": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T002",
+        "T157",
+        "T163",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical terminology reuses T001 verbatim as an unreviewed candidate cited to PRIOR-SUM-29OCT2026 p.1 row 1."
+    },
+    {
+      "id": "QSG-EDU-0003",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "The MSP outlines priority activities to meet the mental health and psychosocial support needs of emergency-affected populations.",
+      "ne": "आपत्कालीन अवस्थाबाट प्रभावित जनसमूहको मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी आवश्यकता पूरा गर्न MSP ले प्राथमिकताका गतिविधिहरूको रूपरेखा प्रस्तुत गर्दछ।",
+      "bt": "The MSP outlines priority activities to meet the mental health and psychosocial support needs of populations affected by emergencies.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T089",
+        "T157",
+        "T163",
+        "T192",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical terminology reuses T001 verbatim as an unreviewed candidate cited to PRIOR-SUM-29OCT2026 p.1 row 1."
+    },
+    {
+      "id": "QSG-EDU-0004",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "It is based on existing guidelines, the best available evidence, and expert consensus.",
+      "ne": "यो विद्यमान निर्देशिकाहरू, उपलब्ध सर्वोत्तम प्रमाण र विज्ञहरूको सहमतिमा आधारित छ।",
+      "bt": "It is based on existing guidelines, the best available evidence and expert consensus.",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T090"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0005",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "The goal of the MSP is to contribute to reduced suffering and improved mental health and psychosocial well-being.",
+      "ne": "MSP को लक्ष्य पीडा कम गर्न तथा मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सुधार ल्याउन योगदान गर्नु हो।",
+      "bt": "The aim of the MSP is to contribute to reducing suffering and improving mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T157",
+        "T163",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The clinical phrase is reused verbatim from unreviewed T103, cited to PRIOR-SUM-29OCT2026 p.2 row 95; T005 is also retained exactly."
+    },
+    {
+      "id": "QSG-EDU-0006",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "For more information on what the MSP is, why it is needed and how it can be used, please refer to the MSP guide.",
+      "ne": "MSP के हो, यो किन आवश्यक छ र यसलाई कसरी प्रयोग गर्न सकिन्छ भन्नेबारे थप जानकारीका लागि MSP मार्गदर्शिका हेर्नुहोस्।",
+      "bt": "For more information about what the MSP is, why it is needed and how it can be used, see the MSP guide.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0007",
+      "page": "1",
+      "loc": "heading",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "How is it relevant to Education actors?",
+      "ne": "यो शिक्षा क्षेत्रका सम्बद्ध पक्षहरूका लागि कसरी सान्दर्भिक छ?",
+      "bt": "How is it relevant to education sector stakeholders?",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T114"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary gap: Education actors. The proposed rendering denotes parties working in the education sector."
+    },
+    {
+      "id": "QSG-EDU-0008",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Education actors?",
+      "en": "Education can offer a stable routine and structure, support a sense of normality, provide opportunities for play, and foster hope.",
+      "ne": "शिक्षाले स्थिर दिनचर्या र व्यवस्थित ढाँचा दिन, सामान्य अवस्था रहेको अनुभूतिमा सहयोग गर्न, खेलका अवसर उपलब्ध गराउन र आशा जगाउन सक्छ।",
+      "bt": "Education can provide stable routines and an organized structure, support a sense of normality, provide opportunities for play and inspire hope.",
+      "type": "general",
+      "terms": [
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0009",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Education actors?",
+      "en": "Lack of access to education increases child protection risks such as abuse and neglect, economic and sexual exploitation, and sexual and gender-based violence.",
+      "ne": "शिक्षामा पहुँचको अभावले दुर्व्यवहार र उपेक्षा, आर्थिक तथा यौन शोषण, र यौन तथा लैङ्गिक हिंसाजस्ता बाल संरक्षणसम्बन्धी जोखिम बढाउँछ।",
+      "bt": "Lack of access to education increases child protection risks such as abuse and neglect, economic and sexual exploitation, and sexual and gender-based violence.",
+      "type": "safety",
+      "terms": [
+        "T028",
+        "T010",
+        "T036",
+        "T233"
+      ],
+      "flags": [],
+      "note": "General safety guidance drafted for review; safeguarding and language review remain pending."
+    },
+    {
+      "id": "QSG-EDU-0010",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Education actors?",
+      "en": "Children and adolescents accessing inclusive and safe education can obtain knowledge and skills that help develop their intellectual, physical, social and emotional potential.",
+      "ne": "समावेशी तथा सुरक्षित शिक्षामा पहुँच भएका बालबालिका तथा किशोरकिशोरीले आफ्नो बौद्धिक, शारीरिक, सामाजिक र भावनात्मक सम्भाव्यता विकास गर्न सघाउने ज्ञान र सीप प्राप्त गर्न सक्छन्।",
+      "bt": "Children and adolescents who have access to inclusive and safe education can acquire knowledge and skills that help them develop their intellectual, physical, social and emotional potential.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T072"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0011",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Education actors?",
+      "en": "Learning spaces provide opportunities for support from peers and adults and can unite the wider community.",
+      "ne": "सिकाइ स्थलहरूले समवयस्क र वयस्कबाट सहयोग प्राप्त गर्ने अवसर दिन्छन् र व्यापक समुदायलाई एकताबद्ध गर्न सक्छन्।",
+      "bt": "Learning spaces provide opportunities to receive support from peers and adults and can unite the wider community.",
+      "type": "general",
+      "terms": [
+        "T254",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0012",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Education actors?",
+      "en": "MHPSS is inherent to this work, helping boys, girls, including children and adolescents, those with disabilities, caregivers, and education personnel to cope, build resilience and promote a supportive environment.",
+      "ne": "MHPSS यस कार्यको अभिन्न अङ्ग हो, जसले केटा, केटी, बालबालिका तथा किशोरकिशोरीसमेत, अपाङ्गता भएका व्यक्तिहरू, हेरचाहकर्ता तथा शिक्षा क्षेत्रका कर्मचारीलाई परिस्थितिको सामना गर्न, उत्थानशीलता विकास गर्न र सहयोगी वातावरण प्रवर्द्धन गर्न मद्दत गर्छ।",
+      "bt": "MHPSS is an integral part of this work, which helps boys, girls, including children and adolescents, persons with disabilities, caregivers and education sector staff to cope with the situation, develop resilience and promote a supportive environment.",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T070",
+        "T071",
+        "T072",
+        "T503"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The relationship of “including children and adolescents” to “boys, girls” and the scope of “those with disabilities” remain unclear; the draft retains the listed groups without specifying a narrower disability subgroup."
+    },
+    {
+      "id": "QSG-EDU-0013",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Education actors?",
+      "en": "The MSP outlines priority activities Education actors can implement to promote the mental health and psychosocial well-being of children, teachers, and the broader community.",
+      "ne": "बालबालिका, शिक्षक र व्यापक समुदायको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न शिक्षा क्षेत्रका सम्बद्ध पक्षहरूले कार्यान्वयन गर्न सक्ने प्राथमिकताका गतिविधिहरूको रूपरेखा MSP ले प्रस्तुत गर्दछ।",
+      "bt": "The MSP outlines priority activities that education sector stakeholders can implement to promote the mental health and psychosocial well-being of children, teachers and the wider community.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T028",
+        "T089",
+        "T114",
+        "T157",
+        "T163",
+        "T328",
+        "T344",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The clinical phrase is reused verbatim from unreviewed T103, cited to PRIOR-SUM-29OCT2026 p.2 row 95. Glossary gap: Education actors; proposed sense: parties working in the education sector."
+    },
+    {
+      "id": "QSG-EDU-0014",
+      "page": "1",
+      "loc": "heading",
+      "section": "How is it relevant to Education actors?",
+      "en": "How do I find Education content in the MSP?",
+      "ne": "MSP मा शिक्षासम्बन्धी सामग्री कसरी खोज्ने?",
+      "bt": "How to find education-related material in the MSP?",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0015",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Education content in the MSP?",
+      "en": "Each MSP activity is labelled with icons showing which sectors, clusters, or areas of responsibility (AoRs) are typically well placed to deliver it (colourful icons) or contribute to it (dark blue icons).1",
+      "ne": "प्रत्येक MSP गतिविधिमा कुन क्षेत्र, क्लस्टर वा जिम्मेवारीका क्षेत्रहरू (AoRs) सामान्यतया उक्त गतिविधि सञ्चालन गर्न उपयुक्त स्थितिमा छन् (रङ्गीन प्रतीकचिह्नहरू) वा त्यसमा योगदान गर्न उपयुक्त स्थितिमा छन् (गाढा निला प्रतीकचिह्नहरू) भन्ने देखाउने प्रतीकचिह्नहरू राखिएका छन्।1",
+      "bt": "Each MSP activity includes icons showing which sectors, clusters or areas of responsibility (AoRs) are generally well positioned to carry out that activity (coloured icons) or to contribute to it (dark blue icons).1",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T116",
+        "T117",
+        "T123",
+        "T124",
+        "T149",
+        "T150",
+        "T163",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary gaps: icons, clusters and areas of responsibility (AoRs). Proposed senses: visual symbols, coordination clusters and designated responsibility areas. Footnote marker 1 is retained."
+    },
+    {
+      "id": "QSG-EDU-0016",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Education content in the MSP?",
+      "en": "The red Education icon indicates that Education actors are typically well-placed to deliver an activity.",
+      "ne": "शिक्षाको रातो प्रतीकचिह्नले शिक्षा क्षेत्रका सम्बद्ध पक्षहरू सामान्यतया कुनै गतिविधि सञ्चालन गर्न उपयुक्त स्थितिमा छन् भन्ने जनाउँछ।",
+      "bt": "The red education icon indicates that education sector stakeholders are generally well positioned to carry out an activity.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T114",
+        "T149"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary gaps: Education actors and icons. Proposed senses: parties working in the education sector and visual symbols."
+    },
+    {
+      "id": "QSG-EDU-0017",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Education content in the MSP?",
+      "en": "For more information, see Who should implement MSP activities?",
+      "ne": "थप जानकारीका लागि ‘MSP गतिविधिहरू कसले कार्यान्वयन गर्नुपर्छ?’ हेर्नुहोस्।",
+      "bt": "For more information, see ‘Who should implement MSP activities?’",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T272",
+        "T379"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0018",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Education content in the MSP?",
+      "en": "Figure 1 shows activity 3.6, Provide group activities for children’s mental health and psychosocial wellbeing, as an example.",
+      "ne": "चित्र 1 मा उदाहरणका रूपमा गतिविधि 3.6, ‘बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने’, देखाइएको छ।",
+      "bt": "Figure 1 shows activity 3.6, ‘Providing group activities for children's mental health and psychosocial well-being’, as an example.",
+      "type": "general",
+      "terms": [
+        "T103",
+        "T157",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The activity label reuses T103 verbatim, including its unreviewed clinical wording cited to PRIOR-SUM-29OCT2026 p.2 row 95."
+    },
+    {
+      "id": "QSG-EDU-0019",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Education content in the MSP?",
+      "en": "The colourful icons show that Education and Child Protection actors are typically well-placed to deliver this activity.",
+      "ne": "रङ्गीन प्रतीकचिह्नहरूले शिक्षा र बाल संरक्षण क्षेत्रका सम्बद्ध पक्षहरू सामान्यतया यो गतिविधि सञ्चालन गर्न उपयुक्त स्थितिमा छन् भन्ने देखाउँछन्।",
+      "bt": "The coloured icons show that education and child protection sector stakeholders are generally well positioned to carry out this activity.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T036",
+        "T114",
+        "T149",
+        "T150"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary gaps: sector actors and icons. Proposed senses: parties working in the named sectors and visual symbols."
+    },
+    {
+      "id": "QSG-EDU-0020",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Education content in the MSP?",
+      "en": "The dark blue icons show that Camp Coordination and Camp Management (CCCM), Shelter and Settlements, and WASH actors are typically well placed to contribute to this activity.",
+      "ne": "गाढा निला प्रतीकचिह्नहरूले शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM), आश्रय तथा बस्ती र WASH क्षेत्रका सम्बद्ध पक्षहरू सामान्यतया यो गतिविधिमा योगदान गर्न उपयुक्त स्थितिमा छन् भन्ने देखाउँछन्।",
+      "bt": "The dark blue icons show that stakeholders in the camp coordination and camp management (CCCM), shelter and settlements, and WASH sectors are generally well positioned to contribute to this activity.",
+      "type": "general",
+      "terms": [
+        "T031",
+        "T032",
+        "T114",
+        "T149",
+        "T150",
+        "T300",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary gaps: sector actors and icons. Proposed senses: parties working in the named sectors and visual symbols. WASH is retained without adding an expansion absent from the source."
+    },
+    {
+      "id": "QSG-EDU-0021",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Education content in the MSP?",
+      "en": "For example, actors in these sectors may provide a space in which to conduct the activity and may have an important role in informing the community about when and where these activities will take place.",
+      "ne": "उदाहरणका लागि, यी क्षेत्रका सम्बद्ध पक्षहरूले गतिविधि सञ्चालन गर्ने स्थान उपलब्ध गराउन सक्छन् र यी गतिविधिहरू कहिले र कहाँ हुनेछन् भन्नेबारे समुदायलाई जानकारी दिन महत्त्वपूर्ण भूमिका निर्वाह गर्न सक्छन्।",
+      "bt": "For example, stakeholders in these sectors can provide a place to carry out activities and can play an important role in informing the community about when and where these activities will take place.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T296",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary gap: sector actors. Proposed sense: parties working in the specified sectors."
+    },
+    {
+      "id": "QSG-EDU-0022",
+      "page": "1",
+      "loc": "caption",
+      "section": "How do I find Education content in the MSP?",
+      "en": "Figure 1",
+      "ne": "चित्र 1",
+      "bt": "Figure 1",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0023",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find Education content in the MSP?",
+      "en": "Education and Child Protection: typically well placed to deliver the activity",
+      "ne": "शिक्षा र बाल संरक्षण: सामान्यतया गतिविधि सञ्चालन गर्न उपयुक्त स्थितिमा",
+      "bt": "Education and child protection: generally well positioned to carry out the activity",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0024",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Education content in the MSP?",
+      "en": "3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "3.6 बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने।",
+      "bt": "3.6 Providing group activities for children's mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T103 is retained verbatim with its activity code; a final danda is added to complete the instruction. Clinical wording is an unreviewed candidate cited to PRIOR-SUM-29OCT2026 p.2 row 95."
+    },
+    {
+      "id": "QSG-EDU-0025",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find Education content in the MSP?",
+      "en": "CCCM, Shelter & Settlements, and WASH: typically well placed to contribute to the activity",
+      "ne": "CCCM, आश्रय तथा बस्ती र WASH: सामान्यतया गतिविधिमा योगदान गर्न उपयुक्त स्थितिमा",
+      "bt": "CCCM, shelter and settlements, and WASH: generally well positioned to contribute to the activity",
+      "type": "general",
+      "terms": [
+        "T032",
+        "T300",
+        "T301"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0026",
+      "page": "1",
+      "loc": "footnote",
+      "section": "How do I find Education content in the MSP?",
+      "en": "1 The icons are not intended to be prescriptive, but a guide to who typically does what.",
+      "ne": "1 प्रतीकचिह्नहरूको उद्देश्य कसले के गर्नैपर्छ भनेर तोक्नु होइन, सामान्यतया कसले के गर्छ भन्नेबारे मार्गदर्शन दिनु हो।",
+      "bt": "1 The purpose of the icons is not to specify who must do what, but to provide guidance about who generally does what.",
+      "type": "general",
+      "terms": [
+        "T149",
+        "T150"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary gap: icons. Proposed sense: visual symbols. The distinction between guidance and mandatory assignment is retained."
+    },
+    {
+      "id": "QSG-EDU-0027",
+      "page": "2",
+      "loc": "heading",
+      "section": "How do I find Education content in the MSP?",
+      "en": "Which MSP activities are most relevant to Education actors?",
+      "ne": "कुन MSP गतिविधिहरू शिक्षा क्षेत्रका सम्बद्ध पक्षहरूका लागि सबैभन्दा सान्दर्भिक छन्?",
+      "bt": "Which MSP activities are most relevant to education sector stakeholders?",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T028",
+        "T114",
+        "T163",
+        "T272"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary gap: Education actors. Proposed sense: parties working in the education sector."
+    },
+    {
+      "id": "QSG-EDU-0028",
+      "page": "2",
+      "loc": "para",
+      "section": "Which MSP activities are most relevant to Education actors?",
+      "en": "MSP activities are organized into four sections.",
+      "ne": "MSP गतिविधिहरू चार खण्डमा व्यवस्थित गरिएका छन्।",
+      "bt": "MSP activities are organized into four sections.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T272",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0029",
+      "page": "2",
+      "loc": "heading",
+      "section": "Which MSP activities are most relevant to Education actors?",
+      "en": "Section 1: Inter-Agency Coordination and Assessment",
+      "ne": "खण्ड 1: अन्तरनिकाय समन्वय र लेखाजोखा",
+      "bt": "Section 1: Inter-agency coordination and assessment",
+      "type": "activity",
+      "terms": [
+        "T004",
+        "T152",
+        "T349",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0030",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Activities 1.1 and 1.2 are particularly relevant for coordination groups in all sectors and AoRs, and cross-cutting MHPSS technical working groups.",
+      "ne": "गतिविधि 1.1 र 1.2 सबै क्षेत्र र AoRs का समन्वय समूहहरू तथा विभिन्न क्षेत्रहरूमा साझा रूपमा काम गर्ने MHPSS प्राविधिक कार्यसमूहहरूका लागि विशेष रूपमा सान्दर्भिक छन्।",
+      "bt": "Activities 1.1 and 1.2 are particularly relevant to coordination groups of all sectors and AoRs and MHPSS technical working groups that work jointly across different sectors.",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T127",
+        "T128",
+        "T296",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary gap: areas of responsibility (AoRs), retained as the source acronym. Cross-cutting is rendered as working across sectors."
+    },
+    {
+      "id": "QSG-EDU-0031",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "They promote effective inter-agency and intersectoral coordination and assessment.",
+      "ne": "यी गतिविधिहरूले प्रभावकारी अन्तरनिकाय तथा अन्तरक्षेत्रीय समन्वय र लेखाजोखालाई प्रवर्द्धन गर्छन्।",
+      "bt": "These activities promote effective inter-agency and inter-sectoral coordination and assessment.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T296",
+        "T349",
+        "T389"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0032",
+      "page": "2",
+      "loc": "table-head",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "MSP activity",
+      "ne": "MSP गतिविधि",
+      "bt": "MSP activity",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0033",
+      "page": "2",
+      "loc": "table-head",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Relevance to Education actors2",
+      "ne": "शिक्षा क्षेत्रमा कार्यरत पक्षहरूका लागि सान्दर्भिकता2",
+      "bt": "Relevance for actors working in the education sector2",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T130"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The final 2 is retained as the source footnote marker. Education actors is a recurring role label absent from G-0.1; a proposal is listed."
+    },
+    {
+      "id": "QSG-EDU-0034",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "1.1 Coordinate MHPSS within and across sectors",
+      "ne": "1.1 क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने",
+      "bt": "1.1 Coordinate MHPSS within and between sectors",
+      "type": "activity",
+      "terms": [
+        "T092",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0035",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Ensuring mutual representation at MHPSS and Education coordination meetings. Working closely with actors in Child Protection, Early Childhood Development, Gender Based Violence, Health and other areas of work to ensure MHPSS activities for children, adolescents, including those with disabilities, caregivers and education personnel are consistent and mutually-reinforcing. Strengthening, utilizing, and contributing to joint referral pathways and standard operating procedures for the referral of children and adults, including facilitating access to the full range of MHPSS activities and services as needed.",
+      "ne": "MHPSS र शिक्षा क्षेत्रका समन्वय बैठकहरूमा एकअर्काको प्रतिनिधित्व सुनिश्चित गर्नुहोस्। अपाङ्गता भएकासमेतका बालबालिका तथा किशोरकिशोरी, हेरचाहकर्ता तथा शिक्षा क्षेत्रका कर्मचारीका लागि सञ्चालन गरिने MHPSS गतिविधिहरू सुसङ्गत र एकअर्कालाई सुदृढ गर्ने खालका होऊन् भन्ने सुनिश्चित गर्न बाल संरक्षण, प्रारम्भिक बाल विकास, लैङ्गिक हिंसा, स्वास्थ्य तथा कार्यका अन्य क्षेत्रका पक्षहरूसँग निकट सहकार्य गर्नुहोस्। बालबालिका तथा वयस्कको सेवा प्रेषणका लागि संयुक्त सेवा प्रेषण मार्गहरू र मानक कार्यसञ्चालन प्रक्रियाहरू (SOPs) सुदृढ गर्नुहोस्, प्रयोग गर्नुहोस् र तिनमा योगदान दिनुहोस्; यसमा आवश्यकताअनुसार MHPSS गतिविधि तथा सेवाहरूको सम्पूर्ण दायरामा पहुँच सहज बनाउने कार्य पनि समावेश गर्नुहोस्।",
+      "bt": "Ensure representation of each other in MHPSS and education sector coordination meetings. Work closely with actors in child protection, early childhood development, gender-based violence, health and other areas of work to ensure that MHPSS activities conducted for children and adolescents, including those with disabilities, caregivers and education sector staff are consistent and reinforce one another. Strengthen, use and contribute to joint referral pathways and standard operating procedures (SOPs) for referring children and adults to services; include in this the facilitation of access to the full range of MHPSS activities and services as needed.",
+      "type": "safety",
+      "terms": [
+        "T028",
+        "T066",
+        "T072",
+        "T071",
+        "T036",
+        "T037",
+        "T027",
+        "T063",
+        "T049",
+        "T140",
+        "T158",
+        "T233",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General coordination and referral guidance drafted for safety review; not a consent or safeguarding declaration. Gender Based Violence is absent from G-0.1; a terminology proposal is listed."
+    },
+    {
+      "id": "QSG-EDU-0036",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "1.2 Assess MHPSS needs and resources to guide programming",
+      "ne": "1.2 कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने",
+      "bt": "1.2 Assess MHPSS needs and resources to guide the programme",
+      "type": "activity",
+      "terms": [
+        "T093"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0037",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Include questions and indicators about mental health and psychosocial well-being related needs, risks and barriers for children, adolescents, including those with disabilities, caregivers and education personnel in education needs assessments. If conducting learning assessments, make sure that socio-emotional learning (SEL) outcomes are included.",
+      "ne": "शिक्षा क्षेत्रको आवश्यकताको लेखाजोखामा अपाङ्गता भएकासमेतका बालबालिका तथा किशोरकिशोरी, हेरचाहकर्ता तथा शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणसँग सम्बन्धित आवश्यकता, जोखिम र अवरोधबारे प्रश्न तथा सूचकहरू समावेश गर्नुहोस्। सिकाइको लेखाजोखा गर्दै हुनुहुन्छ भने सामाजिक-भावनात्मक सिकाइ (SEL) का नतिजाहरू समावेश भएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Include questions and indicators about the needs, risks and barriers related to the mental health and psychosocial well-being of children and adolescents, including those with disabilities, caregivers and education sector staff in education sector needs assessments. If you are assessing learning, ensure that social-emotional learning (SEL) outcomes are included.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T068",
+        "T072",
+        "T071",
+        "T005",
+        "T004",
+        "T157",
+        "T177",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The mental health and psychosocial well-being wording reuses the cited unreviewed phrase in T100. Socio-emotional learning (SEL) is an educational term absent from G-0.1; a proposal is listed."
+    },
+    {
+      "id": "QSG-EDU-0038",
+      "page": "2",
+      "loc": "heading",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Section 2: Essential components of all MHPSS programmes",
+      "ne": "खण्ड 2: सबै MHPSS कार्यक्रमका अत्यावश्यक अङ्गहरू",
+      "bt": "Section 2: Essential components of all MHPSS programmes",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Classified as a section heading rather than an activity label. The back-translation changes essential components to mandatory components. The revision preserves essential importance without introducing an explicit mandate."
+    },
+    {
+      "id": "QSG-EDU-0039",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 2: Essential components of all MHPSS programmes",
+      "en": "Section 2 activities (on programme design, implementing an M&E system, caring for staff and volunteers and supporting MHPSS competencies) should be implemented by all organizations delivering MHPSS activities.",
+      "ne": "MHPSS गतिविधिहरू सञ्चालन गर्ने सबै संस्थालाई खण्ड 2 का गतिविधिहरू कार्यान्वयन गर्न सिफारिस गरिन्छ; यी गतिविधिहरू कार्यक्रमको डिजाइन, अनुगमन तथा मूल्याङ्कन (M&E) प्रणालीको कार्यान्वयन, कर्मचारी तथा स्वयंसेवकको हेरचाह र MHPSS सम्बन्धी सक्षमतामा सहयोग गर्ने विषयसँग सम्बन्धित छन्।",
+      "bt": "All organizations conducting MHPSS activities are recommended to implement the activities in Section 2; these activities relate to programme design, implementation of monitoring and evaluation (M&E) systems, care of staff and volunteers, and support for MHPSS-related competencies.",
+      "type": "general",
+      "terms": [
+        "T156",
+        "T158",
+        "T159",
+        "T209",
+        "T394",
+        "T409",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The M&E expansion follows the supplied activity 2.2 wording. M&E and MHPSS competencies lack entries in the frozen candidate glossary; proposals are listed. The source says should be implemented, whereas the back-translation says must implement. The revision expresses a recommendation rather than a mandatory requirement."
+    },
+    {
+      "id": "QSG-EDU-0040",
+      "page": "2",
+      "loc": "heading",
+      "section": "Section 2 activities (on programme design, implementing an M&E system, caring for staff and volunteers and supporting MHPSS competencies) should be implemented by all organizations delivering MHPSS activities.",
+      "en": "Sections 3 & 4: MHPSS Programme Activities",
+      "ne": "खण्ड 3 र 4: MHPSS कार्यक्रमका गतिविधिहरू",
+      "bt": "Sections 3 and 4: MHPSS programme activities",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Classified as a section heading rather than an individual activity label."
+    },
+    {
+      "id": "QSG-EDU-0041",
+      "page": "2",
+      "loc": "heading",
+      "section": "Sections 3 & 4: MHPSS Programme Activities",
+      "en": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "ne": "शिक्षा क्षेत्रमा कार्यरत पक्षहरू सामान्यतया सञ्चालन गर्न उपयुक्त स्थितिमा रहने कार्यक्रमगत गतिविधिहरू निम्न छन्:",
+      "bt": "The following are programmatic activities that actors working in the education sector are generally well placed to conduct:",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T130",
+        "T166"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring role label for Education actors; the frozen glossary is unchanged."
+    },
+    {
+      "id": "QSG-EDU-0042",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "ne": "3.1 मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने र MHPSS सम्बन्धी विचारणीय पक्ष तथा कार्यका लागि पैरवी गर्ने",
+      "bt": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS-related considerations and actions",
+      "type": "activity",
+      "terms": [
+        "T098",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0043",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "Orienting Education actors on MHPSS and interlinkages between MHPSS and Education. Advocating for the integration of MHPSS into education programming. Advocating to address social determinants of mental health and psychosocial well-being (e.g. poverty, exclusion, weak social support) among children, adolescents, including those with disabilities, caregivers and education personnel, including risk and protective factors. Providing and advocating across sectors for the provision of services in ways that are inclusive, accessible, participatory, child-centred, rights-based, and promote the dignity of all boys, girls, including children and adolescents with disabilities , caregivers and education personnel. Advocating for Education activities and services that are accessible to and consider the specific needs of people with mental health conditions.",
+      "ne": "शिक्षा क्षेत्रमा कार्यरत पक्षहरूलाई MHPSS र MHPSS तथा शिक्षाबीचका अन्तरसम्बन्धबारे अभिमुखीकरण दिने। शिक्षाको कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS को एकीकरणका लागि पैरवी गर्ने। बालबालिका तथा किशोरकिशोरी (अपाङ्गता भएकाहरू सहित), हेरचाहकर्ता तथा शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणका सामाजिक निर्धारकहरू (जस्तै, गरिबी, बहिष्करण, कमजोर सामाजिक सहयोग) सम्बोधन गर्न पैरवी गर्ने र यसमा जोखिमका कारकहरू तथा संरक्षणकारी कारकहरू पनि समेट्ने। समावेशी, पहुँचयोग्य, सहभागितामूलक, बालकेन्द्रित र अधिकारमा आधारित हुने तथा अपाङ्गता भएका बालबालिका तथा किशोरकिशोरीसहित सबै केटा, केटी, हेरचाहकर्ता तथा शिक्षा क्षेत्रका कर्मचारीको मर्यादा प्रवर्द्धन गर्ने तरिकाले सेवाहरू उपलब्ध गराउने र त्यसरी सेवाहरू उपलब्ध गराउन विभिन्न क्षेत्रहरूमा पैरवी गर्ने। मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका व्यक्तिहरूका लागि पहुँचयोग्य हुने र उनीहरूका विशिष्ट आवश्यकताहरूलाई ध्यानमा राख्ने शिक्षासम्बन्धी क्रियाकलाप तथा सेवाहरूका लागि पैरवी गर्ने।",
+      "bt": "Give orientation to parties working in the education sector about MHPSS and the interrelationships between MHPSS and education. Advocate for the integration of MHPSS into the planning and implementation of education programmes. Advocate for addressing the social determinants of the mental health and psychosocial well-being of children and adolescents (including those with disabilities), caregivers and education-sector staff (for example, poverty, exclusion, weak social support), and also include risk factors and protective factors in this. Provide services in ways that are inclusive, accessible, participatory, child-centred and rights-based and that promote the dignity of all boys, girls, caregivers and education-sector staff, including children and adolescents with disabilities, and advocate across different sectors for services to be provided in that way. Advocate for education-related activities and services that are accessible to persons with mental health conditions and take their specific needs into account.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T006",
+        "T027",
+        "T028",
+        "T070",
+        "T071",
+        "T072",
+        "T078",
+        "T130",
+        "T157",
+        "T282",
+        "T283",
+        "T296",
+        "T304",
+        "T328",
+        "T384",
+        "T410",
+        "T476"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The final population remains people with mental health conditions, without adding a requirement for impaired daily functioning; general education activities and services are not treated as named therapies. In the social-determinants sentence, the draft lists persons with disabilities as a separate, unrestricted population. The source includes those with disabilities within children and adolescents; the repair restores that relationship."
+    },
+    {
+      "id": "QSG-EDU-0044",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "ne": "3.2 अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने",
+      "bt": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "type": "activity",
+      "terms": [
+        "T099",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Retains the cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-EDU-0045",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "Orienting frontline education staff in basic psychosocial support for children and adults.",
+      "ne": "अग्रपंक्तिमा कार्यरत शिक्षा क्षेत्रका कर्मचारीलाई बालबालिका तथा वयस्कका लागि आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्नुहोस्।",
+      "bt": "Orient education sector staff working on the frontline on basic psychosocial support for children and adults.",
+      "type": "general",
+      "terms": [
+        "T070",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Basic psychosocial support reuses the exact phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] from the cited unreviewed T099 candidate; no new clinical terminology is introduced."
+    },
+    {
+      "id": "QSG-EDU-0046",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "3.3 Disseminate key messages to promote mental health and psychosocial well-being",
+      "ne": "3.3 मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मुख्य सन्देशहरू प्रसार गर्ने",
+      "bt": "3.3 Disseminate key messages to promote mental health and psychosocial well-being",
+      "type": "activity",
+      "terms": [
+        "T100",
+        "T157",
+        "T253",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Retains the cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-EDU-0047",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "Identifying and incorporating key MHPSS messages for children, adolescents, caregivers and education personnel into education activities and informational materials.",
+      "ne": "बालबालिका तथा किशोरकिशोरी, हेरचाहकर्ता तथा शिक्षा क्षेत्रका कर्मचारीका लागि मुख्य MHPSS सन्देशहरू पहिचान गरी शिक्षा गतिविधि तथा सूचनामूलक सामग्रीमा समावेश गर्नुहोस्।",
+      "bt": "Identify key MHPSS messages for children and adolescents, caregivers and education sector staff and include them in education activities and informational materials.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T071",
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0048",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "3.4 Support new and pre-existing group-based community MHPSS activities",
+      "ne": "3.4 नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने",
+      "bt": "3.4 Support new and already operating group-based community MHPSS activities",
+      "type": "activity",
+      "terms": [
+        "T101"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0049",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "Supporting pre-existing community initiatives and facilitating new group-based community initiatives that promote the mental health and psychosocial well-being of children, adolescents, caregivers and education personnel.",
+      "ne": "बालबालिका तथा किशोरकिशोरी, हेरचाहकर्ता तथा शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने सामुदायिक पहलहरूमध्ये पहिलेदेखि सञ्चालित पहलहरूलाई सहयोग गर्नुहोस् र समूहमा आधारित नयाँ पहलहरूलाई सहजीकरण गर्नुहोस्।",
+      "bt": "Support already operating community initiatives that promote the mental health and psychosocial well-being of children and adolescents, caregivers and education sector staff, and facilitate new group-based initiatives.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T071",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The mental health and psychosocial well-being phrase is reused from the cited unreviewed T100 wording. The back-translation attaches the mental health and psychosocial well-being purpose only to pre-existing initiatives, leaving new initiatives unqualified. The revision explicitly retains that purpose for new group-based initiatives as well. The back-translation explicitly attaches the mental health and psychosocial well-being purpose only to existing community initiatives, leaving new group-based initiatives without that purpose or an explicit community designation."
+    },
+    {
+      "id": "QSG-EDU-0050",
+      "page": "2",
+      "loc": "footnote",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "2 These examples should not be considered exhaustive.",
+      "ne": "2 यी उदाहरणहरूलाई सम्पूर्ण सूची मान्नु उचित हुँदैन।",
+      "bt": "2 It would not be appropriate to consider these examples an exhaustive list.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The source says should not be considered exhaustive; the back-translation strengthens this to must not. The revision retains the caution without an absolute prohibition."
+    },
+    {
+      "id": "QSG-EDU-0051",
+      "page": "2",
+      "loc": "footnote",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "For a more comprehensive list of actions, see the checklists under each MSP activity.",
+      "ne": "कार्यहरूको अझ व्यापक सूचीका लागि प्रत्येक MSP गतिविधि अन्तर्गतका जाँचसूचीहरू हेर्नुहोस्।",
+      "bt": "For a more comprehensive list of actions, see the checklists under each MSP activity.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T121",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0052",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "ne": "3.5 साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास (ECD) गतिविधि प्रदान गर्ने",
+      "bt": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "type": "activity",
+      "terms": [
+        "T102"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0053",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "Supporting the mental health and well-being of caregivers of young children and of those expecting children, as well as their ability to provide responsive care and early learning opportunities for the children in their care. Providing young children with opportunities to play and learn.",
+      "ne": "साना बालबालिकाका हेरचाहकर्ता तथा सन्तानको अपेक्षामा रहेका व्यक्तिहरूको मानसिक स्वास्थ्य र कल्याणलाई सहयोग गर्ने; साथै, आफ्नो हेरचाहमा रहेका बालबालिकाका लागि बालबालिकाका आवश्यकता र सङ्केतअनुसार गरिने स्याहार तथा प्रारम्भिक सिकाइका अवसरहरू उपलब्ध गराउने उनीहरूको क्षमतालाई पनि सहयोग गर्ने। साना बालबालिकालाई खेल्ने र सिक्ने अवसरहरू उपलब्ध गराउने।",
+      "bt": "Support the mental health and well-being of caregivers of young children and persons expecting a child; also support their capacity to provide care according to children's needs and signals and opportunities for early learning for the children in their care. Provide young children with opportunities to play and learn.",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T027",
+        "T083",
+        "T157",
+        "T222",
+        "T328"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The draft follows the grammatical reading in which caregivers serve both young children and people expecting children; whether the source instead intends people expecting children themselves as recipients remains unresolved. The draft makes caregivers of people expecting children the recipients of support. In the source, “of those expecting children” is coordinated with “of caregivers of young children”: people expecting children are themselves recipients. The repair restores that population and the corresponding reference of “their ability”."
+    },
+    {
+      "id": "QSG-EDU-0054",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "3.6 बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने",
+      "bt": "3.6 Provide group activities for children's mental health and psychosocial well-being",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Retains the cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-EDU-0055",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "Providing recreational and structured group activities to promote the mental health and psychosocial well-being of children and adolescents.",
+      "ne": "बालबालिका तथा किशोरकिशोरीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मनोरञ्जनात्मक सामूहिक गतिविधिहरू र संरचित सामूहिक गतिविधिहरू प्रदान गर्नुहोस्।",
+      "bt": "Provide recreational group activities and structured group activities to promote the mental health and psychosocial well-being of children and adolescents.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T005",
+        "T081",
+        "T080",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The health and well-being phrase reuses the cited unreviewed T100 wording; recreational and structured activities remain distinct. The back-translation separates unrestricted recreational activities from structured group activities. The revision retains the group format for recreational activities as well as structured activities."
+    },
+    {
+      "id": "QSG-EDU-0056",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "3.7 Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children",
+      "ne": "3.7 हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने",
+      "bt": "3.7 Promote caregivers' mental health and psychosocial well-being and strengthen their ability to support children",
+      "type": "activity",
+      "terms": [
+        "T104",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Retains the cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-EDU-0057",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "Supporting caregivers to look after their own physical and mental health needs and promoting positive caregiving skills.",
+      "ne": "हेरचाहकर्तालाई आफ्नै शारीरिक तथा मानसिक स्वास्थ्यसम्बन्धी आवश्यकताको ख्याल राख्न सहयोग गर्नुहोस् र सकारात्मक स्याहार सीप प्रवर्द्धन गर्नुहोस्।",
+      "bt": "Support caregivers to look after their own physical and mental health needs and promote positive caregiving skills.",
+      "type": "general",
+      "terms": [
+        "T006",
+        "T157"
+      ],
+      "flags": [],
+      "note": "Mental health wording is already present in the cited candidates. Positive caregiving skills is treated as ordinary caregiving language, not a named clinical intervention."
+    },
+    {
+      "id": "QSG-EDU-0058",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "ne": "3.8 शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने",
+      "bt": "3.8 Promote the mental health and psychosocial well-being of education sector staff and strengthen their ability to support children",
+      "type": "activity",
+      "terms": [
+        "T105",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Retains the cited unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-EDU-0059",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "Supporting the mental health and psychosocial well-being of children and adolescents in learning spaces and the mental health and psychosocial well-being of teachers and other education personnel. Building the capacity of teachers and other education personnel to support the mental health and psychosocial well-being of children and adolescents.",
+      "ne": "सिकाइ स्थलहरूमा बालबालिका तथा किशोरकिशोरीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा र शिक्षक तथा शिक्षा क्षेत्रका अन्य कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सहयोग गर्नुहोस्। बालबालिका तथा किशोरकिशोरीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सहयोग गर्न शिक्षक तथा शिक्षा क्षेत्रका अन्य कर्मचारीको क्षमता विकास गर्नुहोस्।",
+      "bt": "Support the mental health and psychosocial well-being of children and adolescents in learning spaces and the mental health and psychosocial well-being of teachers and other education sector staff. Develop the capacity of teachers and other education sector staff to support the mental health and psychosocial well-being of children and adolescents.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T005",
+        "T157",
+        "T254",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the cited unreviewed mental health and psychosocial well-being wording. Other education personnel is rendered with other explicitly retained rather than using the unmodified T070 role label."
+    },
+    {
+      "id": "QSG-EDU-0060",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "You can use the filter on the ‘All Activities’ page of the web platform to show only Education-relevant activities.",
+      "ne": "शिक्षासँग सम्बन्धित गतिविधिहरू मात्र देखाउन तपाईंले वेब प्लेटफर्मको ‘सबै गतिविधिहरू (All Activities)’ पृष्ठमा रहेको फिल्टर प्रयोग गर्न सक्नुहुन्छ।",
+      "bt": "You can use the filter on the web platform's ‘All Activities’ page to show only activities related to education.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T189"
+      ],
+      "flags": [],
+      "note": "The English interface label is retained alongside its Nepali rendering for navigation."
+    },
+    {
+      "id": "QSG-EDU-0061",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "For help navigating the MSP, see How is the MSP Structured? and the video tour of the web platform.",
+      "ne": "MSP मा सामग्री खोज्न र विभिन्न भागमा जान सहयोगका लागि ‘MSP को संरचना कस्तो छ? (How is the MSP Structured?)’ र वेब प्लेटफर्मको परिचयात्मक भ्रमण भिडियो हेर्नुहोस्।",
+      "bt": "For help finding content in the MSP and navigating its different parts, see ‘How is the MSP Structured?’ and the introductory tour video of the web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189",
+        "T433"
+      ],
+      "flags": [],
+      "note": "The linked English title is retained to support identification of the referenced resource."
+    },
+    {
+      "id": "QSG-EDU-0062",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "No single organization is expected to implement all programme activities.",
+      "ne": "कुनै एक संस्थाले नै कार्यक्रमका सबै गतिविधिहरू कार्यान्वयन गर्ने अपेक्षा गरिएको छैन।",
+      "bt": "No single organization is expected to implement all programme activities.",
+      "type": "general",
+      "terms": [
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0063",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "Rather, relevant organizations must coordinate and work together across sectors/AoRs to ensure that activities are implemented, and a comprehensive response is delivered.",
+      "ne": "बरु, गतिविधिहरू कार्यान्वयन हुने र व्यापक प्रतिकार्य प्रदान गरिने सुनिश्चित गर्न सम्बन्धित संस्थाहरूले क्षेत्रहरू/AoRs बीच समन्वय र सहकार्य गर्नैपर्छ।",
+      "bt": "Rather, the relevant organizations must coordinate and collaborate across sectors/AoRs to ensure that activities are implemented and a comprehensive response is provided.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T296"
+      ],
+      "flags": [],
+      "note": "AoRs is retained without adding an expansion absent from the supplied row. The mandatory force of must is preserved."
+    },
+    {
+      "id": "QSG-EDU-0064",
+      "page": "3",
+      "loc": "heading",
+      "section": "The programmatic activities that Education actors are typically well placed to deliver are:",
+      "en": "What information is included in each activity?",
+      "ne": "प्रत्येक गतिविधिमा के जानकारी समावेश गरिएको छ?",
+      "bt": "What information is included in each activity?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0065",
+      "page": "3",
+      "loc": "heading",
+      "section": "What information is included in each activity?",
+      "en": "Each activity includes:",
+      "ne": "प्रत्येक गतिविधिमा निम्न कुरा समावेश छन्:",
+      "bt": "Each activity includes the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0066",
+      "page": "3",
+      "loc": "heading",
+      "section": "What information is included in each activity?",
+      "en": "Many activities also include:",
+      "ne": "धेरै गतिविधिमा निम्न कुरा पनि समावेश छन्:",
+      "bt": "Many activities also include the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0067",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Brief introduction",
+      "ne": "संक्षिप्त परिचय",
+      "bt": "Brief introduction",
+      "type": "general",
+      "terms": [
+        "T017"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0068",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Checklist of actions",
+      "ne": "कार्यहरूको जाँचसूची",
+      "bt": "Checklist of tasks",
+      "type": "general",
+      "terms": [
+        "T018",
+        "T121"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0069",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Relevant guidelines, standards and tools",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण",
+      "bt": "Relevant guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": "This is a resource label, not a validated instrument item."
+    },
+    {
+      "id": "QSG-EDU-0070",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Key considerations",
+      "ne": "ध्यान दिनुपर्ने मुख्य पक्षहरू",
+      "bt": "Key aspects to pay attention to",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for 'Key considerations' is listed separately; the frozen glossary is unchanged."
+    },
+    {
+      "id": "QSG-EDU-0071",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Recommended training topics",
+      "ne": "सिफारिस गरिएका तालिमका विषयहरू",
+      "bt": "Recommended training topics",
+      "type": "general",
+      "terms": [
+        "T088"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0072",
+      "page": "3",
+      "loc": "heading",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "How can I get more help?",
+      "ne": "म थप सहयोग कसरी पाउन सक्छु?",
+      "bt": "How can I get further support?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0073",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "The Step-by-Step Guide for different users provides guidance on how implementing organizations and coordinators can use the MSP.",
+      "ne": "विभिन्न प्रयोगकर्ताका लागि चरणबद्ध मार्गदर्शिका (Step-by-Step Guide) ले कार्यान्वयन गर्ने संस्था र समन्वयकर्ताहरूले MSP कसरी प्रयोग गर्न सक्छन् भन्नेबारे मार्गदर्शन प्रदान गर्छ।",
+      "bt": "The step-by-step guide (Step-by-Step Guide) for various users provides guidance on how implementing organizations and coordinators can use the MSP.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163",
+        "T183",
+        "T214"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The guide title is absent from the supplied glossary. A proposed rendering is listed separately, with the English title retained for identification."
+    },
+    {
+      "id": "QSG-EDU-0074",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "You can contact the MSP Helpdesk for tailored support by emailing mhpss.msp@gmail.com and mhpss.refgroup@gmail.com.",
+      "ne": "आफ्नो आवश्यकताअनुसारको सहयोगका लागि तपाईंले mhpss.msp@gmail.com र mhpss.refgroup@gmail.com मा इमेल पठाएर MSP सहायता कक्ष (MSP Helpdesk) मा सम्पर्क गर्न सक्नुहुन्छ।",
+      "bt": "For support according to your needs, you can contact the MSP assistance desk (MSP Helpdesk) by sending an email to mhpss.msp@gmail.com and mhpss.refgroup@gmail.com.",
+      "type": "general",
+      "terms": [
+        "T146",
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. A proposed rendering for the recurring term 'Helpdesk' is listed separately."
+    },
+    {
+      "id": "QSG-EDU-0075",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "The Helpdesk can support with:",
+      "ne": "सहायता कक्षले निम्न विषयमा सहयोग गर्न सक्छ:",
+      "bt": "The assistance desk can help with the following topics:",
+      "type": "general",
+      "terms": [
+        "T146"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the same proposed rendering for 'Helpdesk' as the preceding row."
+    },
+    {
+      "id": "QSG-EDU-0076",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• orientations and workshops on using the MSP to strengthen the MHPSS response",
+      "ne": "• MHPSS प्रतिकार्य सुदृढ गर्न MSP को प्रयोगसम्बन्धी अभिमुखीकरण र कार्यशालाहरू।",
+      "bt": "• Orientations and workshops on using the MSP to strengthen the MHPSS response.",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T161",
+        "T163",
+        "T174",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0077",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• integrating MHPSS into different sectors, areas of responsibility and workstreams",
+      "ne": "• विभिन्न क्षेत्र, जिम्मेवारीका क्षेत्र र कार्यधाराहरूमा MHPSS एकीकृत गर्ने कार्य।",
+      "bt": "• The work of integrating MHPSS into various sectors, areas of responsibility and workstreams.",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0078",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• accompanying tools like the MSP Costing Tool, Gap Analysis Tool, and Monitoring & Evaluation Indicator Bank",
+      "ne": "• MSP लागत अनुमान उपकरण, कमीहरूको विश्लेषण गर्ने उपकरण (Gap Analysis Tool) र अनुगमन तथा मूल्याङ्कन सूचक भण्डार (Monitoring & Evaluation Indicator Bank) जस्ता साथमा उपलब्ध उपकरणहरू।",
+      "bt": "• Tools available alongside it, such as the MSP cost estimation tool, the tool for analyzing gaps (Gap Analysis Tool) and the monitoring and evaluation indicator bank (Monitoring & Evaluation Indicator Bank).",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T162",
+        "T163",
+        "T271",
+        "T351",
+        "T382"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied MSP Costing Tool rendering is retained exactly. Proposed renderings for the other two tool titles are listed separately, with their English titles retained for identification."
+    },
+    {
+      "id": "QSG-EDU-0079",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• signposting to additional resources",
+      "ne": "• थप स्रोतहरू कहाँ पाइन्छन् भन्ने जानकारी दिने कार्य।",
+      "bt": "• The work of providing information on where further resources can be found.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-EDU-0080",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• other relevant queries.",
+      "ne": "• अन्य सान्दर्भिक जिज्ञासाहरू।",
+      "bt": "• Other relevant queries.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

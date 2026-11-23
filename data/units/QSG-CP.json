@@ -1,0 +1,1716 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "QSG-CP",
+  "unit_id": "QSG-CP",
+  "unit_title": "Quick start guide to the MHPSS Minimum Service Package for CHILD PROTECTION ACTORS",
+  "phase": "A",
+  "source_file": "04 Sector Quick Start Guides/ChildProtection_Guide_240730 (1).pdf",
+  "source_sha256": "e9b0a185298200e9743899cf4cb279786efe13256cb501fcaa83f898da6ab439",
+  "pages": "1-3",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:24:41+05:45",
+  "coverage": {
+    "source_words": 1591,
+    "row_words": 1588,
+    "skipped": [
+      "Page 1: running page number 1.",
+      "Page 2: running page number 2.",
+      "Page 3: running page number 3.",
+      "Page 3: embedded image 1: European Union Embedded institutional logo text skipped.",
+      "Page 3: embedded image 2: Ministry of Foreign Affairs of the Netherlands Embedded institutional logo text skipped."
+    ]
+  },
+  "rows": [
+    {
+      "id": "QSG-CP-0001",
+      "page": "1",
+      "loc": "title",
+      "section": "",
+      "en": "Quick start guide to the MHPSS Minimum Service Package for CHILD PROTECTION ACTORS",
+      "ne": "बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरूका लागि MHPSS न्यूनतम सेवा प्याकेजको द्रुत सुरुआत मार्गदर्शिका",
+      "bt": "Quick start guide to the MHPSS Minimum Service Package for actors working in the child protection sector",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T002",
+        "T122",
+        "T144",
+        "T168"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0002",
+      "page": "1",
+      "loc": "heading",
+      "section": "Quick start guide to the MHPSS Minimum Service Package for CHILD PROTECTION ACTORS",
+      "en": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग न्यूनतम सेवा प्याकेज (MSP) के हो?",
+      "bt": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T002",
+        "T157",
+        "T163",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0003",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "The MSP outlines priority activities to meet the mental health and psychosocial support needs of emergency-affected populations.",
+      "ne": "MSP ले आपत्कालबाट प्रभावित जनसमूहको मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी आवश्यकताहरू पूरा गर्न प्राथमिकताका गतिविधिहरूको रूपरेखा प्रस्तुत गर्छ।",
+      "bt": "The MSP presents an outline of priority activities to meet the mental health and psychosocial support needs of populations affected by emergencies.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T089",
+        "T157",
+        "T163",
+        "T192",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0004",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "It is based on existing guidelines, the best available evidence, and expert consensus.",
+      "ne": "यो विद्यमान निर्देशिकाहरू, उपलब्धमध्येका उत्कृष्ट प्रमाण र विज्ञहरूको सहमतिमा आधारित छ।",
+      "bt": "It is based on existing guidelines, the best available evidence and expert consensus.",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T090"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0005",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "The goal of the MSP is to contribute to reduced suffering and improved mental health and psychosocial well-being.",
+      "ne": "MSP को लक्ष्य पीडा कम गर्न तथा मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सुधार ल्याउन योगदान दिनु हो।",
+      "bt": "The goal of the MSP is to contribute to reducing suffering and improving mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T157",
+        "T163",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental-health and psychosocial well-being wording reuses the supplied unreviewed wording in T103 and T005."
+    },
+    {
+      "id": "QSG-CP-0006",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "For more information on what the MSP is, why it is needed and how it can be used, please refer to the MSP guide.",
+      "ne": "MSP के हो, यसको आवश्यकता किन पर्छ र यसलाई कसरी प्रयोग गर्न सकिन्छ भन्नेबारे थप जानकारीका लागि MSP मार्गदर्शिका हेर्नुहोस्।",
+      "bt": "For more information about what the MSP is, why it is needed and how it can be used, see the MSP guide.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0007",
+      "page": "1",
+      "loc": "heading",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "How is it relevant to Child Protection actors?",
+      "ne": "यो बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरूका लागि कसरी सान्दर्भिक छ?",
+      "bt": "How is this relevant to actors working in the child protection sector?",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T122",
+        "T168"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0008",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Child Protection actors?",
+      "en": "Mental health and psychosocial support (MHPSS) is inherent to child protection work, helping children to cope, recover, and build resilience in the face of adversity.",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) बाल संरक्षण कार्यको अभिन्न अङ्ग हो, जसले बालबालिकालाई प्रतिकूल परिस्थितिको सामना गर्न, पुनः सम्हालिन र प्रतिकूलताबीच पनि सम्हालिन सक्ने क्षमता विकास गर्न मद्दत गर्छ।",
+      "bt": "Mental health and psychosocial support (MHPSS) is an integral part of child protection work, which helps children face adverse circumstances, recover and develop the capacity to cope even amid adversity.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T036",
+        "T157",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T001 is the supplied unreviewed clinical candidate. Coping, recovery and resilience are expressed descriptively in ordinary language, not as newly coined clinical terms."
+    },
+    {
+      "id": "QSG-CP-0009",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Child Protection actors?",
+      "en": "The MSP outlines priority activities Child Protection actors can implement and support to promote the mental health and psychosocial well-being of children and caregivers.",
+      "ne": "MSP ले बालबालिका र हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरूले कार्यान्वयन गर्न र सहयोग पुर्‍याउन सक्ने प्राथमिकताका गतिविधिहरूको रूपरेखा प्रस्तुत गर्छ।",
+      "bt": "The MSP presents an outline of priority activities that actors working in the child protection sector can implement and support to promote the mental health and psychosocial well-being of children and caregivers.",
+      "type": "general",
+      "terms": [
+        "T006",
+        "T005",
+        "T036",
+        "T089",
+        "T122",
+        "T157",
+        "T163",
+        "T168",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The mental-health and psychosocial well-being phrase follows the supplied unreviewed wording in T103."
+    },
+    {
+      "id": "QSG-CP-0010",
+      "page": "1",
+      "loc": "heading",
+      "section": "How is it relevant to Child Protection actors?",
+      "en": "How do I find Child Protection content in the MSP?",
+      "ne": "MSP मा बाल संरक्षणसम्बन्धी सामग्री कसरी फेला पार्ने?",
+      "bt": "How can child protection-related content be found in the MSP?",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0011",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "Each MSP activity is labelled with icons showing which sectors, clusters, or areas of responsibility (AoRs) are typically well placed to deliver it (colourful icons) or contribute to it (dark blue icons).1",
+      "ne": "प्रत्येक MSP गतिविधिमा सामान्यतया कुन क्षेत्र, क्लस्टर वा जिम्मेवारीका क्षेत्रहरू (AoRs) उक्त गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा छन् (रङ्गीन चिह्नहरू) वा त्यसमा योगदान दिन उपयुक्त अवस्थामा छन् (गाढा निलो चिह्नहरू) भन्ने देखाउने चिह्नहरू राखिएका छन्।1",
+      "bt": "Each MSP activity has symbols showing which sectors, clusters or areas of responsibility (AoRs) are generally in a suitable position to carry out that activity (coloured symbols) or to contribute to it (dark blue symbols).1",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T116",
+        "T117",
+        "T123",
+        "T124",
+        "T150",
+        "T163",
+        "T296"
+      ],
+      "flags": [],
+      "note": "The source footnote marker 1 is retained."
+    },
+    {
+      "id": "QSG-CP-0012",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "The green Child Protection icon indicates that Child Protection actors are typically well-placed to deliver an activity.",
+      "ne": "बाल संरक्षणको हरियो चिह्नले बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरू सामान्यतया कुनै गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा हुन्छन् भन्ने जनाउँछ।",
+      "bt": "The green child protection symbol indicates that actors working in the child protection sector are generally in a suitable position to carry out an activity.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T122",
+        "T168"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0013",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "The dark-blue Child Protection icon indicates that Child Protection actors are typically well-placed to contribute to the implementation of an activity.",
+      "ne": "बाल संरक्षणको गाढा निलो चिह्नले बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरू सामान्यतया कुनै गतिविधिको कार्यान्वयनमा योगदान दिन उपयुक्त अवस्थामा हुन्छन् भन्ने जनाउँछ।",
+      "bt": "The dark blue child protection symbol indicates that actors working in the child protection sector are generally in a suitable position to contribute to the implementation of an activity.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T122",
+        "T168",
+        "T380"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0014",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "For more information, see Who should implement MSP activities?",
+      "ne": "थप जानकारीका लागि ‘MSP गतिविधिहरू कसले कार्यान्वयन गर्नुपर्छ?’ हेर्नुहोस्।",
+      "bt": "For more information, see ‘Who should implement MSP activities?’",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T272",
+        "T379"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0015",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "Figure 1 shows activity 3.6, Provide group activities for children’s mental health and psychosocial wellbeing, as an example.",
+      "ne": "चित्र 1 मा उदाहरणका रूपमा गतिविधि 3.6, ‘बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने’, देखाइएको छ।",
+      "bt": "Figure 1 shows activity 3.6, ‘Provide group activities for children's mental health and psychosocial well-being’, as an example.",
+      "type": "general",
+      "terms": [
+        "T103",
+        "T157",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The embedded activity label is retained from the supplied unreviewed candidate T103."
+    },
+    {
+      "id": "QSG-CP-0016",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "The colourful icons show that Child Protection and Education actors are typically well-placed to deliver this activity, while the dark blue icons show that Camp Coordination and Camp Management (CCCM), Shelter and Settlements, and WASH actors are typically well placed to contribute to it.",
+      "ne": "रङ्गीन चिह्नहरूले बाल संरक्षण र शिक्षा क्षेत्रमा कार्यरत पक्षहरू सामान्यतया यो गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा हुन्छन् भन्ने देखाउँछन् भने गाढा निलो चिह्नहरूले शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM), आश्रय तथा बस्ती र WASH क्षेत्रमा कार्यरत पक्षहरू सामान्यतया यसमा योगदान दिन उपयुक्त अवस्थामा हुन्छन् भन्ने देखाउँछन्।",
+      "bt": "The coloured symbols show that actors working in the child protection and education sectors are generally in a suitable position to carry out this activity, while the dark blue symbols show that actors working in camp coordination and camp management (CCCM), shelter and settlements, and WASH are generally in a suitable position to contribute to it.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T028",
+        "T031",
+        "T032",
+        "T130",
+        "T150",
+        "T300",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "WASH recurs but has no supplied glossary entry. Propose adding an entry for water, sanitation and hygiene (WASH); the source acronym is retained without expanding it in the translation."
+    },
+    {
+      "id": "QSG-CP-0017",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "For example, these additional sectors may provide a space in which to conduct the activities and may have an important role in informing the community about when and where these activities will take place.",
+      "ne": "उदाहरणका लागि, यी थप क्षेत्रहरूले गतिविधिहरू सञ्चालन गर्ने स्थान उपलब्ध गराउन सक्छन् र यी गतिविधिहरू कहिले र कहाँ सञ्चालन हुनेछन् भन्नेबारे समुदायलाई जानकारी दिन महत्त्वपूर्ण भूमिका निर्वाह गर्न सक्छन्।",
+      "bt": "For example, these additional sectors can provide space for carrying out activities and can play an important role in informing the community about when and where these activities will take place.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0018",
+      "page": "1",
+      "loc": "caption",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "Figure 1",
+      "ne": "चित्र 1",
+      "bt": "Figure 1",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0019",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "Education and Child Protection: typically well placed to deliver the activity",
+      "ne": "शिक्षा र बाल संरक्षण: सामान्यतया गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा रहेका क्षेत्रहरू",
+      "bt": "Education and child protection: sectors generally in a suitable position to carry out the activity",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0020",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "3.6 बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने।",
+      "bt": "3.6 Provide group activities for children's mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T103 is reused verbatim as an unreviewed activity-label candidate, with the source code and a closing danda."
+    },
+    {
+      "id": "QSG-CP-0021",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "CCCM, Shelter & Settlements, and WASH: typically well placed to contribute to the activity",
+      "ne": "CCCM, आश्रय तथा बस्ती र WASH: सामान्यतया गतिविधिमा योगदान दिन उपयुक्त अवस्थामा रहेका क्षेत्रहरू",
+      "bt": "CCCM, shelter and settlements, and WASH: sectors generally in a suitable position to contribute to the activity",
+      "type": "general",
+      "terms": [
+        "T032",
+        "T300",
+        "T301"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring WASH acronym is retained. A glossary entry for water, sanitation and hygiene (WASH) is proposed but not added to G-0.1."
+    },
+    {
+      "id": "QSG-CP-0022",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "Figure 2 presents another example.",
+      "ne": "चित्र 2 मा अर्को उदाहरण प्रस्तुत गरिएको छ।",
+      "bt": "Another example is presented in Figure 2.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0023",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "Here the colourful icons show that Health actors are typically well-placed to deliver activity 3.10 (Provide mental health care as part of general health services), while the dark blue icons show that Child Protection and Nutrition actors are typically well-placed to contribute to it.",
+      "ne": "यहाँ रङ्गीन चिह्नहरूले स्वास्थ्य क्षेत्रमा कार्यरत पक्षहरू सामान्यतया गतिविधि 3.10 (सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने) सञ्चालन गर्न उपयुक्त अवस्थामा हुन्छन् भन्ने देखाउँछन् भने गाढा निलो चिह्नहरूले बाल संरक्षण र पोषण क्षेत्रमा कार्यरत पक्षहरू सामान्यतया यसमा योगदान दिन उपयुक्त अवस्थामा हुन्छन् भन्ने देखाउँछन्।",
+      "bt": "Here, the coloured symbols show that actors working in the health sector are generally in a suitable position to carry out activity 3.10 (provide mental health services as part of general health services), while the dark blue symbols show that actors working in the child protection and nutrition sectors are generally in a suitable position to contribute to it.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T107",
+        "T036",
+        "T030",
+        "T150",
+        "T157",
+        "T164"
+      ],
+      "flags": [],
+      "note": "The parenthesized activity label reuses T107, a supplied unreviewed candidate."
+    },
+    {
+      "id": "QSG-CP-0024",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "For example, Child Protection actors can contribute by establishing referral pathways and links to general health services, and supporting children with mental, neurological or substance use conditions to access such services.",
+      "ne": "उदाहरणका लागि, बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरूले सेवा प्रेषण मार्गहरू स्थापना गरेर, सामान्य स्वास्थ्य सेवाहरूसँग सम्बन्ध स्थापना गरेर र मानसिक, स्नायुसम्बन्धी वा पदार्थको प्रयोगसम्बन्धी अवस्था भएका बालबालिकालाई त्यस्ता सेवामा पहुँच प्राप्त गर्न सहयोग गरेर योगदान दिन सक्छन्।",
+      "bt": "For example, actors working in the child protection sector can contribute by establishing service referral pathways, establishing links with general health services and helping children with mental, neurological or substance use-related conditions to gain access to such services.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T063",
+        "T122"
+      ],
+      "flags": [],
+      "note": "Retains all three condition categories, establishment of referral pathways and service links, and support for access without implying automatic transfer."
+    },
+    {
+      "id": "QSG-CP-0025",
+      "page": "1",
+      "loc": "caption",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "Figure 2",
+      "ne": "चित्र 2",
+      "bt": "Figure 2",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0026",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "Health: typically well placed to deliver the activity",
+      "ne": "स्वास्थ्य: सामान्यतया गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा रहेको क्षेत्र",
+      "bt": "Health: the sector generally in a suitable position to carry out the activity",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0027",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "3.10 Provide mental health care as part of general health services",
+      "ne": "3.10 सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने।",
+      "bt": "3.10 Provide mental health services as part of general health services.",
+      "type": "activity",
+      "terms": [
+        "T107",
+        "T157"
+      ],
+      "flags": [],
+      "note": "The existing unreviewed T107 label is preserved, including its scope of mental health care within general health services."
+    },
+    {
+      "id": "QSG-CP-0028",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "Child Protection and Nutrition: typically well placed to contribute to the activity",
+      "ne": "बाल संरक्षण र पोषण: सामान्यतया गतिविधिमा योगदान दिन उपयुक्त अवस्थामा रहेका क्षेत्रहरू",
+      "bt": "Child protection and nutrition: sectors generally in a suitable position to contribute to the activity",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T030"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0029",
+      "page": "1",
+      "loc": "footnote",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "1 The icons are not intended to be prescriptive, but a guide to who typically does what.",
+      "ne": "1 यी चिह्नहरूको उद्देश्य कसले के गर्नैपर्छ भनेर तोक्नु होइन, बरु सामान्यतया कसले के गर्छ भन्नेबारे मार्गदर्शन दिनु हो।",
+      "bt": "1 The purpose of these symbols is not to specify who must do what, but rather to provide guidance about who generally does what.",
+      "type": "general",
+      "terms": [
+        "T150"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0030",
+      "page": "2",
+      "loc": "heading",
+      "section": "How do I find Child Protection content in the MSP?",
+      "en": "Which MSP activities are most relevant to Child Protection actors?",
+      "ne": "बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरूका लागि कुन MSP गतिविधिहरू सबैभन्दा सान्दर्भिक छन्?",
+      "bt": "Which MSP activities are most relevant to actors working in the child protection sector?",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T091",
+        "T122",
+        "T163",
+        "T168",
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0031",
+      "page": "2",
+      "loc": "para",
+      "section": "Which MSP activities are most relevant to Child Protection actors?",
+      "en": "MSP activities are organized into four sections.",
+      "ne": "MSP गतिविधिहरूलाई चार खण्डमा व्यवस्थित गरिएको छ।",
+      "bt": "MSP activities are organized into four sections.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T272",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0032",
+      "page": "2",
+      "loc": "heading",
+      "section": "Which MSP activities are most relevant to Child Protection actors?",
+      "en": "Section 1: Inter-Agency Coordination and Assessment",
+      "ne": "खण्ड 1: निकायहरूबीचको समन्वय र लेखाजोखा",
+      "bt": "Section 1: Inter-agency coordination and assessment",
+      "type": "activity",
+      "terms": [
+        "T004",
+        "T349",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0033",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Activities 1.1 and 1.2 are particularly relevant for coordination groups in all sectors and AoRs, and cross-cutting MHPSS technical working groups.",
+      "ne": "गतिविधि 1.1 र 1.2 सबै क्षेत्र र AoRs का समन्वय समूहहरू तथा विभिन्न क्षेत्रलाई समेट्ने MHPSS प्राविधिक कार्यसमूहहरू (technical working groups) का लागि विशेष रूपमा सान्दर्भिक छन्।",
+      "bt": "Activities 1.1 and 1.2 are particularly relevant for coordination groups of all sectors and AoRs and MHPSS technical working groups covering different sectors.",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T127",
+        "T128",
+        "T296",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoRs is retained unchanged. Proposed recurring coordination terminology is listed separately."
+    },
+    {
+      "id": "QSG-CP-0034",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "They promote effective inter-agency and intersectoral coordination and assessment.",
+      "ne": "यी गतिविधिले प्रभावकारी अन्तरनिकाय तथा अन्तरक्षेत्रीय समन्वय र लेखाजोखालाई प्रवर्द्धन गर्छन्।",
+      "bt": "These activities promote effective inter-agency and intersectoral coordination and assessment.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T296",
+        "T349",
+        "T389"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0035",
+      "page": "2",
+      "loc": "table-head",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "MSP activity",
+      "ne": "MSP गतिविधि",
+      "bt": "MSP activity",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0036",
+      "page": "2",
+      "loc": "table-head",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Relevance to Child Protection actors2",
+      "ne": "बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरूका लागि सान्दर्भिकता2",
+      "bt": "Relevance for actors working in the child protection sector2",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T122",
+        "T168"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The footnote marker 2 is preserved. A recurring rendering of Child Protection actors is proposed separately."
+    },
+    {
+      "id": "QSG-CP-0037",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "1.1 Coordinate MHPSS within and across sectors",
+      "ne": "1.1 क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने।",
+      "bt": "1.1 Coordinate MHPSS within and between sectors.",
+      "type": "activity",
+      "terms": [
+        "T092",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0038",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Ensuring mutual representation at MHPSS and Child Protection coordination meetings. Working closely with actors in Education, Early Childhood Development, Gender Based Violence, Health and other areas of work to ensure MHPSS activities for children, adolescents and caregivers are consistent and mutually-reinforcing. Establishing joint referral pathways and standard operating procedures for the referral of children, adolescents, and caregivers to needed services, including facilitating access to the full range of child-friendly MHPSS activities and services as needed.",
+      "ne": "MHPSS र बाल संरक्षणसम्बन्धी समन्वय बैठकहरूमा एकअर्काको प्रतिनिधित्व सुनिश्चित गर्ने। बालबालिका तथा किशोरकिशोरी र हेरचाहकर्ताका लागि सञ्चालन गरिने MHPSS गतिविधिहरू एकरूप र परस्पर सुदृढ गर्ने खालका होऊन् भन्ने सुनिश्चित गर्न शिक्षा, प्रारम्भिक बाल विकास, लैङ्गिकतामा आधारित हिंसा, स्वास्थ्य र अन्य कार्यक्षेत्रमा कार्यरत पक्षहरूसँग निकट सहकार्य गर्ने। बालबालिका तथा किशोरकिशोरी र हेरचाहकर्तालाई आवश्यक सेवामा प्रेषण गर्न संयुक्त सेवा प्रेषण मार्गहरू र मानक कार्यसञ्चालन प्रक्रियाहरू (SOPs) स्थापना गर्ने; यसमा आवश्यकताअनुसार बालमैत्री MHPSS गतिविधि र सेवाका सबै प्रकारमा पहुँच सहज बनाउने कार्य पनि समावेश गर्ने।",
+      "bt": "Ensure mutual representation in MHPSS and child protection coordination meetings. Work closely with actors working in education, early childhood development, gender-based violence, health and other areas of work to ensure that MHPSS activities conducted for children and adolescents and caregivers are consistent and mutually reinforcing. Establish joint service referral pathways and standard operating procedures (SOPs) to refer children and adolescents and caregivers to necessary services; include in this the facilitation of access to all types of child-friendly MHPSS activities and services as needed.",
+      "type": "safety",
+      "terms": [
+        "T036",
+        "T066",
+        "T072",
+        "T006",
+        "T028",
+        "T037",
+        "T027",
+        "T063",
+        "T049",
+        "T158",
+        "T233",
+        "T349"
+      ],
+      "flags": [],
+      "note": "General service-coordination and referral guidance is drafted for safety review. No consent declaration or automatic transfer has been added."
+    },
+    {
+      "id": "QSG-CP-0039",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "1.2 Assess MHPSS needs and resources to guide programming",
+      "ne": "1.2 कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने।",
+      "bt": "1.2 Assess MHPSS needs and resources to guide the programme.",
+      "type": "activity",
+      "terms": [
+        "T093"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0040",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Including the mental health and psychosocial well-being of boys and girls of different ages and their caregivers in child protection needs assessments.",
+      "ne": "बाल संरक्षणका लागि गरिने आवश्यकताको लेखाजोखामा विभिन्न उमेरका बालक र बालिका तथा उनीहरूका हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण समावेश गर्ने।",
+      "bt": "Include the mental health and psychosocial well-being of boys and girls of different ages and their caregivers in needs assessments conducted for child protection.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T068",
+        "T006",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The mental health and psychosocial well-being wording reuses the cited unreviewed T100 candidate."
+    },
+    {
+      "id": "QSG-CP-0041",
+      "page": "2",
+      "loc": "heading",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Section 2: Essential components of all MHPSS programmes",
+      "ne": "खण्ड 2: सबै MHPSS कार्यक्रमका अत्यावश्यक अवयवहरू",
+      "bt": "Section 2: Essential components of all MHPSS programmes",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "This is a section heading, not an individual activity label."
+    },
+    {
+      "id": "QSG-CP-0042",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 2: Essential components of all MHPSS programmes",
+      "en": "Section 2 activities (on programme design, implementing an M&E system, caring for staff and volunteers and supporting MHPSS competencies) should be implemented by all organizations delivering MHPSS activities.",
+      "ne": "MHPSS गतिविधि सञ्चालन गर्ने सबै संस्थाले खण्ड 2 का गतिविधिहरू कार्यान्वयन गर्नु उचित हुन्छ; यी गतिविधि कार्यक्रमको डिजाइन, अनुगमन तथा मूल्याङ्कन (M&E) प्रणालीको कार्यान्वयन, कर्मचारी र स्वयंसेवकको हेरचाह तथा MHPSS सम्बन्धी सक्षमतामा सहयोग गर्ने विषयसँग सम्बन्धित छन्।",
+      "bt": "It would be appropriate for all organizations conducting MHPSS activities to implement the activities in Section 2; these activities relate to programme design, implementation of monitoring and evaluation (M&E) systems, care of staff and volunteers, and matters that support MHPSS-related competencies.",
+      "type": "general",
+      "terms": [
+        "T156",
+        "T159",
+        "T209",
+        "T379",
+        "T394",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "M&E and competency wording follows the supplied activity-list candidates for 2.2 and 2.4. The source says should be implemented; the back-translation says must implement. The revision removes the stronger mandatory force while retaining all organizations and all listed components."
+    },
+    {
+      "id": "QSG-CP-0043",
+      "page": "2",
+      "loc": "heading",
+      "section": "Section 2 activities (on programme design, implementing an M&E system, caring for staff and volunteers and supporting MHPSS competencies) should be implemented by all organizations delivering MHPSS activities.",
+      "en": "Sections 3 & 4: MHPSS Programme Activities",
+      "ne": "खण्ड 3 र 4: MHPSS कार्यक्रमका गतिविधिहरू",
+      "bt": "Sections 3 and 4: MHPSS programme activities",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "The ampersand is rendered as a conjunction; section numbers are unchanged."
+    },
+    {
+      "id": "QSG-CP-0044",
+      "page": "2",
+      "loc": "heading",
+      "section": "Sections 3 & 4: MHPSS Programme Activities",
+      "en": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "ne": "बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरू सामान्यतया निम्न कार्यक्रमगत गतिविधि सञ्चालन गर्न उपयुक्त स्थितिमा हुन्छन्:",
+      "bt": "Actors working in the child protection sector are generally well placed to conduct the following programmatic activities:",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T122",
+        "T166",
+        "T168"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring rendering of Child Protection actors."
+    },
+    {
+      "id": "QSG-CP-0045",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "ne": "3.1 मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने र MHPSS सम्बन्धी विचारणीय पक्ष तथा कार्यका लागि पैरवी गर्ने।",
+      "bt": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS-related considerations and actions.",
+      "type": "activity",
+      "terms": [
+        "T098",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0046",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Orienting child protection actors on MHPSS and interlinkages between MHPSS and Child Protection. Advocating for the integration of MHPSS into child protection in emergencies programming. Advocating to address social determinants of mental health and psychosocial wellbeing among children, adolescents, and caregivers, including risk and protective factors. Providing and advocating across sectors for the provision of services in ways that are inclusive, participatory, child-centred, rights-based, and promote the dignity of children and adolescents.",
+      "ne": "बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरूलाई MHPSS तथा MHPSS र बाल संरक्षणबीचका अन्तरसम्बन्धबारे अभिमुखीकरण गर्ने। आपत्कालीन अवस्थामा बाल संरक्षणसम्बन्धी कार्यक्रम सञ्चालन गर्दा MHPSS एकीकृत गर्न पैरवी गर्ने। बालबालिका तथा किशोरकिशोरी र हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणलाई प्रभाव पार्ने सामाजिक निर्धारकहरू, जसमा जोखिमका कारक र संरक्षणकारी कारक पनि समावेश छन्, सम्बोधन गर्न पैरवी गर्ने। समावेशी, सहभागितामूलक, बालकेन्द्रित र अधिकारमा आधारित तरिकाले तथा बालबालिका तथा किशोरकिशोरीको मर्यादा प्रवर्द्धन हुने गरी सेवा प्रदान गर्ने र यसरी सेवा प्रदान गर्न विभिन्न क्षेत्रहरूमा पैरवी गर्ने।",
+      "bt": "Orient actors working in the child protection sector on MHPSS and the interconnections between MHPSS and child protection. Advocate for integrating MHPSS when conducting child protection programmes in emergencies. Advocate for addressing the social determinants that affect the mental health and psychosocial well-being of children and adolescents and caregivers, including risk factors and protective factors. Provide services in an inclusive, participatory, child-centred and rights-based manner and in a way that promotes the dignity of children and adolescents, and advocate across different sectors for services to be provided in this way.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T072",
+        "T006",
+        "T005",
+        "T122",
+        "T131",
+        "T157",
+        "T168",
+        "T296",
+        "T304",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed Child Protection actors wording. The mental health and psychosocial well-being phrase reuses T100; social determinants and risk/protective factors are programme-level wording, not diagnostic language."
+    },
+    {
+      "id": "QSG-CP-0047",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "ne": "3.2 अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने।",
+      "bt": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills.",
+      "type": "activity",
+      "terms": [
+        "T099",
+        "T013",
+        "T069",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The activity label is retained from the cited unreviewed candidate."
+    },
+    {
+      "id": "QSG-CP-0048",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Orienting all frontline child protection staff in basic psychosocial support for children and adults.",
+      "ne": "बाल संरक्षणका सबै अग्रपंक्तिका कर्मचारीलाई बालबालिका र वयस्कका लागि आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्ने।",
+      "bt": "Orient all frontline child protection staff on basic psychosocial support for children and adults.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The basic psychosocial support wording is reused from the cited unreviewed T099 candidate; staff are distinguished from the broader category of actors."
+    },
+    {
+      "id": "QSG-CP-0049",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.3 Disseminate key messages to promote mental health and psychosocial well-being",
+      "ne": "3.3 मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मुख्य सन्देशहरू प्रसार गर्ने।",
+      "bt": "3.3 Disseminate key messages to promote mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T100",
+        "T005",
+        "T157",
+        "T253",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The clinical wording is retained from the cited unreviewed activity candidate."
+    },
+    {
+      "id": "QSG-CP-0050",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Identifying and incorporating key MHPSS messages for children, adolescents, and caregivers into child protection activities and informational materials.",
+      "ne": "बालबालिका तथा किशोरकिशोरी र हेरचाहकर्ताका लागि मुख्य MHPSS सन्देशहरू पहिचान गरी बाल संरक्षणका गतिविधि र सूचनामूलक सामग्रीमा समावेश गर्ने।",
+      "bt": "Identify key MHPSS messages for children and adolescents and caregivers and include them in child protection activities and informational materials.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T006",
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0051",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.4 Support new and pre-existing group-based community MHPSS activities",
+      "ne": "3.4 नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने।",
+      "bt": "3.4 Support new and already ongoing group-based community MHPSS activities.",
+      "type": "activity",
+      "terms": [
+        "T101"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0052",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Supporting pre-existing community initiatives and facilitating new group-based community initiatives that promote the mental health and psychosocial well-being of children, adolescents, and caregivers.",
+      "ne": "बालबालिका तथा किशोरकिशोरी र हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने पहिलेदेखि सञ्चालित सामुदायिक पहलहरूलाई सहयोग गर्ने र बालबालिका तथा किशोरकिशोरी र हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने समूहमा आधारित नयाँ सामुदायिक पहलहरू सहज बनाउने।",
+      "bt": "Support existing community initiatives that promote the mental health and psychosocial well-being of children and adolescents and caregivers, and facilitate new group-based community initiatives that promote the mental health and psychosocial well-being of children and adolescents and caregivers.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T006",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The mental health and psychosocial well-being phrase reuses the cited unreviewed T100 wording. The Nepali and back-translation attach the promotion purpose only to pre-existing initiatives, leaving new initiatives unqualified. The revision explicitly applies that purpose and the same beneficiary groups to new initiatives as well."
+    },
+    {
+      "id": "QSG-CP-0053",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "ne": "3.5 साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास (ECD) गतिविधि प्रदान गर्ने।",
+      "bt": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers.",
+      "type": "activity",
+      "terms": [
+        "T102",
+        "T006",
+        "T037"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0054",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Supporting the mental health and well-being of caregivers of young children, of those expecting children, as well as their ability to provide responsive care and early learning opportunities for the children in their care. Providing young children with opportunities to play and learn.",
+      "ne": "साना बालबालिकाका हेरचाहकर्ता तथा सन्तानको अपेक्षामा रहेका व्यक्तिहरूको मानसिक स्वास्थ्य र कल्याणलाई तथा आफ्नो हेरचाहमा रहेका बालबालिकाका लागि बालबालिकाका आवश्यकता र सङ्केतअनुसार गरिने स्याहार र प्रारम्भिक सिकाइका अवसर उपलब्ध गराउन सक्ने उनीहरूको क्षमतालाई सहयोग गर्ने। साना बालबालिकालाई खेल्न र सिक्न अवसर उपलब्ध गराउने।",
+      "bt": "Support the mental health and well-being of caregivers of young children and people expecting a child, and their ability to provide care according to children's needs and signals and early learning opportunities for the children in their care. Provide young children with opportunities to play and learn.",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T083",
+        "T157",
+        "T222",
+        "T328"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source construction leaves uncertain whether those expecting children are a separate supported group or people whose caregivers are supported; this draft treats them as a separate supported group, requiring source clarification."
+    },
+    {
+      "id": "QSG-CP-0055",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "3.6 बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने।",
+      "bt": "3.6 Provide group activities for children's mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The clinical wording is retained from the cited unreviewed activity candidate."
+    },
+    {
+      "id": "QSG-CP-0056",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Providing recreational and structured group activities to promote the mental health and psychosocial well-being of children and adolescents.",
+      "ne": "बालबालिका तथा किशोरकिशोरीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मनोरञ्जनात्मक सामूहिक गतिविधिहरू र संरचित सामूहिक गतिविधिहरू प्रदान गर्ने।",
+      "bt": "Provide recreational group activities and structured group activities to promote the mental health and psychosocial well-being of children and adolescents.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T005",
+        "T081",
+        "T080",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The mental health and psychosocial well-being phrase reuses T100; recreational and structured group activities remain distinct. The source describes recreational and structured group activities. The Nepali and back-translation omit the group component from recreational activities; the revision makes it explicit for both."
+    },
+    {
+      "id": "QSG-CP-0057",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.7 Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children",
+      "ne": "3.7 हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.7 Promote caregivers' mental health and psychosocial well-being and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T104",
+        "T006",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The activity label is retained from the cited unreviewed candidate."
+    },
+    {
+      "id": "QSG-CP-0058",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Supporting caregivers to look after their own physical and mental health needs and promoting positive caregiving skills.",
+      "ne": "हेरचाहकर्तालाई आफ्नै शारीरिक र मानसिक स्वास्थ्यसम्बन्धी आवश्यकताको ख्याल राख्न सहयोग गर्ने र सकारात्मक हेरचाहका सीपहरू प्रवर्द्धन गर्ने।",
+      "bt": "Support caregivers in taking care of their own physical and mental health needs and promote positive caregiving skills.",
+      "type": "general",
+      "terms": [
+        "T006",
+        "T157",
+        "T281"
+      ],
+      "flags": [],
+      "note": "Mental health wording is reused from the supplied T104 candidate; no clinical condition or treatment terminology is introduced."
+    },
+    {
+      "id": "QSG-CP-0059",
+      "page": "2",
+      "loc": "footnote",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "2 These examples should not be considered exhaustive.",
+      "ne": "2 यी उदाहरणहरूलाई सम्पूर्ण सूचीका रूपमा लिनु उचित हुँदैन।",
+      "bt": "2 It would not be appropriate to take these examples as a complete list.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The source says should not be considered exhaustive, while the back-translation says must not. The revision retains the non-exhaustiveness warning without strengthening it into a prohibition."
+    },
+    {
+      "id": "QSG-CP-0060",
+      "page": "2",
+      "loc": "footnote",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "For a more comprehensive list of actions, see the checklists under each MSP activity.",
+      "ne": "कार्यहरूको अझ व्यापक सूचीका लागि प्रत्येक MSP गतिविधिअन्तर्गतका जाँचसूचीहरू हेर्नुहोस्।",
+      "bt": "For a more comprehensive list of actions, see the checklists under each MSP activity.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T121",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The source promises a more comprehensive list, whereas the Nepali and back-translation describe a more detailed list. The revision restores breadth of coverage rather than greater detail."
+    },
+    {
+      "id": "QSG-CP-0061",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "ne": "3.8 शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.8 Promote the mental health and psychosocial well-being of education sector staff and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T105",
+        "T070",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The activity label is retained from the cited unreviewed candidate."
+    },
+    {
+      "id": "QSG-CP-0062",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Collaborating with Education actors to support the mental health and psychosocial well-being of children and adolescents in learning spaces and the mental health and psychosocial well-being of teachers and other education personnel. Building the capacity of teachers and other education personnel to support the mental health and psychosocial well-being of children.",
+      "ne": "सिकाइका स्थानमा रहेका बालबालिका तथा किशोरकिशोरीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण र शिक्षक तथा शिक्षा क्षेत्रका अन्य कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सहयोग गर्न शिक्षा क्षेत्रमा कार्यरत पक्षहरूसँग सहकार्य गर्ने। बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सहयोग गर्न शिक्षक तथा शिक्षा क्षेत्रका अन्य कर्मचारीको क्षमता विकास गर्ने।",
+      "bt": "Collaborate with actors working in the education sector to support the mental health and psychosocial well-being of children and adolescents in learning spaces and the mental health and psychosocial well-being of teachers and other education sector staff. Develop the capacity of teachers and other education sector staff to support children's mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T005",
+        "T028",
+        "T130",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical phrases reuse T100 and T105. The education personnel phrase is adjusted to preserve the source distinction between teachers and other personnel, so the exact T070 form is not listed."
+    },
+    {
+      "id": "QSG-CP-0063",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.12 Initiate or strengthen the provision of psychological interventions",
+      "ne": "3.12 मनोवैज्ञानिक हस्तक्षेपहरूको व्यवस्था सुरु गर्ने वा सुदृढ गर्ने।",
+      "bt": "3.12 Initiate or strengthen the provision of psychological interventions.",
+      "type": "activity",
+      "terms": [
+        "T109",
+        "T007"
+      ],
+      "flags": [],
+      "note": "The intervention wording is retained verbatim from the cited unreviewed T109 candidate."
+    },
+    {
+      "id": "QSG-CP-0064",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Delivering scalable psychological interventions to address impairment due to psychological distress and mental health conditions.",
+      "ne": "मानसिक व्यथा र मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूका कारण कार्यक्षमतामा आउने कमीलाई सम्बोधन गर्न विस्तार गर्न सकिने मनोवैज्ञानिक हस्तक्षेप प्रदान गर्ने।",
+      "bt": "Provide psychological interventions that can be expanded to address reductions in functioning caused by mental distress and mental health-related conditions.",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T157",
+        "T295",
+        "T478",
+        "T492"
+      ],
+      "flags": [],
+      "note": "Retains scalability and impairment caused by psychological distress and mental health conditions without substituting stress or restricting impairment to daily functioning."
+    },
+    {
+      "id": "QSG-CP-0065",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.13 Provide MHPSS through case management services",
+      "ne": "3.13 केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.13 Provide MHPSS through case management services.",
+      "type": "activity",
+      "terms": [
+        "T110",
+        "T118"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate T110."
+    },
+    {
+      "id": "QSG-CP-0066",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Training child protection case workers and managers on relevant MHPSS topics. Adapting case management tools, templates, and referral protocols to include MHPSS.",
+      "ne": "बाल संरक्षणका केस कार्यकर्ता र व्यवस्थापकलाई सान्दर्भिक MHPSS विषयमा तालिम दिने। MHPSS समावेश गर्न केस व्यवस्थापनका उपकरण, नमुना ढाँचा र सेवा प्रेषण कार्यविधिहरू अनुकूलन गर्ने।",
+      "bt": "Train child protection case workers and managers on relevant MHPSS topics. Adapt case management tools, templates and service referral procedures to include MHPSS.",
+      "type": "safety",
+      "terms": [
+        "T036",
+        "T065",
+        "T118",
+        "T202"
+      ],
+      "flags": [],
+      "note": "General operational safety guidance drafted for review; referral protocols remain distinct from referral pathways or mechanisms."
+    },
+    {
+      "id": "QSG-CP-0067",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "ne": "3.14 मानसिक अस्पताल तथा अन्य संस्थामा रहेका व्यक्तिहरूको संरक्षण र हेरचाह गर्ने।",
+      "bt": "3.14 Protect and care for people in mental hospitals and other institutions.",
+      "type": "activity",
+      "terms": [
+        "T111",
+        "T015",
+        "T029"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate T111, including its institutional terminology."
+    },
+    {
+      "id": "QSG-CP-0068",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Assessing and addressing protection concerns among children and adolescents in institutions and protecting and promoting their rights.",
+      "ne": "संस्थामा रहेका बालबालिका तथा किशोरकिशोरीका संरक्षणसम्बन्धी सरोकारहरूको लेखाजोखा गर्ने र तिनलाई सम्बोधन गर्ने तथा उनीहरूका अधिकारको संरक्षण र प्रवर्द्धन गर्ने।",
+      "bt": "Assess and address protection concerns of children and adolescents in institutions, and protect and promote their rights.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T072"
+      ],
+      "flags": [],
+      "note": "General protection guidance drafted for review; this is not a verbatim safeguarding declaration."
+    },
+    {
+      "id": "QSG-CP-0069",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "4.2 Provide mental health and psychosocial support to persons deprived of their liberty",
+      "ne": "4.2 स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग प्रदान गर्ने।",
+      "bt": "4.2 Provide mental health and psychosocial support to people deprived of liberty.",
+      "type": "activity",
+      "terms": [
+        "T113",
+        "T001",
+        "T157",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate T113 and composite terminology T001."
+    },
+    {
+      "id": "QSG-CP-0070",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "Providing access to mental health and psychosocial support for children and adolescents deprived of their liberty and advocating for MHPSS considerations (e.g. maintaining family and social connections; ensuring availability of private spaces for provision of confidential mental health and psychosocial support).",
+      "ne": "स्वतन्त्रताबाट वञ्चित बालबालिका तथा किशोरकिशोरीका लागि मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगमा पहुँच उपलब्ध गराउने र MHPSS सम्बन्धी विचारणीय पक्षका लागि पैरवी गर्ने (जस्तै, पारिवारिक तथा सामाजिक सम्बन्ध कायम राख्ने; गोपनीय मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग प्रदान गर्न एकान्त स्थानहरू उपलब्ध भएको सुनिश्चित गर्ने)।",
+      "bt": "Make access to mental health and psychosocial support available for children and adolescents deprived of liberty and advocate for MHPSS considerations (for example, maintaining family and social relationships; ensuring that private spaces are available to provide confidential mental health and psychosocial support).",
+      "type": "safety",
+      "terms": [
+        "T072",
+        "T001",
+        "T157",
+        "T410"
+      ],
+      "flags": [],
+      "note": "General access and privacy guidance drafted for review. Clinical composite wording is reused only from unreviewed candidate T001."
+    },
+    {
+      "id": "QSG-CP-0071",
+      "page": "3",
+      "loc": "heading",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to deliver are:",
+      "en": "The programmatic activities that Child Protection actors are typically well placed to contribute to are:",
+      "ne": "बाल संरक्षणका क्षेत्रमा काम गर्ने पक्षहरू सामान्यतया योगदान दिन उपयुक्त स्थितिमा रहने कार्यक्रमगत गतिविधिहरू निम्न छन्:",
+      "bt": "The following are programmatic activities to which actors working in the field of child protection are generally well placed to contribute:",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T166"
+      ],
+      "flags": [],
+      "note": "Stakeholders can include interested parties who are not Child Protection actors. The revision identifies parties working in Child Protection and retains contribution rather than delivery."
+    },
+    {
+      "id": "QSG-CP-0072",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to contribute to are:",
+      "en": "3.10 Provide mental health care as part of general health services",
+      "ne": "3.10 सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने।",
+      "bt": "3.10 Provide mental health services as part of general health services.",
+      "type": "activity",
+      "terms": [
+        "T107",
+        "T157"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate T107."
+    },
+    {
+      "id": "QSG-CP-0073",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to contribute to are:",
+      "en": "Contributing to the provision of mental health care for children and adolescents as part of general health services, for example, by establishing links between child protection actors and general health services, and supporting children and adolescents with mental, neurological or substance use conditions to access such services.",
+      "ne": "सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा बालबालिका तथा किशोरकिशोरीका लागि मानसिक स्वास्थ्य हेरचाह उपलब्ध गराउन योगदान दिने, उदाहरणका लागि, बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरू र सामान्य स्वास्थ्य सेवाबीच सम्बन्ध स्थापना गरेर तथा मानसिक, स्नायुसम्बन्धी वा पदार्थको प्रयोगसम्बन्धी अवस्था भएका बालबालिका तथा किशोरकिशोरीलाई त्यस्ता सेवामा पहुँच प्राप्त गर्न सहयोग गरेर।",
+      "bt": "Contribute to making mental health care available for children and adolescents as part of general health services, for example, by establishing links between actors working in the child protection sector and general health services and by helping children and adolescents with mental, neurological or substance use-related conditions to gain access to such services.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T072",
+        "T122",
+        "T157"
+      ],
+      "flags": [],
+      "note": "Preserves the contributory role, care within general health services, both age groups and all three condition categories; service links and access support remain examples."
+    },
+    {
+      "id": "QSG-CP-0074",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to contribute to are:",
+      "en": "4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "ne": "4.1 सरुवा रोगको क्लिनिकल केस व्यवस्थापनमा MHPSS सम्बन्धी विचारणीय पक्ष र सहयोग एकीकृत गर्ने।",
+      "bt": "4.1 Integrate MHPSS-related considerations and support into the clinical case management of communicable diseases.",
+      "type": "safety",
+      "terms": [
+        "T112",
+        "T118",
+        "T242"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label uses a communicable-disease term for infectious diseases, narrowing the source because infectious diseases are not necessarily transmissible between people. bt-divergence: The frozen activity label T112 uses सरुवा रोग, back-translated as communicable diseases, for infectious diseases. This narrows the source disease category: infectious diseases need not be communicable. The frozen form is retained."
+    },
+    {
+      "id": "QSG-CP-0075",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to contribute to are:",
+      "en": "Establishing links between child protection services and health facilities providing clinical management of infectious diseases. Supporting health actors to assess and address the MHPSS needs of children and adolescents affected by the infectious disease and their family members (including children who have been separated from family members due to infection control measures).",
+      "ne": "सरुवा रोगको चिकित्सकीय व्यवस्थापन उपलब्ध गराउने स्वास्थ्य संस्थाहरू र बाल संरक्षण सेवाहरूबीच सम्बन्ध स्थापना गर्ने। सरुवा रोगबाट प्रभावित बालबालिका तथा किशोरकिशोरी र उनीहरूका परिवारका सदस्यहरूको MHPSS सम्बन्धी आवश्यकताहरूको मूल्याङ्कन गर्न र ती आवश्यकतालाई सम्बोधन गर्न स्वास्थ्य क्षेत्रका सम्बद्ध पक्षहरूलाई सहयोग गर्ने (यसमा सङ्क्रमण नियन्त्रणका उपायका कारण परिवारका सदस्यहरूबाट अलग भएका बालबालिका पनि समावेश छन्)।",
+      "bt": "Establish links between health facilities providing medical management of communicable diseases and child protection services. Support relevant actors in the health sector to assess and address the MHPSS-related needs of children and adolescents affected by communicable diseases and their family members (this also includes children separated from family members because of infection control measures).",
+      "type": "safety",
+      "terms": [
+        "T036",
+        "T072",
+        "T145",
+        "T237",
+        "T242"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen disease term denotes communicable diseases rather than all infectious diseases, narrowing the source; clinical management remains distinct from case management, and the inclusion of children separated because of infection control measures is retained. bt-divergence: The frozen candidate T242, सरुवा रोग, is back-translated as communicable diseases rather than infectious diseases, narrowing the disease scope in both sentences. The frozen form is retained; the actors, support role, family members and infection-control separation condition are otherwise preserved."
+    },
+    {
+      "id": "QSG-CP-0076",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to contribute to are:",
+      "en": "You can use the filter on the ‘All Activities’ page of the web platform to show only Child Protection-relevant activities.",
+      "ne": "बाल संरक्षणसँग सम्बन्धित गतिविधिहरू मात्र देखाउन तपाईंले वेब प्लेटफर्मको ‘सबै गतिविधिहरू (All Activities)’ पृष्ठमा रहेको फिल्टर प्रयोग गर्न सक्नुहुन्छ।",
+      "bt": "You can use the filter on the web platform's ‘All Activities’ page to show only activities related to child protection.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T189"
+      ],
+      "flags": [],
+      "note": "Retains the English interface label alongside its Nepali rendering for navigation."
+    },
+    {
+      "id": "QSG-CP-0077",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to contribute to are:",
+      "en": "For help navigating the MSP, see How is the MSP Structured? and the video tour of the web platform.",
+      "ne": "MSP मा नेभिगेट गर्न सहयोगका लागि ‘MSP को संरचना कस्तो छ? (How is the MSP Structured?)’ र वेब प्लेटफर्मको भिडियो भ्रमण हेर्नुहोस्।",
+      "bt": "For help navigating the MSP, see ‘What is the structure of the MSP like? (How is the MSP Structured?)’ and the video tour of the web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189",
+        "T433"
+      ],
+      "flags": [],
+      "note": "Retains the English linked title alongside its Nepali rendering. The original narrows navigating to finding needed information and renders a video tour as an introductory video. The revision preserves navigation and the tour format."
+    },
+    {
+      "id": "QSG-CP-0078",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to contribute to are:",
+      "en": "No single organization is expected to implement all programme activities.",
+      "ne": "कुनै एक संस्थाले कार्यक्रमका सबै गतिविधिहरू कार्यान्वयन गर्ने अपेक्षा गरिएको छैन।",
+      "bt": "No single organization is expected to implement all the programme activities.",
+      "type": "general",
+      "terms": [
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0079",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to contribute to are:",
+      "en": "Rather, relevant organizations must coordinate and work together across sectors/AoRs to ensure that activities are implemented, and a comprehensive response is delivered.",
+      "ne": "बरु, गतिविधिहरू कार्यान्वयन गरिने र सबै पक्ष समेट्ने प्रतिकार्य प्रदान गरिने सुनिश्चित गर्न सम्बन्धित संस्थाहरूले क्षेत्रहरू/जिम्मेवारीका क्षेत्रहरू (AoRs) बीच समन्वय गरी मिलेर काम गर्नुपर्छ।",
+      "bt": "Instead, the relevant organizations must coordinate across sectors/areas of responsibility (AoRs) and work together to ensure that activities are implemented and a response covering all aspects is provided.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposes terminology for the recurring concepts areas of responsibility and humanitarian response; the frozen glossary is unchanged. The original makes an overall response available rather than ensuring delivery of a comprehensive response. The revision explicitly retains comprehensive coverage, delivery, and the mandatory coordination requirement."
+    },
+    {
+      "id": "QSG-CP-0080",
+      "page": "3",
+      "loc": "heading",
+      "section": "The programmatic activities that Child Protection actors are typically well placed to contribute to are:",
+      "en": "What information is included in each activity?",
+      "ne": "प्रत्येक गतिविधिमा के जानकारी समावेश गरिएको छ?",
+      "bt": "What information is included in each activity?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0081",
+      "page": "3",
+      "loc": "heading",
+      "section": "What information is included in each activity?",
+      "en": "Each activity includes:",
+      "ne": "प्रत्येक गतिविधिमा निम्न कुरा समावेश छन्:",
+      "bt": "Each activity includes the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0082",
+      "page": "3",
+      "loc": "heading",
+      "section": "What information is included in each activity?",
+      "en": "Many activities also include:",
+      "ne": "धेरै गतिविधिमा निम्न कुरा पनि समावेश छन्:",
+      "bt": "Many activities also include the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0083",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Brief introduction",
+      "ne": "संक्षिप्त परिचय",
+      "bt": "Brief introduction",
+      "type": "general",
+      "terms": [
+        "T017"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0084",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Checklist of actions",
+      "ne": "कार्यहरूको जाँचसूची",
+      "bt": "Checklist of tasks",
+      "type": "general",
+      "terms": [
+        "T018",
+        "T121"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0085",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Relevant guidelines, standards and tools",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण",
+      "bt": "Relevant guidelines, standards and tools",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0086",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Key considerations",
+      "ne": "मुख्य विचारणीय पक्षहरू",
+      "bt": "Key considerations",
+      "type": "general",
+      "terms": [
+        "T154",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0087",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Recommended training topics",
+      "ne": "सिफारिस गरिएका तालिमका विषयहरू",
+      "bt": "Recommended training topics",
+      "type": "general",
+      "terms": [
+        "T088"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0088",
+      "page": "3",
+      "loc": "heading",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "How can I get more help?",
+      "ne": "म थप सहयोग कसरी प्राप्त गर्न सक्छु?",
+      "bt": "How can I get further support?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0089",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "The Step-by-Step Guide for different users provides guidance on how implementing organizations and coordinators can use the MSP.",
+      "ne": "विभिन्न प्रयोगकर्ताका लागि तयार गरिएको चरणबद्ध मार्गदर्शिका (Step-by-Step Guide) ले कार्यान्वयन गर्ने संस्थाहरू र समन्वयकर्ताहरूले MSP कसरी प्रयोग गर्न सक्छन् भन्ने मार्गदर्शन प्रदान गर्छ।",
+      "bt": "The step-by-step guide (Step-by-Step Guide), prepared for different users, provides guidance on how implementing organizations and coordinators can use the MSP.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163",
+        "T183",
+        "T214"
+      ],
+      "flags": [],
+      "note": "Retains the English resource title alongside its Nepali rendering."
+    },
+    {
+      "id": "QSG-CP-0090",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "You can contact the MSP Helpdesk for tailored support by emailing mhpss.msp@gmail.com and mhpss.refgroup@gmail.com.",
+      "ne": "आफ्नो आवश्यकताअनुसारको सहयोगका लागि तपाईंले mhpss.msp@gmail.com र mhpss.refgroup@gmail.com मा इमेल पठाएर MSP सहायता कक्ष (Helpdesk) लाई सम्पर्क गर्न सक्नुहुन्छ।",
+      "bt": "For support according to your needs, you can contact the MSP assistance desk (Helpdesk) by sending an email to mhpss.msp@gmail.com and mhpss.refgroup@gmail.com.",
+      "type": "general",
+      "terms": [
+        "T146",
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. Proposes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring term Helpdesk."
+    },
+    {
+      "id": "QSG-CP-0091",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "The Helpdesk can support with:",
+      "ne": "सहायता कक्षले निम्न विषयमा सहयोग गर्न सक्छ:",
+      "bt": "The assistance desk can help with the following:",
+      "type": "general",
+      "terms": [
+        "T146"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for Helpdesk; the frozen glossary is unchanged."
+    },
+    {
+      "id": "QSG-CP-0092",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• orientations and workshops on using the MSP to strengthen the MHPSS response",
+      "ne": "• MHPSS प्रतिकार्य सुदृढ गर्न MSP को प्रयोगसम्बन्धी अभिमुखीकरण र कार्यशालाहरू",
+      "bt": "• Orientations and workshops on using the MSP to strengthen the MHPSS response",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T161",
+        "T163",
+        "T174",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering [Nepali wording recorded in terminology evidence] for response in its humanitarian programming sense."
+    },
+    {
+      "id": "QSG-CP-0093",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• integrating MHPSS into different sectors, areas of responsibility and workstreams",
+      "ne": "• विभिन्न क्षेत्र, जिम्मेवारीका क्षेत्र र कार्यधाराहरूमा MHPSS एकीकृत गर्ने कार्य",
+      "bt": "• The work of integrating MHPSS into different sectors, areas of responsibility and workstreams",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for areas of responsibility."
+    },
+    {
+      "id": "QSG-CP-0094",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• accompanying tools like the MSP Costing Tool, Gap Analysis Tool, and Monitoring & Evaluation Indicator Bank",
+      "ne": "• MSP लागत अनुमान उपकरण, अन्तर विश्लेषण उपकरण (Gap Analysis Tool) र अनुगमन तथा मूल्याङ्कन सूचक भण्डार (Monitoring & Evaluation Indicator Bank) जस्ता साथमा उपलब्ध उपकरणहरू",
+      "bt": "• Accompanying tools such as the MSP cost estimation tool, gap analysis tool (Gap Analysis Tool) and monitoring and evaluation indicator bank (Monitoring & Evaluation Indicator Bank)",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T137",
+        "T162",
+        "T163",
+        "T271",
+        "T351",
+        "T370",
+        "T382"
+      ],
+      "flags": [],
+      "note": "Retains the English names of the two tools without supplied glossary entries alongside descriptive Nepali renderings; these are not asserted to be official localized titles."
+    },
+    {
+      "id": "QSG-CP-0095",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• signposting to additional resources",
+      "ne": "• थप स्रोतसामग्री कहाँ उपलब्ध छन् भन्ने जानकारी",
+      "bt": "• Information on where additional resource materials are available",
+      "type": "general",
+      "terms": [
+        "T416"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-CP-0096",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• other relevant queries.",
+      "ne": "• अन्य सान्दर्भिक जिज्ञासाहरू।",
+      "bt": "• Other relevant queries.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

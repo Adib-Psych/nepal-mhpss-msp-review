@@ -1,0 +1,1657 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "QSG-PRO",
+  "unit_id": "QSG-PRO",
+  "unit_title": "Quick start guide to the MHPSS Minimum Service Package for PROTECTION ACTORS",
+  "phase": "A",
+  "source_file": "04 Sector Quick Start Guides/Protection_Guide_240730 (1).pdf",
+  "source_sha256": "0a93ae28bebf78d8dc66a3b8fa76e85a1fd55720df0c701ec8e6628108ca8081",
+  "pages": "1-3",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:28:34+05:45",
+  "coverage": {
+    "source_words": 1347,
+    "row_words": 1346,
+    "skipped": [
+      "Page 1: running page number 1.",
+      "Page 2: running page number 2.",
+      "Page 3: running page number 3.",
+      "Page 3: embedded image 1: European Union Embedded institutional logo text skipped.",
+      "Page 3: embedded image 2: Ministry of Foreign Affairs of the Netherlands Embedded institutional logo text skipped."
+    ]
+  },
+  "rows": [
+    {
+      "id": "QSG-PRO-0001",
+      "page": "1",
+      "loc": "title",
+      "section": "",
+      "en": "Quick start guide to the MHPSS Minimum Service Package for PROTECTION ACTORS",
+      "ne": "संरक्षण क्षेत्रमा कार्यरत पक्षहरूका लागि MHPSS न्यूनतम सेवा प्याकेजको द्रुत सुरुवात मार्गदर्शिका",
+      "bt": "Quick start guide to the MHPSS Minimum Service Package for actors working in the protection sector",
+      "type": "general",
+      "terms": [
+        "T002",
+        "T029",
+        "T144",
+        "T168"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Protection actors is a recurring term absent from G-0.1; a proposal is listed separately."
+    },
+    {
+      "id": "QSG-PRO-0002",
+      "page": "1",
+      "loc": "heading",
+      "section": "Quick start guide to the MHPSS Minimum Service Package for PROTECTION ACTORS",
+      "en": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग न्यूनतम सेवा प्याकेज (MSP) के हो?",
+      "bt": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T002",
+        "T157",
+        "T163",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed clinical composite T001."
+    },
+    {
+      "id": "QSG-PRO-0003",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "The MSP outlines priority activities to meet the mental health and psychosocial support needs of emergency-affected populations.",
+      "ne": "MSP ले आपत्कालबाट प्रभावित जनसमूहका मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी आवश्यकता पूरा गर्न प्राथमिकताका गतिविधिहरूको रूपरेखा प्रस्तुत गर्दछ।",
+      "bt": "The MSP outlines priority activities to meet the mental health and psychosocial support needs of populations affected by emergencies.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T089",
+        "T157",
+        "T163",
+        "T192",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed clinical composite T001."
+    },
+    {
+      "id": "QSG-PRO-0004",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "It is based on existing guidelines, the best available evidence, and expert consensus.",
+      "ne": "यो विद्यमान निर्देशिकाहरू, उपलब्ध सर्वोत्तम प्रमाण र विज्ञहरूको सहमतिमा आधारित छ।",
+      "bt": "It is based on existing guidelines, the best available evidence and expert consensus.",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T090"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0005",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "The goal of the MSP is to contribute to reduced suffering and improved mental health and psychosocial well-being.",
+      "ne": "MSP को लक्ष्य पीडा कम गर्न तथा मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सुधार ल्याउन योगदान पुर्‍याउनु हो।",
+      "bt": "The goal of the MSP is to contribute to reducing suffering and improving mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T157",
+        "T163",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being wording reuses the supplied unreviewed T104 candidate; suffering is rendered as ordinary, non-diagnostic wording."
+    },
+    {
+      "id": "QSG-PRO-0006",
+      "page": "1",
+      "loc": "para",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "For more information on what the MSP is, why it is needed and how it can be used, please refer to the MSP guide.",
+      "ne": "MSP के हो, यसको आवश्यकता किन छ र यसलाई कसरी प्रयोग गर्न सकिन्छ भन्नेबारे थप जानकारीका लागि MSP मार्गदर्शिका हेर्नुहोस्।",
+      "bt": "For more information about what the MSP is, why it is needed and how it can be used, see the MSP guide.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0007",
+      "page": "1",
+      "loc": "heading",
+      "section": "What is the Mental Health and Psychosocial Support Minimum Service Package (MSP)?",
+      "en": "How is it relevant to Protection actors?",
+      "ne": "यो संरक्षण क्षेत्रमा कार्यरत पक्षहरूका लागि कसरी सान्दर्भिक छ?",
+      "bt": "How is this relevant to actors working in the protection sector?",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T168"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term for Protection actors."
+    },
+    {
+      "id": "QSG-PRO-0008",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Protection actors?",
+      "en": "The MSP can help Protection actors to identify MHPSS activities that can be incorporated into Protection programming to promote the mental health and psychosocial wellbeing of at-risk groups.",
+      "ne": "जोखिममा रहेका समूहहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयनमा समावेश गर्न सकिने MHPSS गतिविधिहरू पहिचान गर्न MSP ले संरक्षण क्षेत्रमा कार्यरत पक्षहरूलाई मद्दत गर्न सक्छ।",
+      "bt": "The MSP can help actors working in the protection sector identify MHPSS activities that can be included in protection programme planning and implementation to promote the mental health and psychosocial well-being of groups at risk.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T029",
+        "T157",
+        "T158",
+        "T163",
+        "T168",
+        "T169",
+        "T282",
+        "T334",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Protection actors and protection programming require glossary entries. Clinical wording reuses the supplied unreviewed T104 candidate."
+    },
+    {
+      "id": "QSG-PRO-0009",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Protection actors?",
+      "en": "Incorporating MHPSS aspects effectively into protection programming and activities helps to mitigate immediate and long-term risks to the dignity, mental health, and psychosocial well-being of affected people.",
+      "ne": "संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयन र गतिविधिहरूमा MHPSS का पक्षहरू प्रभावकारी रूपमा समावेश गर्नाले प्रभावित व्यक्तिहरूको गरिमा, मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा पर्ने तत्कालका तथा दीर्घकालीन जोखिमहरू कम गर्न मद्दत पुग्छ।",
+      "bt": "Effectively including MHPSS aspects in protection programme planning and implementation and activities helps reduce immediate and long-term risks to the dignity, mental health and psychosocial well-being of affected people.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T029",
+        "T157",
+        "T169",
+        "T282",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed term for protection programming. Mental health wording is reused from supplied unreviewed candidates; psychosocial well-being uses T005."
+    },
+    {
+      "id": "QSG-PRO-0010",
+      "page": "1",
+      "loc": "para",
+      "section": "How is it relevant to Protection actors?",
+      "en": "For more information, see the MSP Key Consideration: Integrating MHPSS into protection programming.",
+      "ne": "थप जानकारीका लागि MSP को मुख्य विचारणीय पक्ष: संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने हेर्नुहोस्।",
+      "bt": "For more information, see the MSP key consideration: Integrating MHPSS into protection programme planning and implementation.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T163",
+        "T169",
+        "T252",
+        "T282"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term for protection programming; the referenced title is translated."
+    },
+    {
+      "id": "QSG-PRO-0011",
+      "page": "1",
+      "loc": "heading",
+      "section": "How is it relevant to Protection actors?",
+      "en": "How do I find Protection content in the MSP?",
+      "ne": "MSP मा संरक्षणसम्बन्धी सामग्री कसरी फेला पार्न सक्छु?",
+      "bt": "How can I find protection-related material in the MSP?",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0012",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Each MSP activity is labelled with icons showing which sectors, clusters, or areas of responsibility (AoRs) are typically well placed to deliver it (colourful icons) or contribute to it (dark blue icons).1",
+      "ne": "प्रत्येक MSP गतिविधिमा कुन क्षेत्र, क्लस्टर वा जिम्मेवारी क्षेत्रहरू (AoRs) सामान्यतया उक्त गतिविधि सञ्चालन गर्न (रङ्गीन प्रतीकचिह्नहरू) वा त्यसमा योगदान गर्न (गाढा नीलो प्रतीकचिह्नहरू) उपयुक्त अवस्थामा हुन्छन् भन्ने देखाउने प्रतीकचिह्नहरू राखिएका छन्।1",
+      "bt": "Each MSP activity includes icons showing which sectors, clusters or areas of responsibility (AoRs) are generally in a suitable position to carry out that activity (coloured icons) or contribute to it (dark blue icons).1",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T123",
+        "T124",
+        "T149",
+        "T150",
+        "T163",
+        "T296"
+      ],
+      "flags": [],
+      "note": "Retains AoRs and the footnote marker 1."
+    },
+    {
+      "id": "QSG-PRO-0013",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "The yellow Protection icon indicates that Protection actors are typically well-placed to deliver an activity.",
+      "ne": "संरक्षणको पहेँलो प्रतीकचिह्नले संरक्षण क्षेत्रमा कार्यरत पक्षहरू सामान्यतया कुनै गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा हुन्छन् भन्ने जनाउँछ।",
+      "bt": "The yellow protection icon indicates that actors working in the protection sector are generally in a suitable position to carry out an activity.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T149",
+        "T168"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term for Protection actors."
+    },
+    {
+      "id": "QSG-PRO-0014",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "The dark-blue Protection icon indicates that Protection actors are typically well-placed to contribute to the implementation of an activity.",
+      "ne": "संरक्षणको गाढा नीलो प्रतीकचिह्नले संरक्षण क्षेत्रमा कार्यरत पक्षहरू सामान्यतया कुनै गतिविधिको कार्यान्वयनमा योगदान गर्न उपयुक्त अवस्थामा हुन्छन् भन्ने जनाउँछ।",
+      "bt": "The dark blue protection icon indicates that actors working in the protection sector are generally in a suitable position to contribute to the implementation of an activity.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T149",
+        "T168",
+        "T380"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term for Protection actors."
+    },
+    {
+      "id": "QSG-PRO-0015",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "For more information, see Who should implement MSP activities?",
+      "ne": "थप जानकारीका लागि MSP गतिविधिहरू कसले कार्यान्वयन गर्नुपर्छ? भन्ने खण्ड हेर्नुहोस्।",
+      "bt": "For more information, see the section Who should implement MSP activities?",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T272",
+        "T379"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0016",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Figure 1 shows activity 3.13, Provide MHPSS through case management services.",
+      "ne": "चित्र 1 ले गतिविधि 3.13, केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने, देखाउँछ।",
+      "bt": "Figure 1 shows activity 3.13, providing MHPSS through case management services.",
+      "type": "general",
+      "terms": [
+        "T110",
+        "T118"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied activity label T110 verbatim."
+    },
+    {
+      "id": "QSG-PRO-0017",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "The colourful icons show that Protection, as well as Child Protection, Gender-based Violence and Mine Action actors, are typically well placed to deliver this activity.",
+      "ne": "रङ्गीन प्रतीकचिह्नहरूले संरक्षणका साथै बाल संरक्षण, लैङ्गिक हिंसा र बारुदी सुरुङ सम्बन्धी कार्य क्षेत्रमा कार्यरत पक्षहरू सामान्यतया यो गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा हुन्छन् भन्ने देखाउँछन्।",
+      "bt": "The coloured icons show that actors working in protection as well as child protection, gender-based violence and mine action are generally in a suitable position to carry out this activity.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T036",
+        "T010",
+        "T011",
+        "T149",
+        "T150",
+        "T233"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Descriptive sector-role information, not a safeguarding declaration; classified as general. Uses the proposed Protection actors construction."
+    },
+    {
+      "id": "QSG-PRO-0018",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "For example, Protection actors can train Protection case managers on relevant MHPSS topics.",
+      "ne": "उदाहरणका लागि, संरक्षण क्षेत्रमा कार्यरत पक्षहरूले संरक्षणका केस व्यवस्थापकहरूलाई सान्दर्भिक MHPSS विषयहरूमा तालिम दिन सक्छन्।",
+      "bt": "For example, actors working in the protection sector can train protection case managers on relevant MHPSS topics.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T119",
+        "T168"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term for Protection actors. Case managers is ordinary service-role wording, not a newly coined clinical term."
+    },
+    {
+      "id": "QSG-PRO-0019",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "The dark blue icon shows that Health actors are typically well placed to contribute to this activity, for example, by establishing referral pathways and links between case management and health services.",
+      "ne": "गाढा नीलो प्रतीकचिह्नले स्वास्थ्य क्षेत्रमा कार्यरत पक्षहरू सामान्यतया यस गतिविधिमा योगदान गर्न उपयुक्त अवस्थामा हुन्छन् भन्ने देखाउँछ; उदाहरणका लागि, सेवा प्रेषण मार्गहरू स्थापना गरेर र केस व्यवस्थापन तथा स्वास्थ्य सेवाहरूबीच सम्बन्धहरू स्थापना गरेर।",
+      "bt": "The dark blue symbol indicates that actors working in the health sector are generally in a suitable position to contribute to this activity; for example, by establishing referral pathways and establishing links between case management and health services.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T063",
+        "T118",
+        "T149"
+      ],
+      "flags": [],
+      "note": "Describes sector contributions rather than a consent or safeguarding declaration. Referral pathways uses T063; no automatic transfer is implied. The source specifies establishing both referral pathways and links; the back-translation instead describes maintaining links. The revision makes establishment of the links explicit."
+    },
+    {
+      "id": "QSG-PRO-0020",
+      "page": "1",
+      "loc": "caption",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Figure 1",
+      "ne": "चित्र 1",
+      "bt": "Figure 1",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0021",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Protection, Child Protection, GBV, and Mine Action: typically well placed to deliver the activity",
+      "ne": "संरक्षण, बाल संरक्षण, GBV र बारुदी सुरुङ सम्बन्धी कार्य: सामान्यतया गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा रहेका पक्षहरू",
+      "bt": "Protection, child protection, GBV and mine action: actors generally in a suitable position to carry out the activity",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T036",
+        "T011"
+      ],
+      "flags": [],
+      "note": "Retains GBV in Latin letters."
+    },
+    {
+      "id": "QSG-PRO-0022",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "3.13 Provide MHPSS through case management services",
+      "ne": "3.13 केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.13 Provide MHPSS through case management services.",
+      "type": "activity",
+      "terms": [
+        "T110",
+        "T118"
+      ],
+      "flags": [],
+      "note": "Reuses T110 verbatim, with the activity code retained and a final danda added."
+    },
+    {
+      "id": "QSG-PRO-0023",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Health: typically well placed to contribute to the activity",
+      "ne": "स्वास्थ्य: सामान्यतया गतिविधिमा योगदान गर्न उपयुक्त अवस्थामा रहेका पक्षहरू",
+      "bt": "Health: actors generally in a suitable position to contribute to the activity",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0024",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Figure 2 presents another example.",
+      "ne": "चित्र 2 ले अर्को उदाहरण प्रस्तुत गर्दछ।",
+      "bt": "Figure 2 presents another example.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0025",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Here the colourful icons show that Health, Education, Child Protection, Gender Based Violence, and Nutrition actors are typically well placed to deliver activity 3.7, Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children.",
+      "ne": "यहाँ रङ्गीन प्रतीकचिह्नहरूले स्वास्थ्य, शिक्षा, बाल संरक्षण, लैङ्गिक हिंसा र पोषण क्षेत्रमा कार्यरत पक्षहरू सामान्यतया गतिविधि 3.7, हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने, सञ्चालन गर्न उपयुक्त अवस्थामा हुन्छन् भन्ने देखाउँछन्।",
+      "bt": "Here the coloured icons show that actors working in health, education, child protection, gender-based violence and nutrition are generally in a suitable position to carry out activity 3.7, promoting caregivers' mental health and psychosocial well-being and strengthening their capacity to support children.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T028",
+        "T036",
+        "T010",
+        "T030",
+        "T104",
+        "T006",
+        "T005",
+        "T140",
+        "T149",
+        "T150",
+        "T157",
+        "T164",
+        "T233",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Descriptive sector-role information, not a safeguarding declaration; classified as general. Reuses the supplied unreviewed activity label T104 verbatim."
+    },
+    {
+      "id": "QSG-PRO-0026",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "The dark blue icon shows that Protection actors are typically well-placed to contribute to it.",
+      "ne": "गाढा नीलो प्रतीकचिह्नले संरक्षण क्षेत्रमा कार्यरत पक्षहरू सामान्यतया यसमा योगदान गर्न उपयुक्त अवस्थामा हुन्छन् भन्ने देखाउँछ।",
+      "bt": "The dark blue icon shows that actors working in the protection sector are generally in a suitable position to contribute to this.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T149",
+        "T168"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term for Protection actors."
+    },
+    {
+      "id": "QSG-PRO-0027",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "For example, by referring caregivers to appropriate MHPSS services and linking them with other Protection services (such as community-based protection activities, cash for protection activities, protection monitoring, etc.) as needed.",
+      "ne": "उदाहरणका लागि, हेरचाहकर्ताहरूलाई उपयुक्त MHPSS सेवाहरूमा पठाएर र आवश्यकताअनुसार अन्य संरक्षण सेवाहरूसँग (जस्तै, समुदायमा आधारित संरक्षण गतिविधिहरू, संरक्षणका लागि नगदसम्बन्धी गतिविधिहरू, संरक्षणसम्बन्धी अनुगमन आदि) जोडेर।",
+      "bt": "For example, by referring caregivers to appropriate MHPSS services and linking them, as needed, with other protection services (such as community-based protection activities, cash-related activities for protection, protection-related monitoring, etc.).",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T029",
+        "T271",
+        "T344"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The meaning of 'cash for protection activities' remains unresolved: activities using cash to achieve protection outcomes versus cash assistance to fund protection activities."
+    },
+    {
+      "id": "QSG-PRO-0028",
+      "page": "1",
+      "loc": "caption",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Figure 2",
+      "ne": "चित्र 2",
+      "bt": "Figure 2",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0029",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Health, Education, Child Protection, GBV, and Nutrition: typically well placed to deliver the activity",
+      "ne": "स्वास्थ्य, शिक्षा, बाल संरक्षण, GBV र पोषण: सामान्यतया गतिविधि सञ्चालन गर्न उपयुक्त अवस्थामा रहेका पक्षहरू",
+      "bt": "Health, education, child protection, GBV and nutrition: actors generally in a suitable position to carry out the activity",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T028",
+        "T036",
+        "T030"
+      ],
+      "flags": [],
+      "note": "Retains GBV in Latin letters."
+    },
+    {
+      "id": "QSG-PRO-0030",
+      "page": "1",
+      "loc": "para",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "3.7 Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children",
+      "ne": "3.7 हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.7 Promote caregivers' mental health and psychosocial well-being and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T104",
+        "T006",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed T104 label verbatim, with the activity code retained and a final danda added."
+    },
+    {
+      "id": "QSG-PRO-0031",
+      "page": "1",
+      "loc": "figure-label",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Protection: typically well placed to contribute to the activity",
+      "ne": "संरक्षण: सामान्यतया गतिविधिमा योगदान गर्न उपयुक्त अवस्थामा रहेका पक्षहरू",
+      "bt": "Protection: actors generally in a suitable position to contribute to the activity",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0032",
+      "page": "1",
+      "loc": "footnote",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "1 The icons are not intended to be prescriptive, but a guide to who typically does what.",
+      "ne": "1 यी प्रतीकचिह्नहरू कसले के गर्नैपर्छ भनेर तोक्नका लागि नभई सामान्यतया कसले के गर्छ भन्नेबारे मार्गदर्शन दिनका लागि हुन्।",
+      "bt": "1 These icons are intended to provide guidance on who generally does what, rather than to specify who must do what.",
+      "type": "general",
+      "terms": [
+        "T149",
+        "T150"
+      ],
+      "flags": [],
+      "note": "Preserves the non-prescriptive qualification and the footnote number 1."
+    },
+    {
+      "id": "QSG-PRO-0033",
+      "page": "2",
+      "loc": "heading",
+      "section": "How do I find Protection content in the MSP?",
+      "en": "Which MSP activities are most relevant to Protection actors?",
+      "ne": "संरक्षण क्षेत्रमा कार्यरत पक्षहरूका लागि कुन MSP गतिविधिहरू सबैभन्दा सान्दर्भिक छन्?",
+      "bt": "Which MSP activities are most relevant for parties working in the protection sector?",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T091",
+        "T163",
+        "T168",
+        "T272"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: Protection actors = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The frozen glossary is unchanged."
+    },
+    {
+      "id": "QSG-PRO-0034",
+      "page": "2",
+      "loc": "para",
+      "section": "Which MSP activities are most relevant to Protection actors?",
+      "en": "MSP activities are organized into four sections.",
+      "ne": "MSP गतिविधिहरूलाई चार खण्डमा व्यवस्थित गरिएको छ।",
+      "bt": "MSP activities are organized into four sections.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T272",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0035",
+      "page": "2",
+      "loc": "heading",
+      "section": "Which MSP activities are most relevant to Protection actors?",
+      "en": "Section 1: Inter-Agency Coordination and Assessment",
+      "ne": "खण्ड 1: अन्तरनिकाय समन्वय र लेखाजोखा",
+      "bt": "Section 1: Inter-agency coordination and assessment",
+      "type": "activity",
+      "terms": [
+        "T004",
+        "T152",
+        "T349",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: inter-agency coordination = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "QSG-PRO-0036",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Activities 1.1 and 1.2 are particularly relevant for coordination groups in all sectors and AoRs, and cross-cutting MHPSS technical working groups.",
+      "ne": "गतिविधि 1.1 र 1.2 सबै क्षेत्र र AoRs का समन्वय समूह तथा विभिन्न क्षेत्रलाई समेट्ने MHPSS प्राविधिक कार्यसमूहका लागि विशेष रूपमा सान्दर्भिक छन्।",
+      "bt": "Activities 1.1 and 1.2 are particularly relevant for coordination groups of all sectors and AoRs and the MHPSS technical working group covering various sectors.",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T127",
+        "T296",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0037",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "They promote effective inter-agency and intersectoral coordination and assessment.",
+      "ne": "यी गतिविधिहरूले प्रभावकारी अन्तरनिकाय तथा अन्तरक्षेत्रीय समन्वय र लेखाजोखालाई प्रवर्द्धन गर्छन्।",
+      "bt": "These activities promote effective inter-agency and inter-sectoral coordination and assessment.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T296",
+        "T349",
+        "T389"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term for inter-agency coordination in a coordinated phrase."
+    },
+    {
+      "id": "QSG-PRO-0038",
+      "page": "2",
+      "loc": "table-head",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "MSP activity",
+      "ne": "MSP गतिविधि",
+      "bt": "MSP activity",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0039",
+      "page": "2",
+      "loc": "table-head",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Relevance to Protection actors2",
+      "ne": "संरक्षण क्षेत्रमा कार्यरत पक्षहरूका लागि सान्दर्भिकता2",
+      "bt": "Relevance for parties working in the protection sector2",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T168"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains the source footnote marker 2. Uses the proposed recurring term for Protection actors."
+    },
+    {
+      "id": "QSG-PRO-0040",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "1.1 Coordinate MHPSS within and across sectors",
+      "ne": "1.1 क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने।",
+      "bt": "1.1 Coordinate MHPSS within and between sectors.",
+      "type": "activity",
+      "terms": [
+        "T092",
+        "T296"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-PRO-0041",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Ensuring mutual representation at MHPSS and Protection coordination meetings. Establishing joint referral pathways and standard operating procedures between protection actors and o the full range of MHPSS activities and services.",
+      "ne": "MHPSS र संरक्षणका समन्वय बैठकहरूमा एकअर्काको प्रतिनिधित्व सुनिश्चित गर्ने। संरक्षण क्षेत्रमा कार्यरत पक्षहरू र o MHPSS गतिविधिहरू तथा सेवाहरूको सम्पूर्ण दायराबीच संयुक्त सेवा प्रेषण मार्गहरू र मानक कार्यसञ्चालन प्रक्रियाहरू स्थापना गर्ने।",
+      "bt": "Ensure each other's representation in MHPSS and protection coordination meetings. Establish joint service referral pathways and standard operating procedures between actors working in the protection sector and o the entire range of MHPSS activities and services.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T049",
+        "T063",
+        "T066",
+        "T158",
+        "T168",
+        "T349"
+      ],
+      "flags": [
+        "unclear-english",
+        "glossary-missing"
+      ],
+      "note": "The unexplained source token 'o' is retained at its original relational position; the intended wording linking protection actors with the full range of MHPSS activities and services requires clarification."
+    },
+    {
+      "id": "QSG-PRO-0042",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "1.2 Assess MHPSS needs and resources to guide programming",
+      "ne": "1.2 कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने।",
+      "bt": "1.2 Assess MHPSS needs and resources to guide the programme.",
+      "type": "activity",
+      "terms": [
+        "T093"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-PRO-0043",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Collecting information about the mental health and psychosocial well-being needs and resources of affected population in Protection needs assessments and Protection monitoring. Including MHPSS service providers in Protection service mapping to support information sharing and referrals.",
+      "ne": "संरक्षणसम्बन्धी आवश्यकताको लेखाजोखा र संरक्षण अनुगमनमा प्रभावित जनसङ्ख्याको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणसम्बन्धी आवश्यकता र स्रोतहरूबारे सूचना सङ्कलन गर्ने। सूचना आदानप्रदान र सेवा प्रेषणमा सहयोग पुर्‍याउन संरक्षण सेवाहरूको नक्साङ्कनमा MHPSS सेवा प्रदायकहरूलाई समावेश गर्ने।",
+      "bt": "Collect information about the affected population's needs and resources related to mental health and psychosocial well-being in protection-related needs assessments and protection monitoring. Include MHPSS service providers in the mapping of protection services to support information exchange and service referrals.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T068",
+        "T005",
+        "T067",
+        "T157",
+        "T260",
+        "T271",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The mental-health and psychosocial-well-being wording reuses the cited unreviewed candidate in T100. General safety draft; review pending."
+    },
+    {
+      "id": "QSG-PRO-0044",
+      "page": "2",
+      "loc": "heading",
+      "section": "Section 1: Inter-Agency Coordination and Assessment",
+      "en": "Section 2: Essential components of all MHPSS programmes",
+      "ne": "खण्ड 2: सबै MHPSS कार्यक्रमका अत्यावश्यक अवयवहरू",
+      "bt": "Section 2: Essential components of all MHPSS programmes",
+      "type": "activity",
+      "terms": [
+        "T160",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0045",
+      "page": "2",
+      "loc": "para",
+      "section": "Section 2: Essential components of all MHPSS programmes",
+      "en": "Section 2 activities (on programme design, implementing an M&E system, caring for staff and volunteers and supporting MHPSS competencies) should be implemented by all organizations delivering MHPSS activities.",
+      "ne": "MHPSS गतिविधिहरू सञ्चालन गर्ने सबै संस्थाले खण्ड 2 का गतिविधिहरू कार्यान्वयन गर्नु उचित हुन्छ; यी गतिविधिहरू कार्यक्रमको डिजाइन, अनुगमन तथा मूल्याङ्कन (M&E) प्रणालीको कार्यान्वयन, कर्मचारी र स्वयंसेवकको हेरचाह तथा MHPSS सक्षमतामा सहयोगसँग सम्बन्धित छन्।",
+      "bt": "It would be appropriate for all organizations conducting MHPSS activities to implement the activities in Section 2; these activities relate to programme design, implementation of the monitoring and evaluation (M&E) system, care of staff and volunteers, and support for MHPSS competencies.",
+      "type": "general",
+      "terms": [
+        "T156",
+        "T158",
+        "T209",
+        "T379",
+        "T394",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Administrative wording for M&E and MHPSS competencies follows the supplied activity-list candidates. The draft strengthens 'should be implemented' to 'must implement'. The revision expresses a recommendation rather than a mandatory requirement."
+    },
+    {
+      "id": "QSG-PRO-0046",
+      "page": "2",
+      "loc": "heading",
+      "section": "Section 2 activities (on programme design, implementing an M&E system, caring for staff and volunteers and supporting MHPSS competencies) should be implemented by all organizations delivering MHPSS activities.",
+      "en": "Sections 3 & 4: MHPSS Programme Activities",
+      "ne": "खण्ड 3 र 4: MHPSS कार्यक्रमका गतिविधिहरू",
+      "bt": "Sections 3 and 4: MHPSS programme activities",
+      "type": "activity",
+      "terms": [
+        "T160",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0047",
+      "page": "2",
+      "loc": "heading",
+      "section": "Sections 3 & 4: MHPSS Programme Activities",
+      "en": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "ne": "संरक्षण क्षेत्रमा कार्यरत पक्षहरू सामान्यतया सञ्चालन गर्न उपयुक्त स्थितिमा रहने कार्यक्रमगत गतिविधिहरू निम्न छन्।",
+      "bt": "The following are programmatic activities that parties working in the protection sector are generally in a suitable position to conduct.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T166",
+        "T168"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term for Protection actors."
+    },
+    {
+      "id": "QSG-PRO-0048",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "ne": "3.1 मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने र MHPSS सम्बन्धी विचारणीय पक्ष तथा कार्यका लागि पैरवी गर्ने।",
+      "bt": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS-related considerations and actions.",
+      "type": "activity",
+      "terms": [
+        "T098",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-PRO-0049",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "Orienting Protection actors on MHPSS and interlinkages between MHPSS and Protection. Ensuring that Protection activities and services are accessible to and consider the specific needs of people with mental health conditions. Advocating to address the social determinants of mental health and psychosocial well-being (e.g., levels of social support, exclusion, deprivation, poverty) amongst affected populations, including risk and protective factors. Reinforcing joint advocacy between Protection and MHPSS to consider MHPSS as a cross-cutting issue in the humanitarian response. Advocating for the provision of services in ways that are inclusive, dignified, community-based, participatory, people-centred, and rights-based. Advocating with duty bearers for non-discrimination, access to social services, and equal enjoyment of basic human rights by people with mental health conditions and psychosocial problems.",
+      "ne": "संरक्षण क्षेत्रमा कार्यरत पक्षहरूलाई MHPSS र MHPSS तथा संरक्षणबीचका अन्तरसम्बन्धबारे अभिमुखीकरण गर्ने। संरक्षणका गतिविधिहरू र सेवाहरू मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका व्यक्तिहरूका लागि पहुँचयोग्य हुने र तिनमा यी व्यक्तिहरूका विशेष आवश्यकताहरूलाई ध्यान दिइने कुरा सुनिश्चित गर्ने। प्रभावित जनसमूहमा मानसिक स्वास्थ्य र मनोसामाजिक कल्याणका सामाजिक निर्धारकहरू (जस्तै, सामाजिक सहयोगको स्तर, बहिष्करण, वञ्चितता, गरिबी), साथै जोखिम कारकहरू र संरक्षणकारी कारकहरूलाई सम्बोधन गर्न पैरवी गर्ने। मानवीय प्रतिकार्यमा MHPSS लाई अन्तरक्षेत्रीय विषयका रूपमा लिन संरक्षण र MHPSS बीचको संयुक्त पैरवीलाई सुदृढ गर्ने। समावेशी, मर्यादापूर्ण, समुदायमा आधारित, सहभागितामूलक, व्यक्तिकेन्द्रित र अधिकारमा आधारित तरिकाले सेवाहरू प्रदान गर्न पैरवी गर्ने। मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका र मनोसामाजिक समस्याहरू भएका व्यक्तिहरूमाथि भेदभाव नहुने, उनीहरूले सामाजिक सेवाहरूमा पहुँच पाउने र आधारभूत मानव अधिकारको समान रूपमा उपभोग गर्न पाउने व्यवस्थाका लागि दायित्ववाहकहरूसँग पैरवी गर्ने।",
+      "bt": "Orient actors working in the protection sector on MHPSS and the interrelationships between MHPSS and protection. Ensure that protection activities and services are accessible to persons with mental health conditions and that these persons' specific needs are taken into account in them. Advocate for addressing the social determinants of mental health and psychosocial well-being in the affected population (such as the level of social support, exclusion, deprivation, poverty), as well as risk factors and protective factors. Strengthen joint advocacy between protection and MHPSS to treat MHPSS as a cross-sectoral issue in humanitarian response. Advocate for providing services in an inclusive, dignified, community-based, participatory, person-centred and rights-based manner. Advocate with duty-bearers for arrangements under which persons with mental health conditions and psychosocial problems are not discriminated against, have access to social services and can enjoy basic human rights equally.",
+      "type": "safety",
+      "terms": [
+        "T003",
+        "T005",
+        "T029",
+        "T078",
+        "T157",
+        "T168",
+        "T191",
+        "T192",
+        "T239",
+        "T283",
+        "T304",
+        "T344",
+        "T354",
+        "T498"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The population descriptions retain mental health conditions and psychosocial problems without adding impairment criteria or named diagnoses. bt-divergence: Frozen T354 renders 'cross-cutting' as 'cross-sectoral'. The source describes MHPSS as an issue cutting across the humanitarian response, not specifically across sectors. The frozen form is retained; no permissible repair removes this scope difference."
+    },
+    {
+      "id": "QSG-PRO-0050",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "ne": "3.2 अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने।",
+      "bt": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills.",
+      "type": "activity",
+      "terms": [
+        "T099",
+        "T013",
+        "T069",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-PRO-0051",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "Orienting all frontline Protection staff in basic psychosocial support skills.",
+      "ne": "संरक्षण क्षेत्रका सबै अग्रपंक्तिका कर्मचारीलाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने।",
+      "bt": "Orient all frontline staff in the protection sector in basic psychosocial support skills.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The psychosocial-support-skills wording reuses the cited unreviewed candidate in T099; staff is retained as staff rather than replaced with workers."
+    },
+    {
+      "id": "QSG-PRO-0052",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "3.3 Disseminate key messages to promote mental health and psychosocial well-being",
+      "ne": "3.3 मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मुख्य सन्देशहरू प्रसार गर्ने।",
+      "bt": "3.3 Disseminate key messages to promote mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T100",
+        "T005",
+        "T157",
+        "T253",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-PRO-0053",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "Incorporating key MHPSS messages into Protection information materials and in communications with communities during all phases of humanitarian action.",
+      "ne": "मानवीय कार्यका सबै चरणमा संरक्षणसम्बन्धी सूचना सामग्रीमा र समुदायहरूसँग गरिने सञ्चारमा MHPSS का मुख्य सन्देशहरू समावेश गर्ने।",
+      "bt": "Include key MHPSS messages in protection-related information materials and in communication with communities at all stages of humanitarian action.",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0054",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "3.4 Support new and pre-existing group-based community MHPSS activities",
+      "ne": "3.4 नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने।",
+      "bt": "3.4 Support new and already operating group-based community MHPSS activities.",
+      "type": "activity",
+      "terms": [
+        "T101"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-PRO-0055",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "Supporting pre-existing community initiatives and facilitating new group-based community initiatives that promote the mental health and psychosocial well-being of adults.",
+      "ne": "पहिलेदेखि सञ्चालित सामुदायिक पहलहरूलाई सहयोग गर्ने र वयस्कहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने समूहमा आधारित नयाँ सामुदायिक पहलहरूलाई सहजीकरण गर्ने।",
+      "bt": "Support existing community initiatives and facilitate new group-based community initiatives that promote adults' mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The mental-health and psychosocial-well-being wording reuses the cited unreviewed candidate in T100. The draft attaches the adult mental-health and psychosocial-well-being qualifier to pre-existing initiatives while leaving new initiatives unqualified. The source explicitly attaches that qualifier to the new group-based community initiatives; the revision restores that attachment."
+    },
+    {
+      "id": "QSG-PRO-0056",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "3.12 Initiate or strengthen the provision of psychological interventions",
+      "ne": "3.12 मनोवैज्ञानिक हस्तक्षेपहरूको व्यवस्था सुरु गर्ने वा सुदृढ गर्ने।",
+      "bt": "3.12 Initiate or strengthen the provision of psychological interventions.",
+      "type": "activity",
+      "terms": [
+        "T109"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-PRO-0057",
+      "page": "2",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "Delivering scalable psychological interventions to address impairment due to psychological distress and mental health conditions.",
+      "ne": "मानसिक व्यथा र मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूका कारण कार्यक्षमतामा आएको ह्रासलाई सम्बोधन गर्न विस्तार गर्न सकिने मनोवैज्ञानिक हस्तक्षेपहरू प्रदान गर्ने।",
+      "bt": "Provide psychological interventions that can be scaled up to address the decline in functioning caused by mental distress and mental health conditions.",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T157",
+        "T295",
+        "T478",
+        "T492"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Psychological distress remains distinct from stress or a diagnosis, and the interventions address impairment caused by distress and mental health conditions."
+    },
+    {
+      "id": "QSG-PRO-0058",
+      "page": "2",
+      "loc": "footnote",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "2 These examples should not be considered exhaustive.",
+      "ne": "2 यी उदाहरणहरूलाई सम्पूर्ण सूचीका रूपमा नलिनु उचित हुन्छ।",
+      "bt": "2 It would be appropriate not to take these examples as a complete list.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The draft strengthens 'should not be considered' to 'must not be taken'. The revision retains the negative recommendation without turning it into a prohibition."
+    },
+    {
+      "id": "QSG-PRO-0059",
+      "page": "2",
+      "loc": "footnote",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "For a more comprehensive list of actions, see the checklists under each MSP activity.",
+      "ne": "कार्यहरूको अझ व्यापक सूचीका लागि प्रत्येक MSP गतिविधिअन्तर्गतका जाँचसूचीहरू हेर्नुहोस्।",
+      "bt": "For a more comprehensive list of actions, see the checklists under each MSP activity.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T121",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The draft renders 'more comprehensive' as 'more detailed'. The revision restores broader coverage rather than greater detail."
+    },
+    {
+      "id": "QSG-PRO-0060",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "3.13 Provide MHPSS through case management services",
+      "ne": "3.13 केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.13 Provide MHPSS through case management services.",
+      "type": "activity",
+      "terms": [
+        "T110",
+        "T118"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-PRO-0061",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "Training Protection case managers on relevant MHPSS topics. Adapting case management tools, templates, and referral protocols to include MHPSS.",
+      "ne": "संरक्षण क्षेत्रका केस व्यवस्थापकहरूलाई सान्दर्भिक MHPSS विषयहरूमा तालिम दिने। MHPSS समावेश गर्न केस व्यवस्थापनका साधन, ढाँचा र सेवा प्रेषण कार्यविधिहरू अनुकूलन गर्ने।",
+      "bt": "Train protection sector case managers on relevant MHPSS topics. Adapt case management tools, formats and service referral procedures to include MHPSS.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T065",
+        "T118",
+        "T119",
+        "T437"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposes standalone glossary entries for case management and case managers; case-management wording follows the supplied T110 candidate. General safety draft; review pending."
+    },
+    {
+      "id": "QSG-PRO-0062",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "ne": "3.14 मानसिक अस्पताल तथा अन्य संस्थामा रहेका व्यक्तिहरूको संरक्षण र हेरचाह गर्ने।",
+      "bt": "3.14 Protect and care for people in psychiatric hospitals and other institutions.",
+      "type": "activity",
+      "terms": [
+        "T111",
+        "T015",
+        "T029"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate, including its institutional terminology."
+    },
+    {
+      "id": "QSG-PRO-0063",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "Assessing and addressing protection concerns among persons in institutions and protecting and promoting their rights.",
+      "ne": "संस्थाहरूमा रहेका व्यक्तिहरूका संरक्षणसम्बन्धी सरोकारहरूको लेखाजोखा गरी तिनलाई सम्बोधन गर्ने तथा उनीहरूको अधिकारको संरक्षण र प्रवर्द्धन गर्ने।",
+      "bt": "Assess and address the protection-related concerns of people in institutions and protect and promote their rights.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T029"
+      ],
+      "flags": [],
+      "note": "Ordinary protection guidance, not a verbatim safeguarding declaration; drafted for review. No new clinical wording is required."
+    },
+    {
+      "id": "QSG-PRO-0064",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "4.2 Provide mental health and psychosocial support to persons deprived of their liberty",
+      "ne": "4.2 स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग प्रदान गर्ने।",
+      "bt": "4.2 Provide mental health and psychosocial support to people deprived of liberty.",
+      "type": "activity",
+      "terms": [
+        "T113",
+        "T001",
+        "T157",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate."
+    },
+    {
+      "id": "QSG-PRO-0065",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "Promoting access to mental health services and psychosocial support for persons deprived of their liberty and advocating for MHPSS considerations (e.g. maintaining family and social connections; ensuring availability of private spaces for provision of confidential mental health and psychosocial support).",
+      "ne": "स्वतन्त्रताबाट वञ्चित व्यक्तिहरूका लागि मानसिक स्वास्थ्य सेवा तथा मनोसामाजिक सहयोगमा पहुँच प्रवर्द्धन गर्ने र MHPSS सम्बन्धी विचारणीय पक्षका लागि पैरवी गर्ने (जस्तै, पारिवारिक तथा सामाजिक सम्बन्ध कायम राख्ने; गोपनीय मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग प्रदान गर्न निजी स्थान उपलब्ध भएको सुनिश्चित गर्ने)।",
+      "bt": "Promote access to mental health services and psychosocial support for people deprived of liberty and advocate for MHPSS-related considerations (for example, maintaining family and social relationships; ensuring that private space is available to provide confidential mental health and psychosocial support).",
+      "type": "safety",
+      "terms": [
+        "T001",
+        "T157",
+        "T263",
+        "T410"
+      ],
+      "flags": [],
+      "note": "General safety guidance drafted for review. Clinical wording reuses the supplied unreviewed T001 candidate and wording from activity T107; no clinical validation is claimed."
+    },
+    {
+      "id": "QSG-PRO-0066",
+      "page": "3",
+      "loc": "heading",
+      "section": "The programmatic activities that Protection actors are typically well placed to deliver are:",
+      "en": "The programmatic activities that Protection actors are typically well placed to contribute to are:",
+      "ne": "संरक्षण क्षेत्रमा कार्यरत पक्षहरू सामान्यतया निम्न कार्यक्रमगत गतिविधिहरूमा योगदान दिन उपयुक्त स्थितिमा हुन्छन्:",
+      "bt": "Actors working in the protection sector are generally well placed to contribute to the following programmatic activities:",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T166",
+        "T168"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: programme activities = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Protection actors includes relevant persons and organizations."
+    },
+    {
+      "id": "QSG-PRO-0067",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to contribute to are:",
+      "en": "3.7 Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children",
+      "ne": "3.7 हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.7 Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T104",
+        "T006",
+        "T005",
+        "T157",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Supplied T104 activity wording retained as an unreviewed candidate."
+    },
+    {
+      "id": "QSG-PRO-0068",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to contribute to are:",
+      "en": "Referring caregivers to appropriate MHPSS activities and services and linking them with other Protection services as needed.",
+      "ne": "हेरचाहकर्तालाई उपयुक्त MHPSS गतिविधि तथा सेवामा पठाउने र आवश्यकताअनुसार अन्य संरक्षण सेवाहरूसँग जोड्ने।",
+      "bt": "Refer caregivers to appropriate MHPSS activities and services and link them with other protection services as needed.",
+      "type": "general",
+      "terms": [
+        "T006",
+        "T029"
+      ],
+      "flags": [],
+      "note": "Caregivers uses a contextual inflection of the supplied T006 candidate; referral and linkage are both retained."
+    },
+    {
+      "id": "QSG-PRO-0069",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to contribute to are:",
+      "en": "4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "ne": "4.1 सरुवा रोगको क्लिनिकल केस व्यवस्थापनमा MHPSS सम्बन्धी विचारणीय पक्ष र सहयोग एकीकृत गर्ने।",
+      "bt": "4.1 Integrate MHPSS-related considerations and support into the clinical case management of communicable disease.",
+      "type": "safety",
+      "terms": [
+        "T112",
+        "T118",
+        "T242"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen activity label T112 uses a communicable-disease category for source 'infectious diseases', potentially excluding infections that are not transmissible between people. bt-divergence: Frozen activity label T112 renders 'infectious diseases' as communicable disease, potentially excluding infectious diseases that are not transmissible between people. The frozen label is retained."
+    },
+    {
+      "id": "QSG-PRO-0070",
+      "page": "3",
+      "loc": "table-cell",
+      "section": "The programmatic activities that Protection actors are typically well placed to contribute to are:",
+      "en": "Establishing links between Protection services and health facilities providing MHPSS as part of clinical management of infectious diseases.",
+      "ne": "संरक्षण सेवाहरू र सरुवा रोगको चिकित्सकीय व्यवस्थापनको अङ्गका रूपमा MHPSS प्रदान गर्ने स्वास्थ्य संस्थाहरूबीच सम्बन्ध स्थापित गर्ने।",
+      "bt": "Establish links between protection services and health facilities that provide MHPSS as part of the medical management of communicable disease.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T029",
+        "T237",
+        "T242"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen term T242 uses a communicable-disease category for source 'infectious diseases', potentially excluding infections that are not transmissible between people; clinical management is retained without adding case management. bt-divergence: Frozen T242 renders 'infectious diseases' as communicable disease, potentially excluding infectious diseases that are not transmissible between people. The frozen form is retained."
+    },
+    {
+      "id": "QSG-PRO-0071",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Protection actors are typically well placed to contribute to are:",
+      "en": "You can use the filter on the ‘All Activities’ page of the web platform to show only Protection-relevant activities.",
+      "ne": "संरक्षणसँग सम्बन्धित गतिविधिहरू मात्र देखाउन वेब प्लेटफर्मको ‘सबै गतिविधिहरू’ (‘All Activities’) पृष्ठमा रहेको फिल्टर प्रयोग गर्न सक्नुहुन्छ।",
+      "bt": "You can use the filter on the web platform’s ‘All Activities’ (‘All Activities’) page to show only activities related to protection.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T189"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: web platform = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The English page label is retained for navigation."
+    },
+    {
+      "id": "QSG-PRO-0072",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Protection actors are typically well placed to contribute to are:",
+      "en": "For help navigating the MSP, see How is the MSP Structured? and the video tour of the web platform.",
+      "ne": "MSP का विभिन्न भागमा कसरी जाने भन्नेबारे सहयोगका लागि ‘MSP को संरचना कस्तो छ?’ (‘How is the MSP Structured?’) र वेब प्लेटफर्मको भ्रमण गराउने भिडियो हेर्नुहोस्।",
+      "bt": "For help on how to get to different parts of the MSP, see ‘What is the structure of the MSP like?’ (‘How is the MSP Structured?’) and the video that gives a tour of the web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: web platform = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The English resource title is retained for identification. The translation narrows navigating the MSP to finding needed information and changes a video tour into an introductory video. The revision restores navigation and the video's tour function."
+    },
+    {
+      "id": "QSG-PRO-0073",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Protection actors are typically well placed to contribute to are:",
+      "en": "No single organization is expected to implement all programme activities.",
+      "ne": "कुनै एक संस्थाले मात्र सबै कार्यक्रमगत गतिविधिहरू कार्यान्वयन गर्ने अपेक्षा गरिएको छैन।",
+      "bt": "No single organization alone is expected to implement all programmatic activities.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: programme activities = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "QSG-PRO-0074",
+      "page": "3",
+      "loc": "para",
+      "section": "The programmatic activities that Protection actors are typically well placed to contribute to are:",
+      "en": "Rather, relevant organizations must coordinate and work together across sectors/AoRs to ensure that activities are implemented, and a comprehensive response is delivered.",
+      "ne": "बरु, गतिविधिहरू कार्यान्वयन हुने र समग्र प्रतिकार्य प्रदान गरिने सुनिश्चित गर्न सम्बन्धित संस्थाहरूले क्षेत्रहरू/जिम्मेवारीका क्षेत्रहरू (AoRs) बीच समन्वय गरी मिलेर काम गर्नुपर्छ।",
+      "bt": "Rather, the relevant organizations must coordinate across sectors/areas of responsibility (AoRs) and work together to ensure that activities are implemented and an overall response is provided.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: areas of responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. AoRs and the cross-sector requirement are retained."
+    },
+    {
+      "id": "QSG-PRO-0075",
+      "page": "3",
+      "loc": "heading",
+      "section": "The programmatic activities that Protection actors are typically well placed to contribute to are:",
+      "en": "What information is included in each activity?",
+      "ne": "प्रत्येक गतिविधिमा के जानकारी समावेश हुन्छ?",
+      "bt": "What information is included in each activity?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0076",
+      "page": "3",
+      "loc": "heading",
+      "section": "What information is included in each activity?",
+      "en": "Each activity includes:",
+      "ne": "प्रत्येक गतिविधिमा निम्न कुरा समावेश हुन्छन्:",
+      "bt": "Each activity includes the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0077",
+      "page": "3",
+      "loc": "heading",
+      "section": "What information is included in each activity?",
+      "en": "Many activities also include:",
+      "ne": "धेरै गतिविधिहरूमा निम्न कुरा पनि समावेश हुन्छन्:",
+      "bt": "Many activities also include the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0078",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Brief introduction",
+      "ne": "संक्षिप्त परिचय",
+      "bt": "Brief introduction",
+      "type": "general",
+      "terms": [
+        "T017"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0079",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Checklist of actions",
+      "ne": "कार्यहरूको जाँचसूची",
+      "bt": "Checklist of tasks",
+      "type": "general",
+      "terms": [
+        "T018",
+        "T121"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0080",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Relevant guidelines, standards and tools",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण",
+      "bt": "Relevant guidelines, standards and tools",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0081",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Key considerations",
+      "ne": "मुख्य विचारणीय पक्षहरू",
+      "bt": "Key considerations",
+      "type": "general",
+      "terms": [
+        "T154",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0082",
+      "page": "3",
+      "loc": "figure-label",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "Recommended training topics",
+      "ne": "सिफारिस गरिएका तालिमका विषयहरू",
+      "bt": "Recommended training topics",
+      "type": "general",
+      "terms": [
+        "T088"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0083",
+      "page": "3",
+      "loc": "heading",
+      "section": "Each activity includes: Many activities also include:",
+      "en": "How can I get more help?",
+      "ne": "म थप सहयोग कसरी पाउन सक्छु?",
+      "bt": "How can I get further support?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0084",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "The Step-by-Step Guide for different users provides guidance on how implementing organizations and coordinators can use the MSP.",
+      "ne": "विभिन्न प्रयोगकर्ताका लागि तयार गरिएको चरणबद्ध मार्गदर्शिका (Step-by-Step Guide) ले कार्यान्वयन गर्ने संस्थाहरू र समन्वयकर्ताहरूले MSP कसरी प्रयोग गर्न सक्छन् भन्ने मार्गदर्शन प्रदान गर्छ।",
+      "bt": "The step-by-step guide (Step-by-Step Guide), prepared for different users, provides guidance on how implementing organizations and coordinators can use the MSP.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163",
+        "T183",
+        "T214"
+      ],
+      "flags": [],
+      "note": "The English guide title is retained for identification."
+    },
+    {
+      "id": "QSG-PRO-0085",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "You can contact the MSP Helpdesk for tailored support by emailing mhpss.msp@gmail.com and mhpss.refgroup@gmail.com.",
+      "ne": "आफ्नो आवश्यकताअनुसारको सहयोगका लागि mhpss.msp@gmail.com र mhpss.refgroup@gmail.com मा इमेल पठाएर MSP सहायता कक्ष (MSP Helpdesk) सँग सम्पर्क गर्न सक्नुहुन्छ।",
+      "bt": "For support according to your needs, you can contact the MSP helpdesk (MSP Helpdesk) by sending an email to mhpss.msp@gmail.com and mhpss.refgroup@gmail.com.",
+      "type": "general",
+      "terms": [
+        "T146",
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. Proposed recurring term: Helpdesk = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "QSG-PRO-0086",
+      "page": "3",
+      "loc": "para",
+      "section": "How can I get more help?",
+      "en": "The Helpdesk can support with:",
+      "ne": "सहायता कक्षले निम्न विषयमा सहयोग गर्न सक्छ:",
+      "bt": "The helpdesk can provide support on the following topics:",
+      "type": "general",
+      "terms": [
+        "T146"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: Helpdesk = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "QSG-PRO-0087",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• orientations and workshops on using the MSP to strengthen the MHPSS response",
+      "ne": "• MHPSS प्रतिकार्य सुदृढ गर्न MSP को प्रयोगसम्बन्धी अभिमुखीकरण र कार्यशालाहरू",
+      "bt": "• Orientations and workshops on using the MSP to strengthen the MHPSS response",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T161",
+        "T163",
+        "T174",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0088",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• integrating MHPSS into different sectors, areas of responsibility and workstreams",
+      "ne": "• विभिन्न क्षेत्र, जिम्मेवारीका क्षेत्र र कार्यधाराहरूमा MHPSS एकीकरण",
+      "bt": "• Integration of MHPSS across different sectors, areas of responsibility and workstreams",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: areas of responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence], with contextual number adjustment."
+    },
+    {
+      "id": "QSG-PRO-0089",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• accompanying tools like the MSP Costing Tool, Gap Analysis Tool, and Monitoring & Evaluation Indicator Bank",
+      "ne": "• MSP लागत अनुमान उपकरण (MSP Costing Tool), कमी विश्लेषण उपकरण (Gap Analysis Tool) र अनुगमन तथा मूल्याङ्कन सूचक भण्डार (Monitoring & Evaluation Indicator Bank) जस्ता सहायक उपकरणहरू",
+      "bt": "• Supporting tools such as the MSP cost estimation tool (MSP Costing Tool), gap analysis tool (Gap Analysis Tool) and monitoring and evaluation indicator bank (Monitoring & Evaluation Indicator Bank)",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T162",
+        "T163",
+        "T271",
+        "T351",
+        "T382"
+      ],
+      "flags": [],
+      "note": "English tool titles are retained for identification. Nepali renderings of Gap Analysis Tool and Monitoring & Evaluation Indicator Bank are draft descriptive titles, not verified official titles."
+    },
+    {
+      "id": "QSG-PRO-0090",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• signposting to additional resources",
+      "ne": "• थप स्रोत सामग्री कहाँ पाइन्छ भन्ने जानकारी",
+      "bt": "• Information on where additional resource materials can be found",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "QSG-PRO-0091",
+      "page": "3",
+      "loc": "bullet",
+      "section": "How can I get more help?",
+      "en": "• other relevant queries.",
+      "ne": "• अन्य सान्दर्भिक जिज्ञासाहरू।",
+      "bt": "• Other relevant queries.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

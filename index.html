@@ -7,68 +7,79 @@
 <meta name="referrer" content="no-referrer">
 <title>MHPSS Minimum Service Package · Nepali translation review</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;600&family=Public+Sans:wght@300;400;600;700&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
 <script>const GATE_V='2026-11-23';try{if(JSON.parse(localStorage.getItem('msp-entry'))===GATE_V)document.documentElement.classList.add('entered')}catch(e){}</script>
 <style>
-:root{--bg:#f7f6f1;--ink:#22343c;--muted:#5a6a70;--line:#dfe3df;--line2:#c3cfca;--side:#efeee8;--card:#fff;
---a:#1e6f68;--at:#e2f1ee;--b:#3b4c96;--bt:#e6e9f6;--c:#8a4f1d;--ct:#f6ebdf;
+:root{/* MSP palette: www.mhpssmsp.org and manual p.2 colour guide */
+--navy:#022E3D;--teal:#007278;--teal2:#41B7B2;--coral:#DD594A;--gold:#FAEBB9;--purple:#7C3781;--cream:#FFFBF0;
+--bg:#F6F7F8;--ink:#2B373D;--muted:#445963;--line:#E2E6E9;--line2:#C9D2D6;--side:#FFFFFF;--card:#fff;
+--a:#007278;--at:#E3F2F1;--b:#7C3781;--bt:#F1E8F2;--c:#CF5C4E;--ct:#FBEAE7;--sans:Ubuntu,system-ui,sans-serif;--head:"Public Sans",system-ui,sans-serif;
 --safe:#a3321f;--safet:#fbe6e1;--chk:#8a5a00;--chkt:#fbf0d9;--act:#5b3d8f;--actt:#eee7f8;--ok:#2a7340;--okt:#e3f2e7;--nep:"Noto Sans Devanagari",system-ui,sans-serif}
 *{box-sizing:border-box}html,body{margin:0}
-body{font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);background:var(--bg)}
-a{color:var(--b)}
+body{font:16px/1.6 var(--sans);color:var(--ink);background:var(--bg)}
+a{color:var(--teal)}
+h1,h2,h3,h4,.btn,.seg button,.tab,.chip,.kind,.pill,.eb,.k,.g,.lbl,.tag{font-family:var(--head)}
+h2,h3{font-weight:600}
 p,li,td,.just{text-align:justify;hyphens:none;-webkit-hyphens:none;overflow-wrap:normal}
 .mono{font-family:ui-monospace,Menlo,monospace;font-size:12.5px;overflow-wrap:break-word;text-align:left}
 [lang=ne],.ne{font-family:var(--nep);line-height:1.75}
-.top{background:#fff;border-bottom:1px solid var(--line)}
+.top{background:var(--navy);color:#fff}
 .top-in{max-width:1640px;margin:auto;padding:14px 24px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
-.brand .eb{font-size:11.5px;letter-spacing:.12em;font-weight:700;color:var(--a)}
-.brand h1{margin:2px 0 0;font-size:23px;line-height:1.2;color:var(--ink)}
-.brand h1 span{color:var(--a)}
-.pill{margin-left:auto;font-size:13px;padding:6px 12px;border-radius:999px;background:#f8ece4;color:#7b4439;border:1px solid #ebd2c4;font-weight:600}
+.brand .eb{font-size:11.5px;letter-spacing:.14em;font-weight:700;color:var(--gold)}
+.brand h1{margin:2px 0 0;font-size:24px;line-height:1.2;color:#fff;font-weight:600}
+.brand h1 span{color:var(--teal2);font-weight:300}
+.pill{margin-left:auto;font-size:12.5px;padding:6px 12px;border-radius:4px;background:var(--cream);color:#9a3326;border:0;font-weight:700;letter-spacing:.02em}
+.strip{height:5px;display:flex}.strip i{flex:1}
 .shell{max-width:1640px;margin:auto;padding:20px 24px 48px;display:grid;grid-template-columns:270px minmax(0,1fr);gap:24px;align-items:start}
-.side{position:sticky;top:16px;background:var(--side);border:1px solid var(--line);border-radius:14px;padding:12px;display:flex;flex-direction:column;gap:3px;max-height:calc(100vh - 32px);overflow:auto}
+.side{position:sticky;top:16px;background:var(--side);border:1px solid var(--line);border-radius:8px;padding:12px;display:flex;flex-direction:column;gap:3px;max-height:calc(100vh - 32px);overflow:auto}
 .side .lbl{font-size:11px;letter-spacing:.12em;font-weight:700;color:var(--muted);padding:12px 10px 4px;display:flex;align-items:center;gap:8px}
 .side .lbl i{width:9px;height:9px;border-radius:3px}
 .nav{display:flex;align-items:center;gap:10px;padding:7px 10px;border-radius:9px;text-decoration:none;color:var(--ink);border:1px solid transparent;font-size:14px;line-height:1.3}
-.nav:hover{background:#fff;border-color:var(--line)}
-.nav.on{background:#fff;border-color:var(--line2);font-weight:600}
+.nav:hover{background:var(--bg);border-color:var(--line)}
+.nav.on{background:var(--at);border-color:transparent;font-weight:600;color:var(--navy);box-shadow:inset 3px 0 0 var(--teal)}
 .nav .d{flex:0 0 8px;height:8px;border-radius:50%;background:#cdd5d1}
-.nav .d.live{background:var(--ok)}
+.nav .d.live{background:var(--teal)}
 .nav .ic{flex:0 0 26px;height:26px;border-radius:8px;display:grid;place-items:center;background:#fff;border:1px solid var(--line2);font-size:13px}
 .nav small{margin-left:auto;color:var(--muted);font-size:11.5px;font-weight:400}
-.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:24px}
 .stack>*+*{margin-top:18px}
 .hero{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:22px;align-items:stretch}
-.hero h2{margin:0 0 6px;font-size:27px;line-height:1.2}
+.hero h2{margin:0 0 6px;font-size:30px;line-height:1.2;font-weight:300;color:var(--navy)}
+.hero h2 b{font-weight:700}
 .hero p{margin:0}
 .kpis{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-.kpi{border:1px solid var(--line);border-radius:12px;padding:12px 14px;background:#fbfbf8}
-.kpi b{display:block;font-size:26px;line-height:1.1}
+.kpi{border:0;border-radius:8px;padding:14px 16px;background:var(--navy);color:#fff}
+.kpi b{display:block;font-size:28px;line-height:1.1;font-family:var(--head);color:var(--gold)}
+.kpi span{color:#d7e3e7!important}
 .kpi span{font-size:13px;color:var(--muted)}
 .flow{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;margin:0;padding:0;list-style:none;counter-reset:f}
-.flow li{border:1px solid var(--line);border-radius:10px;padding:10px 12px;background:#fbfbf8;font-size:13.5px;text-align:left;position:relative}
+.flow li{border:1px solid var(--line);border-radius:8px;padding:10px 12px;background:#fff;font-size:13.5px;text-align:left;position:relative}
 .flow li b{display:block;font-size:14px}
-.flow li.now{background:var(--at);border-color:#b7dcd5}
+.flow li.now{background:var(--teal);border-color:var(--teal);color:#fff}
+.flow li.now em{color:var(--gold)}
+.flow li.now .n{background:#fff;color:var(--teal)}
 .flow li em{font-style:normal;font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--a);display:block;margin-top:4px}
-.flow .n{display:inline-grid;place-items:center;width:22px;height:22px;border-radius:50%;background:var(--ink);color:#fff;font-size:12px;font-weight:700;margin-bottom:6px}
+.flow .n{display:inline-grid;place-items:center;width:22px;height:22px;border-radius:50%;background:var(--navy);color:#fff;font-size:12px;font-weight:700;margin-bottom:6px}
 .phase-h{display:flex;align-items:center;gap:12px;margin:26px 0 12px;flex-wrap:wrap}
-.phase-h .tag{font-weight:700;font-size:12px;letter-spacing:.1em;color:#fff;padding:5px 10px;border-radius:7px}
-.phase-h h3{margin:0;font-size:19px}
+.phase-h .tag{font-weight:700;font-size:12px;letter-spacing:.1em;color:#fff;padding:5px 10px;border-radius:4px}
+.phase-h h3{margin:0;font-size:20px;color:var(--navy)}
 .phase-h p{margin:0;color:var(--muted);font-size:14px;flex:1 1 300px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
-.doc{display:flex;flex-direction:column;gap:8px;background:#fff;border:1px solid var(--line);border-left:5px solid var(--pc);border-radius:0 12px 12px 0;padding:14px 16px;text-decoration:none;color:var(--ink);min-height:168px}
-.doc:hover{border-color:var(--line2);border-left-color:var(--pc);box-shadow:0 2px 0 rgba(0,0,0,.03)}
+.doc{display:flex;flex-direction:column;gap:8px;background:#fff;border:1px solid var(--line);border-top:5px solid var(--pc);border-radius:0 0 8px 8px;padding:14px 16px;text-decoration:none;color:var(--ink);min-height:168px}
+.doc:hover{border-color:var(--line2);border-top-color:var(--pc);box-shadow:0 4px 14px rgba(2,46,61,.08)}
+.doc .dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--pc);margin-right:6px;vertical-align:0}
 .doc .g{font-size:11px;letter-spacing:.1em;font-weight:700;color:var(--muted)}
-.doc h4{margin:0;font-size:17px;line-height:1.25}
+.doc h4{margin:0;font-size:17px;line-height:1.25;color:var(--navy);font-weight:600}
 .doc .meta{font-size:13px;color:var(--muted)}
 .doc .st{margin-top:auto;display:flex;flex-direction:column;gap:6px}
-.chip{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px;border:1px solid transparent;width:max-content;max-width:100%}
-.chip.wait{background:#fbf0d9;color:#7a4f00;border-color:#efd9a8}
-.chip.open{background:var(--okt);color:var(--ok);border-color:#bcdcc6}
-.chip.prev{background:var(--bt);color:var(--b);border-color:#c9cfee}
-.bar{height:6px;border-radius:3px;background:#e7ebe8;overflow:hidden}.bar i{display:block;height:100%;background:var(--ok)}
+.chip{display:inline-flex;align-items:center;gap:6px;font-size:11.5px;font-weight:700;padding:3px 9px;border-radius:4px;border:1px solid transparent;width:max-content;max-width:100%}
+.chip.wait{background:var(--cream);color:#7a5b00;border-color:#f0dfa8}
+.chip.open{background:var(--at);color:var(--teal);border-color:#bfe0dd}
+.chip.prev{background:var(--bt);color:var(--purple);border-color:#dcc6de}
+.bar{height:6px;border-radius:3px;background:#e4e9eb;overflow:hidden}.bar i{display:block;height:100%;background:var(--teal)}
 .who-line{font-size:12.5px;color:var(--muted)}
-.dhead{border-radius:14px;padding:20px 24px;color:#fff;background:var(--pc)}
+.dhead{border-radius:8px;padding:22px 26px;color:#fff;background:var(--navy);border-left:8px solid var(--pc);position:relative}
+.dhead h2{font-weight:600}
 .dhead .k{font-size:11.5px;letter-spacing:.12em;font-weight:700;opacity:.85}
 .dhead h2{margin:4px 0 6px;font-size:28px;line-height:1.15}
 .dhead p{margin:0;opacity:.95}
@@ -77,34 +88,34 @@ p,li,td,.just{text-align:justify;hyphens:none;-webkit-hyphens:none;overflow-wrap
 .dhead .row .chip{background:rgba(255,255,255,.16);color:#fff;border-color:rgba(255,255,255,.35)}
 .tabs{display:flex;gap:8px;overflow-x:auto;padding-bottom:2px}
 .tab{flex:0 0 auto;padding:8px 14px;border:1px solid var(--line2);border-radius:9px;background:#fff;text-decoration:none;color:var(--ink);font-size:14px;font-weight:550}
-.tab.on{background:var(--pc);color:#fff;border-color:transparent}
+.tab.on{background:var(--navy);color:#fff;border-color:transparent;box-shadow:inset 0 -3px 0 var(--pc)}
 .empty{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px}
 .empty h3{margin:0 0 8px}
 .ghost{border:1px dashed var(--line2);border-radius:12px;padding:14px;background:repeating-linear-gradient(-45deg,#fbfbf8,#fbfbf8 10px,#f5f5f0 10px,#f5f5f0 20px)}
 .ghost .gl{height:10px;border-radius:5px;background:#e3e7e4;margin:10px 0}
-.notice{border-radius:12px;padding:12px 16px;background:var(--bt);border:1px solid #cfd5ef;color:#2c3a78;font-size:14px}
-.notice.warm{background:#f8ece4;border-color:#ebd2c4;color:#6d3c30}
+.notice{border-radius:8px;padding:12px 16px;background:var(--bt);border:1px solid #cfd5ef;color:#2c3a78;font-size:14px}
+.notice.warm{background:var(--cream);border-color:#f0dfa8;color:#5c4300;border-left:4px solid #E8C43D;border-radius:0 8px 8px 0}
 .whoform{display:grid;grid-template-columns:repeat(4,minmax(0,1fr)) auto;gap:10px;align-items:end}
 .whoform label{display:flex;flex-direction:column;gap:4px;font-size:12.5px;font-weight:600;color:var(--muted)}
 input,select,textarea{font:inherit;font-size:14.5px;padding:8px 10px;border:1px solid var(--line2);border-radius:8px;background:#fff;color:var(--ink);width:100%}
 textarea{min-height:84px;resize:vertical}
-.btn{font:inherit;font-size:14px;font-weight:600;padding:8px 14px;border-radius:8px;border:1px solid var(--line2);background:#fff;color:var(--ink);cursor:pointer;white-space:nowrap}
-.btn.pri{background:var(--ink);color:#fff;border-color:var(--ink)}
-.btn.ok{background:var(--okt);color:var(--ok);border-color:#bcdcc6}
-.btn.ch{background:#fbf0d9;color:#7a4f00;border-color:#efd9a8}
+.btn{font-size:13px;font-weight:700;letter-spacing:.03em;padding:8px 14px;border-radius:4px;border:1px solid var(--line2);background:#fff;color:var(--ink);cursor:pointer;white-space:nowrap}
+.btn.pri{background:var(--teal);color:#fff;border-color:var(--teal);text-transform:uppercase}
+.btn.ok{background:var(--teal);color:#fff;border-color:var(--teal)}
+.btn.ch{background:#fff;color:#a9382b;border-color:var(--coral)}
 .btn:disabled{opacity:.5;cursor:default}
 .lnk{background:none;border:0;color:var(--b);text-decoration:underline;cursor:pointer;font:inherit;font-size:13px;padding:0}
 .filters{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-.seg{display:inline-flex;border:1px solid var(--line2);border-radius:9px;overflow:hidden;background:#fff}
+.seg{display:inline-flex;border:1px solid var(--line2);border-radius:4px;overflow:hidden;background:#fff}
 .seg button{font:inherit;font-size:13.5px;padding:7px 12px;border:0;background:none;cursor:pointer;color:var(--ink)}
 .seg button+button{border-left:1px solid var(--line2)}
-.seg button.on{background:var(--ink);color:#fff}
+.seg button.on{background:var(--navy);color:#fff}
 .filters input[type=search]{flex:1 1 220px;max-width:none}
 .prog{display:flex;gap:12px;align-items:center;font-size:13.5px;color:var(--muted)}
 .prog .bar{flex:1;min-width:120px}
 table.tr{width:100%;border-collapse:separate;border-spacing:0;font-size:15px}
-table.tr th{position:sticky;top:0;background:var(--pc);color:#fff;text-align:left;font-size:13px;font-weight:600;padding:9px 12px}
-table.tr th:first-child{border-radius:9px 0 0 0}table.tr th:last-child{border-radius:0 9px 0 0}
+table.tr th{position:sticky;top:0;background:var(--navy);color:#fff;text-align:left;font-size:13px;font-weight:600;padding:9px 12px}
+table.tr th:first-child{border-radius:6px 0 0 0;box-shadow:inset 5px 0 0 var(--pc)}table.tr th:last-child{border-radius:0 6px 0 0}
 table.tr td{border-bottom:1px solid var(--line);padding:12px;vertical-align:top}
 table.tr tr.flag td{background:#fffaf3}
 table.tr tr.done td{background:#f6faf7}
@@ -122,14 +133,14 @@ td.pr .btns{display:flex;flex-direction:column;gap:6px}
 .prf td{background:#fffdf7!important}
 .prf .grid2{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr) auto;gap:10px;align-items:end}
 .state{font-size:13px;font-weight:600}
-.state.ok{color:var(--ok)}.state.ch{color:#7a4f00}
+.state.ok{color:var(--teal)}.state.ch{color:#a9382b}
 .kinds{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
 .kinds>div{border:1px solid var(--line);border-radius:12px;padding:14px;background:#fbfbf8}
 .kinds h4{margin:6px 0 4px;font-size:15px}
 .kinds p{margin:0;font-size:14px}
 .kinds .who{margin-top:8px;font-size:12.5px;color:var(--muted);text-align:left}
 ol.steps{margin:0;padding-left:20px}ol.steps li{margin:6px 0}
-.disc{border-left:4px solid var(--a);padding:10px 14px;background:#f4f8f7;margin:10px 0;border-radius:0}
+.disc{border-left:4px solid var(--teal);padding:10px 14px;background:var(--cream);margin:10px 0;border-radius:0}
 footer{max-width:1640px;margin:0 auto;padding:0 24px 30px;font-size:12.5px;color:var(--muted)}
 footer p{margin:0}
 /* entry */
@@ -138,7 +149,8 @@ html:not(.entered) #gate{display:block}
 html:not(.entered) #app{display:none}
 .gate{max-width:1100px;margin:40px auto;padding:0 20px}
 .gate .card{padding:28px}
-.gate h2{margin:0 0 8px;font-size:28px}
+.gate h2{margin:0 0 8px;font-size:28px;color:var(--navy)}
+.gate .brand .eb{color:var(--teal)}
 .gate ol{padding-left:20px}.gate ol li{margin:8px 0}
 .gate .acts{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
 /* mobile */
@@ -180,8 +192,8 @@ html:not(.entered) #app{display:none}
 <div id="app">
 <header class="top"><div class="top-in">
  <div class="brand"><div class="eb">IASC MHPSS MINIMUM SERVICE PACKAGE</div><h1>Nepali translation <span>· review space</span></h1></div>
- <span class="pill">Review drafts · not an official translation</span>
-</div></header>
+ <span class="pill">REVIEW DRAFTS · NOT AN OFFICIAL IASC TRANSLATION</span>
+</div><div class="strip" aria-hidden="true"><i style="background:#52C5BF"></i><i style="background:#E8C43D"></i><i style="background:#68BA69"></i><i style="background:#8C2495"></i><i style="background:#DD4648"></i><i style="background:#288673"></i><i style="background:#EF2578"></i><i style="background:#EC793D"></i><i style="background:#122E38"></i></div></header>
 <div class="shell">
  <nav class="side" id="side"></nav>
  <main id="main" class="stack"></main>
@@ -190,9 +202,9 @@ html:not(.entered) #app{display:none}
 </div>
 <script>
 const SEND_ENABLED=false; /* preview: checks stay on this device until the review round opens */
-const PH={A:{c:'var(--a)',t:'var(--at)',name:'Phase A',sub:'Overview materials and the 11 sector quick start guides'},
-          B:{c:'var(--b)',t:'var(--bt)',name:'Phase B',sub:'The main MSP manual, chapter by chapter'},
-          C:{c:'var(--c)',t:'var(--ct)',name:'Phase C',sub:'Workshop package: facilitator manual, slides and evaluation template'}};
+const PH={A:{c:'var(--teal)',t:'var(--at)',name:'Phase A',sub:'Overview materials and the 11 sector quick start guides'},
+          B:{c:'var(--purple)',t:'var(--bt)',name:'Phase B',sub:'The main MSP manual, chapter by chapter'},
+          C:{c:'var(--coral)',t:'var(--ct)',name:'Phase C',sub:'Workshop package: facilitator manual, slides and evaluation template'}};
 const KIND={safety:['SAFETY','Safety message'],check:['CHECK','Technical or clinical wording'],activity:['ACTIVITY','MSP activity name'],protected:['HUMAN TRANSLATOR','Protected text'],keep:['KEEP','Stays in English']};
 const FLAG={'bt-divergence':'The back-translation suggests the meaning may have shifted.','glossary-missing':'Uses a term that is not yet in the glossary.','unclear-english':'The English source itself is unclear.','layout-long':'The Nepali may be too long for its place in the layout.','source-ambiguous':'The English can be read in more than one way.','prior-draft-changed':'Changed from the earlier draft.'};
 let SITE=null, PREV={}, UNITS={}, VIEW={filter:'all',q:''};
@@ -236,14 +248,14 @@ function side(route){
  for(const p of ['A','B','C']){
   h+=`<div class="lbl"><i style="background:${PH[p].c}"></i>${PH[p].name.toUpperCase()}</div>`;
   for(const d of SITE.docs.filter(x=>x.phase===p))
-   h+=`<a class="nav${on('doc/'+d.id)}" href="#doc/${d.id}"><span class="d${d.units.length?' live':''}"></span>${esc(d.short)}${d.group==='Sector quick start guides'?'<small>guide</small>':''}</a>`;
+   h+=`<a class="nav${on('doc/'+d.id)}" href="#doc/${d.id}"><span class="d" style="background:${d.color||PH[p].c}"></span>${esc(d.short)}${d.units.length?'<small>open</small>':(d.group==='Sector quick start guides'?'<small>guide</small>':'')}</a>`;
  }
  document.getElementById('side').innerHTML=h;
 }
 
 function board(){
  const docs=SITE.docs, words=docs.reduce((a,d)=>a+d.words,0), live=docs.filter(d=>d.units.length).length;
- let h=`<section class="card hero"><div><h2>Workboard</h2>
+ let h=`<section class="card hero"><div><h2><b>Workboard</b> · MSP in Nepali</h2>
    <p>Every document of the MSP package that is being translated has its own page. Open a document to review its Nepali draft sentence by sentence. Documents marked <b>in preparation</b> fill in automatically as soon as their draft is ready.</p>
    <ol class="flow" style="margin-top:16px">
     <li><span class="n">1</span><b>English source</b>The IASC text decides the meaning.</li>
@@ -257,7 +269,7 @@ function board(){
   const ds=docs.filter(d=>d.phase===p);
   h+=`<div class="phase-h"><span class="tag" style="background:${PH[p].c}">${PH[p].name.toUpperCase()}</span><h3>${esc(PH[p].sub)}</h3><p>${ds.length} ${ds.length===1?'document':'documents'} · ≈ ${fmt(ds.reduce((a,d)=>a+d.words,0))} words</p></div><div class="grid">`;
   for(const d of ds){const n=docRows(d),k=docDone(d);
-   h+=`<a class="doc" href="#doc/${d.id}" style="--pc:${PH[p].c}"><span class="g">${esc(d.group.toUpperCase())}</span><h4>${esc(d.short)}</h4>
+   h+=`<a class="doc" href="#doc/${d.id}" style="--pc:${d.color||PH[p].c}"><span class="g">${d.color?'<i class="dot"></i>':''}${esc(d.group.toUpperCase())}</span><h4>${esc(d.short)}</h4>
     <span class="meta">${esc(d.pages)}${/^\d+$/.test(d.pages)?(d.pages==='1'?' page':' pages'):''} · ≈ ${fmt(d.words)} words${n?` · ${fmt(n)} rows`:''}</span>
     <span class="st">${status(d)}${n?`<span class="bar"><i style="width:${Math.round(100*k/n)}%"></i></span><span class="who-line">${k} of ${n} checked by you</span>`:''}
     <span class="who-line">Reviewer: ${d.reviewer?esc(d.reviewer):'to be assigned'}</span></span></a>`}
@@ -306,14 +318,14 @@ function table(rows){
 
 function docPage(id,unit){
  const d=SITE.docs.find(x=>x.id===id); if(!d) return board();
- const p=PH[d.phase];
- let h=`<section class="dhead" style="--pc:${p.c}"><div class="k">${p.name.toUpperCase()} · ${esc(d.group.toUpperCase())}</div><h2>${esc(d.short)}</h2>
+ const p=PH[d.phase], pc=d.color||p.c;
+ let h=`<section class="dhead" style="--pc:${pc}"><div class="k">${p.name.toUpperCase()} · ${esc(d.group.toUpperCase())}</div><h2>${esc(d.short)}</h2>
   <p>${esc(d.title)}</p><div class="row">${status(d).replace('class="chip','class="chip')}<span>${esc(d.pages)}${/^\d+$/.test(d.pages)?' pages':''} · ≈ ${fmt(d.words)} English words</span>
   <a href="${esc(d.original)}" target="_blank" rel="noopener">Original English (IASC) ↗</a></div></section>`;
  if(d.units.length){
   const u=unit&&d.units.includes(unit)?unit:d.units[0], U=UNITS[u];
-  if(d.units.length>1) h+=`<div class="tabs" style="--pc:${p.c}">${d.units.map(x=>`<a class="tab${x===u?' on':''}" href="#doc/${d.id}/${x}">${esc(UNITS[x]?UNITS[x].unit_title:x)}</a>`).join('')}</div>`;
-  h+=whoForm()+(U?`<div style="--pc:${p.c}">${table(U.rows)}</div>`:'<div class="card">Loading…</div>');
+  if(d.units.length>1) h+=`<div class="tabs" style="--pc:${pc}">${d.units.map(x=>`<a class="tab${x===u?' on':''}" href="#doc/${d.id}/${x}">${esc(UNITS[x]?UNITS[x].unit_title:x)}</a>`).join('')}</div>`;
+  h+=whoForm()+(U?`<div style="--pc:${pc}">${table(U.rows)}</div>`:'<div class="card">Loading…</div>');
   return h;
  }
  h+=`<section class="card empty"><div><h3>The Nepali draft of this document is being prepared</h3>
@@ -321,7 +333,7 @@ function docPage(id,unit){
    <p>${d.units.length===0&&['MAN','FAC','SLD'].includes(d.id)?'Long documents are split into sections that follow the document’s own chapters or sessions, so that different reviewers can take different sections.':'This document will be one page of rows.'}</p></div>
    <div class="ghost" aria-hidden="true"><div class="gl" style="width:40%"></div><div class="gl"></div><div class="gl" style="width:85%"></div><div class="gl" style="width:60%"></div><div class="gl"></div><div class="gl" style="width:75%"></div></div></section>`;
  if(PREV[d.id]){const P=PREV[d.id];
-  h+=`<div class="notice warm"><b>Layout preview.</b> ${esc(P.label)} Checks you make here stay on this device.</div><div style="--pc:${p.c}">${table(P.rows.map(r=>({...r,type:'general',flags:[],bt:''})))}</div>`}
+  h+=`<div class="notice warm"><b>Layout preview.</b> ${esc(P.label)} Checks you make here stay on this device.</div><div style="--pc:${pc}">${table(P.rows.map(r=>({...r,type:'general',flags:[],bt:''})))}</div>`}
  return h;
 }
 

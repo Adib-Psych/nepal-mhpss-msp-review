@@ -21,6 +21,7 @@ Removing anything that is live needs Adib's own words naming that item or group.
 1. `python3 tests/site_check.py` passes against a local server (data integrity, no JavaScript errors, no horizontal scroll at 390 and 768 px, running text fills its container at 1440 px).
 2. Partner-facing text only: no internal paths, agent names or working notes.
 3. Licence conditions of the MSP are kept: no organisational or donor logo; the IASC disclaimer stays on the About page; the final translation will carry it in Nepali.
+4. Visual identity (23 Nov 2026): colours and fonts follow the MSP palette (www.mhpssmsp.org; sector colours from the colour guide on page 2 of the MSP manual). No MSP or IASC logo and no look-alike of it: the MSP licence asks that no use suggests IASC endorsement, and this site holds unofficial drafts. A logo can be added only with written permission from the IASC MHPSS Reference Group.
 
 ## Reviewer checks
 Until the review round opens, `SEND_ENABLED` in `index.html` is `false` and checks stay in the reviewer's browser. Opening the round (storage of checks for the review team) is a separate change recorded with a checkpoint.

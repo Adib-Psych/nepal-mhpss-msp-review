@@ -75,7 +75,8 @@
    "words": 1356,
    "original": "https://drive.google.com/uc?export=download&id=1XwsHk26E36Nkuy53eQXIDebsb4evcxUe",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#EC793D"
   },
   {
    "id": "QSG-CP",
@@ -87,7 +88,8 @@
    "words": 1591,
    "original": "https://drive.google.com/uc?export=download&id=13BhwI_Z9l57PSW-DDSwMs7ubGPfa79xV",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#68BA69"
   },
   {
    "id": "QSG-EDU",
@@ -99,7 +101,8 @@
    "words": 1326,
    "original": "https://drive.google.com/uc?export=download&id=1raZ_-OKZXZoA7UhssN13bEGmM5acHnE5",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#DD4648"
   },
   {
    "id": "QSG-FSL",
@@ -111,7 +114,8 @@
    "words": 1264,
    "original": "https://drive.google.com/uc?export=download&id=1Z9q70H6PfB9IXVILV2Zyv6JMm4bzrZzb",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#122E38"
   },
   {
    "id": "QSG-GBV",
@@ -123,7 +127,8 @@
    "words": 1479,
    "original": "https://drive.google.com/uc?export=download&id=1qFXLuUpg6P9Yg4aR2T26g-XwV6w6GvKz",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#8C2495"
   },
   {
    "id": "QSG-HEA",
@@ -135,7 +140,8 @@
    "words": 1369,
    "original": "https://drive.google.com/uc?export=download&id=1v8Fmz2mWMBGrJNB8LdHhihruPaFvh9Go",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#52C5BF"
   },
   {
    "id": "QSG-MA",
@@ -147,7 +153,8 @@
    "words": 1240,
    "original": "https://drive.google.com/uc?export=download&id=1hLdDy0gfLSPi90dovQBcIeXUgAYAu8wf",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#288673"
   },
   {
    "id": "QSG-NUT",
@@ -159,7 +166,8 @@
    "words": 1374,
    "original": "https://drive.google.com/uc?export=download&id=1qi5IstTZVx-Bvjq1U2FYbl84d7gVQSc1",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#EF2578"
   },
   {
    "id": "QSG-PRO",
@@ -171,7 +179,8 @@
    "words": 1349,
    "original": "https://drive.google.com/uc?export=download&id=1HvtoTqaUBOoaxCqHPnMKqB6aXugg-lZX",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#E8C43D"
   },
   {
    "id": "QSG-SHE",
@@ -183,7 +192,8 @@
    "words": 1313,
    "original": "https://drive.google.com/uc?export=download&id=1CokpgAckjW0J0mbVtUMHAzRvTntW1r4W",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#122E38"
   },
   {
    "id": "QSG-WASH",
@@ -195,7 +205,8 @@
    "words": 1231,
    "original": "https://drive.google.com/uc?export=download&id=1GtRuAulbuBzxJmEAu-wSpTluUaYqQWEd",
    "units": [],
-   "preview": false
+   "preview": false,
+   "color": "#122E38"
   },
   {
    "id": "MAN",
@@ -245,5 +256,6 @@
    "units": [],
    "preview": false
   }
- ]
+ ],
+ "palette_source": "MSP website www.mhpssmsp.org (computed styles, 23 Nov 2026) and the colour guide on page 2 of the MSP manual (IASC 2022)"
 }

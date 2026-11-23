@@ -1,0 +1,655 @@
+{
+ "preview": true,
+ "doc_id": "SUM",
+ "label": "Earlier AI-assisted draft of 29 October 2026 (not yet reviewed). Shown only to preview the layout; it will be replaced by the new draft with back-translations.",
+ "rows": [
+  {
+   "id": "SUM-0001",
+   "page": "1",
+   "en": "Mental Health and Psychosocial Support",
+   "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग"
+  },
+  {
+   "id": "SUM-0002",
+   "page": "1",
+   "en": "Minimum Service Package (MHPSS MSP)",
+   "ne": "न्यूनतम सेवा प्याकेज (MHPSS MSP)"
+  },
+  {
+   "id": "SUM-0003",
+   "page": "1",
+   "en": "What is the MHPSS MSP?",
+   "ne": "MHPSS MSP के हो?"
+  },
+  {
+   "id": "SUM-0004",
+   "page": "1",
+   "en": "The MSP informs humanitarian response planning. It offers an easy-to-follow guide to the highest priority MHPSS activities needed during a humanitarian crisis to address the mental health and psychosocial support needs of affected populations.",
+   "ne": "MSP ले मानवीय प्रतिकार्यको योजनालाई दिशा दिन्छ। यसले प्रभावित जनसङ्ख्याका मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगका आवश्यकता सम्बोधन गर्न मानवीय सङ्कटका बेला चाहिने सर्वोच्च प्राथमिकताका MHPSS गतिविधिहरूको सजिलै पालना गर्न सकिने मार्गदर्शन प्रदान गर्छ।"
+  },
+  {
+   "id": "SUM-0005",
+   "page": "1",
+   "en": "There are four sections of MSP activities:",
+   "ne": "MSP गतिविधिहरूका चार खण्ड छन्:"
+  },
+  {
+   "id": "SUM-0006",
+   "page": "1",
+   "en": "Inter-agency and intersectoral coordination and assessment",
+   "ne": "अन्तर-निकाय तथा अन्तर-क्षेत्रगत समन्वय र लेखाजोखा"
+  },
+  {
+   "id": "SUM-0007",
+   "page": "1",
+   "en": "Essential components of all MHPSS programmes",
+   "ne": "सबै MHPSS कार्यक्रमका अत्यावश्यक अङ्गहरू"
+  },
+  {
+   "id": "SUM-0008",
+   "page": "1",
+   "en": "MHPSS programme activities",
+   "ne": "MHPSS कार्यक्रम गतिविधिहरू"
+  },
+  {
+   "id": "SUM-0009",
+   "page": "1",
+   "en": "Activities and considerations for specific settings",
+   "ne": "विशेष परिवेशका लागि गतिविधि तथा विचारणीय पक्षहरू"
+  },
+  {
+   "id": "SUM-0010",
+   "page": "1",
+   "en": "All activities are based on evidence and expert consensus.",
+   "ne": "सबै गतिविधिहरू प्रमाण र विज्ञहरूको सहमतिमा आधारित छन्।"
+  },
+  {
+   "id": "SUM-0011",
+   "page": "1",
+   "en": "Each activity includes:",
+   "ne": "प्रत्येक गतिविधिमा समावेश छन्:"
+  },
+  {
+   "id": "SUM-0012",
+   "page": "1",
+   "en": "Brief introduction",
+   "ne": "संक्षिप्त परिचय"
+  },
+  {
+   "id": "SUM-0013",
+   "page": "1",
+   "en": "Checklist of actions",
+   "ne": "कार्यहरूको जाँचसूची"
+  },
+  {
+   "id": "SUM-0014",
+   "page": "1",
+   "en": "Relevant guidelines, standards and tools",
+   "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण"
+  },
+  {
+   "id": "SUM-0015",
+   "page": "1",
+   "en": "Additional tools:",
+   "ne": "थप उपकरणहरू:"
+  },
+  {
+   "id": "SUM-0016",
+   "page": "1",
+   "en": "MSP Gap Analysis Tool",
+   "ne": "MSP अन्तर विश्लेषण उपकरण"
+  },
+  {
+   "id": "SUM-0017",
+   "page": "1",
+   "en": "MSP Costing Tool",
+   "ne": "MSP लागत अनुमान उपकरण"
+  },
+  {
+   "id": "SUM-0018",
+   "page": "1",
+   "en": "How does it work?",
+   "ne": "यसले कसरी काम गर्छ?"
+  },
+  {
+   "id": "SUM-0019",
+   "page": "1",
+   "en": "The MSP is designed for use in all types of humanitarian emergencies that require a coordinated international response, including armed conflicts, natural disasters and public health emergencies.",
+   "ne": "MSP सशस्त्र द्वन्द्व, प्राकृतिक विपद् र जनस्वास्थ्य आपत्कालसहित समन्वित अन्तर्राष्ट्रिय प्रतिकार्य आवश्यक पर्ने सबै प्रकारका मानवीय आपत्कालमा प्रयोग गर्न तयार गरिएको हो।"
+  },
+  {
+   "id": "SUM-0020",
+   "page": "1",
+   "en": "Different stakeholders may use the MSP to:",
+   "ne": "विभिन्न सरोकारवालाले MSP यी कामका लागि प्रयोग गर्न सक्छन्:"
+  },
+  {
+   "id": "SUM-0021",
+   "page": "1",
+   "en": "Coordinate and collaborate",
+   "ne": "समन्वय र सहकार्य"
+  },
+  {
+   "id": "SUM-0022",
+   "page": "1",
+   "en": "Identify and address gaps in the MHPSS response",
+   "ne": "MHPSS प्रतिकार्यका कमी पहिचान गरी सम्बोधन गर्न"
+  },
+  {
+   "id": "SUM-0023",
+   "page": "1",
+   "en": "Advocate for MHPSS needs and activities",
+   "ne": "MHPSS आवश्यकता र गतिविधिका लागि पैरवी गर्न"
+  },
+  {
+   "id": "SUM-0024",
+   "page": "1",
+   "en": "Work across sectors and stakeholders",
+   "ne": "विभिन्न क्षेत्र र सरोकारवालाबीच मिलेर काम गर्न"
+  },
+  {
+   "id": "SUM-0025",
+   "page": "1",
+   "en": "Plan and make decisions",
+   "ne": "योजना र निर्णय"
+  },
+  {
+   "id": "SUM-0026",
+   "page": "1",
+   "en": "Prioritize MHPSS activities as part of the humanitarian response",
+   "ne": "मानवीय प्रतिकार्यको अङ्गका रूपमा MHPSS गतिविधिलाई प्राथमिकता दिन"
+  },
+  {
+   "id": "SUM-0027",
+   "page": "1",
+   "en": "Estimate costs and develop budgets",
+   "ne": "लागत अनुमान र बजेट तयार गर्न"
+  },
+  {
+   "id": "SUM-0028",
+   "page": "1",
+   "en": "Implement activities",
+   "ne": "गतिविधि कार्यान्वयन"
+  },
+  {
+   "id": "SUM-0029",
+   "page": "1",
+   "en": "Find guidance on how to implement individual MHPSS activities",
+   "ne": "प्रत्येक MHPSS गतिविधि कसरी कार्यान्वयन गर्ने भन्ने मार्गदर्शन पाउन"
+  },
+  {
+   "id": "SUM-0030",
+   "page": "1",
+   "en": "Determine who can contribute to which activities and divide up tasks more easily",
+   "ne": "कसले कुन गतिविधिमा योगदान गर्न सक्छ भनी निर्धारण गर्न र काम सजिलै बाँडफाँट गर्न"
+  },
+  {
+   "id": "SUM-0031",
+   "page": "1",
+   "en": "Who is it for?",
+   "ne": "यो कसका लागि हो?"
+  },
+  {
+   "id": "SUM-0032",
+   "page": "1",
+   "en": "The MSP is a resource for all humanitarian actors, with diverse backgrounds, qualifications and levels of experience. This includes response coordinators, programme planners, donors, technical advisors and any other organization or individual implementing MHPSS activities.",
+   "ne": "MSP विविध पृष्ठभूमि, योग्यता र अनुभव भएका सबै मानवीय कर्ताहरूका लागि स्रोत हो। यसमा प्रतिकार्य संयोजक, कार्यक्रम योजनाकार, दातृ निकाय, प्राविधिक सल्लाहकार तथा MHPSS गतिविधि कार्यान्वयन गर्ने अन्य कुनै पनि संस्था वा व्यक्ति पर्छन्।"
+  },
+  {
+   "id": "SUM-0033",
+   "page": "1",
+   "en": "Multistakeholder",
+   "ne": "बहु-सरोकारवाला"
+  },
+  {
+   "id": "SUM-0034",
+   "page": "1",
+   "en": "Response coordinators",
+   "ne": "प्रतिकार्य संयोजक"
+  },
+  {
+   "id": "SUM-0035",
+   "page": "1",
+   "en": "Programme planners",
+   "ne": "कार्यक्रम योजनाकार"
+  },
+  {
+   "id": "SUM-0036",
+   "page": "1",
+   "en": "Donors",
+   "ne": "दातृ निकाय"
+  },
+  {
+   "id": "SUM-0037",
+   "page": "1",
+   "en": "Technical advisors",
+   "ne": "प्राविधिक सल्लाहकार"
+  },
+  {
+   "id": "SUM-0038",
+   "page": "1",
+   "en": "Any organization or individual implementing MHPSS activities",
+   "ne": "MHPSS गतिविधि कार्यान्वयन गर्ने कुनै पनि संस्था वा व्यक्ति"
+  },
+  {
+   "id": "SUM-0039",
+   "page": "1",
+   "en": "Multisectoral",
+   "ne": "बहु-क्षेत्रगत"
+  },
+  {
+   "id": "SUM-0040",
+   "page": "1",
+   "en": "Health",
+   "ne": "स्वास्थ्य"
+  },
+  {
+   "id": "SUM-0041",
+   "page": "1",
+   "en": "Education",
+   "ne": "शिक्षा"
+  },
+  {
+   "id": "SUM-0042",
+   "page": "1",
+   "en": "Protection (including child protection, gender-based violence and mine action)",
+   "ne": "संरक्षण (बाल संरक्षण, लैङ्गिक हिंसा र बारुदी सुरुङ सम्बन्धी कार्यसहित)"
+  },
+  {
+   "id": "SUM-0043",
+   "page": "1",
+   "en": "Nutrition",
+   "ne": "पोषण"
+  },
+  {
+   "id": "SUM-0044",
+   "page": "1",
+   "en": "Camp coordination and camp management (CCCM)",
+   "ne": "शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM)"
+  },
+  {
+   "id": "SUM-0045",
+   "page": "1",
+   "en": "Shelter and settlements",
+   "ne": "आश्रय तथा बस्ती"
+  },
+  {
+   "id": "SUM-0046",
+   "page": "1",
+   "en": "Water, sanitation and hygiene (WASH)",
+   "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH)"
+  },
+  {
+   "id": "SUM-0047",
+   "page": "1",
+   "en": "Food security and livelihoods",
+   "ne": "खाद्य सुरक्षा तथा जीविकोपार्जन"
+  },
+  {
+   "id": "SUM-0048",
+   "page": "1",
+   "en": "Government actors, UN other agencies, civil society and (I)NGOs, private organizations and individuals.",
+   "ne": "सरकारी निकाय, संयुक्त राष्ट्रसङ्घ तथा अन्य निकाय, नागरिक समाज र (अन्तर्राष्ट्रिय) गैरसरकारी संस्था, निजी संस्था र व्यक्तिहरू।"
+  },
+  {
+   "id": "SUM-0049",
+   "page": "1",
+   "en": "No single organization can implement all MHPSS activities. All stakeholders must work together and coordinate their efforts. Depending on their mandate and capacities, some organizations will be better placed than others to implement certain activities.",
+   "ne": "कुनै एउटा संस्थाले मात्र सबै MHPSS गतिविधि कार्यान्वयन गर्न सक्दैन। सबै सरोकारवालाले मिलेर काम गर्नुपर्छ र आफ्ना प्रयासहरू समन्वय गर्नुपर्छ। आ-आफ्नो कार्यादेश र क्षमताअनुसार केही संस्था निश्चित गतिविधि कार्यान्वयन गर्न अरूभन्दा बढी उपयुक्त हुन्छन्।"
+  },
+  {
+   "id": "SUM-0050",
+   "page": "1",
+   "en": "What is the goal?",
+   "ne": "लक्ष्य के हो?"
+  },
+  {
+   "id": "SUM-0051",
+   "page": "1",
+   "en": "To improve the humanitarian MHPSS response:",
+   "ne": "मानवीय MHPSS प्रतिकार्यलाई यसरी सुधार गर्न:"
+  },
+  {
+   "id": "SUM-0052",
+   "page": "1",
+   "en": "Better coordinated",
+   "ne": "अझ राम्रो समन्वय"
+  },
+  {
+   "id": "SUM-0053",
+   "page": "1",
+   "en": "Higher quality",
+   "ne": "उच्च गुणस्तर"
+  },
+  {
+   "id": "SUM-0054",
+   "page": "1",
+   "en": "More predictable",
+   "ne": "अझ अनुमानयोग्य"
+  },
+  {
+   "id": "SUM-0055",
+   "page": "1",
+   "en": "More equitable",
+   "ne": "अझ समतामूलक"
+  },
+  {
+   "id": "SUM-0056",
+   "page": "1",
+   "en": "More efficient",
+   "ne": "अझ कार्यकुशल"
+  },
+  {
+   "id": "SUM-0057",
+   "page": "1",
+   "en": "More scalable and sustainable",
+   "ne": "अझ विस्तारयोग्य र दिगो"
+  },
+  {
+   "id": "SUM-0058",
+   "page": "1",
+   "en": "Contributing to reduced suffering and improved mental health and psychosocial well-being among people affected by humanitarian crises.",
+   "ne": "मानवीय सङ्कटबाट प्रभावित व्यक्तिहरूमा पीडा घटाउन र मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण सुधार गर्न योगदान पुर्‍याउँदै।"
+  },
+  {
+   "id": "SUM-0059",
+   "page": "1",
+   "en": "Find out more:",
+   "ne": "थप जानकारीका लागि:"
+  },
+  {
+   "id": "SUM-0060",
+   "page": "2",
+   "en": "MHPSS MSP Activity Overview",
+   "ne": "MHPSS MSP गतिविधिहरूको झलक"
+  },
+  {
+   "id": "SUM-0061",
+   "page": "2",
+   "en": "Sectors and AoRs",
+   "ne": "क्षेत्र र जिम्मेवारी क्षेत्र (AoR)"
+  },
+  {
+   "id": "SUM-0062",
+   "page": "2",
+   "en": "Health",
+   "ne": "स्वास्थ्य"
+  },
+  {
+   "id": "SUM-0063",
+   "page": "2",
+   "en": "Education",
+   "ne": "शिक्षा"
+  },
+  {
+   "id": "SUM-0064",
+   "page": "2",
+   "en": "Protection",
+   "ne": "संरक्षण"
+  },
+  {
+   "id": "SUM-0065",
+   "page": "2",
+   "en": "Child protection",
+   "ne": "बाल संरक्षण"
+  },
+  {
+   "id": "SUM-0066",
+   "page": "2",
+   "en": "GBV",
+   "ne": "लैङ्गिक हिंसा"
+  },
+  {
+   "id": "SUM-0067",
+   "page": "2",
+   "en": "Mine action",
+   "ne": "बारुदी सुरुङ कार्य"
+  },
+  {
+   "id": "SUM-0068",
+   "page": "2",
+   "en": "Nutrition",
+   "ne": "पोषण"
+  },
+  {
+   "id": "SUM-0069",
+   "page": "2",
+   "en": "CCCM",
+   "ne": "CCCM"
+  },
+  {
+   "id": "SUM-0070",
+   "page": "2",
+   "en": "Shelter & settlements",
+   "ne": "आश्रय तथा बस्ती"
+  },
+  {
+   "id": "SUM-0071",
+   "page": "2",
+   "en": "WASH",
+   "ne": "WASH"
+  },
+  {
+   "id": "SUM-0072",
+   "page": "2",
+   "en": "Food security & livelihoods",
+   "ne": "खाद्य सुरक्षा तथा जीविकोपार्जन"
+  },
+  {
+   "id": "SUM-0073",
+   "page": "2",
+   "en": "Colored icons refer to sectors of AoRs typically well placed to deliver the activities while dark blue icons refer to those typically well placed to support the implementation of activities",
+   "ne": "रङ्गीन आइकनले सामान्यतया गतिविधि सञ्चालन गर्न उपयुक्त क्षेत्र/AoR लाई जनाउँछन्, भने गाढा नीलो आइकनले गतिविधि कार्यान्वयनमा सहयोग गर्न उपयुक्त क्षेत्र/AoR लाई जनाउँछन्।"
+  },
+  {
+   "id": "SUM-0074",
+   "page": "2",
+   "en": "Section 1: Inter-Agency Coordination and Assessment",
+   "ne": "खण्ड १: अन्तर-निकाय समन्वय तथा लेखाजोखा"
+  },
+  {
+   "id": "SUM-0075",
+   "page": "2",
+   "en": "The response is well coordinated and responsive to context, needs and gaps",
+   "ne": "प्रतिकार्य राम्रोसँग समन्वित छ र सन्दर्भ, आवश्यकता तथा कमीहरूप्रति उत्तरदायी छ"
+  },
+  {
+   "id": "SUM-0076",
+   "page": "2",
+   "en": "1.1 Coordinate MHPSS within and across sectors",
+   "ne": "1.1  क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने"
+  },
+  {
+   "id": "SUM-0077",
+   "page": "2",
+   "en": "1.2 Assess MHPSS needs and resources to guide programming",
+   "ne": "1.2  कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने"
+  },
+  {
+   "id": "SUM-0078",
+   "page": "2",
+   "en": "Improved humanitarian MHPSS response",
+   "ne": "सुधारिएको मानवीय MHPSS प्रतिकार्य"
+  },
+  {
+   "id": "SUM-0079",
+   "page": "2",
+   "en": "Section 2: Essential components of all MHPSS programmes",
+   "ne": "खण्ड २: सबै MHPSS कार्यक्रमका अत्यावश्यक अङ्गहरू"
+  },
+  {
+   "id": "SUM-0080",
+   "page": "2",
+   "en": "MHPSS programmes are well designed, monitored and evaluated and workers are supported",
+   "ne": "MHPSS कार्यक्रमहरू राम्रोसँग डिजाइन, अनुगमन र मूल्याङ्कन गरिएका छन् र कार्यकर्ताहरूलाई सहयोग गरिएको छ"
+  },
+  {
+   "id": "SUM-0081",
+   "page": "2",
+   "en": "2.1 Design, plan and coordinate MHPSS Programmes",
+   "ne": "2.1  MHPSS कार्यक्रमको डिजाइन, योजना र समन्वय गर्ने"
+  },
+  {
+   "id": "SUM-0082",
+   "page": "2",
+   "en": "2.2 Develop and Implement an M&E System",
+   "ne": "2.2  अनुगमन तथा मूल्याङ्कन (M&E) प्रणाली विकास र कार्यान्वयन गर्ने"
+  },
+  {
+   "id": "SUM-0083",
+   "page": "2",
+   "en": "2.3 Care for staff and volunteers providing MHPSS",
+   "ne": "2.3  MHPSS प्रदान गर्ने कर्मचारी र स्वयंसेवकको हेरचाह गर्ने"
+  },
+  {
+   "id": "SUM-0084",
+   "page": "2",
+   "en": "2.4 Support MHPSS competencies of staff and volunteers",
+   "ne": "2.4  कर्मचारी र स्वयंसेवकको MHPSS सक्षमतामा सहयोग गर्ने"
+  },
+  {
+   "id": "SUM-0085",
+   "page": "2",
+   "en": "Organizations engaged in any type of MHPSS activity should implement all section 2 activities",
+   "ne": "कुनै पनि प्रकारको MHPSS गतिविधिमा संलग्न संस्थाले खण्ड २ का सबै गतिविधि कार्यान्वयन गर्नुपर्छ"
+  },
+  {
+   "id": "SUM-0086",
+   "page": "2",
+   "en": "No single organization is expected to implement all programme activities. Rather, relevant organizations must coordinate and work together across sectors/AoRs to ensure that activities are implemented and a comprehensive response is delivered.",
+   "ne": "कुनै एउटा संस्थाले सबै कार्यक्रम गतिविधि कार्यान्वयन गर्ने अपेक्षा गरिँदैन। बरु, गतिविधिहरू कार्यान्वयन होऊन् र समग्र प्रतिकार्य प्रदान होस् भनेर सम्बन्धित संस्थाहरूले क्षेत्र/AoR हरूबीच समन्वय गरी मिलेर काम गर्नुपर्छ।"
+  },
+  {
+   "id": "SUM-0087",
+   "page": "2",
+   "en": "Section 3: MHPSS programme activities",
+   "ne": "खण्ड ३: MHPSS कार्यक्रम गतिविधिहरू"
+  },
+  {
+   "id": "SUM-0088",
+   "page": "2",
+   "en": "Orient humanitarian actors and community members on MHPSS",
+   "ne": "मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण"
+  },
+  {
+   "id": "SUM-0089",
+   "page": "2",
+   "en": "Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+   "ne": "मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने र MHPSS सम्बन्धी विचारणीय पक्ष तथा कार्यका लागि पैरवी गर्ने"
+  },
+  {
+   "id": "SUM-0090",
+   "page": "2",
+   "en": "Orient frontline workers and community leaders in basic psychosocial support skills",
+   "ne": "अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने"
+  },
+  {
+   "id": "SUM-0091",
+   "page": "2",
+   "en": "Strengthen self-help and provide support to communities",
+   "ne": "आत्म-सहयोग सुदृढ गर्ने र समुदायलाई सहयोग प्रदान गर्ने"
+  },
+  {
+   "id": "SUM-0092",
+   "page": "2",
+   "en": "Disseminate key messages to promote mental health and psychosocial well-being",
+   "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मुख्य सन्देशहरू प्रसार गर्ने"
+  },
+  {
+   "id": "SUM-0093",
+   "page": "2",
+   "en": "Support new and pre-existing group-based community MHPSS activities",
+   "ne": "नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने"
+  },
+  {
+   "id": "SUM-0094",
+   "page": "2",
+   "en": "Provide early childhood development (ECD) activities to support young children and their caregivers",
+   "ne": "साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास (ECD) गतिविधि प्रदान गर्ने"
+  },
+  {
+   "id": "SUM-0095",
+   "page": "2",
+   "en": "Provide group activities for children’s mental health and psychosocial well-being",
+   "ne": "बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने"
+  },
+  {
+   "id": "SUM-0096",
+   "page": "2",
+   "en": "Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children",
+   "ne": "हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने"
+  },
+  {
+   "id": "SUM-0097",
+   "page": "2",
+   "en": "Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+   "ne": "शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने"
+  },
+  {
+   "id": "SUM-0098",
+   "page": "2",
+   "en": "Provide MHPSS through women and girls safe spaces",
+   "ne": "महिला तथा किशोरीका लागि सुरक्षित स्थलमार्फत MHPSS प्रदान गर्ने"
+  },
+  {
+   "id": "SUM-0099",
+   "page": "2",
+   "en": "Provide focused support for people impaired by distress or mental health conditions",
+   "ne": "तनाव वा मानसिक स्वास्थ्य अवस्थाका कारण दैनिक कार्यमा असर परेका व्यक्तिलाई केन्द्रित सहयोग प्रदान गर्ने"
+  },
+  {
+   "id": "SUM-0100",
+   "page": "2",
+   "en": "Provide mental health care as part of general health services",
+   "ne": "सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने"
+  },
+  {
+   "id": "SUM-0101",
+   "page": "2",
+   "en": "Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+   "ne": "यौन हिंसा तथा घनिष्ठ साथीद्वारा हुने हिंसाबाट प्रभावितहरूको क्लिनिकल हेरचाहको अङ्गका रूपमा MHPSS प्रदान गर्ने"
+  },
+  {
+   "id": "SUM-0102",
+   "page": "2",
+   "en": "Initiate or strengthen the provision of psychological interventions",
+   "ne": "मनोवैज्ञानिक हस्तक्षेपहरूको व्यवस्था सुरु गर्ने वा सुदृढ गर्ने"
+  },
+  {
+   "id": "SUM-0103",
+   "page": "2",
+   "en": "Provide MHPSS through case management services",
+   "ne": "केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने"
+  },
+  {
+   "id": "SUM-0104",
+   "page": "2",
+   "en": "Protect and care for people in psychiatric hospitals and other institutions",
+   "ne": "मानसिक अस्पताल तथा अन्य संस्थामा रहेका व्यक्तिहरूको संरक्षण र हेरचाह गर्ने"
+  },
+  {
+   "id": "SUM-0105",
+   "page": "2",
+   "en": "Section 4: Activities and considerations for specific settings",
+   "ne": "खण्ड ४: विशेष परिवेशका लागि गतिविधि तथा विचारणीय पक्षहरू"
+  },
+  {
+   "id": "SUM-0106",
+   "page": "2",
+   "en": "Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+   "ne": "सरुवा रोगको क्लिनिकल केस व्यवस्थापनमा MHPSS सम्बन्धी विचारणीय पक्ष र सहयोग एकीकृत गर्ने"
+  },
+  {
+   "id": "SUM-0107",
+   "page": "2",
+   "en": "Provide mental health and psychosocial support to persons deprived of their liberty",
+   "ne": "स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग प्रदान गर्ने"
+  },
+  {
+   "id": "SUM-0108",
+   "page": "2",
+   "en": "Disclaimer required by the licence (added in Nepali; not in the English flyer)",
+   "ne": "यो अनुवाद अन्तर-निकाय स्थायी समिति (IASC) ले तयार गरेको होइन। यस अनुवादको सामग्री वा शुद्धताप्रति IASC जिम्मेवार छैन। मूल अङ्ग्रेजी संस्करण: Inter-Agency Standing Committee, The Mental Health and Psychosocial Support Minimum Service Package, Licence: CC BY-NC-SA 3.0 IGO, नै बाध्यकारी र प्रामाणिक संस्करण हुनेछ। यो अनुवाद CC BY-NC-SA 3.0 IGO अन्तर्गत उपलब्ध छ।"
+  }
+ ]
+}

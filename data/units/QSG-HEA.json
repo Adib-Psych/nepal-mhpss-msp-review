@@ -1226,7 +1226,7 @@
         "T157"
       ],
       "flags": [],
-      "note": "Preserve the source clinical meaning, population, intervention scope and referral conditions; human translation required. Reclassified as general safety guidance. The existing phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the supplied T107 activity candidate, not newly coined. Language and relevant domain review remain pending."
+      "note": "Preserve the source clinical meaning, population, intervention scope and referral conditions; human translation required. Reclassified as general safety guidance. The existing phrase मानसिक स्वास्थ्य सेवा is reused from the supplied T107 activity candidate, not newly coined. Language and relevant domain review remain pending."
     },
     {
       "id": "QSG-HEA-0068",
@@ -1415,7 +1415,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: areas of responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. AoRs is preserved; the frozen glossary is unchanged."
+      "note": "Proposed recurring term: areas of responsibility = जिम्मेवारीका क्षेत्रहरू. AoRs is preserved; the frozen glossary is unchanged."
     },
     {
       "id": "QSG-HEA-0079",
@@ -1580,7 +1580,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. Proposed recurring term: Helpdesk = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. Proposed recurring term: Helpdesk = सहायता कक्ष."
     },
     {
       "id": "QSG-HEA-0090",
@@ -1597,7 +1597,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term Helpdesk = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; the frozen glossary is unchanged."
+      "note": "Uses the proposed recurring term Helpdesk = सहायता कक्ष; the frozen glossary is unchanged."
     },
     {
       "id": "QSG-HEA-0091",
@@ -1634,7 +1634,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term areas of responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring term areas of responsibility = जिम्मेवारीका क्षेत्रहरू."
     },
     {
       "id": "QSG-HEA-0093",
@@ -1658,7 +1658,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "T020 is retained exactly. Proposed tool titles: Gap Analysis Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; Monitoring & Evaluation Indicator Bank = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. English titles are retained for identification."
+      "note": "T020 is retained exactly. Proposed tool titles: Gap Analysis Tool = अन्तर विश्लेषण उपकरण; Monitoring & Evaluation Indicator Bank = अनुगमन तथा मूल्याङ्कन सूचक भण्डार. English titles are retained for identification."
     },
     {
       "id": "QSG-HEA-0094",

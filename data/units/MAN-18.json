@@ -65,7 +65,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Community-led is absent from the supplied glossary; proposed ordinary wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Community-led is absent from the supplied glossary; proposed ordinary wording: समुदायको नेतृत्वमा सञ्चालित."
     },
     {
       "id": "MAN-18-0004",
@@ -103,7 +103,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed candidates T157 and T005. Missing recurring terms proposed: support groups = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; group facilitation = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; safe spaces = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed candidates T157 and T005. Missing recurring terms proposed: support groups = सहयोग समूहहरू; group facilitation = समूह सहजीकरण; safe spaces = सुरक्षित स्थान."
     },
     {
       "id": "MAN-18-0006",
@@ -157,7 +157,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed ordinary wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring glossary gap community-led."
+      "note": "Uses the proposed ordinary wording समुदायको नेतृत्वमा सञ्चालित for the recurring glossary gap community-led."
     },
     {
       "id": "MAN-18-0009",
@@ -248,7 +248,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Recurring glossary gaps: community-led, support groups and support mechanisms. Proposed wording includes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for support mechanisms."
+      "note": "Recurring glossary gaps: community-led, support groups and support mechanisms. Proposed wording includes सहयोग संयन्त्रहरू for support mechanisms."
     },
     {
       "id": "MAN-18-0014",
@@ -270,7 +270,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Coping resources is rendered nonclinically as resources useful for dealing with difficulties. Missing recurring terms: support groups = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; social supports = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Coping resources is rendered nonclinically as resources useful for dealing with difficulties. Missing recurring terms: support groups = सहयोग समूहहरू; social supports = सामाजिक सहयोग."
     },
     {
       "id": "MAN-18-0015",
@@ -292,7 +292,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed candidates T157 and T005. Group facilitation is a recurring glossary gap; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Self-help resources is ordinary resource provision, not a named clinical intervention."
+      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed candidates T157 and T005. Group facilitation is a recurring glossary gap; proposed wording: समूह सहजीकरण. Self-help resources is ordinary resource provision, not a named clinical intervention."
     },
     {
       "id": "MAN-18-0016",
@@ -325,7 +325,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General safe-access guidance drafted; safety and inclusion review pending. Safe space is a recurring glossary gap; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. SOGIESC is retained unchanged."
+      "note": "General safe-access guidance drafted; safety and inclusion review pending. Safe space is a recurring glossary gap; proposed wording: सुरक्षित स्थान. SOGIESC is retained unchanged."
     },
     {
       "id": "MAN-18-0018",
@@ -342,7 +342,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Social supports is a recurring glossary gap; proposed ordinary wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Social supports is a recurring glossary gap; proposed ordinary wording: सामाजिक सहयोग."
     },
     {
       "id": "MAN-18-0019",
@@ -365,7 +365,7 @@
         "T364"
       ],
       "flags": [],
-      "note": "General referral guidance drafted; safety review pending. [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] reuses wording present in the supplied unreviewed activity 3.10 candidate, not newly coined clinical terminology."
+      "note": "General referral guidance drafted; safety review pending. मानसिक स्वास्थ्य सेवा reuses wording present in the supplied unreviewed activity 3.10 candidate, not newly coined clinical terminology."
     },
     {
       "id": "MAN-18-0020",
@@ -414,7 +414,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Recurring glossary gaps: community-led = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; support mechanisms = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. CBOs is retained unchanged."
+      "note": "Recurring glossary gaps: community-led = समुदायको नेतृत्वमा सञ्चालित; support mechanisms = सहयोग संयन्त्रहरू. CBOs is retained unchanged."
     },
     {
       "id": "MAN-18-0023",

@@ -314,6 +314,7 @@ function whoForm(){const w=who()||{};
   <label>Acknowledge me by<select name="credit"><option value="name">my name</option><option value="org"${w.credit==='org'?' selected':''}>my organisation only</option><option value="none"${w.credit==='none'?' selected':''}>do not list me</option></select></label>
   <button class="btn pri">Save</button></form></div>`}
 
+const SECLABEL={frontmatter:'Opening pages'}; // internal section names shown in reader words (24 Nov 2026)
 function rowHtml(r,m){
  const k=KIND[r.type], st=m[r.id];
  const kind=k?`<span class="kind k-${r.type}">${k[0]}</span>`:'';
@@ -326,7 +327,7 @@ function rowHtml(r,m){
  else if(st) pr=`<span class="state ${st.v==='ok'?'ok':'ch'}">${st.v==='ok'?'✓ Correct':'✎ Correction saved'}</span><button class="lnk" data-act="redo">Change</button>`;
  else pr=`<div class="btns"><button class="btn ok" data-act="ok">✓ Correct</button><button class="btn ch" data-act="edit">✎ Suggest change</button></div>`;
  return `<tr data-row="${esc(r.id)}" class="${(r.flags||[]).length?'flag':''}${st?' done':''}"><td class="id"><b>${esc(r.id)}</b>p. ${esc(r.page)} ${kind}</td>
-  <td class="en">${r.section?`<span class="sec">${esc(r.section)}</span>`:''}${esc(r.en)}</td><td class="ne">${ne}</td><td class="pr">${pr}</td></tr>`}
+  <td class="en">${r.section?`<span class="sec">${esc(SECLABEL[r.section]||r.section)}</span>`:''}${esc(r.en)}</td><td class="ne">${ne}</td><td class="pr">${pr}</td></tr>`}
 
 function table(rows){
  const m=mine(), q=VIEW.q.toLowerCase();

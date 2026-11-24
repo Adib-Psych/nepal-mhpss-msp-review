@@ -49,7 +49,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: workshop survey = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Not added to the frozen glossary."
+      "note": "Proposed recurring term: workshop survey = कार्यशाला सर्वेक्षण. Not added to the frozen glossary."
     },
     {
       "id": "FAC-22-0003",
@@ -84,7 +84,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term workshop survey = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] in a pre-workshop heading. The frozen glossary is unchanged."
+      "note": "Uses the proposed recurring term workshop survey = कार्यशाला सर्वेक्षण in a pre-workshop heading. The frozen glossary is unchanged."
     },
     {
       "id": "FAC-22-0005",
@@ -802,7 +802,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed standalone glossary entry: coordination = [Nepali wording recorded in terminology evidence], consistent with the supplied activity names. The frozen glossary is unchanged."
+      "note": "Proposed standalone glossary entry: coordination = समन्वय, consistent with the supplied activity names. The frozen glossary is unchanged."
     },
     {
       "id": "FAC-22-0058",
@@ -1450,7 +1450,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Recurring term absent from the supplied glossary: advocacy / advocate; proposed wording: [Nepali wording recorded in terminology evidence] / [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Recurring term absent from the supplied glossary: advocacy / advocate; proposed wording: पैरवी / पैरवी गर्ने."
     },
     {
       "id": "FAC-22-0101",
@@ -1525,7 +1525,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Recurring survey label is absent from the supplied glossary; proposed wording: [Nepali wording recorded in terminology evidence]."
+      "note": "Recurring survey label is absent from the supplied glossary; proposed wording: सर्वेक्षण."
     },
     {
       "id": "FAC-22-0106",
@@ -1600,7 +1600,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring advocacy wording [Nepali wording recorded in terminology evidence]; no glossary entry has been changed."
+      "note": "Uses the proposed recurring advocacy wording पैरवी; no glossary entry has been changed."
     },
     {
       "id": "FAC-22-0111",
@@ -2806,7 +2806,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Implementation recurs but has no supplied glossary entry. Proposed technical wording: [Nepali wording recorded in terminology evidence]; the frozen glossary is unchanged."
+      "note": "Implementation recurs but has no supplied glossary entry. Proposed technical wording: कार्यान्वयन; the frozen glossary is unchanged."
     },
     {
       "id": "FAC-22-0197",
@@ -2943,7 +2943,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses [Nepali wording recorded in terminology evidence] for the recurring implementation concept; this technical wording is proposed separately and does not amend the frozen glossary."
+      "note": "Uses कार्यान्वयन for the recurring implementation concept; this technical wording is proposed separately and does not amend the frozen glossary."
     }
   ]
 }

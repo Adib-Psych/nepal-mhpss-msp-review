@@ -102,7 +102,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Clinical phrases reuse the supplied unreviewed candidates T157 and T005. A standalone glossary entry for advocacy is missing; propose [Nepali wording recorded in terminology evidence], as already used within T098."
+      "note": "Clinical phrases reuse the supplied unreviewed candidates T157 and T005. A standalone glossary entry for advocacy is missing; propose पैरवी, as already used within T098."
     },
     {
       "id": "MAN-15-0006",
@@ -159,7 +159,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Standalone glossary entries are missing for advocacy and decision-makers; propose [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence] respectively. The advocacy proposal follows the wording already supplied within T098. The original Nepali and back-translation present increased resources as a separate possibility rather than an outcome that orientation and advocacy can lead to. The revision restores that causal connection."
+      "note": "Standalone glossary entries are missing for advocacy and decision-makers; propose पैरवी and निर्णयकर्ता respectively. The advocacy proposal follows the wording already supplied within T098. The original Nepali and back-translation present increased resources as a separate possibility rather than an outcome that orientation and advocacy can lead to. The revision restores that causal connection."
     },
     {
       "id": "MAN-15-0009",
@@ -178,7 +178,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "A standalone glossary entry for advocacy is missing; propose [Nepali wording recorded in terminology evidence], following T098."
+      "note": "A standalone glossary entry for advocacy is missing; propose पैरवी, following T098."
     },
     {
       "id": "MAN-15-0010",
@@ -341,7 +341,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "A standalone glossary entry for advocacy is missing; propose [Nepali wording recorded in terminology evidence], following T098. MHPSS TWGs is retained without adding an expansion absent from the source."
+      "note": "A standalone glossary entry for advocacy is missing; propose पैरवी, following T098. MHPSS TWGs is retained without adding an expansion absent from the source."
     },
     {
       "id": "MAN-15-0019",
@@ -396,7 +396,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "A standalone glossary entry for advocacy is missing; propose [Nepali wording recorded in terminology evidence], following T098. CBOS/CSOs is preserved exactly as supplied, without normalization. 'Organizations for persons with disabilities' becomes organizations of persons with disabilities. The revision restores the beneficiary relationship without asserting membership or leadership; CBOS/CSOs remains unchanged."
+      "note": "A standalone glossary entry for advocacy is missing; propose पैरवी, following T098. CBOS/CSOs is preserved exactly as supplied, without normalization. 'Organizations for persons with disabilities' becomes organizations of persons with disabilities. The revision restores the beneficiary relationship without asserting membership or leadership; CBOS/CSOs remains unchanged."
     },
     {
       "id": "MAN-15-0022",

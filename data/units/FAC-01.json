@@ -61,7 +61,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: workshop = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: workshop = कार्यशाला."
     },
     {
       "id": "FAC-01-0003",
@@ -97,7 +97,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: workshop = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: workshop = कार्यशाला."
     },
     {
       "id": "FAC-01-0005",
@@ -176,7 +176,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]. Clinical labels reuse only supplied unreviewed candidates. These are contents headings, not clinical instructions."
+      "note": "Glossary proposal: module = मोड्युल. Clinical labels reuse only supplied unreviewed candidates. These are contents headings, not clinical instructions."
     },
     {
       "id": "FAC-01-0010",
@@ -198,7 +198,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]. Navigating refers to finding one's way through the MSP resource."
+      "note": "Glossary proposal: module = मोड्युल. Navigating refers to finding one's way through the MSP resource."
     },
     {
       "id": "FAC-01-0011",
@@ -219,7 +219,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposals: module = [Nepali wording recorded in terminology evidence]; coordination = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposals: module = मोड्युल; coordination = समन्वय."
     },
     {
       "id": "FAC-01-0012",
@@ -240,7 +240,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: module = मोड्युल."
     },
     {
       "id": "FAC-01-0013",
@@ -261,7 +261,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: module = मोड्युल."
     },
     {
       "id": "FAC-01-0014",
@@ -285,7 +285,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]. AoRs is preserved exactly. Clinical labels reuse supplied unreviewed candidates T157 and T005."
+      "note": "Glossary proposal: module = मोड्युल. AoRs is preserved exactly. Clinical labels reuse supplied unreviewed candidates T157 and T005."
     },
     {
       "id": "FAC-01-0015",
@@ -303,7 +303,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: module = मोड्युल."
     },
     {
       "id": "FAC-01-0016",
@@ -326,7 +326,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposals: module = [Nepali wording recorded in terminology evidence]; scenario challenge = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; participants = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposals: module = मोड्युल; scenario challenge = परिदृश्यमा आधारित चुनौती; participants = सहभागीहरू."
     },
     {
       "id": "FAC-01-0017",
@@ -345,7 +345,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]. The optional status applies to Module 9 as in the source."
+      "note": "Glossary proposal: module = मोड्युल. The optional status applies to Module 9 as in the source."
     },
     {
       "id": "FAC-01-0018",
@@ -374,7 +374,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposals: workshop = [Nepali wording recorded in terminology evidence]; scenario challenge = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. These are annex titles, not survey items or response options. All annex numbers, page numbers and durations are retained."
+      "note": "Glossary proposals: workshop = कार्यशाला; scenario challenge = परिदृश्यमा आधारित चुनौती. These are annex titles, not survey items or response options. All annex numbers, page numbers and durations are retained."
     },
     {
       "id": "FAC-01-0019",
@@ -406,7 +406,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: learning objectives = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: learning objectives = सिकाइका उद्देश्यहरू."
     },
     {
       "id": "FAC-01-0021",
@@ -429,7 +429,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: workshop = [Nepali wording recorded in terminology evidence]. T001 is reused verbatim as a supplied unreviewed candidate; this is a description of workshop materials."
+      "note": "Glossary proposal: workshop = कार्यशाला. T001 is reused verbatim as a supplied unreviewed candidate; this is a description of workshop materials."
     },
     {
       "id": "FAC-01-0022",
@@ -450,7 +450,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: module = मोड्युल."
     },
     {
       "id": "FAC-01-0023",
@@ -469,7 +469,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposals: workshop = [Nepali wording recorded in terminology evidence]; participants = [Nepali wording recorded in terminology evidence]. The sentence introduces the following four bullets."
+      "note": "Glossary proposals: workshop = कार्यशाला; participants = सहभागीहरू. The sentence introduces the following four bullets."
     },
     {
       "id": "FAC-01-0024",
@@ -487,7 +487,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: coordination = [Nepali wording recorded in terminology evidence]. This learning objective is not the exact activity-list title."
+      "note": "Glossary proposal: coordination = समन्वय. This learning objective is not the exact activity-list title."
     },
     {
       "id": "FAC-01-0025",
@@ -552,7 +552,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposals: learning objectives = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; module = [Nepali wording recorded in terminology evidence]; participants = [Nepali wording recorded in terminology evidence]. The back-translation strengthens the source recommendation 'should be tailored' to the requirement 'must be adapted'. The revision restores recommendation strength while retaining the specific context and needs of targeted participants."
+      "note": "Glossary proposals: learning objectives = सिकाइका उद्देश्यहरू; module = मोड्युल; participants = सहभागीहरू. The back-translation strengthens the source recommendation 'should be tailored' to the requirement 'must be adapted'. The revision restores recommendation strength while retaining the specific context and needs of targeted participants."
     },
     {
       "id": "FAC-01-0029",
@@ -569,7 +569,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: participants = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: participants = सहभागीहरू."
     },
     {
       "id": "FAC-01-0030",
@@ -591,7 +591,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: workshop = [Nepali wording recorded in terminology evidence]. AoR is preserved exactly."
+      "note": "Glossary proposal: workshop = कार्यशाला. AoR is preserved exactly."
     },
     {
       "id": "FAC-01-0031",
@@ -609,7 +609,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: participants = [Nepali wording recorded in terminology evidence]. Intervention is used here in the general programme sense; no specific clinical intervention or clinical wording is introduced. The limitation on participant competence is retained."
+      "note": "Glossary proposal: participants = सहभागीहरू. Intervention is used here in the general programme sense; no specific clinical intervention or clinical wording is introduced. The limitation on participant competence is retained."
     },
     {
       "id": "FAC-01-0032",
@@ -630,7 +630,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]. Navigating refers to locating information within the MSP, not implementing a clinical intervention."
+      "note": "Glossary proposal: module = मोड्युल. Navigating refers to locating information within the MSP, not implementing a clinical intervention."
     },
     {
       "id": "FAC-01-0033",
@@ -1663,7 +1663,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the separate proposal for the recurring term 'module'. The source specifies the 'standard MSP workshop'; [Nepali wording recorded in terminology evidence] and the back-translation 'regular' can instead imply a routine or recurring workshop. Replaced [Nepali wording recorded in terminology evidence] with [Nepali wording recorded in terminology evidence] to preserve 'standard'."
+      "note": "Uses the separate proposal for the recurring term 'module'. The source specifies the 'standard MSP workshop'; नियमित and the back-translation 'regular' can instead imply a routine or recurring workshop. Replaced नियमित with मानक to preserve 'standard'."
     },
     {
       "id": "FAC-01-0096",
@@ -2268,7 +2268,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: thumbnail = [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Proposed recurring term: thumbnail = लघुचित्र; glossary review pending."
     },
     {
       "id": "FAC-01-0131",
@@ -2314,7 +2314,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Proposed recurring term: learning activity = सिकाइ गतिविधि; glossary review pending."
     },
     {
       "id": "FAC-01-0134",
@@ -2331,7 +2331,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring terms: learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; facilitation = [Nepali wording recorded in terminology evidence]. Glossary review pending."
+      "note": "Proposed recurring terms: learning activity = सिकाइ गतिविधि; facilitation = सहजीकरण. Glossary review pending."
     },
     {
       "id": "FAC-01-0135",
@@ -2348,7 +2348,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring terms learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Uses proposed recurring terms learning activity = सिकाइ गतिविधि and facilitation = सहजीकरण; glossary review pending."
     },
     {
       "id": "FAC-01-0136",
@@ -2365,7 +2365,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring terms learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Uses proposed recurring terms learning activity = सिकाइ गतिविधि and facilitation = सहजीकरण; glossary review pending."
     },
     {
       "id": "FAC-01-0137",
@@ -2383,7 +2383,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring term thumbnail = [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Uses proposed recurring term thumbnail = लघुचित्र; glossary review pending."
     },
     {
       "id": "FAC-01-0138",
@@ -2400,7 +2400,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring term thumbnail = [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Uses proposed recurring term thumbnail = लघुचित्र; glossary review pending."
     },
     {
       "id": "FAC-01-0139",
@@ -2432,7 +2432,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring term facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Uses proposed recurring term facilitation = सहजीकरण; glossary review pending."
     },
     {
       "id": "FAC-01-0141",
@@ -2450,7 +2450,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: online facilitation = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Proposed recurring term: online facilitation = अनलाइन सहजीकरण; glossary review pending."
     },
     {
       "id": "FAC-01-0142",
@@ -2468,7 +2468,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring terms online facilitation = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Uses proposed recurring terms online facilitation = अनलाइन सहजीकरण and learning activity = सिकाइ गतिविधि; glossary review pending."
     },
     {
       "id": "FAC-01-0143",
@@ -2485,7 +2485,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring terms learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Uses proposed recurring terms learning activity = सिकाइ गतिविधि and facilitation = सहजीकरण; glossary review pending."
     },
     {
       "id": "FAC-01-0144",
@@ -2502,7 +2502,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring terms learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Uses proposed recurring terms learning activity = सिकाइ गतिविधि and facilitation = सहजीकरण; glossary review pending."
     },
     {
       "id": "FAC-01-0145",
@@ -2519,7 +2519,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: module = [Nepali wording recorded in terminology evidence]. Also uses proposed learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Proposed recurring term: module = मोड्युल. Also uses proposed learning activity = सिकाइ गतिविधि; glossary review pending."
     },
     {
       "id": "FAC-01-0146",
@@ -2538,7 +2538,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring terms learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending. The back-translation changes 'should choose' to 'must select'. The revision retains the recommendation and both considerations: participants' training needs and available workshop time."
+      "note": "Uses proposed recurring terms learning activity = सिकाइ गतिविधि and facilitation = सहजीकरण; glossary review pending. The back-translation changes 'should choose' to 'must select'. The revision retains the recommendation and both considerations: participants' training needs and available workshop time."
     },
     {
       "id": "FAC-01-0147",
@@ -2586,7 +2586,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring term module = [Nepali wording recorded in terminology evidence]; glossary review pending."
+      "note": "Uses proposed recurring term module = मोड्युल; glossary review pending."
     },
     {
       "id": "FAC-01-0150",
@@ -2701,7 +2701,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "Uses proposed recurring term facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending. The original Nepali and back-translation suggest that MSP itself puts activities into implementation. The revision preserves the enabling sense of 'operationalizes' without assigning implementation to the package itself. The technical rendering of 'operationalizes' remains pending review. The back-translation changes the MSP's role from operationalizing existing MHPSS activities to making them implementable, expressing implementation readiness rather than making the activities operational."
+      "note": "Uses proposed recurring term facilitation = सहजीकरण; glossary review pending. The original Nepali and back-translation suggest that MSP itself puts activities into implementation. The revision preserves the enabling sense of 'operationalizes' without assigning implementation to the package itself. The technical rendering of 'operationalizes' remains pending review. The back-translation changes the MSP's role from operationalizing existing MHPSS activities to making them implementable, expressing implementation readiness rather than making the activities operational."
     }
   ]
 }

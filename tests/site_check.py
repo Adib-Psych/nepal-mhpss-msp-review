@@ -6,6 +6,8 @@
 4. No horizontal page scroll on a phone (390 px) or tablet (768 px).
 5. Running text of 120+ characters fills its container at 1440 px (no narrow measure).
 6. Row section labels in the English column stay small (24 Nov 2026: .sec card style leaked into them).
+7. Reviewer notes quote the Nepali wording, never a stand-in (24 Nov 2026: 588 notes hid the proposed term).
+8. No internal section name ("frontmatter") is shown as a row label (24 Nov 2026).
 Usage: python3 tests/site_check.py [base_url]   (default http://localhost:8765/)
 """
 import json, os, sys
@@ -22,6 +24,11 @@ for d in site['docs']:
         p = os.path.join(ROOT, 'data/units', u + '.json')
         if not os.path.exists(p): fails.append(f'{d["id"]}: unit file {u}.json missing'); continue
         if json.load(open(p, encoding='utf-8')).get('contract') != 'msp-unit/v1': fails.append(f'{u}: not contract msp-unit/v1')
+import re
+STANDIN = re.compile(r"\[[^\[\]]*(recorded in terminology evidence|Nepali wording|placeholder|redacted)[^\[\]]*\]", re.I)
+for f in sorted(os.listdir(os.path.join(ROOT, 'data/units'))):
+    for r in json.load(open(os.path.join(ROOT, 'data/units', f), encoding='utf-8')).get('rows', []):
+        if STANDIN.search(r.get('note', '')): fails.append(f'{r["id"]}: note hides the Nepali term behind a stand-in')
 pages = ['#board', '#how', '#glossary', '#about'] + [f'#doc/{i}' for i in ids]
 NARROW = """()=>{const o=[];document.querySelectorAll('#main p').forEach(p=>{if(!p.offsetParent)return;const t=p.innerText.trim();if(t.length<120)return;
 const par=p.parentElement,cs=getComputedStyle(par),a=par.clientWidth-parseFloat(cs.paddingLeft)-parseFloat(cs.paddingRight);
@@ -45,6 +52,8 @@ with sync_playwright() as pw:
             pg.goto(BASE + '#doc/MAN'); pg.wait_for_timeout(600)
             tall = pg.evaluate("()=>[...document.querySelectorAll('td.en .sec')].filter(e=>e.getBoundingClientRect().height>40).length")
             if tall: fails.append(f'{tall} row section labels taller than 40px (class collision with .sec cards)')
+            raw = pg.evaluate("()=>[...document.querySelectorAll('td.en .sec')].filter(e=>/^frontmatter$/i.test(e.textContent.trim())).length")
+            if raw: fails.append(f'{raw} row labels show the internal name "frontmatter"')
         fails += [f'{w}px JS error: {e}' for e in errs]
         pg.close()
     b.close()

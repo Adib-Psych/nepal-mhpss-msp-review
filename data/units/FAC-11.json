@@ -469,7 +469,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "Ordinary facilitation instructions, not a validated instrument or clinical instruction. AORs is retained exactly; flip chart uses a proposed term pending glossary review. The original renders 'key entry points' as opportunities, omits the uncertainty in 'may have missed,' and uses [Nepali wording recorded in terminology evidence], which can strengthen 'should' to a requirement. The revision restores these distinctions. The technical wording for 'entry points' remains pending terminology review. The explicit recommendation that participants should add missed activities to the flipchart is weakened to a statement that doing so is appropriate."
+      "note": "Ordinary facilitation instructions, not a validated instrument or clinical instruction. AORs is retained exactly; flip chart uses a proposed term pending glossary review. The original renders 'key entry points' as opportunities, omits the uncertainty in 'may have missed,' and uses थप्नुपर्छ, which can strengthen 'should' to a requirement. The revision restores these distinctions. The technical wording for 'entry points' remains pending terminology review. The explicit recommendation that participants should add missed activities to the flipchart is weakened to a statement that doing so is appropriate."
     },
     {
       "id": "FAC-11-0027",
@@ -603,7 +603,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: flipchart = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring term: flipchart = फ्लिपचार्ट."
     },
     {
       "id": "FAC-11-0035",
@@ -649,7 +649,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring terms: flipchart = [Nepali wording recorded in terminology evidence]; plenary = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The final instruction changes 'ask each group to present' into having each group present. The revision restores the request rather than a stronger directive."
+      "note": "Proposed recurring terms: flipchart = फ्लिपचार्ट; plenary = पूर्ण सत्र; implement = कार्यान्वयन गर्नु. The final instruction changes 'ask each group to present' into having each group present. The revision restores the request rather than a stronger directive."
     },
     {
       "id": "FAC-11-0038",
@@ -679,7 +679,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The instruction continues from the preceding heading and is expressed as a complete Nepali sentence. Proposed recurring term: integration = [Nepali wording recorded in terminology evidence]."
+      "note": "The instruction continues from the preceding heading and is expressed as a complete Nepali sentence. Proposed recurring term: integration = एकीकरण."
     },
     {
       "id": "FAC-11-0040",
@@ -700,7 +700,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: integration = [Nepali wording recorded in terminology evidence]. The phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the supplied unreviewed activity 3.10 candidate; this does not constitute clinical validation. Stigma is rendered as an ordinary social concept, not a diagnosis. The comparative 'more people' became 'many people'. Also, 'non-formal' school systems became 'informal', a distinct educational category. Both differences are repaired; the existing clinical wording is unchanged."
+      "note": "Proposed recurring term: integration = एकीकरण. The phrase सामान्य स्वास्थ्य सेवा is reused from the supplied unreviewed activity 3.10 candidate; this does not constitute clinical validation. Stigma is rendered as an ordinary social concept, not a diagnosis. The comparative 'more people' became 'many people'. Also, 'non-formal' school systems became 'informal', a distinct educational category. Both differences are repaired; the existing clinical wording is unchanged."
     },
     {
       "id": "FAC-11-0041",
@@ -800,7 +800,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: workshop = [Nepali wording recorded in terminology evidence]. AoR is retained exactly as supplied."
+      "note": "Proposed recurring term: workshop = कार्यशाला. AoR is retained exactly as supplied."
     },
     {
       "id": "FAC-11-0046",
@@ -820,7 +820,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring terms: workshop = [Nepali wording recorded in terminology evidence]; plenary = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring terms: workshop = कार्यशाला; plenary = पूर्ण सत्र."
     },
     {
       "id": "FAC-11-0047",
@@ -913,7 +913,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring action labels: implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; facilitate = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring action labels: implement = कार्यान्वयन गर्नु; facilitate = सहजीकरण गर्नु."
     },
     {
       "id": "FAC-11-0053",
@@ -945,7 +945,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring action label: implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring action label: implement = कार्यान्वयन गर्नु."
     },
     {
       "id": "FAC-11-0055",
@@ -978,7 +978,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring action labels: implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; facilitate = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring action labels: implement = कार्यान्वयन गर्नु; facilitate = सहजीकरण गर्नु."
     },
     {
       "id": "FAC-11-0057",
@@ -1011,7 +1011,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring action labels: implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; facilitate = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring action labels: implement = कार्यान्वयन गर्नु; facilitate = सहजीकरण गर्नु."
     },
     {
       "id": "FAC-11-0059",
@@ -1044,7 +1044,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring action labels: implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; facilitate = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring action labels: implement = कार्यान्वयन गर्नु; facilitate = सहजीकरण गर्नु."
     },
     {
       "id": "FAC-11-0061",
@@ -1110,7 +1110,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring action label: facilitate = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring action label: facilitate = सहजीकरण गर्नु."
     },
     {
       "id": "FAC-11-0065",
@@ -1141,7 +1141,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: facilitation = [Nepali wording recorded in terminology evidence]. The distinction between implementation and facilitation is retained."
+      "note": "Proposed recurring term: facilitation = सहजीकरण. The distinction between implementation and facilitation is retained."
     },
     {
       "id": "FAC-11-0067",
@@ -1173,7 +1173,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: facilitation = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring term: facilitation = सहजीकरण."
     },
     {
       "id": "FAC-11-0069",
@@ -1206,7 +1206,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: facilitation = [Nepali wording recorded in terminology evidence]. Code 3.13 is retained under both actions, as supplied."
+      "note": "Proposed recurring term: facilitation = सहजीकरण. Code 3.13 is retained under both actions, as supplied."
     },
     {
       "id": "FAC-11-0071",
@@ -1238,7 +1238,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: facilitation = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring term: facilitation = सहजीकरण."
     },
     {
       "id": "FAC-11-0073",
@@ -1256,7 +1256,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: facilitation = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring term: facilitation = सहजीकरण."
     },
     {
       "id": "FAC-11-0074",
@@ -1287,7 +1287,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: breakout rooms = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. English is retained at first occurrence to identify the platform feature."
+      "note": "Proposed recurring term: breakout rooms = छुट्टाछुट्टै समूह छलफल कक्ष. English is retained at first occurrence to identify the platform feature."
     },
     {
       "id": "FAC-11-0076",
@@ -1302,7 +1302,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: breakout rooms = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Both broadcasting instructions and subsequently joining each room remain conditional on platform capability."
+      "note": "Proposed recurring term: breakout rooms = छुट्टाछुट्टै समूह छलफल कक्ष. Both broadcasting instructions and subsequently joining each room remain conditional on platform capability."
     }
   ]
 }

@@ -163,7 +163,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses cited unreviewed clinical candidate T001 within the group name. Proposes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring term emergency settings; the email address is unchanged."
+      "note": "Uses cited unreviewed clinical candidate T001 within the group name. Proposes आपत्कालीन परिस्थिति for the recurring term emergency settings; the email address is unchanged."
     },
     {
       "id": "MAN-01-0011",
@@ -406,7 +406,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the missing sector label Camp Coordination & Camp Management; retains CCCM."
+      "note": "Proposes शिविर समन्वय तथा शिविर व्यवस्थापन for the missing sector label Camp Coordination & Camp Management; retains CCCM."
     },
     {
       "id": "MAN-01-0027",
@@ -427,7 +427,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the missing sector label Shelter & Settlements. Uses the exact supplied WASH and FSL label candidates."
+      "note": "Proposes आश्रय तथा बस्ती for the missing sector label Shelter & Settlements. Uses the exact supplied WASH and FSL label candidates."
     },
     {
       "id": "MAN-01-0028",
@@ -478,7 +478,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses cited unreviewed clinical candidate T001 in the group name. Reuses the proposal [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for emergency settings without changing the frozen glossary."
+      "note": "Uses cited unreviewed clinical candidate T001 in the group name. Reuses the proposal आपत्कालीन परिस्थिति for emergency settings without changing the frozen glossary."
     },
     {
       "id": "MAN-01-0031",

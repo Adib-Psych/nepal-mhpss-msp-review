@@ -86,7 +86,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Preserves the conditional permission, both licensing and qualification, and marker 73. Mental health care wording is drawn from the supplied unreviewed activity 3.10 candidate; T007 is also unreviewed. Proposed technical additions: scalable = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; supervision = [Nepali wording recorded in terminology evidence]."
+      "note": "Preserves the conditional permission, both licensing and qualification, and marker 73. Mental health care wording is drawn from the supplied unreviewed activity 3.10 candidate; T007 is also unreviewed. Proposed technical additions: scalable = विस्तार गर्न सकिने; supervision = सुपरिवेक्षण."
     },
     {
       "id": "MAN-26-0005",
@@ -109,7 +109,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Retains all sectors, all three intervention qualifiers and reference 31. The clinical base phrase is the unreviewed T007 candidate. Proposed technical additions: scalable = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; evidence-based = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Retains all sectors, all three intervention qualifiers and reference 31. The clinical base phrase is the unreviewed T007 candidate. Proposed technical additions: scalable = विस्तार गर्न सकिने; evidence-based = प्रमाणमा आधारित."
     },
     {
       "id": "MAN-26-0006",
@@ -243,7 +243,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Retains the if-needed condition and development/selection, adaptation and translation tasks. T007 supplies the unreviewed clinical phrase. Proposed technical addition: evidence-based = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Retains the if-needed condition and development/selection, adaptation and translation tasks. T007 supplies the unreviewed clinical phrase. Proposed technical addition: evidence-based = प्रमाणमा आधारित."
     },
     {
       "id": "MAN-26-0014",
@@ -278,7 +278,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Training and supervision instruction uses the existing unreviewed T007 phrase, without adding a treatment protocol. Proposed technical addition: supervision = [Nepali wording recorded in terminology evidence]."
+      "note": "Training and supervision instruction uses the existing unreviewed T007 phrase, without adding a treatment protocol. Proposed technical addition: supervision = सुपरिवेक्षण."
     },
     {
       "id": "MAN-26-0016",
@@ -332,7 +332,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Retains qualified MHPSS staff, trained workers, and ongoing follow-up, supervision and support as distinct elements. Proposed technical addition: supervision = [Nepali wording recorded in terminology evidence]. The Nepali and BT attach 'ongoing' only to follow-up, leaving supervision and support without that continuity. The revision explicitly retains ongoing provision across all three elements."
+      "note": "Retains qualified MHPSS staff, trained workers, and ongoing follow-up, supervision and support as distinct elements. Proposed technical addition: supervision = सुपरिवेक्षण. The Nepali and BT attach 'ongoing' only to follow-up, leaving supervision and support without that continuity. The revision explicitly retains ongoing provision across all three elements."
     },
     {
       "id": "MAN-26-0019",
@@ -364,7 +364,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Human translation required. Preserve the exact clinical or consent meaning, including every condition, actor, qualification and number; do not adapt the guidance. Reclassified from protected as workforce-expansion guidance using unreviewed T007. Both competence and supervision remain requirements. Proposed technical addition: supervision = [Nepali wording recorded in terminology evidence]."
+      "note": "Human translation required. Preserve the exact clinical or consent meaning, including every condition, actor, qualification and number; do not adapt the guidance. Reclassified from protected as workforce-expansion guidance using unreviewed T007. Both competence and supervision remain requirements. Proposed technical addition: supervision = सुपरिवेक्षण."
     },
     {
       "id": "MAN-26-0021",
@@ -452,7 +452,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Retains the colon and asterisk. Proposed technical addition: evidence-based = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Retains the colon and asterisk. Proposed technical addition: evidence-based = प्रमाणमा आधारित."
     },
     {
       "id": "MAN-26-0026",
@@ -536,7 +536,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed technical addition: delivery methods = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed technical addition: delivery methods = प्रदान गर्ने विधिहरू."
     },
     {
       "id": "MAN-26-0032",
@@ -602,7 +602,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "T007 is reused verbatim as an unreviewed candidate cited to PRIOR-SUM-29OCT2026 p.2 row 102. The surrounding text is ordinary information about manuals and their location. Proposed recurring document term: manual → [Nepali wording recorded in terminology evidence]; the glossary remains unchanged."
+      "note": "T007 is reused verbatim as an unreviewed candidate cited to PRIOR-SUM-29OCT2026 p.2 row 102. The surrounding text is ordinary information about manuals and their location. Proposed recurring document term: manual → पुस्तिका; the glossary remains unchanged."
     },
     {
       "id": "MAN-26-0036",

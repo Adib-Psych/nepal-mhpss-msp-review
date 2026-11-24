@@ -54,7 +54,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposal for recurring framework: [Nepali wording recorded in terminology evidence]. T001 is reused as an unreviewed candidate from MAN PDF p6 and PRIOR-SUM-29OCT2026 p.1 row 1. The BT strengthens 'should be developed' to 'must be developed'. The revision expresses a recommendation rather than a requirement."
+      "note": "Proposal for recurring framework: रूपरेखा. T001 is reused as an unreviewed candidate from MAN PDF p6 and PRIOR-SUM-29OCT2026 p.1 row 1. The BT strengthens 'should be developed' to 'must be developed'. The revision expresses a recommendation rather than a requirement."
     },
     {
       "id": "MAN-12-0003",
@@ -72,7 +72,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposal for recurring framework: [Nepali wording recorded in terminology evidence]. The BT strengthens 'should be updated' to 'must be updated'. The revision preserves the condition and expresses a recommendation."
+      "note": "Proposal for recurring framework: रूपरेखा. The BT strengthens 'should be updated' to 'must be updated'. The revision preserves the condition and expresses a recommendation."
     },
     {
       "id": "MAN-12-0004",
@@ -92,7 +92,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposals for recurring terms: framework = [Nepali wording recorded in terminology evidence]; indicators = [Nepali wording recorded in terminology evidence]; data collection = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Reference marker 33 is retained."
+      "note": "Proposals for recurring terms: framework = रूपरेखा; indicators = सूचकहरू; data collection = तथ्याङ्क सङ्कलन. Reference marker 33 is retained."
     },
     {
       "id": "MAN-12-0005",
@@ -112,7 +112,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposal for recurring indicator: [Nepali wording recorded in terminology evidence]."
+      "note": "Proposal for recurring indicator: सूचक."
     },
     {
       "id": "MAN-12-0006",
@@ -280,7 +280,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposal for recurring indicator: [Nepali wording recorded in terminology evidence]. Reference marker 34 is retained. The BT narrows each activity's plural 'objectives' to a singular 'objective'. The revision makes the plurality explicit."
+      "note": "Proposal for recurring indicator: सूचक. Reference marker 34 is retained. The BT narrows each activity's plural 'objectives' to a singular 'objective'. The revision makes the plurality explicit."
     },
     {
       "id": "MAN-12-0017",
@@ -297,7 +297,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The bibliographic citation, title, version, website and email are retained exactly; the accompanying guidance is translated. Proposal for recurring framework: [Nepali wording recorded in terminology evidence]."
+      "note": "The bibliographic citation, title, version, website and email are retained exactly; the accompanying guidance is translated. Proposal for recurring framework: रूपरेखा."
     },
     {
       "id": "MAN-12-0018",
@@ -357,7 +357,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General safety guidance, not a verbatim consent declaration; review pending. The phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from supplied activity candidate T099, not newly coined clinical wording. Proposal for recurring data collection: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Reference marker 36 is retained."
+      "note": "General safety guidance, not a verbatim consent declaration; review pending. The phrase आधारभूत मनोसामाजिक सहयोग सीप is reused from supplied activity candidate T099, not newly coined clinical wording. Proposal for recurring data collection: तथ्याङ्क सङ्कलन. Reference marker 36 is retained."
     },
     {
       "id": "MAN-12-0021",
@@ -379,7 +379,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General information-sharing safety guidance; review pending. Proposals for recurring terms: indicator = [Nepali wording recorded in terminology evidence]; technical working group = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. TWGs and AoRs remain unchanged. Removing identifying details does not necessarily make data anonymous. The revision preserves the source's stronger requirement that the shared data be anonymized, rather than merely have identifying details removed."
+      "note": "General information-sharing safety guidance; review pending. Proposals for recurring terms: indicator = सूचक; technical working group = प्राविधिक कार्य समूह. TWGs and AoRs remain unchanged. Removing identifying details does not necessarily make data anonymous. The revision preserves the source's stronger requirement that the shared data be anonymized, rather than merely have identifying details removed."
     },
     {
       "id": "MAN-12-0022",
@@ -417,7 +417,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposal for recurring outcomes: [Nepali wording recorded in terminology evidence]."
+      "note": "Proposal for recurring outcomes: परिणामहरू."
     },
     {
       "id": "MAN-12-0024",
@@ -475,7 +475,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from supplied activity candidate T099 as unreviewed wording. Proposal for recurring outcomes: [Nepali wording recorded in terminology evidence]. The BT strengthens 'should measure' to 'must measure'. The revision expresses a recommendation and retains the possibility that not all checklist actions are needed."
+      "note": "The phrase आधारभूत मनोसामाजिक सहयोग is reused from supplied activity candidate T099 as unreviewed wording. Proposal for recurring outcomes: परिणामहरू. The BT strengthens 'should measure' to 'must measure'. The revision expresses a recommendation and retains the possibility that not all checklist actions are needed."
     },
     {
       "id": "MAN-12-0027",
@@ -511,7 +511,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "Proposals for recurring terms: indicator = [Nepali wording recorded in terminology evidence]; data collection = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; technical working group = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Source forms TWG and MoVs are retained. The BT substitutes 'detailed' for 'comprehensive', losing coverage, and 'formats' for reusable 'templates'. The revision makes comprehensive coverage and template use explicit. The BT refers to the effects of a single programme ('the programme's effects') rather than the source's plural 'impact of programmes'."
+      "note": "Proposals for recurring terms: indicator = सूचक; data collection = तथ्याङ्क सङ्कलन; technical working group = प्राविधिक कार्य समूह. Source forms TWG and MoVs are retained. The BT substitutes 'detailed' for 'comprehensive', losing coverage, and 'formats' for reusable 'templates'. The revision makes comprehensive coverage and template use explicit. The BT refers to the effects of a single programme ('the programme's effects') rather than the source's plural 'impact of programmes'."
     },
     {
       "id": "MAN-12-0029",

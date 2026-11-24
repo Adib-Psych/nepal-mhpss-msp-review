@@ -41,7 +41,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: module = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring term: module = मोड्युल."
     },
     {
       "id": "FAC-17-0002",
@@ -75,7 +75,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term module = [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring term module = मोड्युल."
     },
     {
       "id": "FAC-17-0004",
@@ -127,7 +127,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring short form: Costing Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence], consistent with T020 without adding MSP where absent from the source."
+      "note": "Proposed recurring short form: Costing Tool = लागत अनुमान उपकरण, consistent with T020 without adding MSP where absent from the source."
     },
     {
       "id": "FAC-17-0007",
@@ -157,7 +157,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed short form Costing Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Reclassified as an activity heading rather than a check."
+      "note": "Uses the proposed short form Costing Tool = लागत अनुमान उपकरण. Reclassified as an activity heading rather than a check."
     },
     {
       "id": "FAC-17-0009",
@@ -174,7 +174,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed short form Costing Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed short form Costing Tool = लागत अनुमान उपकरण."
     },
     {
       "id": "FAC-17-0010",
@@ -264,7 +264,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term module = [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring term module = मोड्युल."
     },
     {
       "id": "FAC-17-0016",
@@ -283,7 +283,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed short form Costing Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed short form Costing Tool = लागत अनुमान उपकरण."
     },
     {
       "id": "FAC-17-0017",
@@ -317,7 +317,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed short form Costing Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed short form Costing Tool = लागत अनुमान उपकरण."
     },
     {
       "id": "FAC-17-0019",
@@ -360,7 +360,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Home is retained as the interface label. Proposed recurring spreadsheet term: sheet = [Nepali wording recorded in terminology evidence]. This fragment continues the preceding Begin heading."
+      "note": "Home is retained as the interface label. Proposed recurring spreadsheet term: sheet = कार्यपत्रक. This fragment continues the preceding Begin heading."
     },
     {
       "id": "FAC-17-0022",
@@ -377,7 +377,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring spreadsheet term sheet = [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring spreadsheet term sheet = कार्यपत्रक."
     },
     {
       "id": "FAC-17-0023",
@@ -435,7 +435,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Interface labels are retained in English for identification. Uses the proposed recurring spreadsheet term sheet = [Nepali wording recorded in terminology evidence]; the preceding destination heading is integrated into a complete instruction."
+      "note": "Interface labels are retained in English for identification. Uses the proposed recurring spreadsheet term sheet = कार्यपत्रक; the preceding destination heading is integrated into a complete instruction."
     },
     {
       "id": "FAC-17-0027",
@@ -453,7 +453,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Guidance is retained as the interface label. Uses the proposed recurring spreadsheet term sheet = [Nepali wording recorded in terminology evidence]."
+      "note": "Guidance is retained as the interface label. Uses the proposed recurring spreadsheet term sheet = कार्यपत्रक."
     },
     {
       "id": "FAC-17-0028",

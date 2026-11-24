@@ -303,7 +303,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed coverage wording in a grammatical form appropriate to this list. The source says overlap; [Nepali wording recorded in terminology evidence] and the back-translation instead specify duplication. Overlap need not amount to duplication. Revised to preserve overlap without that narrower implication; technical terminology review remains pending."
+      "note": "Uses the proposed coverage wording in a grammatical form appropriate to this list. The source says overlap; दोहोरोपन and the back-translation instead specify duplication. Overlap need not amount to duplication. Revised to preserve overlap without that narrower implication; technical terminology review remains pending."
     },
     {
       "id": "SLD-13-0018",
@@ -520,7 +520,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposes [Nepali wording recorded in terminology evidence] for default and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for default values; review pending."
+      "note": "Proposes पूर्वनिर्धारित for default and पूर्वनिर्धारित मान for default values; review pending."
     },
     {
       "id": "SLD-13-0032",

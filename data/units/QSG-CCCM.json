@@ -258,7 +258,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring terminology: icon = [Nepali wording recorded in terminology evidence]. The delivery/contribution distinction, both icon colours and footnote marker 1 are retained."
+      "note": "Proposed recurring terminology: icon = प्रतीक. The delivery/contribution distinction, both icon colours and footnote marker 1 are retained."
     },
     {
       "id": "QSG-CCCM-0014",
@@ -276,7 +276,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term icon = [Nepali wording recorded in terminology evidence], which is absent from G-0.1."
+      "note": "Uses the proposed recurring term icon = प्रतीक, which is absent from G-0.1."
     },
     {
       "id": "QSG-CCCM-0015",
@@ -295,7 +295,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term icon = [Nepali wording recorded in terminology evidence], which is absent from G-0.1."
+      "note": "Uses the proposed recurring term icon = प्रतीक, which is absent from G-0.1."
     },
     {
       "id": "QSG-CCCM-0016",
@@ -361,7 +361,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Reclassified as general: this describes sector roles rather than giving safety guidance. Uses the proposed recurring term icon = [Nepali wording recorded in terminology evidence]."
+      "note": "Reclassified as general: this describes sector roles rather than giving safety guidance. Uses the proposed recurring term icon = प्रतीक."
     },
     {
       "id": "QSG-CCCM-0019",
@@ -380,7 +380,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Coping skills and informal support practices are drafted as ordinary nonclinical wording, not as named interventions. Proposed terms: coping skills = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; informal support practices = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Review is pending."
+      "note": "Coping skills and informal support practices are drafted as ordinary nonclinical wording, not as named interventions. Proposed terms: coping skills = कठिनाइको सामना गर्ने सीप; informal support practices = अनौपचारिक सहयोगका अभ्यास. Review is pending."
     },
     {
       "id": "QSG-CCCM-0020",
@@ -404,7 +404,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term icon = [Nepali wording recorded in terminology evidence]. WASH is retained exactly as supplied."
+      "note": "Uses the proposed recurring term icon = प्रतीक. WASH is retained exactly as supplied."
     },
     {
       "id": "QSG-CCCM-0021",
@@ -475,7 +475,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term icon = [Nepali wording recorded in terminology evidence]. The non-prescriptive qualification is retained."
+      "note": "Uses the proposed recurring term icon = प्रतीक. The non-prescriptive qualification is retained."
     },
     {
       "id": "QSG-CCCM-0025",
@@ -1229,7 +1229,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring term: areas of responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. AoRs is retained."
+      "note": "Proposed missing recurring term: areas of responsibility = जिम्मेवारीका क्षेत्रहरू. AoRs is retained."
     },
     {
       "id": "QSG-CCCM-0067",
@@ -1394,7 +1394,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. Proposed missing recurring term: Helpdesk = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. Proposed missing recurring term: Helpdesk = सहायता कक्ष."
     },
     {
       "id": "QSG-CCCM-0078",
@@ -1411,7 +1411,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring term: Helpdesk = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed missing recurring term: Helpdesk = सहायता कक्ष."
     },
     {
       "id": "QSG-CCCM-0079",
@@ -1447,7 +1447,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring term: areas of responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; the row uses the grammatically coordinated form [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed missing recurring term: areas of responsibility = जिम्मेवारीका क्षेत्रहरू; the row uses the grammatically coordinated form जिम्मेवारीका क्षेत्र."
     },
     {
       "id": "QSG-CCCM-0081",

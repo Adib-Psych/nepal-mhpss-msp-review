@@ -87,7 +87,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The environmental stressors are rendered as ordinary pressures, without introducing a diagnostic term. Proposed recurring term: affected populations = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "The environmental stressors are rendered as ordinary pressures, without introducing a diagnostic term. Proposed recurring term: affected populations = प्रभावित जनसमूह."
     },
     {
       "id": "MAN-04-0005",
@@ -238,7 +238,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "T005 is reused as a cited unreviewed candidate. Proposed recurring term: programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "T005 is reused as a cited unreviewed candidate. Proposed recurring term: programming = कार्यक्रम सञ्चालन."
     },
     {
       "id": "MAN-04-0014",
@@ -273,7 +273,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring term programming = कार्यक्रम सञ्चालन."
     },
     {
       "id": "MAN-04-0016",
@@ -326,7 +326,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses affected populations = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Also proposes the recurring term additional actions = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; neither proposal changes the frozen glossary. The source specifies plural checklists for each activity; Nepali and BT reduce these to a single checklist. Restored the plural."
+      "note": "Uses affected populations = प्रभावित जनसमूह. Also proposes the recurring term additional actions = अतिरिक्त कार्यहरू; neither proposal changes the frozen glossary. The source specifies plural checklists for each activity; Nepali and BT reduce these to a single checklist. Restored the plural."
     },
     {
       "id": "MAN-04-0019",
@@ -348,7 +348,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Preserves the 12-month implementation timeframe and the need to continue most activities and actions beyond it. Uses additional actions = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and proposes MSP activities = MSP [Nepali wording recorded in terminology evidence]. BT changes the recommendation that checklists should be reviewed into a requirement that they must be reviewed. Revised that modality while retaining the 12-month timeframe and the need for most activities and actions to continue beyond it."
+      "note": "Preserves the 12-month implementation timeframe and the need to continue most activities and actions beyond it. Uses additional actions = अतिरिक्त कार्यहरू and proposes MSP activities = MSP गतिविधिहरू. BT changes the recommendation that checklists should be reviewed into a requirement that they must be reviewed. Revised that modality while retaining the 12-month timeframe and the need for most activities and actions to continue beyond it."
     },
     {
       "id": "MAN-04-0020",
@@ -366,7 +366,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term MSP activities = MSP [Nepali wording recorded in terminology evidence]. The source introduces recommendations with should; BT strengthens this to must. Restored recommendation strength."
+      "note": "Uses the proposed recurring term MSP activities = MSP गतिविधिहरू. The source introduces recommendations with should; BT strengthens this to must. Restored recommendation strength."
     },
     {
       "id": "MAN-04-0021",
@@ -427,7 +427,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term affected populations = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. This bullet inherits should from the source heading; BT instead states must. Restored recommendation strength while preserving acceptability to affected populations and all individual characteristics listed."
+      "note": "Uses the proposed recurring term affected populations = प्रभावित जनसमूह. This bullet inherits should from the source heading; BT instead states must. Restored recommendation strength while preserving acceptability to affected populations and all individual characteristics listed."
     },
     {
       "id": "MAN-04-0025",
@@ -458,7 +458,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term MSP activities = MSP [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring term MSP activities = MSP गतिविधिहरू."
     },
     {
       "id": "MAN-04-0027",
@@ -495,7 +495,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "T005 is reused as a cited unreviewed candidate. Uses programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Preserves the distinction between the expected response improvements and the stated ultimate result."
+      "note": "T005 is reused as a cited unreviewed candidate. Uses programming = कार्यक्रम सञ्चालन. Preserves the distinction between the expected response improvements and the stated ultimate result."
     },
     {
       "id": "MAN-04-0029",
@@ -515,7 +515,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term MSP activities = MSP [Nepali wording recorded in terminology evidence]. The distinction between MHPSS activities generally and the activities within the MSP is retained. BT strengthens should not be limited to must not be limited. Restored the negative recommendation. Also clarified completeness of the list: the existing Nepali wording can mean detailed or extensive rather than comprehensive."
+      "note": "Uses the proposed recurring term MSP activities = MSP गतिविधिहरू. The distinction between MHPSS activities generally and the activities within the MSP is retained. BT strengthens should not be limited to must not be limited. Restored the negative recommendation. Also clarified completeness of the list: the existing Nepali wording can mean detailed or extensive rather than comprehensive."
     },
     {
       "id": "MAN-04-0030",
@@ -584,7 +584,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "Reclassified as general: this describes multisectoral scope, not safety instructions. T001 is reused verbatim from the cited unreviewed prior candidate, not clinically validated. Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. Source capitalization AORs and footnote marker 2 are preserved. The BT describes interrelation between sectors rather than work that cuts across sectors. The revision makes its application across sectors explicit; technical terminology review remains pending. The BT narrows the named Mine Action area to work related to landmines, omitting its broader explosive-hazard scope."
+      "note": "Reclassified as general: this describes multisectoral scope, not safety instructions. T001 is reused verbatim from the cited unreviewed prior candidate, not clinically validated. Sector is absent from G-0.2; proposed rendering: क्षेत्र. Source capitalization AORs and footnote marker 2 are preserved. The BT describes interrelation between sectors rather than work that cuts across sectors. The revision makes its application across sectors explicit; technical terminology review remains pending. The BT narrows the named Mine Action area to work related to landmines, omitting its broader explosive-hazard scope."
     },
     {
       "id": "MAN-04-0033",
@@ -666,7 +666,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+      "note": "Sector is absent from G-0.2; proposed rendering: क्षेत्र."
     },
     {
       "id": "MAN-04-0038",
@@ -693,7 +693,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Sector and coordinators are absent from G-0.2; proposed renderings: [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence]."
+      "note": "Sector and coordinators are absent from G-0.2; proposed renderings: क्षेत्र and समन्वयकर्ताहरू."
     },
     {
       "id": "MAN-04-0039",
@@ -717,7 +717,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "English document titles are retained alongside draft Nepali renderings for identification. Funding is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. Provides direction is stronger than informs. The revision describes an informational contribution without assigning the MSP a directive role."
+      "note": "English document titles are retained alongside draft Nepali renderings for identification. Funding is absent from G-0.2; proposed rendering: वित्तपोषण. Provides direction is stronger than informs. The revision describes an informational contribution without assigning the MSP a directive role."
     },
     {
       "id": "MAN-04-0040",
@@ -749,7 +749,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Coordinators is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+      "note": "Coordinators is absent from G-0.2; proposed rendering: समन्वयकर्ताहरू."
     },
     {
       "id": "MAN-04-0042",
@@ -766,7 +766,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Implementers is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+      "note": "Implementers is absent from G-0.2; proposed rendering: कार्यान्वयनकर्ताहरू."
     },
     {
       "id": "MAN-04-0043",
@@ -815,7 +815,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. The asterisk is retained. The BT renders Humanitarian Country Teams as generic country-level humanitarian action teams, obscuring the named coordination body. English names are retained to preserve institutional identity; review of the Nepali formal titles remains pending."
+      "note": "Sector is absent from G-0.2; proposed rendering: क्षेत्र. The asterisk is retained. The BT renders Humanitarian Country Teams as generic country-level humanitarian action teams, obscuring the named coordination body. English names are retained to preserve institutional identity; review of the Nepali formal titles remains pending."
     },
     {
       "id": "MAN-04-0046",
@@ -834,7 +834,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Implementers is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+      "note": "Implementers is absent from G-0.2; proposed rendering: कार्यान्वयनकर्ताहरू."
     },
     {
       "id": "MAN-04-0047",
@@ -868,7 +868,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Funding is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+      "note": "Funding is absent from G-0.2; proposed rendering: वित्तपोषण."
     },
     {
       "id": "MAN-04-0049",
@@ -901,7 +901,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Gaps is absent from G-0.2; proposed contextual rendering: [Nepali wording recorded in terminology evidence]."
+      "note": "Gaps is absent from G-0.2; proposed contextual rendering: कमीहरू."
     },
     {
       "id": "MAN-04-0051",
@@ -920,7 +920,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Gaps is absent from G-0.2; proposed contextual rendering: [Nepali wording recorded in terminology evidence]."
+      "note": "Gaps is absent from G-0.2; proposed contextual rendering: कमीहरू."
     },
     {
       "id": "MAN-04-0052",
@@ -982,7 +982,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Funding is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+      "note": "Funding is absent from G-0.2; proposed rendering: वित्तपोषण."
     },
     {
       "id": "MAN-04-0056",
@@ -1007,7 +1007,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. GBV, CP and the asterisk are retained."
+      "note": "Sector is absent from G-0.2; proposed rendering: क्षेत्र. GBV, CP and the asterisk are retained."
     },
     {
       "id": "MAN-04-0057",
@@ -1075,7 +1075,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. Here it denotes a work sector, distinct from geographical area."
+      "note": "Sector is absent from G-0.2; proposed rendering: क्षेत्र. Here it denotes a work sector, distinct from geographical area."
     },
     {
       "id": "MAN-04-0061",
@@ -1114,7 +1114,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. The sentence is split for readability without changing its scope."
+      "note": "Sector is absent from G-0.2; proposed rendering: क्षेत्र. The sentence is split for readability without changing its scope."
     },
     {
       "id": "MAN-04-0063",
@@ -1135,7 +1135,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Reclassified as general: this is a descriptive table reference, not a check. Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+      "note": "Reclassified as general: this is a descriptive table reference, not a check. Sector is absent from G-0.2; proposed rendering: क्षेत्र."
     },
     {
       "id": "MAN-04-0064",
@@ -1833,7 +1833,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The phrase '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is reused from supplied activity 3.2 (T099) as an unreviewed candidate, not newly coined clinical wording. Footnote marker 3 is retained. Standalone entries for basic psychosocial support, MHPSS actors and shelter are proposed separately."
+      "note": "The phrase 'आधारभूत मनोसामाजिक सहयोग' is reused from supplied activity 3.2 (T099) as an unreviewed candidate, not newly coined clinical wording. Footnote marker 3 is retained. Standalone entries for basic psychosocial support, MHPSS actors and shelter are proposed separately."
     },
     {
       "id": "MAN-04-0100",

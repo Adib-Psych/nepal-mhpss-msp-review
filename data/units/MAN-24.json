@@ -88,7 +88,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Health facilities is absent as a standalone glossary entry; proposed wording is [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Mental health service wording reuses the supplied T107 candidate."
+      "note": "Health facilities is absent as a standalone glossary entry; proposed wording is स्वास्थ्य संस्थाहरू. Mental health service wording reuses the supplied T107 candidate."
     },
     {
       "id": "MAN-24-0005",
@@ -273,7 +273,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Human translation required. Preserve the exact clinical or consent meaning, including every condition, actor, qualification and number; do not adapt the guidance. Reclassified as ordinary service-planning guidance, not a clinical procedure. SRH is retained without expansion. Proposed missing recurring terms are health facilities: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and health care providers: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Mental health service wording reuses T107. Health service points is narrowed to health service centres, although the source examples include services as well as facility types. The revision restores service points and types of health facilities. The service-point terminology remains pending technical review."
+      "note": "Human translation required. Preserve the exact clinical or consent meaning, including every condition, actor, qualification and number; do not adapt the guidance. Reclassified as ordinary service-planning guidance, not a clinical procedure. SRH is retained without expansion. Proposed missing recurring terms are health facilities: स्वास्थ्य संस्थाहरू and health care providers: स्वास्थ्य सेवा प्रदायक. Mental health service wording reuses T107. Health service points is narrowed to health service centres, although the source examples include services as well as facility types. The revision restores service points and types of health facilities. The service-point terminology remains pending technical review."
     },
     {
       "id": "MAN-24-0016",
@@ -406,7 +406,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Mental health specialist recurs but lacks a standalone glossary entry; proposed wording is [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. This denotes the professional role, not a newly translated clinical intervention."
+      "note": "Mental health specialist recurs but lacks a standalone glossary entry; proposed wording is मानसिक स्वास्थ्य विशेषज्ञ. This denotes the professional role, not a newly translated clinical intervention."
     },
     {
       "id": "MAN-24-0023",
@@ -483,7 +483,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General referral guidance drafted for safety review. Preserves both directions of referral, all listed sectors and services, and the appropriateness condition for traditional healers and faith leaders. Missing recurring role terms are proposed as mental health specialist: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and health care providers: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "General referral guidance drafted for safety review. Preserves both directions of referral, all listed sectors and services, and the appropriateness condition for traditional healers and faith leaders. Missing recurring role terms are proposed as mental health specialist: मानसिक स्वास्थ्य विशेषज्ञ and health care providers: स्वास्थ्य सेवा प्रदायक."
     },
     {
       "id": "MAN-24-0027",

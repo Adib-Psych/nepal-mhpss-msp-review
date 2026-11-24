@@ -95,7 +95,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring standalone term 'programme' is not supplied in the glossary; proposed nonclinical wording: [Nepali wording recorded in terminology evidence]."
+      "note": "The recurring standalone term 'programme' is not supplied in the glossary; proposed nonclinical wording: कार्यक्रम."
     },
     {
       "id": "SLD-07-0006",
@@ -112,7 +112,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed nonclinical wording [Nepali wording recorded in terminology evidence] for the recurring standalone term 'programme'; the glossary remains unchanged. The existing wording expresses enabling preparation of an outline rather than ensuring the design of an effective programme. The revision restores the assurance and programme-design meaning."
+      "note": "Uses the proposed nonclinical wording कार्यक्रम for the recurring standalone term 'programme'; the glossary remains unchanged. The existing wording expresses enabling preparation of an outline rather than ensuring the design of an effective programme. The revision restores the assurance and programme-design meaning."
     },
     {
       "id": "SLD-07-0007",
@@ -189,7 +189,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed nonclinical wording [Nepali wording recorded in terminology evidence] for the recurring standalone term 'programme'; the glossary remains unchanged."
+      "note": "Uses the proposed nonclinical wording कार्यक्रम for the recurring standalone term 'programme'; the glossary remains unchanged."
     },
     {
       "id": "SLD-07-0012",
@@ -271,7 +271,7 @@
         "T231"
       ],
       "flags": [],
-      "note": "PTSD is retained unchanged; only the surrounding nonclinical wording is drafted. [Nepali wording recorded in terminology evidence] can imply formal accreditation or authorization, which 'recognized experts' does not establish. The revision preserves recognition of expertise without adding credentialing."
+      "note": "PTSD is retained unchanged; only the surrounding nonclinical wording is drafted. मान्यताप्राप्त can imply formal accreditation or authorization, which 'recognized experts' does not establish. The revision preserves recognition of expertise without adding credentialing."
     },
     {
       "id": "SLD-07-0017",
@@ -351,7 +351,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed nonclinical wording [Nepali wording recorded in terminology evidence] for the recurring standalone term 'programme'; the glossary remains unchanged."
+      "note": "Uses the proposed nonclinical wording कार्यक्रम for the recurring standalone term 'programme'; the glossary remains unchanged."
     }
   ]
 }

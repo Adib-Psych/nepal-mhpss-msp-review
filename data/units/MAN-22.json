@@ -292,7 +292,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Clinical wording reuses unreviewed candidates T157 and T005. Proposals for recurring nonclinical terms: facilitators = [Nepali wording recorded in terminology evidence]; supervision = [Nepali wording recorded in terminology evidence]; capacity building = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. These are not additions to G-0.2."
+      "note": "Clinical wording reuses unreviewed candidates T157 and T005. Proposals for recurring nonclinical terms: facilitators = सहजकर्ता; supervision = सुपरिवेक्षण; capacity building = क्षमता विकास. These are not additions to G-0.2."
     },
     {
       "id": "MAN-22-0015",
@@ -313,7 +313,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Clinical wording reuses unreviewed candidates T157 and T005. Proposed recurring nonclinical term: capacity building = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; not added to G-0.2. Mentoring is reduced to unspecified guidance. The revision specifies guidance from an experienced person to retain the mentoring component."
+      "note": "Clinical wording reuses unreviewed candidates T157 and T005. Proposed recurring nonclinical term: capacity building = क्षमता विकास; not added to G-0.2. Mentoring is reduced to unspecified guidance. The revision specifies guidance from an experienced person to retain the mentoring component."
     },
     {
       "id": "MAN-22-0016",
@@ -403,7 +403,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring nonclinical terms: facilitators = [Nepali wording recorded in terminology evidence]; supervision = [Nepali wording recorded in terminology evidence]. Neither is added to G-0.2."
+      "note": "Proposed recurring nonclinical terms: facilitators = सहजकर्ता; supervision = सुपरिवेक्षण. Neither is added to G-0.2."
     },
     {
       "id": "MAN-22-0021",
@@ -423,7 +423,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Reclassified as an ordinary personnel definition, not a clinical check. The citation is retained verbatim. Proposed recurring nonclinical term: facilitators = [Nepali wording recorded in terminology evidence]; not added to G-0.2."
+      "note": "Reclassified as an ordinary personnel definition, not a clinical check. The citation is retained verbatim. Proposed recurring nonclinical term: facilitators = सहजकर्ता; not added to G-0.2."
     },
     {
       "id": "MAN-22-0022",
@@ -481,7 +481,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Drafted as an ordinary educational instruction, not a clinical intervention. Proposed missing term: social and emotional learning = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The complete T070 phrase is not used because 'other' modifies education personnel."
+      "note": "Drafted as an ordinary educational instruction, not a clinical intervention. Proposed missing term: social and emotional learning = सामाजिक तथा भावनात्मक सिकाइ. The complete T070 phrase is not used because 'other' modifies education personnel."
     },
     {
       "id": "MAN-22-0025",
@@ -498,7 +498,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing term: social and emotional learning = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Footnote marker 57 is retained."
+      "note": "Proposed missing term: social and emotional learning = सामाजिक तथा भावनात्मक सिकाइ. Footnote marker 57 is retained."
     },
     {
       "id": "MAN-22-0026",
@@ -571,7 +571,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring term: learning spaces = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Activity reference 3.4 is retained without inserting its activity title."
+      "note": "Proposed missing recurring term: learning spaces = सिकाइ स्थलहरू. Activity reference 3.4 is retained without inserting its activity title."
     },
     {
       "id": "MAN-22-0030",
@@ -659,7 +659,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring terms: learning spaces = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; MHPSS focal point = MHPSS [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Number 26 is retained. The source heading has plural focal points; the BT renders a singular contact person. The revision makes the plurality explicit."
+      "note": "Proposed missing recurring terms: learning spaces = सिकाइ स्थलहरू; MHPSS focal point = MHPSS सम्पर्क व्यक्ति. Number 26 is retained. The source heading has plural focal points; the BT renders a singular contact person. The revision makes the plurality explicit."
     },
     {
       "id": "MAN-22-0035",
@@ -697,7 +697,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General role-allocation and referral guidance; safety review pending. Proposed missing recurring term: MHPSS focal point = MHPSS [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The possible need to review and adjust existing workload and responsibilities is retained."
+      "note": "General role-allocation and referral guidance; safety review pending. Proposed missing recurring term: MHPSS focal point = MHPSS सम्पर्क व्यक्ति. The possible need to review and adjust existing workload and responsibilities is retained."
     },
     {
       "id": "MAN-22-0037",
@@ -730,7 +730,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring term: learning spaces = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The source's country-level statement is retained without adding local examples."
+      "note": "Proposed missing recurring term: learning spaces = सिकाइ स्थलहरू. The source's country-level statement is retained without adding local examples."
     },
     {
       "id": "MAN-22-0039",

@@ -101,7 +101,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring nonclinical rendering: stressors = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. This proposal does not amend G-0.2."
+      "note": "Proposed recurring nonclinical rendering: stressors = दबाबका कारकहरू. This proposal does not amend G-0.2."
     },
     {
       "id": "MAN-13-0007",
@@ -268,7 +268,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring nonclinical rendering: work-related stressors = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. This proposal does not amend G-0.2."
+      "note": "Proposed recurring nonclinical rendering: work-related stressors = कामसँग सम्बन्धित दबाबका कारकहरू. This proposal does not amend G-0.2."
     },
     {
       "id": "MAN-13-0017",
@@ -285,7 +285,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring ordinary support terms: self-care = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; peer-to-peer support = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. These are not names of clinical treatments and do not amend G-0.2. The draft lists support services and MHPSS services separately rather than explicitly identifying MHPSS services as included within available support services. The revision restores that relationship."
+      "note": "Proposed recurring ordinary support terms: self-care = आफ्नो हेरचाह; peer-to-peer support = सहकर्मीबीचको सहयोग. These are not names of clinical treatments and do not amend G-0.2. The draft lists support services and MHPSS services separately rather than explicitly identifying MHPSS services as included within available support services. The revision restores that relationship."
     },
     {
       "id": "MAN-13-0018",
@@ -316,7 +316,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring nonclinical rendering: stressors = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The confidentiality instruction is operational guidance, not a verbatim safeguarding declaration."
+      "note": "Proposed recurring nonclinical rendering: stressors = दबाबका कारकहरू. The confidentiality instruction is operational guidance, not a verbatim safeguarding declaration."
     },
     {
       "id": "MAN-13-0020",
@@ -340,7 +340,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Basic psychosocial support skills reuses the exact wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] from supplied activity 3.2, T099, as an unreviewed candidate. Proposed recurring ordinary term: self-care = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary unchanged."
+      "note": "Basic psychosocial support skills reuses the exact wording आधारभूत मनोसामाजिक सहयोग सीप from supplied activity 3.2, T099, as an unreviewed candidate. Proposed recurring ordinary term: self-care = आफ्नो हेरचाह; glossary unchanged."
     },
     {
       "id": "MAN-13-0021",
@@ -414,7 +414,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Drafted as general workplace safety guidance; review pending. Stress and emotional support are not presented as diagnoses or named treatments. Proposed recurring nonclinical rendering: workplace stress = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Footnote marker 39 retained; glossary unchanged."
+      "note": "Drafted as general workplace safety guidance; review pending. Stress and emotional support are not presented as diagnoses or named treatments. Proposed recurring nonclinical rendering: workplace stress = कार्यस्थलको दबाब. Footnote marker 39 retained; glossary unchanged."
     },
     {
       "id": "MAN-13-0025",
@@ -531,7 +531,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "T005 reuses the unreviewed candidate cited to PRIOR-SUM-29OCT2026 p.1 row 58. Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "T005 reuses the unreviewed candidate cited to PRIOR-SUM-29OCT2026 p.1 row 58. Proposed recurring nonclinical term: workforce well-being → जनशक्तिको कल्याण."
     },
     {
       "id": "MAN-13-0032",
@@ -549,7 +549,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; here it occurs alongside mental health."
+      "note": "Proposed recurring nonclinical term: workforce well-being → जनशक्तिको कल्याण; here it occurs alongside mental health."
     },
     {
       "id": "MAN-13-0033",
@@ -612,7 +612,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The back-translation strengthens 'should not' to 'must not' and changes being responsible into being assigned responsibility. The revision preserves the recommendation against holding both responsibilities."
+      "note": "Proposed recurring nonclinical term: workforce well-being → जनशक्तिको कल्याण. The back-translation strengthens 'should not' to 'must not' and changes being responsible into being assigned responsibility. The revision preserves the recommendation against holding both responsibilities."
     },
     {
       "id": "MAN-13-0037",
@@ -633,7 +633,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "The source wording or spacing appears irregular and is preserved; please confirm the intended reading. The source joins 'colleagues.However'; these are treated as separate sentences. Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The back-translation strengthens 'should not be tasked' to 'must not be given responsibility'; the revision restores recommendation strength. The flagged source-spacing issue at 'colleagues.However' remains pending source review; the revision retains the two-sentence reading. The back-translation attributes both support requests and requests for advice on workforce well-being initiatives to colleagues, whereas the source specifies colleagues only as the source of support requests and leaves the requesters of advice unspecified."
+      "note": "The source wording or spacing appears irregular and is preserved; please confirm the intended reading. The source joins 'colleagues.However'; these are treated as separate sentences. Proposed recurring nonclinical term: workforce well-being → जनशक्तिको कल्याण. The back-translation strengthens 'should not be tasked' to 'must not be given responsibility'; the revision restores recommendation strength. The flagged source-spacing issue at 'colleagues.However' remains pending source review; the revision retains the two-sentence reading. The back-translation attributes both support requests and requests for advice on workforce well-being initiatives to colleagues, whereas the source specifies colleagues only as the source of support requests and leaves the requesters of advice unspecified."
     },
     {
       "id": "MAN-13-0038",
@@ -669,7 +669,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Staff counsellors and HR teams are examples of personnel responsible for workforce well-being. The back-translation strengthens 'should' to 'must'; the revision restores recommendation strength and explicitly attaches staff counsellors and HR teams to personnel responsible for workforce well-being."
+      "note": "Proposed recurring nonclinical term: workforce well-being → जनशक्तिको कल्याण. Staff counsellors and HR teams are examples of personnel responsible for workforce well-being. The back-translation strengthens 'should' to 'must'; the revision restores recommendation strength and explicitly attaches staff counsellors and HR teams to personnel responsible for workforce well-being."
     },
     {
       "id": "MAN-13-0040",
@@ -686,7 +686,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring nonclinical term: workforce well-being → जनशक्तिको कल्याण."
     }
   ]
 }

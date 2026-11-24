@@ -653,7 +653,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing sector label: Food Security & Livelihoods = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The trailing 2 is retained as the footnote marker."
+      "note": "Proposed missing sector label: Food Security & Livelihoods = खाद्य सुरक्षा तथा जीविकोपार्जन. The trailing 2 is retained as the footnote marker."
     },
     {
       "id": "QSG-FSL-0036",
@@ -687,7 +687,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing coordination term: cluster = [Nepali wording recorded in terminology evidence]. TWG and FSL are retained without adding expansions absent from the source."
+      "note": "Proposed missing coordination term: cluster = क्लस्टर. TWG and FSL are retained without adding expansions absent from the source."
     },
     {
       "id": "QSG-FSL-0038",
@@ -724,7 +724,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing terms: food security = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; food aid = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The institutional term reuses the cited unreviewed candidate T015; this is not clinical validation."
+      "note": "Proposed missing terms: food security = खाद्य सुरक्षा; food aid = खाद्य सहायता. The institutional term reuses the cited unreviewed candidate T015; this is not clinical validation."
     },
     {
       "id": "QSG-FSL-0040",
@@ -803,7 +803,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed missing sector label Food Security & Livelihoods = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed missing sector label Food Security & Livelihoods = खाद्य सुरक्षा तथा जीविकोपार्जन."
     },
     {
       "id": "QSG-FSL-0044",
@@ -886,7 +886,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The phrase for basic psychosocial support is reused verbatim from the cited unreviewed T099 candidate; the complete T099 label is not used. General identification and referral guidance is drafted, with safety review pending. Proposed missing referral wording: referral = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "The phrase for basic psychosocial support is reused verbatim from the cited unreviewed T099 candidate; the complete T099 label is not used. General identification and referral guidance is drafted, with safety review pending. Proposed missing referral wording: referral = सम्बन्धित सेवामा पठाउने कार्य."
     },
     {
       "id": "QSG-FSL-0048",
@@ -957,7 +957,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing ordinary programme terms: livelihoods = [Nepali wording recorded in terminology evidence]; peer-support groups = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; coping and problem-solving skills = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. These are drafted as general group-support and practical skills wording, not as a named clinical intervention. 'Mutual support groups' omits the peer relationship specified by 'peer-support groups'; mutual support alone does not establish that participants are peers."
+      "note": "Proposed missing ordinary programme terms: livelihoods = जीविकोपार्जन; peer-support groups = आपसी सहयोग समूहहरू; coping and problem-solving skills = कठिनाइको सामना गर्ने र समस्या समाधान गर्ने सीप. These are drafted as general group-support and practical skills wording, not as a named clinical intervention. 'Mutual support groups' omits the peer relationship specified by 'peer-support groups'; mutual support alone does not establish that participants are peers."
     },
     {
       "id": "QSG-FSL-0052",
@@ -1022,7 +1022,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The institutional term reuses the cited unreviewed candidate T015. Proposed missing term: food security = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "The institutional term reuses the cited unreviewed candidate T015. Proposed missing term: food security = खाद्य सुरक्षा."
     },
     {
       "id": "QSG-FSL-0056",
@@ -1087,7 +1087,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing coordination term: Areas of Responsibility (AoRs) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (AoRs). The obligation to coordinate and work jointly across sectors/AoRs is retained."
+      "note": "Proposed missing coordination term: Areas of Responsibility (AoRs) = जिम्मेवारीका क्षेत्रहरू (AoRs). The obligation to coordinate and work jointly across sectors/AoRs is retained."
     },
     {
       "id": "QSG-FSL-0060",

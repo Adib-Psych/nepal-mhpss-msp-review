@@ -523,7 +523,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed glossary additions: migrants = [Nepali wording recorded in terminology evidence]; refugees = [Nepali wording recorded in terminology evidence]; asylum seekers = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. T045 is retained as supplied."
+      "note": "Proposed glossary additions: migrants = प्रवासी; refugees = शरणार्थी; asylum seekers = शरण खोज्ने व्यक्ति. T045 is retained as supplied."
     },
     {
       "id": "MAN-11-0029",
@@ -608,7 +608,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring glossary terms refugees = [Nepali wording recorded in terminology evidence] and migrants = [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring glossary terms refugees = शरणार्थी and migrants = प्रवासी."
     },
     {
       "id": "MAN-11-0034",
@@ -664,7 +664,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring glossary addition: remote implementation = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; contextual verbal form used in the heading."
+      "note": "Proposed recurring glossary addition: remote implementation = दूरस्थ कार्यान्वयन; contextual verbal form used in the heading."
     },
     {
       "id": "MAN-11-0037",
@@ -703,7 +703,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring terms remote implementation = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and remote service delivery = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Follow-up and management are rendered as general service operations, without adding clinical terminology."
+      "note": "Uses proposed recurring terms remote implementation = दूरस्थ कार्यान्वयन and remote service delivery = दूरस्थ रूपमा सेवा प्रदान गर्ने कार्य. Follow-up and management are rendered as general service operations, without adding clinical terminology."
     },
     {
       "id": "MAN-11-0039",
@@ -743,7 +743,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term remote service delivery = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Quarantine is retained as a transliterated public-health term; no clinical diagnosis or treatment wording is introduced."
+      "note": "Uses the proposed recurring term remote service delivery = दूरस्थ रूपमा सेवा प्रदान गर्ने कार्य. Quarantine is retained as a transliterated public-health term; no clinical diagnosis or treatment wording is introduced."
     },
     {
       "id": "MAN-11-0041",

@@ -306,7 +306,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "Reclassified as ordinary community-support programming rather than clinical content. Proposed recurring glossary entries for review: self-help = [Nepali wording recorded in terminology evidence]-[Nepali wording recorded in terminology evidence]; support groups = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The frozen glossary is unchanged. 'Girls' was narrowed to adolescent girls in the instruction about whom to work with. The revision includes younger girls as well as adolescent girls. The source specifies social events, whereas the back-translation specifies social programmes, changing the type of activity to be facilitated."
+      "note": "Reclassified as ordinary community-support programming rather than clinical content. Proposed recurring glossary entries for review: self-help = स्व-सहयोग; support groups = सहयोग समूह. The frozen glossary is unchanged. 'Girls' was narrowed to adolescent girls in the instruction about whom to work with. The revision includes younger girls as well as adolescent girls. The source specifies social events, whereas the back-translation specifies social programmes, changing the type of activity to be facilitated."
     },
     {
       "id": "MAN-23-0018",
@@ -328,7 +328,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Reclassified as programme-development instructions. Uses supplied unreviewed clinical-domain candidates only for the named outcomes. Proposed recurring glossary entry for review: structured activities = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. 'Girls' was narrowed to adolescent girls. The revision preserves the broader age scope in both consultation and activity recipients and makes the source's explicit 'activities for women and girls' relationship explicit."
+      "note": "Reclassified as programme-development instructions. Uses supplied unreviewed clinical-domain candidates only for the named outcomes. Proposed recurring glossary entry for review: structured activities = संरचित गतिविधिहरू. 'Girls' was narrowed to adolescent girls. The revision preserves the broader age scope in both consultation and activity recipients and makes the source's explicit 'activities for women and girls' relationship explicit."
     },
     {
       "id": "MAN-23-0019",
@@ -345,7 +345,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring glossary entry for review: structured activities = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. No structured intervention content has been added."
+      "note": "Proposed recurring glossary entry for review: structured activities = संरचित गतिविधिहरू. No structured intervention content has been added."
     },
     {
       "id": "MAN-23-0020",
@@ -402,7 +402,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the supplied unreviewed mental health and psychosocial well-being candidates. Coping is expressed as an ordinary capacity, not a newly named clinical construct or treatment. SEL remains unexpanded as in the source. Proposed recurring glossary entries for review: support groups = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; self-help = [Nepali wording recorded in terminology evidence]-[Nepali wording recorded in terminology evidence]. 'Women and girls' became women and adolescent girls, excluding younger girls from the stated beneficiaries. The revision restores the source's broader age scope."
+      "note": "Uses the supplied unreviewed mental health and psychosocial well-being candidates. Coping is expressed as an ordinary capacity, not a newly named clinical construct or treatment. SEL remains unexpanded as in the source. Proposed recurring glossary entries for review: support groups = सहयोग समूह; self-help = स्व-सहयोग. 'Women and girls' became women and adolescent girls, excluding younger girls from the stated beneficiaries. The revision restores the source's broader age scope."
     },
     {
       "id": "MAN-23-0022",
@@ -480,7 +480,7 @@
         "T309"
       ],
       "flags": [],
-      "note": "The clinical phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused exactly from the cited unreviewed candidate T007. Training and supervision wording is a draft requiring review. The source requires staff to receive appropriate supervision while providing interventions; 'have received' can imply that past supervision alone suffices. The revision retains trained status and makes receipt of supervision current."
+      "note": "The clinical phrase मनोवैज्ञानिक हस्तक्षेप is reused exactly from the cited unreviewed candidate T007. Training and supervision wording is a draft requiring review. The source requires staff to receive appropriate supervision while providing interventions; 'have received' can imply that past supervision alone suffices. The revision retains trained status and makes receipt of supervision current."
     },
     {
       "id": "MAN-23-0026",
@@ -740,7 +740,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General safety draft; review pending. Preserves the source's qualified distinction about systemic gender inequality without endorsing it as a universal rule. Proposed missing term: sexual violence = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "General safety draft; review pending. Preserves the source's qualified distinction about systemic gender inequality without endorsing it as a universal rule. Proposed missing term: sexual violence = यौन हिंसा."
     },
     {
       "id": "MAN-23-0039",
@@ -759,7 +759,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Safety heading; review pending. Male survivors is rendered inclusively of men and boys, consistent with the following passage. Proposed missing term: male survivors of sexual violence = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Safety heading; review pending. Male survivors is rendered inclusively of men and boys, consistent with the following passage. Proposed missing term: male survivors of sexual violence = यौन हिंसाबाट प्रभावित पुरुष तथा बालक."
     },
     {
       "id": "MAN-23-0040",
@@ -812,7 +812,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "General safety draft; review pending. The reduced safety and acceptability refer to the services for women and girls. Preserves the source's wording about services offered to LGBTIQ+ organizations rather than silently changing the beneficiary. Proposed missing term: entry points to services = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. NE and BT attach 'run by LGBTIQ+ organizations' to the facilities rather than their services. Revised to facilities containing services offered to or run by those organizations. The unusual source wording 'services offered to ... organizations' is retained literally and remains pending source clarification, not validated. The BT requires staff with 'specific skills' rather than 'specialized skills', losing the explicit requirement for specialist expertise."
+      "note": "General safety draft; review pending. The reduced safety and acceptability refer to the services for women and girls. Preserves the source's wording about services offered to LGBTIQ+ organizations rather than silently changing the beneficiary. Proposed missing term: entry points to services = सेवामा पहुँच सुरु गर्ने माध्यम. NE and BT attach 'run by LGBTIQ+ organizations' to the facilities rather than their services. Revised to facilities containing services offered to or run by those organizations. The unusual source wording 'services offered to ... organizations' is retained literally and remains pending source clarification, not validated. The BT requires staff with 'specific skills' rather than 'specialized skills', losing the explicit requirement for specialist expertise."
     },
     {
       "id": "MAN-23-0042",

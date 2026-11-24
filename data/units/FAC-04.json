@@ -53,7 +53,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: module = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring term: module = मोड्युल."
     },
     {
       "id": "FAC-04-0002",
@@ -106,7 +106,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: structure = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring term: structure = संरचना."
     },
     {
       "id": "FAC-04-0005",
@@ -140,7 +140,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposes [Nepali wording recorded in terminology evidence] for website and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for navigating. Finding and accessing materials narrows website navigation to content retrieval. The revision restores navigation among the website's parts."
+      "note": "Proposes वेबसाइट for website and सामग्री खोज्ने र पहुँच गर्ने for navigating. Finding and accessing materials narrows website navigation to content retrieval. The revision restores navigation among the website's parts."
     },
     {
       "id": "FAC-04-0007",
@@ -1108,7 +1108,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "TWGs is retained without an unsupported expansion. Proposed recurring modifier: interagency = [Nepali wording recorded in terminology evidence]."
+      "note": "TWGs is retained without an unsupported expansion. Proposed recurring modifier: interagency = अन्तरनिकाय."
     },
     {
       "id": "FAC-04-0068",
@@ -1195,7 +1195,7 @@
         "T383"
       ],
       "flags": [],
-      "note": "The infectious-disease wording reuses [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] from supplied activity candidate T112; the liberty-related wording reuses supplied activity candidate T113. These are unreviewed candidates."
+      "note": "The infectious-disease wording reuses सरुवा रोग from supplied activity candidate T112; the liberty-related wording reuses supplied activity candidate T113. These are unreviewed candidates."
     },
     {
       "id": "FAC-04-0073",
@@ -1337,7 +1337,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring resource term: tools = [Nepali wording recorded in terminology evidence]. The colon is retained to introduce the following list."
+      "note": "Proposed recurring resource term: tools = साधनहरू. The colon is retained to introduce the following list."
     },
     {
       "id": "FAC-04-0082",
@@ -1392,7 +1392,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring resource term: tools = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring resource term: tools = साधनहरू."
     },
     {
       "id": "FAC-04-0085",
@@ -1613,7 +1613,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "AoR has no supplied glossary entry; proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (AoR)."
+      "note": "AoR has no supplied glossary entry; proposed rendering: जिम्मेवारीको क्षेत्र (AoR)."
     },
     {
       "id": "FAC-04-0099",
@@ -1791,7 +1791,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Organizational guidance rather than clinical instruction. Inter-sectoral coordination has no supplied glossary entry; proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Organizational guidance rather than clinical instruction. Inter-sectoral coordination has no supplied glossary entry; proposed rendering: अन्तरक्षेत्रीय समन्वय."
     },
     {
       "id": "FAC-04-0109",
@@ -1812,7 +1812,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "Ordinary organizational requirements. M&E has no standalone glossary entry; the proposed rendering [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (M&E) is already present within the supplied activity 2.2 candidate. The second sentence strengthens 'should be doing' to 'must do'. The revision distinguishes that recommendation from the first sentence's explicit requirement that organizations must have sound systems. The back-translation weakens Section 2's recommendation from activities organizations 'should be doing' to activities that 'would be appropriate' to carry out."
+      "note": "Ordinary organizational requirements. M&E has no standalone glossary entry; the proposed rendering अनुगमन तथा मूल्याङ्कन (M&E) is already present within the supplied activity 2.2 candidate. The second sentence strengthens 'should be doing' to 'must do'. The revision distinguishes that recommendation from the first sentence's explicit requirement that organizations must have sound systems. The back-translation weakens Section 2's recommendation from activities organizations 'should be doing' to activities that 'would be appropriate' to carry out."
     },
     {
       "id": "FAC-04-0110",

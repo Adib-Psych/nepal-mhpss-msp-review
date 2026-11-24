@@ -124,7 +124,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "M&E Indicator Bank is absent from the supplied glossary. Proposed nonclinical rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (M&E) [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "M&E Indicator Bank is absent from the supplied glossary. Proposed nonclinical rendering: अनुगमन तथा मूल्याङ्कन (M&E) सूचक भण्डार."
     },
     {
       "id": "FAC-13-0007",
@@ -245,7 +245,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Completes the object of the preceding introduction instruction. M&E Indicator Bank is absent from the supplied glossary; proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (M&E) [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Completes the object of the preceding introduction instruction. M&E Indicator Bank is absent from the supplied glossary; proposed rendering: अनुगमन तथा मूल्याङ्कन (M&E) सूचक भण्डार."
     },
     {
       "id": "FAC-13-0015",
@@ -618,7 +618,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Budget tables is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Budget tables is absent from G-0.3; proposed wording: बजेट तालिकाहरू."
     },
     {
       "id": "FAC-13-0038",
@@ -649,7 +649,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The source fragment continues the preceding heading; the verb is repeated to make this row a natural Nepali instruction. Budget Tables is absent from G-0.3; proposed base wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The source identifies the Budget Tables activity; the translation instead describes an activity related to budget tables. Preserve the activity name. The repeated introductory verb completes the instruction continued from the preceding heading."
+      "note": "The source fragment continues the preceding heading; the verb is repeated to make this row a natural Nepali instruction. Budget Tables is absent from G-0.3; proposed base wording: बजेट तालिकाहरू. The source identifies the Budget Tables activity; the translation instead describes an activity related to budget tables. Preserve the activity name. The repeated introductory verb completes the instruction continued from the preceding heading."
     },
     {
       "id": "FAC-13-0040",
@@ -666,7 +666,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Budget tables is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Budget tables is absent from G-0.3; proposed wording: बजेट तालिकाहरू."
     },
     {
       "id": "FAC-13-0041",
@@ -686,7 +686,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Budget items is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Budget items is absent from G-0.3; proposed wording: बजेटका शीर्षकहरू."
     },
     {
       "id": "FAC-13-0042",
@@ -734,7 +734,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Reclassified as ordinary workshop guidance. The source's plural activities and reference 5.2 are retained. Budget items is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Reclassified as ordinary workshop guidance. The source's plural activities and reference 5.2 are retained. Budget items is absent from G-0.3; proposed wording: बजेटका शीर्षकहरू."
     },
     {
       "id": "FAC-13-0045",
@@ -780,7 +780,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Reclassified as ordinary workshop guidance. Budget items is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Reclassified as ordinary workshop guidance. Budget items is absent from G-0.3; proposed wording: बजेटका शीर्षकहरू."
     },
     {
       "id": "FAC-13-0048",
@@ -795,7 +795,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Budget items is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Budget items is absent from G-0.3; proposed wording: बजेटका शीर्षकहरू."
     },
     {
       "id": "FAC-13-0049",
@@ -810,7 +810,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Budget items is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Budget items is absent from G-0.3; proposed wording: बजेटका शीर्षकहरू."
     },
     {
       "id": "FAC-13-0050",
@@ -827,7 +827,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Budget tables is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Budget tables is absent from G-0.3; proposed wording: बजेट तालिकाहरू."
     },
     {
       "id": "FAC-13-0051",
@@ -861,7 +861,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Indicator bank is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Indicator bank is absent from G-0.3; proposed wording: सूचक भण्डार."
     },
     {
       "id": "FAC-13-0053",

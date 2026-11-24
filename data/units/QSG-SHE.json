@@ -40,7 +40,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed rendering of actors: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; this recurring term is absent from G-0.1."
+      "note": "Proposed rendering of actors: सम्बद्ध पक्षहरू; this recurring term is absent from G-0.1."
     },
     {
       "id": "QSG-SHE-0002",
@@ -148,7 +148,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed rendering [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring term actors."
+      "note": "Uses the proposed rendering सम्बद्ध पक्षहरू for the recurring term actors."
     },
     {
       "id": "QSG-SHE-0008",
@@ -311,7 +311,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing terminology: icons = [Nepali wording recorded in terminology evidence]; areas of responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; clusters = [Nepali wording recorded in terminology evidence]. The footnote marker 1 and acronym AoRs are retained."
+      "note": "Proposed missing terminology: icons = प्रतीकचिह्न; areas of responsibility = जिम्मेवारीका क्षेत्र; clusters = क्लस्टर. The footnote marker 1 and acronym AoRs are retained."
     },
     {
       "id": "QSG-SHE-0017",
@@ -571,7 +571,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed rendering of the recurring technical phrase inter-agency coordination: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed rendering of the recurring technical phrase inter-agency coordination: अन्तरनिकाय समन्वय."
     },
     {
       "id": "QSG-SHE-0031",
@@ -612,7 +612,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; intersectoral coordination is rendered as [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring phrase अन्तरनिकाय समन्वय; intersectoral coordination is rendered as अन्तरक्षेत्रीय समन्वय."
     },
     {
       "id": "QSG-SHE-0033",
@@ -1234,7 +1234,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed glossary entry: Key considerations = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The frozen glossary is unchanged."
+      "note": "Proposed glossary entry: Key considerations = मुख्य विचारणीय पक्षहरू. The frozen glossary is unchanged."
     },
     {
       "id": "QSG-SHE-0069",
@@ -1298,7 +1298,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. Proposed glossary entry: Helpdesk = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The frozen glossary is unchanged."
+      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. Proposed glossary entry: Helpdesk = सहायता कक्ष. The frozen glossary is unchanged."
     },
     {
       "id": "QSG-SHE-0073",
@@ -1315,7 +1315,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term Helpdesk = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; not added to the frozen glossary."
+      "note": "Uses the proposed recurring term Helpdesk = सहायता कक्ष; not added to the frozen glossary."
     },
     {
       "id": "QSG-SHE-0074",
@@ -1373,7 +1373,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed glossary entries for recurring resource titles: Gap Analysis Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; Monitoring & Evaluation Indicator Bank = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. English titles are retained for identification. The frozen glossary is unchanged."
+      "note": "Proposed glossary entries for recurring resource titles: Gap Analysis Tool = अन्तर विश्लेषण उपकरण; Monitoring & Evaluation Indicator Bank = अनुगमन तथा मूल्याङ्कन सूचक भण्डार. English titles are retained for identification. The frozen glossary is unchanged."
     },
     {
       "id": "QSG-SHE-0077",

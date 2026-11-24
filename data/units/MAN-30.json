@@ -51,7 +51,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "The recurring legal term detention is absent from G-0.2; proposes [Nepali wording recorded in terminology evidence]. Internment is rendered separately as [Nepali wording recorded in terminology evidence]. The original Nepali extends suspicion to affiliation with fighting forces, whereas the source explicitly attaches suspected to combatants. The revision limits suspicion accordingly and distinguishes migration routes from immigration detention. The legal equivalence of [Nepali wording recorded in terminology evidence] for internment remains review pending; retaining it does not validate that terminology. The back-translation shifts possible current detention or placement into detention to possible prior placement through “may have been placed,” which does not necessarily indicate ongoing confinement."
+      "note": "The recurring legal term detention is absent from G-0.2; proposes हिरासत. Internment is rendered separately as नजरबन्द. The original Nepali extends suspicion to affiliation with fighting forces, whereas the source explicitly attaches suspected to combatants. The revision limits suspicion accordingly and distinguishes migration routes from immigration detention. The legal equivalence of नजरबन्द for internment remains review pending; retaining it does not validate that terminology. The back-translation shifts possible current detention or placement into detention to possible prior placement through “may have been placed,” which does not necessarily indicate ongoing confinement."
     },
     {
       "id": "MAN-30-0003",
@@ -181,7 +181,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General safety guidance; review pending. Proposes [Nepali wording recorded in terminology evidence] for detention. The basic psychosocial support phrase is reused exactly from supplied activity T099 and proposed as a standalone glossary entry."
+      "note": "General safety guidance; review pending. Proposes हिरासत for detention. The basic psychosocial support phrase is reused exactly from supplied activity T099 and proposed as a standalone glossary entry."
     },
     {
       "id": "MAN-30-0011",
@@ -225,7 +225,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General safety guidance; review pending. Reuses the basic psychosocial support phrase from supplied activity T099 and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] from supplied activity T107 as existing unreviewed wording. Proposes standalone entries for detention and basic psychosocial support. Persons affected by sexual violence broadens the specified group beyond survivors. The revision restores the source group without changing identification, referral or the listed support."
+      "note": "General safety guidance; review pending. Reuses the basic psychosocial support phrase from supplied activity T099 and मानसिक स्वास्थ्य सेवा from supplied activity T107 as existing unreviewed wording. Proposes standalone entries for detention and basic psychosocial support. Persons affected by sexual violence broadens the specified group beyond survivors. The revision restores the source group without changing identification, referral or the listed support."
     },
     {
       "id": "MAN-30-0013",
@@ -279,7 +279,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General safety guidance; review pending. Proposes [Nepali wording recorded in terminology evidence] for detention. Retains the separate reference to facility administrators without assuming every facility is a detention centre. Other sites replaces facility with an unrestricted location category and adds other. The revision refers to detention centres or institutions while preserving both administrators and staff."
+      "note": "General safety guidance; review pending. Proposes हिरासत for detention. Retains the separate reference to facility administrators without assuming every facility is a detention centre. Other sites replaces facility with an unrestricted location category and adds other. The revision refers to detention centres or institutions while preserving both administrators and staff."
     },
     {
       "id": "MAN-30-0016",
@@ -315,7 +315,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General service-organizing guidance; review pending. Psychological interventions uses the exact existing unreviewed T007 candidate. Peer support groups is drafted as ordinary nonclinical group support. Proposes [Nepali wording recorded in terminology evidence] for detention."
+      "note": "General service-organizing guidance; review pending. Psychological interventions uses the exact existing unreviewed T007 candidate. Peer support groups is drafted as ordinary nonclinical group support. Proposes हिरासत for detention."
     },
     {
       "id": "MAN-30-0018",

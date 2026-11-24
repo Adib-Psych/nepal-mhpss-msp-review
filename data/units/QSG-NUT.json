@@ -1272,7 +1272,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring terms: areas of responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; response = [Nepali wording recorded in terminology evidence]. The frozen glossary is unchanged."
+      "note": "Proposed missing recurring terms: areas of responsibility = जिम्मेवारीका क्षेत्रहरू; response = प्रतिकार्य. The frozen glossary is unchanged."
     },
     {
       "id": "QSG-NUT-0070",
@@ -1375,7 +1375,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring label: key considerations = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed missing recurring label: key considerations = मुख्य विचारणीय पक्षहरू."
     },
     {
       "id": "QSG-NUT-0077",
@@ -1423,7 +1423,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing resource title: Step-by-Step Guide = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The English title is retained for identification."
+      "note": "Proposed missing resource title: Step-by-Step Guide = चरणबद्ध मार्गदर्शिका. The English title is retained for identification."
     },
     {
       "id": "QSG-NUT-0080",
@@ -1441,7 +1441,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. Proposed missing recurring term: Helpdesk = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. Proposed missing recurring term: Helpdesk = सहायता कक्ष."
     },
     {
       "id": "QSG-NUT-0081",
@@ -1458,7 +1458,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term Helpdesk = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; it is not added to the frozen glossary."
+      "note": "Uses the proposed recurring term Helpdesk = सहायता कक्ष; it is not added to the frozen glossary."
     },
     {
       "id": "QSG-NUT-0082",
@@ -1479,7 +1479,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term response = [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring term response = प्रतिकार्य."
     },
     {
       "id": "QSG-NUT-0083",
@@ -1496,7 +1496,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term areas of responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence], with grammatical inflection in the sentence."
+      "note": "Uses the proposed recurring term areas of responsibility = जिम्मेवारीका क्षेत्रहरू, with grammatical inflection in the sentence."
     },
     {
       "id": "QSG-NUT-0084",
@@ -1520,7 +1520,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing tool titles: Gap Analysis Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; Monitoring & Evaluation Indicator Bank = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. English titles are retained for identification."
+      "note": "Proposed missing tool titles: Gap Analysis Tool = अन्तर विश्लेषण उपकरण; Monitoring & Evaluation Indicator Bank = अनुगमन तथा मूल्याङ्कन सूचक भण्डार. English titles are retained for identification."
     },
     {
       "id": "QSG-NUT-0085",

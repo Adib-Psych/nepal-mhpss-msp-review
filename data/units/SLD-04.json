@@ -77,7 +77,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "T001 is reused verbatim from the cited unreviewed prior candidate. Proposed missing recurring term: module = [Nepali wording recorded in terminology evidence]."
+      "note": "T001 is reused verbatim from the cited unreviewed prior candidate. Proposed missing recurring term: module = मोड्युल."
     },
     {
       "id": "SLD-04-0002",
@@ -95,7 +95,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring term: module = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed missing recurring term: module = मोड्युल."
     },
     {
       "id": "SLD-04-0003",
@@ -232,7 +232,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring term: consultation = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed missing recurring term: consultation = परामर्श."
     },
     {
       "id": "SLD-04-0012",
@@ -249,7 +249,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring term: intersectoral = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed missing recurring term: intersectoral = अन्तरक्षेत्रीय."
     },
     {
       "id": "SLD-04-0013",
@@ -333,7 +333,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring term: intersectoral = [Nepali wording recorded in terminology evidence]. The social welfare/protection grouping is retained."
+      "note": "Proposed missing recurring term: intersectoral = अन्तरक्षेत्रीय. The social welfare/protection grouping is retained."
     },
     {
       "id": "SLD-04-0018",
@@ -542,7 +542,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing recurring term: consultation = [Nepali wording recorded in terminology evidence]; the row retains the source plural."
+      "note": "Proposed missing recurring term: consultation = परामर्श; the row retains the source plural."
     },
     {
       "id": "SLD-04-0032",
@@ -1622,7 +1622,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposals: training curricula = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; programme materials = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposals: training curricula = तालिमका पाठ्यक्रम; programme materials = कार्यक्रम सामग्री."
     },
     {
       "id": "SLD-04-0098",
@@ -1745,7 +1745,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: resources, when referring to reference materials = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: resources, when referring to reference materials = स्रोतसामग्री."
     },
     {
       "id": "SLD-04-0106",
@@ -1779,7 +1779,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: resources, when referring to reference materials = [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: resources, when referring to reference materials = स्रोतसामग्री."
     },
     {
       "id": "SLD-04-0108",
@@ -1798,7 +1798,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposals: resources, when referring to reference materials = [Nepali wording recorded in terminology evidence]; training materials = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposals: resources, when referring to reference materials = स्रोतसामग्री; training materials = तालिम सामग्री."
     },
     {
       "id": "SLD-04-0109",
@@ -1848,7 +1848,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Revised the wording about working with children to avoid adding a requirement. The skills wording reuses supplied unreviewed candidate T196. Glossary proposal: resources, when referring to reference materials = [Nepali wording recorded in terminology evidence]."
+      "note": "Revised the wording about working with children to avoid adding a requirement. The skills wording reuses supplied unreviewed candidate T196. Glossary proposal: resources, when referring to reference materials = स्रोतसामग्री."
     },
     {
       "id": "SLD-04-0112",
@@ -2031,7 +2031,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Glossary proposal: training materials = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Glossary proposal: training materials = तालिम सामग्री."
     },
     {
       "id": "SLD-04-0124",

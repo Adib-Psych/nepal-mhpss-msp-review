@@ -756,7 +756,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Child Friendly Spaces is absent from the supplied glossary. Proposed label: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; retain CFS."
+      "note": "Child Friendly Spaces is absent from the supplied glossary. Proposed label: बालमैत्री स्थलहरू; retain CFS."
     },
     {
       "id": "FAC-27-0045",
@@ -827,7 +827,7 @@
         "T230"
       ],
       "flags": [],
-      "note": "Stress is used here as an ordinary report of pressure in managing the group, not as a diagnostic term. The back-translation changes plural facilitators to a singular facilitator and strengthens 'high levels of stress' to 'excessive stress.' The revision makes the plural reference explicit and removes the added excess judgment while retaining the glossary form [Nepali wording recorded in terminology evidence]."
+      "note": "Stress is used here as an ordinary report of pressure in managing the group, not as a diagnostic term. The back-translation changes plural facilitators to a singular facilitator and strengthens 'high levels of stress' to 'excessive stress.' The revision makes the plural reference explicit and removes the added excess judgment while retaining the glossary form सहजीकरणकर्ता."
     },
     {
       "id": "FAC-27-0050",
@@ -937,7 +937,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Helpline is a recurring service term absent from the supplied glossary. Proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Helpline is a recurring service term absent from the supplied glossary. Proposed wording: सहायता फोन सेवा."
     },
     {
       "id": "FAC-27-0057",
@@ -1020,7 +1020,7 @@
         "T007"
       ],
       "flags": [],
-      "note": "[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused verbatim from T007, cited to MAN PDF p5 and PRIOR-SUM-29OCT2026 p.2 row 102, as an unreviewed candidate. Group delivery is expressed descriptively without minting a separate clinical term."
+      "note": "मनोवैज्ञानिक हस्तक्षेप is reused verbatim from T007, cited to MAN PDF p5 and PRIOR-SUM-29OCT2026 p.2 row 102, as an unreviewed candidate. Group delivery is expressed descriptively without minting a separate clinical term."
     },
     {
       "id": "FAC-27-0062",
@@ -1607,7 +1607,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring term 'advocate' is absent from the supplied glossary; '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is proposed for review."
+      "note": "The recurring term 'advocate' is absent from the supplied glossary; 'पैरवी गर्नु' is proposed for review."
     },
     {
       "id": "FAC-27-0098",
@@ -1672,7 +1672,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring term 'advocate' is absent from the supplied glossary; '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is proposed for review."
+      "note": "The recurring term 'advocate' is absent from the supplied glossary; 'पैरवी गर्नु' is proposed for review."
     }
   ]
 }

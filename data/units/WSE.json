@@ -33,7 +33,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: data entry = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring term: data entry = तथ्याङ्क प्रविष्टि."
     },
     {
       "id": "WSE-0002",
@@ -95,7 +95,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: respondent = [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed recurring term: respondent = उत्तरदाता."
     },
     {
       "id": "WSE-0006",
@@ -110,7 +110,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed term [Nepali wording recorded in terminology evidence] for the source's responder, consistent with respondent in the preceding instruction."
+      "note": "Uses the proposed term उत्तरदाता for the source's responder, consistent with respondent in the preceding instruction."
     },
     {
       "id": "WSE-0007",
@@ -140,7 +140,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses proposed recurring terms: workshop = [Nepali wording recorded in terminology evidence]; data entry = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The email address is unchanged."
+      "note": "Uses proposed recurring terms: workshop = कार्यशाला; data entry = तथ्याङ्क प्रविष्टि. The email address is unchanged."
     },
     {
       "id": "WSE-0009",
@@ -209,7 +209,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term workshop = [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring term workshop = कार्यशाला."
     },
     {
       "id": "WSE-0014",
@@ -486,7 +486,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Ordinary example workshop metadata, not an assessment item. Uses the supplied unreviewed T268 candidate and the proposed recurring term workshop = [Nepali wording recorded in terminology evidence]."
+      "note": "Ordinary example workshop metadata, not an assessment item. Uses the supplied unreviewed T268 candidate and the proposed recurring term workshop = कार्यशाला."
     },
     {
       "id": "WSE-0032",
@@ -581,7 +581,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring administrative term: data entry = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Not added to the frozen glossary."
+      "note": "Proposed recurring administrative term: data entry = तथ्याङ्क प्रविष्टि. Not added to the frozen glossary."
     },
     {
       "id": "WSE-0039",
@@ -667,7 +667,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring terms workshop = [Nepali wording recorded in terminology evidence] and data entry = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; neither has been added to the frozen glossary."
+      "note": "Uses the proposed recurring terms workshop = कार्यशाला and data entry = तथ्याङ्क प्रविष्टि; neither has been added to the frozen glossary."
     },
     {
       "id": "WSE-0045",
@@ -736,7 +736,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring term: workshop = [Nepali wording recorded in terminology evidence]. Not added to the frozen glossary."
+      "note": "Proposed recurring term: workshop = कार्यशाला. Not added to the frozen glossary."
     },
     {
       "id": "WSE-0050",
@@ -898,7 +898,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term workshop = [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring term workshop = कार्यशाला."
     },
     {
       "id": "WSE-0060",
@@ -915,7 +915,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term workshop = [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring term workshop = कार्यशाला."
     },
     {
       "id": "WSE-0061",

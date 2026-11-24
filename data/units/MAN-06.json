@@ -56,7 +56,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring term community groups is absent from G-0.2; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is proposed for review."
+      "note": "The recurring term community groups is absent from G-0.2; सामुदायिक समूहहरू is proposed for review."
     },
     {
       "id": "MAN-06-0003",
@@ -113,7 +113,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring term livelihoods groups is absent from G-0.2; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is proposed for review."
+      "note": "The recurring term livelihoods groups is absent from G-0.2; जीविकोपार्जन समूहहरू is proposed for review."
     },
     {
       "id": "MAN-06-0006",
@@ -130,7 +130,7 @@
         "T410"
       ],
       "flags": [],
-      "note": "The wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the supplied unreviewed activity 3.2 candidate. General identification and referral guidance; safety review pending."
+      "note": "The wording आधारभूत मनोसामाजिक सहयोग is reused from the supplied unreviewed activity 3.2 candidate. General identification and referral guidance; safety review pending."
     },
     {
       "id": "MAN-06-0007",
@@ -170,7 +170,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused verbatim from the unreviewed T015 candidate, MAN PDF p5; PRIOR-SUM-29OCT2026 p.2 row 104. The recurring term community groups is absent from G-0.2; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is proposed for review."
+      "note": "मानसिक अस्पताल is reused verbatim from the unreviewed T015 candidate, MAN PDF p5; PRIOR-SUM-29OCT2026 p.2 row 104. The recurring term community groups is absent from G-0.2; सामुदायिक समूहहरू is proposed for review."
     },
     {
       "id": "MAN-06-0009",
@@ -208,7 +208,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring terms community groups and livelihoods groups are absent from G-0.2; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] are proposed for review."
+      "note": "The recurring terms community groups and livelihoods groups are absent from G-0.2; सामुदायिक समूहहरू and जीविकोपार्जन समूहहरू are proposed for review."
     },
     {
       "id": "MAN-06-0011",
@@ -314,7 +314,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring inter-agency terminology is absent from G-0.2; [Nepali wording recorded in terminology evidence] is proposed for review, with context-dependent grammatical forms."
+      "note": "The recurring inter-agency terminology is absent from G-0.2; संस्थाहरूबीचको is proposed for review, with context-dependent grammatical forms."
     },
     {
       "id": "MAN-06-0017",
@@ -458,7 +458,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "The recurring inter-agency terminology is absent from G-0.2; [Nepali wording recorded in terminology evidence] is proposed for review, with context-dependent grammatical forms. The back-translation strengthens 'should be implemented' to 'must be implemented'. The revision restores advisory force without changing the requirement for coordination across agencies. The direct recommendation that all activities should be implemented through inter-agency coordination is weakened to a statement that doing so is appropriate."
+      "note": "The recurring inter-agency terminology is absent from G-0.2; संस्थाहरूबीचको is proposed for review, with context-dependent grammatical forms. The back-translation strengthens 'should be implemented' to 'must be implemented'. The revision restores advisory force without changing the requirement for coordination across agencies. The direct recommendation that all activities should be implemented through inter-agency coordination is weakened to a statement that doing so is appropriate."
     },
     {
       "id": "MAN-06-0025",
@@ -1168,7 +1168,7 @@
         "T272"
       ],
       "flags": [],
-      "note": "Restored the required T044 form “[Nepali wording recorded in terminology evidence]-[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]” while retaining IASC, 2014, and the rest of the existing draft."
+      "note": "Restored the required T044 form “अन्तर-निकाय स्थायी समिति” while retaining IASC, 2014, and the rest of the existing draft."
     },
     {
       "id": "MAN-06-0069",
@@ -1808,7 +1808,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "These are guidance-document titles, not clinical instructions. Glossary proposal: humanitarian action = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; recurring terminology proposed for review without changing G-0.2. The Nepali describes GBV programming related to emergencies rather than programming in emergencies; the back-translation obscures this difference. Revised that condition. Official document-title terminology remains pending technical review. The back-translation loses the completed-status meaning of 'have been identified' by saying 'be identified' and renders the named Nurturing Care Framework as a descriptive framework for care that nurtures child development."
+      "note": "These are guidance-document titles, not clinical instructions. Glossary proposal: humanitarian action = मानवीय कार्य; recurring terminology proposed for review without changing G-0.2. The Nepali describes GBV programming related to emergencies rather than programming in emergencies; the back-translation obscures this difference. Revised that condition. Official document-title terminology remains pending technical review. The back-translation loses the completed-status meaning of 'have been identified' by saying 'be identified' and renders the named Nurturing Care Framework as a descriptive framework for care that nurtures child development."
     },
     {
       "id": "MAN-06-0106",
@@ -1852,7 +1852,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General protection guidance drafted; safety review pending. Glossary proposal: human rights = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; recurring terminology proposed for review without changing G-0.2."
+      "note": "General protection guidance drafted; safety review pending. Glossary proposal: human rights = मानव अधिकार; recurring terminology proposed for review without changing G-0.2."
     },
     {
       "id": "MAN-06-0109",
@@ -1941,7 +1941,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The reference instruction and nonclinical document titles are translated; 17, UN, IASC, and (2019) are retained. Glossary proposal: humanitarian action = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; proposed for review without changing G-0.2."
+      "note": "The reference instruction and nonclinical document titles are translated; 17, UN, IASC, and (2019) are retained. Glossary proposal: humanitarian action = मानवीय कार्य; proposed for review without changing G-0.2."
     },
     {
       "id": "MAN-06-0115",

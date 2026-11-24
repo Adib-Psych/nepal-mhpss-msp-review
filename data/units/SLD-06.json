@@ -87,7 +87,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: समन्वय."
     },
     {
       "id": "SLD-06-0004",
@@ -131,7 +131,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: समन्वय."
     },
     {
       "id": "SLD-06-0007",
@@ -187,7 +187,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring term 'duplication' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+      "note": "The recurring term 'duplication' is absent from G-0.3; proposed form: दोहोरोपन."
     },
     {
       "id": "SLD-06-0011",
@@ -282,7 +282,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: समन्वय."
     },
     {
       "id": "SLD-06-0017",
@@ -300,7 +300,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]. This is an organizational risk statement, not clinical guidance."
+      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: समन्वय. This is an organizational risk statement, not clinical guidance."
     },
     {
       "id": "SLD-06-0018",
@@ -441,7 +441,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: समन्वय."
     },
     {
       "id": "SLD-06-0027",
@@ -477,7 +477,7 @@
         "source-ambiguous",
         "glossary-missing"
       ],
-      "note": "The source has an apparent typographical or concatenation error; wording has been preserved. The supplied sentence is clear; the provisional source-ambiguous flag is not retained. The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+      "note": "The source has an apparent typographical or concatenation error; wording has been preserved. The supplied sentence is clear; the provisional source-ambiguous flag is not retained. The standalone recurring term 'coordination' is absent from G-0.3; proposed form: समन्वय."
     },
     {
       "id": "SLD-06-0029",
@@ -513,7 +513,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The supplied activity label is retained. The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+      "note": "The supplied activity label is retained. The standalone recurring term 'coordination' is absent from G-0.3; proposed form: समन्वय."
     },
     {
       "id": "SLD-06-0031",
@@ -546,7 +546,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General coordination safety draft; review pending. 'Referring appropriately' is rendered as ordinary service referral, without introducing a clinical procedure. The recurring term 'duplication' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+      "note": "General coordination safety draft; review pending. 'Referring appropriately' is rendered as ordinary service referral, without introducing a clinical procedure. The recurring term 'duplication' is absent from G-0.3; proposed form: दोहोरोपन."
     },
     {
       "id": "SLD-06-0033",
@@ -609,7 +609,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing standalone glossary entry: MHPSS coordination = MHPSS [Nepali wording recorded in terminology evidence]. This is ordinary coordination wording, not a clinical intervention."
+      "note": "Proposed missing standalone glossary entry: MHPSS coordination = MHPSS समन्वय. This is ordinary coordination wording, not a clinical intervention."
     },
     {
       "id": "SLD-06-0037",
@@ -627,7 +627,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing standalone glossary entry: MHPSS coordination = MHPSS [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed missing standalone glossary entry: MHPSS coordination = MHPSS समन्वय."
     },
     {
       "id": "SLD-06-0038",
@@ -663,7 +663,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing standalone glossary entry: MHPSS coordination = MHPSS [Nepali wording recorded in terminology evidence]. This is an explanatory statement, not a checklist item."
+      "note": "Proposed missing standalone glossary entry: MHPSS coordination = MHPSS समन्वय. This is an explanatory statement, not a checklist item."
     },
     {
       "id": "SLD-06-0040",
@@ -681,7 +681,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing glossary entry: core functions = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The source wording 'functions or chapters' is retained without treating the two as distinct lists."
+      "note": "Proposed missing glossary entry: core functions = मुख्य कार्यहरू. The source wording 'functions or chapters' is retained without treating the two as distinct lists."
     },
     {
       "id": "SLD-06-0041",
@@ -700,7 +700,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed missing glossary entry: core functions = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed missing glossary entry: core functions = मुख्य कार्यहरू."
     },
     {
       "id": "SLD-06-0042",

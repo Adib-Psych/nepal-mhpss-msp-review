@@ -125,7 +125,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Cross-sectoral recurs in this batch but has no frozen glossary entry; [Nepali wording recorded in terminology evidence] is proposed for review. Both instances of 'should' become 'must'; 'early' becomes 'at the very beginning', and 'multiple' becomes 'many'. The revision restores recommendation strength, early-phase timing and multiplicity without requiring many actors. The cross-sectoral terminology remains pending technical review."
+      "note": "Cross-sectoral recurs in this batch but has no frozen glossary entry; अन्तरक्षेत्रीय is proposed for review. Both instances of 'should' become 'must'; 'early' becomes 'at the very beginning', and 'multiple' becomes 'many'. The revision restores recommendation strength, early-phase timing and multiplicity without requiring many actors. The cross-sectoral terminology remains pending technical review."
     },
     {
       "id": "MAN-09-0007",
@@ -196,7 +196,7 @@
         "T410"
       ],
       "flags": [],
-      "note": "The wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the supplied unreviewed T001 and T099 candidates, not introduced as a validated standalone clinical term. General safety draft; review pending."
+      "note": "The wording मनोसामाजिक सहयोग is reused from the supplied unreviewed T001 and T099 candidates, not introduced as a validated standalone clinical term. General safety draft; review pending."
     },
     {
       "id": "MAN-09-0011",
@@ -339,7 +339,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Cross-sectoral has no frozen glossary entry; [Nepali wording recorded in terminology evidence] is proposed for review. Both the single cross-sectoral group and the conditional subnational groups are retained."
+      "note": "Cross-sectoral has no frozen glossary entry; अन्तरक्षेत्रीय is proposed for review. Both the single cross-sectoral group and the conditional subnational groups are retained."
     },
     {
       "id": "MAN-09-0020",
@@ -400,7 +400,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Information management recurs without a frozen glossary entry; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is proposed for review."
+      "note": "Information management recurs without a frozen glossary entry; सूचना व्यवस्थापन is proposed for review."
     },
     {
       "id": "MAN-09-0023",
@@ -438,7 +438,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Mapping recurs within this row without a frozen glossary entry; [Nepali wording recorded in terminology evidence] is proposed for review. The identifiers 4Ws and MSP are retained. 'Detailed' does not preserve the coverage requirement in 'comprehensive'. 'MSP Gap Analyses' is recast as analysis of gaps in the MSP itself. The revision restores comprehensive coverage and retains the English technical label without interpreting its scope; that label remains pending technical review."
+      "note": "Mapping recurs within this row without a frozen glossary entry; नक्साङ्कन is proposed for review. The identifiers 4Ws and MSP are retained. 'Detailed' does not preserve the coverage requirement in 'comprehensive'. 'MSP Gap Analyses' is recast as analysis of gaps in the MSP itself. The revision restores comprehensive coverage and retains the English technical label without interpreting its scope; that label remains pending technical review."
     },
     {
       "id": "MAN-09-0025",
@@ -544,7 +544,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Capacity building and peer support recur without frozen glossary entries; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] are proposed for review."
+      "note": "Capacity building and peer support recur without frozen glossary entries; क्षमता विकास and सहकर्मी सहयोग are proposed for review."
     },
     {
       "id": "MAN-09-0030",
@@ -689,7 +689,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring nonclinical term: advocacy = [Nepali wording recorded in terminology evidence]; the frozen glossary is unchanged."
+      "note": "Proposed recurring nonclinical term: advocacy = पैरवी; the frozen glossary is unchanged."
     },
     {
       "id": "MAN-09-0038",
@@ -708,7 +708,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed nonclinical term [Nepali wording recorded in terminology evidence] for advocacy."
+      "note": "Uses the proposed nonclinical term पैरवी for advocacy."
     },
     {
       "id": "MAN-09-0039",
@@ -727,7 +727,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed nonclinical term [Nepali wording recorded in terminology evidence] for advocacy; both funding and resource allocation are retained."
+      "note": "Uses the proposed nonclinical term पैरवी for advocacy; both funding and resource allocation are retained."
     },
     {
       "id": "MAN-09-0040",
@@ -942,7 +942,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed nonclinical term [Nepali wording recorded in terminology evidence] for advocacy. Interventions here are general policy and service interventions, not a named clinical treatment."
+      "note": "Uses the proposed nonclinical term पैरवी for advocacy. Interventions here are general policy and service interventions, not a named clinical treatment."
     },
     {
       "id": "MAN-09-0053",
@@ -963,7 +963,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed recurring nonclinical term: coordination structures = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; the frozen glossary is unchanged."
+      "note": "Proposed recurring nonclinical term: coordination structures = समन्वय संरचना; the frozen glossary is unchanged."
     },
     {
       "id": "MAN-09-0054",
@@ -1052,7 +1052,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for coordination structures. Surge support mechanisms and standby partnerships are explained as operational arrangements, with the named MHPSS mechanism retained in English. The translation adds an explicit trigger, when needs increase, which the source does not state. That condition is removed. Nepali terminology for surge support mechanisms and standby partnerships remains pending technical review."
+      "note": "Uses the proposed term समन्वय संरचना for coordination structures. Surge support mechanisms and standby partnerships are explained as operational arrangements, with the named MHPSS mechanism retained in English. The translation adds an explicit trigger, when needs increase, which the source does not state. That condition is removed. Nepali terminology for surge support mechanisms and standby partnerships remains pending technical review."
     },
     {
       "id": "MAN-09-0059",
@@ -1128,7 +1128,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed nonclinical term [Nepali wording recorded in terminology evidence] for advocacy; government actors and external funders remain distinct. The source calls for mobilization of both funds and resources. The translation instead requests financial support alongside resource mobilization; the revision explicitly applies mobilization to both."
+      "note": "Uses the proposed nonclinical term पैरवी for advocacy; government actors and external funders remain distinct. The source calls for mobilization of both funds and resources. The translation instead requests financial support alongside resource mobilization; the revision explicitly applies mobilization to both."
     },
     {
       "id": "MAN-09-0063",
@@ -1162,7 +1162,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring term 'mental health services' has no dedicated glossary entry. Its Nepali wording reuses the exact phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] supplied in activity candidate T107; this remains an unreviewed candidate."
+      "note": "The recurring term 'mental health services' has no dedicated glossary entry. Its Nepali wording reuses the exact phrase मानसिक स्वास्थ्य सेवा supplied in activity candidate T107; this remains an unreviewed candidate."
     },
     {
       "id": "MAN-09-0065",
@@ -1200,7 +1200,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the supplied unreviewed activity candidate T107. A dedicated glossary entry for the recurring term 'mental health services' is proposed."
+      "note": "The wording मानसिक स्वास्थ्य सेवा is reused from the supplied unreviewed activity candidate T107. A dedicated glossary entry for the recurring term 'mental health services' is proposed."
     },
     {
       "id": "MAN-09-0067",

@@ -741,7 +741,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the nonclinical layer term 'focused support'; terminology review is pending. The back-translation substitutes 'targeted support' for 'focused support', changing the layer descriptor. Revised that descriptor only; its technical terminology remains pending review."
+      "note": "Proposes लक्षित सहयोग for the nonclinical layer term 'focused support'; terminology review is pending. The back-translation substitutes 'targeted support' for 'focused support', changing the layer descriptor. Revised that descriptor only; its technical terminology remains pending review."
     },
     {
       "id": "PYR-0046",
@@ -913,7 +913,7 @@
       "type": "activity",
       "terms": [],
       "flags": [],
-      "note": "Uses [Nepali wording recorded in terminology evidence] for 'girls' rather than the supplied activity label's adolescent-specific [Nepali wording recorded in terminology evidence], preserving the source population without an age restriction."
+      "note": "Uses बालिका for 'girls' rather than the supplied activity label's adolescent-specific किशोरी, preserving the source population without an age restriction."
     },
     {
       "id": "PYR-0057",
@@ -1108,7 +1108,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "T001 is reused as an unreviewed candidate. Proposed technical glossary entry: intervention pyramid = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; this describes the framework, not a newly coined clinical intervention. The back-translation expresses inclusion in the pyramid rather than mapping activities onto it. The revision makes the mapping relationship explicit; the technical framework wording remains pending review."
+      "note": "T001 is reused as an unreviewed candidate. Proposed technical glossary entry: intervention pyramid = हस्तक्षेप पिरामिड; this describes the framework, not a newly coined clinical intervention. The back-translation expresses inclusion in the pyramid rather than mapping activities onto it. The revision makes the mapping relationship explicit; the technical framework wording remains pending review."
     },
     {
       "id": "PYR-0069",
@@ -1178,7 +1178,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Translated as an ordinary service-layer label, not a clinical procedure. Proposed framework label: focused non-specialized supports = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Translated as an ordinary service-layer label, not a clinical procedure. Proposed framework label: focused non-specialized supports = केन्द्रित गैरविशेषीकृत सहयोग."
     },
     {
       "id": "PYR-0073",
@@ -1193,7 +1193,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed framework label: community and family supports = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The translation adds that support is received from communities and families, whereas the source label does not specify that direction. The revision removes the added direction; interpretation of the framework label remains pending technical review."
+      "note": "Proposed framework label: community and family supports = समुदाय र परिवारबाट प्राप्त हुने सहयोग. The translation adds that support is received from communities and families, whereas the source label does not specify that direction. The revision removes the added direction; interpretation of the framework label remains pending technical review."
     },
     {
       "id": "PYR-0074",
@@ -1210,7 +1210,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposed framework label: social consideration in basic services and security = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Proposed framework label: social consideration in basic services and security = आधारभूत सेवा तथा सुरक्षामा सामाजिक पक्षको विचार."
     },
     {
       "id": "PYR-0075",

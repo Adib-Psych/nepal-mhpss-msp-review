@@ -87,7 +87,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Retains the matching sentence from prior row 4. The clinical phrase remains a cited, unreviewed candidate. Proposed recurring term: MHPSS activities = MHPSS [Nepali wording recorded in terminology evidence]."
+      "note": "Retains the matching sentence from prior row 4. The clinical phrase remains a cited, unreviewed candidate. Proposed recurring term: MHPSS activities = MHPSS गतिविधिहरू."
     },
     {
       "id": "SUM-0005",
@@ -142,7 +142,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Restores the source section number in Latin digits. Proposed recurring term: MHPSS programme = MHPSS [Nepali wording recorded in terminology evidence]."
+      "note": "Restores the source section number in Latin digits. Proposed recurring term: MHPSS programme = MHPSS कार्यक्रम."
     },
     {
       "id": "SUM-0008",
@@ -161,7 +161,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Restores the source section number and adds the possessive link for natural Nepali. Proposed recurring term: MHPSS programme = MHPSS [Nepali wording recorded in terminology evidence]."
+      "note": "Restores the source section number and adds the possessive link for natural Nepali. Proposed recurring term: MHPSS programme = MHPSS कार्यक्रम."
     },
     {
       "id": "SUM-0009",
@@ -345,7 +345,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Retains the matching prior draft. Proposed recurring term: stakeholders = [Nepali wording recorded in terminology evidence]."
+      "note": "Retains the matching prior draft. Proposed recurring term: stakeholders = सरोकारवालाहरू."
     },
     {
       "id": "SUM-0021",
@@ -412,7 +412,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Makes the prior wording a complete instruction ending with a danda. Proposed recurring term: stakeholders = [Nepali wording recorded in terminology evidence]; the row uses its contextual inflection."
+      "note": "Makes the prior wording a complete instruction ending with a danda. Proposed recurring term: stakeholders = सरोकारवालाहरू; the row uses its contextual inflection."
     },
     {
       "id": "SUM-0025",
@@ -446,7 +446,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Makes the prior wording a complete instruction ending with a danda. Proposed recurring term: MHPSS activities = MHPSS [Nepali wording recorded in terminology evidence]; the row uses its contextual inflection."
+      "note": "Makes the prior wording a complete instruction ending with a danda. Proposed recurring term: MHPSS activities = MHPSS गतिविधिहरू; the row uses its contextual inflection."
     },
     {
       "id": "SUM-0027",
@@ -492,7 +492,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Uses an explicit verb for finding guidance and ends the instruction with a danda. Proposed recurring term: MHPSS activities = MHPSS [Nepali wording recorded in terminology evidence]; the row uses the distributive singular."
+      "note": "Uses an explicit verb for finding guidance and ends the instruction with a danda. Proposed recurring term: MHPSS activities = MHPSS गतिविधिहरू; the row uses the distributive singular."
     },
     {
       "id": "SUM-0030",
@@ -559,7 +559,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Retained the matching sentence from prior row 32. A separate glossary entry is proposed for MHPSS activities; the supplied MSP activity entry denotes a different phrase. 'Donors' was narrowed to donor agencies, excluding individual and other non-agency donors. Expanded the actor category while retaining the exact glossary form [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Retained the matching sentence from prior row 32. A separate glossary entry is proposed for MHPSS activities; the supplied MSP activity entry denotes a different phrase. 'Donors' was narrowed to donor agencies, excluding individual and other non-agency donors. Expanded the actor category while retaining the exact glossary form दातृ निकाय."
     },
     {
       "id": "SUM-0034",
@@ -622,7 +622,7 @@
         "T023"
       ],
       "flags": [],
-      "note": "'Donors' was narrowed to donor agencies. Added other donors to preserve the full actor category while retaining the exact glossary form [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "'Donors' was narrowed to donor agencies. Added other donors to preserve the full actor category while retaining the exact glossary form दातृ निकाय."
     },
     {
       "id": "SUM-0038",
@@ -1060,7 +1060,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Preserved the source acronym AoRs and its plural meaning. Proposed glossary entry: Areas of Responsibility (AoRs) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (AoRs)."
+      "note": "Preserved the source acronym AoRs and its plural meaning. Proposed glossary entry: Areas of Responsibility (AoRs) = जिम्मेवारी क्षेत्रहरू (AoRs)."
     },
     {
       "id": "SUM-0066",
@@ -1136,7 +1136,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Retained the prior Nepali expansion and restored GBV. Proposed glossary entry: gender-based violence (GBV) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (GBV)."
+      "note": "Retained the prior Nepali expansion and restored GBV. Proposed glossary entry: gender-based violence (GBV) = लैङ्गिक हिंसा (GBV)."
     },
     {
       "id": "SUM-0071",
@@ -1185,7 +1185,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Used the supplied prior row 44 expansion while retaining CCCM. Proposed glossary entry: Camp coordination and camp management (CCCM) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (CCCM)."
+      "note": "Used the supplied prior row 44 expansion while retaining CCCM. Proposed glossary entry: Camp coordination and camp management (CCCM) = शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM)."
     },
     {
       "id": "SUM-0074",
@@ -1203,7 +1203,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Prior wording retained. Proposed glossary entry: Shelter and settlements = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Prior wording retained. Proposed glossary entry: Shelter and settlements = आश्रय तथा बस्ती."
     },
     {
       "id": "SUM-0075",
@@ -1219,7 +1219,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Used the supplied prior row 46 expansion while retaining WASH. Proposed glossary entry: Water, sanitation and hygiene (WASH) = [Nepali wording recorded in terminology evidence], [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (WASH). The expansion narrows the water component of WASH to drinking water. Removed that restriction while retaining sanitation, hygiene and WASH."
+      "note": "Used the supplied prior row 46 expansion while retaining WASH. Proposed glossary entry: Water, sanitation and hygiene (WASH) = खानेपानी, सरसफाइ तथा स्वच्छता (WASH). The expansion narrows the water component of WASH to drinking water. Removed that restriction while retaining sanitation, hygiene and WASH."
     },
     {
       "id": "SUM-0076",
@@ -1238,7 +1238,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Prior wording retained. Proposed glossary entry: Food security and livelihoods = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "Prior wording retained. Proposed glossary entry: Food security and livelihoods = खाद्य सुरक्षा तथा जीविकोपार्जन."
     },
     {
       "id": "SUM-0077",
@@ -1257,7 +1257,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Restored both occurrences of typically, the conjunction between sectors and AoRs, and the exact acronym. Proposed glossary entry: Areas of Responsibility (AoRs) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (AoRs)."
+      "note": "Restored both occurrences of typically, the conjunction between sectors and AoRs, and the exact acronym. Proposed glossary entry: Areas of Responsibility (AoRs) = जिम्मेवारी क्षेत्रहरू (AoRs)."
     },
     {
       "id": "SUM-0078",
@@ -1476,7 +1476,7 @@
         "prior-draft-changed",
         "bt-divergence"
       ],
-      "note": "Retained the requirement applying to organizations engaged in any type of MHPSS activity; restored Latin digit 2 and added the danda. The source says 'should implement'; Nepali [Nepali wording recorded in terminology evidence] and BT 'must implement' strengthen this to an obligation. Revised to recommendation strength, retaining any type of MHPSS activity and all section 2 activities. The back-translation weakens the explicit recommendation that organizations should implement all Section 2 activities to a statement that doing so is appropriate."
+      "note": "Retained the requirement applying to organizations engaged in any type of MHPSS activity; restored Latin digit 2 and added the danda. The source says 'should implement'; Nepali गर्नुपर्छ and BT 'must implement' strengthen this to an obligation. Revised to recommendation strength, retaining any type of MHPSS activity and all section 2 activities. The back-translation weakens the explicit recommendation that organizations should implement all Section 2 activities to a statement that doing so is appropriate."
     },
     {
       "id": "SUM-0090",
@@ -1510,7 +1510,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Retained the matching second sentence from prior row 86, with plural sectors and the exact acronym AoRs. Proposed glossary entry: Areas of Responsibility (AoRs) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (AoRs)."
+      "note": "Retained the matching second sentence from prior row 86, with plural sectors and the exact acronym AoRs. Proposed glossary entry: Areas of Responsibility (AoRs) = जिम्मेवारी क्षेत्रहरू (AoRs)."
     },
     {
       "id": "SUM-0092",
@@ -1602,7 +1602,7 @@
         "glossary-missing",
         "prior-draft-changed"
       ],
-      "note": "Retained the prior wording for both actions and added the instruction-ending danda. Proposed glossary entry: self-help = [Nepali wording recorded in terminology evidence]-[Nepali wording recorded in terminology evidence]."
+      "note": "Retained the prior wording for both actions and added the instruction-ending danda. Proposed glossary entry: self-help = आत्म-सहयोग."
     },
     {
       "id": "SUM-0097",

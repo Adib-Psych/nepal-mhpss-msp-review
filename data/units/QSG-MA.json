@@ -158,7 +158,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposes explosive ordnance = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Injuries and incident survivors are translated as ordinary descriptive wording, without introducing a diagnosis."
+      "note": "Proposes explosive ordnance = विस्फोटक आयुध. Injuries and incident survivors are translated as ordinary descriptive wording, without introducing a diagnosis."
     },
     {
       "id": "QSG-MA-0009",
@@ -210,7 +210,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "General injury-prevention and risk-reduction guidance; safety review pending. Uses the proposed term explosive ordnance = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+      "note": "General injury-prevention and risk-reduction guidance; safety review pending. Uses the proposed term explosive ordnance = विस्फोटक आयुध."
     },
     {
       "id": "QSG-MA-0012",
@@ -273,7 +273,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Proposes icons = [Nepali wording recorded in terminology evidence]. Preserves footnote marker 1 and the distinction between delivery and contribution."
+      "note": "Proposes icons = प्रतीकचिह्नहरू. Preserves footnote marker 1 and the distinction between delivery and contribution."
     },
     {
       "id": "QSG-MA-0015",
@@ -291,7 +291,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term icons = [Nepali wording recorded in terminology evidence]; preserves the dark-green delivery role."
+      "note": "Uses the proposed recurring term icons = प्रतीकचिह्नहरू; preserves the dark-green delivery role."
     },
     {
       "id": "QSG-MA-0016",
@@ -310,7 +310,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term icons = [Nepali wording recorded in terminology evidence]; preserves both contribution and facilitation."
+      "note": "Uses the proposed recurring term icons = प्रतीकचिह्नहरू; preserves both contribution and facilitation."
     },
     {
       "id": "QSG-MA-0017",
@@ -369,7 +369,7 @@
         "glossary-missing",
         "bt-divergence"
       ],
-      "note": "Describes sector delivery roles, not a safeguarding declaration; sector terminology remains unreviewed. Uses the proposed recurring term icons = [Nepali wording recorded in terminology evidence]. The existing wording can describe actors involved in gender-based violence itself rather than actors working in that sector. The revision makes the sector role explicit while retaining the delivery role and its typical, non-mandatory qualification. The back-translation narrows “Mine Action” to “landmine-related work,” potentially excluding actors addressing other explosive ordnance."
+      "note": "Describes sector delivery roles, not a safeguarding declaration; sector terminology remains unreviewed. Uses the proposed recurring term icons = प्रतीकचिह्नहरू. The existing wording can describe actors involved in gender-based violence itself rather than actors working in that sector. The revision makes the sector role explicit while retaining the delivery role and its typical, non-mandatory qualification. The back-translation narrows “Mine Action” to “landmine-related work,” potentially excluding actors addressing other explosive ordnance."
     },
     {
       "id": "QSG-MA-0020",
@@ -409,7 +409,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term icons = [Nepali wording recorded in terminology evidence]."
+      "note": "Uses the proposed recurring term icons = प्रतीकचिह्नहरू."
     },
     {
       "id": "QSG-MA-0022",
@@ -467,7 +467,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Reuses activity label T099 verbatim as an unreviewed candidate. Sector-role guidance remains subject to safety review. Uses the proposed recurring term icons = [Nepali wording recorded in terminology evidence]."
+      "note": "Reuses activity label T099 verbatim as an unreviewed candidate. Sector-role guidance remains subject to safety review. Uses the proposed recurring term icons = प्रतीकचिह्नहरू."
     },
     {
       "id": "QSG-MA-0025",
@@ -494,7 +494,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term icons = [Nepali wording recorded in terminology evidence]. WASH is retained without an expansion absent from the source."
+      "note": "Uses the proposed recurring term icons = प्रतीकचिह्नहरू. WASH is retained without an expansion absent from the source."
     },
     {
       "id": "QSG-MA-0026",
@@ -514,7 +514,7 @@
         "T410"
       ],
       "flags": [],
-      "note": "The phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the supplied unreviewed activity candidate T099; no new clinical wording is introduced."
+      "note": "The phrase आधारभूत मनोसामाजिक सहयोग सीपमा is reused from the supplied unreviewed activity candidate T099; no new clinical wording is introduced."
     },
     {
       "id": "QSG-MA-0027",
@@ -532,7 +532,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed recurring term icons = [Nepali wording recorded in terminology evidence]; retains the non-prescriptive qualification. The back-translation's 'do not necessarily specify' weakens the source's explicit non-prescriptive intent. The revision states that the icons are not intended to prescribe who must do what, while preserving their guidance function."
+      "note": "Uses the proposed recurring term icons = प्रतीकचिह्नहरू; retains the non-prescriptive qualification. The back-translation's 'do not necessarily specify' weakens the source's explicit non-prescriptive intent. The revision states that the icons are not intended to prescribe who must do what, while preserving their guidance function."
     },
     {
       "id": "QSG-MA-0028",
@@ -951,7 +951,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring term 'victim assistance' has no supplied glossary entry; '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is proposed for review without changing G-0.1."
+      "note": "The recurring term 'victim assistance' has no supplied glossary entry; 'पीडित सहायता' is proposed for review without changing G-0.1."
     },
     {
       "id": "QSG-MA-0053",
@@ -1212,7 +1212,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "The recurring term 'areas of responsibility' is absent from G-0.1; '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is proposed without changing the glossary."
+      "note": "The recurring term 'areas of responsibility' is absent from G-0.1; 'जिम्मेवारीका क्षेत्रहरू' is proposed without changing the glossary."
     },
     {
       "id": "QSG-MA-0068",
@@ -1374,7 +1374,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. The recurring term 'Helpdesk' is absent from G-0.1; '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is proposed without changing the glossary."
+      "note": "Preserve the URL or email address exactly. Both email addresses are preserved exactly. The recurring term 'Helpdesk' is absent from G-0.1; 'सहायता कक्ष' is proposed without changing the glossary."
     },
     {
       "id": "QSG-MA-0079",
@@ -1391,7 +1391,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed rendering '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' for the recurring term 'Helpdesk', which is absent from G-0.1."
+      "note": "Uses the proposed rendering 'सहायता कक्ष' for the recurring term 'Helpdesk', which is absent from G-0.1."
     },
     {
       "id": "QSG-MA-0080",
@@ -1428,7 +1428,7 @@
       "flags": [
         "glossary-missing"
       ],
-      "note": "Uses the proposed rendering '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' for the recurring term 'areas of responsibility', which is absent from G-0.1. Workstreams remain distinct from sectors and areas of responsibility."
+      "note": "Uses the proposed rendering 'जिम्मेवारीका क्षेत्रहरू' for the recurring term 'areas of responsibility', which is absent from G-0.1. Workstreams remain distinct from sectors and areas of responsibility."
     },
     {
       "id": "QSG-MA-0082",

@@ -1,0 +1,650 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-27",
+  "unit_title": "Provide MHPSS through case management services",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "81-83",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:50:27+05:45",
+  "coverage": {
+    "source_words": 1071,
+    "row_words": 1071,
+    "skipped": [
+      "PDF p.81: running footer/page number removed: 76 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.82: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 77",
+      "PDF p.83: running footer/page number removed: 78 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-27-0001",
+      "page": "81",
+      "loc": "heading",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "3.13 Provide MHPSS through case management services",
+      "ne": "3.13 केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने",
+      "bt": "3.13 Providing MHPSS through case management services",
+      "type": "activity",
+      "terms": [
+        "T110",
+        "T118"
+      ],
+      "flags": [],
+      "note": "Retains the supplied unreviewed T110 activity label and exact activity code."
+    },
+    {
+      "id": "MAN-27-0002",
+      "page": "81",
+      "loc": "para",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Case management is a way of providing services to individuals or families who require individualized support due to their needs or circumstances.",
+      "ne": "केस व्यवस्थापन भनेको आफ्ना आवश्यकता वा परिस्थितिका कारण व्यक्तिगत रूपमा मिलाइएको सहयोग आवश्यक पर्ने व्यक्ति वा परिवारलाई सेवा प्रदान गर्ने तरिका हो।",
+      "bt": "Case management is a way of providing services to individuals or families who, because of their needs or circumstances, require individually tailored support.",
+      "type": "general",
+      "terms": [
+        "T118"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-27-0003",
+      "page": "81",
+      "loc": "para",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Different types of case management are used in the fields of protection, GBV, child protection, refugee protection, disability, mental health and victim assistance for survivors of explosions.",
+      "ne": "संरक्षण, GBV, बाल संरक्षण, शरणार्थी संरक्षण, अपाङ्गता, मानसिक स्वास्थ्य र विस्फोटबाट बचेका व्यक्तिहरूका लागि पीडित सहायताका क्षेत्रमा विभिन्न प्रकारका केस व्यवस्थापन प्रयोग गरिन्छन्।",
+      "bt": "Different types of case management are used in the fields of protection, GBV, child protection, refugee protection, disability, mental health and victim assistance for people who have survived explosions.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T036",
+        "T157",
+        "T185",
+        "T118"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "GBV is retained exactly; a glossary entry is proposed. Mental health reuses the supplied unreviewed T157 candidate."
+    },
+    {
+      "id": "MAN-27-0004",
+      "page": "81",
+      "loc": "para",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "While the format, frequency of contact and goals vary depending on the area of work, a common feature is that a case worker works jointly with each individual or family to assess their situation, develop and implement an assistance plan and regularly review progress towards goals.",
+      "ne": "कार्यको क्षेत्रअनुसार ढाँचा, सम्पर्कको आवृत्ति र लक्ष्यहरू फरक हुने भए पनि साझा विशेषता के हो भने केस कार्यकर्ताले प्रत्येक व्यक्ति वा परिवारसँग मिलेर उनीहरूको परिस्थितिको लेखाजोखा गर्ने, सहायता योजना तयार गरी कार्यान्वयन गर्ने र लक्ष्यतर्फ भएको प्रगतिको नियमित समीक्षा गर्ने काम गर्छन्।",
+      "bt": "Although the format, frequency of contact and goals differ according to the field of work, the common feature is that caseworkers work together with each individual or family to assess their circumstances, prepare and implement a support plan and regularly review progress towards the goals.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T202"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "A recurring technical label, case worker, is absent from the frozen glossary; a proposal is listed."
+    },
+    {
+      "id": "MAN-27-0005",
+      "page": "81",
+      "loc": "para",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "The case worker serves as a consistent source of support over time, providing direct care to the person or family, advocating for them and facilitating their access to other services as needed (e.g. shelter, legal assistance, mental health care).",
+      "ne": "केस कार्यकर्ताले समयसँगै सहयोगको निरन्तर स्रोतका रूपमा काम गर्छन् र व्यक्ति वा परिवारलाई प्रत्यक्ष हेरचाह प्रदान गर्ने, उनीहरूका लागि पैरवी गर्ने तथा आवश्यकताअनुसार अन्य सेवामा उनीहरूको पहुँच सहज बनाउने काम गर्छन् (जस्तै, आश्रय, कानुनी सहायता, मानसिक स्वास्थ्य सेवा)।",
+      "bt": "Caseworkers serve as a continuous source of support over time and provide direct care to individuals or families, advocate for them and facilitate their access to other services as needed (e.g., shelter, legal assistance, mental health services).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T202",
+        "T300"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Case worker is proposed for the glossary. Mental health care reuses the wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] from the supplied unreviewed activity 3.10 candidate; no new clinical wording is introduced."
+    },
+    {
+      "id": "MAN-27-0006",
+      "page": "81",
+      "loc": "para",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Each form of case management requires specific expertise and technical supervision.",
+      "ne": "केस व्यवस्थापनको प्रत्येक स्वरूपका लागि विशिष्ट विशेषज्ञता र प्राविधिक सुपरिवेक्षण आवश्यक हुन्छ।",
+      "bt": "Each form of case management requires specific expertise and technical supervision.",
+      "type": "general",
+      "terms": [
+        "T118",
+        "T309",
+        "T319"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Technical supervision is a recurring technical term without a supplied glossary entry; a proposal is listed."
+    },
+    {
+      "id": "MAN-27-0007",
+      "page": "81",
+      "loc": "para",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Dedicated training packages, guidance documents and minimum standards are available for different types of case management.",
+      "ne": "विभिन्न प्रकारका केस व्यवस्थापनका लागि विशेष रूपमा तयार गरिएका तालिम प्याकेजहरू, मार्गदर्शन दस्तावेजहरू र न्यूनतम मापदण्डहरू उपलब्ध छन्।",
+      "bt": "Training packages, guidance documents and minimum standards specifically prepared for different types of case management are available.",
+      "type": "general",
+      "terms": [
+        "T118",
+        "T087"
+      ],
+      "flags": [],
+      "note": "Reclassified as ordinary nonclinical information about available training and guidance."
+    },
+    {
+      "id": "MAN-27-0008",
+      "page": "81",
+      "loc": "para",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Regardless of the sector, however, case management must be delivered in a way that is sensitive to mental health needs, promotes safety and psychological well-being, builds on a person’s abilities and strengths and promotes family and community support.80",
+      "ne": "तथापि, क्षेत्र जुनसुकै भए पनि, केस व्यवस्थापन मानसिक स्वास्थ्यसम्बन्धी आवश्यकताप्रति संवेदनशील हुने, सुरक्षा र मानसिक सुस्वास्थ्यलाई प्रवर्द्धन गर्ने, व्यक्तिका क्षमता र सबल पक्षहरूलाई आधार बनाउने तथा परिवार र समुदायको सहयोगलाई प्रवर्द्धन गर्ने तरिकाले प्रदान गरिनुपर्छ।80",
+      "bt": "However, whatever the sector, case management must be provided in a manner that is sensitive to mental health-related needs, promotes safety and mental well-being, builds on the person's abilities and strengths, and promotes support from family and community.80",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T118",
+        "T157",
+        "T296",
+        "T344",
+        "T495"
+      ],
+      "flags": [],
+      "note": "Uses the frozen candidate for psychological well-being, distinct from psychosocial well-being, and retains footnote marker 80."
+    },
+    {
+      "id": "MAN-27-0009",
+      "page": "81",
+      "loc": "para",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "The actions below apply to all forms of case management, and should be used in conjunction with the sector-specific guidance documents (see relevant guidelines, standards and tools on the MHPSS MSP web platform).",
+      "ne": "तलका कार्यहरू केस व्यवस्थापनका सबै स्वरूपमा लागू हुन्छन् र तिनलाई क्षेत्रविशेषका मार्गदर्शन दस्तावेजहरूसँगै प्रयोग गरिनु उचित हुन्छ (MHPSS MSP वेब प्लेटफर्ममा रहेका सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण हेर्नुहोस्)।",
+      "bt": "The following actions apply to all forms of case management, and it is appropriate to use them together with sector-specific guidance documents (see the relevant guidelines, standards and tools on the MHPSS MSP web platform).",
+      "type": "general",
+      "terms": [
+        "T118",
+        "T163",
+        "T189",
+        "T019",
+        "T296"
+      ],
+      "flags": [],
+      "note": "Translated as an ordinary instruction about using sector-specific guidance. The back-translation strengthens 'should be used' to 'must be used'. The revision restores recommendation rather than mandatory force."
+    },
+    {
+      "id": "MAN-27-0010",
+      "page": "81",
+      "loc": "footnote",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "80 Some guidelines consider general child protection case management and GBV case management to be de facto MHPSS services, aligning with Level 3 of the IASC MHPSS Intervention Pyramid i.e. focused non-specialized support (e.g. UNICEF (2019). Operational Guidelines for Community-based MHPSS; GBVIMS Steering Committee (2017). Interagency GBV Case Management Guidelines).",
+      "ne": "80 केही निर्देशिकाहरूले बाल संरक्षणसम्बन्धी सामान्य केस व्यवस्थापन र GBV सम्बन्धी केस व्यवस्थापनलाई वस्तुतः MHPSS सेवाका रूपमा लिन्छन्, जुन IASC MHPSS हस्तक्षेप पिरामिडको तह 3 अर्थात् केन्द्रित, गैर-विशेषीकृत सहयोगसँग मेल खान्छ (जस्तै UNICEF (2019). [Operational Guidelines for Community-based MHPSS]; GBVIMS Steering Committee (2017). [Interagency GBV Case Management Guidelines])।",
+      "bt": "80 Some guidelines regard general child protection case management and GBV-related case management as effectively MHPSS services, which correspond to level 3 of the IASC MHPSS intervention pyramid, that is, focused, non-specialized support (e.g. UNICEF (2019). [Operational Guidelines for Community-based MHPSS]; GBVIMS Steering Committee (2017). [Interagency GBV Case Management Guidelines]).",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T036",
+        "T086",
+        "T118",
+        "T153",
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The support category focused non-specialized support has no supplied frozen Nepali equivalent; its wording is provisional, and the cited reference titles remain exact English in brackets."
+    },
+    {
+      "id": "MAN-27-0011",
+      "page": "82",
+      "loc": "heading",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-27-0012",
+      "page": "82",
+      "loc": "heading",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Provide MHPSS through case management services",
+      "ne": "केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने",
+      "bt": "Providing MHPSS through case management services",
+      "type": "activity",
+      "terms": [
+        "T110",
+        "T118"
+      ],
+      "flags": [],
+      "note": "Retains the supplied unreviewed T110 activity label."
+    },
+    {
+      "id": "MAN-27-0013",
+      "page": "82",
+      "loc": "heading",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-27-0014",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Adapt case management training curricula to include key MHPSS topics appropriate to the capacity of the available workforce (see the recommended MHPSS training topics for case workers supporting adults and children on the MHPSS MSP web platform).",
+      "ne": "उपलब्ध जनशक्तिको क्षमताअनुकूल मुख्य MHPSS विषयहरू समेट्ने गरी केस व्यवस्थापनका तालिम पाठ्यक्रमहरू अनुकूलन गर्नुहोस् (वयस्क र बालबालिकालाई सहयोग गर्ने केस कार्यकर्ताका लागि सिफारिस गरिएका MHPSS तालिमका विषयहरू MHPSS MSP वेब प्लेटफर्ममा हेर्नुहोस्)।",
+      "bt": "Adapt case management training curricula to include key MHPSS topics in line with the capacity of the available workforce (see the recommended MHPSS training topics for caseworkers supporting adults and children on the MHPSS MSP web platform).",
+      "type": "general",
+      "terms": [
+        "T118",
+        "T088",
+        "T163",
+        "T189",
+        "T202"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Case worker uses the proposed recurring technical label."
+    },
+    {
+      "id": "MAN-27-0015",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Train case workers and supervisors on the relevant MHPSS topics and skills.",
+      "ne": "केस कार्यकर्ता र सुपरिवेक्षकहरूलाई सान्दर्भिक MHPSS विषय र सीपसम्बन्धी तालिम दिनुहोस्।",
+      "bt": "Train caseworkers and supervisors in relevant MHPSS topics and skills.",
+      "type": "general",
+      "terms": [
+        "T202",
+        "T310"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Case worker and supervisor require glossary entries; proposed technical labels are listed."
+    },
+    {
+      "id": "MAN-27-0016",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Adapt case management tools, templates and referral protocols to include MHPSS (e.g. assessment and review of MHPSS needs, MHPSS considerations in care planning, criteria for MHPSS referrals, SOPs for MHPSS crisis management).",
+      "ne": "MHPSS समेट्ने गरी केस व्यवस्थापनका उपकरण, नमुना ढाँचा र सेवा प्रेषण कार्यविधिहरू अनुकूलन गर्नुहोस् (जस्तै, MHPSS आवश्यकताहरूको लेखाजोखा र समीक्षा, हेरचाहको योजना बनाउँदा MHPSS सम्बन्धी विचारणीय पक्ष, MHPSS का लागि सम्बन्धित सेवामा पठाउने कार्यका मापदण्ड, MHPSS सङ्कट व्यवस्थापनका SOPs)।",
+      "bt": "Adapt case management tools, templates and service referral procedures to include MHPSS (e.g., assessment and review of MHPSS needs, MHPSS considerations when planning care, criteria for referral to relevant services for MHPSS, SOPs for MHPSS crisis management).",
+      "type": "safety",
+      "terms": [
+        "T118",
+        "T065",
+        "T004",
+        "T172"
+      ],
+      "flags": [],
+      "note": "Drafted as general safety and service-procedure guidance; review remains pending. MHPSS crisis management is rendered as an administrative phrase, not as a clinical intervention or protocol."
+    },
+    {
+      "id": "MAN-27-0017",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Work with caregivers, family members and close contacts where safe and appropriate, to build their capacity to support the person in-need (e.g. through responsive caregiving practices and education on development, mental health and psychosocial well-being).",
+      "ne": "सुरक्षित र उपयुक्त हुने अवस्थामा, सहयोग आवश्यक पर्ने व्यक्तिलाई सहयोग गर्ने क्षमता विकास गर्न हेरचाहकर्ता, परिवारका सदस्य र निकट सम्पर्कमा रहेका व्यक्तिहरूसँग काम गर्नुहोस् (जस्तै, आवश्यकता र सङ्केतअनुसार गरिने स्याहारका अभ्यास तथा विकास, मानसिक स्वास्थ्य र मनोसामाजिक कल्याणसम्बन्धी शिक्षामार्फत)।",
+      "bt": "Where safe and appropriate, work with caregivers, family members and people in close contact to develop their capacity to support the person needing support (e.g., through caregiving practices responding to needs and cues, and education on development, mental health and psychosocial well-being).",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T157",
+        "T005",
+        "T028",
+        "T290",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance; review remains pending. Mental health and psychosocial well-being reuse the cited unreviewed T157 and T005 candidates. Responsive caregiving needs a scope-neutral glossary entry: T083 explicitly refers to children, whereas this row does not limit the person in need to a child."
+    },
+    {
+      "id": "MAN-27-0018",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Engage staff with MHPSS technical expertise to provide ongoing technical oversight and supervision to case workers providing MHPSS, through care planning meetings and individual sessions (e.g. to ensure that activities promote well-being and do not cause harm). This technical support should be in addition to (and in coordination with) the sector-specific technical oversight required by the specific form of case management (e.g. a GBV specialist overseeing GBV case management).",
+      "ne": "MHPSS प्रदान गर्ने केस कार्यकर्तालाई हेरचाहको योजना बनाउने बैठक र व्यक्तिगत सत्रमार्फत निरन्तर प्राविधिक निगरानी र सुपरिवेक्षण प्रदान गर्न MHPSS सम्बन्धी प्राविधिक विशेषज्ञता भएका कर्मचारीलाई संलग्न गराउनुहोस् (जस्तै, गतिविधिहरूले कल्याण प्रवर्द्धन गर्ने र हानि नपुर्‍याउने कुरा सुनिश्चित गर्न)। यो प्राविधिक सहयोग केस व्यवस्थापनको सम्बन्धित स्वरूपका लागि आवश्यक क्षेत्रविशेषको प्राविधिक निगरानीका अतिरिक्त र त्यससँग समन्वयमा हुनु उचित हुन्छ (जस्तै, GBV केस व्यवस्थापनको निगरानी गर्ने GBV विशेषज्ञ)।",
+      "bt": "Engage staff with technical expertise in MHPSS to provide ongoing technical monitoring and supervision to case workers providing MHPSS through care planning meetings and individual sessions (for example, to ensure that activities promote well-being and do not cause harm). It is appropriate for this technical support to be in addition to and in coordination with the sector-specific technical monitoring required for the relevant form of case management (for example, a GBV specialist monitoring GBV case management).",
+      "type": "safety",
+      "terms": [
+        "T118",
+        "T202",
+        "T296",
+        "T309",
+        "T318",
+        "T328",
+        "T349",
+        "T424"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance; review remains pending. Proposed recurring labels cover case worker, technical oversight, technical supervision and GBV. Oversight and supervision remain distinct. The back-translation strengthens 'should be in addition to (and in coordination with)' to 'must'. The revision restores recommendation strength while retaining the required sector-specific oversight and both additive and coordination conditions."
+    },
+    {
+      "id": "MAN-27-0019",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Identify safe location(s) to provide case management services. For GBV case management, consider utilizing safe spaces for women and girls and mobile options to provide non-stigmatizing access points to services. For LGBTIQ+, expand contacts with local LGBTIQ+ organizations where available, who may be able to offer safe and welcoming environments.",
+      "ne": "केस व्यवस्थापन सेवा प्रदान गर्न सुरक्षित स्थान वा स्थानहरू पहिचान गर्नुहोस्। GBV केस व्यवस्थापनका लागि सेवामा पहुँच प्राप्त गर्ने, कलङ्कित नबनाउने माध्यम उपलब्ध गराउन महिला र बालिकाका लागि सुरक्षित स्थल तथा घुम्ती विकल्पहरू प्रयोग गर्नेबारे विचार गर्नुहोस्। LGBTIQ+ का लागि, जहाँ स्थानीय LGBTIQ+ संस्थाहरू उपलब्ध छन्, ती संस्थाहरूसँग सम्पर्क विस्तार गर्नुहोस्; तिनले सुरक्षित र स्वागतपूर्ण वातावरण उपलब्ध गराउन सक्ने सम्भावना हुन्छ।",
+      "bt": "Identify a safe location or locations to provide case management services. For GBV case management, consider using safe spaces for women and girls and mobile options to provide a non-stigmatizing means of accessing services. For LGBTIQ+, where local LGBTIQ+ organizations are available, expand contact with those organizations; they may be able to provide a safe and welcoming environment.",
+      "type": "safety",
+      "terms": [
+        "T118"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance, not a verbatim safeguarding declaration; review remains pending. GBV uses the unchanged acronym pending glossary review. Girls is not narrowed to adolescents."
+    },
+    {
+      "id": "MAN-27-0020",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूअनुसार)",
+      "bt": "Additional actions for consideration (according to the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-27-0021",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Train case workers in evidence-based psychological interventions and provide technical supervision (see MSP activity 3.12).",
+      "ne": "केस कार्यकर्तालाई प्रमाणमा आधारित मनोवैज्ञानिक हस्तक्षेपसम्बन्धी तालिम दिनुहोस् र प्राविधिक सुपरिवेक्षण प्रदान गर्नुहोस् (MSP गतिविधि 3.12 हेर्नुहोस्)।",
+      "bt": "Train caseworkers in evidence-based psychological interventions and provide technical supervision (see MSP Activity 3.12).",
+      "type": "general",
+      "terms": [
+        "T007",
+        "T091",
+        "T163",
+        "T202",
+        "T228",
+        "T309",
+        "T319"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Psychological interventions reuses the cited unreviewed T007 candidate, with contextual attachment requiring review. Case worker and technical supervision use proposed recurring technical labels."
+    },
+    {
+      "id": "MAN-27-0022",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Adapt case management M&E tools and care and treatment plans to include an assessment of the impact of services on the client’s mental health and psychosocial well-being (if this is not already included).",
+      "ne": "सेवाग्राहीको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सेवाहरूले पारेको प्रभावको लेखाजोखा समावेश गर्न केस व्यवस्थापनका अनुगमन तथा मूल्याङ्कन (M&E) सम्बन्धी साधनहरू र हेरचाह तथा उपचारका योजनाहरू परिमार्जन गर्नुहोस् (यदि यस्तो लेखाजोखा पहिले नै समावेश गरिएको छैन भने)।",
+      "bt": "Modify case management monitoring and evaluation (M&E) tools and care and treatment plans to include an assessment of the impact that services have had on the service recipient's mental health and psychosocial well-being (if such an assessment is not already included).",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T005",
+        "T027",
+        "T118",
+        "T157",
+        "T328",
+        "T394",
+        "T410",
+        "T437",
+        "T438"
+      ],
+      "flags": [],
+      "note": "Retains M&E and the condition that the assessment is added only if it is not already included."
+    },
+    {
+      "id": "MAN-27-0023",
+      "page": "82",
+      "loc": "heading",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": "Ordinary resource heading; no clinical or validated instrument wording is involved."
+    },
+    {
+      "id": "MAN-27-0024",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणमा पहुँच प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to access relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-27-0025",
+      "page": "83",
+      "loc": "heading",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Key consideration 33: Ensure clarity of roles",
+      "ne": "मुख्य विचारणीय पक्ष 33: भूमिकाहरू स्पष्ट भएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Key consideration 33: Ensure that roles are clear.",
+      "type": "general",
+      "terms": [
+        "T252"
+      ],
+      "flags": [],
+      "note": "Ordinary organizational instruction; retains 33 exactly."
+    },
+    {
+      "id": "MAN-27-0026",
+      "page": "83",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Where multiple roles within an organization contribute to MHPSS outcomes, it is crucial that staff and volunteers have a clear understanding of the remit of each role and how it contributes towards shared objectives. For example, programmes sometimes include both general child protection workers and dedicated MHPSS workers within child protection teams (e.g. MHPSS officers or psychosocial support officers), with both offering forms of emotional and psychological support. If the unique contribution of each of these roles is not clearly defined, it can be confusing for both staff and service users and can lead to tension, duplication of work and data protection risks.",
+      "ne": "कुनै संस्थाभित्रका धेरै भूमिकाहरूले MHPSS का परिणाम हासिल गर्न योगदान पुर्‍याउने अवस्थामा, प्रत्येक भूमिकाको कार्यदायरा र साझा उद्देश्यहरू हासिल गर्न त्यसले कसरी योगदान पुर्‍याउँछ भन्नेबारे कर्मचारी र स्वयंसेवकहरूलाई स्पष्ट बुझाइ हुनु अत्यन्त महत्त्वपूर्ण हुन्छ। उदाहरणका लागि, कार्यक्रमहरूमा कहिलेकाहीँ बाल संरक्षण टोलीभित्र बाल संरक्षणका सामान्य कार्यकर्ता र विशेष रूपमा MHPSS का लागि खटिएका कार्यकर्ता (जस्तै MHPSS अधिकृत वा मनोसामाजिक सहयोग प्रदान गर्ने अधिकृत) दुवै समावेश हुन्छन्, र दुवैले भावनात्मक र मनोवैज्ञानिक सहयोग दिन्छन्। यदि यी प्रत्येक भूमिकाको विशिष्ट योगदान स्पष्ट रूपमा परिभाषित गरिएको छैन भने, यसले कर्मचारी र सेवा प्रयोगकर्ता दुवैलाई अन्योलमा पार्न सक्छ र तनाव, कामको दोहोरोपन तथा डेटा संरक्षणसम्बन्धी जोखिमहरू निम्त्याउन सक्छ।",
+      "bt": "Where several roles within an organization contribute to achieving MHPSS outcomes, it is extremely important that staff and volunteers have a clear understanding of the scope of work of each role and how it contributes to achieving shared objectives. For example, programmes sometimes include both general child protection workers and workers assigned specifically to MHPSS (such as an MHPSS officer or an officer providing psychosocial support) within the child protection team, and both provide emotional and psychological support. If the specific contribution of each of these roles is not clearly defined, this can confuse both staff and service users and can lead to stress, duplication of work and risks related to data protection.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T036",
+        "T216",
+        "T274",
+        "T360",
+        "T409",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Retains the distinction between general child protection workers and dedicated MHPSS workers, along with the conditional possibility of confusion, tension, duplicated work, and data protection risks."
+    },
+    {
+      "id": "MAN-27-0027",
+      "page": "83",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "When the roles and criteria for referral between different roles are clearly defined and well understood (e.g. a child protection worker providing case management and an MHPSS worker providing a specific psychological intervention), they can offer effective and complementary supports as part of a comprehensive package of care.",
+      "ne": "भूमिकाहरू र फरक भूमिका निर्वाह गर्नेहरूबीच सम्बन्धित सेवामा पठाउने कार्यका मापदण्डहरू स्पष्ट रूपमा परिभाषित गरिएका र राम्ररी बुझिएका छन् भने (जस्तै, केस व्यवस्थापन गर्ने बाल संरक्षण कार्यकर्ता र कुनै निश्चित मनोवैज्ञानिक हस्तक्षेप प्रदान गर्ने MHPSS कार्यकर्ता), उनीहरूले हेरचाहको समग्र प्याकेजको अङ्गका रूपमा प्रभावकारी र एकअर्कालाई पूरक हुने सहयोग प्रदान गर्न सक्छन्।",
+      "bt": "If the roles and the criteria for referral to relevant services between those performing different roles are clearly defined and well understood (for example, a child protection worker managing a case and an MHPSS worker providing a particular psychological intervention), they can provide effective and mutually complementary support as part of the overall package of care.",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T118",
+        "T036",
+        "T007"
+      ],
+      "flags": [],
+      "note": "Uses the cited unreviewed T007 clinical candidate verbatim. This is general guidance on coordination and referral, not a safeguarding declaration; safety review is pending."
+    },
+    {
+      "id": "MAN-27-0028",
+      "page": "83",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Where a person has needs relevant to multiple case management teams (e.g. GBV; protection), to avoid subjecting them to duplicative procedures and assessments, one case worker should assume primary responsibility and serve as their point of contact, while receiving technical input from other sectors/AoRs. The team best positioned to assume primary responsibility should be determined based on the client’s preference as well as the technical expertise needed to manage the primary or most urgent concern.",
+      "ne": "कुनै व्यक्तिका आवश्यकताहरू एकभन्दा बढी केस व्यवस्थापन टोलीसँग सम्बन्धित छन् भने (जस्तै, GBV; संरक्षण), ती व्यक्तिले दोहोरिने प्रक्रिया र लेखाजोखाबाट गुज्रनु नपरोस् भनेर एक जना केस कार्यकर्ताले प्राथमिक जिम्मेवारी लिनु र अन्य क्षेत्र/AoRs बाट प्राविधिक सुझाव प्राप्त गर्दै ती व्यक्तिको सम्पर्क व्यक्तिका रूपमा काम गर्नु उचित हुन्छ। प्राथमिक जिम्मेवारी लिन सबैभन्दा उपयुक्त टोली निर्धारण गर्दा सेवाग्राहीको प्राथमिकताका साथै मुख्य वा सबैभन्दा जरुरी सरोकारको व्यवस्थापन गर्न आवश्यक प्राविधिक विशेषज्ञतालाई आधार बनाउनु उचित हुन्छ।",
+      "bt": "If a person's needs relate to more than one case management team (for example, GBV; protection), it is appropriate for one caseworker to take primary responsibility and act as that person's contact person while obtaining technical advice from other sectors/AoRs, so that the person does not have to go through repeated processes and assessments. When determining the most suitable team to take primary responsibility, it is appropriate to base this on the client's preferences as well as the technical expertise needed to manage the main or most urgent concern.",
+      "type": "general",
+      "terms": [
+        "T118",
+        "T029",
+        "T004",
+        "T202",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring role term 'case worker' is absent from G-0.2; the proposed rendering is listed separately. GBV and AoRs are retained exactly. The back-translation strengthens both occurrences of 'should' to 'must'. The revision retains these as recommendations rather than absolute requirements."
+    },
+    {
+      "id": "MAN-27-0029",
+      "page": "83",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "See also key consideration 34.",
+      "ne": "मुख्य विचारणीय पक्ष 34 पनि हेर्नुहोस्।",
+      "bt": "See also Key Consideration 34.",
+      "type": "check",
+      "terms": [
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-27-0030",
+      "page": "83",
+      "loc": "heading",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Key consideration 34: Child and adolescent survivors of sexual violence",
+      "ne": "मुख्य विचारणीय पक्ष 34: यौन हिंसा भोगेका बालबालिका तथा किशोरकिशोरी",
+      "bt": "Key consideration 34: Children and adolescents who have experienced sexual violence",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T299"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "This is a nonclinical heading, not a verbatim safeguarding declaration. The recurring term 'survivors' lacks a standalone glossary entry; the proposed wording follows the supplied activity wording. Safety review is pending. 'Affected by sexual violence' can include indirectly affected children and adolescents; 'survivors' identifies those who experienced the violence."
+    },
+    {
+      "id": "MAN-27-0031",
+      "page": "83",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Both GBV and child protection services can support child survivors of sexual violence, as long as workers have the necessary competencies and appropriate organizational procedures are in place. It is good practice to establish inter-agency SOPs that clarify roles and responsibilities for providing case management to child survivors based on the capacities and expertise available.",
+      "ne": "कार्यकर्तासँग आवश्यक सक्षमता भएका र उपयुक्त सङ्गठनात्मक प्रक्रियाहरूको व्यवस्था भएको अवस्थामा GBV र बाल संरक्षण दुवै सेवाले यौन हिंसा भोगेका बालबालिकालाई सहयोग गर्न सक्छन्। उपलब्ध क्षमता र विशेषज्ञताका आधारमा यौन हिंसा भोगेका बालबालिकालाई केस व्यवस्थापन सेवा प्रदान गर्ने भूमिका र जिम्मेवारीहरू स्पष्ट पार्ने अन्तर-निकाय मानक कार्यसञ्चालन प्रक्रियाहरू (SOPs) स्थापना गर्नु राम्रो अभ्यास हो।",
+      "bt": "Both GBV and child protection services can support children who have experienced sexual violence when workers have the necessary competencies and appropriate organizational procedures are in place. It is good practice to establish inter-agency standard operating procedures (SOPs) that clarify the roles and responsibilities for providing case management services to children who have experienced sexual violence, based on available capacity and expertise.",
+      "type": "safety",
+      "terms": [
+        "T036",
+        "T118",
+        "T209",
+        "T299"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains both conditions concerning worker competencies and organizational procedures. 'Survivors' uses the proposed nonclinical wording; safety review is pending. Both references to child survivors become 'affected children', broadening the intended group to potentially include indirectly affected children. The revision identifies children who experienced sexual violence and retains both service-provision conditions."
+    },
+    {
+      "id": "MAN-27-0032",
+      "page": "83",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "A child should have only one case worker at any one time, and the case worker should coordinate with other providers as needed to ensure that the child does not have to endure duplicative assessments or assessment questions. A range of factors should be considered when determining the most appropriate service provider for any given child or adolescent, including the child’s wishes; the availability, training and competencies of staff; existing referral pathways and local agreements; and the service to which the child was first referred. Case workers and others working with survivors should seek further support from technical experts and supervisors with relevant expertise.",
+      "ne": "कुनै पनि समयमा प्रत्येक बालबालिकाका लागि एक जना मात्र केस कार्यकर्ता हुनु उचित हुन्छ, र बालबालिकाले दोहोरिने लेखाजोखा वा लेखाजोखाका प्रश्नहरू झेल्नु नपरोस् भन्ने सुनिश्चित गर्न केस कार्यकर्ताले आवश्यकताअनुसार अन्य सेवा प्रदायकसँग समन्वय गर्नु उचित हुन्छ। कुनै बालबालिका वा किशोरकिशोरीका लागि सबैभन्दा उपयुक्त सेवा प्रदायक निर्धारण गर्दा विभिन्न पक्षहरू विचार गर्नु उचित हुन्छ, जसमा बालबालिकाको इच्छा; कर्मचारीको उपलब्धता, तालिम र सक्षमता; विद्यमान सेवा प्रेषण मार्गहरू र स्थानीय सहमतिहरू; तथा बालबालिकालाई सबैभन्दा पहिले पठाइएको सेवा समावेश छन्। केस कार्यकर्ता र यौन हिंसा भोगेका व्यक्तिसँग काम गर्ने अन्य व्यक्तिहरूले सम्बन्धित विशेषज्ञता भएका प्राविधिक विज्ञ र सुपरिवेक्षकबाट थप सहयोग खोज्नु उचित हुन्छ।",
+      "bt": "It is appropriate for each child to have only one caseworker at any given time, and it is appropriate for the caseworker to coordinate with other service providers as needed to ensure that children do not have to face repeated assessments or assessment questions. When determining the most suitable service provider for a child or adolescent, it is appropriate to consider various factors, including the child's wishes; staff availability, training and competencies; existing service referral pathways and local agreements; and the service to which the child was first referred. It is appropriate for caseworkers and other people working with people who have experienced sexual violence to seek additional support from technical experts and supervisors with relevant expertise.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T063",
+        "T202",
+        "T209",
+        "T310",
+        "T333"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The proposed terms cover 'case worker' and 'survivors'. The one-worker-at-a-time requirement, all service-selection factors, and expert support are retained; safety review is pending. The back-translation changes all four 'should' recommendations to 'must', broadens 'survivors' to 'affected person', and changes 'seek further support' to obtaining support. The revision restores recommendation strength, the survivor referent, and seeking rather than guaranteed receipt of support."
+    },
+    {
+      "id": "MAN-27-0033",
+      "page": "83",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "Children should have a choice about what services they receive and from whom, recognizing that child survivors are not a homogeneous group. For example, adolescent girls may feel more comfortable accessing services through GBV services and spaces focused on women and girls, while adolescent boys may prefer to access support through protection or health services.",
+      "ne": "यौन हिंसा भोगेका बालबालिका एकरूप समूह होइनन् भन्ने कुरालाई ध्यानमा राख्दै, बालबालिकाले कुन सेवाहरू कसबाट प्राप्त गर्ने भन्ने छनोट गर्न पाउनु उचित हुन्छ। उदाहरणका लागि, किशोरीहरूले GBV सेवाहरू तथा महिला र बालिकामा केन्द्रित स्थलहरूमार्फत सेवा लिन बढी सहज महसुस गर्न सक्छन् भने किशोरहरूले संरक्षण वा स्वास्थ्य सेवामार्फत सहयोग लिन रुचाउन सक्छन्।",
+      "bt": "Keeping in mind that children who have experienced sexual violence are not a homogeneous group, it is appropriate for children to be allowed to choose which services they receive and from whom. For example, adolescent girls may feel more comfortable receiving services through GBV services and spaces focused on women and girls, while adolescent boys may prefer to receive support through protection or health services.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T027"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Classified as general safety guidance on service choice, not a consent declaration or clinical text. 'Survivors' uses the proposed nonclinical wording; safety review is pending. 'Child survivors' becomes the broader 'affected children', and 'should have a choice' becomes 'must be allowed to choose'. The revision restores the survivor referent and the source's recommendation strength."
+    },
+    {
+      "id": "MAN-27-0034",
+      "page": "83",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.13 Provide MHPSS through case management services",
+      "en": "See also key consideration 25.",
+      "ne": "मुख्य विचारणीय पक्ष 25 पनि हेर्नुहोस्।",
+      "bt": "See also Key Consideration 25.",
+      "type": "check",
+      "terms": [
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

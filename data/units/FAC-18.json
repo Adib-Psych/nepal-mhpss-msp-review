@@ -1,0 +1,331 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-18",
+  "unit_title": "Costing Tool Practice Exercises",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "70-70",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:03:09+05:45",
+  "coverage": {
+    "source_words": 277,
+    "row_words": 277,
+    "skipped": [
+      "Page 70: running-footer: 66 · MSP Workshop Facilitator Manual · Mofule 9"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-18-0001",
+      "page": "70",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "9.2 Costing Tool Practice Exercises",
+      "ne": "9.2 लागत गणना उपकरण प्रयोगका अभ्यासहरू",
+      "bt": "9.2 Exercises in using the cost calculation tool",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Costing Tool is absent from G-0.3; proposed wording is listed for review."
+    },
+    {
+      "id": "FAC-18-0002",
+      "page": "70",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Using the costing Tool",
+      "ne": "लागत गणना उपकरणको प्रयोग",
+      "bt": "Use of the cost calculation tool",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for Costing Tool."
+    },
+    {
+      "id": "FAC-18-0003",
+      "page": "70",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Prepare",
+      "ne": "तयारी गर्नुहोस्।",
+      "bt": "Prepare.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-18-0004",
+      "page": "70",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "50 min",
+      "ne": "50 मिनेट",
+      "bt": "50 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary duration label; no protected content."
+    },
+    {
+      "id": "FAC-18-0005",
+      "page": "70",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• Costing Tool Practice Exercises",
+      "ne": "• लागत गणना उपकरण प्रयोगका अभ्यासहरू",
+      "bt": "• Exercises in using the cost calculation tool",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for Costing Tool."
+    },
+    {
+      "id": "FAC-18-0006",
+      "page": "70",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Guide",
+      "ne": "मार्गदर्शिका",
+      "bt": "Guide",
+      "type": "general",
+      "terms": [
+        "T144"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-18-0007",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "In this section, participants will have a chance to practice using the Costing Tool after watching a demonstration.",
+      "ne": "यस खण्डमा सहभागीहरूले प्रदर्शन हेरेपछि लागत गणना उपकरण प्रयोग गर्ने अभ्यासको अवसर पाउनेछन्।",
+      "bt": "In this section, participants will have an opportunity to practice using the cost calculation tool after watching a demonstration.",
+      "type": "general",
+      "terms": [
+        "T406",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for Costing Tool."
+    },
+    {
+      "id": "FAC-18-0008",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Distribute the Costing Tool Practice Exercises handout.",
+      "ne": "लागत गणना उपकरण प्रयोगका अभ्यासहरू समेटिएको वितरण सामग्री बाँड्नुहोस्।",
+      "bt": "Distribute the handout containing exercises in using the cost calculation tool.",
+      "type": "general",
+      "terms": [
+        "T373"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for Costing Tool and handout, both absent from G-0.3."
+    },
+    {
+      "id": "FAC-18-0009",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Explain that there will be three types of practice exercises: a demonstration, a follow-along exercise, and a practice exercise.",
+      "ne": "तीन प्रकारका अभ्यास हुनेछन् भनी स्पष्ट पार्नुहोस्: प्रदर्शन, प्रदर्शनसँगै गरिने अभ्यास र अभ्यास।",
+      "bt": "Clarify that there will be three types of exercises: demonstration, practice done along with the demonstration, and practice.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-18-0010",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Start with the demonstration.",
+      "ne": "प्रदर्शनबाट सुरु गर्नुहोस्।",
+      "bt": "Start with the demonstration.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-18-0011",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Using scenario #1 from the Costing Tool Practice Exercises, demonstrate how to complete the costing tool for that example and show the final costs for the local context.",
+      "ne": "लागत गणना उपकरण प्रयोगका अभ्यासहरूमा दिइएको परिदृश्य #1 प्रयोग गरी उक्त उदाहरणका लागि लागत गणना उपकरण कसरी भर्ने भनेर प्रदर्शन गर्नुहोस् र स्थानीय सन्दर्भअनुसारको अन्तिम लागत देखाउनुहोस्।",
+      "bt": "Using scenario #1 given in the exercises in using the cost calculation tool, demonstrate how to fill in the cost calculation tool for that example and show the final cost according to the local context.",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for Costing Tool and scenario. The numbered example is an ordinary training instruction."
+    },
+    {
+      "id": "FAC-18-0012",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Encourage participants to simply watch this demonstration, though some may be able to follow along already.",
+      "ne": "केही सहभागीहरू अहिल्यै प्रदर्शनसँगै अभ्यास गर्न सक्षम हुन सक्ने भए पनि सहभागीहरूलाई यो प्रदर्शन केवल हेर्न प्रोत्साहित गर्नुहोस्।",
+      "bt": "Although some participants may already be able to practice along with the demonstration, encourage participants only to watch this demonstration.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-18-0013",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Move to scenario #2 from the Costing Tool Practice Exercises and explain that you will be doing it together.",
+      "ne": "लागत गणना उपकरण प्रयोगका अभ्यासहरूमा दिइएको परिदृश्य #2 मा जानुहोस् र यो अभ्यास तपाईं र सहभागीहरूले सँगै गर्नुहुनेछ भनी स्पष्ट पार्नुहोस्।",
+      "bt": "Move to scenario #2 given in the exercises in using the cost calculation tool and clarify that you and the participants will do this exercise together.",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for Costing Tool and scenario. Preserves the joint exercise and #2 identifier."
+    },
+    {
+      "id": "FAC-18-0014",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Demonstrate how to complete the costing tool for that example, asking participants to do the same on their own laptops (pair any participants without laptops with another participant who has one).",
+      "ne": "उक्त उदाहरणका लागि लागत गणना उपकरण कसरी भर्ने भनेर प्रदर्शन गर्नुहोस् र सहभागीहरूलाई आआफ्ना ल्यापटपमा त्यसै गर्न भन्नुहोस् (ल्यापटप नभएका प्रत्येक सहभागीलाई ल्यापटप भएको अर्को सहभागीसँग जोडी बनाइदिनुहोस्)।",
+      "bt": "Demonstrate how to fill in the cost calculation tool for that example and tell participants to do the same on their own laptops (pair each participant without a laptop with another participant who has a laptop).",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for Costing Tool."
+    },
+    {
+      "id": "FAC-18-0015",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Check to ensure that all participants are able to arrive at the same total budget and move around the room to help anyone who needs it.",
+      "ne": "सबै सहभागीहरूले एउटै कुल बजेट निकाल्न सकेका छन् भनी जाँचेर सुनिश्चित गर्नुहोस् र सहयोग चाहिने जोसुकैलाई मद्दत गर्न कोठाभरि घुम्नुहोस्।",
+      "bt": "Check and ensure that all participants have been able to arrive at the same total budget, and move around the room to help anyone who needs assistance.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-18-0016",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Divide participants into small groups to complete the remaining scenarios from the handout on their own, providing as much support as needed.",
+      "ne": "वितरण सामग्रीमा रहेका बाँकी परिदृश्यहरूमा आधारित अभ्यास आफैँ पूरा गर्न सहभागीहरूलाई साना समूहमा विभाजन गर्नुहोस् र आवश्यकताअनुसार सहयोग प्रदान गर्नुहोस्।",
+      "bt": "Divide participants into small groups to complete the practice based on the remaining scenarios in the handout themselves, and provide assistance as needed.",
+      "type": "general",
+      "terms": [
+        "T373",
+        "T406",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for handout and scenario."
+    },
+    {
+      "id": "FAC-18-0017",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Bring them back together to review their answers and, if necessary, help people identify where they went wrong if they did not get the correct answer.",
+      "ne": "उनीहरूका उत्तरहरूको समीक्षा गर्न उनीहरूलाई पुनः एक ठाउँमा भेला गर्नुहोस् र सही उत्तर नआएको भए, आवश्यकताअनुसार उनीहरूलाई कहाँ गल्ती भयो भनेर पहिचान गर्न सहयोग गर्नुहोस्।",
+      "bt": "Bring them back together in one place to review their answers and, if they have not arrived at the correct answer, help them identify where they went wrong as needed.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-18-0018",
+      "page": "70",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Note for facilitators",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी",
+      "bt": "Note for the facilitator",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-18-0019",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Facilitators need to prepare several scenarios in advance, using the outline on the Costing Tool Practice Exercises handout.",
+      "ne": "सहजीकरणकर्ताले लागत गणना उपकरण प्रयोगका अभ्यासहरू समेटिएको वितरण सामग्रीमा दिइएको रूपरेखा प्रयोग गरी केही परिदृश्यहरू पहिल्यै तयार गर्नुपर्छ।",
+      "bt": "The facilitator must prepare some scenarios in advance using the outline given in the handout containing exercises in using the cost calculation tool.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T373",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for Costing Tool, handout and scenario."
+    },
+    {
+      "id": "FAC-18-0020",
+      "page": "70",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Facilitators will need to determine the answers for the practice exercises based on the country in which the workshop is being held.",
+      "ne": "सहजीकरणकर्ताले कार्यशाला आयोजना भइरहेको देशको आधारमा अभ्यासका उत्तरहरू निर्धारण गर्नुपर्नेछ।",
+      "bt": "The facilitator will have to determine the answers to the exercises based on the country where the workshop is being held.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-14",
+  "unit_title": "Uses of the MSP",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "61-62",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:03:16+05:45",
+  "coverage": {
+    "source_words": 526,
+    "row_words": 526,
+    "skipped": [
+      "Page 61: running-footer: Module 8 · MSP Workshop Facilitator Manual · 57",
+      "Page 62: running-footer: 58 · MSP Workshop Facilitator Manual · Module 8",
+      "Page 62: image-content-unverified: Exact embedded text, if present, is not transcribed."
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-14-0001",
+      "page": "61",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "Module 8:",
+      "ne": "मोड्युल 8:",
+      "bt": "Module 8:",
+      "type": "activity",
+      "terms": [
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0002",
+      "page": "61",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "Using the MSP",
+      "ne": "MSP को प्रयोग",
+      "bt": "Use of the MSP",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0003",
+      "page": "61",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "By the end of this module, participants will be able to:",
+      "ne": "यस मोड्युलको अन्त्यसम्ममा सहभागीहरू निम्न कार्य गर्न सक्षम हुनेछन्:",
+      "bt": "By the end of this module, participants will be able to do the following:",
+      "type": "general",
+      "terms": [
+        "T399",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0004",
+      "page": "61",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "› Advocate for MHPSS in a variety of contexts",
+      "ne": "› विभिन्न सन्दर्भमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) का लागि पैरवी गर्न",
+      "bt": "› Advocate for mental health and psychosocial support (MHPSS) in different contexts",
+      "type": "general",
+      "terms": [
+        "T001"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "T001 is reused verbatim from its cited unreviewed candidate. The recurring term advocacy is absent from the supplied glossary; a proposal is listed."
+    },
+    {
+      "id": "FAC-14-0005",
+      "page": "61",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "› Understand the different uses of the MSP",
+      "ne": "› MSP का विभिन्न प्रयोग बुझ्न",
+      "bt": "› Understand different uses of the MSP",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0006",
+      "page": "61",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "8.1 Uses of the MSP",
+      "ne": "8.1 MSP का प्रयोगहरू",
+      "bt": "8.1 Uses of the MSP",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0007",
+      "page": "61",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "› How can I use the MSP?",
+      "ne": "› म MSP कसरी प्रयोग गर्न सक्छु?",
+      "bt": "› How can I use the MSP?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0008",
+      "page": "61",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0009",
+      "page": "61",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "8.2 MSP Scenario Challenges",
+      "ne": "8.2 MSP सम्बन्धी परिदृश्यमा आधारित चुनौतीहरू",
+      "bt": "8.2 Scenario-based challenges concerning the MSP",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T419",
+        "T420",
+        "T421"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring activity label Scenario Challenges is absent from the supplied glossary; a proposal is listed."
+    },
+    {
+      "id": "FAC-14-0010",
+      "page": "61",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "› Scenario Challenges",
+      "ne": "› परिदृश्यमा आधारित चुनौतीहरू",
+      "bt": "› Scenario-based challenges",
+      "type": "general",
+      "terms": [
+        "T419",
+        "T420",
+        "T421"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of Scenario Challenges, which is absent from the supplied glossary."
+    },
+    {
+      "id": "FAC-14-0011",
+      "page": "61",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "70 min",
+      "ne": "70 मिनेट",
+      "bt": "70 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0012",
+      "page": "61",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "8.3 Next Steps for Participants",
+      "ne": "8.3 सहभागीहरूका लागि आगामी कदमहरू",
+      "bt": "8.3 Next steps for participants",
+      "type": "check",
+      "terms": [
+        "T402",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0013",
+      "page": "61",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "› Next steps with the MSP",
+      "ne": "› MSP सम्बन्धी आगामी कदमहरू",
+      "bt": "› Next steps concerning the MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T402"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0014",
+      "page": "61",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "30 min",
+      "ne": "30 मिनेट",
+      "bt": "30 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0015",
+      "page": "62",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "8.1 Uses of the MSP",
+      "ne": "8.1 MSP का प्रयोगहरू",
+      "bt": "8.1 Uses of the MSP",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0016",
+      "page": "62",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "How can I use the MSP?",
+      "ne": "म MSP कसरी प्रयोग गर्न सक्छु?",
+      "bt": "How can I use the MSP?",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0017",
+      "page": "62",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0018",
+      "page": "62",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0019",
+      "page": "62",
+      "loc": "para",
+      "section": "Uses of the MSP",
+      "en": "participants how they have used the MSP before and how they see themselves using the MSP in the future.",
+      "ne": "सहभागीहरूले विगतमा MSP कसरी प्रयोग गरेका छन् र भविष्यमा MSP कसरी प्रयोग गर्ने सोच राखेका छन् भन्नेबारे उनीहरूलाई सोध्नुहोस्।",
+      "bt": "Ask participants about how they have used the MSP in the past and how they are thinking of using the MSP in the future.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T406"
+      ],
+      "flags": [],
+      "note": "The source continues the preceding Ask heading; the instruction is made grammatically complete in Nepali."
+    },
+    {
+      "id": "FAC-14-0020",
+      "page": "62",
+      "loc": "heading",
+      "section": "Uses of the MSP",
+      "en": "Highlight",
+      "ne": "जोड दिनुहोस्।",
+      "bt": "Emphasize.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0021",
+      "page": "62",
+      "loc": "para",
+      "section": "Uses of the MSP",
+      "en": "The MSP can be used for many purposes:",
+      "ne": "MSP विभिन्न प्रयोजनका लागि प्रयोग गर्न सकिन्छ:",
+      "bt": "The MSP can be used for different purposes:",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0022",
+      "page": "62",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "• The MSP can help to improve coordination and collaboration across sectors and actors. The MSP provides a common language and a unifying framework on what counts as MHPSS and what it typically looks like in different sectors.",
+      "ne": "• MSP ले क्षेत्रहरू र सम्बद्ध पक्षहरूबीच समन्वय तथा सहकार्य सुधार गर्न मद्दत गर्न सक्छ। केलाई MHPSS मानिन्छ र विभिन्न क्षेत्रमा सामान्यतया यसको स्वरूप कस्तो हुन्छ भन्ने विषयमा MSP ले साझा भाषा र एकीकृत ढाँचा प्रदान गर्छ।",
+      "bt": "• The MSP can help improve coordination and collaboration between sectors and relevant parties. The MSP provides a common language and a unified framework regarding what is considered MHPSS and what form it generally takes in different sectors.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T296",
+        "T114",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring technical term coordination is absent as a standalone glossary entry; a proposal is listed."
+    },
+    {
+      "id": "FAC-14-0023",
+      "page": "62",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "• The MSP can be useful in understanding and communicating about who typically does what, while also outlining that many activities are actually delivered by multiple sectors – e.g., disseminating key messages on MHPSS can be done by many sectors, group activities for child wellbeing are often delivered within child protection or education, whereas Safe Spaces for Women and Girls are typically run by GBV actors specifically.",
+      "ne": "• सामान्यतया कसले के गर्छ भन्ने बुझ्न र त्यसबारे जानकारी आदानप्रदान गर्न MSP उपयोगी हुन सक्छ। यसले धेरै गतिविधि वास्तवमा एकभन्दा बढी क्षेत्रमार्फत सञ्चालन गरिन्छन् भन्ने पनि स्पष्ट पार्छ। उदाहरणका लागि, MHPSS सम्बन्धी मुख्य सन्देशहरू प्रसार गर्ने काम धेरै क्षेत्रले गर्न सक्छन्; बालबालिकाको कल्याणका लागि सामूहिक गतिविधिहरू प्रायः बाल संरक्षण वा शिक्षा क्षेत्रभित्र सञ्चालन गरिन्छन् भने महिला तथा बालिकाहरूका लागि सुरक्षित स्थलहरू सामान्यतया विशेष रूपमा GBV क्षेत्रमा कार्यरत पक्षहरूद्वारा सञ्चालन गरिन्छन्।",
+      "bt": "• MSP can be useful for understanding who generally does what and exchanging information about it. It also makes clear that many activities are actually carried out through more than one sector. For example, the work of disseminating key messages related to MHPSS can be done by many sectors; group activities for the well-being of children are often carried out within the child protection or education sector, while safe spaces for women and girls are generally run by actors working specifically in the GBV sector.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T296",
+        "T253",
+        "T036",
+        "T028",
+        "T293",
+        "T138"
+      ],
+      "flags": [],
+      "note": "The source says girls without an adolescent-only restriction; [Nepali wording recorded in terminology evidence] and the back-translation narrow the group to adolescent girls. The revision removes that age restriction."
+    },
+    {
+      "id": "FAC-14-0024",
+      "page": "62",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "• People coordinating the humanitarian response can see where the MHPSS gaps are in different sectors (e.g., health, education), and what additional activities may be needed to meet the mental health needs of affected populations – so they can advise implementing partners and donors.",
+      "ne": "• मानवीय प्रतिकार्यको समन्वय गर्ने व्यक्तिहरूले विभिन्न क्षेत्र (जस्तै, स्वास्थ्य, शिक्षा) मा MHPSS सम्बन्धी कमीहरू कहाँ छन् र प्रभावित जनसमूहको मानसिक स्वास्थ्यसम्बन्धी आवश्यकता पूरा गर्न थप के गतिविधि आवश्यक पर्न सक्छन् भन्ने पहिचान गर्न सक्छन्। यसका आधारमा उनीहरूले कार्यान्वयन गर्ने साझेदारहरू र दातृ निकायलाई सल्लाह दिन सक्छन्।",
+      "bt": "• People coordinating the humanitarian response can identify where there are gaps concerning MHPSS in different sectors (e.g., health, education) and what additional activities may be needed to meet the mental health needs of the affected population. On this basis, they can advise implementing partners and donor agencies.",
+      "type": "general",
+      "terms": [
+        "T003",
+        "T296",
+        "T027",
+        "T028",
+        "T232",
+        "T192",
+        "T157",
+        "T023"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Reclassified from check to general because this is ordinary coordination guidance, not a clinical check. Uses the proposed standalone term for coordination."
+    },
+    {
+      "id": "FAC-14-0025",
+      "page": "62",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "• The MSP can help you to set priorities, assess existing programmes and determine specific actions to take to strengthen existing programmes, as well as initiate activities that are not being implemented.",
+      "ne": "• MSP ले तपाईंलाई प्राथमिकता निर्धारण गर्न, विद्यमान कार्यक्रमहरूको लेखाजोखा गर्न र ती कार्यक्रम सुदृढ गर्न अपनाउनुपर्ने ठोस कार्य निर्धारण गर्न मद्दत गर्न सक्छ। यसले कार्यान्वयन नभइरहेका गतिविधिहरू सुरु गर्न पनि मद्दत गर्न सक्छ।",
+      "bt": "• The MSP can help you set priorities, take stock of existing programmes and determine concrete actions that need to be taken to strengthen those programmes. It can also help start activities that are not being implemented.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0026",
+      "page": "62",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "• The MSP can be used to plan and budget a response. It can help you easily see what budget is needed for specific MHPSS activities.",
+      "ne": "• प्रतिकार्यको योजना बनाउन र बजेट तयार गर्न MSP प्रयोग गर्न सकिन्छ। यसले विशिष्ट MHPSS गतिविधिहरूका लागि कति बजेट आवश्यक पर्छ भन्ने सजिलै पहिचान गर्न मद्दत गर्न सक्छ।",
+      "bt": "• The MSP can be used to plan the response and prepare a budget. It can help easily identify how much budget is needed for specific MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T163",
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-14-0027",
+      "page": "62",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "• When writing Humanitarian Response Plans, Refugee Response Plans, often these have to be done very quickly, and most of the time the person tasked with drafting these are not MHPSS specialists but are expected to include MPHSS. The MSP can be very helpful in quickly identifying which activities are typically included by different sectors and providing language that can be quickly taken from the MSP and included in the first draft (before review and tailoring as needed).",
+      "ne": "• मानवीय प्रतिकार्य योजनाहरू र शरणार्थी प्रतिकार्य योजनाहरू लेख्दा प्रायः यी योजनाहरू धेरै छिटो तयार गर्नुपर्ने हुन्छ, र अधिकांश अवस्थामा तिनको मस्यौदा तयार गर्ने जिम्मा पाएका व्यक्ति MHPSS का विशेषज्ञ हुँदैनन्, तर उनीहरूले MPHSS समावेश गर्ने अपेक्षा गरिन्छ। विभिन्न क्षेत्रहरूले सामान्यतया कुन गतिविधिहरू समावेश गर्छन् भन्ने कुरा छिटो पहिचान गर्न र MSP बाट छिट्टै लिएर पहिलो मस्यौदामा समावेश गर्न सकिने भाषा उपलब्ध गराउन MSP निकै उपयोगी हुन सक्छ (समीक्षा र आवश्यकताअनुसार परिमार्जन गर्नुअघि)।",
+      "bt": "• When writing humanitarian response plans and refugee response plans, these plans often have to be prepared very quickly, and in most cases the people tasked with preparing their drafts are not experts in MHPSS, but they are expected to include MPHSS. The MSP can be very useful for quickly identifying which activities different sectors generally include and for providing language that can be quickly taken from the MSP and included in the first draft (before review and revision as needed).",
+      "type": "safety",
+      "terms": [
+        "T003",
+        "T163",
+        "T174",
+        "T296"
+      ],
+      "flags": [
+        "unclear-english"
+      ],
+      "note": "The source uses both MHPSS and MPHSS without clarifying whether they denote the same thing; both are preserved unchanged, and the intended acronym in 'expected to include MPHSS' requires confirmation."
+    },
+    {
+      "id": "FAC-14-0028",
+      "page": "62",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "• You can use the MSP when designing programmes. It maps out concrete actions and steps for strengthening existing activities and initiating activities that are missing. Not just programmatic activities but also things like developing systems for monitoring and evaluation and staff wellbeing – things that we know are critical but are rarely mapped out concretely in proposals and therefore not always well resourced.",
+      "ne": "• कार्यक्रमको डिजाइन गर्दा तपाईंले MSP प्रयोग गर्न सक्नुहुन्छ। यसले विद्यमान गतिविधिहरू सुदृढ गर्न र हाल नभएका गतिविधिहरू सुरु गर्न आवश्यक ठोस कार्य र चरणहरू स्पष्ट पार्छ। यसमा कार्यक्रमगत गतिविधि मात्र होइन, अनुगमन तथा मूल्याङ्कन र कर्मचारीको कल्याणका लागि प्रणाली विकास गर्ने जस्ता विषय पनि समावेश छन्। यी विषय अत्यावश्यक छन् भन्ने हामीलाई थाहा भए पनि प्रस्तावहरूमा तिनका ठोस कार्य र चरणहरू विरलै स्पष्ट पारिन्छन्, त्यसैले तिनका लागि सधैँ पर्याप्त स्रोतसाधन उपलब्ध हुँदैनन्।",
+      "bt": "• You can use MSP when designing a programme. It clarifies the concrete actions and steps needed to strengthen existing activities and start activities that are not currently in place. This includes not only programmatic activities but also matters such as developing systems for monitoring and evaluation and staff well-being. Although we know that these matters are essential, concrete actions and steps for them are rarely clarified in proposals, so sufficient resources are not always available for them.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T166",
+        "T046",
+        "T409"
+      ],
+      "flags": [],
+      "note": "The source describes developing systems for monitoring and evaluation and staff wellbeing. The Nepali instead specifies systems only for monitoring and evaluation and substitutes general arrangements for staff wellbeing. The revision retains systems development for both."
+    },
+    {
+      "id": "FAC-14-0029",
+      "page": "62",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "• The MSP also helps to advocate for MHPSS funding, internally and with donors. It helps to communicate needs and gaps to donors and decision makers as well as to promote MHPSS in different areas of work.",
+      "ne": "• MSP ले संस्थाभित्र र दातृ निकायसँग MHPSS को वित्तपोषणका लागि पैरवी गर्न पनि मद्दत गर्छ। यसले आवश्यकता र कमीहरूबारे दातृ निकाय तथा निर्णयकर्तालाई जानकारी दिनुका साथै कामका विभिन्न क्षेत्रमा MHPSS प्रवर्द्धन गर्न मद्दत गर्छ।",
+      "bt": "• The MSP also helps advocate for MHPSS funding within the organization and with donor agencies. It helps inform donor agencies and decision-makers about needs and gaps, as well as promote MHPSS in different areas of work.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T023",
+        "T231",
+        "T232",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of advocacy, which is absent from the supplied glossary."
+    },
+    {
+      "id": "FAC-14-0030",
+      "page": "62",
+      "loc": "bullet",
+      "section": "Uses of the MSP",
+      "en": "• The MSP also collates numerous resources so you can use it to identify training topics, tools and guidance for each activity, as well as resources for at-risk groups.",
+      "ne": "• MSP ले थुप्रै स्रोतसामग्री पनि एकत्रित गर्छ। त्यसैले प्रत्येक गतिविधिका लागि तालिमका विषयहरू, साधन र मार्गदर्शनका साथै जोखिममा रहेका समूहहरूका लागि स्रोतसामग्री पहिचान गर्न तपाईंले यसलाई प्रयोग गर्न सक्नुहुन्छ।",
+      "bt": "• The MSP also brings together many resources. Therefore, you can use it to identify training topics, tools and guidance for each activity, as well as resources for groups at risk.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T088",
+        "T334",
+        "T416",
+        "T437"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

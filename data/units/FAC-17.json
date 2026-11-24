@@ -1,0 +1,842 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-17",
+  "unit_title": "The MSP Costing Tool",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "67-69",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:03:09+05:45",
+  "coverage": {
+    "source_words": 676,
+    "row_words": 676,
+    "skipped": [
+      "Page 67: running-footer: Mofule 9 · MSP Workshop Facilitator Manual · 63",
+      "Page 68: running-footer: 64 · MSP Workshop Facilitator Manual · Mofule 9",
+      "Page 68: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 68: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 69: running-footer: Mofule 9 · MSP Workshop Facilitator Manual · 65",
+      "Page 69: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 69: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 69: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 69: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 69: image-content-unverified: Exact embedded text, if present, is not transcribed."
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-17-0001",
+      "page": "67",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "Module 9:",
+      "ne": "मोड्युल 9:",
+      "bt": "Module 9:",
+      "type": "activity",
+      "terms": [
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: module = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-17-0002",
+      "page": "67",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "The MSP Costing Tool (optional)",
+      "ne": "MSP लागत अनुमान उपकरण (वैकल्पिक)",
+      "bt": "MSP cost estimation tool (optional)",
+      "type": "activity",
+      "terms": [
+        "T020",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0003",
+      "page": "67",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "By the end of this module, participants will be able to:",
+      "ne": "यस मोड्युलको अन्त्यसम्ममा सहभागीहरू निम्न कार्य गर्न सक्षम हुनेछन्:",
+      "bt": "By the end of this module, participants will be able to do the following:",
+      "type": "general",
+      "terms": [
+        "T399",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term module = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-17-0004",
+      "page": "67",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "› Use the MSP Costing Tool to generate a budget for MHPSS programming in a humanitarian response",
+      "ne": "› मानवीय प्रतिकार्यमा MHPSS कार्यक्रम तर्जुमा तथा कार्यान्वयनका लागि बजेट तयार गर्न MSP लागत अनुमान उपकरण प्रयोग गर्ने।",
+      "bt": "› Use the MSP cost estimation tool to prepare a budget for planning and implementing MHPSS programmes in humanitarian response.",
+      "type": "general",
+      "terms": [
+        "T003",
+        "T020",
+        "T282",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0005",
+      "page": "67",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "9.1 The MSP Costing Tool",
+      "ne": "9.1 MSP लागत अनुमान उपकरण",
+      "bt": "9.1 MSP cost estimation tool",
+      "type": "activity",
+      "terms": [
+        "T020",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0006",
+      "page": "67",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "› Overview of the Costing Tool",
+      "ne": "› लागत अनुमान उपकरणको झलक",
+      "bt": "› Overview of the cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T016",
+        "T351"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring short form: Costing Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence], consistent with T020 without adding MSP where absent from the source."
+    },
+    {
+      "id": "FAC-17-0007",
+      "page": "67",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "20 min",
+      "ne": "20 मिनेट",
+      "bt": "20 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0008",
+      "page": "67",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "9.2 Costing Tool Practice Exercises",
+      "ne": "9.2 लागत अनुमान उपकरण प्रयोग गर्ने अभ्यासहरू",
+      "bt": "9.2 Exercises in using the cost estimation tool",
+      "type": "activity",
+      "terms": [
+        "T351"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed short form Costing Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Reclassified as an activity heading rather than a check."
+    },
+    {
+      "id": "FAC-17-0009",
+      "page": "67",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "› Using the Costing tool",
+      "ne": "› लागत अनुमान उपकरणको प्रयोग",
+      "bt": "› Use of the cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T351"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed short form Costing Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-17-0010",
+      "page": "67",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "50 min",
+      "ne": "50 मिनेट",
+      "bt": "50 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0011",
+      "page": "68",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "9.1 The MSP Costing Tool",
+      "ne": "9.1 MSP लागत अनुमान उपकरण",
+      "bt": "9.1 MSP cost estimation tool",
+      "type": "activity",
+      "terms": [
+        "T020",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0012",
+      "page": "68",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "Overview of the MSP Costing Tool",
+      "ne": "MSP लागत अनुमान उपकरणको झलक",
+      "bt": "Overview of the MSP cost estimation tool",
+      "type": "activity",
+      "terms": [
+        "T020",
+        "T016",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0013",
+      "page": "68",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "Prepare",
+      "ne": "तयारी गर्नुहोस्।",
+      "bt": "Prepare.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0014",
+      "page": "68",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "20 min",
+      "ne": "20 मिनेट",
+      "bt": "20 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0015",
+      "page": "68",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "For this module, it is useful for participants to have laptops so that they can follow along and practice navigating through the tool.",
+      "ne": "यस मोड्युलका लागि सहभागीहरूसँग ल्यापटप हुनु उपयोगी हुन्छ, जसले गर्दा उनीहरूले सँगसँगै प्रक्रिया पछ्याउन र उपकरणका विभिन्न भागमा जाने अभ्यास गर्न सक्छन्।",
+      "bt": "It is useful for participants to have laptops for this module so that they can follow the process together and practise going to different parts of the tool.",
+      "type": "general",
+      "terms": [
+        "T399",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term module = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-17-0016",
+      "page": "68",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "While sharing your screen, navigate to the costing tool on the online platform and ask participants to download a copy.",
+      "ne": "आफ्नो स्क्रिन साझा गर्दै अनलाइन मञ्चमा रहेको लागत अनुमान उपकरण खोल्नुहोस् र सहभागीहरूलाई त्यसको एक प्रति डाउनलोड गर्न भन्नुहोस्।",
+      "bt": "While sharing your screen, open the cost estimation tool on the online platform and ask participants to download a copy of it.",
+      "type": "general",
+      "terms": [
+        "T351",
+        "T404",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed short form Costing Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-17-0017",
+      "page": "68",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "Once all participants have done so, move through the tool together, explaining how to complete it and answering questions as you go.",
+      "ne": "सबै सहभागीहरूले त्यसो गरिसकेपछि, उपकरणमा कसरी विवरण भर्ने भनेर व्याख्या गर्दै र सो क्रममा उठेका प्रश्नहरूको उत्तर दिँदै सबैसँगै उपकरणका विभिन्न भाग हेर्नुहोस्।",
+      "bt": "Once all participants have done so, look through the different parts of the tool together with everyone, explaining how to fill in details in the tool and answering questions that arise during the process.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0018",
+      "page": "68",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "Tell participants that the Costing Tool user guide is also available for download.",
+      "ne": "लागत अनुमान उपकरणको प्रयोगकर्ता मार्गदर्शिका पनि डाउनलोड गर्न उपलब्ध छ भनी सहभागीहरूलाई बताउनुहोस्।",
+      "bt": "Tell participants that the user guide for the cost estimation tool is also available to download.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T351",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed short form Costing Tool = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-17-0019",
+      "page": "68",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "It provides guidance on the use of the tool.",
+      "ne": "यसले उपकरणको प्रयोगबारे मार्गदर्शन दिन्छ।",
+      "bt": "It provides guidance on using the tool.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0020",
+      "page": "68",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "Begin",
+      "ne": "सुरु गर्नुहोस्।",
+      "bt": "Start.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0021",
+      "page": "68",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "on the Home sheet and point out:",
+      "ne": "Home कार्यपत्रकमा सुरु गरी निम्न कुराहरू देखाउनुहोस्।",
+      "bt": "Start on the Home worksheet and show the following.",
+      "type": "general",
+      "terms": [
+        "T426"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Home is retained as the interface label. Proposed recurring spreadsheet term: sheet = [Nepali wording recorded in terminology evidence]. This fragment continues the preceding Begin heading."
+    },
+    {
+      "id": "FAC-17-0022",
+      "page": "68",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• The colour-coded legends for cells and sheets",
+      "ne": "• कोष्ठ र कार्यपत्रकका लागि रङ्ग सङ्केतको अर्थ खुलाउने विवरण",
+      "bt": "• Details explaining the meaning of the colour coding for cells and worksheets",
+      "type": "general",
+      "terms": [
+        "T426"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring spreadsheet term sheet = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-17-0023",
+      "page": "68",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• The step-by-step instructions",
+      "ne": "• चरणबद्ध निर्देशनहरू",
+      "bt": "• Step-by-step instructions",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0024",
+      "page": "68",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• The navigation at the top",
+      "ne": "• माथिल्लो भागमा रहेको विभिन्न भागमा जाने सुविधा",
+      "bt": "• The feature at the top for going to different parts",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0025",
+      "page": "68",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "Move to",
+      "ne": "जानुहोस्।",
+      "bt": "Go.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The destination is supplied by the following row."
+    },
+    {
+      "id": "FAC-17-0026",
+      "page": "68",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "the General info entry sheet and move through each section, showing where information must be entered in order for the tool to function (Country, Currency, Year, and Program Information) and where it is optional (Health Clinics, Education Centres, etc).",
+      "ne": "General info प्रविष्टि कार्यपत्रकमा जानुहोस् र प्रत्येक खण्ड हेर्दै उपकरणले काम गर्नका लागि कहाँ जानकारी अनिवार्य रूपमा प्रविष्ट गर्नुपर्छ (Country, Currency, Year र Program Information) र कहाँ जानकारी प्रविष्ट गर्नु वैकल्पिक हुन्छ (Health Clinics, Education Centres आदि) भनेर देखाउनुहोस्।",
+      "bt": "Go to the General info entry worksheet and, looking through each section, show where information must be entered for the tool to work (Country, Currency, Year and Program Information) and where entering information is optional (Health Clinics, Education Centres, etc.).",
+      "type": "general",
+      "terms": [
+        "T362",
+        "T422",
+        "T426"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Interface labels are retained in English for identification. Uses the proposed recurring spreadsheet term sheet = [Nepali wording recorded in terminology evidence]; the preceding destination heading is integrated into a complete instruction."
+    },
+    {
+      "id": "FAC-17-0027",
+      "page": "68",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "Bring participants attention to the Guidance on the right hand side of the sheet, highlighting the following:",
+      "ne": "कार्यपत्रकको दायाँपट्टि रहेको Guidance मा सहभागीहरूको ध्यान खिच्नुहोस् र निम्न कुराहरूमा जोड दिनुहोस्।",
+      "bt": "Draw participants' attention to the Guidance on the right side of the worksheet and emphasise the following.",
+      "type": "general",
+      "terms": [
+        "T406",
+        "T426"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Guidance is retained as the interface label. Uses the proposed recurring spreadsheet term sheet = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-17-0028",
+      "page": "68",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• Country, year, and program information must be accurate",
+      "ne": "• देश, वर्ष र कार्यक्रमसम्बन्धी जानकारी सही हुनुपर्छ।",
+      "bt": "• Information about the country, year and programme must be correct.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0029",
+      "page": "68",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• Demographic information can be adjusted according to the population being served",
+      "ne": "• सेवा दिइने जनसङ्ख्याअनुसार जनसाङ्ख्यिक जानकारी समायोजन गर्न सकिन्छ।",
+      "bt": "• Demographic information can be adjusted according to the population to be served.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0030",
+      "page": "68",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• The tool doesn’t automatically update so the currency exchange rate does not change. If it is not accurate, it is better to calculate costs in USD and convert manually",
+      "ne": "• उपकरण स्वतः अद्यावधिक हुँदैन, त्यसैले मुद्रा विनिमय दर परिवर्तन हुँदैन। यदि उक्त दर सही छैन भने, USD मा लागत गणना गरेर आफैँ मुद्रा रूपान्तरण गर्नु राम्रो हुन्छ।",
+      "bt": "• The tool does not update automatically, so the currency exchange rate does not change. If that rate is not correct, it is better to calculate costs in USD and convert the currency yourself.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0031",
+      "page": "68",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• Budget Information and Supplementary Table A are best left alone unless you have experience in these types of costs",
+      "ne": "• यस्ता प्रकारका लागतसम्बन्धी अनुभव नभएसम्म Budget Information र Supplementary Table A मा कुनै परिवर्तन नगर्नु नै राम्रो हुन्छ।",
+      "bt": "• Unless you have experience with these types of costs, it is better not to make any changes to Budget Information and Supplementary Table A.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Budget Information and Supplementary Table A are retained as interface labels."
+    },
+    {
+      "id": "FAC-17-0032",
+      "page": "69",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "Move to",
+      "ne": "जानुहोस्।",
+      "bt": "Go.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The destination is not included in this supplied heading."
+    },
+    {
+      "id": "FAC-17-0033",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "the Quantities entry sheet and explain that this page includes estimates of quantities associated with different activities.",
+      "ne": "“परिमाण प्रविष्टि” (Quantities entry) कार्यपत्रमा यो पृष्ठले विभिन्न गतिविधिसँग सम्बन्धित परिमाणका अनुमानहरू समावेश गर्छ भनी स्पष्ट पार्नुहोस्।",
+      "bt": "In the “Quantity entry” (Quantities entry) worksheet, clarify that this page contains estimates of quantities related to various activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The source begins with a continuation fragment. Proposed terminology for entry sheet and quantity is not in G-0.3."
+    },
+    {
+      "id": "FAC-17-0034",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "Highlight that:",
+      "ne": "निम्न कुराहरूमा जोड दिनुहोस्:",
+      "bt": "Emphasize the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0035",
+      "page": "69",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• The five items listed as A are drawn from the population size entered on the General Info Entry page. (Facilitators can toggle between to show how changing the numbers on the General Info page changes the numbers here)",
+      "ne": "• A अन्तर्गत सूचीकृत 5 वटा शीर्षकका मानहरू “सामान्य जानकारी प्रविष्टि” (General Info Entry) पृष्ठमा प्रविष्ट गरिएको जनसङ्ख्याको आकारबाट लिइएका हुन्। (सहजीकरणकर्ताले पृष्ठहरूबीच अदलबदल गरेर General Info पृष्ठका सङ्ख्या परिवर्तन गर्दा यहाँका सङ्ख्या कसरी परिवर्तन हुन्छन् भनेर देखाउन सक्छन्।)",
+      "bt": "• The values of the 5 headings listed under A are taken from the population size entered on the “General Info Entry” page. (The facilitator can switch between pages and show how the numbers here change when the numbers on the General Info page are changed.)",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": "English interface labels and A are retained for identification. The quantity five is preserved semantically, but its Nepali spelling is replaced with Latin 5 as required."
+    },
+    {
+      "id": "FAC-17-0036",
+      "page": "69",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• A number of items have guidance to the right as well as more detailed notes at the bottom.",
+      "ne": "• केही शीर्षकका लागि दायाँपट्टि निर्देशन र तलपट्टि थप विस्तृत टिप्पणीहरू दिइएका छन्।",
+      "bt": "• For some headings, instructions are provided on the right and more detailed comments below.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "“A number of items” becomes “many headings,” strengthening the unspecified quantity. The revision removes that strengthening. The back-translation places the detailed notes merely below rather than specifically at the bottom."
+    },
+    {
+      "id": "FAC-17-0037",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "Pick 2-3 activities and review the quantities for those activities, linking back to the List of activity budget items handout.",
+      "ne": "2-3 गतिविधि छान्नुहोस् र गतिविधिका बजेट शीर्षकहरूको सूची भएको वितरित सामग्रीसँग सम्बन्ध जोड्दै ती गतिविधिका परिमाणहरूको समीक्षा गर्नुहोस्।",
+      "bt": "Choose 2-3 activities and review the quantities for those activities, linking them to the handout containing the list of budget headings for the activities.",
+      "type": "check",
+      "terms": [
+        "T338",
+        "T392"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for quantity and budget item is not in G-0.3."
+    },
+    {
+      "id": "FAC-17-0038",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "Explain that participants can use these quantities to guide planning and develop budgets for activities they want to initiate.",
+      "ne": "सहभागीहरूले आफूले सुरु गर्न चाहेका गतिविधिको योजना बनाउन दिशा लिन र बजेट तयार गर्न यी परिमाणहरू प्रयोग गर्न सक्छन् भनी स्पष्ट पार्नुहोस्।",
+      "bt": "Clarify that participants can use these quantities to obtain guidance for planning the activities they want to start and to prepare a budget.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for quantity is not in G-0.3."
+    },
+    {
+      "id": "FAC-17-0039",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "Demonstrate how to change a quantity in the yellow “Revised Value” cell and how doing so changes the green “Final Value Used” cell.",
+      "ne": "पहेंलो “संशोधित मान” (Revised Value) कोष्ठमा परिमाण कसरी परिवर्तन गर्ने र त्यसो गर्दा हरियो “प्रयोग गरिएको अन्तिम मान” (Final Value Used) कोष्ठ कसरी परिवर्तन हुन्छ भनेर प्रदर्शन गर्नुहोस्।",
+      "bt": "Demonstrate how to change the quantity in the yellow “Revised value” (Revised Value) cell and how doing so changes the green “Final value used” (Final Value Used) cell.",
+      "type": "general",
+      "terms": [
+        "T413"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "English cell labels are retained for identification. Proposed terminology for quantity is not in G-0.3."
+    },
+    {
+      "id": "FAC-17-0040",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "Go through the guidance and any notes associated with the activities selected and ensure that participants understand how to complete this sheet before moving on.",
+      "ne": "छानिएका गतिविधिसँग सम्बन्धित निर्देशन र कुनै टिप्पणी भए तिनको समीक्षा गर्नुहोस् र अगाडि बढ्नुअघि सहभागीहरूले यो कार्यपत्र कसरी भर्ने भन्ने बुझेको सुनिश्चित गर्नुहोस्।",
+      "bt": "Review the instructions and any notes related to the selected activities, and ensure that participants understand how to fill in this worksheet before moving ahead.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0041",
+      "page": "69",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "Walk through",
+      "ne": "क्रमशः समीक्षा गर्नुहोस्।",
+      "bt": "Review in sequence.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "This heading introduces the following worksheet instruction."
+    },
+    {
+      "id": "FAC-17-0042",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "the Input cost entry sheet and go through the costs associated with budget items, showing how to change the default price and how doing so changes the final price used.",
+      "ne": "“आगत लागत प्रविष्टि” (Input cost entry) कार्यपत्रमा बजेट शीर्षकहरूसँग सम्बन्धित लागतहरूको समीक्षा गर्नुहोस् र पूर्वनिर्धारित मूल्य कसरी परिवर्तन गर्ने तथा त्यसो गर्दा प्रयोग गरिने अन्तिम मूल्य कसरी परिवर्तन हुन्छ भनेर देखाउनुहोस्।",
+      "bt": "In the “Input cost entry” (Input cost entry) worksheet, review the costs related to the budget headings and show how to change the default price and how doing so changes the final price to be used.",
+      "type": "general",
+      "terms": [
+        "T338",
+        "T356"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for entry sheet and budget item is not in G-0.3."
+    },
+    {
+      "id": "FAC-17-0043",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "Review the guidance to the right as needed.",
+      "ne": "आवश्यकताअनुसार दायाँपट्टिका निर्देशनको समीक्षा गर्नुहोस्।",
+      "bt": "Review the instructions on the right as needed.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0044",
+      "page": "69",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "Move to",
+      "ne": "यसमा जानुहोस्।",
+      "bt": "Go to this.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "This heading introduces the worksheet named in the next row."
+    },
+    {
+      "id": "FAC-17-0045",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "the Medication costs sheet and explain that this page requires relevant knowledge and expertise to adjust and should only be adjusted by someone with the necessary expertise when needed.",
+      "ne": "“औषधि लागत” (Medication costs) कार्यपत्रमा परिवर्तन गर्न सम्बन्धित ज्ञान र विशेषज्ञता आवश्यक पर्छ तथा आवश्यक पर्दा यस्तो परिवर्तन आवश्यक विशेषज्ञता भएको व्यक्तिले मात्र गर्नुपर्छ भनी स्पष्ट पार्नुहोस्।",
+      "bt": "Clarify that making changes in the “Medicine costs” (Medication costs) worksheet requires relevant knowledge and expertise, and that, when needed, such changes should be made only by a person with the necessary expertise.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "Preserve the source clinical meaning, qualifications, conditions and any negative instruction; specialist human translation is required. Reclassified from protected: this is an administrative restriction on editing a costing worksheet, not clinical treatment wording. Relevant knowledge, expertise, the when-needed condition and the restriction to qualified persons are retained. Safety review pending."
+    },
+    {
+      "id": "FAC-17-0046",
+      "page": "69",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "Finally, move to",
+      "ne": "अन्त्यमा, यसमा जानुहोस्।",
+      "bt": "Finally, go to this.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "This heading introduces the worksheet named in the next row."
+    },
+    {
+      "id": "FAC-17-0047",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "the Activities list sheet and show that all Section 1 and Section 3 activities are selected.",
+      "ne": "“गतिविधिहरूको सूची” (Activities list) कार्यपत्रमा खण्ड 1 र खण्ड 3 का सबै गतिविधि चयन गरिएका छन् भनी देखाउनुहोस्।",
+      "bt": "In the “List of activities” (Activities list) worksheet, show that all activities in section 1 and section 3 are selected.",
+      "type": "check",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0048",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "Explain that Section 4 activities can be added as relevant and Section 2 activities are automatically included as a percentage of other activities.",
+      "ne": "सान्दर्भिक भएमा खण्ड 4 का गतिविधि थप्न सकिन्छ र खण्ड 2 का गतिविधि अन्य गतिविधिको प्रतिशतका रूपमा स्वतः समावेश हुन्छन् भनी स्पष्ट पार्नुहोस्।",
+      "bt": "Clarify that activities from section 4 can be added if relevant, and activities from section 2 are automatically included as a percentage of other activities.",
+      "type": "check",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0049",
+      "page": "69",
+      "loc": "heading",
+      "section": "The MSP Costing Tool",
+      "en": "Now that the fillable sheets have been reviewed,",
+      "ne": "भर्न मिल्ने कार्यपत्रहरूको समीक्षा भइसकेकाले,",
+      "bt": "Since the worksheets that can be filled in have been reviewed,",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Retained as a continuation heading rather than a complete instruction."
+    },
+    {
+      "id": "FAC-17-0050",
+      "page": "69",
+      "loc": "para",
+      "section": "The MSP Costing Tool",
+      "en": "move to the Cost Summary and Visualization sheets and show participants the information provided there, highlighting the following:",
+      "ne": "“लागत सारांश” (Cost Summary) र “दृश्य प्रस्तुति” (Visualization) कार्यपत्रहरूमा जानुहोस् र निम्न कुरामा जोड दिँदै त्यहाँ उपलब्ध जानकारी सहभागीहरूलाई देखाउनुहोस्।",
+      "bt": "Go to the “Cost summary” (Cost Summary) and “Visual presentation” (Visualization) worksheets and show participants the information available there, emphasizing the following.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0051",
+      "page": "69",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• The tool provides the cost of an MHPSS response, not a program budget for a specific organization",
+      "ne": "• यो साधनले MHPSS प्रतिकार्यको लागत उपलब्ध गराउँछ, कुनै निश्चित संस्थाको कार्यक्रम बजेट होइन।",
+      "bt": "• This tool provides the cost of the MHPSS response, not the programme budget of any particular organization.",
+      "type": "general",
+      "terms": [
+        "T161",
+        "T437"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-17-0052",
+      "page": "69",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• However, organizations can still use the tool to see costs of specific activities they may be initiating or running",
+      "ne": "• तथापि, संस्थाहरूले आफूले सुरु गरिरहेका वा सञ्चालन गरिरहेका हुन सक्ने विशिष्ट गतिविधिको लागत हेर्न अझै पनि यो साधन प्रयोग गर्न सक्छन्।",
+      "bt": "• However, organizations can still use this tool to see the cost of a specific activity that they may be starting or carrying out.",
+      "type": "general",
+      "terms": [
+        "T437"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "“May be initiating or running” becomes definite activities they are about to start or are carrying out. The revision restores possibility and initiation in progress, and explicitly retains “still.” The back-translation changes plural specific activities and their costs to a single specific activity and its cost."
+    },
+    {
+      "id": "FAC-17-0053",
+      "page": "69",
+      "loc": "bullet",
+      "section": "The MSP Costing Tool",
+      "en": "• Organizations can also use the tool to advocate for costs, quantities, and budget items with donors.",
+      "ne": "• संस्थाहरूले लागत, परिमाण र बजेट शीर्षकहरूका विषयमा दातृ निकायसँग पैरवी गर्न पनि यो साधन प्रयोग गर्न सक्छन्।",
+      "bt": "• Organizations can also use this tool to advocate with donor agencies on costs, quantities and budget headings.",
+      "type": "general",
+      "terms": [
+        "T023",
+        "T338",
+        "T437"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for quantity and budget item is not in G-0.3."
+    }
+  ]
+}

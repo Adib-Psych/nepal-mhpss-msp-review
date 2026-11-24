@@ -1,0 +1,725 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-06",
+  "unit_title": "MHPSS Coordination",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "65-74",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:08:35+05:45",
+  "coverage": {
+    "source_words": 400,
+    "row_words": 400,
+    "skipped": [
+      "Slide 67: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 67: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 67: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 67: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 67: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 68: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 70: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 71: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 71: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 71: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 71: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 72: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 73: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 73: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 74: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 74: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 74: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 74: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 74: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 74: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 74: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-06-0001",
+      "page": "65",
+      "loc": "slide-title",
+      "section": "MHPSS Coordination",
+      "en": "Module 3: Inter-agency Coordination and Assessment",
+      "ne": "मोड्युल 3: अन्तरनिकाय समन्वय र लेखाजोखा",
+      "bt": "Module 3: Inter-agency coordination and assessment",
+      "type": "general",
+      "terms": [
+        "T152",
+        "T004",
+        "T349",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0002",
+      "page": "66",
+      "loc": "slide-title",
+      "section": "MHPSS Coordination",
+      "en": "Module Learning Objectives",
+      "ne": "मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Module learning objectives",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0003",
+      "page": "66",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Describe the role of humanitarian actors in supporting MHPSS coordination",
+      "ne": "MHPSS समन्वयमा सहयोग गर्न मानवीय कार्यमा संलग्न पक्षहरूको भूमिका वर्णन गर्नुहोस्।",
+      "bt": "Describe the role of parties involved in humanitarian work in supporting MHPSS coordination.",
+      "type": "general",
+      "terms": [
+        "T147",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-06-0004",
+      "page": "66",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Explain the importance of MHPSS needs assessment in programme planning",
+      "ne": "कार्यक्रमको योजना बनाउँदा MHPSS आवश्यकताहरूको लेखाजोखाको महत्त्व स्पष्ट पार्नुहोस्।",
+      "bt": "Explain the importance of assessing MHPSS needs when planning a programme.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0005",
+      "page": "67",
+      "loc": "slide-title",
+      "section": "MHPSS Coordination",
+      "en": "The Puzzle Story",
+      "ne": "पजलको कथा",
+      "bt": "The story of the puzzle",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0006",
+      "page": "68",
+      "loc": "slide-title",
+      "section": "MHPSS Coordination",
+      "en": "What are the risks if we don’t coordinate?",
+      "ne": "हामीले समन्वय नगरेमा के जोखिमहरू हुन्छन्?",
+      "bt": "What risks are there if we do not coordinate?",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-06-0007",
+      "page": "68",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Poor practices",
+      "ne": "कमजोर अभ्यासहरू",
+      "bt": "Poor practices",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0008",
+      "page": "68",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Lack of standardization",
+      "ne": "मानकीकरणको अभाव",
+      "bt": "Lack of standardization",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0009",
+      "page": "68",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Confusion and conflict",
+      "ne": "अन्योल र द्वन्द्व",
+      "bt": "Confusion and conflict",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0010",
+      "page": "68",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Duplication",
+      "ne": "दोहोरोपन",
+      "bt": "Duplication",
+      "type": "general",
+      "terms": [
+        "T360"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'duplication' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-06-0011",
+      "page": "68",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Gaps in services (coverage & type)",
+      "ne": "सेवामा रहेका कमीहरू (सेवाले समेट्ने दायरा र प्रकार)",
+      "bt": "Gaps in services (the scope and types covered by services)",
+      "type": "general",
+      "terms": [
+        "T232"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0012",
+      "page": "68",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Inefficient use of resources",
+      "ne": "स्रोतहरूको अकुशल उपयोग",
+      "bt": "Inefficient use of resources",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0013",
+      "page": "68",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Poor information sharing",
+      "ne": "कमजोर सूचना आदानप्रदान",
+      "bt": "Poor information exchange",
+      "type": "general",
+      "terms": [
+        "T067"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0014",
+      "page": "69",
+      "loc": "slide-title",
+      "section": "MHPSS Coordination",
+      "en": "MHPSS and Inter-agency Coordination",
+      "ne": "MHPSS र अन्तरनिकाय समन्वय",
+      "bt": "MHPSS and inter-agency coordination",
+      "type": "general",
+      "terms": [
+        "T152",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0015",
+      "page": "69",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Cross-sectoral nature of MHPSS requires strong inter-agency coordination.",
+      "ne": "MHPSS को अन्तरक्षेत्रीय प्रकृतिका कारण सुदृढ अन्तरनिकाय समन्वय आवश्यक हुन्छ।",
+      "bt": "Strong inter-agency coordination is necessary because of the inter-sectoral nature of MHPSS.",
+      "type": "general",
+      "terms": [
+        "T215",
+        "T152",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0016",
+      "page": "69",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Strong coordination helps with coverage of full range of MHPSS activities across actors.",
+      "ne": "विभिन्न सम्बद्ध पक्षहरू मिलेर MHPSS गतिविधिहरूको सम्पूर्ण दायरा समेट्न सुदृढ समन्वयले मद्दत गर्छ।",
+      "bt": "Strong coordination helps various relevant parties together cover the full range of MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T158",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-06-0017",
+      "page": "69",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Poor coordination is associated with inefficient MHPSS responses that can cause harm.",
+      "ne": "कमजोर समन्वय अकुशल MHPSS प्रतिकार्यसँग सम्बन्धित हुन्छ, जसबाट हानि हुन सक्छ।",
+      "bt": "Poor coordination is associated with an inefficient MHPSS response, which can cause harm.",
+      "type": "general",
+      "terms": [
+        "T161",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]. This is an organizational risk statement, not clinical guidance."
+    },
+    {
+      "id": "SLD-06-0018",
+      "page": "69",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Presence of MHPSS TWG would depend on the scale of the response and presence of agencies implementing MHPSS activities.",
+      "ne": "MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) रहने वा नरहने कुरा प्रतिकार्यको परिमाण र MHPSS गतिविधिहरू कार्यान्वयन गर्ने निकायहरूको उपस्थितिमा निर्भर हुन्छ।",
+      "bt": "Whether or not there is an MHPSS Technical Working Group (MHPSS TWG) depends on the scale of the response and the presence of agencies implementing MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T268",
+        "T174",
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0019",
+      "page": "70",
+      "loc": "slide-title",
+      "section": "MHPSS Coordination",
+      "en": "1.1 Coordinate MHPSS within and across sectors",
+      "ne": "1.1 क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने",
+      "bt": "1.1 Coordinate MHPSS within and between sectors",
+      "type": "activity",
+      "terms": [
+        "T092"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0020",
+      "page": "71",
+      "loc": "slide-title",
+      "section": "MHPSS Coordination",
+      "en": "Small Group Discussion",
+      "ne": "सानो समूहमा छलफल",
+      "bt": "Small-group discussion",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0021",
+      "page": "71",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Review MSP Checklist Activity 1.1 Coordinate MHPSS within and across sectors",
+      "ne": "MSP जाँचसूचीमा रहेको गतिविधि 1.1 ‘क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने’ को समीक्षा गर्नुहोस्।",
+      "bt": "Review activity 1.1, ‘Coordinate MHPSS within and between sectors,’ in the MSP checklist.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T121",
+        "T092"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0022",
+      "page": "71",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "How can your sector/ organization positively ​ contribute to these core actions?",
+      "ne": "तपाईंको क्षेत्र/संस्थाले यी मुख्य कार्यहरूमा कसरी सकारात्मक योगदान दिन सक्छ?",
+      "bt": "How can your sector/organization contribute positively to these key actions?",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0023",
+      "page": "71",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Go through the checklist of core actions and provide some examples about the role that your sector/organization can play.",
+      "ne": "मुख्य कार्यहरूको जाँचसूची हेर्नुहोस् र तपाईंको क्षेत्र/संस्थाले निर्वाह गर्न सक्ने भूमिकाका केही उदाहरणहरू दिनुहोस्।",
+      "bt": "Look at the checklist of key actions and give some examples of roles your sector/organization can carry out.",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T121",
+        "T296",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0024",
+      "page": "71",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "If possible, include examples from your own experience.",
+      "ne": "सम्भव भएमा, आफ्नै अनुभवका उदाहरणहरू समावेश गर्नुहोस्।",
+      "bt": "If possible, include examples from your own experience.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0025",
+      "page": "71",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "15 min",
+      "ne": "15 मिनेट",
+      "bt": "15 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0026",
+      "page": "72",
+      "loc": "slide-title",
+      "section": "MHPSS Coordination",
+      "en": "Using the MSP to support coordination",
+      "ne": "समन्वयमा सहयोग गर्न MSP को प्रयोग",
+      "bt": "Use of the MSP to support coordination",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-06-0027",
+      "page": "72",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Who is respondible for coordination?",
+      "ne": "समन्वयका लागि को जिम्मेवार छ?",
+      "bt": "Who is responsible for coordination?",
+      "type": "safety",
+      "terms": [
+        "T349"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The source spelling 'respondible' is interpreted as 'responsible'; the intended wording remains unconfirmed."
+    },
+    {
+      "id": "SLD-06-0028",
+      "page": "72",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Coordination is critical and it’s everyone's responsibility.",
+      "ne": "समन्वय अत्यन्त महत्त्वपूर्ण छ र यो सबैको जिम्मेवारी हो।",
+      "bt": "Coordination is extremely important and it is everyone's responsibility.",
+      "type": "general",
+      "terms": [
+        "T349"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The source has an apparent typographical or concatenation error; wording has been preserved. The supplied sentence is clear; the provisional source-ambiguous flag is not retained. The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-06-0029",
+      "page": "72",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Activity 1.1 Coordinate MHPSS within and across sectors – guidance on interagency coordination mechanisms",
+      "ne": "गतिविधि 1.1 क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने – संस्थाहरूबीचको समन्वय संयन्त्रहरूबारे मार्गदर्शन",
+      "bt": "Activity 1.1 Coordinate MHPSS within and between sectors – guidance on coordination mechanisms between organizations",
+      "type": "check",
+      "terms": [
+        "T092",
+        "T247",
+        "T212",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0030",
+      "page": "72",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Activity 2.1 Design, plan and coordinate MHPSS Programs – guidance on role of individual organizations in coordination",
+      "ne": "गतिविधि 2.1 MHPSS कार्यक्रमको डिजाइन, योजना र समन्वय गर्ने – समन्वयमा प्रत्येक संस्थाको भूमिकाबारे मार्गदर्शन",
+      "bt": "Activity 2.1 Design, plan and coordinate an MHPSS programme – guidance on each organization's role in coordination",
+      "type": "check",
+      "terms": [
+        "T094",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied activity label is retained. The standalone recurring term 'coordination' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-06-0031",
+      "page": "72",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Making sure our organization is represented in coordination mechanisms",
+      "ne": "समन्वय संयन्त्रहरूमा हाम्रो संस्थाको प्रतिनिधित्व भएको सुनिश्चित गर्ने",
+      "bt": "Ensure that our organization is represented in coordination mechanisms",
+      "type": "general",
+      "terms": [
+        "T212",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0032",
+      "page": "72",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Making sure we are complementing the work of other organizations, avoiding duplication, and referring appropriately",
+      "ne": "हामीले अन्य संस्थाहरूको कामलाई पूरक बनाइरहेका छौँ, दोहोरोपनबाट बचिरहेका छौँ र उपयुक्त रूपमा सम्बन्धित सेवातर्फ पठाइरहेका छौँ भन्ने सुनिश्चित गर्ने",
+      "bt": "Ensure that we are complementing the work of other organizations, avoiding duplication and referring appropriately to relevant services",
+      "type": "safety",
+      "terms": [
+        "T360"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General coordination safety draft; review pending. 'Referring appropriately' is rendered as ordinary service referral, without introducing a clinical procedure. The recurring term 'duplication' is absent from G-0.3; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-06-0033",
+      "page": "72",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Sharing information about our current or planned MHPSS activities",
+      "ne": "हाम्रा हाल सञ्चालनमा रहेका वा योजनाबद्ध MHPSS गतिविधिहरूबारे जानकारी आदानप्रदान गर्ने।",
+      "bt": "To exchange information about our currently ongoing or planned MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0034",
+      "page": "72",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Getting feedback & promoting best practices & standards",
+      "ne": "पृष्ठपोषण प्राप्त गर्ने तथा उत्कृष्ट अभ्यास र मापदण्डहरू प्रवर्द्धन गर्ने।",
+      "bt": "To receive feedback and promote best practices and standards.",
+      "type": "general",
+      "terms": [
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0035",
+      "page": "72",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "Attending interagency trainings",
+      "ne": "संस्थाहरूबीचको तालिममा सहभागी हुने।",
+      "bt": "To participate in training between organizations.",
+      "type": "general",
+      "terms": [
+        "T247"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-06-0036",
+      "page": "73",
+      "loc": "slide-title",
+      "section": "MHPSS Coordination",
+      "en": "Links with the IASC MHPSS Coordination Handbook",
+      "ne": "IASC को MHPSS समन्वय पुस्तिकासँगको सम्बन्ध",
+      "bt": "Relationship with the IASC MHPSS coordination handbook",
+      "type": "general",
+      "terms": [
+        "T349",
+        "T372"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing standalone glossary entry: MHPSS coordination = MHPSS [Nepali wording recorded in terminology evidence]. This is ordinary coordination wording, not a clinical intervention."
+    },
+    {
+      "id": "SLD-06-0037",
+      "page": "73",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "“[MHPSS Coordination is]…a process of collaboration to improve the quality and accountability of humanitarian response.”",
+      "ne": "“[MHPSS समन्वय भनेको]…मानवीय प्रतिकार्यको गुणस्तर र जवाफदेहिता सुधार गर्न गरिने सहकार्यको प्रक्रिया हो।”",
+      "bt": "“[MHPSS coordination is]…a process of collaboration carried out to improve the quality and accountability of humanitarian response.”",
+      "type": "general",
+      "terms": [
+        "T003",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing standalone glossary entry: MHPSS coordination = MHPSS [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-06-0038",
+      "page": "73",
+      "loc": "slide-body",
+      "section": "MHPSS Coordination",
+      "en": "“[Handbook aims to] Establish a consensus-based approach to guiding the work of MHPSS TWGs”",
+      "ne": "“[पुस्तिकाको उद्देश्य] MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) हरूको (MHPSS TWGs) कामलाई दिशा दिन सहमतिमा आधारित दृष्टिकोण स्थापित गर्नु हो।”",
+      "bt": "“[The purpose of the handbook] is to establish a consensus-based approach to guide the work of MHPSS technical working groups (MHPSS TWG) (MHPSS TWGs).”",
+      "type": "general",
+      "terms": [
+        "T268",
+        "T372"
+      ],
+      "flags": [],
+      "note": "The supplied singular glossary form is retained verbatim; the source plural acronym MHPSS TWGs is also retained."
+    },
+    {
+      "id": "SLD-06-0039",
+      "page": "73",
+      "loc": "slide-notes",
+      "section": "MHPSS Coordination",
+      "en": "There is a dedicated handbook on MHPSS coordination, which was also released in 2022 – it’s consistent with the MSP checklist, but goes into more detail on how to coordinate",
+      "ne": "MHPSS समन्वयका लागि छुट्टै पुस्तिका छ, जुन पनि 2022 मा प्रकाशित भएको थियो। यो MSP जाँचसूचीसँग सुसङ्गत छ, तर समन्वय कसरी गर्ने भन्नेबारे थप विस्तृत जानकारी दिन्छ।",
+      "bt": "There is a separate handbook for MHPSS coordination, which was also published in 2022. It is consistent with this MSP checklist, but provides more detailed information about how to coordinate.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T121",
+        "T349",
+        "T372"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing standalone glossary entry: MHPSS coordination = MHPSS [Nepali wording recorded in terminology evidence]. This is an explanatory statement, not a checklist item."
+    },
+    {
+      "id": "SLD-06-0040",
+      "page": "74",
+      "loc": "slide-notes",
+      "section": "MHPSS Coordination",
+      "en": "It has 7 core functions or chapters for inter-agency coordination.",
+      "ne": "यसमा अन्तरनिकाय समन्वयका लागि 7 मुख्य कार्य वा अध्याय छन्।",
+      "bt": "It contains 7 main functions or chapters for inter-agency coordination.",
+      "type": "general",
+      "terms": [
+        "T152",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing glossary entry: core functions = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The source wording 'functions or chapters' is retained without treating the two as distinct lists."
+    },
+    {
+      "id": "SLD-06-0041",
+      "page": "74",
+      "loc": "slide-notes",
+      "section": "MHPSS Coordination",
+      "en": "The MSP can be very helpful in fulfilling these core functions- for example it can help establish links between stakeholders from different sectors to discuss who can contribute to what.",
+      "ne": "यी मुख्य कार्यहरू पूरा गर्न MSP निकै उपयोगी हुन सक्छ। उदाहरणका लागि, कसले केमा योगदान दिन सक्छ भन्नेबारे छलफल गर्न यसले विभिन्न क्षेत्रका सरोकारवालाहरूबीच सम्बन्ध स्थापित गर्न मद्दत गर्न सक्छ।",
+      "bt": "The MSP can be very useful in completing these main functions. For example, it can help establish connections among stakeholders from different sectors to discuss who can contribute to what.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T296",
+        "T182"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing glossary entry: core functions = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-06-0042",
+      "page": "74",
+      "loc": "slide-notes",
+      "section": "MHPSS Coordination",
+      "en": "The MSP can also help with advocacy, showing how MHPSS is a cross cutting component and integral to the emergency response.",
+      "ne": "MHPSS विभिन्न क्षेत्रलाई समेट्ने घटक र आपत्कालीन प्रतिकार्यको अभिन्न अङ्ग हो भन्ने देखाएर MSP ले पैरवीमा पनि मद्दत गर्न सक्छ।",
+      "bt": "The MSP can also help with advocacy by showing that MHPSS is a component that covers various sectors and an integral part of emergency response.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T132",
+        "T163",
+        "T191",
+        "T345"
+      ],
+      "flags": [],
+      "note": "The existing wording reduces 'a cross cutting component' to being 'related to various sectors,' losing the component's cross-sectoral scope. The revision restores that meaning while retaining its integral role in emergency response and the tentative 'can help'."
+    }
+  ]
+}

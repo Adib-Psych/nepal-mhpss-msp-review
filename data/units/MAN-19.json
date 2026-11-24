@@ -1,0 +1,706 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-19",
+  "unit_title": "Provide early childhood development (ECD) activities to support young children and their caregivers",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "59-61",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:46:11+05:45",
+  "coverage": {
+    "source_words": 1093,
+    "row_words": 1092,
+    "skipped": [
+      "PDF p.59: running footer/page number removed: 54 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.60: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 55",
+      "PDF p.61: running footer/page number removed: 56 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-19-0001",
+      "page": "59",
+      "loc": "heading",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers46",
+      "ne": "3.5 साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास (ECD) गतिविधि प्रदान गर्ने46",
+      "bt": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers46",
+      "type": "activity",
+      "terms": [
+        "T102",
+        "T037",
+        "T006"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate. Activity code, acronym and footnote marker retained."
+    },
+    {
+      "id": "MAN-19-0002",
+      "page": "59",
+      "loc": "para",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Caregivers47 have a substantial impact on children’s physical, cognitive, emotional and social development through their caregiving practices, particularly during the first three years of life.",
+      "ne": "हेरचाहकर्ता47 ले आफ्ना हेरचाहका अभ्यासमार्फत बालबालिकाको शारीरिक, संज्ञानात्मक, भावनात्मक र सामाजिक विकासमा, विशेष गरी जीवनका पहिलो तीन वर्षमा, उल्लेखनीय प्रभाव पार्छन्।",
+      "bt": "Caregivers47 have a significant influence on children's physical, cognitive, emotional and social development through their caregiving practices, especially in the first three years of life.",
+      "type": "general",
+      "terms": [
+        "T006"
+      ],
+      "flags": [],
+      "note": "Ordinary child-development content, not a diagnostic statement; translated rather than protected."
+    },
+    {
+      "id": "MAN-19-0003",
+      "page": "59",
+      "loc": "para",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Children who do not receive responsive care48 or adequate opportunities for early learning49 tend to have poorer physical, social, emotional and cognitive development, with potential long-term effects on mental health, behaviour and overall functioning, including effects on school performance and employment.",
+      "ne": "बालबालिकाका आवश्यकता र सङ्केतअनुसार गरिने स्याहार48 वा प्रारम्भिक सिकाइका लागि पर्याप्त अवसर49 नपाउने बालबालिकाको शारीरिक, सामाजिक, भावनात्मक र संज्ञानात्मक विकास तुलनात्मक रूपमा कमजोर हुने प्रवृत्ति हुन्छ। यसले मानसिक स्वास्थ्य, व्यवहार र समग्र कार्यक्षमतामा दीर्घकालीन प्रभाव पार्न सक्छ, जसमा विद्यालयको पढाइमा हुने प्रदर्शन र रोजगारीमा पर्ने प्रभाव पनि समावेश छन्।",
+      "bt": "Children who do not receive sufficient care provided according to children's needs and signals48 or opportunities for early learning49 tend to have comparatively weaker physical, social, emotional and cognitive development. This can have long-term effects on mental health, behaviour and overall functioning, including effects on performance in school studies and employment.",
+      "type": "general",
+      "terms": [
+        "T083",
+        "T157",
+        "T222"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Ordinary developmental explanation. Reuses the supplied unreviewed mental-health candidate. Recurring term missing from the frozen glossary: propose early learning = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Footnote markers 48 and 49 retained."
+    },
+    {
+      "id": "MAN-19-0004",
+      "page": "59",
+      "loc": "para",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "The consequences of humanitarian emergencies, such as food insecurity, poverty, violence, limited access to services and poor mental health, can significantly reduce caregivers’ abilities to support children’s development.",
+      "ne": "खाद्य असुरक्षा, गरिबी, हिंसा, सेवामा सीमित पहुँच र कमजोर मानसिक स्वास्थ्यजस्ता मानवीय आपत्कालीन अवस्थाका परिणामहरूले बालबालिकाको विकासमा सहयोग गर्ने हेरचाहकर्ताको क्षमतालाई उल्लेखनीय रूपमा घटाउन सक्छन्।",
+      "bt": "Consequences of humanitarian emergencies, such as food insecurity, poverty, violence, limited access to services and poor mental health, can significantly reduce caregivers' ability to support children's development.",
+      "type": "safety",
+      "terms": [
+        "T131",
+        "T157",
+        "T006"
+      ],
+      "flags": [],
+      "note": "General safety-related context drafted for review. The mental-health wording reuses the supplied unreviewed candidate; no clinical validation is claimed."
+    },
+    {
+      "id": "MAN-19-0005",
+      "page": "59",
+      "loc": "para",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Supporting caregivers’ mental health and well-being, as well as their ability to provide responsive care and early learning opportunities for the children in their care, can have positive impacts on child development.",
+      "ne": "हेरचाहकर्ताको मानसिक स्वास्थ्य र कल्याणका साथै उनीहरूको हेरचाहमा रहेका बालबालिकाका लागि बालबालिकाका आवश्यकता र सङ्केतअनुसार गरिने स्याहार र प्रारम्भिक सिकाइका अवसर उपलब्ध गराउने उनीहरूको क्षमतालाई सहयोग गर्दा बाल विकासमा सकारात्मक प्रभाव पर्न सक्छ।",
+      "bt": "Supporting caregivers' mental health and well-being, as well as their ability to provide care according to children's needs and signals and opportunities for early learning for the children in their care, can have a positive effect on child development.",
+      "type": "general",
+      "terms": [
+        "T006",
+        "T157",
+        "T083",
+        "T222",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Reuses the supplied unreviewed mental-health candidate. Recurring term missing from the frozen glossary: propose early learning = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Generic well-being is not expanded into psychosocial well-being."
+    },
+    {
+      "id": "MAN-19-0006",
+      "page": "59",
+      "loc": "para",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "ECD activities can also strengthen social support networks and provide non-stigmatizing ways of prioritizing, including, and supporting at-risk caregivers and children (e.g. children with developmental disabilities or mental health conditions, caregivers and children with protection vulnerabilities; see Overview, “How can groups and persons at increased risk be prioritized and reached with MHPSS MSP activities and services” and Resources on MHPSS for at-risk groups on the MHPSS MSP web platform).",
+      "ne": "ECD गतिविधिहरूले सामाजिक सहयोग सञ्जाललाई पनि सुदृढ बनाउन र जोखिममा रहेका हेरचाहकर्ता तथा बालबालिकालाई प्राथमिकता दिन, समावेश गर्न र सहयोग गर्न लाञ्छना नलगाउने उपायहरू उपलब्ध गराउन सक्छन् (जस्तै विकाससम्बन्धी अपाङ्गता वा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका बालबालिका, संरक्षणका दृष्टिले जोखिममा रहेका हेरचाहकर्ता तथा बालबालिका; झलकमा रहेको “जोखिम बढेको अवस्थामा रहेका समूह तथा व्यक्तिहरूलाई MHPSS का MSP गतिविधिहरू र सेवाहरूमा कसरी प्राथमिकता दिन र तिनको पहुँचमा कसरी पुग्न सकिन्छ” तथा MHPSS MSP वेब प्लेटफर्ममा रहेको जोखिममा रहेका समूहका लागि MHPSS सम्बन्धी स्रोतसामग्री हेर्नुहोस्)।",
+      "bt": "ECD activities can also strengthen social support networks and provide non-stigmatizing ways to prioritize, include and support caregivers and children at risk (e.g. children with developmental disabilities or mental health conditions, caregivers and children at risk from a protection perspective; see “How groups and individuals at increased risk can be prioritized in MSP activities and services for MHPSS and how they can be reached” in the overview, and the resources on MHPSS for groups at risk on the MHPSS MSP web platform).",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T016",
+        "T029",
+        "T163",
+        "T189",
+        "T272",
+        "T306",
+        "T334",
+        "T416",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The examples and both references are retained without treating this general guidance as an assessment instrument."
+    },
+    {
+      "id": "MAN-19-0007",
+      "page": "59",
+      "loc": "footnote",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "46 Early childhood development (ECD) is the process of cognitive, physical, language, temperament, social and emotional, and motor development experienced by young children from the time of conception until the age of eight. WHO (2020). Improving Early Childhood Development: WHO Guideline.",
+      "ne": "46 प्रारम्भिक बाल विकास (ECD) भनेको गर्भाधानको समयदेखि आठ वर्षको उमेरसम्म साना बालबालिकामा हुने संज्ञानात्मक, शारीरिक, भाषिक, स्वभावसम्बन्धी, सामाजिक तथा भावनात्मक र शारीरिक चालसम्बन्धी विकासको प्रक्रिया हो। WHO (2020). Improving Early Childhood Development: WHO Guideline.",
+      "bt": "46 Early childhood development (ECD) is the process of cognitive, physical, linguistic, temperament-related, social and emotional, and bodily movement-related development that occurs in young children from the time of conception to eight years of age. WHO (2020). Improving Early Childhood Development: WHO Guideline.",
+      "type": "general",
+      "terms": [
+        "T037"
+      ],
+      "flags": [],
+      "note": "Ordinary developmental definition, not a diagnosis or instrument item. Citation retained verbatim; Latin digits and ECD retained."
+    },
+    {
+      "id": "MAN-19-0008",
+      "page": "59",
+      "loc": "footnote",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "47 The term “caregivers” refers to those with parental responsibilities, regardless of whether or not they are the biological or legal parents of the children in their care.",
+      "ne": "47 “हेरचाहकर्ता” शब्दले आमाबुबाको जिम्मेवारी वहन गर्ने व्यक्तिहरूलाई जनाउँछ, चाहे उनीहरू आफ्नो हेरचाहमा रहेका बालबालिकाका जैविक वा कानुनी आमाबुबा हुन् वा नहुन्।",
+      "bt": "47 The term “caregiver” refers to people who bear parental responsibility, whether or not they are the biological or legal parents of the children in their care.",
+      "type": "general",
+      "terms": [
+        "T006"
+      ],
+      "flags": [],
+      "note": "Ordinary role definition. Preserves parental responsibilities and the inclusion of people who are neither biological nor legal parents."
+    },
+    {
+      "id": "MAN-19-0009",
+      "page": "59",
+      "loc": "footnote",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "48 “Responsive caregiving” refers to care that is prompt, consistent, and appropriate to the child’s cues, behaviours, and needs for safety, education and development. WHO (2020). Improving Early Childhood Development: WHO Guideline.",
+      "ne": "48 “बालबालिकाका आवश्यकता र सङ्केतअनुसार गरिने स्याहार” भन्नाले बालबालिकाका सङ्केत, व्यवहार र सुरक्षा, शिक्षा तथा विकाससम्बन्धी आवश्यकताअनुसार तुरुन्तै, हरेक पटक भरपर्दो ढङ्गले र उपयुक्त रूपमा गरिने स्याहारलाई जनाउँछ। WHO (2020). Improving Early Childhood Development: WHO Guideline.",
+      "bt": "48 “Care provided according to children's needs and cues” refers to care provided promptly, reliably every time, and appropriately according to children's cues, behavior, and needs related to safety, education and development. WHO (2020). Improving Early Childhood Development: WHO Guideline.",
+      "type": "general",
+      "terms": [
+        "T083",
+        "T028"
+      ],
+      "flags": [],
+      "note": "Uses the supplied responsive-care candidate for the responsive-caregiving definition. This is explanatory care guidance, not a verbatim safeguarding declaration. Citation retained verbatim. The source requires consistent care, whereas [Nepali wording recorded in terminology evidence] and the BT describe continuous care. The revision expresses reliability across occasions rather than uninterrupted provision."
+    },
+    {
+      "id": "MAN-19-0010",
+      "page": "59",
+      "loc": "footnote",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "49 This refers to any opportunity for a baby, toddler or child to interact with a person, place or object in their environment, recognizing that every interaction (positive or negative, or absence of an interaction) is contributing to the child’s brain development and laying a foundation for later learning. WHO (2020). Improving Early Childhood Development: WHO Guideline.",
+      "ne": "49 यसले शिशु, टुकुटुकु हिँड्ने उमेरको बच्चा वा बालबालिकालाई आफ्नो परिवेशका व्यक्ति, स्थान वा वस्तुसँग अन्तर्क्रिया गर्ने कुनै पनि अवसरलाई जनाउँछ। यसमा हरेक अन्तर्क्रिया (सकारात्मक वा नकारात्मक, वा अन्तर्क्रियाको अभाव) ले बालबालिकाको मस्तिष्कको विकासमा योगदान गरिरहेको हुन्छ र पछिको सिकाइका लागि आधार तयार गरिरहेको हुन्छ भन्ने कुरा स्वीकार गरिएको छ। WHO (2020). Improving Early Childhood Development: WHO Guideline.",
+      "bt": "49 This refers to any opportunity for an infant, a child of toddling age, or children to interact with people, places or objects in their surroundings. It acknowledges that every interaction (positive or negative, or the absence of interaction) is contributing to the development of children's brains and is preparing a foundation for later learning. WHO (2020). Improving Early Childhood Development: WHO Guideline.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary explanation of learning opportunities, not clinical assessment wording. Preserves the source's inclusion of positive interaction, negative interaction and absence of interaction. Citation retained verbatim. The Nepali expands toddler to include a crawling child and restricts walking children to those newly walking. The revision uses an everyday description of toddler age without adding crawling or requiring a recent walking milestone."
+    },
+    {
+      "id": "MAN-19-0011",
+      "page": "60",
+      "loc": "heading",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-19-0012",
+      "page": "60",
+      "loc": "heading",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Provide early childhood development activities to support young children and their caregivers",
+      "ne": "साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास गतिविधि प्रदान गर्ने",
+      "bt": "Provide early childhood development activities to support young children and their caregivers",
+      "type": "activity",
+      "terms": [
+        "T037",
+        "T006"
+      ],
+      "flags": [],
+      "note": "Follows the supplied activity-label wording without adding ECD, which is absent from this source row."
+    },
+    {
+      "id": "MAN-19-0013",
+      "page": "60",
+      "loc": "heading",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-19-0014",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Identify opportunities for integrated ECD activities (e.g. in nutrition, health, education, child protection programmes).",
+      "ne": "एकीकृत ECD गतिविधिका लागि अवसरहरू पहिचान गर्नुहोस् (जस्तै, पोषण, स्वास्थ्य, शिक्षा र बाल संरक्षण कार्यक्रमहरूमा)।",
+      "bt": "Identify opportunities for integrated ECD activities (e.g., in nutrition, health, education and child protection programmes).",
+      "type": "general",
+      "terms": [
+        "T030",
+        "T027",
+        "T028",
+        "T036",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Preserves the integration task and all four programme examples."
+    },
+    {
+      "id": "MAN-19-0015",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Engage with caregivers and community leaders to assess capacities, needs, and issues that may need to be addressed through ECD activities (e.g. building on positive social norms and practices, tackling harmful practices, identifying and supporting at-risk groups).",
+      "ne": "क्षमता, आवश्यकता र ECD गतिविधिमार्फत सम्बोधन गर्नुपर्ने हुन सक्ने विषयहरूको लेखाजोखा गर्न हेरचाहकर्ता र सामुदायिक अगुवासँग सहकार्य गर्नुहोस् (जस्तै, सकारात्मक सामाजिक मान्यता र अभ्यासलाई आधार बनाएर अघि बढ्ने, हानिकारक अभ्यासको सामना गर्ने, जोखिममा रहेका समूहको पहिचान गर्ने र तिनलाई सहयोग गर्ने)।",
+      "bt": "Collaborate with caregivers and community leaders to assess capacities, needs and issues that may need to be addressed through ECD activities (e.g., moving forward on the basis of positive social norms and practices, confronting harmful practices, identifying groups at risk and supporting them).",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T069",
+        "T334"
+      ],
+      "flags": [],
+      "note": "General safety guidance drafted for review. Preserves engagement with both caregivers and community leaders and all three examples."
+    },
+    {
+      "id": "MAN-19-0016",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "In consultation with caregivers and other relevant stakeholders, develop/identify, adapt and translate orientation, training and programme materials on ECD (e.g. key messages on early stimulation and responsive caregiving) and on caregiver mental health and psychosocial well-being (see MSP activity 2.1).",
+      "ne": "हेरचाहकर्ता र अन्य सम्बन्धित सरोकारवालाहरूसँग परामर्श गरी ECD सम्बन्धी (जस्तै, प्रारम्भिक उत्प्रेरणा र बालबालिकाका आवश्यकता र सङ्केतअनुसार गरिने स्याहारबारे मुख्य सन्देशहरू) तथा हेरचाहकर्ताको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणसम्बन्धी अभिमुखीकरण, तालिम र कार्यक्रम सामग्री विकास गर्नुहोस् वा पहिचान गर्नुहोस्, अनुकूलन गर्नुहोस् र अनुवाद गर्नुहोस् (MSP गतिविधि 2.1 हेर्नुहोस्)।",
+      "bt": "In consultation with caregivers and other relevant stakeholders, develop or identify, adapt and translate orientation, training and programme materials related to ECD (e.g., key messages about early stimulation and care provided according to children's needs and signals) and caregivers' mental health and psychosocial well-being (see MSP Activity 2.1).",
+      "type": "general",
+      "terms": [
+        "T006",
+        "T182",
+        "T083",
+        "T157",
+        "T005",
+        "T014",
+        "T091",
+        "T163",
+        "T253",
+        "T328",
+        "T346",
+        "T409",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Ordinary programme-materials instruction. Mental health and psychosocial well-being reuse the supplied unreviewed candidates. Preserves consultation, development/identification, adaptation, translation and the MSP activity 2.1 reference."
+    },
+    {
+      "id": "MAN-19-0017",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Train and supervise facilitators and/or outreach workers to lead and support ECD activities (e.g. orientations, message dissemination, caregiver capacity-building, new or pre-existing early childhood care supports; see the recommended MHPSS training topics for workers supporting new and expectant caregivers and young children on the MHPSS MSP web platform).",
+      "ne": "ECD गतिविधिको नेतृत्व गर्न र तिनमा सहयोग गर्न सहजकर्ता र/वा समुदायमा पुगेर काम गर्ने कार्यकर्तालाई तालिम दिनुहोस् र तिनको सुपरिवेक्षण गर्नुहोस् (जस्तै, अभिमुखीकरण, सन्देश प्रसार, हेरचाहकर्ताको क्षमता विकास, प्रारम्भिक बाल्यावस्थामा गरिने हेरचाहका लागि नयाँ वा पहिलेदेखि उपलब्ध सहयोग; नयाँ हेरचाहकर्ता, बच्चा जन्मिने प्रतीक्षामा रहेका हेरचाहकर्ता र साना बालबालिकालाई सहयोग गर्ने कार्यकर्ताका लागि सिफारिस गरिएका MHPSS तालिमका विषयहरू MHPSS MSP वेब प्लेटफर्ममा हेर्नुहोस्)।",
+      "bt": "Train and supervise facilitators and/or workers who reach out into the community to lead and support ECD activities (e.g., orientation, dissemination of messages, capacity development of caregivers, new or already available support for care in early childhood; see the MHPSS MSP web platform for recommended MHPSS training topics for workers supporting new caregivers, caregivers awaiting the birth of a child and young children).",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T006",
+        "T088",
+        "T163",
+        "T189",
+        "T229",
+        "T277"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserves training and supervision, leadership and support roles, all examples and the platform reference. Recurring term missing from the frozen glossary: propose early childhood care supports = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-19-0018",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Orient staff in relevant sectors on integrating and delivering key ECD messages as part of their work (e.g. health and social care staff in existing nutrition, health and prenatal care programmes).",
+      "ne": "सम्बन्धित क्षेत्रका कर्मचारीलाई आफ्नो कामको अङ्गका रूपमा ECD का मुख्य सन्देशहरू समावेश गर्ने र प्रवाह गर्ने विषयमा अभिमुखीकरण गर्नुहोस् (जस्तै, विद्यमान पोषण, स्वास्थ्य र गर्भावस्थामा गरिने हेरचाहका कार्यक्रमहरूमा कार्यरत स्वास्थ्य तथा सामाजिक हेरचाहका कर्मचारी)।",
+      "bt": "Orient staff in relevant sectors on including and conveying key ECD messages as part of their work (e.g., health and social care staff working in existing nutrition, health and care-during-pregnancy programmes).",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T030",
+        "T027",
+        "T296",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Ordinary staff-orientation instruction. Prenatal care is rendered descriptively as care during pregnancy, without adding clinical procedures."
+    },
+    {
+      "id": "MAN-19-0019",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Support new or pre-existing early childhood care supports by facilitating learning through play, creating opportunities for caregivers and young children to interact and play, and promoting informal parent gatherings.",
+      "ne": "खेलमार्फत सिकाइलाई सहज बनाउने, हेरचाहकर्ता र साना बालबालिकालाई अन्तर्क्रिया गर्ने र खेल्ने अवसर सिर्जना गर्ने तथा आमाबुबाका अनौपचारिक जमघटलाई प्रोत्साहन गर्ने काममार्फत प्रारम्भिक बाल्यावस्थामा गरिने हेरचाहका लागि नयाँ वा पहिलेदेखि उपलब्ध सहयोगलाई सघाउनुहोस्।",
+      "bt": "Assist new or already available support for care in early childhood by facilitating learning through play, creating opportunities for caregivers and young children to interact and play, and encouraging informal gatherings of parents.",
+      "type": "general",
+      "terms": [
+        "T006"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserves all three means of supporting new or pre-existing care supports. Recurring term missing from the frozen glossary: propose early childhood care supports = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-19-0020",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Provide orientations and/or skills training to caregivers of young children and to those expecting children, including caregivers of children with disabilities and children with specific protection risks(e.g. children with developmental disabilities, children with mental health conditions, children associated with armed forces and armed groups, child survivors of sexual violence or GBV; see key consideration 34), to improve their knowledge and skills in ECD (e.g. through coaching, demonstration, practice, role-playing).",
+      "ne": "अपाङ्गता भएका बालबालिका तथा संरक्षणसम्बन्धी विशेष जोखिम भएका बालबालिकाका हेरचाहकर्ताहरूलाई समेत समेटेर, साना बालबालिकाका हेरचाहकर्ताहरू र सन्तानको प्रतीक्षामा रहेका व्यक्तिहरूलाई ECD सम्बन्धी ज्ञान र सीप सुधार गर्न अभिमुखीकरण र/वा सीप तालिम प्रदान गर्नुहोस् (जस्तै प्रशिक्षकको मार्गदर्शन, प्रदर्शन, अभ्यास र भूमिका निर्वाहमार्फत)। संरक्षणसम्बन्धी विशेष जोखिम भएका बालबालिकाका उदाहरणमा विकाससम्बन्धी अपाङ्गता भएका बालबालिका, मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका बालबालिका, सशस्त्र बल तथा सशस्त्र समूहसँग सम्बन्धित बालबालिका, र यौन हिंसा वा GBV बाट प्रभावित व्यक्तिहरूमध्येका बालबालिका पर्छन्; मुख्य विचारणीय पक्ष 34 हेर्नुहोस्।",
+      "bt": "Provide orientation and/or skills training to caregivers of young children and people expecting a child to improve knowledge and skills related to ECD, including caregivers of children with disabilities and children with particular protection-related risks (e.g. through guidance from a trainer, demonstrations, practice and role play). Examples of children with particular protection-related risks include children with developmental disabilities, children with mental health conditions, children associated with armed forces and armed groups, and children among people affected by sexual violence or GBV; see key consideration 34.",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T014",
+        "T029",
+        "T252",
+        "T299",
+        "T317",
+        "T478"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen label प्रभावित व्यक्तिहरू means affected persons and can include indirectly affected people, whereas child survivors denotes children who directly experienced and survived sexual violence or GBV; the source population remains limited to those children. bt-divergence: The frozen form प्रभावित व्यक्तिहरू means affected persons, potentially including indirectly affected people; 'child survivors of sexual violence or GBV' identifies children who directly experienced and survived that violence. The frozen form is retained."
+    },
+    {
+      "id": "MAN-19-0021",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Disseminate ECD messages using media appropriate to the context, considering culture, literacy and access to technology (e.g. posters, information leaflets, radio messaging, social media campaigns).",
+      "ne": "संस्कृति, साक्षरता र प्रविधिमा पहुँचलाई ध्यानमा राखी सन्दर्भअनुकूल माध्यम प्रयोग गरेर ECD सन्देशहरू प्रसार गर्नुहोस् (जस्तै, पोस्टर, सूचनामूलक पर्चा, रेडियोमार्फत सन्देश प्रसारण र सामाजिक सञ्जाल अभियान)।",
+      "bt": "Disseminate ECD messages using context-appropriate media, taking culture, literacy and access to technology into account (e.g., posters, informational leaflets, broadcasting messages through radio and social media campaigns).",
+      "type": "general",
+      "terms": [
+        "T429"
+      ],
+      "flags": [],
+      "note": "Preserves all three contextual considerations and all four dissemination examples."
+    },
+    {
+      "id": "MAN-19-0022",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Conduct home visits to support caregivers with nutrition, mental and physical health, hygiene, parent-child interaction and responsive caregiving. Prioritize caregivers with mental health conditions (such as maternal depression) and caregivers of children with developmental disabilities and with mental health conditions.",
+      "ne": "पोषण, मानसिक तथा शारीरिक स्वास्थ्य, सरसफाइ, अभिभावक र बालबालिकाबीचको अन्तरक्रिया तथा बालबालिकाका आवश्यकता र सङ्केतअनुसार गरिने स्याहारमा हेरचाहकर्ताहरूलाई सहयोग गर्न घरमै भेटघाट गर्नुहोस्। [maternal depression] जस्ता मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका हेरचाहकर्ताहरू तथा विकाससम्बन्धी अपाङ्गता र मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका बालबालिकाका हेरचाहकर्ताहरूलाई प्राथमिकता दिनुहोस्।",
+      "bt": "Conduct home visits to support caregivers in nutrition, mental and physical health, hygiene, interaction between parents and children, and care provided according to children's needs and signals. Prioritize caregivers with mental health conditions such as [maternal depression] and caregivers of children with developmental disabilities and mental health conditions.",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T027",
+        "T030",
+        "T083",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The named diagnosis is retained in exact source English, and both caregiver prioritization groups are preserved."
+    },
+    {
+      "id": "MAN-19-0023",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Ensure access to a safe and appropriate space (e.g. baby-friendly spaces) in which to conduct activities if needed.",
+      "ne": "आवश्यक भएमा गतिविधि सञ्चालन गर्न सुरक्षित र उपयुक्त स्थानमा पहुँच सुनिश्चित गर्नुहोस् (जस्तै, शिशुमैत्री स्थान)।",
+      "bt": "If necessary, ensure access to a safe and suitable place to conduct activities (e.g., an infant-friendly space).",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "General safety guidance drafted for review, not a verbatim safeguarding declaration. Preserves the conditional requirement and baby-friendly-space example."
+    },
+    {
+      "id": "MAN-19-0024",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Facilitate links and referrals to any needed services and supports (e.g. mental health services, health, protection, nutrition, education and other relevant services for young children and caregivers).",
+      "ne": "आवश्यक पर्ने सेवा र सहयोगसँग सम्पर्क स्थापित गर्न र सम्बन्धित सेवामा पठाउने कार्य सहज बनाउनुहोस् (जस्तै, साना बालबालिका र हेरचाहकर्ताका लागि मानसिक स्वास्थ्य सेवा, स्वास्थ्य, संरक्षण, पोषण, शिक्षा तथा अन्य सान्दर्भिक सेवा)।",
+      "bt": "Facilitate establishing contact with needed services and support and making referrals to relevant services (for example, mental health services, health, protection, nutrition, education and other relevant services for young children and caregivers).",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T027",
+        "T028",
+        "T029",
+        "T030",
+        "T157",
+        "T172",
+        "T263"
+      ],
+      "flags": [],
+      "note": "General service-linkage and referral guidance drafted for review; no clinical procedure is introduced."
+    },
+    {
+      "id": "MAN-19-0025",
+      "page": "60",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Engage staff with ECD technical expertise to provide ongoing technical oversight, supervision and support to facilitators and outreach workers.",
+      "ne": "सहजकर्ता र समुदायमा पुगेर काम गर्ने कार्यकर्तालाई निरन्तर प्राविधिक निगरानी, सुपरिवेक्षण र सहयोग प्रदान गर्न प्रारम्भिक बाल विकास (ECD) मा प्राविधिक विशेषज्ञता भएका कर्मचारीलाई संलग्न गराउनुहोस्।",
+      "bt": "Engage staff with technical expertise in early childhood development (ECD) to provide ongoing technical monitoring, supervision and support to facilitators and workers who work by reaching out into the community.",
+      "type": "general",
+      "terms": [
+        "T037",
+        "T229",
+        "T277",
+        "T309",
+        "T318"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The glossary lacks facilitator and outreach worker. Contextual drafting proposals are supplied for terminology review; supervision is organizational, not newly coined clinical terminology."
+    },
+    {
+      "id": "MAN-19-0026",
+      "page": "61",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूका आधारमा)",
+      "bt": "Additional actions given for consideration (based on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-19-0027",
+      "page": "61",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Promote caregiver support networks by establishing or strengthening social groups, peer-to-peer support groups, play groups and self-help groups (see MSP activity 3.4).",
+      "ne": "सामाजिक समूहहरू, समकक्षीहरूबीच आपसी सहयोगका समूहहरू, खेल समूहहरू र स्वसहयोग समूहहरू स्थापना गरेर वा सुदृढ गरेर हेरचाहकर्ताका सहयोग सञ्जाललाई प्रवर्द्धन गर्नुहोस् (MSP गतिविधि 3.4 हेर्नुहोस्)।",
+      "bt": "Promote caregivers’ support networks by establishing or strengthening social groups, mutual support groups among peers, play groups and self-help groups (see MSP activity 3.4).",
+      "type": "check",
+      "terms": [
+        "T006",
+        "T091",
+        "T163",
+        "T311",
+        "T423"
+      ],
+      "flags": [],
+      "note": "The groups are rendered as ordinary community support arrangements, not clinical interventions."
+    },
+    {
+      "id": "MAN-19-0028",
+      "page": "61",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Integrate ECD considerations and activities in dedicated safe spaces for pregnant and breastfeeding women/ adolescents.",
+      "ne": "गर्भवती तथा स्तनपान गराइरहेका महिला/किशोरीहरूका लागि छुट्याइएका सुरक्षित स्थलहरूमा प्रारम्भिक बाल विकास (ECD) सम्बन्धी विचारणीय पक्ष र गतिविधिहरू एकीकृत गर्नुहोस्।",
+      "bt": "Integrate considerations and activities related to early childhood development (ECD) into safe spaces designated for pregnant and breastfeeding women/adolescent girls.",
+      "type": "general",
+      "terms": [
+        "T037",
+        "T293"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Safe spaces is absent as a standalone glossary entry. The proposed wording follows the supplied activity 3.9 wording without treating it as an approved glossary addition."
+    },
+    {
+      "id": "MAN-19-0029",
+      "page": "61",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Provide structured group MHPSS interventions for caregivers.",
+      "ne": "हेरचाहकर्ताहरूका लागि संरचित ढाँचामा समूहगत MHPSS हस्तक्षेपहरू प्रदान गर्नुहोस्।",
+      "bt": "Provide group MHPSS interventions in a structured format for caregivers.",
+      "type": "safety",
+      "terms": [
+        "T006"
+      ],
+      "flags": [],
+      "note": "The structured format, group delivery and caregiver recipients are retained; this is a general intervention category, not a named therapy."
+    },
+    {
+      "id": "MAN-19-0030",
+      "page": "61",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Take steps to support the sustained integration of ECD activities and considerations into systems of care (e.g. health, social care and education systems).",
+      "ne": "हेरचाह प्रणालीहरूमा (जस्तै, स्वास्थ्य, सामाजिक हेरचाह र शिक्षा प्रणालीहरूमा) प्रारम्भिक बाल विकास (ECD) का गतिविधि र सम्बन्धित विचारणीय पक्षहरू दिगो रूपमा एकीकृत गर्न सहयोग पुग्ने कदम चाल्नुहोस्।",
+      "bt": "Take steps that help sustainably integrate early childhood development (ECD) activities and related considerations into care systems (for example, health, social care and education systems).",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T028",
+        "T037"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-19-0031",
+      "page": "61",
+      "loc": "heading",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरण",
+      "bt": "Guidelines, standards and tools",
+      "type": "check",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-19-0032",
+      "page": "61",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-19-0033",
+      "page": "61",
+      "loc": "heading",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Key consideration 24: Integrating early childhood development activities into nutrition programmes",
+      "ne": "मुख्य विचारणीय पक्ष 24: पोषण कार्यक्रमहरूमा प्रारम्भिक बाल विकासका गतिविधिहरू एकीकृत गर्ने",
+      "bt": "Key consideration 24: Integrating early childhood development activities into nutrition programmes",
+      "type": "check",
+      "terms": [
+        "T030",
+        "T037",
+        "T252",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-19-0034",
+      "page": "61",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "In situations of food insecurity, including situations of emergency and famine (IPC 4 and 5), caregivers of young children are themselves likely to be deprived of food, are often distressed, and are thus less able to provide children with positive and emotionally nurturing environments. Children’s growth and brain development depend on good nutrition as well as on stimulation and emotional responsiveness from caregivers.",
+      "ne": "खाद्य असुरक्षाको अवस्थामा, आपत्कालीन र अनिकालका अवस्था (IPC 4 र 5) समेतमा, साना बालबालिकाका हेरचाहकर्ताहरू स्वयं पनि खानाबाट वञ्चित हुने सम्भावना हुन्छ र उनीहरू प्रायः व्यथामा हुन्छन्, जसले गर्दा बालबालिकालाई सकारात्मक र भावनात्मक स्याहार प्रदान गर्ने वातावरण दिन उनीहरूको क्षमता कम हुन्छ। बालबालिकाको वृद्धि र मस्तिष्कको विकास राम्रो पोषणका साथै हेरचाहकर्ताहरूले दिने उत्तेजना र बालबालिकाका भावनाप्रति देखाउने प्रतिक्रियाशीलतामा निर्भर हुन्छ।",
+      "bt": "In situations of food insecurity, including emergency and famine conditions (IPC 4 and 5), caregivers of young children themselves are also likely to be deprived of food and are often in distress, which reduces their capacity to provide an environment that offers positive and emotional care to children. Children's growth and brain development depend on good nutrition as well as the stimulation provided by caregivers and the responsiveness they show to children's emotions.",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T030",
+        "T461"
+      ],
+      "flags": [],
+      "note": "The likelihood of food deprivation, frequent distress and consequent reduced caregiving capacity are retained without introducing a diagnosis."
+    },
+    {
+      "id": "MAN-19-0035",
+      "page": "61",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "Combined ECD and nutrition programming can have a mutually reinforcing impact on child development, mother-child interaction and caregiver mental health. Together, they can equip caregivers with greater levels of confidence and responsiveness while enhancing their ability to nurse and feed their children. Examples of such programming include:",
+      "ne": "ECD र पोषणलाई संयोजन गरी गरिने कार्यक्रम तर्जुमा तथा कार्यान्वयनले बाल विकास, आमा र बालबालिकाबीचको अन्तरक्रिया तथा हेरचाहकर्ताहरूको मानसिक स्वास्थ्यमा एकअर्कालाई सुदृढ बनाउने प्रभाव पार्न सक्छ। यी दुवैले मिलेर हेरचाहकर्ताहरूको आत्मविश्वास र प्रतिक्रियाशीलता बढाउन तथा आफ्ना बालबालिकालाई स्तनपान गराउने र खुवाउने क्षमता अभिवृद्धि गर्न सक्छन्। यस्तो कार्यक्रम तर्जुमा तथा कार्यान्वयनका उदाहरणहरू यसप्रकार छन्:",
+      "bt": "Program planning and implementation carried out by combining ECD and nutrition can have mutually reinforcing effects on child development, interaction between mothers and children, and caregivers’ mental health. These two together can increase caregivers’ confidence and responsiveness and enhance their capacity to breastfeed and feed their children. Examples of such program planning and implementation are as follows:",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T030",
+        "T157",
+        "T282"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source word 'nurse' can mean breastfeeding or providing care; both possible readings are retained pending clarification. The draft turns 'nurse' into the explicit alternative 'breastfeed or care for,' which the source does not state. The repair uses the breastfeeding sense appropriate to the feeding context; the source word itself remains lexically ambiguous."
+    },
+    {
+      "id": "MAN-19-0036",
+      "page": "61",
+      "loc": "bullet",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "▶ Integrating key ECD messages into infant and young child feeding activities, such as nutritional counselling (e.g. while weighing/assessing children and distributing supplements; see Sphere Management of malnutrition standard 2.2);",
+      "ne": "▶ शिशु तथा साना बालबालिकालाई खुवाउने गतिविधिहरूमा, जस्तै पोषणसम्बन्धी परामर्शमा, ECD का मुख्य सन्देशहरू समावेश गर्नु (जस्तै बालबालिकाको तौल लिँदा/मूल्याङ्कन गर्दा र पोषणका पूरक सामग्री वितरण गर्दा; [Sphere Management of malnutrition standard 2.2] हेर्नुहोस्)।",
+      "bt": "▶ Include key ECD messages in infant and young child feeding activities, such as nutrition-related counselling (for example, when weighing/assessing children and distributing nutritional supplementary materials; see [Sphere Management of malnutrition standard 2.2]).",
+      "type": "safety",
+      "terms": [
+        "T030"
+      ],
+      "flags": [],
+      "note": "The weighing/assessment and supplement-distribution examples are retained, and the cited standard remains identifiable in exact source English. The source presents an example of programming, not a direct command to implement it. The draft also narrows 'supplements' to supplementary food. The repair restores the example form and a broader nutritional-supplement meaning."
+    },
+    {
+      "id": "MAN-19-0037",
+      "page": "61",
+      "loc": "bullet",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "▶ Organizing regular mother-baby and child group activities (e.g. at outreach therapeutic programme and supplementary feeding programme sites);",
+      "ne": "▶ आमा र शिशुका तथा बालबालिकाका नियमित समूहगत गतिविधिहरू आयोजना गर्नु (जस्तै पहुँच विस्तार गरी सञ्चालन हुने उपचारात्मक कार्यक्रम र पूरक आहार उपलब्ध गराउने कार्यक्रम सञ्चालन हुने स्थानहरूमा)।",
+      "bt": "▶ Organize regular group activities for mothers and infants and for children (for example, at locations where treatment programs operated through expanded outreach and programs providing supplementary food are run).",
+      "type": "safety",
+      "terms": [
+        "T409"
+      ],
+      "flags": [],
+      "note": "Both programme types and their role as example activity locations are retained; neither is treated as a named therapy. The source lists organizing these activities as an example of programming; the draft changes this into a direct instruction. The repair restores the example form."
+    },
+    {
+      "id": "MAN-19-0038",
+      "page": "61",
+      "loc": "bullet",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "▶ Setting up baby-friendly spaces (e.g. in tents for feeding, therapeutic feeding centres) that provide a safe space for babies and young children to interact with their caregivers and with each other, while caregivers can learn about ECD by watching others and “learning by doing”.",
+      "ne": "▶ शिशुमैत्री स्थानहरू स्थापना गर्नु (जस्तै खुवाउन प्रयोग हुने पालहरू र उपचारका लागि आहार दिइने केन्द्रहरूमा), जहाँ शिशु तथा साना बालबालिकाले आफ्ना हेरचाहकर्ताहरू र एकअर्कासँग अन्तरक्रिया गर्न सुरक्षित स्थान पाउँछन् र हेरचाहकर्ताहरूले अरूलाई हेरेर तथा “गर्दै सिकेर” ECD बारे सिक्न सक्छन्।",
+      "bt": "▶ Establish infant-friendly spaces (for example, in tents used for feeding and centres where food is given for treatment), where infants and young children have a safe space to interact with their caregivers and one another, and caregivers can learn about ECD by watching others and by “learning by doing.”",
+      "type": "safety",
+      "terms": [
+        "T006"
+      ],
+      "flags": [],
+      "note": "Both example settings, both interaction relationships and the observational and practical learning opportunities are retained. The source lists setting up these spaces as an example of programming; the draft changes this into a direct instruction. The repair restores the example form."
+    },
+    {
+      "id": "MAN-19-0039",
+      "page": "61",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सान्दर्भिक स्रोत सामग्री हेर्नुहोस्।",
+      "bt": "See relevant resource materials on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-18",
+  "unit_title": "Support new and pre-existing group-based community MHPSS activities",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "57-58",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:44:35+05:45",
+  "coverage": {
+    "source_words": 573,
+    "row_words": 573,
+    "skipped": [
+      "PDF p.57: running footer/page number removed: 52 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.58: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 53"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-18-0001",
+      "page": "57",
+      "loc": "heading",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "3.4 Support new and pre-existing group-based community MHPSS activities",
+      "ne": "3.4 नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने",
+      "bt": "3.4 Support new and already operating group-based community MHPSS activities",
+      "type": "activity",
+      "terms": [
+        "T101"
+      ],
+      "flags": [],
+      "note": "Exact supplied activity-label candidate retained; unreviewed."
+    },
+    {
+      "id": "MAN-18-0002",
+      "page": "57",
+      "loc": "para",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Community members are usually the first people to respond to an emergency, and they have the greatest knowledge of local resources, coping strategies, culture and geography.",
+      "ne": "आपत्कालीन अवस्थामा प्रतिकार्य गर्ने पहिलो व्यक्ति प्रायः समुदायका सदस्य नै हुन्छन्, र स्थानीय स्रोतसाधन, कठिनाइको सामना गर्ने रणनीति, संस्कृति तथा भूगोलबारे उनीहरूलाई सबैभन्दा बढी जानकारी हुन्छ।",
+      "bt": "Community members themselves are often the first people to respond in emergencies, and they have the most information about local resources, strategies for coping with difficulties, culture and geography.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Coping strategies is rendered as ordinary ways of dealing with difficulties, not as a clinical technique."
+    },
+    {
+      "id": "MAN-18-0003",
+      "page": "57",
+      "loc": "para",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Community-led activities are likely to be relevant and sustainable and can reduce dependency on external support.",
+      "ne": "समुदायको नेतृत्वमा सञ्चालित गतिविधिहरू सान्दर्भिक र दिगो हुने सम्भावना हुन्छ र तिनले बाह्य सहयोगमाथिको निर्भरता घटाउन सक्छन्।",
+      "bt": "Community-led activities are likely to be relevant and sustainable, and they can reduce dependence on external support.",
+      "type": "general",
+      "terms": [
+        "T207",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Community-led is absent from the supplied glossary; proposed ordinary wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-18-0004",
+      "page": "57",
+      "loc": "para",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "They usually take the form of group activities.",
+      "ne": "यी गतिविधिहरू प्रायः सामूहिक गतिविधिका रूपमा सञ्चालन हुन्छन्।",
+      "bt": "These activities are often conducted as collective activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-18-0005",
+      "page": "57",
+      "loc": "para",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Humanitarian actors can support pre-existing community initiatives that promote mental health and psychosocial well-being (e.g. re-establishing cultural and religious activities, support groups, youth networks and other groups based on shared interests, problems, traditions or activities) and can partner with these initiatives to strengthen their capacity to respond to MHPSS needs (e.g. providing safe spaces in which to convene, capacity-building in MHPSS and/or group facilitation skills, facilitating the inclusion of persons with disabilities).",
+      "ne": "मानवीय कार्यमा संलग्न पक्षहरूले मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन गर्ने पहिलेदेखिका सामुदायिक पहलहरूलाई सहयोग गर्न सक्छन् (जस्तै, सांस्कृतिक तथा धार्मिक गतिविधि, सहयोग समूहहरू, युवा सञ्जालहरू र साझा रुचि, समस्या, परम्परा वा गतिविधिमा आधारित अन्य समूहहरू पुनःस्थापित गर्ने)। साथै, उनीहरूले यी पहलहरूसँग साझेदारी गरी MHPSS आवश्यकतालाई सम्बोधन गर्ने तिनको क्षमता सुदृढ गर्न सक्छन् (जस्तै, भेला हुन सुरक्षित स्थान उपलब्ध गराउने, MHPSS र/वा समूह सहजीकरणका सीपमा क्षमता विकास गर्ने, अपाङ्गता भएका व्यक्तिहरूको समावेशीकरणमा सहजीकरण गर्ने)।",
+      "bt": "Parties involved in humanitarian work can support existing community initiatives that promote mental health and psychosocial well-being (e.g., re-establishing cultural and religious activities, support groups, youth networks and other groups based on shared interests, problems, traditions or activities). They can also partner with these initiatives to strengthen their capacity to address MHPSS needs (e.g., providing safe places to gather, building capacity in MHPSS and/or group facilitation skills, facilitating the inclusion of persons with disabilities).",
+      "type": "general",
+      "terms": [
+        "T147",
+        "T157",
+        "T005",
+        "T073",
+        "T234",
+        "T311",
+        "T328",
+        "T365",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed candidates T157 and T005. Missing recurring terms proposed: support groups = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; group facilitation = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; safe spaces = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-18-0006",
+      "page": "57",
+      "loc": "para",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Humanitarian actors can also facilitate new group-based community MHPSS initiatives (e.g. discussion and support groups, self-help initiatives, appropriate communal healing practices, arts-based activities).",
+      "ne": "मानवीय कार्यमा संलग्न पक्षहरूले समुदायमा समूहमा आधारित नयाँ MHPSS पहलहरूको सहजीकरण गर्न पनि सक्छन् (जस्तै, छलफल तथा सहयोग समूहहरू, स्वसहयोगका पहलहरू, निको पार्ने उपयुक्त सामुदायिक अभ्यासहरू, कलामा आधारित गतिविधिहरू)।",
+      "bt": "Parties involved in humanitarian work can also facilitate new group-based MHPSS initiatives in the community (e.g., discussion and support groups, self-help initiatives, appropriate community healing practices, arts-based activities).",
+      "type": "safety",
+      "terms": [
+        "T147",
+        "T311",
+        "T344",
+        "T423"
+      ],
+      "flags": [],
+      "note": "Communal healing practices are expressed generically, not treated as a named therapy."
+    },
+    {
+      "id": "MAN-18-0007",
+      "page": "57",
+      "loc": "para",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Engaging together in response activities can help community members to restore feelings of agency and hopefulness, strengthen social connections and provide a sense of collective identity and belonging, factors that promote well-being and recovery.",
+      "ne": "प्रतिकार्य गतिविधिहरूमा मिलेर संलग्न हुँदा समुदायका सदस्यहरूलाई आफैँ निर्णय गर्न र कार्य गर्न सक्ने अनुभूति तथा आशाको अनुभूति पुनःप्राप्त गर्न, सामाजिक सम्बन्ध सुदृढ गर्न र सामूहिक पहिचान तथा आबद्धताको अनुभूति प्राप्त गर्न मद्दत मिल्न सक्छ। यी पक्षले कल्याण र पुनर्बहाली प्रवर्द्धन गर्छन्।",
+      "bt": "Being involved together in response activities can help community members regain a sense of being able to make decisions and act themselves and a sense of hope, strengthen social relationships, and gain a sense of collective identity and belonging. These aspects promote well-being and recovery.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T328",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Agency, hopefulness, well-being and recovery are rendered in their ordinary community and social sense, not as diagnostic or treatment terminology."
+    },
+    {
+      "id": "MAN-18-0008",
+      "page": "57",
+      "loc": "para",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Community members of different ages, genders, and other diverse characteristics, including those with disabilities, should be supported to participate in community-led activities to capitalize on their different skills, ideas and experiences.",
+      "ne": "अपाङ्गता भएका व्यक्तिहरूसहित विभिन्न उमेर, लिङ्ग र अन्य विविध विशेषता भएका समुदायका सदस्यहरूलाई उनीहरूका फरक सीप, विचार र अनुभवको उपयोग गर्न समुदायको नेतृत्वमा सञ्चालित गतिविधिहरूमा सहभागी हुन सहयोग गर्नुपर्छ।",
+      "bt": "Community members of different ages, genders and other diverse characteristics, including persons with disabilities, should be supported to participate in community-led activities to make use of their different skills, ideas and experiences.",
+      "type": "general",
+      "terms": [
+        "T073",
+        "T207",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed ordinary wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring glossary gap community-led."
+    },
+    {
+      "id": "MAN-18-0009",
+      "page": "57",
+      "loc": "para",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "These activities provide an opportunity to proactively include and support at-risk groups, such as people with mental health conditions, migrants, refugees, IDPs and persons with disabilities. (see Overview, “How can groups and persons at increased risk be prioritized and reached with MHPSS MSP activities and services?” and Resources on MHPSS for at-risk groups on the MHPSS MSP web platform).",
+      "ne": "यी गतिविधिहरूले मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका व्यक्तिहरू, प्रवासी, शरणार्थी, IDPs र अपाङ्गता भएका व्यक्तिहरू जस्ता जोखिममा रहेका समूहलाई समावेश गर्न र सहयोग गर्न पहल गर्ने अवसर प्रदान गर्छन्। (झलक खण्डमा रहेको “जोखिम बढेको अवस्थामा रहेका समूह र व्यक्तिहरूलाई MHPSS MSP गतिविधिहरू तथा सेवाहरूका लागि कसरी प्राथमिकता दिन र ती गतिविधि तथा सेवाहरू उनीहरूसम्म कसरी पुर्‍याउन सकिन्छ?” र MHPSS MSP वेब प्लेटफर्ममा रहेको जोखिममा रहेका समूहका लागि MHPSS सम्बन्धी स्रोतसामग्री हेर्नुहोस्।)",
+      "bt": "These activities provide opportunities to take initiatives to include and support groups at risk, such as people with mental health conditions, migrants, refugees, IDPs and people with disabilities. (See “How can groups and individuals at increased risk be prioritized for MHPSS MSP activities and services, and how can those activities and services be brought to them?” in the overview section and the resource materials on MHPSS for groups at risk on the MHPSS MSP web platform.)",
+      "type": "safety",
+      "terms": [
+        "T016",
+        "T073",
+        "T157",
+        "T163",
+        "T189",
+        "T269",
+        "T272",
+        "T287",
+        "T334",
+        "T416",
+        "T476"
+      ],
+      "flags": [],
+      "note": "The population label preserves the presence of a mental health condition without adding impaired functioning; IDPs and both resource references are retained. “सक्रिय रूपमा” conveys actively but does not explicitly retain the initiative-taking sense of “proactively.” The repair makes taking initiative to include and support the groups explicit."
+    },
+    {
+      "id": "MAN-18-0010",
+      "page": "58",
+      "loc": "heading",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-18-0011",
+      "page": "58",
+      "loc": "heading",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Support new and pre-existing group-based community MHPSS activities",
+      "ne": "नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने",
+      "bt": "Support new and already operating group-based community MHPSS activities",
+      "type": "activity",
+      "terms": [
+        "T101"
+      ],
+      "flags": [],
+      "note": "Exact supplied activity-label candidate retained; unreviewed."
+    },
+    {
+      "id": "MAN-18-0012",
+      "page": "58",
+      "loc": "heading",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-18-0013",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Identify pre-existing community-led initiatives, structures and support mechanisms (e.g. support groups, faith communities and other groups based on shared interests, problems, traditions or activities) and assess the support needed to preserve or expand activities (see MSP activity 1.2).",
+      "ne": "समुदायको नेतृत्वमा पहिलेदेखि सञ्चालित पहल, संरचना र सहयोग संयन्त्रहरू पहिचान गर्नुहोस् (जस्तै, सहयोग समूहहरू, धार्मिक समुदायहरू र साझा रुचि, समस्या, परम्परा वा गतिविधिमा आधारित अन्य समूहहरू) र गतिविधिहरू कायम राख्न वा विस्तार गर्न आवश्यक सहयोगको लेखाजोखा गर्नुहोस् (MSP गतिविधि 1.2 हेर्नुहोस्)।",
+      "bt": "Identify existing community-led initiatives, structures and support mechanisms (e.g., support groups, religious communities and other groups based on shared interests, problems, traditions or activities) and assess the support needed to maintain or expand activities (see MSP activity 1.2).",
+      "type": "check",
+      "terms": [
+        "T091",
+        "T163",
+        "T311",
+        "T312",
+        "T344",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring glossary gaps: community-led, support groups and support mechanisms. Proposed wording includes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for support mechanisms."
+    },
+    {
+      "id": "MAN-18-0014",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Promote and support new group-based community MHPSS activities to strengthen coping resources and social supports (e.g. peer support networks; groups focused on specific issues of concern; support groups for older adults, for persons with disabilities and for their carers).",
+      "ne": "कठिनाइको सामना गर्न उपयोगी स्रोतसाधन र सामाजिक सहयोग सुदृढ गर्न नयाँ समूहमा आधारित सामुदायिक MHPSS गतिविधिहरू प्रवर्द्धन गर्नुहोस् र तिनलाई सहयोग गर्नुहोस् (जस्तै, समकक्षी सहयोग सञ्जालहरू; चासोका विशिष्ट विषयमा केन्द्रित समूहहरू; ज्येष्ठ वयस्क, अपाङ्गता भएका व्यक्तिहरू र तिनका हेरचाहकर्ताका लागि सहयोग समूहहरू)।",
+      "bt": "Promote and support new group-based community MHPSS activities to strengthen resources useful for coping with difficulties and social support (e.g., peer support networks; groups focused on specific topics of concern; support groups for older adults, persons with disabilities and their caregivers).",
+      "type": "general",
+      "terms": [
+        "T079",
+        "T158",
+        "T074",
+        "T073",
+        "T307",
+        "T311"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Coping resources is rendered nonclinically as resources useful for dealing with difficulties. Missing recurring terms: support groups = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; social supports = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-18-0015",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Provide technical, financial or in-kind support for pre-existing and/or new community activities that promote mental health and psychosocial well-being (e.g. support the repair/replacement of damaged equipment; facilitate participatory discussions and activities; provide self-help resources and information; provide short participatory trainings on MHPSS, group facilitation and/or promoting social cohesion).",
+      "ne": "मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन गर्ने पहिलेदेखिका र/वा नयाँ सामुदायिक गतिविधिहरूका लागि प्राविधिक, आर्थिक वा वस्तुगत सहयोग प्रदान गर्नुहोस् (जस्तै, क्षतिग्रस्त उपकरणको मर्मत/प्रतिस्थापनमा सहयोग गर्ने; सहभागितामूलक छलफल र गतिविधिहरूमा सहजीकरण गर्ने; स्व-सहयोगका स्रोतसाधन र जानकारी उपलब्ध गराउने; MHPSS, समूह सहजीकरण र/वा सामाजिक एकता प्रवर्द्धनबारे छोटो अवधिका सहभागितामूलक तालिमहरू प्रदान गर्ने)।",
+      "bt": "Provide technical, financial or in-kind support for existing and/or new community activities that promote mental health and psychosocial well-being (e.g., supporting the repair/replacement of damaged equipment; facilitating participatory discussions and activities; providing self-help resources and information; providing short-term participatory training on MHPSS, group facilitation and/or promoting social cohesion).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T234",
+        "T328",
+        "T365",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed candidates T157 and T005. Group facilitation is a recurring glossary gap; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Self-help resources is ordinary resource provision, not a named clinical intervention."
+    },
+    {
+      "id": "MAN-18-0016",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Support social, recreational and cultural activities.",
+      "ne": "सामाजिक, मनोरञ्जनात्मक र सांस्कृतिक गतिविधिहरूलाई सहयोग गर्नुहोस्।",
+      "bt": "Support social, recreational and cultural activities.",
+      "type": "general",
+      "terms": [
+        "T081"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-18-0017",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Facilitate access to a safe, appropriate space (e.g. for older adults, persons with disabilities, persons with diverse SOGIESC) in which to conduct activities if needed.",
+      "ne": "आवश्यक भएमा गतिविधिहरू सञ्चालन गर्न सुरक्षित र उपयुक्त स्थानमा पहुँच सहज बनाउनुहोस् (जस्तै, ज्येष्ठ वयस्क, अपाङ्गता भएका व्यक्तिहरू र विविध SOGIESC भएका व्यक्तिहरूका लागि)।",
+      "bt": "If needed, facilitate access to safe and appropriate places to conduct activities (e.g., for older adults, persons with disabilities and persons with diverse SOGIESC).",
+      "type": "safety",
+      "terms": [
+        "T074",
+        "T073"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safe-access guidance drafted; safety and inclusion review pending. Safe space is a recurring glossary gap; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. SOGIESC is retained unchanged."
+    },
+    {
+      "id": "MAN-18-0018",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Support adults and children to access information and connect with family members and other social supports, (e.g. through information technology, phones and phone-charging services, as appropriate to context, culture, literacy, and access to technology).",
+      "ne": "वयस्क र बालबालिकालाई जानकारीमा पहुँच प्राप्त गर्न तथा परिवारका सदस्य र अन्य सामाजिक सहयोगसँग जोडिन सहयोग गर्नुहोस् (जस्तै, सन्दर्भ, संस्कृति, साक्षरता र प्रविधिमा पहुँचअनुसार उपयुक्त हुने गरी सूचना प्रविधि, फोन र फोन चार्ज गर्ने सेवामार्फत)।",
+      "bt": "Help adults and children access information and connect with family members and other social support (e.g., through information technology, phones and phone-charging services, as appropriate to the context, culture, literacy and access to technology).",
+      "type": "general",
+      "terms": [
+        "T307"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Social supports is a recurring glossary gap; proposed ordinary wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-18-0019",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Facilitate links and referrals to any needed services and supports (e.g. mental health services, health, protection and education services, food security and livelihoods support).",
+      "ne": "आवश्यक पर्ने कुनै पनि सेवा तथा सहयोगसँग सम्पर्क स्थापित गर्ने र सम्बन्धित सेवामा पठाउने कार्यमा सहजीकरण गर्नुहोस् (जस्तै, मानसिक स्वास्थ्य सेवा, स्वास्थ्य, संरक्षण र शिक्षा सेवा, खाद्य सुरक्षा तथा जीविकोपार्जनसम्बन्धी सहयोग)।",
+      "bt": "Facilitate establishing contact with any services and support needed and referral to the relevant services (e.g., mental health services, health, protection and education services, food security and livelihood-related support).",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T157",
+        "T027",
+        "T029",
+        "T028",
+        "T034",
+        "T155",
+        "T263",
+        "T364"
+      ],
+      "flags": [],
+      "note": "General referral guidance drafted; safety review pending. [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] reuses wording present in the supplied unreviewed activity 3.10 candidate, not newly coined clinical terminology."
+    },
+    {
+      "id": "MAN-18-0020",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Engage staff with MHPSS technical expertise to provide technical oversight as needed (e.g. ensuring that activities promote well-being and do not cause harm).",
+      "ne": "आवश्यकताअनुसार प्राविधिक रेखदेख गर्न MHPSS मा प्राविधिक विशेषज्ञता भएका कर्मचारीलाई संलग्न गराउनुहोस् (जस्तै, गतिविधिहरूले कल्याण प्रवर्द्धन गर्छन् र हानि पुर्‍याउँदैनन् भन्ने सुनिश्चित गर्ने)।",
+      "bt": "Involve staff with technical expertise in MHPSS to provide technical oversight as needed (e.g., ensuring that activities promote well-being and do not cause harm).",
+      "type": "safety",
+      "terms": [
+        "T328"
+      ],
+      "flags": [],
+      "note": "General technical-oversight and harm-prevention guidance drafted; safety review pending. This is not treated as a verbatim safeguarding declaration."
+    },
+    {
+      "id": "MAN-18-0021",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतसाधनअनुसार)",
+      "bt": "Additional actions provided for consideration (depending on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-18-0022",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Provide additional technical, financial or in-kind support for the longer-term maintenance and/or expansion of community-led support mechanisms (e.g. longer-term CBOs or less formal groups).",
+      "ne": "समुदायको नेतृत्वमा सञ्चालित सहयोग संयन्त्रहरू लामो अवधिसम्म कायम राख्न र/वा विस्तार गर्न थप प्राविधिक, आर्थिक वा वस्तुगत सहयोग प्रदान गर्नुहोस् (जस्तै, लामो अवधिसम्म सञ्चालन हुने CBOs वा कम औपचारिक समूहहरू)।",
+      "bt": "Provide additional technical, financial or in-kind support to maintain and/or expand community-led support mechanisms over the long term (e.g., CBOs or less formal groups that operate over the long term).",
+      "type": "general",
+      "terms": [
+        "T207",
+        "T312",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring glossary gaps: community-led = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; support mechanisms = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. CBOs is retained unchanged."
+    },
+    {
+      "id": "MAN-18-0023",
+      "page": "58",
+      "loc": "heading",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": "Reclassified as an ordinary resource heading; no clinical or validated-instrument content is present."
+    },
+    {
+      "id": "MAN-18-0024",
+      "page": "58",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.4 Support new and pre-existing group-based community MHPSS activities",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणमा पहुँच प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to access relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": "Reclassified as an ordinary navigation instruction; the supplied resource-label candidate is retained."
+    }
+  ]
+}

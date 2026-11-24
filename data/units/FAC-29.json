@@ -1,0 +1,616 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-29",
+  "unit_title": "Costing Tool Practice Exercises",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "97-100",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:06:24+05:45",
+  "coverage": {
+    "source_words": 569,
+    "row_words": 569,
+    "skipped": [
+      "Page 97: running-footer: Annexes · MSP Workshop Facilitator Manual · 93",
+      "Page 98: running-footer: 94 · MSP Workshop Facilitator Manual · Annexes",
+      "Page 100: blank-page: No native text in full-page extraction.",
+      "Page 100: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 100: image-content-unverified: Exact embedded text, if present, is not transcribed."
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-29-0001",
+      "page": "97",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Annex 10",
+      "ne": "अनुलग्नक 10",
+      "bt": "Annex 10",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0002",
+      "page": "97",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Costing Tool Practice Exercises",
+      "ne": "लागत गणना उपकरण प्रयोगका अभ्यासहरू",
+      "bt": "Exercises in using the costing tool",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Costing Tool is absent from G-0.3; proposed wording is listed for review."
+    },
+    {
+      "id": "FAC-29-0003",
+      "page": "97",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Strengthening Mental Health and Psychosocial Support Using the MHPSS Minimum Service Package",
+      "ne": "MHPSS न्यूनतम सेवा प्याकेज प्रयोग गरी मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग सुदृढ गर्ने",
+      "bt": "Strengthening mental health and psychosocial support using the MHPSS Minimum Service Package",
+      "type": "activity",
+      "terms": [
+        "T002",
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The clinical composite term reuses the cited unreviewed T001 candidate."
+    },
+    {
+      "id": "FAC-29-0004",
+      "page": "97",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Demonstration scenario",
+      "ne": "प्रदर्शनका लागि परिदृश्य",
+      "bt": "Scenario for demonstration",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0005",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Watch how the following data and information is input into the costing tool to generate a total cost.",
+      "ne": "कुल लागत निकाल्न निम्न तथ्याङ्क र जानकारी लागत गणना उपकरणमा कसरी प्रविष्ट गरिन्छ भन्ने हेर्नुहोस्।",
+      "bt": "See how the following data and information are entered into the costing tool to calculate the total cost.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for Costing Tool."
+    },
+    {
+      "id": "FAC-29-0006",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "A flood has led to widespread destruction of people’s homes.",
+      "ne": "बाढीले मानिसका घरहरूमा व्यापक विनाश निम्त्याएको छ।",
+      "bt": "Flooding has caused widespread destruction to people's homes.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0007",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Temporary shelters have been erected and are housing 325,000 people across four camps.",
+      "ne": "चार शिविरमा अस्थायी आश्रय निर्माण गरिएका छन् र तिनमा 325,000 मानिसलाई बसोबास गराइएको छ।",
+      "bt": "Temporary shelters have been constructed in four camps, and 325,000 people have been housed in them.",
+      "type": "check",
+      "terms": [
+        "T300"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0008",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Fifteen organizations are part of the response, which will include all Section 1 and 3 activities.",
+      "ne": "प्रतिकार्यमा पन्ध्र संस्था संलग्न छन्, र यस प्रतिकार्यमा खण्ड 1 र 3 का सबै गतिविधि समावेश हुनेछन्।",
+      "bt": "Fifteen organizations are involved in the response, and this response will include all activities in sections 1 and 3.",
+      "type": "check",
+      "terms": [
+        "T174",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0009",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "There has not been any infectious disease outbreak and no organization will be providing service to people deprived of their liberties, so Section 4 activities will not be included.",
+      "ne": "सरुवा रोगको प्रकोप भएको छैन र कुनै पनि संस्थाले आफ्नो स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई सेवा प्रदान गर्नेछैन, त्यसैले खण्ड 4 का गतिविधिहरू समावेश गरिनेछैनन्।",
+      "bt": "There has been no outbreak of communicable disease and no organization will provide services to persons deprived of their liberty, so the activities of Section 4 will not be included.",
+      "type": "safety",
+      "terms": [
+        "T383",
+        "T422"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen T383 candidate denotes communicable disease, whose scope may be narrower than the source's infectious disease; the absence of an outbreak, future non-provision of services, and exclusion of Section 4 activities are retained. bt-divergence: Frozen T383 uses communicable disease, which can exclude noncommunicable infectious diseases included in the source's infectious disease. The frozen form is retained; all other meaning is aligned."
+    },
+    {
+      "id": "FAC-29-0010",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Several of the actors are health-focused so twelve health centres have been established.",
+      "ne": "सम्बद्ध पक्षहरू मध्ये केही स्वास्थ्यमा केन्द्रित भएकाले बाह्र स्वास्थ्य केन्द्र स्थापना गरिएका छन्।",
+      "bt": "Because some of the associated parties are focused on health, twelve health centers have been established.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T027"
+      ],
+      "flags": [],
+      "note": "'Several' became 'many', increasing the stated number of health-focused actors. The revision removes that inflation while retaining twelve health centres and the causal relationship."
+    },
+    {
+      "id": "FAC-29-0011",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "The flood has driven up prices, so the cost of meals has risen to $30 USD per day and the cost of venues for training is now $150 per day.",
+      "ne": "बाढीका कारण मूल्य बढेकाले खानाको लागत प्रतिदिन $30 USD पुगेको छ र तालिमका लागि प्रयोग गरिने स्थलको लागत अहिले प्रतिदिन $150 भएको छ।",
+      "bt": "Because prices have risen due to the flooding, the cost of food has reached $30 USD per day, and the cost of the venue used for training is now $150 per day.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0012",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "What is the total cost of MHPSS programming in this response?",
+      "ne": "यस प्रतिकार्यमा MHPSS कार्यक्रम तर्जुमा तथा कार्यान्वयनको कुल लागत कति हुन्छ?",
+      "bt": "What is the total cost of MHPSS programme formulation and implementation in this response?",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0013",
+      "page": "97",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Follow along scenario",
+      "ne": "सँगसँगै अभ्यास गर्ने परिदृश्य",
+      "bt": "Scenario for practising together",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0014",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Enter the relevant data and information from the scenario below to generate a total cost for MHPSS programming.",
+      "ne": "MHPSS कार्यक्रम तर्जुमा तथा कार्यान्वयनको कुल लागत निकाल्न तलको परिदृश्यबाट सान्दर्भिक तथ्याङ्क र जानकारी प्रविष्ट गर्नुहोस्।",
+      "bt": "Enter the relevant data and information from the scenario below to calculate the total cost of MHPSS programme formulation and implementation.",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0015",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "A decades-old conflict has reignited in a neighbouring country, leading to an influx of newly arriving refugees.",
+      "ne": "छिमेकी देशमा दशकौँ पुरानो द्वन्द्व फेरि चर्किएकाले ठूलो सङ्ख्यामा नयाँ शरणार्थी आइरहेका छन्।",
+      "bt": "Because the decades-old conflict in the neighboring country has intensified again, new refugees are arriving in large numbers.",
+      "type": "general",
+      "terms": [
+        "T287"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "'An influx' was reduced to an increase in arrivals, which need not mean a large incoming number. The revision restores the influx of newly arriving refugees caused by the reignited conflict. The back-translation says the conflict intensified again rather than reignited, allowing continued fighting that worsened instead of a renewed outbreak."
+    },
+    {
+      "id": "FAC-29-0016",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "In the last month, 78,000 people have crossed the border to seek refuge.",
+      "ne": "गत महिनामा 78,000 मानिसले शरण खोज्न सीमा पार गरेका छन्।",
+      "bt": "In the past month, 78,000 people have crossed the border to seek refuge.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0017",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "It is expected that up to 200,000 more will follow.",
+      "ne": "थप 200,000 सम्म मानिस पनि आउने अपेक्षा गरिएको छ।",
+      "bt": "Up to an additional 200,000 people are also expected to arrive.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0018",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "They are spread across 10 geographical communities.",
+      "ne": "उनीहरू 10 भौगोलिक समुदायमा छरिएर रहेका छन्।",
+      "bt": "They are scattered across 10 geographical communities.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0019",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "As part of preparing for the Refugee Response Plan, you have been given an updated list of costs in the border region where the asylum seekers and refugees are gathering:",
+      "ne": "शरणार्थी प्रतिकार्य योजनाको तयारीका क्रममा, शरण खोज्ने व्यक्ति र शरणार्थी भेला भइरहेको सीमावर्ती क्षेत्रमा लाग्ने लागतको अद्यावधिक सूची तपाईंलाई दिइएको छ:",
+      "bt": "During preparation of the refugee response plan, you have been given an updated list of costs incurred in the border area where people seeking asylum and refugees are gathering:",
+      "type": "general",
+      "terms": [
+        "T287",
+        "T174",
+        "T194"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0020",
+      "page": "97",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• Generator $25,000 USD",
+      "ne": "• जेनेरेटर $25,000 USD",
+      "bt": "• Generator $25,000 USD",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0021",
+      "page": "97",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• Security $400 USD per person per month",
+      "ne": "• सुरक्षा प्रतिव्यक्ति प्रतिमहिना $400 USD",
+      "bt": "• Security $400 USD per person per month",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0022",
+      "page": "97",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• Venue $75 per day",
+      "ne": "• स्थल प्रतिदिन $75",
+      "bt": "• Venue $75 per day",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0023",
+      "page": "97",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• Poster $10",
+      "ne": "• पोस्टर $10",
+      "bt": "• Poster $10",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0024",
+      "page": "97",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Given the number of people involved in the response, you are planning to do an orientation session for humanitarian workers every month (12 total): What is the total cost of MHPSS programming in this response?",
+      "ne": "प्रतिकार्यमा संलग्न मानिसको सङ्ख्यालाई ध्यानमा राख्दै, तपाईंले मानवीय सहायताकर्मीका लागि हरेक महिना एउटा अभिमुखीकरण सत्र सञ्चालन गर्ने योजना बनाउनुभएको छ (जम्मा 12): यस प्रतिकार्यमा MHPSS कार्यक्रम तर्जुमा तथा कार्यान्वयनको कुल लागत कति हुन्छ?",
+      "bt": "Taking into account the number of people involved in the response, you have planned to conduct one orientation session every month for humanitarian aid workers (12 in total): what is the total cost of MHPSS programme formulation and implementation in this response?",
+      "type": "check",
+      "terms": [
+        "T174",
+        "T014",
+        "T282",
+        "T424"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0025",
+      "page": "98",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Individual scenarios",
+      "ne": "छुट्टाछुट्टै परिदृश्यहरू",
+      "bt": "Separate scenarios",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0026",
+      "page": "98",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Work through the following example in your groups.",
+      "ne": "आफ्ना समूहमा निम्न उदाहरणको अभ्यास गर्नुहोस्।",
+      "bt": "Practise the following example in your groups.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0027",
+      "page": "98",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Your organization is planning to begin disseminating key messages on MHPSS in the community.",
+      "ne": "तपाईंको संस्थाले समुदायमा MHPSS सम्बन्धी मुख्य सन्देशहरू प्रसार गर्न सुरु गर्ने योजना बनाइरहेको छ।",
+      "bt": "Your organization is planning to start disseminating key messages about MHPSS in the community.",
+      "type": "general",
+      "terms": [
+        "T253",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0028",
+      "page": "98",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Using the Costing Tool and the List of Activity Budget Items, answer the following:",
+      "ne": "लागत गणना उपकरण र गतिविधिका बजेट मदहरूको सूची प्रयोग गरी निम्न प्रश्नहरूको उत्तर दिनुहोस्।",
+      "bt": "Answer the following questions using the cost calculation tool and the list of budget items for the activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Costing Tool and List of Activity Budget Items are absent from G-0.3; proposed wording for both titles is listed for review. 'Budget Items' became 'budget headings', potentially changing the referenced list from individual budget entries to category headings. The revision restores budget items. Both technical resource titles remain pending terminology review."
+    },
+    {
+      "id": "FAC-29-0029",
+      "page": "98",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• How many facilitators for community meetings and discussions should you budget for?",
+      "ne": "• सामुदायिक बैठक र छलफलका लागि कति जना सहजीकरणकर्ता राख्ने गरी बजेट छुट्याउनुपर्छ?",
+      "bt": "• For how many facilitators should a budget be allocated for community meetings and discussions?",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0030",
+      "page": "98",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• What is the cost for implementing this activity in …(enter country)….. in …(enter year)……….. if you use the default number of radio broadcasts, TV messaging, and social media campaigns a year?",
+      "ne": "• यदि तपाईंले प्रतिवर्ष रेडियो प्रसारण, TV सन्देश र सामाजिक सञ्जाल अभियानका लागि पूर्वनिर्धारित सङ्ख्या प्रयोग गर्नुभयो भने, …(देश प्रविष्ट गर्नुहोस्)….. मा …(वर्ष प्रविष्ट गर्नुहोस्)……….. मा यो गतिविधि कार्यान्वयन गर्न कति लागत लाग्छ?",
+      "bt": "• If you use the predetermined number for radio broadcasts, TV messages and social media campaigns per year, how much does it cost to implement this activity in …(enter country)….. in …(enter year)………..?",
+      "type": "general",
+      "terms": [
+        "T356",
+        "T414",
+        "T429"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0031",
+      "page": "98",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• Your team feels that social media campaigns are a better way to reach people than radio broadcasts. You decide to increase the number of social media campaigns to 4 and decrease radio broadcasts to 2. What is the cost for implementing this activity now?",
+      "ne": "• तपाईंको टोलीलाई रेडियो प्रसारणभन्दा सामाजिक सञ्जाल अभियान मानिसहरूसम्म पुग्ने राम्रो माध्यम हो भन्ने लाग्छ। तपाईंले सामाजिक सञ्जाल अभियानको सङ्ख्या बढाएर 4 बनाउने र रेडियो प्रसारणको सङ्ख्या घटाएर 2 बनाउने निर्णय गर्नुहुन्छ। अब यो गतिविधि कार्यान्वयन गर्न कति लागत लाग्छ?",
+      "bt": "• Your team thinks that social media campaigns are a better means of reaching people than radio broadcasts. You decide to increase the number of social media campaigns to 4 and reduce the number of radio broadcasts to 2. How much does it cost to implement this activity now?",
+      "type": "check",
+      "terms": [
+        "T414",
+        "T429"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-29-0032",
+      "page": "99",
+      "loc": "heading",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Individual scenarios",
+      "ne": "व्यक्तिगत परिदृश्यहरू",
+      "bt": "Individual scenarios",
+      "type": "safety",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied source-location note places this heading outside the visible page boundary, so its placement remains unconfirmed."
+    },
+    {
+      "id": "FAC-29-0033",
+      "page": "99",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Work through the following example in your groups.",
+      "ne": "आफ्ना समूहहरूमा निम्न उदाहरणमा काम गर्नुहोस्।",
+      "bt": "Work on the following example in your groups.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied source-location note places this instruction outside the visible page boundary, so its placement remains unconfirmed."
+    },
+    {
+      "id": "FAC-29-0034",
+      "page": "99",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Your organization is planning to begin disseminating key messages on MHPSS in the community.",
+      "ne": "तपाईंको संस्थाले समुदायमा MHPSS सम्बन्धी मुख्य सन्देशहरू प्रसार गर्न सुरु गर्ने योजना बनाइरहेको छ।",
+      "bt": "Your organization is planning to start disseminating key messages related to MHPSS in the community.",
+      "type": "safety",
+      "terms": [
+        "T253",
+        "T344"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied source-location note places this sentence outside the visible page boundary, so its placement remains unconfirmed."
+    },
+    {
+      "id": "FAC-29-0035",
+      "page": "99",
+      "loc": "para",
+      "section": "Costing Tool Practice Exercises",
+      "en": "Using the Costing Tool and the List of Activity Budget Items, answer the following:",
+      "ne": "लागत अनुमान उपकरण र गतिविधिका बजेट शीर्षकहरूको सूची प्रयोग गरेर निम्न प्रश्नहरूको उत्तर दिनुहोस्।",
+      "bt": "Using the cost estimation tool and the list of budget headings for the activity, answer the following questions.",
+      "type": "safety",
+      "terms": [
+        "T351",
+        "T392"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The supplied source-location note places this instruction outside the visible page boundary; both resource titles use the supplied frozen glossary candidates."
+    },
+    {
+      "id": "FAC-29-0036",
+      "page": "99",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• How many facilitators for community meetings and discussions should you budget for?",
+      "ne": "• समुदायमा हुने बैठक र छलफलका लागि तपाईंले कति जना सहजीकरणकर्ता राख्ने गरी बजेट छुट्याउनुपर्छ।",
+      "bt": "• How many facilitators should you allocate a budget to engage for meetings and discussions held in the community.",
+      "type": "safety",
+      "terms": [
+        "T230",
+        "T344"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied source-location note places this question outside the visible page boundary; the facilitator label uses the supplied frozen candidate."
+    },
+    {
+      "id": "FAC-29-0037",
+      "page": "99",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• What is the cost for implementing this activity in …(enter country)….. in …(enter year)……….. if you use the default number of radio broadcasts, TV messaging, and social media campaigns a year?",
+      "ne": "• यदि तपाईंले एक वर्षमा रेडियो प्रसारण, TV मार्फत सन्देश प्रवाह र सामाजिक सञ्जाल अभियानको पूर्वनिर्धारित सङ्ख्या प्रयोग गर्नुभयो भने, …(देश प्रविष्ट गर्नुहोस्)….. मा …(वर्ष प्रविष्ट गर्नुहोस्)……….. मा यो गतिविधि कार्यान्वयन गर्नुको लागत कति हुन्छ।",
+      "bt": "• If you use the predetermined number of radio broadcasts, messaging through TV and social media campaigns in one year, how much does it cost to implement this activity in …(enter country)….. in …(enter year)……….. .",
+      "type": "safety",
+      "terms": [
+        "T356",
+        "T379",
+        "T414",
+        "T429"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The supplied source-location note places this question outside the visible page boundary; the country and year placeholders and the condition applying default annual quantities to all three communication channels are retained."
+    },
+    {
+      "id": "FAC-29-0038",
+      "page": "99",
+      "loc": "bullet",
+      "section": "Costing Tool Practice Exercises",
+      "en": "• Your team feels that social media campaigns are a better way to reach people than radio broadcasts. You decide to increase the number of social media campaigns to 4 and decrease radio broadcasts to 2. What is the cost for implementing this activity now?",
+      "ne": "• तपाईंको टोलीलाई मानिसहरूसम्म पुग्न रेडियो प्रसारणभन्दा सामाजिक सञ्जाल अभियान राम्रो माध्यम हो भन्ने लाग्छ। तपाईं सामाजिक सञ्जाल अभियानको सङ्ख्या बढाएर 4 र रेडियो प्रसारणको सङ्ख्या घटाएर 2 बनाउने निर्णय गर्नुहुन्छ। अब यो गतिविधि कार्यान्वयन गर्नुको लागत कति हुन्छ।",
+      "bt": "• Your team thinks that a social media campaign is a better medium than radio broadcasts for reaching people. You decide to increase the number of social media campaigns to 4 and decrease the number of radio broadcasts to 2. How much does it now cost to implement this activity.",
+      "type": "safety",
+      "terms": [
+        "T379",
+        "T414",
+        "T429"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The supplied source-location note places this question outside the visible page boundary; the team's assessment, your decision, and the quantities 4 and 2 are retained."
+    }
+  ]
+}

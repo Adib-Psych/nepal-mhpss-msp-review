@@ -1,0 +1,2140 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-10",
+  "unit_title": "Matching MHPSS Activities to the MSP",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "45-50",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:01:45+05:45",
+  "coverage": {
+    "source_words": 1969,
+    "row_words": 1969,
+    "skipped": [
+      "Page 45: running-footer: Module 5 · MSP Workshop Facilitator Manual · 41",
+      "Page 45: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 46: running-footer: 42 · MSP Workshop Facilitator Manual · Module 5",
+      "Page 46: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 47: running-footer: Module 5 · MSP Workshop Facilitator Manual · 43",
+      "Page 47: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 48: running-footer: 44 · MSP Workshop Facilitator Manual · Module 5",
+      "Page 49: running-footer: Module 5 · MSP Workshop Facilitator Manual · 45",
+      "Page 49: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 50: running-footer: 46 · MSP Workshop Facilitator Manual"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-10-0001",
+      "page": "45",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "5.2 Matching MHPSS Activities to the MSP",
+      "ne": "5.2 MHPSS गतिविधिहरूलाई MSP सँग मिलान गर्ने",
+      "bt": "5.2 Matching MHPSS activities with the MSP",
+      "type": "activity",
+      "terms": [
+        "T158",
+        "T163",
+        "T398"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0002",
+      "page": "45",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Activity matching",
+      "ne": "गतिविधि मिलान",
+      "bt": "Activity matching",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0003",
+      "page": "45",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Prepare",
+      "ne": "तयारी गर्नुहोस्।",
+      "bt": "Prepare.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0004",
+      "page": "45",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "75 min",
+      "ne": "75 मिनेट",
+      "bt": "75 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0005",
+      "page": "45",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Activity Example Cards",
+      "ne": "• गतिविधिका उदाहरण भएका कार्डहरू",
+      "bt": "• Cards with examples of activities",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0006",
+      "page": "45",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Masking tape",
+      "ne": "• मास्किङ टेप",
+      "bt": "• Masking tape",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0007",
+      "page": "45",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Sticky notes – 2 colours",
+      "ne": "• टाँसिने नोटहरू – 2 रङका",
+      "bt": "• Sticky notes – in 2 colours",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0008",
+      "page": "45",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Pens Optional: Posters of each MSP activity displayed around the wall (MSP Programme Activity signs are available here). Alternatively, you may also use the displays created in the activity showcase if they are in poster format)",
+      "ne": "• कलमहरू। वैकल्पिक: भित्तामा विभिन्न ठाउँमा प्रदर्शन गरिएका प्रत्येक MSP गतिविधिका पोस्टरहरू (MSP कार्यक्रमका गतिविधिसम्बन्धी सूचकपाटीहरू यहाँ उपलब्ध छन्)। विकल्पका रूपमा, गतिविधि प्रदर्शनका क्रममा तयार गरिएका सामग्रीहरू पोस्टरको रूपमा छन् भने तिनलाई पनि प्रयोग गर्न सक्नुहुन्छ।",
+      "bt": "• Pens. Optional: Posters of each MSP activity displayed in different places on the wall (signboards relating to MSP programme activities are available here). Alternatively, if the materials prepared during the activity demonstration are in poster form, you can also use them.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T409"
+      ],
+      "flags": [],
+      "note": "The source has an unmatched closing parenthesis; the optional materials and alternative condition are retained."
+    },
+    {
+      "id": "FAC-10-0009",
+      "page": "45",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Guide",
+      "ne": "मार्गदर्शिका",
+      "bt": "Guide",
+      "type": "general",
+      "terms": [
+        "T144"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0010",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "This exercise has 3 objectives:",
+      "ne": "यस अभ्यासका 3 उद्देश्य छन्:",
+      "bt": "This exercise has 3 objectives:",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0011",
+      "page": "45",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Make sure participants can identify MSP activities.",
+      "ne": "• सहभागीहरूले MSP गतिविधिहरू पहिचान गर्न सक्छन् भन्ने सुनिश्चित गर्नुहोस्।",
+      "bt": "• Ensure that participants can identify MSP activities.",
+      "type": "general",
+      "terms": [
+        "T272",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0012",
+      "page": "45",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Help participants to map their activities using the MSP language.",
+      "ne": "• MSP मा प्रयोग गरिएको भाषा प्रयोग गरी आफ्ना गतिविधिहरूको नक्साङ्कन गर्न सहभागीहरूलाई सहयोग गर्नुहोस्।",
+      "bt": "• Help participants map their activities using the language used in the MSP.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T260",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0013",
+      "page": "45",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Support participants in assessing the quality of their activities based on the MSP core actions. The learning activity is split into three parts:",
+      "ne": "• MSP का मुख्य कार्यहरूका आधारमा आफ्ना गतिविधिहरूको गुणस्तरको लेखाजोखा गर्न सहभागीहरूलाई सहयोग गर्नुहोस्। सिकाइ गतिविधिलाई तीन भागमा विभाजन गरिएको छ:",
+      "bt": "• Help participants assess the quality of their activities on the basis of the MSP's key actions. The learning activity is divided into three parts:",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T129",
+        "T350",
+        "T390",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0014",
+      "page": "45",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Matching example activities to the MSP",
+      "ne": "• उदाहरणका रूपमा दिइएका गतिविधिहरूलाई MSP सँग मिलान गर्ने",
+      "bt": "• Matching the activities given as examples with the MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T398"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0015",
+      "page": "45",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Matching real activities to the MSP",
+      "ne": "• वास्तविक गतिविधिहरूलाई MSP सँग मिलान गर्ने",
+      "bt": "• Matching actual activities with the MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T398"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0016",
+      "page": "45",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Review of core actions and budget items for one activity",
+      "ne": "• एउटा गतिविधिका मुख्य कार्यहरू र बजेटका मदहरूको समीक्षा गर्ने",
+      "bt": "• Review the main tasks and budget items of an activity",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": "The back-translation gives budget headings rather than budget items. The revision specifies budget items without changing the review task or its scope."
+    },
+    {
+      "id": "FAC-10-0017",
+      "page": "45",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Part 1: Matching example activities to the MSP",
+      "ne": "भाग 1: उदाहरणका रूपमा दिइएका गतिविधिहरूलाई MSP सँग मिलान गर्ने",
+      "bt": "Part 1: Matching the activities given as examples with the MSP",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T398"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0018",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "This part of the activity is about matching example activities to MSP activities so participants get familiar with the language used in the MSP and feel prepared to then match their own MHPSS activities with the MSP activities.",
+      "ne": "यस गतिविधिको यो भागमा उदाहरणका रूपमा दिइएका गतिविधिहरूलाई MSP गतिविधिहरूसँग मिलान गरिन्छ, जसबाट सहभागीहरू MSP मा प्रयोग गरिएको भाषासँग परिचित हुन्छन् र त्यसपछि आफ्नै MHPSS गतिविधिहरूलाई MSP गतिविधिहरूसँग मिलान गर्न आफू तयार भएको महसुस गर्छन्।",
+      "bt": "In this part of this activity, the activities given as examples are matched with MSP activities, through which participants become familiar with the language used in the MSP and then feel ready to match their own MHPSS activities with MSP activities.",
+      "type": "general",
+      "terms": [
+        "T272",
+        "T163",
+        "T158",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0019",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Explain that participants will be matching example activities to MSP activities.",
+      "ne": "सहभागीहरूले उदाहरणका रूपमा दिइएका गतिविधिहरूलाई MSP गतिविधिहरूसँग मिलान गर्नेछन् भनी व्याख्या गर्नुहोस्।",
+      "bt": "Explain that participants will match the activities given as examples with MSP activities.",
+      "type": "general",
+      "terms": [
+        "T272",
+        "T398",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0020",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Explain that one of the challenges faced by those working on the MHPSS response is the variation in the language used, which can lead to inconsistencies when mapping exercises are carried out or simply when information is exchanged between agencies and between sectors.",
+      "ne": "MHPSS प्रतिकार्यमा काम गर्नेहरूले सामना गर्ने चुनौतीमध्ये एउटा प्रयोग गरिने भाषामा हुने भिन्नता हो र यसले नक्साङ्कन अभ्यास गर्दा वा निकायहरूबीच र क्षेत्रहरूबीच सूचना आदानप्रदान मात्र गर्दा पनि असङ्गति निम्त्याउन सक्छ भनी व्याख्या गर्नुहोस्।",
+      "bt": "Explain that one of the challenges faced by those working in the MHPSS response is the difference in the language used, and that this can lead to inconsistencies when carrying out a mapping exercise or even just exchanging information between agencies and between sectors.",
+      "type": "general",
+      "terms": [
+        "T161",
+        "T260",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0021",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "In addition to establishing what are the minimum activities in emergencies, the MSP can also provide a basis for common language and improved communication within the field of MHPSS.",
+      "ne": "आपत्कालीन अवस्था हुँदा न्यूनतम रूपमा गरिनुपर्ने गतिविधिहरू के हुन् भन्ने निर्धारण गर्नुका साथै MSP ले MHPSS को क्षेत्रमा साझा भाषा र सुधारिएको सञ्चारका लागि आधार पनि प्रदान गर्न सक्छ।",
+      "bt": "Along with determining what activities should be carried out at a minimum when there is an emergency, the MSP can also provide a basis for a common language and improved communication in the field of MHPSS.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T163",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0022",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "To confirm participants understand the exercise before distributing the cards, work through one example in plenary e.g. “Community workers support people with depression, anxiety and distress through a group psychological intervention (Group Problem Management +)”.",
+      "ne": "कार्डहरू वितरण गर्नुअघि सहभागीहरूले अभ्यास बुझेका छन् भन्ने पुष्टि गर्न, पूर्ण सत्रमा एउटा उदाहरण सबैसँग मिलेर अभ्यास गर्नुहोस्। उदाहरणका लागि: “समुदायमा काम गर्ने कार्यकर्ताहरूले [depression], [anxiety] र व्यथा भएका मानिसहरूलाई समूहमा गरिने मनोवैज्ञानिक हस्तक्षेप ([Group Problem Management +]) मार्फत सहयोग गर्छन्।”",
+      "bt": "Before distributing the cards, to confirm that the participants have understood the exercise, practise one example together with everyone in the full session. For example: “Workers who work in the community help people with [depression], [anxiety] and distress through a psychological intervention carried out in a group ([Group Problem Management +]).”",
+      "type": "safety",
+      "terms": [
+        "T344",
+        "T406",
+        "T407",
+        "T461"
+      ],
+      "flags": [],
+      "note": "Unvalidated practitioner draft; the named diagnoses and intervention remain in exact source English within square brackets."
+    },
+    {
+      "id": "FAC-10-0023",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "(Answer: corresponding MSP activity: 3.12 Initiate or strengthen the provision of psychological interventions).",
+      "ne": "(उत्तर: सम्बन्धित MSP गतिविधि: 3.12 मनोवैज्ञानिक हस्तक्षेपहरूको व्यवस्था सुरु गर्ने वा सुदृढ गर्ने)।",
+      "bt": "(Answer: Related MSP activity: 3.12 Initiate or strengthen the provision of psychological interventions).",
+      "type": "check",
+      "terms": [
+        "T091",
+        "T109"
+      ],
+      "flags": [],
+      "note": "The activity label reuses T109 verbatim, an unreviewed candidate cited to MAN PDF p29, activity-label column, code 3.12, and PRIOR-SUM-29OCT2026 p.2 row 102. No clinical validation is claimed."
+    },
+    {
+      "id": "FAC-10-0024",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Once participants understand the exercise, divide them into small groups and distribute the cards.",
+      "ne": "सहभागीहरूले अभ्यास बुझेपछि, उनीहरूलाई साना समूहमा विभाजन गर्नुहोस् र कार्डहरू वितरण गर्नुहोस्।",
+      "bt": "Once participants have understood the exercise, divide them into small groups and distribute the cards.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0025",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "You can use the same groups as the previous exercise and give each pair 1-2 cards or combine groups and give them 3-4 cards.",
+      "ne": "अघिल्लो अभ्यासकै समूहहरू प्रयोग गरी प्रत्येक जोडीलाई 1-2 कार्ड दिन सक्नुहुन्छ वा समूहहरू मिलाएर उनीहरूलाई 3-4 कार्ड दिन सक्नुहुन्छ।",
+      "bt": "You can use the same groups as in the previous exercise and give each pair 1-2 cards, or combine the groups and give them 3-4 cards.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0026",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Give the groups 3-4 minutes per card.",
+      "ne": "समूहहरूलाई प्रत्येक कार्डका लागि 3-4 मिनेट दिनुहोस्।",
+      "bt": "Give the groups 3-4 minutes for each card.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0027",
+      "page": "45",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Ask participants to stick each example in the corresponding flipchart from the previous exercise.",
+      "ne": "सहभागीहरूलाई प्रत्येक उदाहरण अघिल्लो अभ्यासको सम्बन्धित फ्लिपचार्टमा टाँस्न लगाउनुहोस्।",
+      "bt": "Have participants stick each example onto the corresponding flipchart from the previous exercise.",
+      "type": "general",
+      "terms": [
+        "T369",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term “flipchart” is absent from G-0.3. Proposed candidate: “[Nepali wording recorded in terminology evidence]”; review pending."
+    },
+    {
+      "id": "FAC-10-0028",
+      "page": "46",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "When participants are finished, move around",
+      "ne": "सहभागीहरूले काम सकेपछि, घुम्दै",
+      "bt": "After participants have finished their work, going around",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": "This source fragment continues in the following row; the Nepali sentence also continues there."
+    },
+    {
+      "id": "FAC-10-0029",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "the room with the whole group and review the activities that have been pasted to each flipchart.",
+      "ne": "सम्पूर्ण समूहसँग कोठाको वरिपरि जानुहोस् र प्रत्येक फ्लिपचार्टमा टाँसिएका गतिविधिहरूको समीक्षा गर्नुहोस्।",
+      "bt": "Go around the room with the whole group and review the activities stuck onto each flipchart.",
+      "type": "general",
+      "terms": [
+        "T369"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Completes the preceding sentence fragment. The recurring term “flipchart” is absent from G-0.3; “[Nepali wording recorded in terminology evidence]” is proposed for review."
+    },
+    {
+      "id": "FAC-10-0030",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Starting with Activity 3.1 and moving up.",
+      "ne": "क्रियाकलाप 3.1 बाट सुरु गरेर माथि बढ्दै।",
+      "bt": "Starting from Activity 3.1 and moving upwards.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source fragment does not establish whether “moving up” means progressing through increasing activity numbers or moving upward on the display; the draft retains upward wording without resolving the intended progression."
+    },
+    {
+      "id": "FAC-10-0031",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Read aloud the examples and ask the participants if they think it is correctly placed.",
+      "ne": "उदाहरणहरू ठूलो स्वरमा पढ्नुहोस् र सहभागीहरूलाई प्रत्येक उदाहरण सही ठाउँमा राखिएको छ भन्ने लाग्छ कि लाग्दैन भनी सोध्नुहोस्।",
+      "bt": "Read the examples aloud and ask participants whether they think each example has been placed in the correct place.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0032",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Discuss any wrong answers and move them to the correct flipchart.",
+      "ne": "गलत उत्तरहरूबारे छलफल गर्नुहोस् र तिनलाई सही फ्लिपचार्टमा सार्नुहोस्।",
+      "bt": "Discuss the incorrect answers and move them to the correct flipchart.",
+      "type": "general",
+      "terms": [
+        "T369"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term “flipchart” is absent from G-0.3. Proposed candidate: “[Nepali wording recorded in terminology evidence]”; review pending."
+    },
+    {
+      "id": "FAC-10-0033",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Discuss together, asking:",
+      "ne": "निम्न प्रश्नहरू सोध्दै सँगै छलफल गर्नुहोस्।",
+      "bt": "Discuss together by asking the following questions.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0034",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• How easy or difficult was it to match these examples with the MSP activities?",
+      "ne": "• यी उदाहरणहरूलाई MSP गतिविधिहरूसँग मिलाउन कत्तिको सजिलो वा गाह्रो भयो?",
+      "bt": "• How easy or difficult was it to match these examples with MSP activities?",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0035",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Were there any examples that you weren’t sure about?",
+      "ne": "• के कुनै उदाहरणबारे तपाईंहरू निश्चित हुनुहुन्नथ्यो?",
+      "bt": "• Were there any examples you were not sure about?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0036",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• How did you resolve confusion or uncertainty (if participants have expressed they weren’t sure about some activities)?",
+      "ne": "• तपाईंहरूले अन्योल वा अनिश्चितता कसरी हटाउनुभयो (यदि सहभागीहरूले केही गतिविधिबारे आफू निश्चित नभएको बताएका छन् भने)?",
+      "bt": "• How did you remove confusion or uncertainty (if participants have said they were not sure about some activities)?",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0037",
+      "page": "46",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Note for facilitators",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी",
+      "bt": "Note for the facilitator",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0038",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "You can adapt the examples to your context based on your knowledge of the activities that are being implemented, using a 4Ws or referral documents.",
+      "ne": "कार्यान्वयन भइरहेका गतिविधिबारे आफ्नो जानकारीका आधारमा, 4Ws वा सम्बन्धित सेवामा पठाउने कार्यसम्बन्धी कागजात प्रयोग गरी तपाईंले उदाहरणहरूलाई आफ्नो सन्दर्भअनुसार परिमार्जन गर्न सक्नुहुन्छ।",
+      "bt": "Based on your knowledge of the activities being implemented, you can adapt the examples to your context using 4Ws or documents related to referring to relevant services.",
+      "type": "general",
+      "terms": [
+        "T172"
+      ],
+      "flags": [],
+      "note": "Classified as general because this instruction concerns adapting exercise examples, not a safeguarding declaration or clinical instruction."
+    },
+    {
+      "id": "FAC-10-0039",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Depending on the MHPSS technical expertise of participants you can provide more complex examples.",
+      "ne": "सहभागीहरूको MHPSS सम्बन्धी प्राविधिक विशेषज्ञताका आधारमा तपाईंले अझ जटिल उदाहरणहरू दिन सक्नुहुन्छ।",
+      "bt": "Based on the participants' technical expertise related to MHPSS, you can give more complex examples.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "prior-draft-changed"
+      ],
+      "note": "Removed the incorrect T163 annotation: the row uses MHPSS, not MSP. The Nepali wording is retained."
+    },
+    {
+      "id": "FAC-10-0040",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "During the plenary discussion, the facilitator can use the opportunity to clarify and make distinctions between activities that may still be confusing for participants, e.g.:",
+      "ne": "सबै सहभागी सम्मिलित छलफलका क्रममा सहजकर्ताले सहभागीहरू अझै अन्योलमा पर्न सक्ने गतिविधिहरूबारे स्पष्ट पार्न र तिनका बीचको भिन्नता छुट्याउन यस अवसरको उपयोग गर्न सक्नुहुन्छ। उदाहरणहरू:",
+      "bt": "During the discussion involving all participants, the facilitator can use this opportunity to clarify activities about which participants may still be confused and distinguish the differences between them. Examples:",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T406"
+      ],
+      "flags": [
+        "prior-draft-changed"
+      ],
+      "note": "Separated the complete instruction from the introduction to the examples so that the instruction ends with a danda."
+    },
+    {
+      "id": "FAC-10-0041",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• the difference between 3.1 and 3.2 (general orientation versus building capacity in basic psychosocial support skills)",
+      "ne": "• 3.1 र 3.2 बीचको भिन्नता (सामान्य अभिमुखीकरण र आधारभूत मनोसामाजिक सहयोग सीपमा क्षमता विकासबीचको भिन्नता)",
+      "bt": "• The difference between 3.1 and 3.2 (the difference between general orientation and capacity development in basic psychosocial support skills)",
+      "type": "check",
+      "terms": [
+        "T014",
+        "T196",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0042",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• the difference between 3.2 and 3.12 (basic psychosocial support skills versus psychological interventions)",
+      "ne": "• 3.2 र 3.12 बीचको भिन्नता (आधारभूत मनोसामाजिक सहयोग सीप र मनोवैज्ञानिक हस्तक्षेपबीचको भिन्नता)",
+      "bt": "• The difference between 3.2 and 3.12 (the difference between basic psychosocial support skills and psychological interventions)",
+      "type": "check",
+      "terms": [
+        "T196",
+        "T007",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The clinical phrase is reused from the cited unreviewed candidate T007. No new clinical wording is introduced."
+    },
+    {
+      "id": "FAC-10-0043",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• the difference between 3.10 and 3.11 (MHPSS as part of general health care versus MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence)",
+      "ne": "• 3.10 र 3.11 बीचको भिन्नता (सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा MHPSS र यौन हिंसा तथा घनिष्ठ साथीद्वारा हुने हिंसाबाट प्रभावितहरूको क्लिनिकल हेरचाहको अङ्गका रूपमा MHPSS बीचको भिन्नता)",
+      "bt": "• The difference between 3.10 and 3.11 (the difference between MHPSS as part of general health services and MHPSS as part of the clinical care of those affected by sexual violence and violence by an intimate partner)",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T009"
+      ],
+      "flags": [
+        "prior-draft-changed"
+      ],
+      "note": "Removed the incorrect T163 annotation because MSP does not occur. Care wording is reused from the supplied unreviewed activity candidates 3.10 (T107) and 3.11 (T108), including the T009 phrase. Neither complete activity label is used, so neither activity term ID is annotated. Specialist review remains pending."
+    },
+    {
+      "id": "FAC-10-0044",
+      "page": "46",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Part 2: Matching existing programming to the MSP activities",
+      "ne": "भाग 2: विद्यमान कार्यक्रम तर्जुमा तथा कार्यान्वयनलाई MSP गतिविधिहरूसँग मिलाउने",
+      "bt": "Part 2: Matching existing programme design and implementation with MSP activities",
+      "type": "activity",
+      "terms": [
+        "T282",
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0045",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Depending on the composition of participants, you can do the following exercise in small groups or individually.",
+      "ne": "सहभागीहरूको संरचनाका आधारमा तपाईंले निम्न अभ्यास साना समूहमा वा व्यक्तिगत रूपमा गराउन सक्नुहुन्छ।",
+      "bt": "Based on the composition of the participants, you can have the following exercise done in small groups or individually.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0046",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "If there are multiple participants from the same organization, they can work together to match their programme activities (implemented and planned) to MSP activities.",
+      "ne": "एउटै संस्थाबाट धेरै सहभागी आएका छन् भने उनीहरूले आफ्ना कार्यक्रमगत गतिविधिहरूलाई (कार्यान्वयन गरिएका र योजनाबद्ध) MSP गतिविधिहरूसँग मिलाउन सँगै काम गर्न सक्छन्।",
+      "bt": "If several participants have come from the same organization, they can work together to match their programmatic activities (implemented and planned) with MSP activities.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T272",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0047",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "You can also create an inter-agency group for participants without colleagues in attendance or they can work individually.",
+      "ne": "सहकर्मीहरू उपस्थित नभएका सहभागीहरूका लागि तपाईंले संस्थाहरूबीचको समूह पनि बनाउन सक्नुहुन्छ वा उनीहरूले व्यक्तिगत रूपमा काम गर्न सक्छन्।",
+      "bt": "For participants whose colleagues are not present, you can also form groups across organizations, or they can work individually.",
+      "type": "general",
+      "terms": [
+        "T247",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0048",
+      "page": "46",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Provide",
+      "ne": "उपलब्ध गराउनुहोस्।",
+      "bt": "Provide.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0049",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "each participant or group with sticky notes (2 colours).",
+      "ne": "प्रत्येक सहभागी वा समूहलाई टाँस्न मिल्ने टिपोट कागज (2 रङका) उपलब्ध गराउनुहोस्।",
+      "bt": "Provide each participant or group with sticky note paper (in 2 colours).",
+      "type": "check",
+      "terms": [
+        "T430"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposal for the missing recurring term 'sticky notes': adhesive note paper. The frozen glossary is unchanged. The verb is repeated to make this split instruction readable independently."
+    },
+    {
+      "id": "FAC-10-0050",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "One colour should be used for activities currently being implemented, and the other colour should be used for planned activities.",
+      "ne": "हाल कार्यान्वयन भइरहेका गतिविधिहरूका लागि एउटा रङ र योजनाबद्ध गतिविधिहरूका लागि अर्को रङ प्रयोग गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate to use one color for activities currently being implemented and another color for planned activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation strengthens both instances of 'should' to 'must'. The revision expresses the recommended colour allocation without making it mandatory. The back-translation describes the colour allocation as appropriate rather than explicitly recommending it with 'should', weakening the directive force for both activity categories."
+    },
+    {
+      "id": "FAC-10-0051",
+      "page": "46",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "For each activity their organization implements, ask participants to select a sticky note and write down:",
+      "ne": "सहभागीहरूको संस्थाले कार्यान्वयन गर्ने प्रत्येक गतिविधिका लागि उनीहरूलाई एउटा टाँस्न मिल्ने टिपोट कागज छानेर निम्न विवरण लेख्न लगाउनुहोस्।",
+      "bt": "For each activity implemented by the participants' organization, have them choose one sticky note paper and write the following details.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording meaning adhesive note paper for the missing recurring term 'sticky notes'; the frozen glossary is unchanged."
+    },
+    {
+      "id": "FAC-10-0052",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• The organization’s name",
+      "ne": "• संस्थाको नाम",
+      "bt": "• Name of the organization",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0053",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• The name of the activity",
+      "ne": "• गतिविधिको नाम",
+      "bt": "• Name of the activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0054",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Target group",
+      "ne": "• लक्षित समूह",
+      "bt": "• Target group",
+      "type": "check",
+      "terms": [
+        "T435"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposal for the missing recurring term 'target group': the group an activity is intended to reach. The frozen glossary is unchanged."
+    },
+    {
+      "id": "FAC-10-0055",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Location For each planned activity, they should write:",
+      "ne": "• स्थान\nप्रत्येक योजनाबद्ध गतिविधिका लागि उनीहरूले निम्न विवरण लेख्नु उचित हुन्छ।",
+      "bt": "• Location\nFor each planned activity, it is appropriate for them to write the following details.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The source combines the final list item with the instruction introducing the next list; both are retained and separated by a line break. The back-translation strengthens 'they should write' to 'they must write'. The revision restores advisory strength while retaining the location item and the instruction for each planned activity. The back-translation says it is appropriate for them to write the details rather than explicitly recommending that they should write them, weakening the directive force while retaining the actor and each-planned-activity scope."
+    },
+    {
+      "id": "FAC-10-0056",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• The organization’s name",
+      "ne": "• संस्थाको नाम",
+      "bt": "• Name of the organization",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0057",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• The name of the activity",
+      "ne": "• गतिविधिको नाम",
+      "bt": "• Name of the activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0058",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Target group",
+      "ne": "• लक्षित समूह",
+      "bt": "• Target group",
+      "type": "check",
+      "terms": [
+        "T435"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for 'target group', meaning the group an activity is intended to reach; the frozen glossary is unchanged."
+    },
+    {
+      "id": "FAC-10-0059",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Location",
+      "ne": "• स्थान",
+      "bt": "• Location",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0060",
+      "page": "46",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Planned start date",
+      "ne": "• सुरु गर्ने योजनाबद्ध मिति",
+      "bt": "• Planned date to start",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0061",
+      "page": "47",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Add a flipchart page for ‘Activities not included in the MSP’.",
+      "ne": "‘MSP मा समावेश नभएका गतिविधिहरू’ का लागि फ्लिपचार्टको एउटा पाना थप्नुहोस्।",
+      "bt": "Add one sheet of flipchart paper for ‘Activities not included in the MSP’.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T369"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0062",
+      "page": "47",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Invite participants to place their sticky notes on the corresponding MSP activity, using the posters on the wall from the activity showcase exercise, or printed posters (MSP Programme Activity signs are available here).",
+      "ne": "गतिविधि प्रदर्शन अभ्यासबाट भित्तामा राखिएका पोस्टरहरू वा मुद्रित पोस्टरहरू प्रयोग गरी सहभागीहरूलाई आफ्ना टाँस्न मिल्ने टिपोट कागज सम्बन्धित MSP गतिविधिमा टाँस्न आमन्त्रण गर्नुहोस् (MSP कार्यक्रमगत गतिविधिहरूका सङ्केतपाटीहरू यहाँ उपलब्ध छन्)।",
+      "bt": "Using the posters placed on the wall from the activity demonstration exercise or printed posters, invite participants to stick their sticky note papers on the relevant MSP activity (signboards for MSP programmatic activities are available here).",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T167",
+        "T406",
+        "T409",
+        "T430"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording meaning adhesive note paper for the missing recurring term 'sticky notes'. The source reference 'here' is retained without inventing a link."
+    },
+    {
+      "id": "FAC-10-0063",
+      "page": "47",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "This activity provides an opportunity to:",
+      "ne": "यस गतिविधिले निम्न कार्य गर्ने अवसर प्रदान गर्छ।",
+      "bt": "This activity provides an opportunity to do the following.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0064",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Check if participants have a good understanding of what constitutes an MHPSS activity and provide clarification if needed.",
+      "ne": "• केलाई MHPSS गतिविधि मानिन्छ भन्नेबारे सहभागीहरूले राम्रोसँग बुझेका छन् कि छैनन् भनी जाँच गर्नुहोस् र आवश्यक भएमा स्पष्ट पार्नुहोस्।",
+      "bt": "• Check whether participants have understood well what is considered an MHPSS activity and clarify if necessary.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "prior-draft-changed"
+      ],
+      "note": "Removed the incorrect T163 annotation: the row uses MHPSS, not MSP. The Nepali wording is retained."
+    },
+    {
+      "id": "FAC-10-0065",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Check if participants have a good understanding of the MSP programme activities and clarify confusion, answer remaining questions if needed.",
+      "ne": "• सहभागीहरूले MSP का कार्यक्रमगत गतिविधिहरू राम्ररी बुझेका छन् कि छैनन् जाँच्नुहोस् र अन्योल स्पष्ट पार्नुहोस्; आवश्यक भएमा बाँकी प्रश्नहरूको उत्तर दिनुहोस्।",
+      "bt": "• Check whether participants have understood the MSP programmatic activities well and clarify any confusion; answer remaining questions if necessary.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T167",
+        "T406",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0066",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Clarify that the MSP is not a comprehensive list of all feasible or effective MHPSS activities.",
+      "ne": "• MSP सम्भव वा प्रभावकारी सबै MHPSS गतिविधिहरूको विस्तृत सूची होइन भन्ने स्पष्ट पार्नुहोस्।",
+      "bt": "• Clarify that the MSP is not a comprehensive list of all possible or effective MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0067",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Provide participants with an overview of the MHPSS activities that are being implemented, planned and possible programme gaps – with attention to the limitations imposed by the fact that not all organizations contributing to the MHPSS response in the context are present. Remind participants that there may be activities that are not included in the MSP. Those can be written on sticky notes and added to the ‘Activities not included in the MSP’ flipchart for discussion in plenary. Give participants 30 minutes to complete this part of the exercise.",
+      "ne": "• उक्त सन्दर्भमा MHPSS प्रतिकार्यमा योगदान गरिरहेका सबै संस्थाहरू उपस्थित नभएकाले उत्पन्न सीमितताहरूलाई ध्यानमा राख्दै, कार्यान्वयन भइरहेका तथा योजना बनाइएका MHPSS गतिविधिहरू र कार्यक्रममा हुन सक्ने कमीहरूबारे सहभागीहरूलाई झलक दिनुहोस्। MSP मा समावेश नभएका गतिविधिहरू पनि हुन सक्छन् भन्ने सहभागीहरूलाई सम्झाउनुहोस्। ती गतिविधिहरू टाँस्ने पर्चीहरूमा लेखेर पूर्ण सत्रमा छलफल गर्न ‘MSP मा समावेश नभएका गतिविधिहरू’ शीर्षकको फ्लिपचार्टमा थप्न सकिन्छ। अभ्यासको यो भाग पूरा गर्न सहभागीहरूलाई 30 मिनेट दिनुहोस्।",
+      "bt": "• Give participants an overview of MHPSS activities being implemented and planned and possible gaps in programming, taking into account the limitations arising from not all organizations contributing to the MHPSS response in that context being present. Remind participants that there may also be activities not included in the MSP. These activities can be written on sticky notes and added to the flipchart titled ‘Activities not included in the MSP’ for discussion in the plenary session. Give participants 30 minutes to complete this part of the exercise.",
+      "type": "check",
+      "terms": [
+        "T161",
+        "T158",
+        "T232",
+        "T016",
+        "T163",
+        "T369",
+        "T406",
+        "T407",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring workshop terms sticky notes, flipchart and plenary are absent from G-0.3; proposed nonclinical equivalents are listed in proposals."
+    },
+    {
+      "id": "FAC-10-0068",
+      "page": "47",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Discuss together",
+      "ne": "सँगै छलफल गर्नुहोस्।",
+      "bt": "Discuss together.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0069",
+      "page": "47",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "when participants have finished, asking:",
+      "ne": "सहभागीहरूले काम पूरा गरेपछि, यी प्रश्नहरू सोध्दै:",
+      "bt": "After participants have completed their work, asking these questions:",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": "Source fragment introduces the following discussion questions."
+    },
+    {
+      "id": "FAC-10-0070",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• How easy or difficult was it to find your programme activities in the MSP?",
+      "ne": "• MSP मा आफ्ना कार्यक्रमगत गतिविधिहरू फेला पार्न कत्तिको सजिलो वा गाह्रो भयो?",
+      "bt": "• How easy or difficult was it to find your programmatic activities in the MSP?",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T167",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0071",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Are there any programme activities that you weren’t sure about?",
+      "ne": "• के कुनै कार्यक्रमगत गतिविधिहरूका बारेमा तपाईंहरू निश्चित हुन सक्नुभएन?",
+      "bt": "• Were there any programmatic activities you could not be certain about?",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0072",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• How did you resolve confusion or uncertainty (if participants have expressed that they weren’t sure about some activities)? Review any sticky notes placed on the ‘Activities not included in the MSP’ flipchart. For each activity, ask the wider group if everyone agrees that it is not included, or if there is somewhere it might fit?",
+      "ne": "• तपाईंहरूले अन्योल वा अनिश्चितता कसरी समाधान गर्नुभयो (यदि सहभागीहरूले केही गतिविधिहरूबारे निश्चित हुन नसकेको बताएका छन् भने)? ‘MSP मा समावेश नभएका गतिविधिहरू’ शीर्षकको फ्लिपचार्टमा राखिएका टाँस्ने पर्चीहरूको समीक्षा गर्नुहोस्। प्रत्येक गतिविधिका लागि, त्यो समावेश छैन भन्नेमा सबै सहमत छन् वा त्यसलाई मिल्ने कुनै ठाउँ छ भनी समग्र समूहलाई सोध्नुहोस्।",
+      "bt": "• How did you resolve confusion or uncertainty (if participants have said they could not be certain about some activities)? Review the sticky notes placed on the flipchart titled ‘Activities not included in the MSP’. For each activity, ask the whole group whether everyone agrees that it is not included or whether there is somewhere it fits.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T333",
+        "T369",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed nonclinical equivalents for sticky notes and flipchart, which are absent from G-0.3."
+    },
+    {
+      "id": "FAC-10-0073",
+      "page": "47",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Part 3: Checklist review",
+      "ne": "भाग 3: जाँचसूचीको समीक्षा",
+      "bt": "Part 3: Review of the checklist",
+      "type": "check",
+      "terms": [
+        "T121"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0074",
+      "page": "47",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Keep participants in the same groups or working individually as before.",
+      "ne": "सहभागीहरूलाई पहिलेझैँ उही समूहहरूमा वा व्यक्तिगत रूपमा काम गर्न लगाउनुहोस्।",
+      "bt": "Have participants work in the same groups as before or individually.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0075",
+      "page": "47",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "In this step, they will review the core actions for one of the activities they are implementing.",
+      "ne": "यस चरणमा उनीहरूले आफूले कार्यान्वयन गरिरहेका गतिविधिहरूमध्ये एउटाका मुख्य कार्यहरू समीक्षा गर्नेछन्।",
+      "bt": "At this stage, they will review the key actions of one of the activities they are implementing.",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0076",
+      "page": "47",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "This is an opportunity for them to consider how robustly they are implementing their activities and identify where they may need to strengthen or revisit their programming.",
+      "ne": "यो उनीहरूका लागि आफ्ना गतिविधिहरू कत्तिको सुदृढ रूपमा कार्यान्वयन गरिरहेका छन् भन्ने विचार गर्ने र आफ्नो कार्यक्रम तर्जुमा तथा कार्यान्वयन कुन पक्षमा सुदृढ गर्न वा पुनर्विचार गर्न आवश्यक हुन सक्छ भन्ने पहिचान गर्ने अवसर हो।",
+      "bt": "This is an opportunity for them to consider how robustly they are implementing their activities and to identify which aspects of their programme design and implementation may need to be strengthened or reconsidered.",
+      "type": "general",
+      "terms": [
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0077",
+      "page": "47",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Review",
+      "ne": "समीक्षा गर्नुहोस्।",
+      "bt": "Review.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Imperative heading; the object appears in the next row."
+    },
+    {
+      "id": "FAC-10-0078",
+      "page": "47",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "the instructions for this step:",
+      "ne": "यस चरणका निर्देशनहरू:",
+      "bt": "Instructions for this stage:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Source fragment supplies the object of the preceding heading."
+    },
+    {
+      "id": "FAC-10-0079",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Choose one of the activities you are implementing.",
+      "ne": "• तपाईंहरूले कार्यान्वयन गरिरहेका गतिविधिहरूमध्ये एउटा छान्नुहोस्।",
+      "bt": "• Choose one of the activities you are implementing.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0080",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Review the checklist of core actions for that activity and note which actions you have completed and which ones you have not completed. Give the participants 20 minutes to review the core actions",
+      "ne": "• उक्त गतिविधिका मुख्य कार्यहरू समेटिएको जाँचसूची समीक्षा गर्नुहोस् र कुन कार्यहरू पूरा गर्नुभएको छ र कुन पूरा गर्नुभएको छैन भनी टिपोट गर्नुहोस्। मुख्य कार्यहरू समीक्षा गर्न सहभागीहरूलाई 20 मिनेट दिनुहोस्।",
+      "bt": "• Review the checklist containing the key actions for that activity and note which actions you have completed and which you have not completed. Give participants 20 minutes to review the key actions.",
+      "type": "check",
+      "terms": [
+        "T129",
+        "T121",
+        "T350",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0081",
+      "page": "47",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Bring",
+      "ne": "ल्याउनुहोस्।",
+      "bt": "Bring.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Imperative heading; participants, destination and purpose appear in the next row."
+    },
+    {
+      "id": "FAC-10-0082",
+      "page": "47",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "the participants back to the plenary to discuss the following:",
+      "ne": "निम्न विषयहरूमा छलफल गर्न सहभागीहरूलाई पुनः पूर्ण सत्रमा:",
+      "bt": "Participants back into the plenary session to discuss the following topics:",
+      "type": "general",
+      "terms": [
+        "T406",
+        "T407"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Source fragment completes the preceding heading. Uses the proposed nonclinical equivalent for plenary."
+    },
+    {
+      "id": "FAC-10-0083",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Were there any core actions that were totally new to you?",
+      "ne": "• के कुनै मुख्य कार्यहरू तपाईंहरूका लागि पूर्णतः नयाँ थिए?",
+      "bt": "• Were any key actions completely new to you?",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0084",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Did you notice any ways in which your activity could be further strengthened by looking at the core actions (e.g. a core action that is missing from your programme or that could be strengthened)?",
+      "ne": "• मुख्य कार्यहरू हेर्दा आफ्नो गतिविधि थप सुदृढ गर्न सकिने कुनै उपाय देख्नुभयो (जस्तै, आफ्नो कार्यक्रममा छुटेको वा सुदृढ गर्न सकिने कुनै मुख्य कार्य)?",
+      "bt": "• When looking at the key actions, did you see any ways your activity could be strengthened further (for example, any key action missing from your programme or that could be strengthened)?",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0085",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Were there any core actions that could be difficult to implement in your context? At the close of the discussion, highlight that:",
+      "ne": "• के कुनै मुख्य कार्यहरू तपाईंहरूको सन्दर्भमा कार्यान्वयन गर्न गाह्रो हुन सक्छन्? छलफलको अन्त्यमा निम्न कुरा जोड दिनुहोस्:",
+      "bt": "• Could any key actions be difficult to implement in your context? At the end of the discussion, emphasize the following:",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0086",
+      "page": "47",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• The core actions are necessary to plan and implement an activity safely and effectively. The list of core actions can be used to guide programming, i.e., to initiate or strengthen programming.",
+      "ne": "• कुनै गतिविधिको सुरक्षित र प्रभावकारी रूपमा योजना बनाउन र कार्यान्वयन गर्न मुख्य कार्यहरू आवश्यक हुन्छन्। मुख्य कार्यहरू समेटिएको सूचीलाई कार्यक्रम तर्जुमा तथा कार्यान्वयनलाई दिशा दिन, अर्थात् कार्यक्रम तर्जुमा तथा कार्यान्वयन सुरु गर्न वा सुदृढ गर्न प्रयोग गर्न सकिन्छ।",
+      "bt": "• The key actions are necessary to plan and implement an activity safely and effectively. The list containing the key actions can be used to guide programme design and implementation, that is, to start or strengthen programme design and implementation.",
+      "type": "safety",
+      "terms": [
+        "T129",
+        "T282",
+        "T350"
+      ],
+      "flags": [],
+      "note": "General nonclinical guidance on safe programme implementation; review pending."
+    },
+    {
+      "id": "FAC-10-0087",
+      "page": "48",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Note for facilitators",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी",
+      "bt": "Note for the facilitator",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0088",
+      "page": "48",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Part 3 is also an opportunity to assess the quality of the implementation of MHPSS activities in the response.",
+      "ne": "भाग 3 प्रतिकार्यमा MHPSS गतिविधिहरूको कार्यान्वयनको गुणस्तर मूल्याङ्कन गर्ने अवसर पनि हो।",
+      "bt": "Part 3 is also an opportunity to assess the quality of implementation of MHPSS activities in the response.",
+      "type": "check",
+      "terms": [
+        "T174",
+        "T158",
+        "T380"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0089",
+      "page": "48",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "You may want to take notes that can be shared with the MHPSS TWG or other coordination groups to identify capacity building needs and contribute to their planning.",
+      "ne": "क्षमता विकासका आवश्यकताहरू पहिचान गर्न र MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) वा अन्य समन्वय समूहहरूले गर्ने योजनामा योगदान दिन ती समूहहरूसँग साझा गर्न सकिने टिपोटहरू राख्ने विचार गर्न सक्नुहुन्छ।",
+      "bt": "You may consider keeping notes that can be shared with those groups to identify capacity development needs and contribute to planning carried out by the MHPSS Technical Working Group (MHPSS TWG) or other coordination groups.",
+      "type": "general",
+      "terms": [
+        "T201",
+        "T268",
+        "T128",
+        "T349"
+      ],
+      "flags": [],
+      "note": "BT makes the planning concern the capacity-building needs rather than clearly retaining the coordination bodies as the owners of the planning. Revised to make that referent explicit and retain 'may want to' as an optional suggestion rather than merely stating ability."
+    },
+    {
+      "id": "FAC-10-0090",
+      "page": "48",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "If some participants are not from implementing organizations (e.g., those in inter-agency coordination roles), for parts 2 and 3 of this exercise you can follow the instructions below.",
+      "ne": "यदि केही सहभागीहरू कार्यान्वयन गर्ने संस्थाहरूबाट आएका होइनन् भने (जस्तै, अन्तरनिकाय समन्वयको भूमिकामा रहेका व्यक्तिहरू), यस अभ्यासका भाग 2 र 3 का लागि तलका निर्देशनहरू पालना गर्न सक्नुहुन्छ।",
+      "bt": "If some participants are not from implementing organizations (for example, people in inter-agency coordination roles), you can follow the instructions below for parts 2 and 3 of this exercise.",
+      "type": "check",
+      "terms": [
+        "T152",
+        "T349",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0091",
+      "page": "48",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "For those in coordination roles: For part 2, give participants in coordination roles sticky notes that are a different colour from the others and ask them to:",
+      "ne": "समन्वयको भूमिकामा रहेका व्यक्तिहरूका लागि: भाग 2 का लागि, समन्वयको भूमिकामा रहेका सहभागीहरूलाई अरूका भन्दा फरक रङका टाँस्ने पर्चीहरू दिनुहोस् र उनीहरूलाई निम्न कार्य गर्न भन्नुहोस्:",
+      "bt": "For people in coordination roles: For part 2, give participants in coordination roles sticky notes of a different colour from those of the others and ask them to do the following:",
+      "type": "check",
+      "terms": [
+        "T349",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical equivalent for sticky notes, absent from G-0.3."
+    },
+    {
+      "id": "FAC-10-0092",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Write down any activities that are not being implemented in their region (to their knowledge) within their sector/ area of work.",
+      "ne": "• उनीहरूलाई थाहा भएसम्म आफ्नो क्षेत्र/कार्यक्षेत्रअन्तर्गत आफ्नो भौगोलिक क्षेत्रमा कार्यान्वयन नभइरहेका गतिविधिहरू लेख्नुहोस्।",
+      "bt": "• Write down activities that, as far as they know, are not being implemented in their geographical area within their sector/area of work.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T193"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0093",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• For each activity they identify, write on the sticky note: the coordination mechanism they belong to, the geographical region in question, target population and challenges to implementation.",
+      "ne": "• उनीहरूले पहिचान गरेको प्रत्येक गतिविधिका लागि टाँस्ने पर्चीमा यी विवरण लेख्नुहोस्: उनीहरू आबद्ध रहेको समन्वय संयन्त्र, सम्बन्धित भौगोलिक क्षेत्र, लक्षित जनसङ्ख्या र कार्यान्वयनका चुनौतीहरू।",
+      "bt": "• For each activity they have identified, write these details on a sticky note: the coordination mechanism they are affiliated with, the relevant geographical area, the target population and implementation challenges.",
+      "type": "check",
+      "terms": [
+        "T349",
+        "T380"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical equivalent for sticky notes, absent from G-0.3."
+    },
+    {
+      "id": "FAC-10-0094",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• After they have finished making the sticky notes, place them on the corresponding MSP activity for discussion in plenary.",
+      "ne": "• उनीहरूले टाँस्ने पर्चीहरू तयार गरिसकेपछि, पूर्ण सत्रमा छलफल गर्न तिनलाई सम्बन्धित MSP गतिविधिमा राख्नुहोस्।",
+      "bt": "• After they have prepared the sticky notes, place them on the relevant MSP activity for discussion in the plenary session.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T407"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed nonclinical equivalents for sticky notes and plenary, absent from G-0.3."
+    },
+    {
+      "id": "FAC-10-0095",
+      "page": "48",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "For part 3, ask them to pick one of the activities that is being implemented in their area of work and review the core actions to see if they think implementers are meeting the core actions.",
+      "ne": "भाग 3 का लागि, उनीहरूलाई आफ्नो कार्यक्षेत्रमा कार्यान्वयन भइरहेको एउटा गतिविधि छान्न र कार्यान्वयनकर्ताहरूले मुख्य कार्यहरू पूरा गरिरहेका छन् भन्ने लाग्छ कि लाग्दैन भनी हेर्न मुख्य कार्यहरू समीक्षा गर्न भन्नुहोस्।",
+      "bt": "For part 3, ask them to choose one activity being implemented in their area of work and review the key actions to see whether or not they think the implementers are completing the key actions.",
+      "type": "check",
+      "terms": [
+        "T193",
+        "T241",
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0096",
+      "page": "48",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "For those in donor roles: For participants who are from donor organizations (e.g., UN agencies or INGOs that work through implementing partners), they can work with implementing partners who are present in the workshop to jointly report on their activities and / or report on the activities that they are directly implementing themselves.",
+      "ne": "दाताको भूमिकामा रहेका व्यक्तिहरूका लागि: दातृ संस्थाहरूबाट आएका सहभागीहरूले (जस्तै, कार्यान्वयन साझेदारहरूमार्फत काम गर्ने UN निकाय वा INGOs) कार्यशालामा उपस्थित कार्यान्वयन साझेदारहरूसँग मिलेर आफ्ना गतिविधिहरूबारे संयुक्त रूपमा प्रतिवेदन दिन र/वा आफैँले प्रत्यक्ष रूपमा कार्यान्वयन गरिरहेका गतिविधिहरूबारे प्रतिवेदन दिन सक्छन्।",
+      "bt": "For people in donor roles: Participants from donor organizations (for example, UN agencies or INGOs working through implementing partners) can work together with implementing partners present at the workshop to report jointly on their activities and/or report on activities they are directly implementing themselves.",
+      "type": "general",
+      "terms": [
+        "T381",
+        "T406",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring technical term implementing partners is absent from G-0.3; a nonclinical equivalent is proposed. UN and INGOs are retained exactly."
+    },
+    {
+      "id": "FAC-10-0097",
+      "page": "48",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Online facilitation",
+      "ne": "अनलाइन सहजीकरण",
+      "bt": "Online facilitation",
+      "type": "general",
+      "terms": [
+        "T365",
+        "T403"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0098",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Activity Example Cards",
+      "ne": "• गतिविधिका उदाहरण समेटिएका कार्डहरू (Activity Example Cards)",
+      "bt": "• Cards containing examples of activities (Activity Example Cards)",
+      "type": "general",
+      "terms": [
+        "T330"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring resource label: Activity Example Cards; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0099",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Shareable documents with tables with 3 to 4 Activity Example Cards each",
+      "ne": "• प्रत्येक तालिकामा गतिविधिका उदाहरण समेटिएका 3 देखि 4 वटा कार्डहरू भएका, साझा गर्न मिल्ने दस्तावेजहरू",
+      "bt": "• Shareable documents with 3 to 4 cards containing examples of activities in each table",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for Activity Example Cards and shareable documents; glossary additions pending."
+    },
+    {
+      "id": "FAC-10-0100",
+      "page": "48",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Part 1 Matching example activities to the MSP:",
+      "ne": "भाग 1 उदाहरणका रूपमा दिइएका गतिविधिहरूलाई MSP सँग मिलाउने:",
+      "bt": "Part 1 Matching the activities given as examples with the MSP:",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0101",
+      "page": "48",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Option 1 - Using shared documents Preparation",
+      "ne": "विकल्प 1 - साझा दस्तावेजहरू प्रयोग गर्ने तयारी",
+      "bt": "Option 1 - Preparation for using shared documents",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: shared document; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0102",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Create 4-5 sharable documents with a table with two columns in each.",
+      "ne": "• प्रत्येकमा दुई स्तम्भ भएको तालिका रहने गरी साझा गर्न मिल्ने 4-5 वटा दस्तावेजहरू तयार गर्नुहोस्।",
+      "bt": "• Prepare 4-5 shareable documents, each with a table containing two columns.",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for shareable documents; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0103",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• List different activities from the Activity Example Cards in the left column of each.",
+      "ne": "• प्रत्येक दस्तावेजको बायाँ स्तम्भमा गतिविधिका उदाहरण समेटिएका कार्डहरूबाट विभिन्न गतिविधिहरू सूचीबद्ध गर्नुहोस्।",
+      "bt": "• In the left column of each document, list various activities from the cards containing examples of activities.",
+      "type": "general",
+      "terms": [
+        "T330"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed resource label for Activity Example Cards; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0104",
+      "page": "48",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Activity instructions",
+      "ne": "गतिविधिका निर्देशनहरू",
+      "bt": "Activity instructions",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0105",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Divide participants into small groups and provide each group with a link to one of the shareable documents. Review instructions with participants:",
+      "ne": "• सहभागीहरूलाई साना समूहमा विभाजन गर्नुहोस् र प्रत्येक समूहलाई साझा गर्न मिल्ने दस्तावेजहरूमध्ये एउटाको लिङ्क दिनुहोस्। सहभागीहरूसँग निर्देशनहरूको समीक्षा गर्नुहोस्।",
+      "bt": "• Divide the participants into small groups and give each group a link to one of the shareable documents. Review the instructions with the participants.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for shareable documents; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0106",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "» Review the examples you have been given and decide which MSP activity each fits into.",
+      "ne": "» तपाईंहरूलाई दिइएका उदाहरणहरूको समीक्षा गर्नुहोस् र प्रत्येक उदाहरण कुन MSP गतिविधिअन्तर्गत पर्छ भन्ने निर्णय गर्नुहोस्।",
+      "bt": "» Review the examples given to you and decide which MSP activity each example falls under.",
+      "type": "general",
+      "terms": [
+        "T091"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0107",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "» Once you have decided, write the MSP activity number and name in the cell next to the example (for shareable documents) / write the activity example under the correct MSP activity.",
+      "ne": "» निर्णय गरिसकेपछि, उदाहरणको छेउको कोष्ठमा MSP गतिविधिको नम्बर र नाम लेख्नुहोस् (साझा गर्न मिल्ने दस्तावेजहरूका लागि) / गतिविधिको उदाहरणलाई सही MSP गतिविधिअन्तर्गत लेख्नुहोस्।",
+      "bt": "» Once you have decided, write the number and name of the MSP activity in the cell next to the example (for shareable documents) / write the activity example under the correct MSP activity.",
+      "type": "general",
+      "terms": [
+        "T091"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for shareable documents; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0108",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Send participants to breakout rooms and give them 10-15 minutes",
+      "ne": "• सहभागीहरूलाई साना समूहका छुट्टाछुट्टै अनलाइन कक्षहरू (breakout rooms) मा पठाउनुहोस् र उनीहरूलाई 10-15 मिनेट दिनुहोस्।",
+      "bt": "• Send the participants to separate online rooms for small groups (breakout rooms) and give them 10-15 minutes.",
+      "type": "check",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: breakout rooms; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0109",
+      "page": "48",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Option 2 - Using a virtual whiteboard Preparation",
+      "ne": "विकल्प 2 - भर्चुअल ह्वाइटबोर्ड (virtual whiteboard) प्रयोग गर्ने तयारी",
+      "bt": "Option 2 - Preparation for using a virtual whiteboard (virtual whiteboard)",
+      "type": "check",
+      "terms": [
+        "T442"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: virtual whiteboard; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0110",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Create a virtual whiteboard with sections for each MSP activity",
+      "ne": "• प्रत्येक MSP गतिविधिका लागि छुट्टाछुट्टै खण्ड भएको भर्चुअल ह्वाइटबोर्ड तयार गर्नुहोस्।",
+      "bt": "• Prepare a virtual whiteboard with a separate section for each MSP activity.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T422",
+        "T442"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for virtual whiteboard; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0111",
+      "page": "48",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Create virtual sticky notes with each of the activities from the Activity Example Cards - use 4-5 different colours, with approximately the same number of activities in each colour",
+      "ne": "• गतिविधिका उदाहरण समेटिएका कार्डहरूमा भएका प्रत्येक गतिविधि लेखेर भर्चुअल स्टिकी नोटहरू (virtual sticky notes) तयार गर्नुहोस् - 4-5 वटा फरक रङ प्रयोग गर्नुहोस् र प्रत्येक रङमा गतिविधिहरूको सङ्ख्या लगभग बराबर राख्नुहोस्।",
+      "bt": "• Prepare virtual sticky notes by writing down each activity found on the cards containing examples of activities - use 4-5 different colors and keep the number of activities in each color approximately equal.",
+      "type": "check",
+      "terms": [
+        "T330",
+        "T441"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for Activity Example Cards and virtual sticky notes; glossary additions pending. The translation requests notes for each activity but does not explicitly require the activities to appear on the notes. The revision restores that content requirement."
+    },
+    {
+      "id": "FAC-10-0112",
+      "page": "49",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Activity instructions",
+      "ne": "गतिविधिका निर्देशनहरू",
+      "bt": "Activity instructions",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0113",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Divide participants into small groups and assign each group a colour corresponding to the virtual sticky notes.",
+      "ne": "• सहभागीहरूलाई साना समूहमा विभाजन गर्नुहोस् र प्रत्येक समूहलाई भर्चुअल स्टिकी नोटहरूको रङसँग मिल्ने एउटा रङ तोक्नुहोस्।",
+      "bt": "• Divide the participants into small groups and assign each group a color that matches a color of the virtual sticky notes.",
+      "type": "general",
+      "terms": [
+        "T406",
+        "T441"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for virtual sticky notes; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0114",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Share the link to the virtual whiteboard.",
+      "ne": "• भर्चुअल ह्वाइटबोर्डको लिङ्क साझा गर्नुहोस्।",
+      "bt": "• Share the link to the virtual whiteboard.",
+      "type": "general",
+      "terms": [
+        "T442"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for virtual whiteboard; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0115",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Review instructions with participants:",
+      "ne": "• सहभागीहरूसँग निर्देशनहरूको समीक्षा गर्नुहोस्।",
+      "bt": "• Review the instructions with the participants.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0116",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "» Review the examples you have been given and decide which MSP activity each fits into.",
+      "ne": "» तपाईंहरूलाई दिइएका उदाहरणहरूको समीक्षा गर्नुहोस् र प्रत्येक उदाहरण कुन MSP गतिविधिअन्तर्गत पर्छ भन्ने निर्णय गर्नुहोस्।",
+      "bt": "» Review the examples given to you and decide which MSP activity each example falls under.",
+      "type": "general",
+      "terms": [
+        "T091"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0117",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "» Once you have decided, move the sticky note to fit under the correct MSP activity.",
+      "ne": "» निर्णय गरिसकेपछि, स्टिकी नोटलाई सही MSP गतिविधिअन्तर्गत पर्ने गरी सार्नुहोस्।",
+      "bt": "» Once you have decided, move the sticky note so that it falls under the correct MSP activity.",
+      "type": "general",
+      "terms": [
+        "T091"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed sticky-note terminology; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0118",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Send participants to breakout rooms and give them 10-15 minutes.",
+      "ne": "• सहभागीहरूलाई साना समूहका छुट्टाछुट्टै अनलाइन कक्षहरूमा पठाउनुहोस् र उनीहरूलाई 10-15 मिनेट दिनुहोस्।",
+      "bt": "• Send the participants to separate online rooms for small groups and give them 10-15 minutes.",
+      "type": "check",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for breakout rooms; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0119",
+      "page": "49",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Part 2 Matching real activities to the MSP:",
+      "ne": "भाग 2 वास्तविक गतिविधिहरूलाई MSP सँग मिलाउने:",
+      "bt": "Part 2 Matching actual activities with the MSP:",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0120",
+      "page": "49",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Option 1 - Using a shared document Preparation",
+      "ne": "विकल्प 1 - साझा दस्तावेज प्रयोग गर्ने तयारी",
+      "bt": "Option 1 - Preparation for using a shared document",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for shared document; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0121",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Create a shared document with a table listing all Section 3 & 4 MSP activities in one column and a second blank column.",
+      "ne": "• एउटा स्तम्भमा खण्ड 3 र 4 का सबै MSP गतिविधिहरू सूचीबद्ध गरिएको र दोस्रो स्तम्भ खाली राखिएको तालिकासहितको साझा दस्तावेज तयार गर्नुहोस्।",
+      "bt": "• Prepare a shared document with a table in which all MSP activities from sections 3 and 4 are listed in one column and the second column is left blank.",
+      "type": "check",
+      "terms": [
+        "T272",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for shared document; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0122",
+      "page": "49",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Option 2 - Using a virtual whiteboard Preparation",
+      "ne": "विकल्प 2 - भर्चुअल ह्वाइटबोर्ड प्रयोग गर्ने तयारी",
+      "bt": "Option 2 - Preparation for using a virtual whiteboard",
+      "type": "check",
+      "terms": [
+        "T442"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for virtual whiteboard; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0123",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Prepare a new whiteboard with sections for all Section 3 & 4 MSP activities.",
+      "ne": "• खण्ड 3 र 4 का सबै MSP गतिविधिहरूका लागि छुट्टाछुट्टै खण्ड भएको नयाँ ह्वाइटबोर्ड तयार गर्नुहोस्।",
+      "bt": "• Prepare a new whiteboard with separate sections for all MSP activities from sections 3 and 4.",
+      "type": "check",
+      "terms": [
+        "T272",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed whiteboard terminology; glossary addition pending."
+    },
+    {
+      "id": "FAC-10-0124",
+      "page": "49",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Activity instructions",
+      "ne": "गतिविधिका निर्देशनहरू",
+      "bt": "Activity instructions",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0125",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Share the link for either the shared document or whiteboard with all participants.",
+      "ne": "• साझा दस्तावेज वा ह्वाइटबोर्डमध्ये कुनै एकको लिङ्क सबै सहभागीहरूसँग साझा गर्नुहोस्।",
+      "bt": "• Share the link to either the shared document or the whiteboard with all participants.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed wording for shared document and whiteboard; glossary additions pending."
+    },
+    {
+      "id": "FAC-10-0126",
+      "page": "49",
+      "loc": "heading",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Review",
+      "ne": "समीक्षा",
+      "bt": "Review",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source separates 'Review' as a heading from its object in the following row. Rendered as a heading; the following row completes the instruction."
+    },
+    {
+      "id": "FAC-10-0127",
+      "page": "49",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "the instructions with the participants:",
+      "ne": "सहभागीहरूसँग निर्देशनहरू:",
+      "bt": "Instructions with participants:",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source fragment continues 'Review' in the preceding row. The verb is repeated here to make the Nepali instruction complete. The exact source row contains only the object fragment continuing 'Review' in the preceding row; the translation adds a repeated imperative verb. The revision preserves the fragment and colon. Cross-row instruction layout remains pending source review."
+    },
+    {
+      "id": "FAC-10-0128",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Review the MHPSS programmes you are currently implementing and identify which MSP activities they fit under.",
+      "ne": "• तपाईंहरूले हाल कार्यान्वयन गरिरहनुभएका MHPSS कार्यक्रमहरूको समीक्षा गर्नुहोस् र ती कुन MSP गतिविधिहरूअन्तर्गत पर्छन् भन्ने पहिचान गर्नुहोस्।",
+      "bt": "• Review the MHPSS programs you are currently implementing and identify which MSP activities they fall under.",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T272",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0129",
+      "page": "49",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Option 1- Using a shared document",
+      "ne": "विकल्प 1- साझा दस्तावेज प्रयोग गर्ने",
+      "bt": "Option 1 - Use a shared document",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0130",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Write the name of your organization next to any of the MSP activities you are currently implementing.",
+      "ne": "• तपाईंले हाल कार्यान्वयन गरिरहनुभएका MSP गतिविधिहरूमध्ये कुनै पनि गतिविधिको छेउमा आफ्नो संस्थाको नाम लेख्नुहोस्।",
+      "bt": "• Write your organization's name next to any of the MSP activities you are currently implementing.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0131",
+      "page": "49",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Option 2 - Using a virtual whiteboard",
+      "ne": "विकल्प 2 - भर्चुअल ह्वाइटबोर्ड (virtual whiteboard) प्रयोग गर्ने",
+      "bt": "Option 2 - Use a virtual whiteboard",
+      "type": "check",
+      "terms": [
+        "T442"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0132",
+      "page": "49",
+      "loc": "bullet",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "• Write the name of your organization under any of the activities you are currently implementing..",
+      "ne": "• तपाईंले हाल कार्यान्वयन गरिरहनुभएका गतिविधिहरूमध्ये कुनै पनि गतिविधिको तल आफ्नो संस्थाको नाम लेख्नुहोस्।",
+      "bt": "• Write your organization's name below any of the activities you are currently implementing.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-10-0133",
+      "page": "49",
+      "loc": "para",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Discuss both steps using the questions for in-person facilitation and complete step 3 following the same instructions as for in-person facilitation.",
+      "ne": "प्रत्यक्ष उपस्थितिमा सहजीकरणका लागि दिइएका प्रश्नहरू प्रयोग गरी दुवै चरणबारे छलफल गर्नुहोस् र प्रत्यक्ष उपस्थितिमा सहजीकरणका लागि दिइएका तिनै निर्देशनहरू पालना गरी चरण 3 पूरा गर्नुहोस्।",
+      "bt": "Discuss both steps using the questions provided for in-person facilitation, and complete step 3 by following those same instructions provided for in-person facilitation.",
+      "type": "check",
+      "terms": [
+        "T365"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

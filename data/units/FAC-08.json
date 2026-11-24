@@ -1,0 +1,930 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-08",
+  "unit_title": "Essential Components of All MHPSS Programmes",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "37-40",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:00:41+05:45",
+  "coverage": {
+    "source_words": 977,
+    "row_words": 977,
+    "skipped": [
+      "Page 37: running-footer: Module 4 · MSP Workshop Facilitator Manual · 33",
+      "Page 38: running-footer: 34 · MSP Workshop Facilitator Manual · Module 4",
+      "Page 38: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 38: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 38: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 39: running-footer: Module 4 · MSP Workshop Facilitator Manual · 35",
+      "Page 39: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 40: running-footer: 36 · MSP Workshop Facilitator Manual"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-08-0001",
+      "page": "37",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Module 4:",
+      "ne": "मोड्युल 4:",
+      "bt": "Module 4:",
+      "type": "activity",
+      "terms": [
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0002",
+      "page": "37",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Essential components of MHPSS programmes",
+      "ne": "MHPSS कार्यक्रमका अत्यावश्यक घटकहरू",
+      "bt": "Essential components of MHPSS programmes",
+      "type": "activity",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed term for review: essential components = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The frozen glossary is unchanged."
+    },
+    {
+      "id": "FAC-08-0003",
+      "page": "37",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "By the end of this module, participants will be able to:",
+      "ne": "यस मोड्युलको अन्त्यसम्ममा सहभागीहरूले निम्न कार्य गर्न सक्नेछन्:",
+      "bt": "By the end of this module, participants will be able to do the following:",
+      "type": "general",
+      "terms": [
+        "T399",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0004",
+      "page": "37",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "› List the essential components of all MHPSS programmes",
+      "ne": "› सबै MHPSS कार्यक्रमका अत्यावश्यक घटकहरूको सूची बनाउने।",
+      "bt": "› List the essential components of all MHPSS programmes.",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for essential components; glossary review pending."
+    },
+    {
+      "id": "FAC-08-0005",
+      "page": "37",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "› Recognize the need for thoughtful design, planning, and coordination of MHPSS programmes",
+      "ne": "› MHPSS कार्यक्रमको डिजाइन, योजना र समन्वय सोचविचारपूर्वक गर्नुपर्ने आवश्यकता पहिचान गर्ने।",
+      "bt": "› Identify the need to carry out the design, planning and coordination of an MHPSS programme thoughtfully.",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T349",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0006",
+      "page": "37",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "› Understand the importance of M&E for MHPSS",
+      "ne": "› MHPSS का लागि अनुगमन तथा मूल्याङ्कन (M&E) को महत्त्व बुझ्ने।",
+      "bt": "› Understand the importance of monitoring and evaluation (M&E) for MHPSS.",
+      "type": "general",
+      "terms": [
+        "T394"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The glossary supplies M&E system but not standalone M&E. Proposed standalone term: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (M&E)."
+    },
+    {
+      "id": "FAC-08-0007",
+      "page": "37",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "› Explain the value of caring for staff and volunteers providing MHPSS",
+      "ne": "› MHPSS प्रदान गर्ने कर्मचारी र स्वयंसेवकको हेरचाह गर्नुको महत्त्व व्याख्या गर्ने।",
+      "bt": "› Explain the importance of caring for staff and volunteers who provide MHPSS.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0008",
+      "page": "37",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "› Understand the importance of supporting MHPSS competencies of staff and volunteers",
+      "ne": "› कर्मचारी र स्वयंसेवकको MHPSS सम्बन्धी सक्षमताका लागि सहयोग गर्नुको महत्त्व बुझ्ने।",
+      "bt": "› Understand the importance of supporting the MHPSS-related competence of staff and volunteers.",
+      "type": "general",
+      "terms": [
+        "T159",
+        "T209"
+      ],
+      "flags": [],
+      "note": "The translation adds maintaining competence, narrowing the source's broader support for competencies. Removed the maintenance restriction."
+    },
+    {
+      "id": "FAC-08-0009",
+      "page": "37",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "4.1 Essential components of all MHPSS programmes",
+      "ne": "4.1 सबै MHPSS कार्यक्रमका अत्यावश्यक घटकहरू",
+      "bt": "4.1 Essential components of all MHPSS programmes",
+      "type": "activity",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for essential components; glossary review pending."
+    },
+    {
+      "id": "FAC-08-0010",
+      "page": "37",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "› My component is the most important",
+      "ne": "› मेरो घटक सबैभन्दा महत्त्वपूर्ण छ।",
+      "bt": "› My component is the most important.",
+      "type": "general",
+      "terms": [
+        "T345"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0011",
+      "page": "37",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "60 min",
+      "ne": "60 मिनेट",
+      "bt": "60 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0012",
+      "page": "38",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "4.1 Essential Components of All MHPSS Programmes",
+      "ne": "4.1 सबै MHPSS कार्यक्रमका अत्यावश्यक घटकहरू",
+      "bt": "4.1 Essential components of all MHPSS programmes",
+      "type": "activity",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for essential components; glossary review pending."
+    },
+    {
+      "id": "FAC-08-0013",
+      "page": "38",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "MHPSS Needs Assessment Scenarios",
+      "ne": "MHPSS आवश्यकता लेखाजोखाका परिदृश्यहरू",
+      "bt": "MHPSS needs assessment scenarios",
+      "type": "activity",
+      "terms": [
+        "T004",
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0014",
+      "page": "38",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Use",
+      "ne": "प्रयोग गर्नुहोस्।",
+      "bt": "Use.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "This heading supplies the verb for the following source fragment."
+    },
+    {
+      "id": "FAC-08-0015",
+      "page": "38",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "60 min",
+      "ne": "60 मिनेट",
+      "bt": "60 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0016",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "the slide to remind participants about the essential components of all MHPS programmes.",
+      "ne": "सबै MHPS कार्यक्रमका अत्यावश्यक घटकहरूबारे सहभागीहरूलाई सम्झाउन उक्त स्लाइड।",
+      "bt": "That slide to remind participants about the essential components of all MHPS programmes.",
+      "type": "safety",
+      "terms": [
+        "T363",
+        "T406",
+        "T409",
+        "T427"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The source is a fragment without a governing verb; MHPS is preserved exactly because its relationship to MHPSS is unresolved."
+    },
+    {
+      "id": "FAC-08-0017",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "This activity takes the form of a debate between groups.",
+      "ne": "यो गतिविधि समूहहरूबीचको वादविवादका रूपमा सञ्चालन हुन्छ।",
+      "bt": "This activity takes place as a debate between groups.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0018",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Divide participants into 6 groups, ensuring that each group has at least one person with a laptop or mobile device connected to the internet or a copy of the MSP PDF.",
+      "ne": "प्रत्येक समूहमा इन्टरनेटमा जोडिएको ल्यापटप वा मोबाइल उपकरण अथवा MSP को PDF प्रतिलिपि भएको कम्तीमा एक जना व्यक्ति हुने सुनिश्चित गर्दै सहभागीहरूलाई 6 समूहमा विभाजन गर्नुहोस्।",
+      "bt": "Divide participants into 6 groups, ensuring that each group has at least one person with an internet-connected laptop or mobile device or a PDF copy of the MSP.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0019",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Four of the groups will be ‘advocacy groups’ and two will be ‘donors agencies’.",
+      "ne": "तीमध्ये चार समूह ‘पैरवी समूह’ र दुई समूह ‘दातृ निकाय’ हुनेछन्।",
+      "bt": "Of these, four groups will be ‘advocacy groups’ and two groups will be ‘donor agencies’.",
+      "type": "general",
+      "terms": [
+        "T191",
+        "T023"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0020",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Assign each advocacy group one of the four essential components in Section 2. They will prepare a brief presentation on their component.",
+      "ne": "खण्ड 2 मा रहेका चार अत्यावश्यक घटकमध्ये प्रत्येक पैरवी समूहलाई एउटा घटक तोक्नुहोस्। उनीहरूले आफूलाई तोकिएको घटकबारे संक्षिप्त प्रस्तुति तयार गर्नेछन्।",
+      "bt": "Assign each advocacy group one of the four essential components in Section 2. They will prepare a brief presentation about their assigned component.",
+      "type": "check",
+      "terms": [
+        "T191",
+        "T345",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed term for essential components; glossary review pending."
+    },
+    {
+      "id": "FAC-08-0021",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Assign each “donor agency” two essential activities each to review.",
+      "ne": "प्रत्येक “दातृ निकाय” लाई समीक्षा गर्न दुईवटा अत्यावश्यक गतिविधि तोक्नुहोस्।",
+      "bt": "Assign each “donor agency” two essential activities to review.",
+      "type": "general",
+      "terms": [
+        "T023"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0022",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "They should prepare questions to be able to interview the corresponding advocacy groups on each of these activities.",
+      "ne": "उनीहरूले यी प्रत्येक गतिविधिबारे सम्बन्धित पैरवी समूहसँग अन्तर्वार्ता लिन सक्ने गरी प्रश्नहरू तयार गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate for them to prepare questions so that they can interview the relevant advocacy group about each of these activities.",
+      "type": "general",
+      "terms": [
+        "T191"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation renders the instruction as must prepare, stronger than the source's should prepare. Revised to preserve recommendation strength. The plural corresponding advocacy groups becomes a singular relevant advocacy group."
+    },
+    {
+      "id": "FAC-08-0023",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "If there are fewer participants, you may instead divide participants into:",
+      "ne": "सहभागीहरूको सङ्ख्या कम भएमा, यसको सट्टा उनीहरूलाई निम्नअनुसार विभाजन गर्न सक्नुहुन्छ:",
+      "bt": "If the number of participants is small, you can instead divide them as follows:",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0024",
+      "page": "38",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• 4 advocacy groups and one donor agency",
+      "ne": "• 4 पैरवी समूह र एउटा दातृ निकाय।",
+      "bt": "• 4 advocacy groups and one donor agency.",
+      "type": "check",
+      "terms": [
+        "T191",
+        "T023"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0025",
+      "page": "38",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• 4 advocacy groups, with the facilitator playing the role of the donor",
+      "ne": "• 4 पैरवी समूह, र दातृ निकायको भूमिका निर्वाह गर्ने सहजकर्ता।",
+      "bt": "• 4 advocacy groups, and a facilitator playing the role of the donor agency.",
+      "type": "check",
+      "terms": [
+        "T191",
+        "T023",
+        "T229"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0026",
+      "page": "38",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Review",
+      "ne": "समीक्षा गर्नुहोस्।",
+      "bt": "Review.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "This heading supplies the verb for the following source fragment."
+    },
+    {
+      "id": "FAC-08-0027",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "the activity instructions in the slide: For advocacy groups: prepare a brief presentation on the component you have been assigned, arguing why it is the most important component of the four.",
+      "ne": "स्लाइडमा दिइएका गतिविधिका निर्देशनहरूको समीक्षा गर्नुहोस्। पैरवी समूहहरूका लागि: आफूलाई तोकिएको घटक चार घटकमध्ये सबैभन्दा महत्त्वपूर्ण किन हो भन्ने तर्क प्रस्तुत गर्दै त्यसबारे संक्षिप्त प्रस्तुति तयार गर्नुहोस्।",
+      "bt": "Review the activity instructions given on the slide. For advocacy groups: Prepare a brief presentation about your assigned component, presenting an argument for why it is the most important of the four components.",
+      "type": "general",
+      "terms": [
+        "T191",
+        "T345",
+        "T427"
+      ],
+      "flags": [],
+      "note": "The preceding heading supplies the source verb, repeated here to make the instruction complete."
+    },
+    {
+      "id": "FAC-08-0028",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "The donor groups should review the 2 components they have been assigned and prepare questions for the groups presenting (e.g. what are some of the steps required to set the component in place) Remind participants that they can refer to the MSP during their preparations and during the interview.",
+      "ne": "दातृ निकायका समूहहरूले आफूलाई तोकिएका 2 घटकको समीक्षा गरी प्रस्तुति दिने समूहहरूका लागि प्रश्न तयार गर्नु उचित हुन्छ (जस्तै: घटकलाई कार्यान्वयनमा ल्याउन आवश्यक पर्ने केही चरण के हुन्?)। सहभागीहरूले तयारी गर्दा र अन्तर्वार्ताका क्रममा MSP हेर्न सक्ने कुरा उनीहरूलाई स्मरण गराउनुहोस्।",
+      "bt": "It is appropriate for the donor agency groups to review the 2 components assigned to them and prepare questions for the groups giving presentations (e.g.: What are some of the steps required to put the component into implementation?). Remind them that participants can consult the MSP while preparing and during the interviews.",
+      "type": "general",
+      "terms": [
+        "T023",
+        "T163",
+        "T345",
+        "T406"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Reclassified from safety to general: this is an ordinary instruction about reviewing components, preparing questions and consulting the MSP. The back-translation strengthens should review and prepare to must. Revised to preserve recommendation strength; the separate imperative to remind participants remains unchanged. Donor groups becomes donor agency groups, narrowing the donor actors to agencies, the interview becomes plural interviews, and the explicit instruction to remind participants becomes an instruction to remind them about participants' access to the MSP."
+    },
+    {
+      "id": "FAC-08-0029",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Explain that each group will have 5 minutes to present their component, followed by a 5 minute question period from the “donor” groups.",
+      "ne": "प्रत्येक समूहले आफ्नो घटक प्रस्तुत गर्न 5 मिनेट पाउनेछ र त्यसपछि “दातृ निकाय” का समूहहरूले प्रश्न सोध्न 5 मिनेट पाउनेछन् भन्ने कुरा स्पष्ट पार्नुहोस्।",
+      "bt": "Clarify that each group will have 5 minutes to present its component and that the “donor agency” groups will then have 5 minutes to ask questions.",
+      "type": "check",
+      "terms": [
+        "T023",
+        "T345"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0030",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Explain separately to “donor” groups that the objective of the activity is not only to understand the relevance of each component but also how the MSP can be used to guide the implementation of the four components.",
+      "ne": "गतिविधिको उद्देश्य प्रत्येक घटकको सान्दर्भिकता बुझ्नु मात्र नभई चारवटै घटकको कार्यान्वयनलाई दिशा दिन MSP कसरी प्रयोग गर्न सकिन्छ भन्ने बुझ्नु पनि हो भनी “दातृ निकाय” का समूहहरूलाई छुट्टै स्पष्ट पार्नुहोस्।",
+      "bt": "Clarify separately to the “donor agency” groups that the purpose of the activity is not only to understand the relevance of each component but also to understand how the MSP can be used to guide the implementation of all four components.",
+      "type": "general",
+      "terms": [
+        "T023",
+        "T163",
+        "T345",
+        "T380"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0031",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "It is important that the questions posed elicit this information.",
+      "ne": "सोधिएका प्रश्नहरूले यो जानकारी खुलाउनु महत्त्वपूर्ण छ।",
+      "bt": "It is important that the questions asked reveal this information.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The translation says the questions can elicit the information, whereas the source emphasizes that they elicit it. Removed the added capability qualification. Questions revealing information replaces questions eliciting information, shifting from drawing out information to disclosing it."
+    },
+    {
+      "id": "FAC-08-0032",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "For example, “donors” can ask advocacy groups about the steps needed to design programmes safely and effectively, to develop M&E systems, to care for staff and volunteers and to support staff competencies.",
+      "ne": "उदाहरणका लागि, “दातृ निकाय” ले पैरवी समूहहरूलाई सुरक्षित र प्रभावकारी रूपमा कार्यक्रमको डिजाइन गर्न, अनुगमन तथा मूल्याङ्कन (M&E) प्रणाली विकास गर्न, कर्मचारी र स्वयंसेवकको हेरचाह गर्न तथा कर्मचारीको सक्षमताका लागि सहयोग गर्न आवश्यक चरणहरूबारे सोध्न सक्छन्।",
+      "bt": "For example, the “donor agency” may ask the advocacy groups about the steps necessary to design a programme safely and effectively, develop a monitoring and evaluation (M&E) system, care for staff and volunteers, and support staff competence.",
+      "type": "general",
+      "terms": [
+        "T023",
+        "T191",
+        "T156",
+        "T179",
+        "T209",
+        "T394",
+        "T409"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Supporting staff competencies is narrowed to helping staff maintain competence. Removed the added maintenance restriction while retaining safely and effectively and all four areas of questioning. Plural donors becomes a singular donor agency, narrowing the actor to an institution, while plural programmes and M&E systems become a singular programme and system."
+    },
+    {
+      "id": "FAC-08-0033",
+      "page": "38",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Give the groups 20 minutes to prepare.",
+      "ne": "समूहहरूलाई तयारी गर्न 20 मिनेट दिनुहोस्।",
+      "bt": "Give the groups 20 minutes to prepare.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0034",
+      "page": "39",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Give",
+      "ne": "दिनुहोस्।",
+      "bt": "Give.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The source heading continues into the following row."
+    },
+    {
+      "id": "FAC-08-0035",
+      "page": "39",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "each advocacy group 5 minutes to present, followed by 5 mins of questioning from the donor groups.",
+      "ne": "प्रत्येक पैरवी समूहलाई प्रस्तुति दिन 5 मिनेट, त्यसपछि दातृ निकायका समूहहरूबाट प्रश्न सोध्नका लागि 5 मिनेट।",
+      "bt": "5 minutes for each advocacy group to give a presentation, followed by 5 minutes for questions from the donor agency groups.",
+      "type": "check",
+      "terms": [
+        "T191",
+        "T023"
+      ],
+      "flags": [],
+      "note": "This source fragment completes the preceding instruction to give time."
+    },
+    {
+      "id": "FAC-08-0036",
+      "page": "39",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "At the end of each presentation, assist each group to develop a single sentence that summarizes the importance of their component.",
+      "ne": "प्रत्येक प्रस्तुतिको अन्त्यमा, प्रत्येक समूहलाई आफ्नो घटकको महत्त्व सारांशमा व्यक्त गर्ने एउटै वाक्य तयार गर्न सहयोग गर्नुहोस्।",
+      "bt": "At the end of each presentation, help each group prepare a single sentence expressing the importance of its component in summary.",
+      "type": "general",
+      "terms": [
+        "T345"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring term missing from G-0.3: component; proposed wording is [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-08-0037",
+      "page": "39",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Note: You may wish to provide a small ‘prize’ such as a box of chocolates to foster some friendly competition and add a sense of fun to the role-play.",
+      "ne": "नोट: मैत्रीपूर्ण प्रतिस्पर्धालाई प्रोत्साहन गर्न र भूमिका निर्वाहको अभ्यासलाई रमाइलो बनाउन तपाईंले चकलेटको बट्टाजस्तो सानो ‘पुरस्कार’ दिन सक्नुहुन्छ।",
+      "bt": "Note: To encourage friendly competition and make the role-play exercise enjoyable, you can give a small ‘prize’ such as a box of chocolates.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0038",
+      "page": "39",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "After the donors quiz the advocacy groups, they may wish to take 5 minutes to deliberate before awarding the prize to the winning group.",
+      "ne": "दातृ निकायहरूले पैरवी समूहहरूलाई प्रश्न सोधेपछि, विजेता समूहलाई पुरस्कार दिनुअघि विचारविमर्श गर्न 5 मिनेट लिन चाहन सक्छन्।",
+      "bt": "After the donor agencies have asked the advocacy groups questions, they may want to take 5 minutes to deliberate before giving the prize to the winning group.",
+      "type": "check",
+      "terms": [
+        "T023",
+        "T191"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0039",
+      "page": "39",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Discuss",
+      "ne": "छलफल गर्नुहोस्।",
+      "bt": "Discuss.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The source heading continues into the following row."
+    },
+    {
+      "id": "FAC-08-0040",
+      "page": "39",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "the following points in plenary:",
+      "ne": "सबै सहभागी सम्मिलित बैठकमा निम्न बुँदाहरूमा:",
+      "bt": "In a meeting involving all participants, on the following points:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "This source fragment identifies the setting and points for the preceding discussion instruction."
+    },
+    {
+      "id": "FAC-08-0041",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• Are all the components clear to everyone?",
+      "ne": "• के सबै घटक सबैलाई स्पष्ट छन्?",
+      "bt": "• Are all the components clear to everyone?",
+      "type": "general",
+      "terms": [
+        "T345"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring term missing from G-0.3: component; proposed wording is [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-08-0042",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• Is the rationale behind including these components in the MSP clear?",
+      "ne": "• के यी घटकलाई MSP मा समावेश गर्नुको औचित्य स्पष्ट छ?",
+      "bt": "• Is the rationale for including these components in the MSP clear?",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T345"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring term missing from G-0.3: component; proposed wording is [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-08-0043",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• Do you think any of these components is more important than the other?",
+      "ne": "• के तपाईंलाई यी घटकमध्ये कुनै घटक अरूभन्दा बढी महत्त्वपूर्ण छ जस्तो लाग्छ?",
+      "bt": "• Do you think any of these components is more important than the others?",
+      "type": "general",
+      "terms": [
+        "T345"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring term missing from G-0.3: component; proposed wording is [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-08-0044",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• How can the MSP guide the implementation of each component? If not fully covered in presentations, ask:",
+      "ne": "• प्रत्येक घटकको कार्यान्वयनमा MSP ले कसरी मार्गदर्शन गर्न सक्छ? प्रस्तुतिहरूमा पूर्ण रूपमा समेटिएको छैन भने सोध्नुहोस्:",
+      "bt": "• How can the MSP provide guidance in implementing each component? If not fully covered in the presentations, ask:",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T345",
+        "T380"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring term missing from G-0.3: component; proposed wording is [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-08-0045",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• What can go wrong if we don’t do each of these activities? Can you provide any examples from your context?",
+      "ne": "• हामीले यी प्रत्येक गतिविधि गरेनौँ भने के समस्या आउन सक्छ? के तपाईं आफ्नो सन्दर्भका कुनै उदाहरण दिन सक्नुहुन्छ?",
+      "bt": "• What problems could arise if we did not do each of these activities? Can you give any examples from your own context?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0046",
+      "page": "39",
+      "loc": "heading",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Remind",
+      "ne": "स्मरण गराउनुहोस्।",
+      "bt": "Remind.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The source heading continues into the following row. The BT renders the heading as 'Explain' rather than 'Remind'. The revision makes the intended reminder explicit."
+    },
+    {
+      "id": "FAC-08-0047",
+      "page": "39",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "participants that there are no icons in Section 2 as these activities pertain to the internal work that organizations need to do as part of planning and implementation and do not require inter-sectoral coordination.",
+      "ne": "सहभागीहरूलाई खण्ड 2 मा चिह्नहरू नभएको कुरा सम्झाउनुहोस्, किनकि यी गतिविधि संस्थाहरूले योजना तथा कार्यान्वयनको अङ्गका रूपमा गर्नुपर्ने आन्तरिक कामसँग सम्बन्धित छन् र यिनका लागि क्षेत्रहरूबीच समन्वय आवश्यक पर्दैन।",
+      "bt": "Remind participants that there are no symbols in Section 2, because these activities relate to internal work that organizations must do as part of planning and implementation, and they do not require coordination between sectors.",
+      "type": "check",
+      "terms": [
+        "T150",
+        "T296",
+        "T349",
+        "T380",
+        "T406",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The source fragment is completed grammatically using the preceding heading. Missing terminology: coordination and inter-sectoral coordination; proposed wording is [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-08-0048",
+      "page": "39",
+      "loc": "para",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Summarize the discussion by covering any of the below points that have not already been made:",
+      "ne": "तलका बुँदामध्ये पहिले उल्लेख नभएका बुँदाहरू समेटेर छलफलको सारांश प्रस्तुत गर्नुहोस्:",
+      "bt": "Present a summary of the discussion, including any of the following points that have not been mentioned previously:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0049",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• (Activity 2.1) Activities that are not aligned with the needs and don’t build on existing resources of the population can cause harm to the people we serve and can negatively impact the credibility of humanitarian work.",
+      "ne": "• (गतिविधि 2.1) जनसमूहका आवश्यकता अनुरूप नभएका र उनीहरूसँग विद्यमान स्रोतमा आधारित नभएका गतिविधिले हामीले सेवा प्रदान गर्ने व्यक्तिहरूलाई हानि पुर्‍याउन सक्छन् र मानवीय कार्यको विश्वसनीयतामा नकारात्मक प्रभाव पार्न सक्छन्।",
+      "bt": "• (Activity 2.1) Activities that are not in line with the needs of the population and are not based on the resources they already have can harm the people we provide services to and can negatively affect the credibility of humanitarian work.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "General safety guidance about needs, existing resources and potential harm; review pending."
+    },
+    {
+      "id": "FAC-08-0050",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• (Activity 2.1) There is a risk of causing harm to an individual or family by not referring to available services due to lack of coordination and / or limited awareness about referral options, absence of crisis management procedures.",
+      "ne": "• (क्रियाकलाप 2.1) समन्वयको अभाव र / वा सम्बन्धित सेवामा पठाउने कार्यका विकल्पबारे सीमित जानकारीका कारण उपलब्ध सेवाहरूमा नपठाउँदा कुनै व्यक्ति वा परिवारलाई हानि पुग्ने जोखिम हुन्छ; सङ्कट व्यवस्थापनका कार्यविधिहरूको अभाव।",
+      "bt": "• (Activity 2.1) There is a risk of harm to an individual or family when they are not referred to available services because of a lack of coordination and / or limited information about options for referral to relevant services; lack of crisis management procedures.",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The final phrase about absent crisis management procedures remains detached because the source does not clearly establish its syntactic or causal relationship to non-referral."
+    },
+    {
+      "id": "FAC-08-0051",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• (Activity 2.1) Risk of poor quality programming and potential harm if population has not participated in the development of the programme (programming may not be relevant to their needs and priorities, may not build on their existing capacities, may not be sensitive to differences in ages, gender, disabilities or other forms of diversity, it may not be culturally relevant).",
+      "ne": "• (गतिविधि 2.1) कार्यक्रम विकासमा जनसमूह सहभागी भएको छैन भने कार्यक्रम तर्जुमा तथा कार्यान्वयनको गुणस्तर कमजोर हुने र हानि पुग्न सक्ने जोखिम हुन्छ (कार्यक्रम तर्जुमा तथा कार्यान्वयन उनीहरूको आवश्यकता र प्राथमिकतासँग सान्दर्भिक नहुन सक्छ, उनीहरूसँग विद्यमान क्षमतामा आधारित नहुन सक्छ, उमेर, लैङ्गिक भिन्नता, अपाङ्गता वा विविधताका अन्य स्वरूपप्रति संवेदनशील नहुन सक्छ र सांस्कृतिक रूपमा सान्दर्भिक नहुन सक्छ)।",
+      "bt": "• (Activity 2.1) If the population has not participated in program development, there is a risk that the quality of program design and implementation will be poor and that harm may occur (program design and implementation may not be relevant to their needs and priorities, may not be based on their existing capacities, may not be sensitive to age, gender differences, disability or other forms of diversity, and may not be culturally relevant).",
+      "type": "safety",
+      "terms": [
+        "T282",
+        "T233",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance about participation and programme relevance; review pending. Recurring term missing from G-0.3: programme; proposed wording is [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-08-0052",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• (Activity 2.2) Lack of accountability: Organizations need an M&E system to understand the impact of activities and use this information to make the necessary adjustments.",
+      "ne": "• (गतिविधि 2.2) जवाफदेहिताको अभाव: गतिविधिहरूको प्रभाव बुझ्न र आवश्यक समायोजन गर्न उक्त जानकारी प्रयोग गर्न संस्थाहरूलाई अनुगमन तथा मूल्याङ्कन (M&E) प्रणाली आवश्यक हुन्छ।",
+      "bt": "• (Activity 2.2) Lack of accountability: Organizations need monitoring and evaluation (M&E) systems to understand the effects of activities and use that information to make necessary adjustments.",
+      "type": "check",
+      "terms": [
+        "T156",
+        "T394"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-08-0053",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• (Activity 2.2) Risk of lack of funding or consideration for MHPSS if the impact of MHPSS programming is not captured in M&E frameworks.",
+      "ne": "• (गतिविधि 2.2) M&E ढाँचामा MHPSS कार्यक्रम तर्जुमा तथा कार्यान्वयनको प्रभाव समेटिएन भने MHPSS का लागि वित्तपोषणको अभाव हुने वा MHPSS लाई ध्यान नदिइने जोखिम हुन्छ।",
+      "bt": "• (Activity 2.2) If the effects of MHPSS program design and implementation are not included in the M&E framework, there is a risk of a lack of funding for MHPSS or of MHPSS not being given attention.",
+      "type": "check",
+      "terms": [
+        "T282",
+        "T231",
+        "T395"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Missing terminology: M&E frameworks; proposed wording is M&E [Nepali wording recorded in terminology evidence], retaining the acronym."
+    },
+    {
+      "id": "FAC-08-0054",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• (Activity 2.3) Staff working with high levels of stress due to work related stressors, e.g. no appropriate R&R, lack of support services or information about how to access available services.",
+      "ne": "• (क्रियाकलाप 2.3) कामसँग सम्बन्धित तनावका कारकहरू—जस्तै उपयुक्त R&R नहुनु, सहयोगी सेवाहरूको अभाव वा उपलब्ध सेवाहरूमा कसरी पहुँच पाउने भन्ने जानकारीको अभाव—का कारण उच्च स्तरको तनावमा काम गरिरहेका कर्मचारीहरू।",
+      "bt": "• (Activity 2.3) Staff working under high levels of stress because of work-related stress factors—such as not having appropriate R&R, lack of supportive services or lack of information about how to access available services.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "R&R is retained without an assumed expansion, and the source's descriptive fragment is preserved."
+    },
+    {
+      "id": "FAC-08-0055",
+      "page": "39",
+      "loc": "bullet",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "• (Activity 2.4) Staff that are not adequately trained, supervised and supported based on the requirements of the activities that they are involved in leading to poor quality programming and a possible negative impact on the people they are looking to support. Remind participants that the MSP includes resources to guide them through each of these activities and that they can reach out to the IASC MHPSS Reference Group and MHPSS Surge Mechanism for support on coordination, the M&E Helpdesk and to the EQUIP Helpdesk for support on building the MHPSS competencies of staff and volunteers.",
+      "ne": "• (क्रियाकलाप 2.4) कर्मचारीहरूले आफू संलग्न क्रियाकलापका आवश्यकताअनुसार पर्याप्त तालिम, सुपरिवेक्षण र सहयोग नपाउँदा कार्यक्रम तर्जुमा तथा कार्यान्वयनको गुणस्तर कमजोर हुन्छ र उनीहरूले सहयोग गर्न खोजिरहेका मानिसहरूमा नकारात्मक प्रभाव पर्न सक्छ। MSP मा यी प्रत्येक क्रियाकलापमा उनीहरूलाई मार्गदर्शन गर्ने स्रोतसामग्री समावेश छन् भन्ने र उनीहरूले समन्वयसम्बन्धी सहयोगका लागि IASC MHPSS सन्दर्भ समूह र MHPSS Surge Mechanism सँग, अनुगमन तथा मूल्याङ्कन (M&E) सहायता कक्षसँग, र कर्मचारी तथा स्वयंसेवकहरूको MHPSS सम्बन्धी सक्षमता विकासमा सहयोगका लागि EQUIP सहायता कक्षसँग सम्पर्क गर्न सक्छन् भन्ने कुरा सहभागीहरूलाई सम्झाउनुहोस्।",
+      "bt": "• (Activity 2.4) When staff do not receive sufficient training, supervision and support according to the requirements of the activities in which they are involved, the quality of programme design and implementation becomes weak and there may be a negative effect on the people they are trying to help. Remind participants that the MSP includes resource materials to guide them in each of these activities and that they can contact the IASC MHPSS Reference Group and the MHPSS Surge Mechanism for coordination-related support, the monitoring and evaluation (M&E) help desk, and the EQUIP help desk for support in developing the MHPSS-related competencies of staff and volunteers.",
+      "type": "safety",
+      "terms": [
+        "T146",
+        "T159",
+        "T163",
+        "T171",
+        "T282",
+        "T349",
+        "T394",
+        "T406",
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The source does not clearly specify the M&E Helpdesk's support remit within the contact list; the draft leaves that remit unstated."
+    }
+  ]
+}

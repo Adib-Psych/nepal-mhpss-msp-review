@@ -1,0 +1,672 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-25",
+  "unit_title": "Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "75-77",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:07:26+05:45",
+  "coverage": {
+    "source_words": 1259,
+    "row_words": 1257,
+    "skipped": [
+      "PDF p.75: running footer/page number removed: 70 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.76: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 71",
+      "PDF p.77: running footer/page number removed: 72 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-25-0001",
+      "page": "75",
+      "loc": "heading",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "ne": "3.11 यौन हिंसा तथा घनिष्ठ साथीद्वारा हुने हिंसाबाट प्रभावितहरूको क्लिनिकल हेरचाहको अङ्गका रूपमा MHPSS प्रदान गर्ने।",
+      "bt": "3.11 Provide MHPSS as part of the clinical care of those affected by sexual violence and violence by an intimate partner.",
+      "type": "safety",
+      "terms": [
+        "T009",
+        "T055",
+        "T108",
+        "T299"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label describes people affected by violence, which can include indirectly affected people, whereas the source specifies people who directly experienced and survived it. bt-divergence: The frozen activity label denotes people affected by violence, potentially including indirectly affected people; the source specifies survivors who directly experienced and survived the violence. The frozen form is retained."
+    },
+    {
+      "id": "MAN-25-0002",
+      "page": "75",
+      "loc": "para",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Sexual violence and intimate partner violence (IPV)68 are global problems, occurring in every society.",
+      "ne": "यौन हिंसा तथा घनिष्ठ साथीद्वारा हुने हिंसा (IPV)68 हरेक समाजमा हुने विश्वव्यापी समस्या हुन्।",
+      "bt": "Sexual violence and violence by an intimate partner (IPV)68 are global problems that occur in every society.",
+      "type": "safety",
+      "terms": [
+        "T055",
+        "T299"
+      ],
+      "flags": [],
+      "note": "The IPV candidate and footnote marker 68 are retained; safety terminology review is pending."
+    },
+    {
+      "id": "MAN-25-0003",
+      "page": "75",
+      "loc": "para",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "In humanitarian settings, rates of sexual violence and IPV are especially high due to the breakdown of social protections.",
+      "ne": "मानवीय सङ्कटका परिस्थितिमा सामाजिक संरक्षणका व्यवस्था भत्किएका कारण यौन हिंसा र IPV का दरहरू विशेष रूपमा उच्च हुन्छन्।",
+      "bt": "In humanitarian crisis situations, rates of sexual violence and IPV are particularly high because social protection arrangements have broken down.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T299"
+      ],
+      "flags": [],
+      "note": "Preserves the stated causal link between disrupted social protections and especially high rates; safety review is pending. The original Nepali restricts humanitarian settings to places where humanitarian assistance is being provided. The source does not make receipt or provision of assistance a condition."
+    },
+    {
+      "id": "MAN-25-0004",
+      "page": "75",
+      "loc": "para",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Certain groups of people may be at heightened risk because of their specific circumstances (e.g. children, women, IDPs, refugees, migrants, ethnic minorities, people deprived of their freedom, persons with disabilities and LGBTIQ+ persons).",
+      "ne": "केही समूहका व्यक्तिहरू आफ्ना विशिष्ट परिस्थितिका कारण बढी जोखिममा हुन सक्छन् (जस्तै बालबालिका, महिला, IDPs, शरणार्थी, आप्रवासी, जातीय अल्पसङ्ख्यक, स्वतन्त्रताबाट वञ्चित व्यक्तिहरू, अपाङ्गता भएका व्यक्तिहरू र LGBTIQ+ व्यक्तिहरू)।",
+      "bt": "People in some groups may be at greater risk because of their specific circumstances (e.g. children, women, IDPs, refugees, migrants, ethnic minorities, people deprived of liberty, people with disabilities and LGBTIQ+ people).",
+      "type": "general",
+      "terms": [
+        "T073",
+        "T269",
+        "T287"
+      ],
+      "flags": [],
+      "note": "All listed groups and the conditional nature of heightened risk are retained."
+    },
+    {
+      "id": "MAN-25-0005",
+      "page": "75",
+      "loc": "para",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Sexual violence and IPV are usually severely distressing experiences that can have serious short- and long-term physical, psychological, personal and social consequences for survivors.",
+      "ne": "यौन हिंसा र IPV सामान्यतया अत्यन्त व्यथा उत्पन्न गराउने अनुभवहरू हुन्, जसले प्रभावित व्यक्तिहरूमा छोटो र लामो अवधिमा गम्भीर शारीरिक, मनोवैज्ञानिक, व्यक्तिगत र सामाजिक असरहरू पार्न सक्छन्।",
+      "bt": "Sexual violence and IPV are generally experiences that cause extreme distress, which can have serious physical, psychological, personal and social effects on affected people in the short and long term.",
+      "type": "safety",
+      "terms": [
+        "T299",
+        "T317",
+        "T461"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor label can include indirectly affected people, whereas the source concerns people who directly experienced and survived the violence; the usual severity and possible consequences are retained. bt-divergence: The frozen population label denotes affected people, potentially including indirectly affected people, rather than specifically survivors. The frozen form is retained; the usual severity and possible consequences are otherwise preserved."
+    },
+    {
+      "id": "MAN-25-0006",
+      "page": "75",
+      "loc": "para",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Survivors can suffer injuries, unintended pregnancy, pregnancy complications, sexually transmitted infections (including HIV) and other health conditions.",
+      "ne": "प्रभावित व्यक्तिहरूलाई चोटपटक लाग्न, गर्भधारण गर्ने मनसाय नभए पनि गर्भधारण हुन, गर्भावस्थाका जटिलताहरू उत्पन्न हुन, यौन सम्पर्कबाट सर्ने सङ्क्रमणहरू ([HIV] सहित) हुन र अन्य स्वास्थ्यसम्बन्धी अवस्थाहरू देखिन सक्छन्।",
+      "bt": "Affected people may sustain injuries, become pregnant even when they do not intend to become pregnant, develop complications of pregnancy, acquire sexually transmitted infections (including [HIV]), and develop other health-related conditions.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence",
+        "prior-draft-changed"
+      ],
+      "note": "HIV is now enclosed in square brackets without changing its source spelling; the remaining candidate wording is retained. The frozen survivor label denotes affected people and can include indirectly affected people, whereas the source specifies people who directly experienced and survived the violence; all listed outcomes remain possibilities. “Affected people” is broader than “survivors” and does not specify that the people directly experienced and survived the violence."
+    },
+    {
+      "id": "MAN-25-0007",
+      "page": "75",
+      "loc": "para",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "The mental health impacts may include acute stress reactions, depression, PTSD, anxiety, sleep disturbances, substance abuse, self-harm, and suicidal behaviour.",
+      "ne": "मानसिक स्वास्थ्यमा पर्ने असरहरूमा तीव्र तनावका प्रतिक्रियाहरू, [depression], [PTSD], चिन्ता, निद्रामा गडबडी, मनोसक्रिय पदार्थको दुरुपयोग, आफैँलाई हानि पुर्‍याउने कार्य र आत्महत्यासम्बन्धी व्यवहार समावेश हुन सक्छन्।",
+      "bt": "Effects on mental health may include acute stress reactions, [depression], [PTSD], anxiety, sleep disturbances, misuse of psychoactive substances, acts of self-harm and suicide-related behaviour.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T515"
+      ],
+      "flags": [],
+      "note": "The named diagnoses remain in exact source English; the other possible effects are drafted in Nepali without making them certain."
+    },
+    {
+      "id": "MAN-25-0008",
+      "page": "75",
+      "loc": "para",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Survivors may also face stigma and rejection from their families and communities.",
+      "ne": "प्रभावित व्यक्तिहरूले आफ्ना परिवार र समुदायबाट लाञ्छना र अस्वीकृति पनि सामना गर्नुपर्ने हुन सक्छ।",
+      "bt": "Affected people may also have to face stigma and rejection from their families and communities.",
+      "type": "safety",
+      "terms": [
+        "T317",
+        "T344"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor label can include indirectly affected people, whereas the source limits the possible stigma and rejection to people who directly experienced and survived the violence. bt-divergence: The frozen population label can include indirectly affected people, whereas the source specifies survivors. The frozen form is retained; possibility, stigma, rejection and their family and community sources are preserved."
+    },
+    {
+      "id": "MAN-25-0009",
+      "page": "75",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Health care providers offering sexual and reproductive services (e.g. clinic and outpatient services or hospitals offering antenatal or prenatal care; basic delivery care; post-abortion care; management of STIs; etc.) as well as maternal and general health care providers are often the first contact points for survivors seeking assistance. It is therefore essential that they can offer appropriate first-line support, including MHPSS, and referral to other services, including to more specialized mental health service providers as appropriate.69",
+      "ne": "यौन तथा प्रजननसम्बन्धी सेवा प्रदान गर्ने स्वास्थ्य सेवा प्रदायकहरू (जस्तै, गर्भावस्थाको हेरचाह वा प्रसवपूर्व हेरचाह; प्रसवसम्बन्धी आधारभूत हेरचाह; गर्भपतनपछिको हेरचाह; STIs को व्यवस्थापन; आदि उपलब्ध गराउने क्लिनिक तथा बहिरङ्ग सेवा वा अस्पताल) साथै मातृ स्वास्थ्य तथा सामान्य स्वास्थ्य हेरचाह प्रदान गर्ने स्वास्थ्य सेवा प्रदायकहरू प्रायः सहायता खोजिरहेका प्रभावित व्यक्तिहरूका लागि सम्पर्कका पहिलो बिन्दु हुन्छन्। त्यसैले उनीहरूले MHPSS सहित उपयुक्त प्रारम्भिक सहयोग प्रदान गर्न र अन्य सेवाहरू प्राप्त गर्न सम्बन्धित सेवामा पठाउने कार्य गर्न सक्नु अत्यावश्यक छ, जसमा आवश्यकताअनुसार थप विशिष्टीकृत मानसिक स्वास्थ्य सेवा प्रदायकहरूकहाँ पठाउने कार्य पनि समावेश हुन्छ।69",
+      "bt": "Health service providers who provide sexual and reproductive services (for example, clinics and outpatient services or hospitals providing pregnancy care or antenatal care; basic childbirth-related care; post-abortion care; management of STIs; etc.), as well as health service providers who provide maternal health and general health care, are often the first points of contact for affected people seeking help. Therefore, it is essential that they be able to provide appropriate initial support, including MHPSS, and make referrals to relevant services to obtain other services, including referral to more specialized mental health service providers as needed.69",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T172",
+        "T236",
+        "T263",
+        "T317",
+        "T462"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor label can include indirectly affected people, whereas the source specifies people who directly experienced and survived the violence; the provider groups, essential capacity, appropriate referrals and marker 69 are retained. bt-divergence: The frozen population label can include indirectly affected people, whereas the source specifies survivors seeking assistance. The frozen form is retained; provider groups, essential capacity, referral qualifications and marker 69 are preserved."
+    },
+    {
+      "id": "MAN-25-0010",
+      "page": "75",
+      "loc": "footnote",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "68 IPV may be physical, sexual and/or emotional/psychological. With IPV, the impact on mental health can be more gradual since IPV may occur repeatedly and over a long period, at times escalating and potentially involving high levels of emotional abuse.",
+      "ne": "68 IPV शारीरिक, यौन र/वा भावनात्मक/मनोवैज्ञानिक हुन सक्छ। IPV बारम्बार र लामो अवधिसम्म हुन सक्ने, कहिलेकाहीँ बढ्दै जान सक्ने र त्यसमा उच्च स्तरको भावनात्मक दुर्व्यवहार समावेश हुन सक्ने भएकाले मानसिक स्वास्थ्यमा यसको असर अझ क्रमिक रूपमा पर्न सक्छ।",
+      "bt": "68 IPV can be physical, sexual and/or emotional/psychological. Because IPV can occur repeatedly and over a long period, can sometimes increase, and can include a high level of emotional abuse, its effects on mental health may occur more gradually.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157"
+      ],
+      "flags": [],
+      "note": "The alternatives, repeated and prolonged occurrence, occasional escalation and possible high levels of emotional abuse remain qualified rather than certain."
+    },
+    {
+      "id": "MAN-25-0011",
+      "page": "75",
+      "loc": "footnote",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "69 GBV AoR, Global Protection Cluster (2019). The inter-agency minimum standards for Gender-Based Violence in Emergency Programming. See Standard 4: Health care for GBV survivors.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the English citation unchanged, including 69, GBV AoR, Global Protection Cluster, (2019), the publication title and Standard 4: Health care for GBV survivors."
+    },
+    {
+      "id": "MAN-25-0012",
+      "page": "76",
+      "loc": "heading",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-25-0013",
+      "page": "76",
+      "loc": "heading",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "ne": "यौन हिंसा तथा घनिष्ठ साथीद्वारा हुने हिंसाबाट प्रभावितहरूको क्लिनिकल हेरचाहको अङ्गका रूपमा MHPSS प्रदान गर्ने।",
+      "bt": "Provide MHPSS as part of the clinical care of those affected by sexual violence and violence by an intimate partner.",
+      "type": "safety",
+      "terms": [
+        "T009",
+        "T055",
+        "T108",
+        "T299"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label describes people affected by violence, which can include indirectly affected people, whereas the source specifies people who directly experienced and survived it. bt-divergence: The frozen activity label denotes people affected by violence, potentially including indirectly affected people; the source specifies survivors who directly experienced and survived the violence. The frozen form is retained."
+    },
+    {
+      "id": "MAN-25-0014",
+      "page": "76",
+      "loc": "heading",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-25-0015",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Identify health care settings where MHPSS can be provided or strengthened as part of clinical care for survivors of sexual and intimate partner violence.",
+      "ne": "यौन हिंसा तथा घनिष्ठ साथीद्वारा हुने हिंसाबाट प्रभावितहरूको क्लिनिकल हेरचाहको अङ्गका रूपमा MHPSS प्रदान गर्न वा सुदृढ बनाउन सकिने स्वास्थ्य हेरचाहका स्थानहरू पहिचान गर्नुहोस्।",
+      "bt": "Identify health care settings where MHPSS can be provided or strengthened as part of the clinical care of those affected by sexual violence and violence by an intimate partner.",
+      "type": "safety",
+      "terms": [
+        "T009",
+        "T027",
+        "T055",
+        "T299"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen population label can include indirectly affected people, whereas the source concerns the clinical care of people who directly experienced and survived sexual and intimate partner violence. bt-divergence: The frozen population label can include indirectly affected people, whereas the source specifies survivors receiving clinical care. The frozen form is retained; identification of settings and the possibility of providing or strengthening MHPSS are preserved."
+    },
+    {
+      "id": "MAN-25-0016",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Develop/select, adapt and translate MHPSS training materials where needed, based on needs and priorities identified in the assessment and through participatory discussions (e.g. adaptation to the context, understanding laws and policies, awareness of available resources and services).",
+      "ne": "लेखाजोखा तथा सहभागितामूलक छलफलबाट पहिचान गरिएका आवश्यकता र प्राथमिकताका आधारमा आवश्यकताअनुसार MHPSS तालिम सामग्री विकास वा छनोट गर्नुहोस्, अनुकूलन गर्नुहोस् र अनुवाद गर्नुहोस् (जस्तै सन्दर्भअनुसार अनुकूलन गर्ने, कानुन र नीतिहरू बुझ्ने तथा उपलब्ध स्रोत र सेवाहरूबारे जानकारी राख्ने)।",
+      "bt": "Develop or select, adapt and translate MHPSS training materials as needed, based on the needs and priorities identified through assessment and participatory discussion (e.g. adapting to the context, understanding laws and policies, and being informed about available resources and services).",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T439"
+      ],
+      "flags": [],
+      "note": "Retains both sources for identifying needs and priorities, the where-needed condition and all examples."
+    },
+    {
+      "id": "MAN-25-0017",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Train health care providers (e.g. physicians, nurses, midwives, medical assistants and others providing SRH services) on aspects of MHPSS specific to sexual violence and IPV, e.g. providing first-line support to survivors (LIVES)70, including basic psychosocial support; the impact of sexual violence and IPV on mental health; gender-sensitive care; how to inquire about suspected violence; managing disclosure; assessing and managing mental health conditions; providing regular follow-up; monitoring mental health needs; and facilitating links and referrals to additional services, such as specialized mental health services and GBV case management services, and supports (e.g. legal, food security and livelihoods).",
+      "ne": "स्वास्थ्य सेवा प्रदायकहरूलाई (जस्तै, चिकित्सकहरू, नर्सहरू, मिडवाइफहरू, चिकित्सा सहायकहरू र SRH सेवा प्रदान गर्ने अन्य व्यक्तिहरू) यौन हिंसा र IPV सँग विशेष रूपमा सम्बन्धित MHPSS का पक्षहरूबारे तालिम दिनुहोस्, जस्तै: आधारभूत मनोसामाजिक सहयोगसहित [first-line support to survivors (LIVES)]70 प्रदान गर्ने; यौन हिंसा र IPV ले मानसिक स्वास्थ्यमा पार्ने असर; लैङ्गिक पक्षप्रति संवेदनशील हेरचाह; हिंसा भएको आशङ्का हुँदा त्यसबारे कसरी सोधपुछ गर्ने; हिंसाबारे गरिएको खुलासालाई सुरक्षित रूपमा सम्हाल्ने; मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको लेखाजोखा र व्यवस्थापन गर्ने; नियमित अनुवर्ती हेरचाह प्रदान गर्ने; मानसिक स्वास्थ्यसम्बन्धी आवश्यकताहरूको अनुगमन गर्ने; र विशिष्टीकृत मानसिक स्वास्थ्य सेवा तथा GBV सम्बन्धी केस व्यवस्थापन सेवाजस्ता थप सेवाहरू र सहयोगहरू (जस्तै, कानुनी सहयोग, खाद्य सुरक्षा तथा जीविकोपार्जन) सँग सम्पर्क र सम्बन्धित सेवामा पठाउने कार्य सहज बनाउने।",
+      "bt": "Train health service providers (such as doctors, nurses, midwives, medical assistants and other people providing SRH services) on aspects of MHPSS specifically related to sexual violence and IPV, such as: providing [first-line support to survivors (LIVES)]70 with basic psychosocial support; the effects of sexual violence and IPV on mental health; care sensitive to gender-related aspects; how to inquire about violence when it is suspected to have occurred; safely handling disclosures of violence; assessing and managing mental health-related conditions; providing regular follow-up care; monitoring mental health-related needs; and facilitating contact with and referral to additional services and supports, such as specialized mental health services and GBV-related case management services (for example, legal assistance, food security and livelihoods).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T034",
+        "T077",
+        "T118",
+        "T135",
+        "T155",
+        "T157",
+        "T172",
+        "T233",
+        "T236",
+        "T263",
+        "T271",
+        "T299",
+        "T410",
+        "T454",
+        "T478"
+      ],
+      "flags": [
+        "bt-divergence",
+        "prior-draft-changed"
+      ],
+      "note": "The exact source phrase first-line support to survivors (LIVES) is now retained inside square brackets, with marker 70 outside; the remaining candidate wording is retained. The frozen managing-disclosure phrase explicitly adds safe handling, which the source does not state. The survivor-label divergence no longer applies because survivors now occurs only within the exact English intervention phrase. “Safely handling disclosures of violence” adds an explicit safety requirement to the source’s “managing disclosure.”"
+    },
+    {
+      "id": "MAN-25-0018",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Integrate MHPSS into facility-level protocols, job aids and tools (e.g. medical algorithms for health care; treatment checklists; assessment guidance; locally adapted procedures; medical history and examination forms; referral forms and protocols).",
+      "ne": "स्वास्थ्य संस्थास्तरका प्रोटोकलहरू, काममा सहयोग पुर्‍याउने सामग्रीहरू र साधनहरूमा MHPSS एकीकृत गर्नुहोस् (जस्तै, स्वास्थ्य हेरचाहका लागि चिकित्सकीय एल्गोरिदमहरू; उपचारका जाँचसूचीहरू; लेखाजोखाका लागि मार्गदर्शन; स्थानीय सन्दर्भअनुसार अनुकूलित प्रक्रियाहरू; चिकित्सकीय इतिहास र परीक्षणका फारामहरू; सम्बन्धित सेवामा पठाउने कार्यका फारामहरू र प्रोटोकलहरू)।",
+      "bt": "Integrate MHPSS into health facility-level protocols, materials that assist with work and tools (for example, clinical algorithms for health care; treatment checklists; guidance for assessment; procedures adapted to the local context; medical history and examination forms; referral forms and protocols).",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T027",
+        "T121",
+        "T172",
+        "T438"
+      ],
+      "flags": [],
+      "note": "The facility-level scope and every example are retained; the row names documents and tools without supplying their questions or response scales."
+    },
+    {
+      "id": "MAN-25-0019",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Strengthen the capacity of community health providers, traditional birth attendants and other community-based health actors who are important entry points for referrals and first-line support to survivors (e.g. by providing training on first-line support to survivors, managing disclosure and facilitating links and referrals).",
+      "ne": "प्रभावित व्यक्तिहरूका लागि सम्बन्धित सेवामा पठाउने कार्य र प्रारम्भिक सहयोगका महत्त्वपूर्ण प्रवेशबिन्दु रहेका समुदायमा स्वास्थ्य सेवा प्रदान गर्नेहरू, परम्परागत सुँडेनीहरू र समुदायमा आधारित स्वास्थ्य क्षेत्रका अन्य सम्बद्ध पक्षहरूको क्षमता सुदृढ बनाउनुहोस् (जस्तै, प्रभावित व्यक्तिहरूलाई प्रारम्भिक सहयोग प्रदान गर्ने, हिंसाबारे गरिएको खुलासालाई सुरक्षित रूपमा सम्हाल्ने र सेवाहरूसँग सम्पर्क तथा सम्बन्धित सेवामा पठाउने कार्य सहज बनाउने विषयमा तालिम दिएर)।",
+      "bt": "Strengthen the capacity of those providing health services in the community, traditional birth attendants and other community-based health sector stakeholders who are important entry points for referral and initial support for affected people (for example, by providing training on providing initial support to affected people, safely handling disclosures of violence and facilitating contact with and referral to services).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T077",
+        "T114",
+        "T172",
+        "T317",
+        "T344",
+        "T462"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor label can include indirectly affected people, whereas the source specifies people who directly experienced and survived the violence; all three provider groups and the training examples are retained. bt-divergence: The frozen population label denotes affected people rather than specifically survivors. The frozen managing-disclosure phrase also explicitly adds safely, which the source does not state. Both frozen forms are retained; the provider groups, capacity-strengthening instruction and illustrative training scope are otherwise preserved."
+    },
+    {
+      "id": "MAN-25-0020",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Engage staff with MHPSS and GBV technical expertise to provide training, ongoing support and supervision.",
+      "ne": "तालिम, निरन्तर सहयोग र सुपरिवेक्षण प्रदान गर्न MHPSS र GBV सम्बन्धी प्राविधिक विशेषज्ञता भएका कर्मचारीहरूलाई संलग्न गराउनुहोस्।",
+      "bt": "Engage staff with technical expertise in MHPSS and GBV to provide training, ongoing support and supervision.",
+      "type": "general",
+      "terms": [
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term supervision is absent from the glossary; proposed wording is [Nepali wording recorded in terminology evidence]. Both technical expertise areas and all three staff functions are retained."
+    },
+    {
+      "id": "MAN-25-0021",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Coordinate with other service providers and develop, strengthen, and/or maintain referral systems and pathways (e.g. to GBV services; to additional or specialized mental health care; to education, livelihoods and community-based support), including procedures for confidentiality and privacy.",
+      "ne": "अन्य सेवा प्रदायकहरूसँग समन्वय गर्नुहोस् र गोपनीयता तथा निजताको प्रक्रियासहित सम्बन्धित सेवामा पठाउने कार्यका लागि प्रणाली तथा मार्गहरू विकास गर्नुहोस्, सुदृढ गर्नुहोस् र/वा कायम राख्नुहोस् (जस्तै GBV सेवामा; थप वा विशिष्टीकृत मानसिक स्वास्थ्य सेवामा; शिक्षा, जीविकोपार्जन र समुदायमा आधारित सहयोगमा)।",
+      "bt": "Coordinate with other service providers and develop, strengthen and/or maintain systems and pathways for referral to relevant services, including procedures for confidentiality and privacy (e.g. to GBV services; to additional or specialized mental health services; to education, livelihoods and community-based support).",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T157",
+        "T027",
+        "T028",
+        "T155",
+        "T211",
+        "T344"
+      ],
+      "flags": [],
+      "note": "General coordination guidance retains all referral destinations, the and/or relationship and procedures for both confidentiality and privacy. Mental-health service wording is reused from the supplied activity 3.10 candidate; safety review is pending."
+    },
+    {
+      "id": "MAN-25-0022",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Where health, SRH, or GBV staff are providing psychological interventions, ensure that they are equipped with evidence-based approaches and appropriate supervision (see MSP activity 3.12).",
+      "ne": "स्वास्थ्य, SRH वा GBV का कर्मचारीहरूले मनोवैज्ञानिक हस्तक्षेप प्रदान गरिरहेका अवस्थामा, उनीहरूलाई प्रमाणमा आधारित दृष्टिकोणहरू र उपयुक्त सुपरिवेक्षण उपलब्ध गराइएको सुनिश्चित गर्नुहोस् (MSP गतिविधि 3.12 हेर्नुहोस्)।",
+      "bt": "Where health, SRH or GBV staff are providing psychological interventions, ensure that they are provided with evidence-based approaches and appropriate supervision (see MSP Activity 3.12).",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T027",
+        "T091",
+        "T163",
+        "T228",
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft requires provision of evidence-based approaches and appropriate supervision, not merely staff capability."
+    },
+    {
+      "id": "MAN-25-0023",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूमा निर्भर हुने)",
+      "bt": "Additional actions given for consideration (dependent on context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-25-0024",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Build longer-term capacity in delivering clinical care for survivors through academic and other training institutions (e.g. inclusion in curricula of diploma and degree programmes for health care professionals, continued professional education).",
+      "ne": "शैक्षिक तथा अन्य तालिम संस्थाहरूमार्फत प्रभावित व्यक्तिहरूलाई चिकित्सकीय हेरचाह प्रदान गर्ने अझ दीर्घकालीन क्षमता विकास गर्नुहोस् (जस्तै, स्वास्थ्य सेवा पेसाकर्मीहरूका लागि डिप्लोमा र डिग्री कार्यक्रमका पाठ्यक्रममा समावेश गर्ने, निरन्तर पेसागत शिक्षा प्रदान गर्ने)।",
+      "bt": "Develop longer-term capacity to provide clinical care to affected people through educational and other training institutions (e.g., including it in the curricula of diploma and degree programmes for health service professionals, providing continuing professional education).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T028",
+        "T317",
+        "T409"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen label प्रभावित व्यक्तिहरू means affected persons and can include indirectly affected people, whereas survivors denotes people who directly experienced and survived the violence; the source population remains survivors only. bt-divergence: The frozen label प्रभावित व्यक्तिहरू means affected persons and can include indirectly affected people; the source limits the clinical-care population to survivors. The frozen form is retained."
+    },
+    {
+      "id": "MAN-25-0025",
+      "page": "76",
+      "loc": "heading",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "check",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-25-0026",
+      "page": "76",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणमा पहुँच प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to access relevant guidelines, standards and tools.",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-25-0027",
+      "page": "76",
+      "loc": "footnote",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "70 WHO (2014). Health care for women subjected to intimate partner violence or sexual violence: A clinical handbook.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the English citation unchanged, including 70, WHO, (2014) and the complete clinical handbook title."
+    },
+    {
+      "id": "MAN-25-0028",
+      "page": "77",
+      "loc": "heading",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Key consideration 30: Providing MHPSS to survivors of sexual violence and IPV through health services",
+      "ne": "मुख्य विचारणीय पक्ष 30: स्वास्थ्य सेवामार्फत यौन हिंसा र IPV बाट प्रभावित व्यक्तिहरूलाई MHPSS प्रदान गर्ने",
+      "bt": "Key consideration 30: Providing MHPSS to people affected by sexual violence and IPV through health services",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T252",
+        "T299",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen label प्रभावित व्यक्तिहरू can include indirectly affected people, while this heading specifically concerns survivors who directly experienced and survived sexual violence and IPV. bt-divergence: The frozen label प्रभावित व्यक्तिहरू broadens survivors of sexual violence and IPV to people affected by them, potentially including indirect exposure. The frozen form is retained."
+    },
+    {
+      "id": "MAN-25-0029",
+      "page": "77",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Health service providers should consider that persons presenting with psychological distress or mental health conditions may be survivors of sexual violence and IPV. They may be reluctant or fearful to talk about these experiences and may face stigma and rejection from their families and communities. Survivors often experience common psychological reactions, such as fear, anxiety, sadness, anger, guilt, shame, self-blame, dissociation (e.g. feeling disconnected, dazed or numb), nightmares or problems sleeping, as well as social isolation and withdrawal. These reactions are normal and will most often improve over time, particularly if the affected person feels safe and has the emotional support they need. However, some people experience prolonged distress, particularly if exposed to an ongoing situation of violence, as is often the case with IPV. In addition, some groups may face additional barriers to accessing support (e.g. LGBTIQ+ persons).",
+      "ne": "स्वास्थ्य सेवा प्रदायकले मानसिक व्यथा वा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू लिएर सेवा लिन आउने व्यक्तिहरू यौन हिंसा र IPV बाट प्रभावित व्यक्तिहरू हुन सक्छन् भन्ने कुरा विचार गर्नुपर्छ। उनीहरू यी अनुभवहरूबारे कुरा गर्न अनिच्छुक हुन वा डराउन सक्छन् र आफ्ना परिवार तथा समुदायबाट लाञ्छना र अस्वीकृति भोग्न सक्छन्। प्रभावित व्यक्तिहरूले प्रायः डर, चिन्ता, उदासी, रिस, दोषी भएको भावना, लज्जा, आफूलाई दोष दिने प्रवृत्ति, वियोजन (जस्तै, आफू अलग्गिएको, अलमलिएको वा संवेदनाहीन भएको महसुस हुनु), डरलाग्दा सपना वा सुत्नमा समस्या जस्ता सामान्य मनोवैज्ञानिक प्रतिक्रियाका साथै सामाजिक अलगाव र अरूसँगको सम्पर्कबाट पछि हट्ने अवस्था अनुभव गर्छन्। यी प्रतिक्रियाहरू सामान्य हुन् र अधिकांश अवस्थामा समयसँगै सुधार हुँदै जान्छन्, विशेष गरी प्रभावित व्यक्तिले सुरक्षित महसुस गरेमा र आफूलाई आवश्यक भावनात्मक सहयोग पाएमा। तर, केही व्यक्तिहरूले लामो समयसम्म व्यथा अनुभव गर्छन्, विशेष गरी हिंसा निरन्तर भइरहेको अवस्थामा परेमा, जुन IPV मा प्रायः हुन्छ। साथै, केही समूहहरूले सहयोग प्राप्त गर्न थप अवरोधहरू सामना गर्न सक्छन् (जस्तै, LGBTIQ+ व्यक्तिहरू)।",
+      "bt": "The health service provider should consider that people coming for services with mental distress or mental health conditions may be people affected by sexual violence and IPV. They may be unwilling or afraid to talk about these experiences and may experience stigma and rejection from their families and communities. Affected people often experience common psychological reactions such as fear, anxiety, sadness, anger, feelings of guilt, shame, a tendency to blame themselves, dissociation (e.g., feeling detached, confused or numb), frightening dreams or problems sleeping, as well as social isolation and withdrawal from contact with others. These reactions are normal and in most cases improve over time, especially if the affected person feels safe and receives the emotional support they need. However, some people experience distress for a long time, especially if they are in a situation where violence is continuing, which often happens in IPV. In addition, some groups may face additional barriers to obtaining support (e.g., LGBTIQ+ people).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T236",
+        "T299",
+        "T317",
+        "T461",
+        "T478",
+        "T492"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor label means affected persons and can include indirect exposure, whereas the source survivor references concern direct experience and survival; the later source phrase affected person is itself broader. Several reaction terms, including dissociation, have no supplied nonempty glossary form. bt-divergence: The frozen survivor wording denotes affected persons, potentially including indirectly affected people, whereas the source survivor references concern people who directly experienced and survived the violence. The source's separate phrase affected person is correctly broader and does not require repair."
+    },
+    {
+      "id": "MAN-25-0030",
+      "page": "77",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Providing first-line support (e.g. LIVES), which includes basic psychosocial support, is a first step that all health-care staff should be prepared to take when supporting survivors of sexual violence and IPV. In an emergency setting where a health care provider may see a survivor only once, first-line support may be the only help that can be offered. Health care providers should understand how to provide survivor-centred support and facilitate referrals to needed services (see “General principles and considerations” on informed consent/assent, safe information-sharing practices, confidentiality and mandatory reporting and key consideration 28). It is also important to support service providers in examining their own beliefs about gender roles (e.g. harmful beliefs about women’s and men’s rights, roles and power in society, or about persons of diverse SOGIESC) and in addressing any discriminatory attitudes that may lead to them contributing to or even causing harm in their work (e.g. re-victimisation, increased distress).71 The GBV guiding principles and survivor-centered attitude scale are foundational for working with survivors.72",
+      "ne": "यौन हिंसा र IPV बाट प्रभावित व्यक्तिहरूलाई सहयोग गर्दा सबै स्वास्थ्यकर्मीहरू आधारभूत मनोसामाजिक सहयोग समावेश भएको प्रारम्भिक सहयोग (जस्तै, [LIVES]) प्रदान गर्ने पहिलो कदम चाल्न तयार रहनुपर्छ। आपत्कालीन परिवेशमा स्वास्थ्य सेवा प्रदायकको प्रभावित व्यक्तिसँग एक पटक मात्र भेट हुन सक्ने भएकाले प्रारम्भिक सहयोग नै प्रदान गर्न सकिने एक मात्र मद्दत हुन सक्छ। स्वास्थ्य सेवा प्रदायकले प्रभावित व्यक्तिलाई केन्द्रमा राख्ने सहयोग कसरी प्रदान गर्ने र आवश्यक सेवाहरूका लागि सम्बन्धित सेवामा पठाउने कार्यको सहजीकरण कसरी गर्ने भन्ने बुझ्नुपर्छ ([informed consent]/स्वीकृति, सुरक्षित रूपमा सूचना साझा गर्ने अभ्यासहरू, गोपनीयता र अनिवार्य रूपमा जानकारी दिने दायित्वबारे “सामान्य सिद्धान्त र विचारणीय पक्षहरू” तथा मुख्य विचारणीय पक्ष 28 हेर्नुहोस्)। सेवा प्रदायकहरूलाई लैङ्गिक भूमिकाबारे आफ्ना विश्वासहरू जाँच्न (जस्तै, समाजमा महिला र पुरुषका अधिकार, भूमिका र शक्तिबारे वा विविध SOGIESC भएका व्यक्तिहरूबारे हानिकारक विश्वासहरू) र आफ्नो काममा हानि पुर्‍याउन योगदान दिन वा हानि नै निम्त्याउन सक्ने कुनै पनि भेदभावपूर्ण मनोवृत्तिलाई सम्बोधन गर्न सहयोग गर्नु पनि महत्त्वपूर्ण छ (जस्तै, पुनः पीडित बनाइनु, व्यथा बढ्नु)।71 GBV का मार्गदर्शक सिद्धान्तहरू र प्रभावित व्यक्तिलाई केन्द्रमा राख्ने मनोवृत्तिको मापनी प्रभावित व्यक्तिहरूसँग काम गर्ने आधार हुन्।72",
+      "bt": "When supporting people affected by sexual violence and IPV, all health workers should be ready to take the first step of providing initial support that includes basic psychosocial support (e.g., [LIVES]). Because a health service provider may meet the affected person only once in an emergency setting, initial support may be the only help that can be provided. The health service provider should understand how to provide support that places the affected person at the centre and how to facilitate referral to the relevant service for necessary services (see “General principles and considerations” and key consideration 28 regarding [informed consent]/approval, safe information-sharing practices, confidentiality and the obligation to report information mandatorily). It is also important to support service providers to examine their own beliefs about gender roles (e.g., harmful beliefs about the rights, roles and power of women and men in society or about people with diverse SOGIESC) and to address any discriminatory attitudes that could contribute to causing harm or cause harm itself in their work (e.g., being victimized again, increased distress).71 The guiding principles of GBV and the scale of attitudes that place the affected person at the centre are the foundation for working with affected people.72",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T172",
+        "T211",
+        "T233",
+        "T236",
+        "T252",
+        "T258",
+        "T299",
+        "T317",
+        "T410",
+        "T454",
+        "T461",
+        "T462",
+        "T499"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen affected-person wording in the survivor, survivor-centred support and survivor-centered attitude labels can include indirectly affected people, whereas the source centres survivors themselves; these references remain restricted to survivors. The paragraph mentions consent principles and an attitude scale but supplies neither a consent script nor scale items. The draft changes should understand how to facilitate referrals into a direct obligation to facilitate them. The repair restores understanding how to both provide support and facilitate referrals. bt-divergence remains: the frozen survivor and survivor-centred labels use affected-person wording that can include indirectly affected people, while the source centres survivors themselves. 'Affected people' and support/attitude labels centred on affected people broaden the source's survivor-specific scope to potentially include indirectly affected people. 'Informed consent/assent' becomes 'informed consent/approval', losing the specific distinction between consent and assent."
+    },
+    {
+      "id": "MAN-25-0031",
+      "page": "77",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Some survivors of sexual violence and IPV may develop mental health conditions such as depression, suicidal ideation, self-harm or PTSD or may have medically unexplained somatic complaints or ongoing problems with sleep. Health care providers (e.g. physicians, nurses, midwives, medical assistants and others providing SRH services) should be able to identify, assess and manage such conditions, using evidence-based clinical guidelines such as the mhGAP-HIG (see MSP activity 3.10).",
+      "ne": "यौन हिंसा र IPV बाट प्रभावित व्यक्तिहरूमध्ये केहीमा [depression], आत्महत्याको विचार, आफूलाई हानि पुर्‍याउने व्यवहार वा [PTSD] जस्ता मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू देखा पर्न सक्छन् वा चिकित्सकीय व्याख्या नभएका शारीरिक समस्याहरू वा सुत्नमा निरन्तर समस्याहरू हुन सक्छन्। स्वास्थ्य सेवा प्रदायकहरू (जस्तै, चिकित्सक, नर्स, प्रसूतिकर्मी, चिकित्सा सहायक र SRH सेवाहरू प्रदान गर्ने अन्य व्यक्तिहरू) [mhGAP-HIG] जस्ता प्रमाणमा आधारित चिकित्सकीय निर्देशिकाहरू प्रयोग गरी यस्ता अवस्थाहरू पहिचान गर्न, मूल्याङ्कन गर्न र व्यवस्थापन गर्न सक्षम हुनुपर्छ (MSP गतिविधि 3.10 हेर्नुहोस्)।",
+      "bt": "Some of the people affected by sexual violence and IPV may develop mental health conditions such as [depression], suicidal thoughts, self-harming behaviour or [PTSD], or may have physical problems without a medical explanation or persistent problems sleeping. Health service providers (e.g., doctors, nurses, midwives, medical assistants and others providing SRH services) should be able to identify, assess and manage such conditions using evidence-based clinical guidelines such as [mhGAP-HIG] (see MSP Activity 3.10).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T086",
+        "T091",
+        "T157",
+        "T163",
+        "T228",
+        "T236",
+        "T299",
+        "T317",
+        "T478"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen label प्रभावित व्यक्तिहरू can include indirectly affected people, whereas the source specifically concerns survivors who directly experienced and survived the violence. Named diagnoses and the mhGAP title remain in exact source English. bt-divergence: The frozen label प्रभावित व्यक्तिहरू can include indirectly affected people, while the source concerns survivors of sexual violence and IPV. The frozen form is retained; the clinical possibilities and provider capability requirement are otherwise preserved."
+    },
+    {
+      "id": "MAN-25-0032",
+      "page": "77",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "Further specific actions can be found in MSP activity 3.11. See also key consideration 28 and key consideration 29.",
+      "ne": "थप विशिष्ट कार्यहरू MSP गतिविधि 3.11 मा पाउन सकिन्छ। मुख्य विचारणीय पक्ष 28 र मुख्य विचारणीय पक्ष 29 पनि हेर्नुहोस्।",
+      "bt": "More specific actions can be found in MSP Activity 3.11. See also key consideration 28 and key consideration 29.",
+      "type": "check",
+      "terms": [
+        "T091",
+        "T163",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-25-0033",
+      "page": "77",
+      "loc": "footnote",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "71 Re-victimisation of survivors can occur at the provider level (e.g. via responses to disclosure that are victim-blaming or judgemental), the team level (e.g. service users having to retell their story to multiple team members), and the systems level (e.g. triage systems in which service users are asked in front of other service users about their reasons for seeking care, restraining practices on inpatient wards). Mental health services that are predicated upon power imbalances and conditions of coercion and control can result in dynamics that resemble those of abusive relationships and cause increased distress to survivors. For example, through the use of coercive treatment, such as seclusion, restraint, and forced medication in inpatient settings. Oram et al. (2022). The Lancet Psychiatry Commission on intimate partner violence and mental health: advancing mental health services, research, and policy. Lancet Psychiatry, 9(6), pp.487-524.",
+      "ne": "71 प्रभावित व्यक्तिहरू पुनः पीडित बनाइनु प्रदायकको तहमा (जस्तै, घटना खुलाउँदा पीडितलाई नै दोष दिने वा उनीहरूबारे नकारात्मक धारणा बनाएर मूल्याङ्कन गर्ने खालका प्रतिक्रिया दिएर), टोलीको तहमा (जस्तै, सेवा प्रयोगकर्ताहरूले टोलीका धेरै सदस्यहरूलाई आफ्नो अनुभव दोहोर्‍याएर सुनाउनुपर्ने हुँदा), र प्रणालीको तहमा (जस्तै, सेवा प्रयोगकर्ताहरूलाई अन्य सेवा प्रयोगकर्ताहरूको अगाडि उनीहरूले हेरचाह खोज्नुका कारणहरू सोधिने उपचारको प्राथमिकता निर्धारण गर्ने प्रणालीहरू, भर्ना भएका बिरामीका वार्डमा शारीरिक रूपमा नियन्त्रणमा राख्ने अभ्यासहरू) हुन सक्छ। शक्तिको असन्तुलन तथा जबर्जस्ती र नियन्त्रणका अवस्थाहरूमा आधारित मानसिक स्वास्थ्य सेवाले दुर्व्यवहारपूर्ण सम्बन्धहरूमा जस्तै अन्तरसम्बन्धका ढाँचाहरू उत्पन्न गर्न र प्रभावित व्यक्तिहरूको व्यथा बढाउन सक्छन्। उदाहरणका लागि, बिरामी भर्ना गरिने परिवेशमा [seclusion], [restraint] र [forced medication] जस्ता जबर्जस्ती गरिने उपचारको प्रयोगबाट। Oram et al. (2022). The Lancet Psychiatry Commission on intimate partner violence and mental health: advancing mental health services, research, and policy. Lancet Psychiatry, 9(6), pp.487-524.",
+      "bt": "71 Affected people being victimized again can occur at the provider level (e.g., by giving responses that blame the victim themselves or judge them with negative assumptions when an incident is disclosed), at the team level (e.g., when service users have to recount their experience repeatedly to many members of the team), and at the system level (e.g., systems for determining treatment priority in which service users are asked the reasons for seeking care in front of other service users, practices of physically keeping people under control in inpatient wards). Mental health services based on imbalances of power and conditions of coercion and control can produce patterns of interaction like those in abusive relationships and increase the distress of affected people. For example, through the use of coercive treatments such as [seclusion], [restraint] and [forced medication] in settings where patients are admitted. Oram et al. (2022). The Lancet Psychiatry Commission on intimate partner violence and mental health: advancing mental health services, research, and policy. Lancet Psychiatry, 9(6), pp.487-524.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T263",
+        "T317",
+        "T461",
+        "T499"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen label प्रभावित व्यक्तिहरू can include indirectly affected people, whereas the source survivor references concern direct experience and survival. Several service-practice terms have no supplied nonempty glossary forms; the source's example sentence is a fragment, which is retained, and the bibliographic citation is unchanged. The draft renders victim-blaming or judgemental as blaming or accusing the victim, losing judgemental responses that do not explicitly assign blame. The repair restores that distinction. bt-divergence remains: the frozen affected-person label is broader than survivors and can include indirectly affected people. 'Affected people' replaces 'survivors' in both the re-victimisation statement and the increased-distress statement, broadening their scope to potentially include indirectly affected people."
+    },
+    {
+      "id": "MAN-25-0034",
+      "page": "77",
+      "loc": "footnote",
+      "section": "Section 3 > 3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "en": "72 Please see the Survivor-Centred Attitude Scale in the Interagency GBV Case Management Guidelines, p.193.",
+      "ne": "72 कृपया Interagency GBV Case Management Guidelines को p.193 मा दिइएको Survivor-Centred Attitude Scale हेर्नुहोस्।",
+      "bt": "72 Please see the Survivor-Centred Attitude Scale given on p.193 of the Interagency GBV Case Management Guidelines.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": "The guideline and instrument titles are retained in English for identification. This is a reference instruction, not an instrument item or response option."
+    }
+  ]
+}

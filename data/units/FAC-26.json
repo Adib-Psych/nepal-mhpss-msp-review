@@ -1,0 +1,981 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-26",
+  "unit_title": "Activity Example Cards",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "85-86",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:09:23+05:45",
+  "coverage": {
+    "source_words": 917,
+    "row_words": 916,
+    "skipped": [
+      "Page 85: running-footer: Annexes · MSP Workshop Facilitator Manual · 81",
+      "Page 86: running-footer: 82 · MSP Workshop Facilitator Manual · Annexes"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-26-0001",
+      "page": "85",
+      "loc": "heading",
+      "section": "Activity Example Cards",
+      "en": "Annex 7",
+      "ne": "परिशिष्ट 7",
+      "bt": "Appendix 7",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-26-0002",
+      "page": "85",
+      "loc": "heading",
+      "section": "Activity Example Cards",
+      "en": "Activity Example Cards",
+      "ne": "गतिविधिका उदाहरण कार्डहरू",
+      "bt": "Activity example cards",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-26-0003",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Print the table below and cut up the activity examples.",
+      "ne": "तलको तालिका छाप्नुहोस् र गतिविधिका उदाहरणहरू काटेर छुट्याउनुहोस्।",
+      "bt": "Print the table below and cut out and separate the activity examples.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-26-0004",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "You should distribute 2-4 examples to each group.",
+      "ne": "प्रत्येक समूहलाई 2-4 वटा उदाहरण वितरण गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate to distribute 2-4 examples to each group.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": "The direct imperative drops the advisory force of 'should'. The repair expresses a recommendation rather than an unconditional instruction."
+    },
+    {
+      "id": "FAC-26-0005",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "The answer key is on the following page.",
+      "ne": "उत्तरकुञ्जी अर्को पृष्ठमा छ।",
+      "bt": "The answer key is on the next page.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-26-0006",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Orientation meetings for religious leaders on MHPSS well-being and the impact of displacement on the well-being of the community.",
+      "ne": "MHPSS कल्याण र विस्थापनले समुदायको कल्याणमा पार्ने प्रभावबारे धार्मिक अगुवाका लागि अभिमुखीकरण बैठकहरू।",
+      "bt": "Orientation meetings for religious leaders about MHPSS well-being and the impact that displacement has on the community's well-being.",
+      "type": "safety",
+      "terms": [
+        "T014",
+        "T328",
+        "T358",
+        "T344",
+        "T415"
+      ],
+      "flags": [
+        "unclear-english",
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The relationship between MHPSS and well-being in 'MHPSS well-being' is unclear; the draft retains the juxtaposition without inserting 'and'."
+    },
+    {
+      "id": "FAC-26-0007",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Training frontline workers on Psychological First Aid.",
+      "ne": "अग्रपंक्तिका कार्यकर्तालाई [Psychological First Aid] सम्बन्धी तालिम दिने।",
+      "bt": "Provide training on [Psychological First Aid] to frontline workers.",
+      "type": "safety",
+      "terms": [
+        "T013"
+      ],
+      "flags": [],
+      "note": "The named approach retains its exact source spelling and capitalization in brackets and is not rendered as psychotherapy."
+    },
+    {
+      "id": "FAC-26-0008",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Using social media to share key messages on common stress reactions in emergencies and positive coping skills.",
+      "ne": "आपत्कालीन अवस्थामा तनावप्रति प्रायः देखिने प्रतिक्रियाहरू र सकारात्मक रूपमा कठिनाइको सामना गर्ने सीपबारे मुख्य सन्देशहरू साझा गर्न सामाजिक सञ्जाल प्रयोग गर्ने।",
+      "bt": "Use social media to share key messages about commonly seen reactions to stress in emergencies and skills for coping positively with difficulties.",
+      "type": "safety",
+      "terms": [
+        "T131",
+        "T253",
+        "T456",
+        "T489"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft retains common occurrence and positive coping skills without presenting either as a diagnosis or named therapy."
+    },
+    {
+      "id": "FAC-26-0009",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Support a disability rights group by helping them design a session on stress management and coping with discrimination.",
+      "ne": "अपाङ्गता अधिकार समूहलाई तनाव व्यवस्थापन र भेदभावको सामना गर्ने विषयमा सत्रको रूपरेखा तयार गर्न मद्दत गरेर सहयोग गर्नुहोस्।",
+      "bt": "Support disability rights groups by helping them prepare a session outline on stress management and coping with discrimination.",
+      "type": "safety",
+      "terms": [
+        "T424",
+        "T513"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The disability rights group remains the recipient of help with designing the session; stress management is drafted as a general topic."
+    },
+    {
+      "id": "FAC-26-0010",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Nutrition workers provide home-visits to support new mothers with breastfeeding.",
+      "ne": "पोषण कार्यकर्ताले भर्खरै आमा बनेका महिलालाई स्तनपानमा सहयोग गर्न घरमै भेटघाट गर्छन्।",
+      "bt": "Nutrition workers make home visits to support women who have recently become mothers with breastfeeding.",
+      "type": "general",
+      "terms": [
+        "T030"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-26-0011",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "During the visits, they help the parents to practice responsive caregiving e.g.. providing emotional and physical stimulation to the baby by spending time talking to the baby, smiling and making eye contact, responding appropriately to the baby’s sounds and movements, playing games together, and making toys out of local materials.",
+      "ne": "भेटघाटका क्रममा उनीहरूले आमाबुबालाई बालबालिकाका आवश्यकता र सङ्केतअनुसार गरिने स्याहारको अभ्यास गर्न मद्दत गर्छन्, उदाहरणका लागि शिशुसँग कुराकानी गर्दै समय बिताएर, मुस्कुराएर र आँखामा आँखा जुधाएर, शिशुका आवाज र चालमा उपयुक्त प्रतिक्रिया दिएर, सँगै खेल खेलेर र स्थानीय सामग्रीबाट खेलौना बनाएर शिशुलाई भावनात्मक तथा शारीरिक रूपमा उत्प्रेरित गर्ने।",
+      "bt": "During the visits, they help parents practice care according to children's needs and signals, for example, stimulating the infant emotionally and physically by spending time talking with the infant, smiling and making eye contact, responding appropriately to the infant's sounds and movements, playing games together and making toys from local materials.",
+      "type": "general",
+      "terms": [
+        "T083"
+      ],
+      "flags": [],
+      "note": "T083 is reused for responsive caregiving. This is a nonclinical description of caregiving activities; language and domain review remain pending."
+    },
+    {
+      "id": "FAC-26-0012",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Child Friendly Space facilitators provide structured recreational activities to support children’s emotional well-being.",
+      "ne": "बालमैत्री स्थलका सहजीकरणकर्ता बालबालिकाको भावनात्मक कल्याणमा सहयोग गर्न संरचित मनोरञ्जनात्मक गतिविधिहरू सञ्चालन गर्छन्।",
+      "bt": "Facilitators of child-friendly spaces conduct structured recreational activities to support children's emotional well-being.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T081",
+        "T328",
+        "T341"
+      ],
+      "flags": [],
+      "note": "Emotional well-being is used here as ordinary nonclinical wording, not as a diagnostic term."
+    },
+    {
+      "id": "FAC-26-0013",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "In community centers, caregivers are invited to participate in orientations on how to support children displaying signs of distress.",
+      "ne": "समुदायका केन्द्रहरूमा, व्यथाका सङ्केत देखाइरहेका बालबालिकालाई कसरी सहयोग गर्ने भन्नेबारे अभिमुखीकरणमा भाग लिन हेरचाहकर्ताहरूलाई आमन्त्रण गरिन्छ।",
+      "bt": "At community centers, caregivers are invited to participate in an orientation about how to support children who are showing signs of distress.",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T014",
+        "T344",
+        "T461"
+      ],
+      "flags": [],
+      "note": "Signs of distress remain an observation about children and are not replaced with impaired functioning or a diagnosis."
+    },
+    {
+      "id": "FAC-26-0014",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Teachers are trained on how to support the mental health and psychosocial well-being of children living with disabilities in times of conflict.",
+      "ne": "द्वन्द्वका समयमा अपाङ्गता भएका बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा कसरी सहयोग गर्ने भन्ने विषयमा शिक्षकलाई तालिम दिइन्छ।",
+      "bt": "Teachers are trained on how to support the mental health and psychosocial well-being of children with disabilities during conflict.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being reuse T157 and T005 as unreviewed candidates; no clinical validation is claimed."
+    },
+    {
+      "id": "FAC-26-0015",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Deliver a curriculum of 6 sessions for a group of women in a Women and Girl’s Safe Space on coping with the emotional impact of displacement, stress management techniques, peer support, and creating self-help groups.",
+      "ne": "महिला तथा बालिकाका लागि सुरक्षित स्थानमा महिलाहरूको समूहलाई विस्थापनको भावनात्मक प्रभावको सामना गर्ने, तनाव व्यवस्थापनका प्रविधि, सहकर्मी सहयोग र स्वसहयोग समूहहरू सिर्जना गर्ने विषय समेटिएको 6 सत्रको पाठ्यक्रम सञ्चालन गर्नुहोस्।",
+      "bt": "Conduct a 6-session course for a group of women in a safe space for women and girls, covering coping with the emotional impact of displacement, stress management techniques, peer support and creating self-help groups.",
+      "type": "safety",
+      "terms": [
+        "T358",
+        "T513",
+        "T279",
+        "T423",
+        "T424"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft preserves the women participants, the women-and-girls safe-space setting, all four curriculum topics and the count of 6 sessions."
+    },
+    {
+      "id": "FAC-26-0016",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "A dedicated training for primary health workers on supporting refugees with mental health problems, with follow-up supportive supervision sessions.",
+      "ne": "मानसिक स्वास्थ्य समस्या भएका शरणार्थीलाई सहयोग गर्ने विषयमा प्राथमिक स्वास्थ्यकर्मीका लागि छुट्टै तालिम, त्यसपछि सहयोगात्मक सुपरिवेक्षणका सत्रहरू।",
+      "bt": "Separate training for primary health workers on supporting refugees with mental health problems, followed by sessions of supportive supervision.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T287",
+        "T309",
+        "T424"
+      ],
+      "flags": [],
+      "note": "The draft retains primary health workers as the training audience, refugees with mental health problems as the supported population, and follow-up supportive supervision."
+    },
+    {
+      "id": "FAC-26-0017",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Sexual and Reproductive Health providers integrate MHPSS support into their clinical care for survivors of sexual violence and IPV.",
+      "ne": "यौन तथा प्रजनन स्वास्थ्य सेवा प्रदायकहरूले यौन हिंसा र IPV का प्रभावित व्यक्तिहरूलाई प्रदान गर्ने आफ्नो चिकित्सकीय हेरचाहमा MHPSS सहयोग एकीकृत गर्छन्।",
+      "bt": "Sexual and reproductive health service providers integrate MHPSS support into the clinical care they provide to people affected by sexual violence and IPV.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T508",
+        "T299",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen label 'प्रभावित व्यक्तिहरू' means affected persons and can include indirectly affected people, whereas 'survivors' here denotes people who directly experienced and survived sexual violence and IPV; the draft uses the required frozen label for that source population. bt-divergence: The frozen label 'प्रभावित व्यक्तिहरू' denotes affected persons and can include indirectly affected people; source 'survivors' denotes people who directly experienced and survived sexual violence and IPV. The frozen form is retained unchanged."
+    },
+    {
+      "id": "FAC-26-0018",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Lay counselors provide Thinking Healthy, a scalable psychological intervention, for mothers presenting with signs of postpartum depression.",
+      "ne": "गैरपेशेवर परामर्शदाताहरूले [postpartum depression] का सङ्केत देखिएका आमाहरूलाई विस्तार गर्न सकिने मनोवैज्ञानिक हस्तक्षेप [Thinking Healthy] प्रदान गर्छन्।",
+      "bt": "Non-professional counselors provide the scalable psychological intervention [Thinking Healthy] to mothers who have shown signs of [postpartum depression].",
+      "type": "safety",
+      "terms": [
+        "T295"
+      ],
+      "flags": [],
+      "note": "The named intervention and diagnosis remain in exact source English; the draft retains lay providers and signs of the condition rather than asserting a confirmed diagnosis."
+    },
+    {
+      "id": "FAC-26-0019",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Protection case workers provide MHPSS support to a displaced person who has expressed suicidal thoughts.",
+      "ne": "संरक्षणका केस कार्यकर्ताहरूले आत्महत्याका विचार व्यक्त गरेका एक विस्थापित व्यक्तिलाई MHPSS सहयोग प्रदान गर्छन्।",
+      "bt": "Protection case workers provide MHPSS support to a displaced person who has expressed suicidal thoughts.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T202"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The condition remains expressed suicidal thoughts, not a suicide attempt or a diagnosis, and the recipient remains one displaced person."
+    },
+    {
+      "id": "FAC-26-0020",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Visit psychiatric hospitals and ensure that residents who are GBV survivors have access to GBV services.",
+      "ne": "मानसिक अस्पताल भ्रमण गर्नुहोस् र त्यहाँ बसोबास गर्ने GBV बाट प्रभावित व्यक्तिहरूका लागि GBV सेवामा पहुँच सुनिश्चित गर्नुहोस्।",
+      "bt": "Visit a mental hospital and ensure access to GBV services for people affected by GBV who reside there.",
+      "type": "safety",
+      "terms": [
+        "T015",
+        "T139"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "T015 and T139 are reused as unreviewed candidates. This is general safety guidance, not a verbatim safeguarding declaration; safety and domain review are pending. 'Have gained access' introduces completed acquisition of access, whereas the source requires ensuring that resident GBV survivors have access. The repair removes that completion requirement and retains the supplied institutional and survivor terms. The back-translation changes plural psychiatric hospitals to a single mental hospital and broadens the eligible residents from GBV survivors to people affected by GBV."
+    },
+    {
+      "id": "FAC-26-0021",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "After an Ebola outbreak, all health front line workers from clinics where patients with Ebola are referred and put in isolation have been trained on identification of MHPSS conditions and basic support skills.",
+      "ne": "[Ebola] को प्रकोपपछि, [Ebola] भएका बिरामीलाई प्रेषण गरी अलग्गै राखिने क्लिनिकहरूका स्वास्थ्य सेवामा संलग्न सबै अग्रपंक्तिका कार्यकर्ताहरूले MHPSS सम्बन्धी अवस्थाहरू पहिचान गर्ने र आधारभूत सहयोग गर्ने सीपसम्बन्धी तालिम लिइसकेका छन्।",
+      "bt": "Following the [Ebola] outbreak, all frontline workers involved in health services at clinics where patients with [Ebola] are referred and kept separately have already received training in skills for identifying MHPSS-related conditions and providing basic support.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T013"
+      ],
+      "flags": [],
+      "note": "The draft preserves all eligible frontline workers, the referral-and-isolation clinic condition, and completed training; the disease name remains in exact source English."
+    },
+    {
+      "id": "FAC-26-0022",
+      "page": "85",
+      "loc": "para",
+      "section": "Activity Example Cards",
+      "en": "Provide basic MHPSS support to people detained in a detention center for migrants.",
+      "ne": "प्रवासीका लागि रहेको हिरासत केन्द्रमा थुनिएका व्यक्तिहरूलाई आधारभूत MHPSS सहयोग प्रदान गर्नुहोस्।",
+      "bt": "Provide basic MHPSS support to people detained in a detention centre for migrants.",
+      "type": "general",
+      "terms": [
+        "T269",
+        "T219"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-26-0023",
+      "page": "86",
+      "loc": "heading",
+      "section": "Activity Example Cards",
+      "en": "ANSWER KEY",
+      "ne": "उत्तरकुञ्जी",
+      "bt": "Answer key",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-26-0024",
+      "page": "86",
+      "loc": "table-head",
+      "section": "Activity Example Cards",
+      "en": "MSP Activities",
+      "ne": "MSP गतिविधिहरू",
+      "bt": "MSP activities",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-26-0025",
+      "page": "86",
+      "loc": "table-head",
+      "section": "Activity Example Cards",
+      "en": "MHPSS Activity Example",
+      "ne": "MHPSS गतिविधिको उदाहरण",
+      "bt": "Example of an MHPSS activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-26-0026",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "ne": "3.1 मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने र MHPSS सम्बन्धी विचारणीय पक्ष तथा कार्यका लागि पैरवी गर्ने।",
+      "bt": "3.1 Orient humanitarian actors and community members about MHPSS and advocate for MHPSS-related considerations and actions.",
+      "type": "activity",
+      "terms": [
+        "T098",
+        "T344"
+      ],
+      "flags": [],
+      "note": "The supplied activity-label candidate T098 is retained verbatim apart from the final danda; it remains unreviewed."
+    },
+    {
+      "id": "FAC-26-0027",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Orientation meetings for religious leaders on MHPSS wellbeing and the impact of displacement on the well-being of the community.",
+      "ne": "MHPSS कल्याण र विस्थापनले समुदायको कल्याणमा पार्ने प्रभावबारे धार्मिक अगुवाका लागि अभिमुखीकरण बैठकहरू।",
+      "bt": "Orientation meetings for religious leaders about MHPSS well-being and the impact that displacement has on the community's well-being.",
+      "type": "safety",
+      "terms": [
+        "T014",
+        "T328",
+        "T358",
+        "T344",
+        "T415"
+      ],
+      "flags": [
+        "unclear-english",
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The relationship between MHPSS and wellbeing in 'MHPSS wellbeing' is unclear; the draft retains the juxtaposition without inserting 'and'."
+    },
+    {
+      "id": "FAC-26-0028",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "ne": "3.2 अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने।",
+      "bt": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills.",
+      "type": "activity",
+      "terms": [
+        "T099",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The supplied activity-label candidate T099 is retained verbatim apart from the final danda. Its psychosocial wording is an existing unreviewed candidate, not validated terminology."
+    },
+    {
+      "id": "FAC-26-0029",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Training frontline workers on Psychological First Aid.",
+      "ne": "अग्रपंक्तिका कार्यकर्ताहरूलाई [Psychological First Aid] सम्बन्धी तालिम दिने।",
+      "bt": "Train frontline workers in [Psychological First Aid].",
+      "type": "safety",
+      "terms": [
+        "T013"
+      ],
+      "flags": [],
+      "note": "The named approach is retained exactly in English without equating it with psychotherapy."
+    },
+    {
+      "id": "FAC-26-0030",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.3 Disseminate key messages to promote mental health and psychosocial well-being",
+      "ne": "3.3 मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मुख्य सन्देशहरू प्रसार गर्ने।",
+      "bt": "3.3 Disseminate key messages to promote mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T100",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The supplied activity-label candidate T100 is retained verbatim apart from the final danda. Its clinical wording remains an unreviewed prior candidate."
+    },
+    {
+      "id": "FAC-26-0031",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Using social media to share key messages on common stress reactions in emergencies and positive coping skills.",
+      "ne": "आपत्कालीन अवस्थामा तनावप्रति प्रायः देखिने प्रतिक्रियाहरू र सकारात्मक रूपमा कठिनाइको सामना गर्ने सीपबारे मुख्य सन्देशहरू साझा गर्न सामाजिक सञ्जाल प्रयोग गर्ने।",
+      "bt": "Use social media to share key messages about commonly seen reactions to stress in emergencies and skills for coping positively with difficulties.",
+      "type": "safety",
+      "terms": [
+        "T131",
+        "T253",
+        "T456",
+        "T458",
+        "T489"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied candidates cover both common stress reactions and positive coping skills; neither is presented as a diagnosis or named therapy."
+    },
+    {
+      "id": "FAC-26-0032",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.4 Support new and pre-existing group-based community MHPSS activities",
+      "ne": "3.4 नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने।",
+      "bt": "3.4 Support new and already operating group-based community MHPSS activities.",
+      "type": "activity",
+      "terms": [
+        "T101"
+      ],
+      "flags": [],
+      "note": "The supplied activity-label candidate T101 is retained verbatim apart from the final danda; review remains pending."
+    },
+    {
+      "id": "FAC-26-0033",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Support a disability rights group by helping them design a session on stress management and coping with discrimination.",
+      "ne": "अपाङ्गता भएका व्यक्तिहरूको अधिकारका लागि काम गर्ने समूहलाई तनाव व्यवस्थापन र भेदभावको सामना गर्ने विषयमा सत्रको रूपरेखा तयार गर्न मद्दत गरेर सहयोग गर्नुहोस्।",
+      "bt": "Support a group working for the rights of persons with disabilities by helping it prepare a session outline on stress management and coping with discrimination.",
+      "type": "safety",
+      "terms": [
+        "T424",
+        "T513"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Stress management and coping with discrimination remain two topics in the session design, not named therapies."
+    },
+    {
+      "id": "FAC-26-0034",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "ne": "3.5 साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास (ECD) गतिविधि प्रदान गर्ने।",
+      "bt": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers.",
+      "type": "activity",
+      "terms": [
+        "T102"
+      ],
+      "flags": [],
+      "note": "Reuses the cited unreviewed activity candidate T102."
+    },
+    {
+      "id": "FAC-26-0035",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Nutrition workers provide home-visits to support new mothers with breastfeeding. During the visits, they help the parents to practice responsive caregiving e.g.. providing emotional and physical stimulation to the baby by spending time talking to the baby, smiling and making eye contact, responding appropriately to the baby’s sounds and movements, playing games together, and making toys out of local materials.",
+      "ne": "पोषण कार्यकर्ताले नयाँ आमाहरूलाई स्तनपानमा सहयोग गर्न घरभेट गर्छन्। घरभेटका क्रममा उनीहरूले अभिभावकलाई बालबालिकाका आवश्यकता र सङ्केतअनुसार गरिने स्याहारको अभ्यास गर्न मद्दत गर्छन्। उदाहरणका लागि, शिशुसँग कुरा गर्न समय बिताउने, मुस्कुराउने र आँखामा आँखा जुधाउने, शिशुका आवाज र चालअनुसार उपयुक्त प्रतिक्रिया दिने, सँगै खेल खेल्ने र स्थानीय सामग्रीबाट खेलौना बनाउने कार्यमार्फत शिशुलाई भावनात्मक तथा शारीरिक उत्प्रेरणा दिन मद्दत गर्छन्।",
+      "bt": "Nutrition workers make home visits to support new mothers with breastfeeding. During home visits, they help parents practise care according to children's needs and signals. For example, they help provide emotional and physical stimulation to the infant through spending time talking to the infant, smiling and making eye contact, responding appropriately according to the infant's sounds and movements, playing games together and making toys from local materials.",
+      "type": "general",
+      "terms": [
+        "T030",
+        "T083"
+      ],
+      "flags": [],
+      "note": "Drafts ordinary home-visiting and caregiving content, retaining all examples. Uses the supplied responsive-care candidate T083; language and developmental-context review remain pending."
+    },
+    {
+      "id": "FAC-26-0036",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "3.6 बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने।",
+      "bt": "3.6 Provide group activities for children's mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the cited unreviewed activity candidate T103."
+    },
+    {
+      "id": "FAC-26-0037",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Child Friendly Space facilitators provide structured recreational activities to support children’s emotional well-being.",
+      "ne": "बालमैत्री स्थलका सहजीकरणकर्ता बालबालिकाको भावनात्मक कल्याणमा सहयोग गर्न संरचित मनोरञ्जनात्मक गतिविधि सञ्चालन गर्छन्।",
+      "bt": "Facilitators of child-friendly spaces conduct structured recreational activities to support children's emotional well-being.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T081",
+        "T328",
+        "T341"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Treats recreational provision and emotional well-being as ordinary nonclinical content. Proposes Child Friendly Space as [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for glossary review; this is not a frozen glossary entry."
+    },
+    {
+      "id": "FAC-26-0038",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.7 Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children",
+      "ne": "3.7 हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.7 Promote caregivers' mental health and psychosocial well-being and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T104",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the cited unreviewed activity candidate T104."
+    },
+    {
+      "id": "FAC-26-0039",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "In community centers, caregivers are invited to participate in orientations on how to support children displaying signs of distress.",
+      "ne": "समुदायका केन्द्रहरूमा, व्यथाका सङ्केत देखाइरहेका बालबालिकालाई कसरी सहयोग गर्ने भन्ने विषयका अभिमुखीकरणमा सहभागी हुन हेरचाहकर्ताहरूलाई आमन्त्रण गरिन्छ।",
+      "bt": "At community centres, caregivers are invited to participate in orientations on how to support children who are showing signs of distress.",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T014",
+        "T344",
+        "T461"
+      ],
+      "flags": [],
+      "note": "Signs of distress are retained without substituting impaired daily functioning or a diagnosed condition."
+    },
+    {
+      "id": "FAC-26-0040",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "ne": "3.8 शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.8 Promote the mental health and psychosocial well-being of education sector staff and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T105",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the cited unreviewed activity candidate T105."
+    },
+    {
+      "id": "FAC-26-0041",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Teachers are trained on how to support the mental health and psychosocial well-being of children living with disabilities in times of conflict.",
+      "ne": "शिक्षकहरूलाई द्वन्द्वको समयमा अपाङ्गता भएका बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा कसरी सहयोग गर्ने भन्ने विषयमा तालिम दिइन्छ।",
+      "bt": "Teachers are given training on how to support the mental health and psychosocial well-being of children with disabilities during conflict.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reclassifies the provisional check row as ordinary training content. Mental-health and psychosocial well-being wording reuses supplied unreviewed candidates T157 and T005; no new clinical technique is introduced."
+    },
+    {
+      "id": "FAC-26-0042",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.9 Provide MHPSS through women and girls safe spaces",
+      "ne": "3.9 महिला तथा किशोरीका लागि सुरक्षित स्थलमार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.9 Provide MHPSS through safe spaces for women and adolescent girls.",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T106"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label uses किशोरी, meaning adolescent girls, while the source says girls without an adolescent-only restriction; the frozen wording therefore narrows the population. bt-divergence: The frozen activity label specifies adolescent girls, while the source says girls without an age restriction. The frozen form is retained."
+    },
+    {
+      "id": "FAC-26-0043",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Deliver a curriculum of 6 sessions for a group of women in a Women and Girl’s Safe Space on coping with the emotional impact of displacement, stress management techniques, peer support, and creating self-help groups.",
+      "ne": "महिला तथा किशोरीका लागि सुरक्षित स्थलमा महिलाहरूको एउटा समूहका लागि 6 सत्रको पाठ्यक्रम सञ्चालन गर्नुहोस्, जसमा विस्थापनको भावनात्मक प्रभावको सामना गर्ने, तनाव व्यवस्थापनका तरिका, सहकर्मी सहयोग र स्वसहयोग समूहहरू बनाउने विषय समेटिएका छन्।",
+      "bt": "Conduct a 6-session curriculum for a group of women in a safe space for women and adolescent girls, covering coping with the emotional impact of displacement, methods of stress management, peer support and forming self-help groups.",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T279",
+        "T358",
+        "T423",
+        "T424",
+        "T513"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "All four curriculum topics and the 6 sessions are retained; the frozen venue label uses किशोरी, meaning adolescent girls, whereas the source venue name does not restrict girls to adolescence. bt-divergence: The frozen venue label specifies adolescent girls, while the source venue name says girls without an adolescent-only restriction. The women participating, 6 sessions and all four curriculum topics are preserved. The frozen form is retained."
+    },
+    {
+      "id": "FAC-26-0044",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.10 Provide mental health care as part of general health services",
+      "ne": "3.10 सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने।",
+      "bt": "3.10 Provide mental health services as part of general health services.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T107",
+        "T157"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label renders mental health care as मानसिक स्वास्थ्य सेवा, meaning mental health services, rather than explicitly retaining care; this may alter the intended care scope. bt-divergence: The frozen activity label renders mental health care as mental health services, replacing the source's explicit care category with a service category. The frozen form is retained."
+    },
+    {
+      "id": "FAC-26-0045",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "A dedicated training for primary health workers on supporting refugees with mental health problems, with follow-up supportive supervision sessions.",
+      "ne": "प्राथमिक स्वास्थ्यकर्मीहरूका लागि मानसिक स्वास्थ्य समस्या भएका शरणार्थीहरूलाई सहयोग गर्ने विषयमा छुट्टै तालिम, अनुवर्ती सहयोगमूलक सुपरिवेक्षणका सत्रहरूसहित।",
+      "bt": "Separate training for primary health workers on supporting refugees with mental health problems, with follow-up supportive supervision sessions.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T287",
+        "T309",
+        "T424"
+      ],
+      "flags": [],
+      "note": "The draft retains primary health workers, refugees with mental health problems and follow-up supportive supervision sessions."
+    },
+    {
+      "id": "FAC-26-0046",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "ne": "3.11 यौन हिंसा तथा घनिष्ठ साथीद्वारा हुने हिंसाबाट प्रभावितहरूको क्लिनिकल हेरचाहको अङ्गका रूपमा MHPSS प्रदान गर्ने।",
+      "bt": "3.11 Provide MHPSS as part of clinical care for those affected by sexual violence and violence by an intimate partner.",
+      "type": "safety",
+      "terms": [
+        "T009",
+        "T055",
+        "T108",
+        "T299"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label describes people affected by the violence, which can include indirectly affected people, while the source specifies survivors who directly experienced and survived it. bt-divergence: The frozen activity label says people affected by sexual violence and intimate partner violence, which can include indirectly affected people; the source specifies survivors who directly experienced and survived the violence. The frozen form is retained."
+    },
+    {
+      "id": "FAC-26-0047",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Sexual and Reproductive Health service providers integrate MHPSS support into their clinical care for survivors of sexual violence and IPV.",
+      "ne": "यौन तथा प्रजनन स्वास्थ्य सेवा प्रदायकहरूले यौन हिंसा र IPV बाट प्रभावित व्यक्तिहरूलाई प्रदान गर्ने आफ्नो क्लिनिकल हेरचाहमा MHPSS सहयोग समावेश गर्छन्।",
+      "bt": "Sexual and reproductive health service providers include MHPSS support in their clinical care provided to people affected by sexual violence and IPV.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T299",
+        "T317",
+        "T508"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen population wording प्रभावित व्यक्तिहरू means affected persons and can include indirectly affected people, whereas the source specifies survivors; MHPSS and IPV are retained exactly. bt-divergence: The frozen population label means affected persons and can include indirectly affected people, whereas the source specifies survivors who directly experienced and survived sexual violence and IPV. The frozen form is retained."
+    },
+    {
+      "id": "FAC-26-0048",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.12 Initiate or strengthen the provision of psychological interventions",
+      "ne": "3.12 मनोवैज्ञानिक हस्तक्षेपहरूको व्यवस्था सुरु गर्ने वा सुदृढ गर्ने।",
+      "bt": "3.12 Initiate or strengthen the provision of psychological interventions.",
+      "type": "activity",
+      "terms": [
+        "T109"
+      ],
+      "flags": [],
+      "note": "Reuses the cited unreviewed activity candidate T109 without creating a new clinical expression."
+    },
+    {
+      "id": "FAC-26-0049",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Lay counselors provide Thinking Healthy, a scalable psychological intervention, for mothers presenting with signs of postpartum depression.",
+      "ne": "गैर-पेशागत परामर्शदाताहरूले [postpartum depression] का लक्षण देखिएका आमाहरूलाई विस्तार गर्न सकिने मनोवैज्ञानिक हस्तक्षेप [Thinking Healthy] प्रदान गर्छन्।",
+      "bt": "Non-professional counsellors provide the scalable psychological intervention [Thinking Healthy] to mothers showing symptoms of [postpartum depression].",
+      "type": "safety",
+      "terms": [
+        "T295"
+      ],
+      "flags": [],
+      "note": "Both names remain exact English; eligibility is based on presenting signs rather than a confirmed diagnosis, and the providers remain lay counselors."
+    },
+    {
+      "id": "FAC-26-0050",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.13 Provide MHPSS through case management services",
+      "ne": "3.13 केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.13 Provide MHPSS through case management services.",
+      "type": "activity",
+      "terms": [
+        "T110"
+      ],
+      "flags": [],
+      "note": "Reuses the cited unreviewed activity candidate T110."
+    },
+    {
+      "id": "FAC-26-0051",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Protection case workers provide MHPSS support to a displaced person who has expressed suicidal thoughts.",
+      "ne": "संरक्षणका केस कार्यकर्ताहरूले आत्महत्या गर्ने विचार व्यक्त गरेका एक जना विस्थापित व्यक्तिलाई MHPSS सहयोग प्रदान गर्छन्।",
+      "bt": "Protection case workers provide MHPSS support to one displaced person who has expressed thoughts of suicide.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T202"
+      ],
+      "flags": [],
+      "note": "The condition remains expressed suicidal thoughts, without adding an attempt, intent or diagnosis."
+    },
+    {
+      "id": "FAC-26-0052",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "ne": "3.14 मानसिक अस्पताल तथा अन्य संस्थामा रहेका व्यक्तिहरूको संरक्षण र हेरचाह गर्ने।",
+      "bt": "3.14 Protect and care for people in mental hospitals and other institutions.",
+      "type": "activity",
+      "terms": [
+        "T111"
+      ],
+      "flags": [],
+      "note": "Reuses the cited unreviewed activity candidate T111, including its existing institutional terminology."
+    },
+    {
+      "id": "FAC-26-0053",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Visit psychiatric hospitals and ensure that residents who are GBV survivors have access to GBV services.",
+      "ne": "मानसिक अस्पतालहरूको भ्रमण गर्नुहोस् र त्यहाँ बस्ने GBV बाट प्रभावित व्यक्तिहरूको GBV सेवामा पहुँच भएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Visit mental hospitals and ensure that persons affected by GBV living there have access to GBV services.",
+      "type": "safety",
+      "terms": [
+        "T015",
+        "T139",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen population label means people affected by GBV and may include indirectly affected people, whereas the source specifies residents who directly experienced and survived GBV. bt-divergence: The frozen label GBV बाट प्रभावित व्यक्तिहरू means persons affected by GBV and can include indirectly affected people, whereas the source restricts access assurance to residents who directly experienced and survived GBV. The frozen form is retained."
+    },
+    {
+      "id": "FAC-26-0054",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "ne": "4.1 सरुवा रोगको क्लिनिकल केस व्यवस्थापनमा MHPSS सम्बन्धी विचारणीय पक्ष र सहयोग एकीकृत गर्ने।",
+      "bt": "4.1 Integrate MHPSS-related considerations and support into the clinical case management of communicable disease.",
+      "type": "safety",
+      "terms": [
+        "T112",
+        "T118",
+        "T242"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label uses सरुवा रोग, meaning communicable diseases, whereas the source specifies infectious diseases; these categories are not necessarily coextensive. bt-divergence: The frozen activity label uses सरुवा रोग, meaning communicable diseases, whereas the source specifies infectious diseases, which also include infections not transmitted between people. The frozen form is retained."
+    },
+    {
+      "id": "FAC-26-0055",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "After an Ebola outbreak, all health front line workers from clinics where patients with Ebola are referred and put in isolation have been trained on identification of MHPSS conditions and basic support skills.",
+      "ne": "[Ebola] को प्रकोपपछि, [Ebola] भएका बिरामीहरूलाई पठाइने र अलग राखिने क्लिनिकहरूमा अग्रपङ्क्तिमा काम गर्ने सबै स्वास्थ्यकर्मीहरूलाई MHPSS सम्बन्धी अवस्थाहरूको पहिचान र आधारभूत सहयोगका सीपसम्बन्धी तालिम दिइएको छ।",
+      "bt": "After the outbreak of [Ebola], all health workers working on the front line in clinics where patients with [Ebola] are sent and kept isolated have been given training in skills for identifying MHPSS-related conditions and providing basic support.",
+      "type": "safety",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": "The draft retains completed training, all frontline health workers, the referral-and-isolation setting and both training components."
+    },
+    {
+      "id": "FAC-26-0056",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "4.2 Provide MHPSS to persons deprived of their liberty",
+      "ne": "4.2 स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई MHPSS प्रदान गर्ने।",
+      "bt": "4.2 Provide MHPSS to people deprived of liberty.",
+      "type": "activity",
+      "terms": [],
+      "flags": [],
+      "note": "Uses the ordinary liberty-deprivation wording supplied in activity 4.2 while preserving the source acronym MHPSS. The full T113 label is not reproduced literally and is therefore not listed."
+    },
+    {
+      "id": "FAC-26-0057",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Activity Example Cards",
+      "en": "Provide basic MHPSS support to people detained in a detention center for migrants.",
+      "ne": "प्रवासीका लागि रहेको हिरासत केन्द्रमा थुनिएका व्यक्तिहरूलाई आधारभूत MHPSS सहयोग प्रदान गर्ने।",
+      "bt": "Provide basic MHPSS support to people detained in a detention centre for migrants.",
+      "type": "general",
+      "terms": [
+        "T269",
+        "T219"
+      ],
+      "flags": [],
+      "note": "Translates ordinary service-provision content using the supplied migrant and detention candidates. Preserves the migrant detention-center setting and the basic level of MHPSS support."
+    }
+  ]
+}

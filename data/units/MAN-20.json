@@ -1,0 +1,525 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-20",
+  "unit_title": "Provide group activities for children’s mental health and psychosocial well-being",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "62-63",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:45:29+05:45",
+  "coverage": {
+    "source_words": 789,
+    "row_words": 789,
+    "skipped": [
+      "PDF p.62: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 57",
+      "PDF p.63: running footer/page number removed: 58 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-20-0001",
+      "page": "62",
+      "loc": "heading",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "3.6 बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने",
+      "bt": "3.6 Provide group activities for children's mental health and psychosocial well-being",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Activity label reused verbatim from the cited unreviewed candidate."
+    },
+    {
+      "id": "MAN-20-0002",
+      "page": "62",
+      "loc": "para",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Play and positive social interactions are crucial to a child’s social, emotional, physical and cognitive development.",
+      "ne": "खेल तथा सकारात्मक सामाजिक अन्तरक्रिया बालबालिकाको सामाजिक, भावनात्मक, शारीरिक तथा संज्ञानात्मक विकासका लागि अत्यन्त महत्त्वपूर्ण हुन्छन्।",
+      "bt": "Play and positive social interaction are extremely important for children's social, emotional, physical and cognitive development.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary child-development content; no new clinical terminology introduced."
+    },
+    {
+      "id": "MAN-20-0003",
+      "page": "62",
+      "loc": "para",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Emergencies greatly disrupt opportunities for these experiences and interrupt routines that afford a sense of security, normality and predictability.",
+      "ne": "आपत्कालीन अवस्थाले यस्ता अनुभव प्राप्त गर्ने अवसरहरूमा ठूलो अवरोध पुर्‍याउँछ र सुरक्षा, सामान्य अवस्था तथा आगामी परिस्थितिको पूर्वानुमान गर्न सकिने अनुभूति दिने दिनचर्यामा बाधा पुर्‍याउँछ।",
+      "bt": "Emergency situations greatly obstruct opportunities to obtain such experiences and disrupt routines that give a sense of safety, normality and being able to predict upcoming circumstances.",
+      "type": "general",
+      "terms": [
+        "T131"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0004",
+      "page": "62",
+      "loc": "para",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Facilitating regular recreational and structured group activities50 in safe environments51 can provide a sense of routine and stability and provide opportunities for children to play, to develop social and emotional skills and to foster supportive social connections.52",
+      "ne": "सुरक्षित वातावरणमा51 नियमित मनोरञ्जनात्मक तथा संरचित सामूहिक गतिविधिहरू50 सञ्चालन गर्न सहजीकरण गर्दा नियमितता र स्थिरताको अनुभूति दिन तथा बालबालिकालाई खेल्न, सामाजिक र भावनात्मक सीप विकास गर्न र सहयोगी सामाजिक सम्बन्ध बढाउन अवसर प्रदान गर्न सकिन्छ।52",
+      "bt": "Facilitating the running of regular recreational and structured group activities50 in a safe environment51 can give a sense of regularity and stability and provide children with opportunities to play, develop social and emotional skills and increase supportive social relationships.52",
+      "type": "general",
+      "terms": [
+        "T081",
+        "T080"
+      ],
+      "flags": [],
+      "note": "Footnote markers 50, 51 and 52 retained. Social and emotional skills are treated as ordinary developmental content."
+    },
+    {
+      "id": "MAN-20-0005",
+      "page": "62",
+      "loc": "para",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Group activities for children are typically implemented by child protection and education actors and integrated into wider protection and education programming.",
+      "ne": "बालबालिकाका लागि सामूहिक गतिविधिहरू सामान्यतया बाल संरक्षण र शिक्षा क्षेत्रमा कार्यरत पक्षहरूद्वारा सञ्चालन गरिन्छन् र संरक्षण तथा शिक्षाका व्यापक कार्यक्रममा एकीकृत गरिन्छन्।",
+      "bt": "Group activities for children are generally run by actors working in the child protection and education sectors and are integrated into broader protection and education programmes.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T130",
+        "T029",
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0006",
+      "page": "62",
+      "loc": "para",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "The activities often have multiple objectives; for example, they may be primarily designed to improve MHPSS, protection, learning, or a combination of these outcomes.",
+      "ne": "यी गतिविधिका प्रायः धेरै उद्देश्य हुन्छन्; उदाहरणका लागि, यिनलाई मुख्यतः MHPSS, संरक्षण, सिकाइ वा यी प्रतिफलको संयोजनमा सुधार ल्याउने गरी तयार गरिएको हुन सक्छ।",
+      "bt": "These activities often have several objectives; for example, they may have been designed primarily to improve MHPSS, protection, learning or a combination of these outcomes.",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0007",
+      "page": "62",
+      "loc": "para",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "For the purposes of the MHPSS MSP, “group activities for children’s mental health and psychosocial well-being” refers to those activities that have an explicit objective related to improving mental health and psychosocial well-being and that measure associated indicators (whether or not they also have other objectives).",
+      "ne": "MHPSS MSP को प्रयोजनका लागि, “बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि” भन्नाले मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सुधार ल्याउने विषयसँग सम्बन्धित स्पष्ट उद्देश्य भएका र त्यससँग सम्बन्धित सूचकहरू मापन गर्ने गतिविधि बुझिन्छ, चाहे तिनका अन्य उद्देश्य पनि होऊन् वा नहोऊन्।",
+      "bt": "For the purposes of the MHPSS MSP, “group activities for children's mental health and psychosocial well-being” means activities that have clear objectives related to improving mental health and psychosocial well-being and measure related indicators, whether or not they also have other objectives.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being wording uses the supplied unreviewed candidates. The source requires an explicit objective related to improving mental health and psychosocial well-being; the Nepali and back-translation narrow this to an explicit objective of improving them. Restored the broader relationship specified in the definition."
+    },
+    {
+      "id": "MAN-20-0008",
+      "page": "62",
+      "loc": "para",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Convening activities for children also provides respite for caregivers, who may be struggling to cope with the pressures of the emergency, and creates opportunities to prioritize and facilitate access for at-risk groups (e.g. children experiencing protection issues, children with developmental disabilities or mental health conditions; see Overview, “How can groups and persons at increased risk be prioritized and reached with MHPSS MSP activities and services?” and Resources on MHPSS for at-risk groups on the MHPSS MSP web platform).",
+      "ne": "बालबालिकाका लागि गतिविधिहरू आयोजना गर्नाले आपत्कालीन परिस्थितिको दबाबको सामना गर्न कठिनाइ भइरहेको हुन सक्ने हेरचाहकर्तालाई पनि केही विश्राम दिन्छ र जोखिममा रहेका समूहलाई प्राथमिकता दिन तथा उनीहरूको पहुँच सहज बनाउन अवसरहरू सिर्जना गर्छ (उदाहरणका लागि, संरक्षणसम्बन्धी समस्या भोगिरहेका बालबालिका, विकासात्मक अपाङ्गता वा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका बालबालिका; झलक खण्डको “MHPSS MSP गतिविधिहरू र सेवाहरूका माध्यमबाट जोखिम बढेको / बढी जोखिममा रहेका समूह र व्यक्तिहरूलाई कसरी प्राथमिकता दिन र उनीहरूसम्म कसरी पुग्न सकिन्छ?” र MHPSS MSP वेब प्लेटफर्ममा जोखिममा रहेका समूहका लागि MHPSS सम्बन्धी स्रोतसामग्री हेर्नुहोस्)।",
+      "bt": "Organizing activities for children also gives some respite to caregivers who may be having difficulty coping with the pressure of the emergency situation and creates opportunities to prioritize groups at risk and facilitate their access (for example, children experiencing protection-related problems, children with developmental disabilities or mental health conditions; see “How can groups and individuals at increased risk / at greater risk be prioritized and reached through MHPSS MSP activities and services?” in the overview section and the resources on MHPSS for groups at risk on the MHPSS MSP web platform).",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T016",
+        "T029",
+        "T157",
+        "T163",
+        "T189",
+        "T272",
+        "T334",
+        "T416",
+        "T453",
+        "T478"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen T453 label includes comparatively higher risk as an alternative, whereas the source reference specifies increased risk only. bt-divergence: The frozen T453 form adds “at higher risk” as an alternative, while the source reference specifies only “at increased risk.” The frozen form is retained unchanged; no other substantive difference was identified."
+    },
+    {
+      "id": "MAN-20-0009",
+      "page": "62",
+      "loc": "footnote",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "50 Structured group activities for child well-being (sometimes known as “guided” or “manualized” programmes) involve a series of facilitated sessions, planned according to a curriculum with explicit MHPSS goals (see relevant guidelines, standards and tools).",
+      "ne": "50 बालबालिकाको कल्याणका लागि संरचित सामूहिक गतिविधिहरूमा स्पष्ट MHPSS लक्ष्यसहितको पाठ्यक्रमअनुसार योजना गरिएका र सहजीकरण गरिने सत्रहरूको शृङ्खला समावेश हुन्छ; यस्ता कार्यक्रमलाई कहिलेकाहीँ “निर्देशित” वा “पुस्तिकामा आधारित” कार्यक्रम पनि भनिन्छ (सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण हेर्नुहोस्)।",
+      "bt": "50 Structured group activities for children's well-being include a series of sessions planned and facilitated according to a curriculum with explicit MHPSS goals; such programmes are sometimes also called “guided” or “manual-based” programmes (see relevant guidelines, standards and tools).",
+      "type": "general",
+      "terms": [
+        "T080",
+        "T019",
+        "T203",
+        "T259",
+        "T328",
+        "T409",
+        "T424"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: child well-being = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The glossary remains unchanged."
+    },
+    {
+      "id": "MAN-20-0010",
+      "page": "62",
+      "loc": "footnote",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "51 The 2012 version of the Child Protection Minimum Standards in Humanitarian Action (CPMS) included “Standard 17: Child Friendly Spaces”. In the 2019 edition, this has been replaced by the broader “Standard 15: Group activities for child well-being”. This reflects the fact that while activities sometimes take place in a fixed space, group activities may also be mobile and be facilitated in varied, rotating accessible locations. Reviews of the evidence on child-friendly spaces have noted that the creation of a safe space alone may have a limited impact, and that the nature and intensity of the activities facilitated, and the relationships established between facilitators and children, appear to be crucial in determining efficacy.",
+      "ne": "51 मानवीय कार्यमा बाल संरक्षणसम्बन्धी न्यूनतम मापदण्ड (CPMS) को 2012 संस्करणमा “मापदण्ड 17: बालमैत्री स्थल” समावेश थियो। 2019 संस्करणमा यसको सट्टा अझ व्यापक “मापदण्ड 15: बालबालिकाको कल्याणका लागि सामूहिक गतिविधि” राखिएको छ। यसले गतिविधिहरू कहिलेकाहीँ निश्चित स्थलमा सञ्चालन भए पनि सामूहिक गतिविधिहरू घुम्ती रूपमा पनि सञ्चालन गर्न सकिने र फरकफरक पहुँचयोग्य स्थानमा पालैपालो सहजीकरण गर्न सकिने तथ्यलाई प्रतिबिम्बित गर्छ। बालमैत्री स्थलबारे उपलब्ध प्रमाणको समीक्षाले सुरक्षित स्थल स्थापना गर्नुको मात्र प्रभाव सीमित हुन सक्ने र प्रभावकारिता निर्धारण गर्न सहजीकरण गरिएका गतिविधिको प्रकृति र सघनता तथा सहजीकरणकर्ता र बालबालिकाबीच स्थापित सम्बन्ध निर्णायक देखिने कुरा औँल्याएका छन्।",
+      "bt": "51 The 2012 edition of the Minimum Standards for Child Protection in Humanitarian Action (CPMS) included “Standard 17: Child-friendly spaces”. In the 2019 edition, this has been replaced with the broader “Standard 15: Group activities for children's well-being”. This reflects the fact that, although activities are sometimes run at a fixed site, group activities can also be run on a mobile basis and facilitated in turn at different accessible locations. Reviews of the available evidence on child-friendly spaces have pointed out that the impact of establishing a safe space alone may be limited and that the nature and intensity of the facilitated activities and the relationships established between facilitators and children appear decisive in determining effectiveness.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T078",
+        "T203",
+        "T230",
+        "T328",
+        "T341"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "CPMS and all edition and standard numbers are retained. Proposed recurring terms include child well-being, safe spaces and facilitators; these are nonclinical programme terms. Translated standard titles are drafts, not claims of official Nepali titles."
+    },
+    {
+      "id": "MAN-20-0011",
+      "page": "62",
+      "loc": "footnote",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "52 Other group activities, such as vocational training programmes and GBV awareness programmes, also affect well-being both directly and indirectly. Similarly, programmes focused on “life skills” can cover diverse issues of relevance to mental health and psychosocial well-being, from critical thinking, communication and coping skills to reproductive health, GBV prevention, and mine risk education. These programmes vary widely in the extent to which they explicitly address mental health and psychosocial issues, have MHPSS-focused objectives, and measure MHPSS outcomes.",
+      "ne": "52 व्यावसायिक तालिमका कार्यक्रम र GBV सम्बन्धी सचेतना कार्यक्रमजस्ता अन्य सामूहिक गतिविधिहरूले पनि कल्याणमा प्रत्यक्ष र अप्रत्यक्ष दुवै रूपमा प्रभाव पार्छन्। यसैगरी, “जीवनोपयोगी सीप” मा केन्द्रित कार्यक्रमहरूले मानसिक स्वास्थ्य र मनोसामाजिक कल्याणसँग सान्दर्भिक विविध विषयहरू समेट्न सक्छन्, जसमा आलोचनात्मक चिन्तन, सञ्चार र कठिनाइको सामना गर्ने सीपदेखि प्रजनन स्वास्थ्य, GBV रोकथाम र बारुदी सुरुङको जोखिमसम्बन्धी शिक्षासम्म पर्छन्। यी कार्यक्रमहरूले मानसिक स्वास्थ्य तथा मनोसामाजिक विषयहरूलाई कति स्पष्ट रूपमा सम्बोधन गर्छन्, तिनका उद्देश्यहरू कति हदसम्म MHPSS मा केन्द्रित हुन्छन् र तिनले MHPSS का परिणाम कति हदसम्म मापन गर्छन् भन्नेमा ठूलो भिन्नता हुन्छ।",
+      "bt": "52 Other group activities, such as vocational training programmes and GBV awareness programmes, also affect well-being both directly and indirectly. Similarly, programmes focused on “life skills” can cover various topics relevant to mental health and psychosocial well-being, ranging from critical thinking, communication and coping skills to reproductive health, GBV prevention and education on the risks of landmines. There is considerable variation in how explicitly these programmes address mental health and psychosocial topics, to what extent their objectives focus on MHPSS and to what extent they measure MHPSS outcomes.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T027",
+        "T028",
+        "T157",
+        "T274",
+        "T328",
+        "T409",
+        "T410",
+        "T458"
+      ],
+      "flags": [],
+      "note": "The footnote marker 52 and the acronyms GBV and MHPSS are retained exactly."
+    },
+    {
+      "id": "MAN-20-0012",
+      "page": "63",
+      "loc": "heading",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0013",
+      "page": "63",
+      "loc": "heading",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने",
+      "bt": "Provide group activities for children's mental health and psychosocial well-being",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied activity-label candidate without adding a code absent from this row."
+    },
+    {
+      "id": "MAN-20-0014",
+      "page": "63",
+      "loc": "heading",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0015",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Develop/select and adapt structured activities and programme content based on the needs and resources identified in assessments and community priorities identified through participatory discussions (see actions on community engagement in MSP activity 2.1). Ensure programme content is appropriate to the affected community, considering age, gender, disability, and other forms of diversity.",
+      "ne": "लेखाजोखाबाट पहिचान गरिएका आवश्यकता र स्रोत तथा सहभागितामूलक छलफलबाट पहिचान गरिएका समुदायका प्राथमिकताका आधारमा संरचित गतिविधि र कार्यक्रमका विषयवस्तु विकास/छनोट गरी अनुकूलन गर्नुहोस् (MSP गतिविधि 2.1 मा समुदायको संलग्नतासम्बन्धी कार्यहरू हेर्नुहोस्)। उमेर, लैङ्गिकता, अपाङ्गता र विविधताका अन्य स्वरूपलाई ध्यानमा राखी कार्यक्रमका विषयवस्तु प्रभावित समुदायका लागि उपयुक्त भएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Develop/select and adapt the content of structured activities and programmes based on needs and resources identified through assessment and community priorities identified through participatory discussions (see the actions relating to community engagement in MSP Activity 2.1). Ensure that programme content is appropriate for the affected community, taking into account age, gender, disability and other forms of diversity.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T091",
+        "T233",
+        "T344",
+        "T348",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0016",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Develop/select, adapt and translate training curricula and information, education and communication (IEC) materials for the selected activities.",
+      "ne": "छनोट गरिएका गतिविधिका लागि तालिमका पाठ्यक्रम तथा सूचना, शिक्षा तथा सञ्चार (IEC) सामग्री विकास/छनोट, अनुकूलन र अनुवाद गर्नुहोस्।",
+      "bt": "Develop/select, adapt and translate training curricula and information, education and communication (IEC) materials for the selected activities.",
+      "type": "general",
+      "terms": [
+        "T043"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0017",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Incorporate sessions for caregivers into structured group activities to share information on how emergencies affect children and on supportive caregiving practices (see MSP activity 3.7).",
+      "ne": "आपत्कालीन अवस्थाले बालबालिकालाई कसरी असर गर्छ र सहयोगी हेरचाहका अभ्यास के हुन् भन्नेबारे जानकारी साझा गर्न संरचित सामूहिक गतिविधिहरूमा हेरचाहकर्ताका लागि सत्र समावेश गर्नुहोस् (MSP गतिविधि 3.7 हेर्नुहोस्)।",
+      "bt": "Include sessions for caregivers in structured group activities to share information about how emergency situations affect children and what supportive care practices are (see MSP Activity 3.7).",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T080",
+        "T006",
+        "T091",
+        "T424"
+      ],
+      "flags": [],
+      "note": "General caregiving information, not a clinical procedure or a verbatim safeguarding declaration."
+    },
+    {
+      "id": "MAN-20-0018",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Train facilitators to deliver the selected structured group activities, including group facilitation skills for children of different ages (see the recommended MHPSS training topics for facilitators of group activities for child well-being on the MHPSS MSP web platform).",
+      "ne": "फरकफरक उमेरका बालबालिकाका लागि समूह सहजीकरण गर्ने सीपसमेत समेटेर, छनोट गरिएका संरचित सामूहिक गतिविधिहरू सञ्चालन गर्न सहजीकरणकर्तालाई तालिम दिनुहोस् (MHPSS MSP वेब प्लेटफर्ममा बालबालिकाको कल्याणका लागि सामूहिक गतिविधि सञ्चालन गर्ने सहजीकरणकर्ताका निम्ति सिफारिस गरिएका MHPSS तालिमका विषयहरू हेर्नुहोस्)।",
+      "bt": "Train facilitators to run the selected structured group activities, also covering skills for facilitating groups for children of different ages (see the recommended MHPSS training topics for facilitators running group activities for children's well-being on the MHPSS MSP web platform).",
+      "type": "general",
+      "terms": [
+        "T080",
+        "T163",
+        "T189",
+        "T088",
+        "T203",
+        "T230",
+        "T234",
+        "T328",
+        "T365"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring terms: facilitators = [Nepali wording recorded in terminology evidence]; child well-being = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-20-0019",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Provide structured group activities for children and sessions for caregivers.",
+      "ne": "बालबालिकाका लागि संरचित सामूहिक गतिविधिहरू र हेरचाहकर्ताका लागि सत्र सञ्चालन गर्नुहोस्।",
+      "bt": "Run structured group activities for children and sessions for caregivers.",
+      "type": "general",
+      "terms": [
+        "T080",
+        "T006",
+        "T424"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0020",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Implement supervised recreational activities (e.g. free play, sports, creative activities) designed to improve psychosocial well-being (e.g. through events, workshops, festivals or campaigns).",
+      "ne": "मनोसामाजिक कल्याणमा सुधार ल्याउने गरी तयार गरिएका, सुपरिवेक्षणअन्तर्गत सञ्चालन हुने मनोरञ्जनात्मक गतिविधि (जस्तै: स्वतन्त्र खेल, खेलकुद, सिर्जनात्मक गतिविधि) कार्यान्वयन गर्नुहोस् (उदाहरणका लागि, कार्यक्रम, कार्यशाला, उत्सव वा अभियानमार्फत)।",
+      "bt": "Implement recreational activities run under supervision and designed to improve psychosocial well-being (such as free play, sports and creative activities) (for example, through programmes, workshops, festivals or campaigns).",
+      "type": "general",
+      "terms": [
+        "T005",
+        "T081",
+        "T328",
+        "T379",
+        "T410",
+        "T444"
+      ],
+      "flags": [],
+      "note": "Psychosocial well-being uses the cited unreviewed candidate T005."
+    },
+    {
+      "id": "MAN-20-0021",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Facilitate access to safe spaces for structured group activities and recreation.",
+      "ne": "संरचित सामूहिक गतिविधिहरू तथा मनोरञ्जनका लागि सुरक्षित स्थलमा पहुँच सहज बनाउनुहोस्।",
+      "bt": "Facilitate access to safe spaces for structured group activities and recreation.",
+      "type": "safety",
+      "terms": [
+        "T080"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance; review pending. Proposed recurring term: safe spaces = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-20-0022",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Provide information to affected communities and families on why structured group activities are being offered and how to access them (e.g. the impact of crises on well-being and development; the goals and expected outcomes of the activities being offered).",
+      "ne": "संरचित सामूहिक गतिविधिहरू किन उपलब्ध गराइँदै छन् र तिनमा कसरी पहुँच प्राप्त गर्न सकिन्छ भन्नेबारे प्रभावित समुदाय र परिवारलाई जानकारी दिनुहोस् (जस्तै: कल्याण र विकासमा सङ्कटको प्रभाव; उपलब्ध गराइएका गतिविधिका लक्ष्य र अपेक्षित प्रतिफल)।",
+      "bt": "Inform the affected community and families about why structured group activities are being made available and how they can be accessed (for example, the impact of the crisis on well-being and development; the goals and expected outcomes of the activities provided).",
+      "type": "general",
+      "terms": [
+        "T080",
+        "T328"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0023",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Facilitate links and referrals to any needed services and supports for children and caregivers (e.g. mental health services, health, protection and education services).",
+      "ne": "बालबालिका र हेरचाहकर्ताका लागि आवश्यक जुनसुकै सेवा तथा सहयोगसँग सम्पर्क स्थापित गर्ने र सम्बन्धित सेवामा पठाउने कार्य सहज बनाउनुहोस् (जस्तै: मानसिक स्वास्थ्य सेवा, स्वास्थ्य, संरक्षण तथा शिक्षा सेवा)।",
+      "bt": "Facilitate establishing contact with and referral to any services and support needed for children and caregivers (such as mental health services, health, protection and education services).",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T172",
+        "T157",
+        "T027",
+        "T029",
+        "T028",
+        "T263"
+      ],
+      "flags": [],
+      "note": "General service-linkage and referral guidance; review pending. Mental health service wording is reused from the supplied unreviewed activity 3.10 candidate, not newly coined."
+    },
+    {
+      "id": "MAN-20-0024",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Engage staff with MHPSS technical expertise to supervise facilitators and oversee activities.",
+      "ne": "सहजीकरणकर्ताको सुपरिवेक्षण गर्न र गतिविधिहरूको समग्र रेखदेख गर्न MHPSS सम्बन्धी प्राविधिक विशेषज्ञता भएका कर्मचारीलाई संलग्न गराउनुहोस्।",
+      "bt": "Engage staff with technical expertise in MHPSS to supervise facilitators and provide overall oversight of the activities.",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: facilitators = [Nepali wording recorded in terminology evidence]. Supervision of facilitators and oversight of activities remain distinct responsibilities."
+    },
+    {
+      "id": "MAN-20-0025",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतका आधारमा)",
+      "bt": "Additional actions given for consideration (depending on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0026",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Train teachers, child-care workers, and other community members such as youth leaders in structured group activity curricula so that programmes can be sustained in the longer term.",
+      "ne": "कार्यक्रमहरू दीर्घकालसम्म निरन्तर सञ्चालन गर्न सकियोस् भनेर शिक्षकहरू, बालबालिकाको हेरचाह गर्ने कार्यकर्ताहरू र युवा अगुवाहरू जस्ता समुदायका अन्य सदस्यहरूलाई संरचित सामूहिक गतिविधिका पाठ्यक्रमसम्बन्धी तालिम दिनुहोस्।",
+      "bt": "Provide training on curricula for structured group activities to other members of the community, such as teachers, childcare workers and youth leaders, so that programmes can continue to be run over the long term.",
+      "type": "general",
+      "terms": [
+        "T344",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0027",
+      "page": "63",
+      "loc": "heading",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "check",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-20-0028",
+      "page": "63",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-10",
+  "unit_title": "Assess MHPSS needs and resources to guide programming",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "35-37",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:40:04+05:45",
+  "coverage": {
+    "source_words": 864,
+    "row_words": 863,
+    "skipped": [
+      "PDF p.35: running footer/page number removed: 30 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.36: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 31",
+      "PDF p.37: running footer/page number removed: 32 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-10-0001",
+      "page": "35",
+      "loc": "heading",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "1.2 Assess MHPSS needs and resources to guide programming",
+      "ne": "1.2 कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने",
+      "bt": "1.2 Assess MHPSS needs and resources to guide the programme",
+      "type": "activity",
+      "terms": [
+        "T093"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-10-0002",
+      "page": "35",
+      "loc": "para",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "An in-depth needs assessment is not required to justify the initiation of MHPSS services and activities.",
+      "ne": "MHPSS सेवा र गतिविधिहरू सुरु गर्नुको औचित्य पुष्टि गर्न आवश्यकताको गहन लेखाजोखा आवश्यक पर्दैन।",
+      "bt": "An in-depth needs assessment is not required to justify starting MHPSS services and activities.",
+      "type": "general",
+      "terms": [
+        "T004"
+      ],
+      "flags": [
+        "prior-draft-changed"
+      ],
+      "note": "Term annotation corrected; the Nepali wording is unchanged. T068 is not listed because its exact frozen phrase does not occur. T004 is used literally."
+    },
+    {
+      "id": "MAN-10-0003",
+      "page": "35",
+      "loc": "para",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Nonetheless, it is important to assess MHPSS needs and resources to guide planning of more detailed and context-specific programme activities.",
+      "ne": "तथापि, थप विस्तृत र सन्दर्भअनुकूल कार्यक्रमगत गतिविधिहरूको योजनालाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्नु महत्त्वपूर्ण हुन्छ।",
+      "bt": "However, assessing MHPSS needs and resources is important to guide the planning of more detailed and context-appropriate programme activities.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T004",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-10-0004",
+      "page": "35",
+      "loc": "para",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "This includes collecting initial information on the humanitarian context, the target populations, existing MHPSS national/local capacities, policies, plans and emergency response activities.",
+      "ne": "यसमा मानवीय कार्यको सन्दर्भ, लक्षित जनसमूह, MHPSS सम्बन्धी विद्यमान राष्ट्रिय/स्थानीय क्षमता, नीति, योजना र आपत्कालीन प्रतिकार्य गतिविधिहरूबारे प्रारम्भिक जानकारी सङ्कलन गर्ने कार्य समावेश हुन्छ।",
+      "bt": "This includes collecting preliminary information about the humanitarian context, the target population, existing national/local capacity related to MHPSS, policies, plans and emergency response activities.",
+      "type": "general",
+      "terms": [
+        "T132"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-10-0005",
+      "page": "35",
+      "loc": "para",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "A coordinated approach (see MSP activity 1.1) to the assessment of an emergency and to the prioritization of the needs of affected people lays the foundation for a coherent and efficient MHPSS response.",
+      "ne": "आपत्कालीन अवस्थाको लेखाजोखा गर्न र प्रभावित व्यक्तिहरूका आवश्यकतालाई प्राथमिकता दिन समन्वित दृष्टिकोण अपनाउँदा (MSP गतिविधि 1.1 हेर्नुहोस्) सुसङ्गत र कार्यकुशल MHPSS प्रतिकार्यको आधार तयार हुन्छ।",
+      "bt": "Adopting a coordinated approach to assessing the emergency situation and prioritizing the needs of affected people (see MSP activity 1.1) lays the foundation for a coherent and efficient MHPSS response.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T091",
+        "T161"
+      ],
+      "flags": [],
+      "note": "Ordinary nonclinical coordination guidance; no full activity-label annotation is applied to the partial assessment wording."
+    },
+    {
+      "id": "MAN-10-0006",
+      "page": "35",
+      "loc": "para",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Regardless of whether organizations conduct independent or collaborative inter-agency rapid assessments, the resulting reports should be made available through the MHPSS TWG to avoid duplication and to inform the humanitarian response.",
+      "ne": "संस्थाहरूले स्वतन्त्र रूपमा वा निकायहरूबीचको सहकार्यमा द्रुत लेखाजोखा गरे पनि, दोहोरो काम हुन नदिन र मानवीय प्रतिकार्यलाई जानकारी उपलब्ध गराउन त्यसबाट तयार भएका प्रतिवेदनहरू MHPSS TWG मार्फत उपलब्ध गराउनु उचित हुन्छ।",
+      "bt": "Even if organizations conduct rapid assessments independently or in collaboration between agencies, it is appropriate to make the reports produced from those assessments available through the MHPSS TWG to prevent duplication of work and to provide information to the humanitarian response.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T003",
+        "T285"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring terms MHPSS TWG and rapid assessments lack dedicated glossary entries. Proposed forms are listed separately; the acronym is retained without expansion. The source recommends that reports should be made available; the Nepali and back-translation strengthen this to must. The revision restores recommendation rather than obligation."
+    },
+    {
+      "id": "MAN-10-0007",
+      "page": "36",
+      "loc": "heading",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-10-0008",
+      "page": "36",
+      "loc": "heading",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Assess MHPSS needs and resources to guide programming",
+      "ne": "कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने",
+      "bt": "Assess MHPSS needs and resources to guide the programme",
+      "type": "activity",
+      "terms": [
+        "T093"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-10-0009",
+      "page": "36",
+      "loc": "heading",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-10-0010",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Review existing information and previous assessments covering MHPSS within the affected population and the current humanitarian emergency. Coordinate new assessments with the MHPSS TWG (or other relevant coordination mechanism if a MHPSS TWG does not exist).",
+      "ne": "प्रभावित जनसमूह र हालको मानवीय आपत्कालीन अवस्थाका सन्दर्भमा MHPSS समेट्ने विद्यमान जानकारी र पहिले गरिएका लेखाजोखाको समीक्षा गर्नुहोस्। नयाँ लेखाजोखाका लागि MHPSS TWG सँग समन्वय गर्नुहोस् (MHPSS TWG नभएमा अन्य सान्दर्भिक समन्वय संयन्त्रसँग समन्वय गर्नुहोस्)।",
+      "bt": "Review existing information and previous assessments covering MHPSS in relation to the affected population and the current humanitarian emergency. Coordinate with the MHPSS TWG for new assessments (if there is no MHPSS TWG, coordinate with other relevant coordination mechanisms).",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "MHPSS TWG is a recurring coordination term absent from the glossary. Retention of MHPSS TWG without expansion is proposed separately."
+    },
+    {
+      "id": "MAN-10-0011",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Support actors from different sectors to incorporate MHPSS considerations and questions into the planning, design, implementation and analysis of multi-cluster/sector assessments (e.g. Education, Protection, Health, CCCM, Shelter, as well as AoRs such as CP, GBV, Mine Action) in consultation with MHPSS TWGs.30",
+      "ne": "MHPSS TWGs सँग परामर्श गरी बहु-क्लस्टर/क्षेत्रगत लेखाजोखाको योजना, रूपरेखा निर्माण, कार्यान्वयन र विश्लेषणमा MHPSS सम्बन्धी विचारणीय पक्ष र प्रश्नहरू समावेश गर्न विभिन्न क्षेत्रका सम्बद्ध पक्षहरूलाई सहयोग गर्नुहोस् (जस्तै, शिक्षा, संरक्षण, स्वास्थ्य, CCCM, आश्रय, साथै CP, GBV, बारुदी सुरुङ सम्बन्धी कार्य जस्ता AoRs)।30",
+      "bt": "In consultation with MHPSS TWGs, support stakeholders from various sectors in including MHPSS-related considerations and questions in the planning, design, implementation and analysis of multi-cluster/sectoral assessments (e.g., education, protection, health, CCCM, shelter, as well as AoRs such as CP, GBV and mine action).30",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T004",
+        "T114",
+        "T028",
+        "T029",
+        "T027",
+        "T011",
+        "T296",
+        "T300",
+        "T346",
+        "T380"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Nonclinical assessment-planning guidance. MHPSS TWGs is the source plural form of the recurring glossary gap MHPSS TWG; retention without expansion is proposed separately. Sector acronyms and footnote marker 30 are retained."
+    },
+    {
+      "id": "MAN-10-0012",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Conduct a brief desk review of existing information on MHPSS (e.g. national systems for MHPSS, policies and plans, country and sociocultural contexts, affected populations, previous assessments and regularly published reports, such as WHO Mental Health Atlas Country Profiles, WHO Global Health Observatory mental health data and Institute for Health Metrics and Evaluation (IHME) data on mental health burden in the country). Consider and include the needs and resources of persons of different ages, genders and capacities, including persons with disabilities and other diverse characteristics.",
+      "ne": "MHPSS सम्बन्धी विद्यमान जानकारीको संक्षिप्त दस्तावेजी समीक्षा गर्नुहोस् (जस्तै, MHPSS का राष्ट्रिय प्रणालीहरू, नीति तथा योजनाहरू, देशको सन्दर्भ र सामाजिक-सांस्कृतिक सन्दर्भहरू, प्रभावित जनसमूह, पहिले गरिएका लेखाजोखा र नियमित रूपमा प्रकाशित प्रतिवेदनहरू, जसमा [WHO Mental Health Atlas Country Profiles], [WHO Global Health Observatory] का मानसिक स्वास्थ्यसम्बन्धी तथ्याङ्क र देशमा मानसिक स्वास्थ्यसम्बन्धी भारबारे स्वास्थ्य मापन तथा मूल्याङ्कन संस्थान (IHME) का तथ्याङ्क पर्छन्)। अपाङ्गता भएका व्यक्तिहरू र अन्य विविध विशेषता भएका व्यक्तिहरूसहित विभिन्न उमेर, लैङ्गिक समूह र क्षमता भएका व्यक्तिहरूका आवश्यकता र स्रोतसामग्रीलाई विचार गर्नुहोस् र समावेश गर्नुहोस्।",
+      "bt": "Conduct a brief documentary review of existing information related to MHPSS (for example, national systems, policies and plans for MHPSS, the country's context and sociocultural contexts, affected populations, previous assessments and regularly published reports, which include [WHO Mental Health Atlas Country Profiles], mental health statistics from [WHO Global Health Observatory] and statistics from the Institute for Health Metrics and Evaluation (IHME) on the burden related to mental health in the country). Consider and include the needs and resources of people of different ages, gender groups and abilities, including persons with disabilities and people with other diverse characteristics.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T027",
+        "T073",
+        "T157",
+        "T192",
+        "T233",
+        "T246",
+        "T416"
+      ],
+      "flags": [],
+      "note": "The report and observatory names remain in English; mental health burden is drafted in Nepali without narrowing it to a particular diagnosis."
+    },
+    {
+      "id": "MAN-10-0013",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Train staff and volunteers collecting MHPSS data from affected populations in ethical principles and safety recommendations, sociocultural considerations, basic interviewing skills and basic psychosocial support skills including referral as needed (see MSP activity 3.2).",
+      "ne": "प्रभावित जनसमूहबाट MHPSS तथ्याङ्क सङ्कलन गर्ने कर्मचारी र स्वयंसेवकलाई नैतिक सिद्धान्त र सुरक्षासम्बन्धी सिफारिस, सामाजिक-सांस्कृतिक विचारणीय पक्ष, अन्तर्वार्ता लिने आधारभूत सीप र आधारभूत मनोसामाजिक सहयोग सीपमा तालिम दिनुहोस्; यसमा आवश्यकताअनुसार सम्बन्धित सेवामा पठाउने कार्य पनि समावेश गर्नुहोस् (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "Train staff and volunteers who collect MHPSS data from the affected population in ethical principles and safety recommendations, sociocultural considerations, basic interviewing skills and basic psychosocial support skills; also include referral to relevant services as needed (see MSP activity 3.2).",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T091",
+        "T192",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance; review pending. The phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused exactly from the supplied unreviewed activity_list candidate for 3.2 (T099). The full activity label is not used, so T099 is not listed in terms. A dedicated entry for basic psychosocial support skills is proposed separately."
+    },
+    {
+      "id": "MAN-10-0014",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Conduct community-level needs assessments to collect and analyse information (e.g. on perceived MHPSS needs and coping mechanisms; risk and protective factors; at-risk groups; cultural understandings and manifestations of mental well-being and distress; terms used to discuss mental health and well-being; ways of help-seeking; barriers to receiving care; community-led MHPSS activities and resources; and wishes of community members, including those with lived experience of mental health conditions, regarding types of support needed). Disaggregate by gender, age and disability and ensure mixed-gender data collection teams where appropriate (see relevant tools on community participation in assessments).",
+      "ne": "जानकारी सङ्कलन र विश्लेषण गर्न समुदायस्तरमा आवश्यकताको लेखाजोखा गर्नुहोस् (जस्तै, महसुस गरिएका MHPSS आवश्यकताहरू र कठिनाइको सामना गर्ने तरिकाहरू; जोखिम तथा संरक्षणकारी कारकहरू; जोखिममा रहेका समूह; मानसिक कल्याण र व्यथासम्बन्धी सांस्कृतिक बुझाइ तथा तिनका अभिव्यक्तिहरू; मानसिक स्वास्थ्य र कल्याणबारे कुरा गर्न प्रयोग गरिने शब्दहरू; सहयोग खोज्ने तरिकाहरू; हेरचाह प्राप्त गर्नका बाधाहरू; समुदायको नेतृत्वमा सञ्चालित MHPSS गतिविधिहरू र स्रोतसामग्री; र आवश्यक सहयोगका प्रकारबारे समुदायका सदस्यहरूका चाहना, जसमा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू आफैँले अनुभव गरेका सदस्यहरूका चाहना पनि पर्छन्)। लैङ्गिक समूह, उमेर र अपाङ्गताका आधारमा तथ्याङ्क छुट्याउनुहोस् र उपयुक्त हुने अवस्थामा विभिन्न लैङ्गिक समूहका सदस्यहरू सम्मिलित तथ्याङ्क सङ्कलन टोलीहरू सुनिश्चित गर्नुहोस् (लेखाजोखामा समुदायको सहभागितासम्बन्धी सान्दर्भिक साधनहरू हेर्नुहोस्)।",
+      "bt": "Conduct a community-level needs assessment to collect and analyze information (for example, perceived MHPSS needs and ways of coping with difficulties; risk and protective factors; groups at risk; cultural understandings of mental well-being and distress and their expressions; words used to talk about mental health and well-being; ways of seeking help; barriers to receiving care; community-led MHPSS activities and resources; and community members' wishes regarding the types of support needed, including the wishes of members who have themselves experienced mental health conditions). Disaggregate data by gender group, age and disability, and, where appropriate, ensure data collection teams that include members of different gender groups (see relevant tools on community participation in assessments).",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T027",
+        "T068",
+        "T157",
+        "T158",
+        "T207",
+        "T208",
+        "T233",
+        "T283",
+        "T328",
+        "T334",
+        "T344",
+        "T416",
+        "T438",
+        "T461",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Coping mechanisms and lived experience are drafted descriptively because no exact supplied glossary forms cover them; the condition category uses the supplied plural form."
+    },
+    {
+      "id": "MAN-10-0015",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Conduct an assessment of existing systems and capacities (e.g. information on mental health and other relevant systems and services (e.g. social care. education); existing MHPSS activities; organizational capacities; undergraduate and postgraduate education systems for various MHPSS cadres; staff competencies and training needs; and referral pathways.",
+      "ne": "विद्यमान प्रणालीहरू र क्षमताहरूको लेखाजोखा गर्नुहोस् (जस्तै, मानसिक स्वास्थ्य तथा अन्य सान्दर्भिक प्रणाली र सेवाहरूबारे जानकारी, जसमा सामाजिक हेरचाह र शिक्षा पर्छन्; विद्यमान MHPSS गतिविधिहरू; संस्थागत क्षमताहरू; MHPSS का विभिन्न श्रेणीका जनशक्तिका लागि स्नातक र स्नातकोत्तर शिक्षा प्रणालीहरू; कर्मचारीको सक्षमता र तालिमसम्बन्धी आवश्यकताहरू; तथा सेवा प्रेषण मार्गहरू)।",
+      "bt": "Assess existing systems and capacities (for example, information about mental health and other relevant systems and services, including social care and education; existing MHPSS activities; institutional capacities; undergraduate and postgraduate education systems for different categories of MHPSS personnel; staff competence and training needs; and service referral pathways).",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T027",
+        "T028",
+        "T063",
+        "T157",
+        "T158",
+        "T179",
+        "T209"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "unclear-english"
+      ],
+      "note": "The source leaves the outer example parenthesis unclosed and uses an unclear full stop in “social care. education”; the draft treats social care and education as examples of relevant systems and services and closes the example list."
+    },
+    {
+      "id": "MAN-10-0016",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Share and discuss assessment findings with humanitarian actors and affected populations (e.g. via local and international mailing lists such as those of the IASC MHPSS Reference Group; presentations and discussions of findings with relevant national/local and international stakeholders, coordination groups or clusters; community discussions or brief assessment summaries (with translation in relevant languages and in accessible formats for person with disabilities).",
+      "ne": "लेखाजोखाका निष्कर्षहरू मानवीय कार्यमा संलग्न पक्षहरू र प्रभावित जनसमूहसँग साझा गरी छलफल गर्नुहोस् (जस्तै, IASC MHPSS सन्दर्भ समूहका जस्ता स्थानीय र अन्तर्राष्ट्रिय इमेल वितरण सूचीमार्फत; सान्दर्भिक राष्ट्रिय/स्थानीय तथा अन्तर्राष्ट्रिय सरोकारवालाहरू, समन्वय समूहहरू वा क्लस्टरसमक्ष निष्कर्ष प्रस्तुत गरी छलफल गरेर; सामुदायिक छलफल वा लेखाजोखाका संक्षिप्त सारांशमार्फत, सान्दर्भिक भाषामा अनुवाद गरेर र अपाङ्गता भएका व्यक्तिहरूका लागि पहुँचयोग्य ढाँचामा उपलब्ध गराएर)।",
+      "bt": "Share and discuss assessment findings with those involved in humanitarian work and the affected population (e.g., through local and international email distribution lists such as those of the IASC MHPSS Reference Group; by presenting and discussing findings with relevant national/local and international stakeholders, coordination groups or clusters; through community discussions or brief assessment summaries, translating them into relevant languages and making them available in formats accessible to persons with disabilities).",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T147",
+        "T171",
+        "T182",
+        "T128",
+        "T124",
+        "T073",
+        "T078",
+        "T192",
+        "T349"
+      ],
+      "flags": [],
+      "note": "The source's unclosed parenthesis is closed without changing the listed dissemination methods or accessibility requirements."
+    },
+    {
+      "id": "MAN-10-0017",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Facilitate inclusion of the findings from MHPSS needs assessments in humanitarian response planning tools and funding documents (e.g. Humanitarian Needs Overviews, Humanitarian Response Plans, Refugee Response Plans, Strategic Preparedness and Response Plans, cluster strategies, calls for funding).",
+      "ne": "MHPSS आवश्यकताको लेखाजोखाबाट प्राप्त निष्कर्षहरू मानवीय प्रतिकार्यका योजना निर्माण उपकरण र वित्तीय सहयोगसम्बन्धी दस्तावेजहरूमा समावेश गर्न सहजीकरण गर्नुहोस् (जस्तै, मानवीय आवश्यकताका झलक, मानवीय प्रतिकार्य योजना, शरणार्थी प्रतिकार्य योजना, रणनीतिक पूर्वतयारी तथा प्रतिकार्य योजना, क्लस्टर रणनीति र वित्तीय सहयोगका लागि आह्वान)।",
+      "bt": "Facilitate the inclusion of findings from MHPSS needs assessments in humanitarian response planning tools and funding documents (e.g., humanitarian needs overviews, humanitarian response plans, refugee response plans, strategic preparedness and response plans, cluster strategies and funding appeals).",
+      "type": "general",
+      "terms": [
+        "T068",
+        "T003",
+        "T016",
+        "T174",
+        "T123",
+        "T308",
+        "T364"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-10-0018",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतअनुसार)",
+      "bt": "Additional actions provided for consideration (depending on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-10-0019",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Conduct comprehensive in-depth situation analyses and community-level needs assessments as needed, to learn from different subgroups of affected populations. Use methods tailored to maximize the safe and meaningful participation of people of different genders, age groups and other subgroups (e.g. refugees, migrants, victims of trafficking, persons with disabilities); and ensure adequate training and appropriate composition of data collection teams (e.g. mixed-gender or female teams, relevant language skills).",
+      "ne": "प्रभावित जनसमूहका विभिन्न उपसमूहबाट जानकारी हासिल गर्न आवश्यकताअनुसार व्यापक र गहन परिस्थिति विश्लेषण तथा समुदायस्तरमा आवश्यकताको लेखाजोखा गर्नुहोस्। विभिन्न लिङ्ग, उमेर समूह र अन्य उपसमूहका व्यक्तिहरूको सुरक्षित र अर्थपूर्ण सहभागिता अधिकतम बनाउन अनुकूलित विधिहरू प्रयोग गर्नुहोस् (जस्तै, शरणार्थी, आप्रवासी, मानव बेचबिखनका पीडित, अपाङ्गता भएका व्यक्तिहरू); साथै तथ्याङ्क सङ्कलन टोलीलाई पर्याप्त तालिम दिइएको र टोलीको संरचना उपयुक्त भएको सुनिश्चित गर्नुहोस् (जस्तै, विभिन्न लिङ्गका सदस्य समावेश भएका वा महिलामात्र रहेका टोली, सान्दर्भिक भाषिक सीप)।",
+      "bt": "Conduct comprehensive and in-depth situation analyses and community-level needs assessments as needed to obtain information from different subgroups of the affected population. Use adapted methods to maximize the safe and meaningful participation of people of different genders, age groups and other subgroups (e.g., refugees, migrants, victims of human trafficking, persons with disabilities); also ensure that data collection teams are adequately trained and that the composition of the teams is appropriate (e.g., teams including members of different genders or consisting only of women, relevant language skills).",
+      "type": "safety",
+      "terms": [
+        "T068",
+        "T073",
+        "T192",
+        "T208",
+        "T269",
+        "T287",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General participation and data-collection safety guidance; review pending. The recurring term community-level needs assessments lacks a dedicated glossary entry. The proposed wording is listed separately and retains the frozen needs-assessment candidate."
+    },
+    {
+      "id": "MAN-10-0020",
+      "page": "36",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Conduct and publish a comprehensive literature review on MHPSS specific to the country/affected population and/or crisis (see examples in Relevant Guidelines, Standards and Tools).",
+      "ne": "देश/प्रभावित जनसमूह र/वा सङ्कटसँग सम्बन्धित MHPSS विषयक साहित्यको व्यापक समीक्षा गरी प्रकाशित गर्नुहोस् (सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण खण्डमा उदाहरणहरू हेर्नुहोस्)।",
+      "bt": "Conduct and publish a comprehensive review of MHPSS literature related to the country/affected population and/or crisis (see examples in the relevant guidelines, standards and tools section).",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": "Ordinary nonclinical literature-review instruction."
+    },
+    {
+      "id": "MAN-10-0021",
+      "page": "36",
+      "loc": "footnote",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "30 See also IASC (2022). Handbook of MHPSS Coordination: Annex 10, Tips for integrating MHPSS into rapid needs assessments.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the source citation unchanged, including footnote 30, IASC (2022), Handbook of MHPSS Coordination: Annex 10, and Tips for integrating MHPSS into rapid needs assessments."
+    },
+    {
+      "id": "MAN-10-0022",
+      "page": "37",
+      "loc": "heading",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": "Ordinary resource heading."
+    },
+    {
+      "id": "MAN-10-0023",
+      "page": "37",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": "Ordinary navigation instruction."
+    },
+    {
+      "id": "MAN-10-0024",
+      "page": "37",
+      "loc": "heading",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Key consideration 15 : Assessments showing prevalence estimates of mental health conditions in humanitarian settings are not essential to initiate services",
+      "ne": "मुख्य विचारणीय पक्ष 15 : मानवीय सहायताका सन्दर्भहरूमा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको व्याप्तिका अनुमानहरू देखाउने लेखाजोखा सेवाहरू सुरु गर्न अत्यावश्यक छैन।",
+      "bt": "Main consideration 15: An assessment showing estimates of the prevalence of mental health conditions in humanitarian assistance contexts is not essential for starting services.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T027",
+        "T157",
+        "T252",
+        "T408",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The lack of necessity applies specifically to assessments showing prevalence estimates, not to all needs assessments. The source says these assessments are not essential to initiate services, whereas the supplied back-translation says they are not mandatory. Replaced अनिवार्य with अत्यावश्यक to express necessity rather than obligation."
+    },
+    {
+      "id": "MAN-10-0025",
+      "page": "37",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "Epidemiological surveys are challenging to do well, are costly and time-intensive, and consistently show that the identified needs are much higher than the capacity to respond. In emergency contexts, epidemiological surveys often become outdated before they can even be published. Global WHO estimates already exist which can be used to justify MHPSS programmes:31",
+      "ne": "महामारीविज्ञानसम्बन्धी सर्वेक्षणहरू उचित ढङ्गले सञ्चालन गर्न चुनौतीपूर्ण हुन्छन्, खर्चिला हुन्छन् र धेरै समय लाग्छन्। यस्ता सर्वेक्षणहरूले पहिचान गरिएका आवश्यकताहरू तिनलाई सम्बोधन गर्ने क्षमताभन्दा धेरै बढी हुन्छन् भन्ने निरन्तर देखाउँछन्। आपत्कालीन अवस्था हुँदा महामारीविज्ञानसम्बन्धी सर्वेक्षणहरू प्रायः प्रकाशित हुनुअघि नै पुराना भइसक्छन्। WHO का विश्वव्यापी अनुमानहरू पहिल्यै उपलब्ध छन्, जसलाई MHPSS कार्यक्रमको औचित्य पुष्टि गर्न प्रयोग गर्न सकिन्छ।31",
+      "bt": "Epidemiological surveys are challenging to conduct properly, are expensive and take a lot of time. Such surveys consistently show that the identified needs far exceed the capacity to address them. During an emergency, epidemiological surveys often become outdated before they are published. WHO's global estimates are already available and can be used to justify an MHPSS program.31",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T160",
+        "T227",
+        "T409",
+        "T434"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Assessment-methodology prose translated as ordinary technical content, not clinical guidance. Proposed terminology for epidemiological surveys is unreviewed; the glossary remains unchanged."
+    },
+    {
+      "id": "MAN-10-0026",
+      "page": "37",
+      "loc": "bullet",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "▶ Most people affected by emergencies will experience psychological distress, which for most will improve over time.",
+      "ne": "▶ आपत्कालीन अवस्थाबाट प्रभावित अधिकांश व्यक्तिहरूले मानसिक व्यथा अनुभव गर्नेछन्, र तीमध्ये अधिकांशको यस्तो व्यथा समयसँगै कम हुँदै जानेछ।",
+      "bt": "▶ Most people affected by an emergency will experience mental distress, and for most of them this distress will decrease over time.",
+      "type": "safety",
+      "terms": [
+        "T131",
+        "T461",
+        "T492"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied psychological distress form is used without equating distress with a diagnosis, and both majority qualifications are retained."
+    },
+    {
+      "id": "MAN-10-0027",
+      "page": "37",
+      "loc": "bullet",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "▶ One person in five (22%) living in an area affected by conflict in the previous 10 years is estimated to have a mental health condition; one in 11 (9%) has a moderate or severe mental disorder.32",
+      "ne": "▶ अघिल्ला 10 वर्षमा द्वन्द्वबाट प्रभावित भएको क्षेत्रमा बस्ने प्रत्येक पाँच जनामध्ये एक जना (22%) मा मानसिक स्वास्थ्यसम्बन्धी अवस्था रहेको अनुमान गरिएको छ; प्रत्येक 11 जनामध्ये एक जना (9%) मा मध्यम वा गम्भीर मानसिक विकार छ।32",
+      "bt": "▶ It is estimated that one in every five people (22%) living in an area affected by conflict in the previous 10 years has a mental health condition; one in every 11 people (9%) has a moderate or severe mental disorder.32",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T476",
+        "T480"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The conflict-exposure period, both proportions, the distinction between the broad condition category and severity-qualified disorder category, and citation 32 are retained."
+    },
+    {
+      "id": "MAN-10-0028",
+      "page": "37",
+      "loc": "footnote",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "31 Charlson F et al. (2019). New WHO prevalence estimates of mental disorders in conflict settings: a systematic review and meta-analysis. The Lancet 394, pp. 240-248.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the bibliographic citation unchanged, including 31, 2019, 394 and 240-248."
+    },
+    {
+      "id": "MAN-10-0029",
+      "page": "37",
+      "loc": "footnote",
+      "section": "Section 1 > 1.2 Assess MHPSS needs and resources to guide programming",
+      "en": "32 Ibid.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the citation reference “32 Ibid.” unchanged."
+    }
+  ]
+}

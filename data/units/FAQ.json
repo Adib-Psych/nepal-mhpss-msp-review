@@ -8,7 +8,7 @@
   "source_sha256": "f31cd34baffa854df4939a2ab2544553dad1dafbd9589cf77bc050a0c58b4fe1",
   "pages": "1-4",
   "glossary_version": "G-0.5",
-  "generated": "2026-11-23T22:25:36+05:45",
+  "generated": "2026-11-23T22:49:31+05:45",
   "coverage": {
     "source_words": 2108,
     "row_words": 2108,
@@ -1057,8 +1057,8 @@
       "loc": "bullet",
       "section": "Where does psychological first aid (PFA) fit within the MSP?",
       "en": "▶ The MSP uses the broader term “basic psychosocial support” to cover a range of similar orientation packages, including PFA and other packages such as the Basic Psychosocial Skills for COVID-19 Responders package and the WHO LIVES approach for providers working with survivors of GBV. These packages all cover basic psychosocial support skills and are described in MSP activity 3.2.",
-      "ne": "▶ MSP ले PFA, [Basic Psychosocial Skills for COVID-19 Responders] प्याकेज र GBV का प्रभावित व्यक्तिहरूसँग काम गर्ने सेवा प्रदायकहरूका लागि [WHO LIVES approach] जस्ता समान प्रकृतिका विभिन्न अभिमुखीकरण प्याकेजहरूलाई समेट्न “आधारभूत मनोसामाजिक सहयोग” भन्ने व्यापक शब्दावली प्रयोग गर्छ। यी सबै प्याकेजहरूले आधारभूत मनोसामाजिक सहयोग सीप समेट्छन् र तिनको विवरण MSP गतिविधि 3.2 मा दिइएको छ।",
-      "bt": "▶ MSP uses the broad term “basic psychosocial support” to cover various orientation packages of a similar nature, such as PFA, the [Basic Psychosocial Skills for COVID-19 Responders] package and the [WHO LIVES approach] for service providers working with people affected by GBV. All these packages include basic psychosocial support skills, and their descriptions are given in MSP activity 3.2.",
+      "ne": "▶ MSP ले [PFA], [Basic Psychosocial Skills for COVID-19 Responders] प्याकेज र GBV का प्रभावित व्यक्तिहरूसँग काम गर्ने सेवा प्रदायकहरूका लागि [WHO LIVES approach] जस्ता समान प्रकृतिका विभिन्न अभिमुखीकरण प्याकेजहरूलाई समेट्न “आधारभूत मनोसामाजिक सहयोग” भन्ने व्यापक शब्दावली प्रयोग गर्छ। यी सबै प्याकेजहरूले आधारभूत मनोसामाजिक सहयोग सीप समेट्छन् र तिनको विवरण MSP गतिविधि 3.2 मा दिइएको छ।",
+      "bt": "▶ MSP uses the broad term “basic psychosocial support” to encompass various orientation packages of a similar nature, such as [PFA], the [Basic Psychosocial Skills for COVID-19 Responders] package and [WHO LIVES approach] for service providers working with people affected by GBV. All these packages cover basic psychosocial support skills, and their details are given in MSP Activity 3.2.",
       "type": "safety",
       "terms": [
         "T014",
@@ -1072,9 +1072,10 @@
       ],
       "flags": [
         "glossary-missing",
-        "bt-divergence"
+        "bt-divergence",
+        "prior-draft-changed"
       ],
-      "note": "The frozen survivor label 'प्रभावित व्यक्तिहरू' means affected people and can include indirectly affected people, whereas the source specifies people who directly experienced and survived GBV; the intended source population remains survivors of GBV. The provider population applies to the WHO LIVES approach, not to the COVID-19 responder package. The original Nepali places the provider qualifier before both named packages, allowing it to modify both; the source applies it only to the WHO LIVES approach. The repair attaches it to that approach alone. bt-divergence remains: frozen प्रभावित व्यक्तिहरू means affected people and can include indirectly affected people, while survivors of GBV specifies people who directly experienced and survived GBV. The frozen label is retained. “People affected by GBV” is broader than “survivors of GBV” and can include indirectly affected people; the English specifies survivors as the population served by providers using WHO LIVES."
+      "note": "The audit correctly identifies PFA as an intervention acronym requiring square brackets; only that bracketing has been changed. The frozen label प्रभावित व्यक्तिहरू means affected people and can include indirectly affected people, whereas survivors of GBV specifies people who directly experienced and survived GBV. The provider qualifier remains attached to the WHO LIVES approach alone. The named packages and approach lack supplied nonempty glossary forms. “People affected by GBV” is broader than “survivors of GBV”: it can include indirectly affected people, expanding the population served by providers using the WHO LIVES approach."
     },
     {
       "id": "FAQ-0060",

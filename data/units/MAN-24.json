@@ -1,0 +1,772 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-24",
+  "unit_title": "Provide mental health care as part of general health services",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "72-74",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:06:18+05:45",
+  "coverage": {
+    "source_words": 1122,
+    "row_words": 1122,
+    "skipped": [
+      "PDF p.72: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 67",
+      "PDF p.73: running footer/page number removed: 68 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.74: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 69"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-24-0001",
+      "page": "72",
+      "loc": "heading",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "INTRODUCTION",
+      "ne": "परिचय",
+      "bt": "Introduction",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source wording or spacing appears irregular and is preserved; please confirm the intended reading. The supplied heading is clear; the provisional ambiguity flag is not retained."
+    },
+    {
+      "id": "MAN-24-0002",
+      "page": "72",
+      "loc": "heading",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Provide focused support for people impaired by distress or mental health conditions",
+      "ne": "तनाव वा मानसिक स्वास्थ्य अवस्थाका कारण दैनिक कार्यमा असर परेका व्यक्तिहरूलाई केन्द्रित सहयोग प्रदान गर्नुहोस्।",
+      "bt": "Provide focused support to people whose daily functioning has been affected by stress or mental health conditions.",
+      "type": "safety",
+      "terms": [
+        "T008",
+        "T027",
+        "T157",
+        "T466"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen population label renders distress as stress and explicitly restricts impairment to daily functioning, whereas the source says distress and does not specify daily functioning. bt-divergence: Frozen T008 renders distress as stress and specifies impairment of daily functioning, whereas the source neither equates distress with stress nor limits impairment to daily functioning. The frozen form is retained."
+    },
+    {
+      "id": "MAN-24-0003",
+      "page": "72",
+      "loc": "heading",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "3.10 Provide mental health care as part of general health services",
+      "ne": "3.10 सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने।",
+      "bt": "3.10 To provide mental health care as part of general health care.",
+      "type": "activity",
+      "terms": [
+        "T107"
+      ],
+      "flags": [],
+      "note": "Retains the exact supplied activity-label candidate, including its existing unreviewed clinical wording."
+    },
+    {
+      "id": "MAN-24-0004",
+      "page": "72",
+      "loc": "para",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "During humanitarian emergencies, health facilities may be damaged, the availability of health staff may be limited and health needs, including the need for mental health services of the affected population are high.",
+      "ne": "मानवीय आपत्कालीन अवस्थामा स्वास्थ्य संस्थाहरू क्षतिग्रस्त हुन सक्छन्, स्वास्थ्य कर्मचारीको उपलब्धता सीमित हुन सक्छ र प्रभावित जनसङ्ख्यामा मानसिक स्वास्थ्य सेवाको आवश्यकतासहित स्वास्थ्यसम्बन्धी आवश्यकताहरू उच्च हुन्छन्।",
+      "bt": "In humanitarian emergencies, health facilities may be damaged, the availability of health workers may be limited, and health-related needs, including the need for mental health care, are high among the affected population.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T027",
+        "T157",
+        "T237",
+        "T263"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Health facilities is absent as a standalone glossary entry; proposed wording is [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Mental health service wording reuses the supplied T107 candidate."
+    },
+    {
+      "id": "MAN-24-0005",
+      "page": "72",
+      "loc": "para",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Furthermore, there is usually already a shortage of qualified specialized mental health workers.",
+      "ne": "यसबाहेक, योग्यताप्राप्त मानसिक स्वास्थ्य विशेषज्ञ कार्यकर्ताको अभाव सामान्यतया पहिलेदेखि नै रहेको हुन्छ।",
+      "bt": "In addition, a shortage of qualified specialist mental health workers generally already exists.",
+      "type": "general",
+      "terms": [
+        "T157"
+      ],
+      "flags": [],
+      "note": "Preserves both the qualification requirement and the usually pre-existing shortage."
+    },
+    {
+      "id": "MAN-24-0006",
+      "page": "72",
+      "loc": "para",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Providing clinical mental health care (including psychological and pharmacological interventions and supporting rehabilitation) as part of general health services (including primary health care) can ensure that such care is more widely available, acceptable, accessible, cost-effective, and non-stigmatizing.",
+      "ne": "सामान्य स्वास्थ्य सेवाहरूको अङ्गका रूपमा (प्राथमिक स्वास्थ्य सेवासहित) मानसिक स्वास्थ्यको चिकित्सकीय हेरचाह (मनोवैज्ञानिक तथा औषधिसम्बन्धी हस्तक्षेप र पुनर्स्थापनामा सहयोगसहित) प्रदान गर्दा यस्तो हेरचाह अझ व्यापक रूपमा उपलब्ध, स्वीकार्य, पहुँचयोग्य, लागतका दृष्टिले प्रभावकारी र लाञ्छना नलगाउने हुने कुरा सुनिश्चित गर्न सक्छ।",
+      "bt": "Providing clinical mental health care (including psychological and medication-related interventions and support for rehabilitation) as part of general health services (including primary health care) can ensure that such care is more widely available, acceptable, accessible, cost-effective and non-stigmatizing.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T078",
+        "T157",
+        "T500"
+      ],
+      "flags": [],
+      "note": "Psychological and pharmacological interventions are general categories here, not named therapies; the possibility expressed by can is retained."
+    },
+    {
+      "id": "MAN-24-0007",
+      "page": "72",
+      "loc": "para",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "General health care providers who work in non-specialized health care settings should be trained and supervised in evidence-based protocols such as the WHO-UNHCR mhGAP Humanitarian Intervention Guide (mhGAP-HIG) or the WHO mhGAP Intervention Guide (mhGAP-IG).",
+      "ne": "विशिष्टीकृत नभएका स्वास्थ्य सेवा परिवेशमा काम गर्ने सामान्य स्वास्थ्य सेवा प्रदायकहरूलाई WHO-UNHCR को [mhGAP Humanitarian Intervention Guide] (mhGAP-HIG) वा WHO को [mhGAP Intervention Guide] (mhGAP-IG) जस्ता प्रमाणमा आधारित कार्यविधिहरूमा तालिम र सुपरिवेक्षण दिइनुपर्छ।",
+      "bt": "General health care providers working in non-specialized health care settings should be given training and supervision in evidence-based procedures such as the WHO-UNHCR [mhGAP Humanitarian Intervention Guide] (mhGAP-HIG) or the WHO [mhGAP Intervention Guide] (mhGAP-IG).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T228",
+        "T236"
+      ],
+      "flags": [],
+      "note": "Both official mhGAP titles remain in exact source English, with their organizations and acronyms retained. The original Nepali restricts non-specialized health care settings to institutions that provide no specialist services. The source does not require the complete absence of specialist services or limit settings to institutions. The repair removes those restrictions."
+    },
+    {
+      "id": "MAN-24-0008",
+      "page": "72",
+      "loc": "para",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "General health care providers include general physicians, nurses, and clinical officers, as well as physicians specialized in areas other than psychiatry, neurology, or addiction medicine.",
+      "ne": "सामान्य स्वास्थ्य सेवा प्रदायकहरूमा सामान्य चिकित्सक, नर्स र क्लिनिकल अधिकृतका साथै मनोचिकित्सा, स्नायुचिकित्सा वा व्यसन चिकित्साबाहेकका क्षेत्रमा विशेषज्ञता हासिल गरेका चिकित्सकहरू पनि पर्छन्।",
+      "bt": "General health care providers include general physicians, nurses and clinical officers, as well as physicians who have specialized in fields other than psychiatry, neurology or addiction medicine.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T236"
+      ],
+      "flags": [],
+      "note": "The specialty exclusion applies to the additionally included specialist physicians, not to the preceding provider categories."
+    },
+    {
+      "id": "MAN-24-0009",
+      "page": "72",
+      "loc": "para",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Women seeking sexual and reproductive health care may have accompanying specific MHPSS needs (e.g. prenatal or postpartum depression).",
+      "ne": "यौन तथा प्रजनन स्वास्थ्य हेरचाह खोजिरहेका महिलाहरूमा त्यससँगै विशेष MHPSS आवश्यकताहरू पनि हुन सक्छन् (जस्तै, [prenatal or postpartum depression])।",
+      "bt": "Women seeking sexual and reproductive health care may also have particular MHPSS needs alongside it (for example, [prenatal or postpartum depression]).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T508"
+      ],
+      "flags": [],
+      "note": "The diagnostic example remains in exact source English, and the sentence retains possibility rather than asserting that all such women have these needs."
+    },
+    {
+      "id": "MAN-24-0010",
+      "page": "72",
+      "loc": "para",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Maternal mental health is of particular concern because of its impact on the care for and the development of children (antenatal care, infants, and young children).",
+      "ne": "मातृ मानसिक स्वास्थ्य विशेष चासोको विषय हो, किनकि यसले बालबालिकाको हेरचाह र विकासमा प्रभाव पार्छ (प्रसवपूर्व हेरचाह, शिशुहरू र साना बालबालिका)।",
+      "bt": "Maternal mental health is a matter of particular concern because it affects the care and development of children (antenatal care, infants and young children).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source parenthesis mixes a care service, antenatal care, with two child age groups without specifying their relationship; all three elements are retained without resolving that ambiguity."
+    },
+    {
+      "id": "MAN-24-0011",
+      "page": "73",
+      "loc": "heading",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-24-0012",
+      "page": "73",
+      "loc": "heading",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Provide mental health care as part of general health services",
+      "ne": "सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने।",
+      "bt": "To provide mental health care as part of general health care.",
+      "type": "activity",
+      "terms": [
+        "T107"
+      ],
+      "flags": [],
+      "note": "Retains the exact supplied activity-label candidate, including its existing unreviewed clinical wording."
+    },
+    {
+      "id": "MAN-24-0013",
+      "page": "73",
+      "loc": "heading",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-24-0014",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Establish an operations team responsible for overseeing the integration of care for mental, neurological, and substance use (MNS) disorders into general health care, raising awareness about the need for mental health care with key stakeholders and participating in coordination mechanisms (see MSP activity 1.1).",
+      "ne": "सामान्य स्वास्थ्य हेरचाहमा मानसिक, स्नायुसम्बन्धी तथा पदार्थ प्रयोगसम्बन्धी विकारहरू (MNS) को हेरचाहको एकीकरणको निगरानी गर्ने, प्रमुख सरोकारवालाहरूलाई मानसिक स्वास्थ्य हेरचाहको आवश्यकताबारे सचेत गराउने र समन्वय संयन्त्रहरूमा सहभागी हुने जिम्मेवारी भएको सञ्चालन टोली स्थापना गर्नुहोस् (MSP गतिविधि 1.1 हेर्नुहोस्)।",
+      "bt": "Establish an operational team with responsibility for monitoring the integration of care for mental, neurological and substance use disorders (MNS) into general health care, making key stakeholders aware of the need for mental health care, and participating in coordination mechanisms (see MSP activity 1.1).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T091",
+        "T157",
+        "T163",
+        "T181",
+        "T182",
+        "T212",
+        "T349",
+        "T384"
+      ],
+      "flags": [],
+      "note": "The team retains all three responsibilities, and the MNS grouping is drafted without creating a glossary entry for T060."
+    },
+    {
+      "id": "MAN-24-0015",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Decide which health service points (e.g. general health services, SRH services, types of health facilities) and which providers will be engaged to provide mental health care.",
+      "ne": "मानसिक स्वास्थ्य सेवा प्रदान गर्न स्वास्थ्य सेवा प्रदान गर्ने कुन बिन्दुहरू (जस्तै, सामान्य स्वास्थ्य सेवा, SRH सेवा, स्वास्थ्य संस्थाका प्रकारहरू) र कुन सेवा प्रदायकलाई संलग्न गराउने भन्ने निर्णय गर्नुहोस्।",
+      "bt": "Decide which health service delivery points (e.g., general health services, SRH services, types of health facilities) and which service providers to involve in providing mental health services.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T157"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Human translation required. Preserve the exact clinical or consent meaning, including every condition, actor, qualification and number; do not adapt the guidance. Reclassified as ordinary service-planning guidance, not a clinical procedure. SRH is retained without expansion. Proposed missing recurring terms are health facilities: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and health care providers: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Mental health service wording reuses T107. Health service points is narrowed to health service centres, although the source examples include services as well as facility types. The revision restores service points and types of health facilities. The service-point terminology remains pending technical review."
+    },
+    {
+      "id": "MAN-24-0016",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Develop/select, adapt and translate training manuals and materials where needed.",
+      "ne": "आवश्यकताअनुसार तालिम पुस्तिका तथा सामग्री विकास वा छनोट गर्नुहोस्, अनुकूलन गर्नुहोस् र अनुवाद गर्नुहोस्।",
+      "bt": "Develop or select, adapt and translate training manuals and materials as needed.",
+      "type": "general",
+      "terms": [
+        "T259"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-24-0017",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Train health care providers (at least one per facility) and community health workers in evidence-based protocols (e.g. for the assessment and management of a range of conditions in adults and children: these may include acute stress, grief reactions, depression, post-traumatic stress disorder (PTSD), suicide, psychosomatic conditions, psychosis, harmful use of alcohol and drugs, intellectual disability and epilepsy).",
+      "ne": "स्वास्थ्य सेवा प्रदायकहरू (प्रत्येक स्वास्थ्य संस्थाबाट कम्तीमा एक जना) र समुदायका स्वास्थ्यकर्मीहरूलाई प्रमाणमा आधारित कार्यविधिहरूमा तालिम दिनुहोस् (जस्तै, वयस्क र बालबालिकाका विभिन्न अवस्थाहरूको लेखाजोखा र व्यवस्थापनका लागि: यी अवस्थाहरूमा तीव्र तनाव, शोकका प्रतिक्रियाहरू, [depression], [post-traumatic stress disorder] (PTSD), आत्महत्या, मनोदैहिक अवस्थाहरू, [psychosis], मदिरा र लागूऔषधको हानिकारक प्रयोग, [intellectual disability] र [epilepsy] समावेश हुन सक्छन्)।",
+      "bt": "Train health care providers (at least one person from each health facility) and community health workers in evidence-based procedures (for example, for the assessment and management of various conditions in adults and children: these conditions may include acute stress, grief reactions, [depression], [post-traumatic stress disorder] (PTSD), suicide, psychosomatic conditions, [psychosis], harmful use of alcohol and drugs, [intellectual disability] and [epilepsy]).",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T027",
+        "T228",
+        "T236",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Named diagnoses remain in exact source English; the minimum staffing requirement, both age groups, every listed example, and the conditional scope of the list are retained."
+    },
+    {
+      "id": "MAN-24-0018",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Engage service providers in reorganizing clinical schedules to provide dedicated time for mental health consultations (e.g. one afternoon per week with longer appointment-based consultations).",
+      "ne": "सेवा प्रदायकहरूलाई चिकित्सकीय कार्यतालिकाहरूको पुनर्व्यवस्थापनमा संलग्न गराउनुहोस्, ताकि मानसिक स्वास्थ्यसम्बन्धी परामर्शका लागि छुट्टै समय उपलब्ध होस् (जस्तै, अग्रिम समय लिएर गरिने अझ लामो अवधिका परामर्शका लागि हप्तामा एक अपराह्न छुट्याउने)।",
+      "bt": "Involve service providers in rearranging clinical schedules so that separate time is available for mental health consultations (for example, setting aside one afternoon a week for longer consultations made by advance appointment).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T346",
+        "T347"
+      ],
+      "flags": [],
+      "note": "The draft retains clinical scheduling, dedicated consultation time, appointment-based consultations, and the comparative longer."
+    },
+    {
+      "id": "MAN-24-0019",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Orient all health care providers and community health workers on basic psychosocial support skills (including those who are not trained in the assessment and management of MNS conditions, see MSP activity 3.2).",
+      "ne": "सबै स्वास्थ्य सेवा प्रदायक र समुदायका स्वास्थ्यकर्मीहरूलाई आधारभूत मनोसामाजिक सहयोग सीपबारे अभिमुखीकरण दिनुहोस् (MNS अवस्थाहरूको लेखाजोखा र व्यवस्थापनमा तालिम नलिएकाहरूसहित; MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "Give all health care providers and community health workers an orientation on basic psychosocial support skills (including those not trained in the assessment and management of MNS conditions; see MSP activity 3.2).",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T027",
+        "T091",
+        "T163",
+        "T196",
+        "T236",
+        "T284",
+        "T344",
+        "T410",
+        "T454"
+      ],
+      "flags": [],
+      "note": "The instruction includes providers and community health workers who lack training in assessment and management of MNS conditions."
+    },
+    {
+      "id": "MAN-24-0020",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Orient clinical and non-clinical health staff to appropriately respond to a disclosure of sexual violence or GBV and safely refer survivors to care, using the first-line support (LIVES) approach.",
+      "ne": "चिकित्सकीय तथा गैरचिकित्सकीय स्वास्थ्य कर्मचारीहरूलाई यौन हिंसा वा GBV भएको खुलासा गरिँदा उचित प्रतिक्रिया दिन र [first-line support (LIVES) approach] प्रयोग गरेर प्रभावित व्यक्तिहरूलाई सुरक्षित रूपमा हेरचाहका लागि प्रेषण गर्न अभिमुखीकरण दिनुहोस्।",
+      "bt": "Give clinical and non-clinical health staff an orientation on responding appropriately when sexual violence or GBV is disclosed and safely referring affected people for care using the [first-line support (LIVES) approach].",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T299",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor label means affected persons and can include indirectly affected people, whereas survivors here denotes people who directly experienced and survived sexual violence or GBV; the named LIVES approach remains in exact source English. bt-divergence: Frozen T317 renders survivors as affected persons, which can include indirectly affected people. The source refers to people who directly experienced and survived sexual violence or GBV. The frozen form is retained."
+    },
+    {
+      "id": "MAN-24-0021",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Set up a private space to ensure confidentiality while providing mental health services (e.g. arrange private space for consultations).",
+      "ne": "मानसिक स्वास्थ्य सेवा प्रदान गर्दा गोपनीयता सुनिश्चित गर्न एकान्त स्थानको व्यवस्था गर्नुहोस् (जस्तै, परामर्शका लागि एकान्त स्थान मिलाउनुहोस्)।",
+      "bt": "Arrange a private space to ensure confidentiality when providing mental health care (e.g., arrange a private space for consultations).",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T211",
+        "T263",
+        "T346",
+        "T347"
+      ],
+      "flags": [],
+      "note": "General privacy guidance drafted for safety review. Mental health service wording reuses the supplied T107 candidate; no clinical procedure is introduced."
+    },
+    {
+      "id": "MAN-24-0022",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Engage a technically qualified mental health specialist to provide ongoing supervision, refresher trainings and follow-up to trained staff.",
+      "ne": "तालिमप्राप्त कर्मचारीलाई निरन्तर सुपरिवेक्षण, पुनर्ताजगी तालिम र अनुवर्ती सहयोग प्रदान गर्न प्राविधिक रूपमा योग्य मानसिक स्वास्थ्य विशेषज्ञलाई संलग्न गराउनुहोस्।",
+      "bt": "Involve a technically qualified mental health specialist to provide ongoing supervision, refresher training and follow-up support to trained staff.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T264",
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Mental health specialist recurs but lacks a standalone glossary entry; proposed wording is [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. This denotes the professional role, not a newly translated clinical intervention."
+    },
+    {
+      "id": "MAN-24-0023",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Identify, treat and care for people with MNS conditions in the general health system. Provide translators (who have been oriented on their role, including MHPSS considerations) if needed.",
+      "ne": "सामान्य स्वास्थ्य प्रणालीभित्र MNS अवस्थाहरू भएका व्यक्तिहरूको पहिचान गर्नुहोस्, उपचार गर्नुहोस् र हेरचाह गर्नुहोस्। आवश्यक भएमा, अनुवादकहरू उपलब्ध गराउनुहोस् (जसलाई MHPSS सम्बन्धी विचार गर्नुपर्ने पक्षहरूसहित आफ्नो भूमिकाबारे अभिमुखीकरण दिइएको होस्)।",
+      "bt": "Identify, treat and care for people with MNS conditions within the general health system. If necessary, make interpreters available (who have been given an orientation on their role, including aspects to consider concerning MHPSS).",
+      "type": "safety",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": "All three care actions are retained; translator provision remains conditional on need, and translators must have received role orientation including MHPSS considerations."
+    },
+    {
+      "id": "MAN-24-0024",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Support the establishment of an appropriate filing system (e.g. allowing for follow-up), integrate mental health categories into the health management information system (see Sphere Appendix 2 for a sample HMIS form and UNHCR case definitions) and regularly report this information to relevant clusters (e.g. Health, Protection, Education).",
+      "ne": "उपयुक्त अभिलेख व्यवस्थापन प्रणाली स्थापना गर्न सहयोग गर्नुहोस् (जस्तै, अनुवर्ती कार्य गर्न मिल्ने प्रणाली), स्वास्थ्य व्यवस्थापन सूचना प्रणालीमा मानसिक स्वास्थ्यका वर्गहरू समावेश गर्नुहोस् (नमुना HMIS फाराम र UNHCR का केस परिभाषाहरूका लागि Sphere परिशिष्ट 2 हेर्नुहोस्) र यो जानकारी सम्बन्धित क्लस्टरलाई नियमित रूपमा प्रतिवेदनमार्फत उपलब्ध गराउनुहोस् (जस्तै, स्वास्थ्य, संरक्षण, शिक्षा)।",
+      "bt": "Support the establishment of an appropriate records management system (e.g., a system that allows follow-up), include mental health categories in the health management information system (see Sphere Appendix 2 for sample HMIS forms and UNHCR case definitions), and regularly provide this information through reports to the relevant clusters (e.g., health, protection, education).",
+      "type": "check",
+      "terms": [
+        "T027",
+        "T157",
+        "T124",
+        "T029",
+        "T028"
+      ],
+      "flags": [],
+      "note": "Administrative information-management guidance is drafted; no clinical categories or case definitions themselves are translated. Preserves Sphere Appendix 2, HMIS, UNHCR and all three example clusters."
+    },
+    {
+      "id": "MAN-24-0025",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Organize an uninterrupted supply of essential psychotropic medicines with at least one from each therapeutic category (antipsychotic, antidepressant, anxiolytic, antiepileptic and medicines to counter side-effects of antipsychotics (see the Inter-Agency Emergency Health Kit).",
+      "ne": "प्रत्येक चिकित्सकीय वर्गबाट कम्तीमा एउटा औषधि समावेश हुने गरी आवश्यक मनोप्रभावी औषधिहरूको निर्बाध आपूर्तिको व्यवस्था गर्नुहोस्: मनोविकृतिविरुद्धका औषधि, अवसादविरुद्धका औषधि, चिन्ता कम गर्ने औषधि, छारेरोगविरुद्धका औषधि र मनोविकृतिविरुद्धका औषधिका दुष्प्रभाव कम गर्ने औषधि ([Inter-Agency Emergency Health Kit] हेर्नुहोस्)।",
+      "bt": "Arrange an uninterrupted supply of essential psychotropic medicines, including at least one medicine from each therapeutic class: antipsychotic medicines, antidepressant medicines, medicines that reduce anxiety, antiepileptic medicines and medicines that reduce the side effects of antipsychotic medicines (see [Inter-Agency Emergency Health Kit]).",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "unclear-english",
+        "glossary-missing"
+      ],
+      "note": "The source has an unmatched opening parenthesis; the draft preserves all five therapeutic categories and the kit reference without inferring a change to the list. Medicine-class wording is not covered by the supplied frozen candidates."
+    },
+    {
+      "id": "MAN-24-0026",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Strengthen or establish links and referral mechanisms to and from: mental health specialists, general health care providers, protection (e.g. GBV case management services), education actors, food security and livelihoods, community-based support and other services (e.g. nutrition), as well as traditional healers and faith leaders (where appropriate).",
+      "ne": "निम्न पक्ष तथा सेवाहरूसँग दुवैतर्फका सम्पर्क तथा सेवा प्रेषण संयन्त्रहरू सुदृढ गर्नुहोस् वा स्थापना गर्नुहोस्: मानसिक स्वास्थ्य विशेषज्ञ, सामान्य स्वास्थ्य सेवा प्रदायक, संरक्षण (जस्तै, GBV सम्बन्धी केस व्यवस्थापन सेवा), शिक्षा क्षेत्रमा कार्यरत पक्षहरू, खाद्य सुरक्षा तथा जीविकोपार्जन, समुदायमा आधारित सहयोग र अन्य सेवा (जस्तै, पोषण), साथै उपयुक्त हुने अवस्थामा परम्परागत उपचारक र धार्मिक अगुवा।",
+      "bt": "Strengthen or establish two-way contact and service referral mechanisms with the following parties and services: mental health specialists, general health care providers, protection (e.g., GBV-related case management services), parties working in the education sector, food security and livelihoods, community-based support and other services (e.g., nutrition), as well as traditional healers and religious leaders where appropriate.",
+      "type": "safety",
+      "terms": [
+        "T064",
+        "T157",
+        "T027",
+        "T029",
+        "T118",
+        "T130",
+        "T034",
+        "T030",
+        "T236",
+        "T264",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General referral guidance drafted for safety review. Preserves both directions of referral, all listed sectors and services, and the appropriateness condition for traditional healers and faith leaders. Missing recurring role terms are proposed as mental health specialist: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and health care providers: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-24-0027",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Organize community mental health outreach to disseminate key mental health promotion messages (see MSP activity 3.3) and to identify people with possible MNS conditions and link them to services (e.g. provided by trained community health workers). Engage community members in the identification of people with severe mental health conditions who may be physically restrained, hidden away, or not accessing care for various reasons.",
+      "ne": "मानसिक स्वास्थ्य प्रवर्द्धनका मुख्य सन्देशहरू फैलाउन (MSP गतिविधि 3.3 हेर्नुहोस्), MNS सम्बन्धी अवस्थाहरू हुन सक्ने व्यक्तिहरू पहिचान गर्न र उनीहरूलाई सेवाहरूसँग जोड्न समुदायमा पुगेर मानसिक स्वास्थ्यसम्बन्धी सेवा दिने व्यवस्था गर्नुहोस् (उदाहरणका लागि, तालिमप्राप्त सामुदायिक स्वास्थ्यकर्मीले प्रदान गर्ने सेवा)। विभिन्न कारणले शारीरिक रूपमा बन्धनमा राखिएका हुन सक्ने, लुकाएर राखिएका हुन सक्ने वा हेरचाह प्राप्त नगरेका हुन सक्ने गम्भीर मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरूको पहिचानमा समुदायका सदस्यहरूलाई संलग्न गराउनुहोस्।",
+      "bt": "Arrange for mental health services to be provided by reaching out into the community (for example, services provided by trained community health workers) to spread key messages for mental health promotion (see MSP Activity 3.3), identify people who may have MNS-related conditions and connect them with services. Involve community members in identifying people with severe mental health conditions who, for various reasons, may have been physically restrained, may have been kept hidden or may not have received care.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T091",
+        "T157",
+        "T163",
+        "T344",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "MNS remains unexpanded because the source does not expand it. Physical-restraint wording is drafted without a supplied frozen equivalent. The draft expands physical restraint to include confinement through 'थुनेर'. The repair removes confinement as a separately included practice while retaining possible physical restraint. “Not accessing care” becomes “may not have received care,” shifting from access to receipt. Current possible restraint and concealment are rendered as possible past restraint and concealment (“may have been”), leaving their ongoing status less explicit."
+    },
+    {
+      "id": "MAN-24-0028",
+      "page": "73",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Address discrimination and neglect of people with severe and chronic mental health conditions in the humanitarian response. For example, advocate for children, adults and older persons with MNS conditions to have access to basic services (nutrition, shelter), learning opportunities, livelihoods and recreational activities; and facilitate referral to such services and supports as needed. Address the use of physical restraint (which is often used because of lack of alternative support/medication).",
+      "ne": "मानवीय प्रतिकार्यमा गम्भीर र दीर्घकालीन मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरूमाथि हुने भेदभाव र उपेक्षालाई सम्बोधन गर्नुहोस्। उदाहरणका लागि, MNS सम्बन्धी अवस्थाहरू भएका बालबालिका, वयस्क र ज्येष्ठ व्यक्तिहरूको आधारभूत सेवाहरू (पोषण, आश्रय), सिकाइका अवसरहरू, जीविकोपार्जन र मनोरञ्जनात्मक गतिविधिहरूमा पहुँच होस् भनी पैरवी गर्नुहोस्; र आवश्यकताअनुसार त्यस्ता सेवा तथा सहयोगका लागि सम्बन्धित सेवामा पठाउने कार्यको सहजीकरण गर्नुहोस्। शारीरिक बन्धनको प्रयोगलाई सम्बोधन गर्नुहोस् (वैकल्पिक सहयोग/औषधि उपलब्ध नभएकाले प्रायः यस्तो प्रयोग गरिन्छ)।",
+      "bt": "Address discrimination and neglect against people with severe and long-term mental health conditions in the humanitarian response. For example, advocate for children, adults and older people with MNS-related conditions to have access to basic services (nutrition, shelter), learning opportunities, livelihoods and recreational activities; and facilitate referral to the relevant services for such services and support as needed. Address the use of physical restraint (such use often occurs because alternative support/medication is not available).",
+      "type": "safety",
+      "terms": [
+        "T003",
+        "T027",
+        "T030",
+        "T074",
+        "T081",
+        "T155",
+        "T157",
+        "T172",
+        "T174",
+        "T300",
+        "T332",
+        "T364",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Physical-restraint wording lacks a supplied frozen equivalent; the draft retains the source explanation about unavailable alternative support or medication. The draft expands the use of physical restraint to include confinement through 'थुनेर'. The repair retains physical restraint without adding confinement."
+    },
+    {
+      "id": "MAN-24-0029",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूमा निर्भर)",
+      "bt": "Additional actions provided for consideration (depending on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-24-0030",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Initiate, support or engage in strategic longer-term planning processes for the integration of mental health into general health care (e.g. as part of MHPSS TWGs with humanitarian and development donors and government actors such as national mental health steering groups or commissions, and in strategic reviews of policies, guidance or plans at the national level).",
+      "ne": "मानसिक स्वास्थ्यलाई सामान्य स्वास्थ्य सेवामा एकीकृत गर्न रणनीतिक दीर्घकालीन योजना प्रक्रियाहरू सुरु गर्नुहोस्, तिनलाई सहयोग गर्नुहोस् वा तिनमा सहभागी हुनुहोस् (उदाहरणका लागि, मानवीय सहायता तथा विकासका दातृ निकाय र राष्ट्रिय मानसिक स्वास्थ्य निर्देशन समूह वा आयोगजस्ता सरकारी सम्बद्ध पक्षहरू समावेश भएका MHPSS TWGs अन्तर्गत तथा राष्ट्रिय स्तरका नीति, मार्गदर्शन वा योजनाहरूको रणनीतिक समीक्षामा) ।",
+      "bt": "Initiate, support or participate in strategic long-term planning processes to integrate mental health into general health services (for example, under MHPSS TWGs that include humanitarian assistance and development donor agencies and government stakeholders such as national mental health steering groups or commissions, and in strategic reviews of national-level policies, guidance or plans).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T027",
+        "T023",
+        "T114"
+      ],
+      "flags": [],
+      "note": "Administrative planning and coordination content; MHPSS TWGs is retained as supplied."
+    },
+    {
+      "id": "MAN-24-0031",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Facilitate peer support groups for mental health service users and their family members/carers, including people with psychosocial and intellectual disabilities or cognitive impairments.",
+      "ne": "मनोसामाजिक अपाङ्गता र [intellectual disabilities] वा संज्ञानात्मक क्षमतामा कमी भएका व्यक्तिहरूसमेत समेटिने गरी मानसिक स्वास्थ्य सेवा प्रयोगकर्ता र उनीहरूका परिवारका सदस्यहरू/हेरचाहकर्ताहरूका लागि सहकर्मी सहयोग समूहहरूको सहजीकरण गर्नुहोस्।",
+      "bt": "Facilitate peer support groups for mental health service users and their family members/caregivers so that persons with psychosocial disabilities and [intellectual disabilities] or reduced cognitive ability are also included.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T262",
+        "T279",
+        "T311",
+        "T364",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence",
+        "prior-draft-changed"
+      ],
+      "note": "The diagnostic label 'intellectual disabilities' is retained in exact source English inside square brackets; the remaining candidate wording is retained apart from the grammatical adjustment needed to separate the disability categories. The frozen T279 form 'सहकर्मी सहयोग' denotes support among coworkers, whereas the source refers to peers among mental health service users and their family members/carers, who need not be coworkers. The frozen form is retained. Psychosocial-disability and cognitive-impairment wording lacks supplied frozen equivalents. “Peer support groups” becomes “coworker/colleague support groups,” narrowing the peer relationship to a work-related one that the English does not require."
+    },
+    {
+      "id": "MAN-24-0032",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Build the capacity of and support family members/carers of persons with mental health conditions, psychosocial and intellectual disabilities or cognitive impairments (e.g. strengthening coping skills, self-care).",
+      "ne": "मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू, मनोसामाजिक अपाङ्गता र [intellectual disabilities] वा संज्ञानात्मक क्षमतामा कमी भएका व्यक्तिहरूका परिवारका सदस्यहरू/हेरचाहकर्ताहरूको क्षमता विकास गर्नुहोस् र उनीहरूलाई सहयोग गर्नुहोस् (उदाहरणका लागि, कठिनाइको सामना गर्ने सीप र आफ्नो हेरचाह गर्ने क्षमता सुदृढ गर्ने)।",
+      "bt": "Develop the capacity of family members/caregivers of persons with mental health-related conditions, psychosocial disabilities and [intellectual disabilities] or reduced cognitive ability, and support them (for example, strengthening skills for coping with difficulties and the ability to care for oneself).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T410",
+        "T458",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing",
+        "prior-draft-changed"
+      ],
+      "note": "The diagnostic label 'intellectual disabilities' is retained in exact source English inside square brackets; the remaining candidate wording is retained apart from the grammatical adjustment needed to separate the disability categories. Psychosocial-disability, cognitive-impairment and self-care wording lacks supplied frozen equivalents; the supplied condition and coping-skills forms are retained."
+    },
+    {
+      "id": "MAN-24-0033",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Engage community members, including persons with lived experience of mental health conditions, in larger-scale activities that address stigma and negative perceptions about mental health conditions (e.g. community discussions and events, World Mental Health Day events).",
+      "ne": "मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको प्रत्यक्ष अनुभव भएका व्यक्तिहरूसहित समुदायका सदस्यहरूलाई यी अवस्थाहरूबारेको लाञ्छना र नकारात्मक धारणालाई सम्बोधन गर्ने बृहत् स्तरका गतिविधिहरूमा संलग्न गराउनुहोस् (उदाहरणका लागि, समुदायमा हुने छलफल र कार्यक्रमहरू तथा विश्व मानसिक स्वास्थ्य दिवसका कार्यक्रमहरू)।",
+      "bt": "Involve community members, including people with direct experience of mental health conditions, in broad-scale activities addressing stigma and negative perceptions about these conditions (for example, community discussions and events and World Mental Health Day events).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T344",
+        "T409",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied plural condition wording is used; the source examples and inclusion of people with lived experience are retained."
+    },
+    {
+      "id": "MAN-24-0034",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Add a mental health professional (e.g. psychiatrist, psychiatric nurse, psychiatric clinical officer, psychologist) to referral health care facilities (e.g. one per geographic area or region), who can provide specialized mental health care and engage in training, supporting and supervising general health care providers.",
+      "ne": "थप हेरचाहका लागि बिरामी पठाइने स्वास्थ्य सेवा संस्थाहरूमा मानसिक स्वास्थ्यका एक जना पेसाकर्मी (उदाहरणका लागि, मनोचिकित्सक, मनोचिकित्साका नर्स, मनोचिकित्साका क्लिनिकल अधिकृत वा मनोवैज्ञानिक) थप्नुहोस् (उदाहरणका लागि, प्रत्येक भौगोलिक क्षेत्र वा भेगमा एक जना), जसले विशेषीकृत मानसिक स्वास्थ्य हेरचाह प्रदान गर्न र सामान्य स्वास्थ्य सेवा प्रदायकहरूलाई तालिम दिने, सहयोग गर्ने तथा सुपरिवेक्षण गर्ने काममा संलग्न हुन सक्छन्।",
+      "bt": "Add one mental health professional (for example, a psychiatrist, psychiatric nurse, psychiatric clinical officer or psychologist) to health service facilities to which patients are sent for further care (for example, one in each geographical area or region), who can provide specialized mental health care and be involved in training, supporting and supervising general health service providers.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T236"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Several specialist professional titles lack supplied frozen equivalents; the source capability wording is retained without changing it into a separate obligation. The draft renders 'region' as 'प्रदेश', back-translated as 'province', narrowing the source to a particular administrative unit. The repair uses a general geographic term."
+    },
+    {
+      "id": "MAN-24-0035",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Hire, train, and supervise workers to provide more comprehensive services such as mental health case management (e.g. advocating for persons with mental health conditions; supporting coordination and navigation of services; facilitating access to various services and supports; helping to address urgent practical problems (e.g. housing, protection, medical needs) and providing strengths-based and recovery-oriented support, see also MSP activity 3.13).",
+      "ne": "मानसिक स्वास्थ्यसम्बन्धी केस व्यवस्थापनजस्ता थप व्यापक सेवाहरू प्रदान गर्न कामदारहरू नियुक्त गर्नुहोस्, उनीहरूलाई तालिम दिनुहोस् र उनीहरूको सुपरिवेक्षण गर्नुहोस् (उदाहरणका लागि, मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरूका पक्षमा पैरवी गर्नु, सेवाहरूको समन्वय गर्न र सेवासम्म पुग्ने प्रक्रिया बुझेर अघि बढ्न सहयोग गर्नु, विभिन्न सेवा तथा सहयोगमा पहुँचको सहजीकरण गर्नु, तत्काल सम्बोधन गर्नुपर्ने व्यावहारिक समस्याहरू समाधान गर्न मद्दत गर्नु (उदाहरणका लागि, आवास, संरक्षण र चिकित्सा आवश्यकताहरू), र व्यक्तिका सबल पक्षहरूमा आधारित तथा पुनःस्वास्थ्यलाभतर्फ उन्मुख सहयोग प्रदान गर्नु; MSP गतिविधि 3.13 पनि हेर्नुहोस्)।",
+      "bt": "Recruit, train and supervise workers to provide more comprehensive services such as mental health case management (for example, advocating on behalf of people with mental health conditions, helping coordinate services and understand and navigate the process of reaching services, facilitating access to various services and support, helping resolve practical problems requiring immediate attention (for example, housing, protection and medical needs), and providing support based on the person's strengths and oriented toward recovery; see also MSP activity 3.13).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T029",
+        "T091",
+        "T118",
+        "T157",
+        "T163",
+        "T332",
+        "T349",
+        "T364",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Service-navigation and strengths-based, recovery-oriented support wording lacks supplied frozen equivalents; all source service examples and the cross-reference are retained."
+    },
+    {
+      "id": "MAN-24-0036",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Regularly obtain feedback from mental health service users about available care (e.g. accessibility, perceived quality).",
+      "ne": "मानसिक स्वास्थ्य सेवा प्रयोगकर्ताहरूबाट उपलब्ध सेवाबारे नियमित रूपमा प्रतिक्रिया लिनुहोस् (उदाहरणका लागि, सेवामा पहुँच र उनीहरूले अनुभव गरेको गुणस्तरबारे) ।",
+      "bt": "Regularly obtain feedback from mental health service users about the available services (for example, about access to services and the quality they have experienced).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T262"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The proposed service-user wording is an administrative label, not a new clinical term. Perceived quality remains the users' assessment rather than an assertion of measured quality."
+    },
+    {
+      "id": "MAN-24-0037",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Build longer-term capacity in delivering clinical mental health care through academic and other training institutions (e.g. inclusion in curricula of diploma and degree programmes for health care professionals, continued professional education).",
+      "ne": "शैक्षिक तथा अन्य तालिम संस्थाहरूमार्फत चिकित्सकीय मानसिक स्वास्थ्य हेरचाह प्रदान गर्ने दीर्घकालीन क्षमता विकास गर्नुहोस् (उदाहरणका लागि, स्वास्थ्य सेवाका पेसाकर्मीहरूका लागि डिप्लोमा र डिग्री कार्यक्रमहरूको पाठ्यक्रममा यसलाई समावेश गर्ने तथा निरन्तर पेसागत शिक्षा प्रदान गर्ने)।",
+      "bt": "Develop long-term capacity to provide clinical mental health care through educational and other training institutions (for example, incorporating this into the curricula of diploma and degree programmes for health care professionals and providing continuing professional education).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T409"
+      ],
+      "flags": [],
+      "note": "The draft retains both academic and other training institutions and both curriculum inclusion and continuing professional education."
+    },
+    {
+      "id": "MAN-24-0038",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Integrate mental health care into disease-specific programmes and services, such as those for HIV/AIDS, tuberculosis and noncommunicable diseases (NCDs) and into population-specific programmes and services, such as maternal, sexual and reproductive health, child and adolescent health, and family health and well-being programmes and services.",
+      "ne": "मानसिक स्वास्थ्य हेरचाहलाई रोगविशेषका कार्यक्रम तथा सेवाहरूमा, जस्तै [HIV/AIDS], [tuberculosis] र नसर्ने रोगहरू (NCDs) का लागि सञ्चालित कार्यक्रम तथा सेवाहरूमा, तथा जनसङ्ख्याका विशिष्ट समूहहरूका लागि सञ्चालित कार्यक्रम तथा सेवाहरूमा, जस्तै मातृ स्वास्थ्य, यौन तथा प्रजनन स्वास्थ्य, बाल तथा किशोर स्वास्थ्य र परिवारको स्वास्थ्य तथा कल्याणसम्बन्धी कार्यक्रम तथा सेवाहरूमा एकीकृत गर्नुहोस्।",
+      "bt": "Integrate mental health care into disease-specific programmes and services, such as programmes and services run for [HIV/AIDS], [tuberculosis] and noncommunicable diseases (NCDs), and into programmes and services run for specific population groups, such as programmes and services concerning maternal health, sexual and reproductive health, child and adolescent health and family health and well-being.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T328",
+        "T409",
+        "T508"
+      ],
+      "flags": [],
+      "note": "Named diseases remain exact source English in brackets; the broader noncommunicable-disease category is drafted in Nepali with NCDs retained."
+    },
+    {
+      "id": "MAN-24-0039",
+      "page": "74",
+      "loc": "heading",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-24-0040",
+      "page": "74",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.10 Provide mental health care as part of general health services",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

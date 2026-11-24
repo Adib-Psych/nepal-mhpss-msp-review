@@ -1,0 +1,563 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-08",
+  "unit_title": "Essential Components of All MHPSS Programmes",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "81-87",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:08:35+05:45",
+  "coverage": {
+    "source_words": 326,
+    "row_words": 326,
+    "skipped": [
+      "Slide 83: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 83: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 84: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 85: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 86: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 86: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-08-0001",
+      "page": "81",
+      "loc": "slide-title",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Module 4:",
+      "ne": "मोड्युल 4:",
+      "bt": "Module 4:",
+      "type": "activity",
+      "terms": [
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0002",
+      "page": "81",
+      "loc": "slide-title",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Essential Components of MHPSS Programmes",
+      "ne": "MHPSS कार्यक्रमका अत्यावश्यक घटकहरू",
+      "bt": "Essential components of MHPSS programs",
+      "type": "activity",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed term for review: essential components = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The frozen glossary is unchanged."
+    },
+    {
+      "id": "SLD-08-0003",
+      "page": "82",
+      "loc": "slide-title",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Module Learning Objectives",
+      "ne": "मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Module learning objectives",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0004",
+      "page": "82",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "List the essential components of all MHPSS programmes",
+      "ne": "सबै MHPSS कार्यक्रमका अत्यावश्यक घटकहरूको सूची बनाउनुहोस्।",
+      "bt": "List the essential components of all MHPSS programs.",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed term essential components = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "SLD-08-0005",
+      "page": "82",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Recognise the need for thoughtful design, planning and coordination",
+      "ne": "सोचविचारपूर्वक डिजाइन, योजना र समन्वय गर्नुपर्ने आवश्यकता पहिचान गर्नुहोस्।",
+      "bt": "Identify the need for thoughtful design, planning and coordination.",
+      "type": "general",
+      "terms": [
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0006",
+      "page": "82",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Understand the importance of M&E for MHPSS",
+      "ne": "MHPSS का लागि अनुगमन तथा मूल्याङ्कन (M&E) को महत्त्व बुझ्नुहोस्।",
+      "bt": "Understand the importance of monitoring and evaluation (M&E) for MHPSS.",
+      "type": "general",
+      "terms": [
+        "T394"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed standalone glossary entry: monitoring and evaluation (M&E) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (M&E). This wording is supplied within activity 2.2, but no standalone term is provided."
+    },
+    {
+      "id": "SLD-08-0007",
+      "page": "82",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Explain the value of caring for staff and volunteers providing MHPSS",
+      "ne": "MHPSS प्रदान गर्ने कर्मचारी र स्वयंसेवकको हेरचाह गर्नुको महत्त्व व्याख्या गर्नुहोस्।",
+      "bt": "Explain the importance of caring for staff and volunteers who provide MHPSS.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0008",
+      "page": "82",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Understand the importance of supporting MHPSS competencies",
+      "ne": "MHPSS सम्बन्धी सक्षमताका लागि सहयोग गर्नुको महत्त्व बुझ्नुहोस्।",
+      "bt": "Understand the importance of providing support for MHPSS-related competence.",
+      "type": "general",
+      "terms": [
+        "T159"
+      ],
+      "flags": [],
+      "note": "The translation adds 'strengthening' to the source's broader 'supporting MHPSS competencies'; the revision removes that added specification."
+    },
+    {
+      "id": "SLD-08-0009",
+      "page": "84",
+      "loc": "slide-title",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Group Exercise: My Component is the Most Important",
+      "ne": "सामूहिक अभ्यास: मेरो घटक नै सबैभन्दा महत्त्वपूर्ण छ",
+      "bt": "Group exercise: My component is the most important",
+      "type": "general",
+      "terms": [
+        "T345"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0010",
+      "page": "84",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "6 Groups",
+      "ne": "6 समूह",
+      "bt": "6 groups",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0011",
+      "page": "84",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "4 advocate groups",
+      "ne": "पैरवी गर्ने 4 समूह",
+      "bt": "4 groups advocating",
+      "type": "check",
+      "terms": [
+        "T191"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0012",
+      "page": "84",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "2 donor groups (2 components each)",
+      "ne": "दाताका 2 समूह (प्रत्येकलाई 2 घटक)",
+      "bt": "2 donor groups (2 components for each)",
+      "type": "check",
+      "terms": [
+        "T345"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0013",
+      "page": "85",
+      "loc": "slide-title",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Group Exercise: My Component is the Most Important",
+      "ne": "सामूहिक अभ्यास: मेरो घटक नै सबैभन्दा महत्त्वपूर्ण छ",
+      "bt": "Group exercise: My component is the most important",
+      "type": "general",
+      "terms": [
+        "T345"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0014",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Advocacy groups: ​",
+      "ne": "पैरवी गर्ने समूहहरू:",
+      "bt": "Groups advocating:",
+      "type": "general",
+      "terms": [
+        "T191"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0015",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Prepare a 5 min presentation on the component you have been assigned, arguing why it is the most important component of the four.",
+      "ne": "तपाईंलाई जिम्मा दिइएको घटक चार घटकमध्ये सबैभन्दा महत्त्वपूर्ण किन हो भन्ने तर्कसहित त्यसबारे 5 मिनेटको प्रस्तुति तयार गर्नुहोस्।",
+      "bt": "Prepare a 5-minute presentation about the component assigned to you, with arguments for why it is the most important of the four components.",
+      "type": "check",
+      "terms": [
+        "T345"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0016",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "In your presentation, address the following:​",
+      "ne": "आफ्नो प्रस्तुतिमा निम्न विषयहरू समेट्नुहोस्।",
+      "bt": "Include the following topics in your presentation.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0017",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Summarize the component based on the description and core actions.​",
+      "ne": "विवरण र मुख्य कार्यहरूका आधारमा उक्त घटकको सार प्रस्तुत गर्नुहोस्।",
+      "bt": "Present a summary of that component based on the description and main activities.",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T345",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0018",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Why is this component important?​",
+      "ne": "यो घटक किन महत्त्वपूर्ण छ?",
+      "bt": "Why is this component important?",
+      "type": "general",
+      "terms": [
+        "T345"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0019",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "What are the risks if we do NOT consider / implement this component?​",
+      "ne": "हामीले यो घटकलाई ध्यानमा नराखेमा / कार्यान्वयन नगरेमा के-कस्ता जोखिम हुन्छन्?",
+      "bt": "What risks are there if we do not take this component into account / do not implement it?",
+      "type": "general",
+      "terms": [
+        "T345"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0020",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "What are some of the steps required to set it in place.​",
+      "ne": "यसलाई स्थापित गर्न आवश्यक केही कदम के-के हुन्?",
+      "bt": "What are some steps necessary to establish it?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0021",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Donor groups: ​",
+      "ne": "दाताका समूहहरू:",
+      "bt": "Donor groups:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0022",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Review the 2 components you have been assigned ​",
+      "ne": "तपाईंलाई जिम्मा दिइएका 2 घटकको समीक्षा गर्नुहोस्।",
+      "bt": "Review the 2 components assigned to you.",
+      "type": "check",
+      "terms": [
+        "T345"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0023",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Prepare questions for the groups that will present.​",
+      "ne": "प्रस्तुति दिने समूहहरूका लागि प्रश्नहरू तयार गर्नुहोस्।",
+      "bt": "Prepare questions for the groups giving presentations.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0024",
+      "page": "85",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "20 min",
+      "ne": "20 मिनेट",
+      "bt": "20 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0025",
+      "page": "86",
+      "loc": "slide-notes",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "As we saw before, Section 2 does not have any sector icons next to it because these activities relate to internal organizational processes and don’t require inter-sectoral coordination​",
+      "ne": "हामीले पहिले हेरेझैँ, खण्ड 2 को छेउमा कुनै पनि क्षेत्रका चिह्नहरू छैनन्, किनभने यी गतिविधिहरू संस्थाका आन्तरिक प्रक्रियासँग सम्बन्धित छन् र यिनका लागि अन्तरक्षेत्रीय समन्वय आवश्यक पर्दैन।",
+      "bt": "As we saw earlier, there are no symbols for any sectors beside Section 2, because these activities relate to the organization's internal processes and do not require intersectoral coordination.",
+      "type": "check",
+      "terms": [
+        "T296",
+        "T150",
+        "T349",
+        "T385",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0026",
+      "page": "86",
+      "loc": "slide-notes",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "These activities are here to guide organizations internal work and systems.",
+      "ne": "यी गतिविधिहरू संस्थाहरूको आन्तरिक कार्य र प्रणालीहरूलाई मार्गदर्शन गर्न यहाँ समावेश गरिएका हुन्।",
+      "bt": "These activities are included here to guide organizations' internal work and systems.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0027",
+      "page": "86",
+      "loc": "slide-notes",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "They are absolutely crucial for the planning and implementation of a safe and effective MHPSS response.",
+      "ne": "सुरक्षित र प्रभावकारी MHPSS प्रतिकार्यको योजना र कार्यान्वयनका लागि यी गतिविधिहरू अपरिहार्य छन्।",
+      "bt": "These activities are indispensable for planning and implementing a safe and effective MHPSS response.",
+      "type": "general",
+      "terms": [
+        "T161",
+        "T380"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0028",
+      "page": "86",
+      "loc": "slide-notes",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Organizations must have sound systems for program design, for coordination, for M&E, for caring for staff & volunteers and for building the MHPSS competencies of staff & volunteers.",
+      "ne": "संस्थाहरूसँग कार्यक्रमको डिजाइन, समन्वय, अनुगमन तथा मूल्याङ्कन (M&E), कर्मचारी र स्वयंसेवकको हेरचाह तथा कर्मचारी र स्वयंसेवकमा MHPSS सम्बन्धी सक्षमता विकासका लागि सुदृढ प्रणालीहरू हुनैपर्छ।",
+      "bt": "Organizations must have robust systems for program design, coordination, monitoring and evaluation (M&E), care for staff and volunteers, and development of MHPSS-related competence among staff and volunteers.",
+      "type": "general",
+      "terms": [
+        "T159",
+        "T349",
+        "T394"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed standalone term monitoring and evaluation (M&E) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (M&E), drawn from supplied activity 2.2; glossary review pending."
+    },
+    {
+      "id": "SLD-08-0029",
+      "page": "86",
+      "loc": "slide-notes",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "These are, however, activities that are often overlooked, although any organizations engaging in any type of MHPSS activity should always do these 4 activities.​",
+      "ne": "तर यी गतिविधिहरू प्रायः बेवास्तामा पर्छन्, यद्यपि कुनै पनि प्रकारको MHPSS गतिविधिमा संलग्न जुनसुकै संस्थाले यी 4 गतिविधि सधैँ गर्नु उचित हुन्छ।",
+      "bt": "But these activities are often neglected, although it is appropriate for any organization involved in any type of MHPSS activity to always carry out these 4 activities.",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation renders 'should always' as 'must always'; the revision distinguishes this recommendation from the preceding mandatory requirement. The source's count of 4 is retained; its relationship to the preceding five-item list remains pending source review. The back-translation weakens the explicit recommendation that organizations 'should always' perform the four activities to a statement that doing so 'is appropriate'."
+    },
+    {
+      "id": "SLD-08-0030",
+      "page": "87",
+      "loc": "slide-title",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Review: Module Learning Objectives",
+      "ne": "समीक्षा: मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Review: Module learning objectives",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0031",
+      "page": "87",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "List the essential components of all MHPSS programmes",
+      "ne": "सबै MHPSS कार्यक्रमका अत्यावश्यक घटकहरूको सूची बनाउनुहोस्।",
+      "bt": "List the essential components of all MHPSS programs.",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed term essential components = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "SLD-08-0032",
+      "page": "87",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Recognise the need for thoughtful design, planning and coordination",
+      "ne": "सोचविचारपूर्वक डिजाइन, योजना र समन्वय गर्नुपर्ने आवश्यकता पहिचान गर्नुहोस्।",
+      "bt": "Identify the need for thoughtful design, planning and coordination.",
+      "type": "general",
+      "terms": [
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0033",
+      "page": "87",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Understand the importance of M&E for MHPSS",
+      "ne": "MHPSS का लागि अनुगमन तथा मूल्याङ्कन (M&E) को महत्त्व बुझ्नुहोस्।",
+      "bt": "Understand the importance of monitoring and evaluation (M&E) for MHPSS.",
+      "type": "general",
+      "terms": [
+        "T394"
+      ],
+      "flags": [],
+      "note": "The M&E expansion reuses wording supplied in activity 2.2."
+    },
+    {
+      "id": "SLD-08-0034",
+      "page": "87",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Explain the value of caring for staff and volunteers providing MHPSS",
+      "ne": "MHPSS प्रदान गर्ने कर्मचारी र स्वयंसेवकको हेरचाह गर्नुको महत्त्व व्याख्या गर्नुहोस्।",
+      "bt": "Explain the importance of caring for staff and volunteers who provide MHPSS.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-08-0035",
+      "page": "87",
+      "loc": "slide-body",
+      "section": "Essential Components of All MHPSS Programmes",
+      "en": "Understand the importance of supporting MHPSS competencies",
+      "ne": "MHPSS सम्बन्धी सक्षमतामा सहयोग गर्नुको महत्त्व बुझ्नुहोस्।",
+      "bt": "Understand the importance of supporting competence related to MHPSS.",
+      "type": "general",
+      "terms": [
+        "T159"
+      ],
+      "flags": [],
+      "note": "Uses the supplied competency candidate with grammatical inflection; review pending."
+    }
+  ]
+}

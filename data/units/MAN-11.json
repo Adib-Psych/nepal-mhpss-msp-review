@@ -1,0 +1,765 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-11",
+  "unit_title": "Design, plan and coordinate MHPSS programmes",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "38-41",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:41:24+05:45",
+  "coverage": {
+    "source_words": 1405,
+    "row_words": 1404,
+    "skipped": [
+      "PDF p.38: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 33",
+      "PDF p.39: running footer/page number removed: 34 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.40: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 35",
+      "PDF p.41: running footer/page number removed: 36 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-11-0001",
+      "page": "38",
+      "loc": "heading",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "SECTION 2",
+      "ne": "खण्ड 2",
+      "bt": "Section 2",
+      "type": "activity",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0002",
+      "page": "38",
+      "loc": "heading",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "ESSENTIAL COMPONENTS OF ALL MHPSS PROGRAMMES",
+      "ne": "सबै MHPSS कार्यक्रमका अत्यावश्यक अवयवहरू",
+      "bt": "Essential components of all MHPSS programmes",
+      "type": "activity",
+      "terms": [
+        "T160",
+        "T409"
+      ],
+      "flags": [],
+      "note": "The back-translation makes the components mandatory; the source describes them as essential without explicitly imposing a mandate."
+    },
+    {
+      "id": "MAN-11-0003",
+      "page": "39",
+      "loc": "heading",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "2.1 Design, plan and coordinate MHPSS programmes",
+      "ne": "2.1 MHPSS कार्यक्रमको डिजाइन, योजना र समन्वय गर्ने",
+      "bt": "2.1 Designing, planning and coordinating an MHPSS programme",
+      "type": "activity",
+      "terms": [
+        "T094",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0004",
+      "page": "39",
+      "loc": "para",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "MHPSS programmes need to be carefully designed, planned and coordinated to maximize effectiveness and mitigate the risk of harm.",
+      "ne": "प्रभावकारिता अधिकतम बनाउन र हानि हुने जोखिम कम गर्न MHPSS कार्यक्रमको डिजाइन, योजना र समन्वय सावधानीपूर्वक गर्नुपर्छ।",
+      "bt": "The design, planning and coordination of an MHPSS programme must be carried out carefully to maximize effectiveness and reduce the risk of harm.",
+      "type": "safety",
+      "terms": [
+        "T160",
+        "T409"
+      ],
+      "flags": [],
+      "note": "General programme safety guidance drafted; safety review pending."
+    },
+    {
+      "id": "MAN-11-0005",
+      "page": "39",
+      "loc": "para",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Information gathered through MHPSS coordination mechanisms and assessments should be used to identify existing resources, prioritize needs and select or adapt programme activities and actions in collaboration with key stakeholders (e.g. government actors, service providers and service users, and other community members, including people of different ages, and people with disabilities and other diverse characteristics).",
+      "ne": "MHPSS समन्वय संयन्त्रहरू र लेखाजोखामार्फत सङ्कलित जानकारीलाई प्रमुख सरोकारवालाहरूको सहकार्यमा विद्यमान स्रोतहरू पहिचान गर्न, आवश्यकतालाई प्राथमिकता दिन तथा कार्यक्रमगत गतिविधिहरू र कार्यहरू छनोट गर्न वा अनुकूलन गर्न प्रयोग गर्नु उचित हुन्छ। यी सरोकारवालाहरूमा, उदाहरणका लागि, सरकारी सम्बद्ध पक्षहरू, सेवा प्रदायक र सेवा प्रयोगकर्ता तथा विभिन्न उमेरका व्यक्ति, अपाङ्गता भएका व्यक्ति र अन्य विविध विशेषता भएका व्यक्तिसहित समुदायका अन्य सदस्य पर्छन्।",
+      "bt": "It is appropriate to use information collected through MHPSS coordination mechanisms and assessments, in collaboration with key stakeholders, to identify existing resources, prioritize needs, and select or adapt programme activities and actions. These stakeholders include, for example, government-related parties, service providers and service users, and other community members, including people of different ages, people with disabilities and people with other diverse characteristics.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T114",
+        "T167",
+        "T182",
+        "T212",
+        "T344",
+        "T349",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The recurring term 'coordination mechanisms' is absent from G-0.2; a candidate is proposed without changing the glossary. The source says information should be used; the back-translation strengthens this to must. The back-translation weakens the recommendation that the information should be used to a statement that using it is appropriate."
+    },
+    {
+      "id": "MAN-11-0006",
+      "page": "39",
+      "loc": "para",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Programmes that are designed with close involvement from key stakeholders are likely to be more relevant, acceptable and sustainable.",
+      "ne": "प्रमुख सरोकारवालाहरूको निकट संलग्नतामा डिजाइन गरिएका कार्यक्रमहरू बढी सान्दर्भिक, स्वीकार्य र दिगो हुने सम्भावना हुन्छ।",
+      "bt": "Programmes designed with the close involvement of key stakeholders are more likely to be relevant, acceptable and sustainable.",
+      "type": "general",
+      "terms": [
+        "T182",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0007",
+      "page": "39",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Activities that are integrated into wider systems (e.g. existing community support mechanisms, formal/ non-formal school systems, health and social services) can reach more people, tend to carry less stigma and can contribute to more sustainable strengthening of systems and services.",
+      "ne": "फराकिला प्रणालीहरूमा एकीकृत गरिएका गतिविधिहरूले अझ धेरै व्यक्तिसम्म पुग्न सक्छन्, तिनीसँग जोडिने सामाजिक कलङ्क कम हुने प्रवृत्ति हुन्छ र तिनले प्रणाली तथा सेवाहरूलाई अझ दिगो रूपमा सुदृढ बनाउन योगदान दिन सक्छन्। यस्ता प्रणालीमा, उदाहरणका लागि, विद्यमान सामुदायिक सहयोग संयन्त्रहरू, औपचारिक/अनौपचारिक विद्यालय प्रणालीहरू तथा स्वास्थ्य र सामाजिक सेवाहरू पर्छन्।",
+      "bt": "Activities integrated into broader systems can reach more people, tend to have less social stigma associated with them and can contribute to strengthening systems and services more sustainably. Such systems include, for example, existing community support mechanisms, formal/informal school systems, and health and social services.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T312"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0008",
+      "page": "39",
+      "loc": "heading",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0009",
+      "page": "39",
+      "loc": "heading",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Design, plan and coordinate MHPSS programmes",
+      "ne": "MHPSS कार्यक्रमको डिजाइन, योजना र समन्वय गर्ने",
+      "bt": "Designing, planning and coordinating an MHPSS programme",
+      "type": "activity",
+      "terms": [
+        "T094",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0010",
+      "page": "39",
+      "loc": "heading",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0011",
+      "page": "39",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Engage with and regularly participate in MHPSS TWG meetings, communications and activities and other relevant coordination mechanisms to share information about current or planned MHPSS activities; to obtain feedback; to promote best practice according to international standards; and to optimize coordination (e.g. filling gaps, avoiding duplication, following global guidance, utilizing referral pathways).",
+      "ne": "हाल सञ्चालित वा योजनाबद्ध MHPSS गतिविधिहरूबारे जानकारी आदानप्रदान गर्न, पृष्ठपोषण प्राप्त गर्न, अन्तर्राष्ट्रिय मापदण्डहरूअनुसार उत्कृष्ट अभ्यास प्रवर्द्धन गर्न र समन्वयलाई सकेसम्म प्रभावकारी बनाउन MHPSS TWG का बैठक, सञ्चार र गतिविधिहरू तथा अन्य सान्दर्भिक समन्वय संयन्त्रहरूमा संलग्न हुनुहोस् र नियमित रूपमा सहभागी हुनुहोस्। समन्वयलाई प्रभावकारी बनाउने कार्यमा, उदाहरणका लागि, अपूरा पक्षहरू पूरा गर्ने, दोहोरोपनबाट जोगिने, विश्वव्यापी मार्गदर्शन पालना गर्ने र सेवा प्रेषण मार्गहरू उपयोग गर्ने कार्य पर्छन्।",
+      "bt": "Engage and participate regularly in MHPSS TWG meetings, communications and activities, and other relevant coordination mechanisms, to exchange information about ongoing or planned MHPSS activities, receive feedback, promote best practices in accordance with international standards and make coordination as effective as possible. Actions to make coordination effective include, for example, filling gaps, avoiding duplication, following global guidance and using referral pathways.",
+      "type": "safety",
+      "terms": [
+        "T063",
+        "T087",
+        "T158",
+        "T212",
+        "T349",
+        "T360"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General coordination and referral guidance drafted; safety review pending. The recurring term 'coordination mechanisms' is absent from G-0.2; a candidate is proposed."
+    },
+    {
+      "id": "MAN-11-0012",
+      "page": "39",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Engage representative stakeholders (e.g. government, community members and service users) in designing and planning programmes that are relevant to their needs and priorities; build on their existing capacities; are sensitive to differences in age, gender, disability, and other forms of diversity; are culturally relevant; and do not cause harm (e.g. engagement through meetings, focus group discussions (FGDs), participatory design workshops, etc.).",
+      "ne": "प्रतिनिधिमूलक सरोकारवालाहरूलाई, उदाहरणका लागि सरकार, समुदायका सदस्य र सेवा प्रयोगकर्तालाई, उनीहरूका आवश्यकता र प्राथमिकतासँग सान्दर्भिक, उनीहरूका विद्यमान क्षमतामा आधारित, उमेर, लैङ्गिकता, अपाङ्गता र विविधताका अन्य स्वरूपबीचका भिन्नताप्रति संवेदनशील, सांस्कृतिक रूपमा सान्दर्भिक तथा हानि नगर्ने कार्यक्रमहरूको डिजाइन र योजनामा संलग्न गराउनुहोस्। उदाहरणका लागि, बैठक, केन्द्रित समूह छलफल (FGDs), सहभागितामूलक डिजाइन कार्यशाला आदिमार्फत उनीहरूलाई संलग्न गराउनुहोस्।",
+      "bt": "Involve representative stakeholders, for example the government, community members and service users, in the design and planning of programmes that are relevant to their needs and priorities, build on their existing capacities, are sensitive to differences in age, gender, disability and other forms of diversity, are culturally relevant and do no harm. For example, involve them through meetings, focus group discussions (FGDs), participatory design workshops, etc.",
+      "type": "safety",
+      "terms": [
+        "T182",
+        "T233",
+        "T344",
+        "T409",
+        "T444"
+      ],
+      "flags": [],
+      "note": "Reclassified as safety because the instruction explicitly includes avoiding harm. General participatory programme guidance drafted; safety review pending. The source calls for representative stakeholders, not necessarily representatives of stakeholders. The translation also leaves unspecified whose existing capacities programmes should build on; the source explicitly says their capacities."
+    },
+    {
+      "id": "MAN-11-0013",
+      "page": "39",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Identify existing human resources and initiatives in each community that can be engaged in response activities (e.g. health and social service providers, community education committees, community-based child protection committees, advocacy campaigns, women’s groups and other community groups). Where existing support models are showing benefits in one setting, assess if they could also be used effectively elsewhere.",
+      "ne": "प्रत्येक समुदायमा प्रतिकार्यका गतिविधिहरूमा संलग्न गराउन सकिने विद्यमान मानव संसाधन (human resources) र पहलहरू पहिचान गर्नुहोस्। उदाहरणका लागि, स्वास्थ्य र सामाजिक सेवा प्रदायक, सामुदायिक शिक्षा समिति, समुदायमा आधारित बाल संरक्षण समिति, पैरवी अभियान, महिला समूह र अन्य सामुदायिक समूह पहिचान गर्नुहोस्। विद्यमान सहयोगका ढाँचाहरूले कुनै एक परिवेशमा लाभ दिइरहेका छन् भने, तिनलाई अन्यत्र पनि प्रभावकारी रूपमा प्रयोग गर्न सकिन्छ कि सकिँदैन भन्ने लेखाजोखा गर्नुहोस्।",
+      "bt": "Identify existing human resources (human resources) and initiatives in each community that can be engaged in response activities. For example, identify health and social service providers, community education committees, community-based child protection committees, advocacy campaigns, women's groups and other community groups. If existing patterns of support are providing benefits in one setting, assess whether or not they can also be used effectively elsewhere.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T027",
+        "T028",
+        "T036",
+        "T042",
+        "T174",
+        "T191",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0014",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Assess opportunities for collaboration with local and national partners to implement MHPSS activities and to build such partnerships into funding proposals where feasible (e.g. through technical support and institutional capacity-building partnerships).",
+      "ne": "MHPSS गतिविधिहरू कार्यान्वयन गर्न र सम्भव भएसम्म त्यस्ता साझेदारीलाई वित्तपोषणका प्रस्तावहरूमा समावेश गर्न स्थानीय र राष्ट्रिय साझेदारहरूसँग सहकार्य गर्ने अवसरहरूको लेखाजोखा गर्नुहोस् (उदाहरणका लागि, प्राविधिक सहयोग र संस्थागत क्षमता विकासका साझेदारीमार्फत)।",
+      "bt": "Assess opportunities to collaborate with local and national partners to implement MHPSS activities and, as far as possible, to include such partnerships in funding proposals (for example, through partnerships for technical support and institutional capacity development).",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T158",
+        "T231"
+      ],
+      "flags": [],
+      "note": "The example becomes a separate instruction to undertake collaboration. In the source it illustrates the opportunities to assess, rather than independently directing implementation."
+    },
+    {
+      "id": "MAN-11-0015",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Select programme activities based on community needs, capacities and priorities identified during assessments; on identified gaps in the humanitarian MHPSS response (e.g. see MSP activity 1.1); and human resources (HR) available, including the availability of appropriately qualified and experienced staff to provide technical oversight of MHPSS activities. Identify how different teams/sectors within the organization can contribute and collaborate to holistically address MHPSS needs.",
+      "ne": "लेखाजोखाका क्रममा पहिचान गरिएका समुदायका आवश्यकता, क्षमता र प्राथमिकता; मानवीय MHPSS प्रतिकार्यमा पहिचान गरिएका अपूरा पक्षहरू (उदाहरणका लागि, MSP गतिविधि 1.1 हेर्नुहोस्); तथा MHPSS गतिविधिहरूको प्राविधिक रेखदेख गर्न उपयुक्त योग्यता र अनुभव भएका कर्मचारीको उपलब्धतासहित उपलब्ध मानव संसाधन (HR) का आधारमा कार्यक्रमगत गतिविधिहरू छनोट गर्नुहोस्। MHPSS आवश्यकतालाई समग्र रूपमा सम्बोधन गर्न संस्थाभित्रका विभिन्न टोली/क्षेत्रहरूले कसरी योगदान दिन र सहकार्य गर्न सक्छन् भन्ने पहिचान गर्नुहोस्।",
+      "bt": "Select programme activities on the basis of community needs, capacities and priorities identified during assessments; gaps identified in the humanitarian MHPSS response (for example, see MSP Activity 1.1); and available human resources (HR), including the availability of staff with appropriate qualifications and experience to provide technical oversight of MHPSS activities. Identify how different teams/sectors within the organization can contribute and collaborate to address MHPSS needs comprehensively.",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T042",
+        "T091",
+        "T148",
+        "T158",
+        "T167",
+        "T296",
+        "T344",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0016",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Where multiple teams within an organization (e.g. CP, GBV, Health) contribute to MHPSS outcomes, clarify the scope and boundaries of each role and the criteria for referral between roles/services, both internally and externally.",
+      "ne": "संस्थाभित्रका धेरै टोलीहरूले (उदाहरणका लागि, CP, GBV, स्वास्थ्य) MHPSS नतिजामा योगदान दिने अवस्थामा, प्रत्येक भूमिकाको कार्यक्षेत्र र सीमा तथा आन्तरिक र बाह्य दुवै रूपमा भूमिका/सेवाहरूबीच सम्बन्धित सेवामा पठाउने कार्यका मापदण्ड स्पष्ट गर्नुहोस्।",
+      "bt": "Where several teams within the organization (for example, CP, GBV, health) contribute to MHPSS outcomes, clarify the scope and limits of each role and the criteria for referral between roles/services, both internally and externally.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T172"
+      ],
+      "flags": [],
+      "note": "General role-boundary and referral guidance drafted; safety review pending. CP and GBV are retained without adding expansions absent from the source."
+    },
+    {
+      "id": "MAN-11-0017",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Contribute to coordination group tasks such as mapping exercises, dissemination of MHPSS guidance to different actors, advocacy for MHPSS funding, reporting of MHPSS activities and common indicators and development of common referral pathways.",
+      "ne": "नक्साङ्कन अभ्यास, विभिन्न सम्बद्ध पक्षहरूलाई MHPSS मार्गदर्शन प्रसार गर्ने, MHPSS वित्तपोषणका लागि पैरवी गर्ने, MHPSS गतिविधिहरू र साझा सूचकहरूको प्रतिवेदन गर्ने तथा साझा सेवा प्रेषण मार्गहरू विकास गर्ने जस्ता समन्वय समूहका कार्यहरूमा योगदान दिनुहोस्।",
+      "bt": "Contribute to coordination group tasks such as mapping exercises, disseminating MHPSS guidance to various relevant parties, advocating for MHPSS funding, reporting on MHPSS activities and shared indicators, and developing shared referral pathways.",
+      "type": "safety",
+      "terms": [
+        "T063",
+        "T114",
+        "T127",
+        "T158",
+        "T191",
+        "T231",
+        "T260",
+        "T349"
+      ],
+      "flags": [],
+      "note": "General coordination and referral-pathway guidance drafted; safety review pending."
+    },
+    {
+      "id": "MAN-11-0018",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Develop a local crisis management procedure to guide staff who may encounter persons at increased risk of suicide, self-harm or harm to others, including what to do when referral options are not available (see also key consideration 14).",
+      "ne": "आत्महत्या गर्ने, आफैँलाई हानि पुर्‍याउने वा अरूलाई हानि पुर्‍याउने जोखिम बढेको अवस्थामा रहेका व्यक्तिहरू भेट्न सक्ने कर्मचारीलाई मार्गदर्शन गर्न स्थानीय सङ्कट व्यवस्थापन कार्यविधि विकास गर्नुहोस्; यसमा सम्बन्धित सेवामा पठाउने कार्यका विकल्पहरू उपलब्ध नभएको अवस्थामा के गर्ने भन्ने कुरा पनि समावेश गर्नुहोस् (मुख्य विचारणीय पक्ष 14 पनि हेर्नुहोस्)।",
+      "bt": "Develop local crisis management procedures to guide staff who may encounter people at increased risk of committing suicide, harming themselves or harming others; also include what to do when options for referral to relevant services are not available (also see Key Consideration 14).",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T252"
+      ],
+      "flags": [],
+      "note": "The draft retains the increased-risk condition, possible staff encounters, unavailable referral options and cross-reference to key consideration 14."
+    },
+    {
+      "id": "MAN-11-0019",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Take steps to plan for and develop sustainable mental health, social and education systems during early recovery and protracted crises (e.g. support capacity-building in government services, work with educational institutions to build MHPSS capacity, work with relevant ministries to develop/strengthen MHPSS policies, strategies and plans).",
+      "ne": "प्रारम्भिक पुनर्लाभको चरण र लामो समयसम्म चल्ने सङ्कटका बेला दिगो मानसिक स्वास्थ्य, सामाजिक र शिक्षा प्रणालीहरूको योजना बनाउन र विकास गर्न कदम चाल्नुहोस्। उदाहरणका लागि, सरकारी सेवाहरूमा क्षमता विकासलाई सहयोग गर्नुहोस्, MHPSS क्षमता विकास गर्न शैक्षिक संस्थाहरूसँग काम गर्नुहोस् र MHPSS नीति, रणनीति र योजना विकास गर्न/सुदृढ बनाउन सम्बन्धित मन्त्रालयहरूसँग काम गर्नुहोस्।",
+      "bt": "Take steps to plan and develop sustainable mental health, social and education systems during the early recovery phase and during prolonged crises. For example, support capacity development in government services, work with educational institutions to develop MHPSS capacity and work with the relevant ministries to develop/strengthen MHPSS policies, strategies and plans.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T157"
+      ],
+      "flags": [],
+      "note": "The mental health label reuses the supplied unreviewed candidate T157; no clinical validation is asserted."
+    },
+    {
+      "id": "MAN-11-0020",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Develop a provisional exit strategy with relevant local and national stakeholders and with service users and their families, and update this as the programme evolves.",
+      "ne": "सम्बन्धित स्थानीय र राष्ट्रिय सरोकारवालाहरू तथा सेवा प्रयोगकर्ता र उनीहरूका परिवारसँग मिलेर अन्तिम रूप दिन बाँकी रहेको बहिर्गमन रणनीति विकास गर्नुहोस् र कार्यक्रम अघि बढ्दै जाँदा यसलाई अद्यावधिक गर्नुहोस्।",
+      "bt": "Develop an exit strategy that remains to be finalized together with relevant local and national stakeholders and service users and their families, and update it as the programme progresses.",
+      "type": "general",
+      "terms": [
+        "T182",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Provisional means not yet final, whereas the translation and back-translation describe the exit strategy as temporary, suggesting limited duration."
+    },
+    {
+      "id": "MAN-11-0021",
+      "page": "40",
+      "loc": "heading",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "check",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0022",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0023",
+      "page": "40",
+      "loc": "heading",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Key consideration 16: Contextualization",
+      "ne": "मुख्य विचारणीय पक्ष 16: सन्दर्भअनुकूलन",
+      "bt": "Key consideration 16: Contextual adaptation",
+      "type": "check",
+      "terms": [
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring cross-reference label 'key consideration' is absent from G-0.2; a candidate is proposed. 'Contextualization' is drafted as a nonclinical heading."
+    },
+    {
+      "id": "MAN-11-0024",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Activities and programme materials should be selected and adapted in collaboration with affected community members.",
+      "ne": "प्रभावित समुदायका सदस्यहरूसँगको सहकार्यमा गतिविधिहरू र कार्यक्रमका सामग्रीहरू छनोट र अनुकूलन गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate to select and adapt activities and programme materials in collaboration with members of the affected community.",
+      "type": "general",
+      "terms": [
+        "T344",
+        "T409"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The source recommends selection and adaptation using should; the back-translation strengthens this to must. The back-translation weakens the recommendation that activities and programme materials should be selected and adapted to a statement that doing so is appropriate."
+    },
+    {
+      "id": "MAN-11-0025",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Participatory methods should be used to learn from community members how best to adapt manuals, curricula and informational materials to improve their appropriateness and relevance to the specific emergency context (see resources on participatory methods in the relevant guidelines, standards and tool sections of MSP activities 2.1 and 2.2 on the MHPSS MSP web platform).",
+      "ne": "कुनै विशिष्ट आपत्कालीन सन्दर्भमा पुस्तिका, पाठ्यक्रम र सूचनामूलक सामग्रीहरूको उपयुक्तता र सान्दर्भिकता बढाउन तिनलाई कसरी सबैभन्दा राम्रोसँग अनुकूलन गर्ने भन्ने समुदायका सदस्यहरूबाट सिक्न सहभागितामूलक विधिहरू प्रयोग गर्नु उचित हुन्छ (MHPSS MSP वेब प्लेटफर्ममा MSP गतिविधि 2.1 र 2.2 का सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणसम्बन्धी खण्डहरूमा सहभागितामूलक विधिहरूबारेका स्रोत सामग्री हेर्नुहोस्)।",
+      "bt": "It is appropriate to use participatory methods to learn from community members how best to adapt manuals, curricula and informational materials to increase their suitability and relevance in a specific emergency context (see resources on participatory methods in the sections on relevant guidelines, standards and tools for MSP activities 2.1 and 2.2 on the MHPSS MSP web platform).",
+      "type": "check",
+      "terms": [
+        "T019",
+        "T091",
+        "T163",
+        "T189",
+        "T259",
+        "T278",
+        "T344",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The recurring term 'participatory methods' is absent from G-0.2; a candidate is proposed without changing the glossary. The source says participatory methods should be used; the back-translation strengthens this to must. The back-translation weakens the recommendation that participatory methods should be used to a statement that using them is appropriate."
+    },
+    {
+      "id": "MAN-11-0026",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Considerations include the type of emergency; the age, gender, capacity, needs, resources, language(s), culture(s) and other diverse characteristics of the affected populations; the available human and material resources; and the available communication media and preferences of different population subgroups.",
+      "ne": "विचार गर्नुपर्ने पक्षहरूमा आपत्कालको प्रकार; प्रभावित जनसमुदायको उमेर, लैङ्गिकता, क्षमता, आवश्यकता, स्रोत, भाषा, संस्कृति र अन्य विविध विशेषता; उपलब्ध मानव तथा भौतिक स्रोतहरू; र उपलब्ध सञ्चार माध्यम तथा जनसमुदायका विभिन्न उपसमूहका प्राथमिकताहरू पर्छन्।",
+      "bt": "Aspects to consider include the type of emergency; the age, gender, capacities, needs, resources, language, culture and other diverse characteristics of the affected population; available human and material resources; and available communication media and the preferences of different subgroups of the population.",
+      "type": "general",
+      "terms": [
+        "T233"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0027",
+      "page": "40",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Programme and M&E materials will be most valid and will have the greatest impact if they address pertinent needs, use local terminology for MHPSS-related concepts, and use case examples that resonate with the local context (e.g. using locally meaningful terminology, images and names). See also the relevant guidelines, standards, and tools on contextualization, available on the MHPSS MSP web platform.",
+      "ne": "कार्यक्रम तथा अनुगमन तथा मूल्याङ्कन (M&E) सम्बन्धी सामग्रीले सान्दर्भिक आवश्यकतालाई सम्बोधन गरेमा, MHPSS सम्बन्धी अवधारणाका लागि स्थानीय शब्दावली प्रयोग गरेमा र स्थानीय सन्दर्भसँग मेल खाने घटनाका उदाहरणहरू प्रयोग गरेमा ती सामग्री सबैभन्दा वैध हुनेछन् र तिनले सबैभन्दा बढी प्रभाव पार्नेछन् (जस्तै, स्थानीय रूपमा अर्थपूर्ण शब्दावली, चित्र र नामहरूको प्रयोग) । स्थानीय सन्दर्भअनुकूल बनाउने कार्यसम्बन्धी सान्दर्भिक निर्देशिकाहरू, मापदण्डहरू र साधनहरू पनि हेर्नुहोस्, जुन MHPSS MSP वेब प्लेटफर्ममा उपलब्ध छन् ।",
+      "bt": "Materials related to the programme and monitoring and evaluation (M&E) will be most valid and will have the greatest impact if they address relevant needs, use local terminology for concepts related to MHPSS and use examples of events that match the local context (e.g., the use of locally meaningful terminology, pictures and names). Also see the relevant guidelines, standards and tools concerning adaptation to the local context, which are available on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087",
+        "T163",
+        "T189",
+        "T394",
+        "T409",
+        "T437",
+        "T438"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Ordinary guidance on programme materials and contextualization; no new clinical terminology introduced. The source separately specifies greatest impact; 'most valid and effective' does not explicitly preserve that superlative impact claim. The revision restores it. The back-translation renders 'case examples' as 'examples of events,' losing the explicit reference to illustrative cases."
+    },
+    {
+      "id": "MAN-11-0028",
+      "page": "41",
+      "loc": "heading",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Key consideration 17: Considering the needs of: i) migrants caught in crisis, ii) refugees and asylum seekers, iii) internally displaced persons (IDPs), iv) stateless people",
+      "ne": "मुख्य विचारणीय पक्ष 17: निम्न समूहका आवश्यकतामाथि विचार गर्ने: i) सङ्कटमा फसेका प्रवासी, ii) शरणार्थी र शरण खोज्ने व्यक्ति, iii) आन्तरिक रूपमा विस्थापित व्यक्ति (IDPs), iv) राज्यविहीन व्यक्ति",
+      "bt": "Key consideration 17: Considering the needs of the following groups: i) migrants caught in crises, ii) refugees and people seeking asylum, iii) internally displaced persons (IDPs), iv) stateless persons",
+      "type": "general",
+      "terms": [
+        "T045",
+        "T194",
+        "T252",
+        "T269",
+        "T287"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary additions: migrants = [Nepali wording recorded in terminology evidence]; refugees = [Nepali wording recorded in terminology evidence]; asylum seekers = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. T045 is retained as supplied."
+    },
+    {
+      "id": "MAN-11-0029",
+      "page": "41",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Humanitarian emergencies may involve people who are not nationals or habitual residents of the country. This includes people who have been displaced across borders such as refugees and asylum seekers, those who are displaced within their own countries (internally displaced persons), stateless people, and migrants caught in the crisis (including labour migrants, domestic workers, foreign students, and undocumented migrants who may remain where the crisis occurs or move internally or across borders, without being considered eligible for asylum). These groups require specific attention as they may face legal, practical, and cultural barriers to accessing services on the same grounds as others and may not speak the same language as most of the population. In these situations, it is important to:",
+      "ne": "मानवीय आपत्कालीन अवस्था हुँदा सम्बन्धित देशका नागरिक वा त्यहाँ नियमित रूपमा बसोबास गर्ने व्यक्ति नभएकाहरू पनि प्रभावित हुन सक्छन् । यसमा शरणार्थी र शरण खोज्ने व्यक्तिजस्ता सीमा पार गरेर विस्थापित भएका व्यक्ति, आफ्नै देशभित्र विस्थापित भएका व्यक्ति (आन्तरिक रूपमा विस्थापित व्यक्ति), राज्यविहीन व्यक्ति र सङ्कटमा फसेका प्रवासी पर्छन् । सङ्कटमा फसेका प्रवासीमा श्रमिक प्रवासी, घरेलु कामदार, विदेशी विद्यार्थी र आवश्यक कागजात नभएका प्रवासी समावेश हुन्छन्, जो शरणका लागि योग्य नमानिई पनि सङ्कट उत्पन्न भएको स्थानमै रहन वा देशभित्र अथवा सीमा पार गरेर अन्यत्र जान सक्छन् । यी समूहलाई विशेष ध्यान दिन आवश्यक हुन्छ, किनकि उनीहरूले अरूसरह सेवामा पहुँच पाउन कानुनी, व्यावहारिक र सांस्कृतिक अवरोधको सामना गर्न सक्छन् र अधिकांश जनसङ्ख्याले बोल्ने भाषा नबोल्न सक्छन् । यस्ता अवस्थामा निम्न कार्य गर्नु महत्त्वपूर्ण हुन्छ:",
+      "bt": "When a humanitarian emergency occurs, people who are not citizens of the country concerned or people who regularly reside there may also be affected. This includes people displaced across borders, such as refugees and people seeking asylum, people displaced within their own country (internally displaced persons), stateless persons and migrants caught in crises. Migrants caught in crises include migrant workers, domestic workers, foreign students and migrants without the necessary documents, who, even without being considered eligible for asylum, may remain in the place where the crisis has arisen or move elsewhere within the country or across borders. These groups require particular attention because they may face legal, practical and cultural barriers to accessing services on an equal basis with others and may not speak the language spoken by the majority of the population. In such situations, it is important to do the following:",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T045",
+        "T194",
+        "T269",
+        "T287"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring terms for migrants, refugees and asylum seekers. The asylum-eligibility qualification remains attached to migrants caught in the crisis."
+    },
+    {
+      "id": "MAN-11-0030",
+      "page": "41",
+      "loc": "bullet",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "▶ Advocate for affordable and non-discriminatory access to MHPSS services for all, regardless of legal status;",
+      "ne": "▶ कानुनी हैसियत जस्तोसुकै भए पनि सबैले वहन गर्न सक्ने खर्चमा र भेदभावविना MHPSS सेवामा पहुँच पाउनुपर्ने पक्षमा पैरवी गर्नुहोस् ।",
+      "bt": "▶ Advocate that everyone should have access to MHPSS services at a cost they can afford and without discrimination, regardless of legal status.",
+      "type": "general",
+      "terms": [
+        "T332"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0031",
+      "page": "41",
+      "loc": "bullet",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "▶ Provide clear information to both service users and providers about entitlements to MHPSS services, how to access such services, referral processes, and principles of consent and confidentiality;",
+      "ne": "▶ सेवा प्रयोगकर्ता र सेवा प्रदायक दुवैलाई MHPSS सेवा पाउने अधिकार, त्यस्ता सेवामा पहुँच पाउने तरिका, सम्बन्धित सेवामा पठाउने कार्यका प्रक्रिया तथा सहमति र गोपनीयताका सिद्धान्तबारे स्पष्ट जानकारी दिनुहोस् ।",
+      "bt": "▶ Give both service users and service providers clear information about the right to receive MHPSS services, ways of accessing such services, procedures for referral to relevant services and the principles of consent and confidentiality.",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T211"
+      ],
+      "flags": [],
+      "note": "General safety guidance about information provision, not a verbatim consent or safeguarding declaration. Safety review remains pending."
+    },
+    {
+      "id": "MAN-11-0032",
+      "page": "41",
+      "loc": "bullet",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "▶ Consult the communities on their preferred means of communication and provide this information in appropriate languages, in relevant formats (e.g. radio, leaflets, social media, public art, through outreach volunteers), and at accessible venues (e.g. reception facilities, transit centres, registration venues, community centres, schools, religious or cultural settings);",
+      "ne": "▶ समुदायले रुचाउने सञ्चारका माध्यमबारे उनीहरूसँग परामर्श गर्नुहोस् र यो जानकारी उपयुक्त भाषामा, सान्दर्भिक स्वरूप वा माध्यममा (जस्तै, रेडियो, पर्चा, सामाजिक सञ्जाल, सार्वजनिक कला वा समुदायसम्म पुगेर काम गर्ने स्वयंसेवकमार्फत) तथा पहुँचयोग्य स्थानमा (जस्तै, आगमनमा स्वागत गर्ने सुविधा भएका स्थान, पारगमन केन्द्र, दर्ता गर्ने स्थान, सामुदायिक केन्द्र, विद्यालय, धार्मिक वा सांस्कृतिक स्थल) उपलब्ध गराउनुहोस् ।",
+      "bt": "▶ Consult communities about the means of communication they prefer and make this information available in appropriate languages, in relevant formats or through relevant channels (e.g., radio, leaflets, social media, public art or volunteers working through community outreach) and in accessible locations (e.g., places with facilities for welcoming people on arrival, transit centres, registration locations, community centres, schools, religious or cultural sites).",
+      "type": "general",
+      "terms": [
+        "T078",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0033",
+      "page": "41",
+      "loc": "bullet",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "▶ Train and deploy interpreters and cultural mediators where needed and work with refugee, migrant or community-based organisations to better understand messaging, terminologies, cultural aspects etc;",
+      "ne": "▶ आवश्यकताअनुसार दोभासे र सांस्कृतिक मध्यस्थकर्तालाई तालिम दिएर खटाउनुहोस् तथा सन्देश, शब्दावली, सांस्कृतिक पक्ष आदिलाई अझ राम्ररी बुझ्न शरणार्थी वा प्रवासीका संस्था अथवा समुदायमा आधारित संस्थासँग काम गर्नुहोस् ।",
+      "bt": "▶ Train and deploy interpreters and cultural mediators as needed, and work with refugee or migrant organizations or community-based organizations to better understand messages, terminology, cultural aspects, etc.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring glossary terms refugees = [Nepali wording recorded in terminology evidence] and migrants = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-11-0034",
+      "page": "41",
+      "loc": "bullet",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "▶ Train providers in person-centred care, using a rights-based approach, and cultural competence (e.g. addressing stigma and prejudice; fostering positive attitudes towards refugees, asylum seekers and migrants; working with translators and recruit for diverse profiles amongst them).",
+      "ne": "▶ अधिकारमा आधारित दृष्टिकोण प्रयोग गरी व्यक्तिकेन्द्रित हेरचाह र सांस्कृतिक सक्षमताबारे सेवा प्रदायकहरूलाई तालिम दिनुहोस् (उदाहरणका लागि, लाञ्छना र पूर्वाग्रहलाई सम्बोधन गर्ने; शरणार्थी, शरण खोज्ने व्यक्ति र प्रवासीप्रति सकारात्मक धारणा विकास गर्ने; अनुवादकहरूसँग काम गर्ने र उनीहरूमध्ये विविध विशेषता भएका व्यक्तिहरू भर्ती गर्ने)।",
+      "bt": "▶ Train service providers on person-centred care and cultural competence using a rights-based approach (for example, addressing stigma and prejudice; developing positive attitudes towards refugees, asylum seekers and migrants; working with interpreters and recruiting people with diverse characteristics among them).",
+      "type": "safety",
+      "terms": [
+        "T194",
+        "T269",
+        "T280",
+        "T287",
+        "T291"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The source does not clearly identify the recruitment pool or the referent of 'them'; the draft retains the pronoun without explicitly selecting translators, providers or the listed population groups. No supplied glossary candidate covers cultural competence."
+    },
+    {
+      "id": "MAN-11-0035",
+      "page": "41",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सान्दर्भिक स्रोत सामग्री हेर्नुहोस् ।",
+      "bt": "See relevant resource materials on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-11-0036",
+      "page": "41",
+      "loc": "heading",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Key consideration 18: Implementing MHPSS activities remotely",
+      "ne": "मुख्य विचारणीय पक्ष 18: MHPSS गतिविधिहरू दूरस्थ रूपमा कार्यान्वयन गर्ने",
+      "bt": "Key consideration 18: Implementing MHPSS activities remotely",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring glossary addition: remote implementation = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; contextual verbal form used in the heading."
+    },
+    {
+      "id": "MAN-11-0037",
+      "page": "41",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "MHPSS activities may need to be implemented remotely in some contexts, such as in certain public health emergencies (e.g. COVID-19), and in areas where access is restricted due to security threats and geographical barriers (e.g. very remote locations, flooding).",
+      "ne": "केही सन्दर्भमा MHPSS गतिविधिहरू दूरस्थ रूपमा कार्यान्वयन गर्नुपर्ने हुन सक्छ, जस्तै केही जनस्वास्थ्यसम्बन्धी आपत्कालीन अवस्था (उदाहरणका लागि, COVID-19) मा तथा सुरक्षासम्बन्धी खतरा र भौगोलिक अवरोधका कारण पहुँच सीमित भएका क्षेत्रमा (उदाहरणका लागि, अत्यन्त दुर्गम स्थान वा बाढीको अवस्थामा) ।",
+      "bt": "In some contexts, MHPSS activities may need to be implemented remotely, such as during some public health emergencies (for example, COVID-19) and in areas where access is limited because of security threats and geographical barriers (for example, extremely remote locations or in flood situations).",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T027",
+        "T131",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term for remote implementation. Public-health and access conditions are ordinary nonclinical content. The Nepali describes access as prohibited, whereas the source includes access limited by security threats or physical geographical barriers without necessarily being prohibited. The revision preserves this broader meaning of restricted access."
+    },
+    {
+      "id": "MAN-11-0038",
+      "page": "41",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "The specific service adaptations needed (e.g. timing, models of remote implementation, and criteria for providing services remotely) will vary between programmes and contexts and workers must be trained and supervised in the use of new and adapted modalities. Remote services may be delivered by phone or accessed online using smartphones, tablets, or computers (e.g. via apps and chatbots), and outreach and key messaging may be conducted through radio, social media and megaphone messaging. MHPSS services may also be delivered following a hybrid model, combining in-person and remote engagement (e.g. starting with in-person service delivery, with subsequent follow-up and management over the phone).",
+      "ne": "सेवामा आवश्यक पर्ने विशिष्ट अनुकूलन (जस्तै, समय, दूरस्थ कार्यान्वयनका ढाँचा र दूरस्थ रूपमा सेवा प्रदान गर्ने मापदण्ड) कार्यक्रम र सन्दर्भअनुसार फरक हुनेछन्, र नयाँ तथा अनुकूलित कार्यविधि प्रयोग गर्न कार्यकर्तालाई तालिम दिनुका साथै उनीहरूको सुपरिवेक्षण गर्नुपर्छ । दूरस्थ सेवा फोनमार्फत प्रदान गर्न सकिन्छ वा स्मार्टफोन, ट्याब्लेट वा कम्प्युटर प्रयोग गरी अनलाइन पहुँच गर्न सकिन्छ (जस्तै, एप र च्याटबटमार्फत) । समुदायसम्म पुग्ने कार्य र मुख्य सन्देशको प्रसार रेडियो, सामाजिक सञ्जाल र मेगाफोनबाट सन्देश प्रवाह गरेर गर्न सकिन्छ । प्रत्यक्ष र दूरस्थ संलग्नतालाई संयोजन गर्ने मिश्रित ढाँचाअनुसार पनि MHPSS सेवा प्रदान गर्न सकिन्छ (जस्तै, सुरुमा प्रत्यक्ष सेवा प्रदान गर्ने र त्यसपछिको अनुगमन तथा व्यवस्थापन फोनमार्फत गर्ने) ।",
+      "bt": "The specific adaptations required in services (e.g., timing, formats for remote implementation and standards for providing services remotely) will vary according to the programme and context, and workers must be trained to use new and adapted procedures as well as supervised. Remote services can be provided by phone or accessed online using a smartphone, tablet or computer (e.g., through apps and chatbots). Community outreach and the dissemination of key messages can be carried out by transmitting messages through radio, social media and megaphones. MHPSS services can also be provided according to a mixed format that combines in-person and remote engagement (e.g., initially providing services in person and conducting subsequent follow-up and management by phone).",
+      "type": "general",
+      "terms": [
+        "T288",
+        "T380",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms remote implementation = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and remote service delivery = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Follow-up and management are rendered as general service operations, without adding clinical terminology."
+    },
+    {
+      "id": "MAN-11-0039",
+      "page": "41",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "Adaptations and considerations for at-risk groups may be needed to increase their access when normal access to MHPSS services is restricted. For example, priority access to in-person services may be given to certain at-risk groups, such as survivors of GBV, persons with diverse SOGIESC, individuals with suicidality or risk of self-harm or of harming others and those with severe mental health conditions.",
+      "ne": "MHPSS सेवाहरूमा सामान्य पहुँच सीमित भएको अवस्थामा जोखिममा रहेका समूहको पहुँच बढाउन ती समूहका लागि अनुकूलन गर्न र विचार पुर्‍याउन आवश्यक पर्न सक्छ। उदाहरणका लागि, लैङ्गिक हिंसाबाट प्रभावित व्यक्ति (GBV), विविध SOGIESC भएका व्यक्ति, आत्महत्याको सोच वा प्रवृत्ति भएका वा आफैँलाई वा अरूलाई हानि पुर्‍याउने जोखिममा रहेका व्यक्ति र गम्भीर मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिजस्ता जोखिममा रहेका केही समूहलाई प्रत्यक्ष उपस्थित भएर लिइने सेवाहरूमा प्राथमिकतासहित पहुँच दिइन सक्छ।",
+      "bt": "When general access to MHPSS services is limited, adaptations and consideration for at-risk groups may be needed to increase those groups’ access. For example, some at-risk groups, such as people affected by gender-based violence (GBV), people with diverse SOGIESC, people with suicidal thoughts or tendencies or at risk of harming themselves or others, and people with severe mental health conditions, may be given priority access to services received by attending in person.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T184",
+        "T334",
+        "T478"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T184 denotes persons affected by gender-based violence and can include indirectly affected people, whereas the source specifies survivors who directly experienced GBV. The draft retains the frozen label, both source acronyms and the possibility rather than certainty of adaptations and priority access. bt-divergence: Frozen T184, लैङ्गिक हिंसाबाट प्रभावित व्यक्ति, denotes people affected by gender-based violence and can include indirectly affected people; the source specifies survivors who directly experienced GBV. The frozen form is retained. No other substantive difference requires repair."
+    },
+    {
+      "id": "MAN-11-0040",
+      "page": "41",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "While remote service delivery brings some unique challenges (e.g. apprehension among community members about unfamiliar modalities of service delivery; challenges in accessing communication technology and high-speed internet; costs of establishing secure digital platforms), it can also facilitate access for individuals who might otherwise be excluded or have difficulty in seeking in-person services (e.g. people with impaired mobility, people who cannot afford transportation to services, women who are not at liberty to travel in public without being accompanied by men). During public health emergencies, remote services can ensure continuity of care and support for individuals in quarantine.",
+      "ne": "दूरस्थ रूपमा सेवा प्रदान गर्दा केही विशिष्ट चुनौती आउँछन् (जस्तै, सेवा प्रदान गर्ने अपरिचित कार्यविधिप्रति समुदायका सदस्यमा आशङ्का; सञ्चार प्रविधि र उच्च गतिको इन्टरनेटमा पहुँच पाउन कठिनाइ; सुरक्षित डिजिटल प्लेटफर्म स्थापना गर्ने खर्च) । तर यसले अन्यथा सेवाबाट वञ्चित हुन सक्ने वा प्रत्यक्ष सेवा लिन कठिनाइ हुने व्यक्तिका लागि पहुँच सहज बनाउन पनि सक्छ (जस्तै, हिँडडुल गर्ने क्षमतामा सीमितता भएका व्यक्ति, सेवा लिन जान यातायात खर्च वहन गर्न नसक्ने व्यक्ति र पुरुषको साथविना सार्वजनिक स्थानमा आवतजावत गर्ने स्वतन्त्रता नभएका महिला) । जनस्वास्थ्यसम्बन्धी आपत्कालीन अवस्था हुँदा दूरस्थ सेवाले क्वारेन्टिनमा रहेका व्यक्तिको हेरचाह र सहयोगको निरन्तरता सुनिश्चित गर्न सक्छ ।",
+      "bt": "Providing services remotely presents some specific challenges (e.g., apprehension among community members about unfamiliar procedures for providing services; difficulty accessing communication technology and high-speed internet; the cost of establishing secure digital platforms). But it can also make access easier for people who might otherwise be deprived of services or have difficulty receiving services in person (e.g., people with limitations in their ability to move around, people unable to afford transport costs to go to receive services and women who do not have the freedom to move around in public places without a man accompanying them). During a public health emergency, remote services can ensure continuity of care and support for people in quarantine.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T131",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term remote service delivery = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Quarantine is retained as a transliterated public-health term; no clinical diagnosis or treatment wording is introduced."
+    },
+    {
+      "id": "MAN-11-0041",
+      "page": "41",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.1 Design, plan and coordinate MHPSS programmes",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सान्दर्भिक स्रोत सामग्री हेर्नुहोस् ।",
+      "bt": "See relevant resource materials on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

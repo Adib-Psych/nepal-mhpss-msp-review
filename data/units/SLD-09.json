@@ -1,0 +1,258 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-09",
+  "unit_title": "MHPSS Activities",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "88-91",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:08:35+05:45",
+  "coverage": {
+    "source_words": 102,
+    "row_words": 102,
+    "skipped": [
+      "Slide 90: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 90: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 90: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 90: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 91: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 91: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-09-0001",
+      "page": "88",
+      "loc": "slide-title",
+      "section": "MHPSS Activities",
+      "en": "Module 5:",
+      "ne": "मोड्युल 5:",
+      "bt": "Module 5:",
+      "type": "activity",
+      "terms": [
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical term: module = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-09-0002",
+      "page": "88",
+      "loc": "slide-title",
+      "section": "MHPSS Activities",
+      "en": "MHPSS Programme Activities",
+      "ne": "MHPSS कार्यक्रमगत गतिविधिहरू",
+      "bt": "MHPSS programmatic activities",
+      "type": "activity",
+      "terms": [
+        "T167",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-09-0003",
+      "page": "89",
+      "loc": "slide-title",
+      "section": "MHPSS Activities",
+      "en": "Module Learning Objectives",
+      "ne": "मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Module learning objectives",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring nonclinical term module = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-09-0004",
+      "page": "89",
+      "loc": "slide-body",
+      "section": "MHPSS Activities",
+      "en": "Give examples of MHPSS activities in humanitarian programming",
+      "ne": "मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा गरिने MHPSS गतिविधिहरूका उदाहरण दिनुहोस्।",
+      "bt": "Give examples of MHPSS activities carried out in humanitarian programme planning and implementation.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-09-0005",
+      "page": "89",
+      "loc": "slide-body",
+      "section": "MHPSS Activities",
+      "en": "Support the use of the MSP by humanitarian actors from diverse sectors/clusters/AORs",
+      "ne": "विभिन्न क्षेत्र/क्लस्टर/AORs मा संलग्न मानवीय कार्यमा संलग्न पक्षहरूद्वारा MSP को प्रयोगमा सहयोग गर्नुहोस्।",
+      "bt": "Support the use of the MSP by parties involved in humanitarian work who are engaged in different sectors/clusters/AORs.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T124",
+        "T147",
+        "T163"
+      ],
+      "flags": [],
+      "note": "AORs is retained without an inferred expansion."
+    },
+    {
+      "id": "SLD-09-0006",
+      "page": "89",
+      "loc": "slide-body",
+      "section": "MHPSS Activities",
+      "en": "Support the use of the MSP to assess the quality of MHPSS activities.",
+      "ne": "MHPSS गतिविधिहरूको गुणस्तर आकलन गर्न MSP को प्रयोगमा सहयोग गर्नुहोस्।",
+      "bt": "Support the use of the MSP to assess the quality of MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-09-0007",
+      "page": "90",
+      "loc": "slide-title",
+      "section": "MHPSS Activities",
+      "en": "Group Exercise – Activity Showcase",
+      "ne": "समूह अभ्यास – गतिविधि प्रदर्शनी",
+      "bt": "Group exercise – activity exhibition",
+      "type": "general",
+      "terms": [
+        "T331",
+        "T371"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical terms: group exercise = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; activity showcase = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-09-0008",
+      "page": "91",
+      "loc": "slide-title",
+      "section": "MHPSS Activities",
+      "en": "Group Exercise – Activity Showcase",
+      "ne": "समूह अभ्यास – गतिविधि प्रदर्शनी",
+      "bt": "Group exercise – activity exhibition",
+      "type": "general",
+      "terms": [
+        "T331",
+        "T371"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring nonclinical terms group exercise = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and activity showcase = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-09-0009",
+      "page": "91",
+      "loc": "slide-body",
+      "section": "MHPSS Activities",
+      "en": "For each activity you are allocated, create a display that answers the following questions:",
+      "ne": "तपाईंलाई जिम्मा दिइएको प्रत्येक गतिविधिका लागि निम्न प्रश्नहरूको उत्तर समेटिएको प्रदर्शनी सामग्री तयार गर्नुहोस्।",
+      "bt": "For each activity assigned to you, prepare exhibition material that includes answers to the following questions.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-09-0010",
+      "page": "91",
+      "loc": "slide-body",
+      "section": "MHPSS Activities",
+      "en": "What is this activity about?",
+      "ne": "यो गतिविधि केसँग सम्बन्धित छ?",
+      "bt": "What is this activity related to?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-09-0011",
+      "page": "91",
+      "loc": "slide-body",
+      "section": "MHPSS Activities",
+      "en": "What is the first action you would take in implementing the activity?",
+      "ne": "यो गतिविधि कार्यान्वयन गर्दा तपाईंले सबैभन्दा पहिले गर्ने कार्य के हो?",
+      "bt": "What is the very first action you take when implementing this activity?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-09-0012",
+      "page": "91",
+      "loc": "slide-body",
+      "section": "MHPSS Activities",
+      "en": "Is there a key consideration for this activity?",
+      "ne": "यस गतिविधिका लागि कुनै मुख्य विचारणीय पक्ष छ?",
+      "bt": "Is there any key aspect to consider for this activity?",
+      "type": "general",
+      "terms": [
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-09-0013",
+      "page": "91",
+      "loc": "slide-body",
+      "section": "MHPSS Activities",
+      "en": "If yes, what is the key idea.",
+      "ne": "यदि छ भने, त्यसको मुख्य विचार के हो?",
+      "bt": "If there is, what is its main idea?",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation changes 'key idea' to 'main intent', shifting the question toward purpose. Revised to ask for the key idea. The condition changes from an affirmative answer ('If yes') to existence ('If there is')."
+    },
+    {
+      "id": "SLD-09-0014",
+      "page": "91",
+      "loc": "slide-body",
+      "section": "MHPSS Activities",
+      "en": "60 min",
+      "ne": "60 मिनेट",
+      "bt": "60 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-09-0015",
+      "page": "91",
+      "loc": "slide-body",
+      "section": "MHPSS Activities",
+      "en": "+ gallery walk",
+      "ne": "+ प्रदर्शनीमा घुमेर अवलोकन",
+      "bt": "+ Walking around the exhibition and observing",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

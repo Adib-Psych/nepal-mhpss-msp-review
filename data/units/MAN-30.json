@@ -1,0 +1,436 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-30",
+  "unit_title": "Provide MHPSS to persons deprived of their liberty",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "91-93",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:52:44+05:45",
+  "coverage": {
+    "source_words": 617,
+    "row_words": 617,
+    "skipped": [
+      "PDF p.91: running footer/page number removed: 86 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.92: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 87",
+      "PDF p.93: running footer/page number removed: 88 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-30-0001",
+      "page": "91",
+      "loc": "heading",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "4.2 Provide MHPSS to persons deprived of their liberty",
+      "ne": "4.2 स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) प्रदान गर्ने",
+      "bt": "4.2 Providing mental health and psychosocial support (MHPSS) to persons deprived of liberty",
+      "type": "activity",
+      "terms": [
+        "T001"
+      ],
+      "flags": [],
+      "note": "Uses the existing unreviewed T001 candidate and the supplied activity 4.2 wording; retains MHPSS."
+    },
+    {
+      "id": "MAN-30-0002",
+      "page": "91",
+      "loc": "para",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "In humanitarian crises, adults and children may be deprived of their liberty for a variety of reasons: for example, they may be held in administrative detention or immigration detention while attempting to seek safety and protection across borders and on migration routes or they may be placed in detention or internment because they are (suspected) combatants or affiliated with fighting forces.",
+      "ne": "मानवीय सङ्कटका समयमा वयस्क तथा बालबालिका विभिन्न कारणले स्वतन्त्रताबाट वञ्चित हुन सक्छन्: उदाहरणका लागि, सीमापार तथा प्रवासन मार्गहरूमा सुरक्षा र संरक्षण खोज्ने प्रयास गर्दा उनीहरूलाई प्रशासनिक हिरासत वा अध्यागमनसम्बन्धी हिरासतमा राखिएको हुन सक्छ, वा उनीहरू लडाकु भएको वा लडाकु भएको शङ्का गरिएको कारणले अथवा लडाइँमा संलग्न बलहरूसँग आबद्ध भएको कारणले उनीहरूलाई हिरासत वा नजरबन्दमा राखिएको हुन सक्छ।",
+      "bt": "During humanitarian crises, adults and children may be deprived of liberty for various reasons: for example, they may have been placed in administrative detention or immigration-related detention while trying to seek safety and protection across borders and along migration routes, or they may have been placed in detention or internment because they are combatants or are suspected of being combatants, or because they are affiliated with forces involved in fighting.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T219"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The recurring legal term detention is absent from G-0.2; proposes [Nepali wording recorded in terminology evidence]. Internment is rendered separately as [Nepali wording recorded in terminology evidence]. The original Nepali extends suspicion to affiliation with fighting forces, whereas the source explicitly attaches suspected to combatants. The revision limits suspicion accordingly and distinguishes migration routes from immigration detention. The legal equivalence of [Nepali wording recorded in terminology evidence] for internment remains review pending; retaining it does not validate that terminology. The back-translation shifts possible current detention or placement into detention to possible prior placement through “may have been placed,” which does not necessarily indicate ongoing confinement."
+    },
+    {
+      "id": "MAN-30-0003",
+      "page": "91",
+      "loc": "para",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "People living with pre-existing and severe mental health conditions may also be held in detention or at other locations, instead of receiving appropriate mental health care.",
+      "ne": "पहिलेदेखि नै रहेका र गम्भीर मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरूलाई पनि उचित मानसिक स्वास्थ्य हेरचाह प्राप्त हुनुको सट्टा हिरासतमा वा अन्य स्थानहरूमा राखिएको हुन सक्छ।",
+      "bt": "People with pre-existing and severe mental health conditions may also have been placed in detention or other places instead of receiving appropriate mental health care.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T219",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The draft retains both pre-existing and severe conditions and the possibility of detention instead of appropriate care."
+    },
+    {
+      "id": "MAN-30-0004",
+      "page": "91",
+      "loc": "para",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Further, people in detention may develop mental health conditions (e.g. depression, anxiety) and/or misuse substances such as drugs or alcohol as a way of coping.",
+      "ne": "यसका अतिरिक्त, हिरासतमा रहेका व्यक्तिहरूमा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू (उदाहरणका लागि, [depression], [anxiety]) उत्पन्न हुन सक्छन् र/वा उनीहरूले परिस्थितिको सामना गर्ने उपायका रूपमा लागूपदार्थ वा मदिराजस्ता पदार्थहरूको दुरुपयोग गर्न सक्छन्।",
+      "bt": "In addition, people in detention may develop mental health conditions (for example, [depression], [anxiety]) and/or they may misuse substances such as drugs or alcohol as a way of coping with the situation.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T219",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The named conditions remain in exact source English; the draft preserves possibility, and/or, and substance misuse as a way of coping."
+    },
+    {
+      "id": "MAN-30-0005",
+      "page": "91",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Providing access to MHPSS services for people deprived of their liberty can be a life-saving intervention and can help to ensure that their rights are upheld.",
+      "ne": "स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई MHPSS सेवामा पहुँच प्रदान गर्नु जीवन बचाउने हस्तक्षेप हुन सक्छ र उनीहरूका अधिकार कायम रहेको सुनिश्चित गर्न सहयोग गर्न सक्छ।",
+      "bt": "Providing persons deprived of liberty with access to MHPSS services can be a life-saving intervention and can help ensure that their rights are upheld.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-30-0006",
+      "page": "92",
+      "loc": "heading",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-30-0007",
+      "page": "92",
+      "loc": "heading",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Provide MHPSS to persons deprived of their liberty",
+      "ne": "स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई MHPSS प्रदान गर्ने",
+      "bt": "Providing MHPSS to persons deprived of liberty",
+      "type": "activity",
+      "terms": [],
+      "flags": [],
+      "note": "Retains the source acronym and uses the wording supplied for activity 4.2."
+    },
+    {
+      "id": "MAN-30-0008",
+      "page": "92",
+      "loc": "heading",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-30-0009",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Develop/select, adapt and translate training materials to equip staff to provide basic psychosocial support to persons deprived of their liberty, including considerations for specific groups such as juveniles, survivors of sexual violence and survivors of torture, as relevant.",
+      "ne": "स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई आधारभूत मनोसामाजिक सहयोग प्रदान गर्न कर्मचारीलाई सक्षम बनाउने तालिम सामग्री विकास वा छनोट गर्नुहोस्, अनुकूलन गर्नुहोस् र अनुवाद गर्नुहोस्; सान्दर्भिकताअनुसार नाबालिग, यौन हिंसाबाट बचेका व्यक्ति र यातनाबाट बचेका व्यक्तिजस्ता विशेष समूहसम्बन्धी विचारणीय पक्षहरू पनि समावेश गर्नुहोस्।",
+      "bt": "Develop or select, adapt and translate training materials that enable staff to provide basic psychosocial support to persons deprived of liberty; also include considerations concerning specific groups, such as minors, survivors of sexual violence and survivors of torture, as relevant.",
+      "type": "safety",
+      "terms": [
+        "T299",
+        "T410",
+        "T439"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance; review pending. Basic psychosocial support is absent as a standalone G-0.2 entry; its Nepali phrase is reused exactly from supplied activity T099. This is not a verbatim consent or safeguarding declaration. Persons affected by sexual violence is broader than survivors of sexual violence. The revision restores survivors rather than everyone affected."
+    },
+    {
+      "id": "MAN-30-0010",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Train staff visiting and monitoring institutions/detention centres to provide age- and gender-appropriate basic psychosocial support to people in detention.",
+      "ne": "संस्था वा हिरासत केन्द्रहरूको भ्रमण र अनुगमन गर्ने कर्मचारीलाई हिरासतमा रहेका व्यक्तिहरूलाई उमेर र लैङ्गिकताअनुकूल आधारभूत मनोसामाजिक सहयोग प्रदान गर्न तालिम दिनुहोस्।",
+      "bt": "Train staff who visit and monitor institutions or detention centres to provide age- and gender-appropriate basic psychosocial support to persons in detention.",
+      "type": "safety",
+      "terms": [
+        "T219",
+        "T233",
+        "T271",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance; review pending. Proposes [Nepali wording recorded in terminology evidence] for detention. The basic psychosocial support phrase is reused exactly from supplied activity T099 and proposed as a standalone glossary entry."
+    },
+    {
+      "id": "MAN-30-0011",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Advocate to managers and staff at detention facilities for MHPSS considerations to minimize psychological distress (e.g. maintaining family and social connections) and to ensure availability of private spaces for provision of confidential mental health and psychosocial support.",
+      "ne": "मानसिक व्यथा न्यून गर्न (उदाहरणका लागि, पारिवारिक तथा सामाजिक सम्बन्धहरू कायम राखेर) MHPSS सम्बन्धी पक्षहरूलाई ध्यानमा राख्न र गोपनीय मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग प्रदान गर्न निजी स्थानहरूको उपलब्धता सुनिश्चित गर्न हिरासत केन्द्रका व्यवस्थापकहरू र कर्मचारीहरूसमक्ष पैरवी गर्नुहोस्।",
+      "bt": "Advocate with detention centre managers and staff to take MHPSS-related aspects into account to minimize mental distress (for example, by maintaining family and social relationships) and to ensure the availability of private spaces to provide confidential mental health and psychosocial support.",
+      "type": "safety",
+      "terms": [
+        "T001",
+        "T027",
+        "T157",
+        "T219",
+        "T332",
+        "T410",
+        "T461",
+        "T492"
+      ],
+      "flags": [],
+      "note": "Psychological distress is retained as suffering rather than generic stress; confidentiality is an attribute of the support being provided."
+    },
+    {
+      "id": "MAN-30-0012",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Provide basic psychosocial support to people in detention, including facilitating communication with family, identifying and referring people for additional support (e.g. mental health services, restoring family links, specialized support for juveniles, survivors of sexual violence and survivors of torture).",
+      "ne": "हिरासतमा रहेका व्यक्तिहरूलाई आधारभूत मनोसामाजिक सहयोग प्रदान गर्नुहोस्; यसमा परिवारसँग सञ्चार गर्न सहजीकरण गर्ने तथा थप सहयोग आवश्यक भएका व्यक्तिहरू पहिचान गरी उनीहरूलाई सम्बन्धित सेवामा पठाउने कार्य समावेश गर्नुहोस् (जस्तै, मानसिक स्वास्थ्य सेवा, पारिवारिक सम्पर्क पुनःस्थापना, नाबालिग, यौन हिंसाबाट बचेका व्यक्ति र यातनाबाट बचेका व्यक्तिका लागि विशेषीकृत सहयोग)।",
+      "bt": "Provide basic psychosocial support to persons in detention; include facilitating communication with family and identifying persons who need additional support and referring them to the relevant services (e.g., mental health services, restoration of family contact, specialized support for minors, survivors of sexual violence and survivors of torture).",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T157",
+        "T219",
+        "T263",
+        "T299",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance; review pending. Reuses the basic psychosocial support phrase from supplied activity T099 and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] from supplied activity T107 as existing unreviewed wording. Proposes standalone entries for detention and basic psychosocial support. Persons affected by sexual violence broadens the specified group beyond survivors. The revision restores the source group without changing identification, referral or the listed support."
+    },
+    {
+      "id": "MAN-30-0013",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Set up a system of referral and consultation with mental health care providers (e.g. visits from mental health care providers who can treat MNS conditions; see MSP activity 3.10) in coordination with the detaining authorities and in cooperation with line ministries.",
+      "ne": "हिरासतमा राख्ने निकायहरूसँग समन्वय गर्दै र सम्बन्धित मन्त्रालयहरूसँग सहकार्य गर्दै, सम्बन्धित सेवामा पठाउने कार्य तथा मानसिक स्वास्थ्य सेवा प्रदायकहरूसँग परामर्श गर्ने प्रणाली स्थापना गर्नुहोस् (उदाहरणका लागि, MNS अवस्थाहरूको उपचार गर्न सक्ने मानसिक स्वास्थ्य सेवा प्रदायकहरूका भ्रमणहरू; MSP गतिविधि 3.10 हेर्नुहोस्)।",
+      "bt": "While coordinating with detaining bodies and collaborating with the relevant ministries, establish a system for referral to relevant services and consultation with mental health service providers (for example, visits by mental health service providers who can treat MNS conditions; see MSP activity 3.10).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T091",
+        "T157",
+        "T163",
+        "T172",
+        "T219",
+        "T236",
+        "T346",
+        "T349"
+      ],
+      "flags": [],
+      "note": "MNS remains unexpanded, and the draft retains the providers’ treatment capability, institutional relationships and MSP activity 3.10 reference."
+    },
+    {
+      "id": "MAN-30-0014",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Engage staff with MHPSS technical expertise to provide ongoing support and oversight.",
+      "ne": "निरन्तर सहयोग र रेखदेख प्रदान गर्न MHPSS सम्बन्धी प्राविधिक विशेषज्ञता भएका कर्मचारीलाई संलग्न गराउनुहोस्।",
+      "bt": "Engage staff with technical expertise in MHPSS to provide ongoing support and supervision.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-30-0015",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Train detention/facility administrators and staff on the identification of MHPSS needs and referral pathways.",
+      "ne": "हिरासत केन्द्र वा संस्थाका प्रशासक र कर्मचारीलाई MHPSS आवश्यकताको पहिचान तथा सेवा प्रेषण मार्गहरूबारे तालिम दिनुहोस्।",
+      "bt": "Train administrators and staff of detention centres or institutions on identifying MHPSS needs and on service referral pathways.",
+      "type": "safety",
+      "terms": [
+        "T063",
+        "T219"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance; review pending. Proposes [Nepali wording recorded in terminology evidence] for detention. Retains the separate reference to facility administrators without assuming every facility is a detention centre. Other sites replaces facility with an unrestricted location category and adds other. The revision refers to detention centres or institutions while preserving both administrators and staff."
+    },
+    {
+      "id": "MAN-30-0016",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूमा निर्भर हुने)",
+      "bt": "Additional actions provided for consideration (dependent on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-30-0017",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Set up additional MHPSS services and activities to support people in detention facilities (e.g. needs assessments, peer support groups, psychological interventions) in coordination with the detaining authorities.",
+      "ne": "हिरासतमा राख्ने निकायहरूसँग समन्वय गरी हिरासतमा राख्ने स्थलहरूमा रहेका व्यक्तिहरूलाई सहयोग गर्न थप MHPSS सेवा र गतिविधिको व्यवस्था गर्नुहोस् (जस्तै, आवश्यकताको लेखाजोखा, समकक्षी सहयोग समूहहरू, मनोवैज्ञानिक हस्तक्षेप)।",
+      "bt": "In coordination with detaining bodies, arrange additional MHPSS services and activities to support persons in places of detention (e.g., needs assessment, peer support groups, psychological interventions).",
+      "type": "safety",
+      "terms": [
+        "T068",
+        "T007",
+        "T219",
+        "T311",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General service-organizing guidance; review pending. Psychological interventions uses the exact existing unreviewed T007 candidate. Peer support groups is drafted as ordinary nonclinical group support. Proposes [Nepali wording recorded in terminology evidence] for detention."
+    },
+    {
+      "id": "MAN-30-0018",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Provide basic psychosocial support to family members of those in detention.",
+      "ne": "हिरासतमा रहेका व्यक्तिहरूका परिवारका सदस्यहरूलाई आधारभूत मनोसामाजिक सहयोग प्रदान गर्नुहोस्।",
+      "bt": "Provide basic psychosocial support to family members of persons in detention.",
+      "type": "safety",
+      "terms": [
+        "T219",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance; review pending. Reuses the exact basic psychosocial support phrase from supplied activity T099. Proposes standalone entries for that phrase and detention."
+    },
+    {
+      "id": "MAN-30-0019",
+      "page": "92",
+      "loc": "heading",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": "Reclassified as an ordinary nonclinical resource heading."
+    },
+    {
+      "id": "MAN-30-0020",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": "Reclassified as an ordinary nonclinical navigation instruction."
+    },
+    {
+      "id": "MAN-30-0021",
+      "page": "92",
+      "loc": "heading",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Key consideration 36: Providing services in places where people are deprived of their liberty",
+      "ne": "मुख्य विचारणीय पक्ष 36: व्यक्तिहरू स्वतन्त्रताबाट वञ्चित रहेका स्थानहरूमा सेवा प्रदान गर्ने",
+      "bt": "Key consideration 36: Providing services in places where persons are deprived of liberty",
+      "type": "general",
+      "terms": [
+        "T252"
+      ],
+      "flags": [],
+      "note": "Reclassified as an ordinary nonclinical heading; retains 36."
+    },
+    {
+      "id": "MAN-30-0022",
+      "page": "92",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "Providing services for people in detention is often sensitive and requires nuance. Many places where people are deprived of liberty around the world are not legally established, subject to oversight or independent detention monitoring, and individuals may be held without a legal basis. Evidence86 shows that detention is harmful for the mental health and psychosocial well-being of adults and children. However, these situations still exist, and people who are deprived of their liberty are at higher risk for developing mental health conditions and are likely in dire need of MHPSS services. It is important to consider the political, legal and ethical aspects of providing services in places where people are deprived of their liberty. Negotiating principled conditions (e.g. confidentiality) for access to places of detention should be a priority. Confidentiality, data protection, rights, and access are typically even more important when working with people in detention.",
+      "ne": "हिरासतमा रहेका व्यक्तिहरूलाई सेवा प्रदान गर्ने काम प्रायः संवेदनशील हुन्छ र परिस्थितिका सूक्ष्म पक्षहरूमा ध्यान दिन आवश्यक हुन्छ। विश्वभरि व्यक्तिहरूलाई स्वतन्त्रताबाट वञ्चित गरिने धेरै स्थानहरू न कानुनी रूपमा स्थापना गरिएका हुन्छन्, न त निगरानी वा हिरासतको स्वतन्त्र अनुगमनको दायरामा पर्छन्, र व्यक्तिहरूलाई कानुनी आधारबिना राखिएको हुन सक्छ। प्रमाण86 ले हिरासत वयस्क तथा बालबालिकाको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणका लागि हानिकारक हुने देखाउँछ। तर यस्ता परिस्थितिहरू अझै विद्यमान छन्, र आफ्नो स्वतन्त्रताबाट वञ्चित व्यक्तिहरू मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू उत्पन्न हुने बढी जोखिममा रहेका हुन्छन् तथा उनीहरूलाई MHPSS सेवाहरूको अत्यन्तै खाँचो परेको सम्भावना धेरै हुन्छ। व्यक्तिहरूलाई स्वतन्त्रताबाट वञ्चित गरिने स्थानहरूमा सेवा प्रदान गर्दाका राजनीतिक, कानुनी तथा नैतिक पक्षहरूबारे विचार गर्नु महत्त्वपूर्ण छ। हिरासतका स्थानहरूमा पहुँच पाउनका लागि सिद्धान्तमा आधारित सर्तहरू (उदाहरणका लागि, गोपनीयता) बारे वार्ता गर्नु प्राथमिकता हुनुपर्छ। हिरासतमा रहेका व्यक्तिहरूसँग काम गर्दा गोपनीयता, डेटा संरक्षण, अधिकार र पहुँच सामान्यतया अझ बढी महत्त्वपूर्ण हुन्छन्।",
+      "bt": "The work of providing services to people in detention is often sensitive and requires attention to the subtle aspects of the situation. Many places worldwide where people are deprived of liberty are neither legally established nor within the scope of oversight or independent monitoring of detention, and people may have been held without a legal basis. Evidence86 shows that detention is harmful to the mental health and psychosocial well-being of adults and children. But such situations still exist, and people deprived of their liberty are at greater risk of developing mental health conditions and are very likely to be in extreme need of MHPSS services. It is important to consider the political, legal and ethical aspects of providing services in places where people are deprived of liberty. Negotiating principle-based conditions (for example, confidentiality) for gaining access to places of detention should be a priority. Confidentiality, data protection, rights and access are generally even more important when working with people in detention.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T027",
+        "T029",
+        "T157",
+        "T211",
+        "T216",
+        "T219",
+        "T271",
+        "T328",
+        "T410",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The draft retains citation marker 86, the absence of legal establishment or oversight, increased risk, probable urgent need and the advisory priority for negotiating access conditions."
+    },
+    {
+      "id": "MAN-30-0023",
+      "page": "92",
+      "loc": "footnote",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "86 WHO 2022. Immigration detention is harmful to health – alternatives to detention should be used; W. Gundo et al. (2022). Improving health in immigration detention and promoting alternatives to detention. The Lancet, 399 (10338), pp.1849-1850.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the bibliographic citation exactly as supplied, including 86, WHO, 2022, W. Gundo et al., The Lancet, 399 (10338), and pp.1849-1850."
+    },
+    {
+      "id": "MAN-30-0024",
+      "page": "93",
+      "loc": "para",
+      "section": "Section 4 > 4.2 Provide MHPSS to persons deprived of their liberty",
+      "en": "https://mhpssmsp.org/ https://interagencystandingcommittee.org/",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain both URLs exactly as supplied."
+    }
+  ]
+}

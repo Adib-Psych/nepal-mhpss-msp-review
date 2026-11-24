@@ -1,0 +1,1960 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-06",
+  "unit_title": "Overview",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "21-25",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:39:46+05:45",
+  "coverage": {
+    "source_words": 2412,
+    "row_words": 2410,
+    "skipped": [
+      "PDF p.21: running footer/page number removed: 16 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.22: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 17",
+      "PDF p.23: running footer/page number removed: 18 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.24: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 19",
+      "PDF p.25: running footer/page number removed: 20 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-06-0001",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Delivering food aid in a culturally appropriate manner that protects the identity, integrity and dignity of communities, e.g. considering religious and cultural practices related to food items and food preparation; and ensuring that food aid reaches all intended recipients without discrimination (see Sphere Food assistance standards 6.1 and 6.2).",
+      "ne": "• समुदायहरूको पहिचान, अखण्डता र मर्यादाको संरक्षण हुने गरी सांस्कृतिक रूपमा उपयुक्त तरिकाले खाद्य सहायता वितरण गर्नुहोस्, जस्तै खाद्यवस्तु र खाना तयारीसँग सम्बन्धित धार्मिक तथा सांस्कृतिक अभ्यासहरूलाई ध्यान दिनुहोस्; र कुनै भेदभावबिना सबै लक्षित प्राप्तकर्तासम्म खाद्य सहायता पुग्ने सुनिश्चित गर्नुहोस् (Sphere का खाद्य सहायतासम्बन्धी मापदण्डहरू 6.1 र 6.2 हेर्नुहोस्)।",
+      "bt": "• Distribute food assistance in a culturally appropriate way that protects the identity, integrity and dignity of communities, for example, pay attention to religious and cultural practices related to food items and food preparation; and ensure that food assistance reaches all targeted recipients without any discrimination (see Sphere food assistance standards 6.1 and 6.2).",
+      "type": "check",
+      "terms": [
+        "T134",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0002",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Using food assistance to create and/or restore informal social protection networks and community groups e.g. distributing food rations via volunteers providing home-based care (see MSP activity 3.4 and Sphere Food security standard 5).",
+      "ne": "• अनौपचारिक सामाजिक संरक्षण सञ्जाल र सामुदायिक समूहहरू स्थापना गर्न र/वा पुनःस्थापना गर्न खाद्य सहायता प्रयोग गर्नुहोस्, जस्तै घरमै हेरचाह प्रदान गर्ने स्वयंसेवकमार्फत खाद्यान्नको राशन वितरण गर्नुहोस् (MSP गतिविधि 3.4 र Sphere को खाद्य सुरक्षा मापदण्ड 5 हेर्नुहोस्)।",
+      "bt": "• Use food assistance to establish and/or re-establish informal social protection networks and community groups, for example, distribute food rations through volunteers who provide home-based care (see MSP activity 3.4 and Sphere food security standard 5).",
+      "type": "check",
+      "terms": [
+        "T029",
+        "T134",
+        "T091",
+        "T135",
+        "T206"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term community groups is absent from G-0.2; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is proposed for review."
+    },
+    {
+      "id": "MAN-06-0003",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Ensuring livelihood options are context-appropriate and promote community cohesion.",
+      "ne": "• जीविकोपार्जनका विकल्पहरू सन्दर्भअनुकूल हुने र तिनले समुदायमा एकता प्रवर्द्धन गर्ने सुनिश्चित गर्नुहोस्।",
+      "bt": "• Ensure that livelihood options are appropriate to the context and that they promote unity in the community.",
+      "type": "general",
+      "terms": [
+        "T155",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0004",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Taking steps to ensure that livelihood programmes do not privilege certain groups or increase the risk of conflict (e.g. engage community members from different groups, including women, in the mapping of risks and identification of risk mitigation and protection strategies).",
+      "ne": "• जीविकोपार्जन कार्यक्रमले केही समूहलाई विशेष लाभ नदिने र द्वन्द्वको जोखिम पनि नबढाउने सुनिश्चित गर्न कदम चाल्नुहोस् (जस्तै जोखिमहरूको नक्साङ्कन गर्न तथा जोखिम न्यूनीकरण र संरक्षणका रणनीति पहिचान गर्न महिलासहित विभिन्न समूहका समुदाय सदस्यहरूलाई सहभागी गराउनुहोस्)।",
+      "bt": "• Take steps to ensure that the livelihoods programme does not give special benefits to some groups and also does not increase the risk of conflict (e.g. involve community members from different groups, including women, to map risks and identify risk reduction and protection strategies).",
+      "type": "safety",
+      "terms": [
+        "T155",
+        "T029",
+        "T260",
+        "T344",
+        "T409"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "General guidance on preventing unequal benefits and conflict risk; safety review pending. The Nepali joins two separately negated safeguards with 'or', potentially allowing either safeguard alone. The source requires preventing both preferential treatment and increased conflict risk. The back-translation refers to a single livelihoods programme rather than livelihood programmes generally, while preserving both safeguards."
+    },
+    {
+      "id": "MAN-06-0005",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Conducting group-based community MHPSS activities (see MSP activity 3.4) with livelihoods groups.",
+      "ne": "• जीविकोपार्जन समूहहरूसँग समूहमा आधारित सामुदायिक MHPSS गतिविधिहरू सञ्चालन गर्नुहोस् (MSP गतिविधि 3.4 हेर्नुहोस्)।",
+      "bt": "• Conduct group-based community MHPSS activities with livelihood groups (see MSP activity 3.4).",
+      "type": "check",
+      "terms": [
+        "T155",
+        "T079",
+        "T091",
+        "T256"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term livelihoods groups is absent from G-0.2; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is proposed for review."
+    },
+    {
+      "id": "MAN-06-0006",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Orienting FSL workers on basic psychosocial support, including the identification and referral of children and adults who may need MHPSS services and supports (see MSP activity 3.2).",
+      "ne": "▶ MHPSS सेवा र सहयोग आवश्यक पर्न सक्ने बालबालिका तथा वयस्कको पहिचान र तिनलाई सम्बन्धित सेवामा पठाउने कार्यसमेत समेटेर FSL कार्यकर्ताहरूलाई आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्नुहोस् (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "▶ Orient FSL workers on basic psychosocial support, also including identifying children and adults who may need MHPSS services and support and referring them to the relevant services (see MSP activity 3.2).",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T091",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the supplied unreviewed activity 3.2 candidate. General identification and referral guidance; safety review pending."
+    },
+    {
+      "id": "MAN-06-0007",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including key messages on mental health and psychosocial support (see MSP activity 3.3) as part of livelihoods activities.",
+      "ne": "▶ जीविकोपार्जनका गतिविधिहरूको अङ्गका रूपमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी मुख्य सन्देशहरू समावेश गर्नुहोस् (MSP गतिविधि 3.3 हेर्नुहोस्)।",
+      "bt": "▶ Include key messages on mental health and psychosocial support as part of livelihood activities (see MSP activity 3.3).",
+      "type": "check",
+      "terms": [
+        "T155",
+        "T001",
+        "T091",
+        "T253",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T001 is reused verbatim as an unreviewed candidate from MAN PDF p6; PRIOR-SUM-29OCT2026 p.1 row 1."
+    },
+    {
+      "id": "MAN-06-0008",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing for food security needs as part of MHPSS activities, for example, food security initiatives involving community groups (see MSP activity 3.4), and food security for persons in mental hospitals and institutions (see MSP activity 3.14).",
+      "ne": "▶ MHPSS गतिविधिहरूको अङ्गका रूपमा खाद्य सुरक्षाका आवश्यकताहरू पूरा गर्नुहोस्, उदाहरणका लागि सामुदायिक समूहहरू संलग्न हुने खाद्य सुरक्षाका पहलहरू (MSP गतिविधि 3.4 हेर्नुहोस्) र मानसिक अस्पताल तथा संस्थाहरूमा रहेका व्यक्तिहरूका लागि खाद्य सुरक्षा (MSP गतिविधि 3.14 हेर्नुहोस्)।",
+      "bt": "▶ Meet food security needs as part of MHPSS activities, for example, food security initiatives involving community groups (see MSP activity 3.4) and food security for people in mental hospitals and institutions (see MSP activity 3.14).",
+      "type": "check",
+      "terms": [
+        "T158",
+        "T135",
+        "T091",
+        "T015",
+        "T206"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused verbatim from the unreviewed T015 candidate, MAN PDF p5; PRIOR-SUM-29OCT2026 p.2 row 104. The recurring term community groups is absent from G-0.2; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is proposed for review."
+    },
+    {
+      "id": "MAN-06-0009",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Facilitating access to livelihood opportunities for people with mental health conditions and psychosocial disabilities and their families.",
+      "ne": "▶ मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू र मनोसामाजिक अपाङ्गता भएका व्यक्तिहरू तथा तिनका परिवारका लागि जीविकोपार्जनका अवसरहरूमा पहुँच सहज बनाउने।",
+      "bt": "▶ Facilitate access to livelihood opportunities for persons with mental health conditions and psychosocial disabilities and their families.",
+      "type": "safety",
+      "terms": [
+        "T478",
+        "T410",
+        "T155"
+      ],
+      "flags": [],
+      "note": "The draft retains both population categories and their families without adding eligibility conditions."
+    },
+    {
+      "id": "MAN-06-0010",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Connecting with pre-existing community groups (see MSP activity 3.4) to facilitate the formation of community-based livelihoods groups.",
+      "ne": "▶ समुदायमा आधारित जीविकोपार्जन समूहहरू गठन गर्न सहजीकरणका लागि पहिलेदेखि रहेका सामुदायिक समूहहरूसँग सम्पर्क स्थापित गर्नुहोस् (MSP गतिविधि 3.4 हेर्नुहोस्)।",
+      "bt": "▶ Establish contact with existing community groups to facilitate the formation of community-based livelihood groups (see MSP activity 3.4).",
+      "type": "check",
+      "terms": [
+        "T155",
+        "T091",
+        "T206",
+        "T256",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring terms community groups and livelihoods groups are absent from G-0.2; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] are proposed for review."
+    },
+    {
+      "id": "MAN-06-0011",
+      "page": "21",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Monitoring MHPSS-related outputs and outcomes (e.g. improvements in well-being following a participatory approach in the design of livelihoods programmes).",
+      "ne": "▶ MHPSS सम्बन्धी प्रतिफल र परिणामहरूको अनुगमन गर्नुहोस् (जस्तै जीविकोपार्जन कार्यक्रमको डिजाइनमा सहभागितामूलक दृष्टिकोण अपनाएपछि कल्याणमा आएको सुधार)।",
+      "bt": "▶ Monitor MHPSS-related outputs and outcomes (for example, improvement in well-being after adopting a participatory approach in the design of a livelihood programme).",
+      "type": "general",
+      "terms": [
+        "T155",
+        "T271",
+        "T274",
+        "T276",
+        "T328",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Well-being is used in its general sense here, without adding a clinical qualifier."
+    },
+    {
+      "id": "MAN-06-0012",
+      "page": "21",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सान्दर्भिक स्रोतसामग्री हेर्नुहोस्।",
+      "bt": "See relevant resources on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189",
+        "T416"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0013",
+      "page": "21",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "HOW IS THE MHPSS MSP STRUCTURED?",
+      "ne": "MHPSS MSP कसरी संरचित छ?",
+      "bt": "How is the MHPSS MSP structured?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0014",
+      "page": "21",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "MHPSS MSP activities are organized as follows:",
+      "ne": "MHPSS MSP गतिविधिहरूलाई निम्नानुसार व्यवस्थित गरिएको छ:",
+      "bt": "MHPSS MSP activities are organized as follows:",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T091",
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0015",
+      "page": "21",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Section 1",
+      "ne": "खण्ड 1",
+      "bt": "Section 1",
+      "type": "activity",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0016",
+      "page": "21",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Inter-agency and intersectoral coordination and assessment This section includes activities to ensure effective inter-agency and intersectoral coordination and assessment, which are particularly relevant to TWGs/coordination groups, as they rely on interagency work.",
+      "ne": "संस्थाहरूबीच र क्षेत्रहरूबीच समन्वय र लेखाजोखा\nयस खण्डमा संस्थाहरूबीच र क्षेत्रहरूबीच प्रभावकारी समन्वय र लेखाजोखा सुनिश्चित गर्ने गतिविधिहरू समावेश छन्। यी गतिविधिहरू TWGs/समन्वय समूहहरूका लागि विशेष सान्दर्भिक छन्, किनकि तिनीहरूको काम संस्थाहरूबीचको सहकार्यमा निर्भर हुन्छ।",
+      "bt": "Coordination and assessment between organizations and between sectors\nThis section includes activities to ensure effective coordination and assessment between organizations and between sectors. These activities are particularly relevant for TWGs/coordination groups, because their work depends on collaboration between organizations.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T128",
+        "T247",
+        "T296",
+        "T349",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring inter-agency terminology is absent from G-0.2; [Nepali wording recorded in terminology evidence] is proposed for review, with context-dependent grammatical forms."
+    },
+    {
+      "id": "MAN-06-0017",
+      "page": "21",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Section 2",
+      "ne": "खण्ड 2",
+      "bt": "Section 2",
+      "type": "activity",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0018",
+      "page": "21",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Essential components of all MHPSS programmes This section includes activities that are essential to the quality and effective administration of all MHPSS programmes (e.g. programme design, monitoring and evaluation (M&E)). Organizations engaging in any type of MHPSS activity should implement these activities.",
+      "ne": "सबै MHPSS कार्यक्रमका अत्यावश्यक अवयवहरू\nयस खण्डमा सबै MHPSS कार्यक्रमको गुणस्तर र प्रभावकारी व्यवस्थापनका लागि अत्यावश्यक गतिविधिहरू समावेश छन् (जस्तै कार्यक्रमको डिजाइन, अनुगमन तथा मूल्याङ्कन (M&E))। कुनै पनि प्रकारको MHPSS गतिविधिमा संलग्न संस्थाहरूले यी गतिविधिहरू कार्यान्वयन गर्नु उचित हुन्छ।",
+      "bt": "Essential components of all MHPSS programmes\nThis section includes activities essential for the quality and effective management of all MHPSS programmes (e.g. programme design, monitoring and evaluation (M&E)). It is appropriate for organizations involved in any type of MHPSS activity to implement these activities.",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T046",
+        "T271",
+        "T379",
+        "T394",
+        "T409",
+        "T422"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation strengthens 'should implement' to 'must implement' and renders 'effective administration' as 'effective operation'. The revision restores advisory force and the management meaning of administration. The direct recommendation that organizations should implement these activities is weakened to a statement that implementation is appropriate."
+    },
+    {
+      "id": "MAN-06-0019",
+      "page": "21",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Section 3",
+      "ne": "खण्ड 3",
+      "bt": "Section 3",
+      "type": "activity",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0020",
+      "page": "21",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "MHPSS programme activities This section includes MHPSS programme activities, which agencies should select based on their capacities and the unmet needs in the overall response.",
+      "ne": "MHPSS कार्यक्रमगत गतिविधिहरू\nयस खण्डमा MHPSS कार्यक्रमगत गतिविधिहरू समावेश छन्। संस्थाहरूले आफ्ना क्षमता र समग्र प्रतिकार्यमा पूरा हुन बाँकी आवश्यकताका आधारमा यी गतिविधिहरू छनोट गर्नु उचित हुन्छ।",
+      "bt": "MHPSS programmatic activities\nThis section includes MHPSS programmatic activities. It is appropriate for organizations to select these activities based on their capacities and the needs that remain unmet in the overall response.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T174",
+        "T409",
+        "T422"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation strengthens 'should select' to 'must select'. The revision restores advisory force while retaining both selection criteria. The direct recommendation that agencies should select activities using the stated criteria is weakened to a statement that doing so is appropriate."
+    },
+    {
+      "id": "MAN-06-0021",
+      "page": "21",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Section 4",
+      "ne": "खण्ड 4",
+      "bt": "Section 4",
+      "type": "activity",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0022",
+      "page": "21",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Activities and considerations for specific settings This section includes MHPSS programme activities for specific settings, which agencies should select based on the context, their capacities, and the unmet needs in the overall response.",
+      "ne": "विशिष्ट परिवेशका लागि गतिविधि र विचारणीय पक्षहरू\nयस खण्डमा विशिष्ट परिवेशका लागि MHPSS कार्यक्रमगत गतिविधिहरू समावेश छन्। संस्थाहरूले सन्दर्भ, आफ्ना क्षमता र समग्र प्रतिकार्यमा पूरा हुन बाँकी आवश्यकताका आधारमा यी गतिविधिहरू छनोट गर्नु उचित हुन्छ।",
+      "bt": "Activities and considerations for specific settings\nThis section includes MHPSS programmatic activities for specific settings. It is appropriate for organizations to select these activities based on the context, their capacities and the needs that remain unmet in the overall response.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T174",
+        "T409",
+        "T422"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation strengthens 'should select' to 'must select'. The revision restores advisory force while retaining context, capacities and unmet needs as selection criteria. The direct recommendation that agencies should select activities using all three stated criteria is weakened to a statement that doing so is appropriate."
+    },
+    {
+      "id": "MAN-06-0023",
+      "page": "21",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Note that the programme activities (Sections 3 and 4) are not listed in order of priority or chronology.",
+      "ne": "कार्यक्रमगत गतिविधिहरू (खण्ड 3 र 4) प्राथमिकता वा समयक्रमका आधारमा सूचीबद्ध गरिएका छैनन् भन्ने ध्यान दिनुहोस्।",
+      "bt": "Note that the programmatic activities (Sections 3 and 4) are not listed according to priority or chronological order.",
+      "type": "check",
+      "terms": [
+        "T167",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0024",
+      "page": "21",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "All of these activities should be implemented through coordination across agencies.",
+      "ne": "यी सबै गतिविधिहरू संस्थाहरूबीच समन्वय गरेर कार्यान्वयन गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate to implement all these activities through coordination among organizations.",
+      "type": "general",
+      "terms": [
+        "T349",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The recurring inter-agency terminology is absent from G-0.2; [Nepali wording recorded in terminology evidence] is proposed for review, with context-dependent grammatical forms. The back-translation strengthens 'should be implemented' to 'must be implemented'. The revision restores advisory force without changing the requirement for coordination across agencies. The direct recommendation that all activities should be implemented through inter-agency coordination is weakened to a statement that doing so is appropriate."
+    },
+    {
+      "id": "MAN-06-0025",
+      "page": "22",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Each MSP activity is presented along with:",
+      "ne": "प्रत्येक MSP गतिविधि निम्न विवरणसहित प्रस्तुत गरिएको छ:",
+      "bt": "Each MSP activity is presented with the following details:",
+      "type": "general",
+      "terms": [
+        "T091"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0026",
+      "page": "22",
+      "loc": "figure-label",
+      "section": "Introduction > Overview",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0027",
+      "page": "22",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Core actions: a checklist of actions to deliver the activity safely and effectively.",
+      "ne": "▶ मुख्य कार्यहरू: गतिविधि सुरक्षित र प्रभावकारी रूपमा सञ्चालन गर्नका लागि कार्यहरूको जाँचसूची।",
+      "bt": "▶ Key actions: A checklist of actions for conducting the activity safely and effectively.",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T018",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0028",
+      "page": "22",
+      "loc": "figure-label",
+      "section": "Introduction > Overview",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0029",
+      "page": "22",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Additional actions for consideration: a checklist of related additional actions that can be prioritized depending on context-specific needs and available resources.",
+      "ne": "▶ विचार गर्नका लागि दिइएका थप कार्यहरू: सन्दर्भविशेषका आवश्यकता र उपलब्ध स्रोतसाधनका आधारमा प्राथमिकता दिन सकिने सम्बन्धित थप कार्यहरूको जाँचसूची।",
+      "bt": "▶ Additional actions provided for consideration: A checklist of related additional actions that can be prioritized based on context-specific needs and available resources.",
+      "type": "general",
+      "terms": [
+        "T115",
+        "T018"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0030",
+      "page": "22",
+      "loc": "figure-label",
+      "section": "Introduction > Overview",
+      "en": "Additional actions for consideration",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू",
+      "bt": "Additional actions provided for consideration",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0031",
+      "page": "22",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ A link to relevant guidelines, standards and tools: these resources provide additional guidance to support the planning and implementation of the activity and are available on the MHPSS MSP web platform.",
+      "ne": "▶ सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणको लिङ्क: यी स्रोतसामग्रीले गतिविधिको योजना र कार्यान्वयनमा सहयोग गर्न थप मार्गदर्शन प्रदान गर्छन् र MHPSS MSP वेब प्लेटफर्ममा उपलब्ध छन्।",
+      "bt": "▶ Links to relevant guidelines, standards and tools: These resources provide additional guidance to support the planning and implementation of the activity and are available on the MHPSS MSP web platform.",
+      "type": "check",
+      "terms": [
+        "T019",
+        "T163",
+        "T189",
+        "T380",
+        "T416"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0032",
+      "page": "22",
+      "loc": "figure-label",
+      "section": "Introduction > Overview",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "check",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0033",
+      "page": "22",
+      "loc": "figure-label",
+      "section": "Introduction > Overview",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणमा पहुँच प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to access relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0034",
+      "page": "22",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The MHPSS MSP is an IASC product.",
+      "ne": "MHPSS MSP, IASC को उत्पादन हो।",
+      "bt": "MHPSS MSP is a product of IASC.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0035",
+      "page": "22",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The MHPSS MSP web platform includes additional appendixes, links and tools, from a wide range of humanitarian partners, that can facilitate implementation but are not an integral component of the product.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा विभिन्न मानवीय साझेदारका थप परिशिष्ट, लिङ्क र उपकरण समावेश छन्, जसले कार्यान्वयनमा सहजता ल्याउन सक्छन् तर ती यस उत्पादनका अभिन्न अङ्ग होइनन्।",
+      "bt": "The MHPSS MSP web platform includes additional appendices, links and tools from various humanitarian partners, which may facilitate implementation but are not integral parts of this product.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189",
+        "T380"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0036",
+      "page": "22",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "IS THE MHPSS MSP ONLY FOR HUMANITARIAN SETTINGS?",
+      "ne": "के MHPSS MSP मानवीय सहायता आवश्यक पर्ने परिस्थितिका लागि मात्र हो?",
+      "bt": "Is MHPSS MSP only for situations requiring humanitarian assistance?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0037",
+      "page": "22",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "The purpose of the MHPSS MSP is to respond to MHPSS needs in all types of new, cyclical or protracted humanitarian emergencies that require a coordinated international response, including armed conflicts, natural disasters and public health emergencies such as infectious disease outbreaks. Many activities included in the MHPSS MSP will also be relevant for smaller emergencies, for emergency preparedness as part of disaster risk reduction, and for longer-term development programming (see also additional resources listed in the table below).",
+      "ne": "MHPSS MSP को उद्देश्य समन्वित अन्तर्राष्ट्रिय प्रतिकार्य आवश्यक पर्ने सबै प्रकारका नयाँ, चक्रीय वा दीर्घकालसम्म जारी मानवीय आपत्कालीन अवस्थामा MHPSS आवश्यकतालाई सम्बोधन गर्नु हो। यस्ता अवस्थामा सशस्त्र द्वन्द्व, प्राकृतिक विपद् र सरुवा रोगको प्रकोपजस्ता सार्वजनिक स्वास्थ्य आपत्कालीन अवस्था पर्दछन्। MHPSS MSP मा समावेश धेरै गतिविधि साना आपत्कालीन अवस्था, विपद् जोखिम न्यूनीकरणको अङ्गका रूपमा आपत्कालीन पूर्वतयारी तथा दीर्घकालीन विकास कार्यक्रमका लागि पनि सान्दर्भिक हुनेछन् (तलको तालिकामा सूचीबद्ध थप स्रोतहरू पनि हेर्नुहोस्)।",
+      "bt": "The purpose of MHPSS MSP is to address MHPSS needs in all types of new, cyclical or long-running humanitarian emergencies requiring a coordinated international response. Such situations include armed conflict, natural disasters and public health emergencies such as outbreaks of communicable diseases. Many activities included in MHPSS MSP will also be relevant for smaller emergencies, emergency preparedness as part of disaster risk reduction, and long-term development programmes (also see the additional resources listed in the table below).",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T174",
+        "T131",
+        "T027",
+        "T223",
+        "T383"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose a glossary entry for the recurring non-clinical term 'emergency preparedness'. The infectious-disease wording reuses the unreviewed wording supplied in activity 4.1."
+    },
+    {
+      "id": "MAN-06-0038",
+      "page": "22",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Because humanitarian crises have a long-lasting impact on mental health and psychosocial well-being, it is essential to “build back better” systems and services.5",
+      "ne": "मानवीय सङ्कटले मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा दीर्घकालीन प्रभाव पार्ने भएकाले प्रणाली र सेवाहरूलाई पुनर्निर्माण गर्दा पहिलेभन्दा राम्रो बनाउनु अत्यावश्यक छ।5",
+      "bt": "Because humanitarian crises have long-term effects on mental health and psychosocial well-being, it is essential to make systems and services better than before when rebuilding them.5",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed candidates for mental health and psychosocial well-being. No clinical validation is implied."
+    },
+    {
+      "id": "MAN-06-0039",
+      "page": "22",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "From the beginning of an emergency, it is important to plan how to build or rebuild sustainable government and civil society systems of care through the health, social services, protection, education, and other relevant sectors6 and to encourage the inclusion of marginalized groups in these systems.7 The MHPSS response should thus contribute to longer-term recovery and development, supporting the humanitarian–development nexus.",
+      "ne": "आपत्कालीन अवस्थाको सुरुदेखि नै स्वास्थ्य, सामाजिक सेवा, संरक्षण, शिक्षा तथा अन्य सान्दर्भिक क्षेत्रहरूमार्फत6 सरकार र नागरिक समाजका दिगो हेरचाह प्रणाली कसरी निर्माण वा पुनर्निर्माण गर्ने भन्ने योजना बनाउनु र यी प्रणालीमा सीमान्तकृत समूहको समावेशलाई प्रोत्साहन गर्नु महत्त्वपूर्ण हुन्छ।7 त्यसैले MHPSS प्रतिकार्यले मानवीय सहायता र विकासबीचको सम्बन्धलाई सहयोग गर्दै दीर्घकालीन पुनर्लाभ र विकासमा योगदान दिनुपर्छ।",
+      "bt": "From the very beginning of an emergency, it is important to plan how to build or rebuild sustainable government and civil society care systems through health, social services, protection, education and other relevant sectors6 and to encourage the inclusion of marginalized groups in these systems.7 Therefore, the MHPSS response should contribute to long-term recovery and development by supporting the link between humanitarian assistance and development.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T027",
+        "T029",
+        "T028",
+        "T035",
+        "T161",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0040",
+      "page": "22",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Demonstration projects, with short-term emergency funding, can provide proof of concept for better services and can create momentum to attract further support and funding for longer-term system development.",
+      "ne": "अल्पकालीन आपत्कालीन वित्तीय सहयोगमा सञ्चालित प्रदर्शन परियोजनाले सुधारिएका सेवाको अवधारणा व्यवहारमा सम्भव छ भन्ने प्रमाण दिन सक्छन् र दीर्घकालीन प्रणाली विकासका लागि थप सहयोग तथा वित्तीय स्रोत आकर्षित गर्ने गति सिर्जना गर्न सक्छन्।",
+      "bt": "Demonstration projects operated with short-term emergency financial support can provide evidence that the concept of improved services is feasible in practice and can create momentum to attract further support and financial resources for long-term system development.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0041",
+      "page": "22",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on emergency preparedness and longer-term MHPSS system strangthening on the MHPSS MSP web platform .",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा आपत्कालीन पूर्वतयारीसम्बन्धी र MHPSS प्रणालीको दीर्घकालीन सुदृढीकरणसम्बन्धी सान्दर्भिक स्रोतसामग्री हेर्नुहोस्।",
+      "bt": "See relevant resource materials on emergency preparedness and on the long-term strengthening of the MHPSS system on the MHPSS MSP web platform.",
+      "type": "safety",
+      "terms": [
+        "T223",
+        "T416",
+        "T163",
+        "T189"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The source spelling 'strangthening' is interpreted as 'strengthening'; the intended source wording remains unconfirmed. The original coordination allows long-term strengthening to modify emergency preparedness as well. The source distinguishes emergency preparedness from longer-term strengthening of the MHPSS system; the repair separates these topics."
+    },
+    {
+      "id": "MAN-06-0042",
+      "page": "22",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "5 Charlson F et al. (2019). New WHO prevalence estimates of mental disorders in conflict settings: a systematic review and meta-analysis. The Lancet 394, pp. 240-248.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Bibliographic citation retained in English, including reference marker 5, author, year, title, journal, volume and page range."
+    },
+    {
+      "id": "MAN-06-0043",
+      "page": "22",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "6 CHS Alliance, Groupe URD and Sphere Association (2018). Core Humanitarian Standard on Quality and Accountability.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Bibliographic citation retained in English, including reference marker 6, organization names, year and title."
+    },
+    {
+      "id": "MAN-06-0044",
+      "page": "22",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "7 UNICEF (2019). Guidelines to Strengthen the Social Service Workforce for Child Protection.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Bibliographic citation retained in English, including reference marker 7, UNICEF, year and title."
+    },
+    {
+      "id": "MAN-06-0045",
+      "page": "23",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "IS AN MHPSS NEEDS ASSESSMENT NECESSARY TO JUSTIFY IMPLEMENTATION OF MHPSS MSP ACTIVITIES?",
+      "ne": "के MHPSS MSP गतिविधि कार्यान्वयनको औचित्य पुष्टि गर्न MHPSS आवश्यकताको लेखाजोखा आवश्यक छ?",
+      "bt": "Is an assessment of MHPSS needs necessary to justify the implementation of MHPSS MSP activities?",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T004",
+        "T380"
+      ],
+      "flags": [],
+      "note": "The source asks whether assessment is necessary for justification; Nepali and BT instead ask whether it is mandatory, introducing an obligation rather than a necessary condition."
+    },
+    {
+      "id": "MAN-06-0046",
+      "page": "23",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "An MHPSS needs assessment is not necessary to justify the implementation of MHPSS MSP activities, as all emergency-affected communities have significant MHPSS needs.",
+      "ne": "आपत्कालीन अवस्थाबाट प्रभावित सबै समुदायमा उल्लेखनीय MHPSS आवश्यकता हुने भएकाले MHPSS MSP गतिविधि कार्यान्वयनको औचित्य पुष्टि गर्न MHPSS आवश्यकताको लेखाजोखा आवश्यक छैन।",
+      "bt": "An assessment of MHPSS needs is not necessary to justify the implementation of MHPSS MSP activities because all communities affected by an emergency have significant MHPSS needs.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T163",
+        "T004",
+        "T380"
+      ],
+      "flags": [],
+      "note": "The source states that assessment is not necessary to justify implementation; 'not mandatory' only denies an obligation and does not fully preserve that statement."
+    },
+    {
+      "id": "MAN-06-0047",
+      "page": "23",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "However, situation analyses and assessments of MHPSS needs and resources are important for planning, designing and contextualizing MSP activities (see MSP activities 1.2 and 2.1).",
+      "ne": "तर MSP गतिविधिको योजना बनाउन, डिजाइन गर्न र तिनलाई सन्दर्भअनुकूल बनाउन परिस्थितिको विश्लेषण तथा MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा महत्त्वपूर्ण हुन्छ (MSP गतिविधि 1.2 र 2.1 हेर्नुहोस्)।",
+      "bt": "However, analysis of the situation and assessment of MHPSS needs and resources are important for planning, designing and adapting MSP activities to the context (see MSP activities 1.2 and 2.1).",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T004"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0048",
+      "page": "23",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "In addition, an analysis of MHPSS MSP gaps in selected geographical areas can aid decision-making about which MSP activities and actions need to be initiated, strengthened or scaled up (see MHPSS MSP Gap Analysis Tool).8",
+      "ne": "यसका साथै, छानिएका भौगोलिक क्षेत्रमा MHPSS MSP का कमीहरूको विश्लेषणले कुन MSP गतिविधि र कार्य सुरु गर्नुपर्ने, सुदृढ गर्नुपर्ने वा विस्तार गर्नुपर्ने हो भन्ने निर्णय गर्न सघाउन सक्छ (MHPSS MSP कमी विश्लेषण उपकरण हेर्नुहोस्)।8",
+      "bt": "In addition, an analysis of MHPSS MSP gaps in selected geographical areas can help decide which MSP activities and actions need to be started, strengthened or expanded (see the MHPSS MSP gap analysis tool).8",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T038",
+        "T232"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0049",
+      "page": "23",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "HOW CAN GROUPS AND PERSONS AT INCREASED RISK BE PRIORITIZED AND REACHED WITH MHPSS MSP ACTIVITIES AND SERVICES?",
+      "ne": "बढी जोखिममा रहेका समूह र व्यक्तिलाई कसरी प्राथमिकता दिन र उनीहरूसम्म MHPSS MSP गतिविधि तथा सेवा पुर्‍याउन सकिन्छ?",
+      "bt": "How can groups and individuals at greater risk be prioritized and MHPSS MSP activities and services be delivered to them?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose a glossary entry for the recurring non-clinical phrase 'at increased risk', preserving the comparison with lower levels of risk."
+    },
+    {
+      "id": "MAN-06-0050",
+      "page": "23",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Population coverage of MHPSS activities and services (especially at the beginning of an emergency and when resources fall short of needs) will often be limited initially and should be progressively scaled up over time.",
+      "ne": "MHPSS गतिविधिहरू र सेवाबाट समेटिने जनसङ्ख्या सुरुमा प्रायः सीमित हुनेछ, विशेष गरी आपत्कालीन अवस्थाको सुरुवातमा र आवश्यकताको तुलनामा स्रोत अपुग हुँदा। समयसँगै यसलाई क्रमशः विस्तार गर्नुपर्छ।",
+      "bt": "The population covered by MHPSS activities and services will often be limited at first, especially at the beginning of an emergency and when resources are insufficient compared with needs. This should be gradually expanded over time.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T131"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0051",
+      "page": "23",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Persons considered to be at risk should be proactively included to ensure that they can access MHPSS services and activities made available to the general population.",
+      "ne": "जोखिममा रहेका मानिएका व्यक्तिले आम जनसङ्ख्याका लागि उपलब्ध गराइएका MHPSS सेवा र गतिविधिमा पहुँच प्राप्त गर्न सकून् भन्ने सुनिश्चित गर्न उनीहरूलाई सक्रिय पहल गरी समावेश गर्नुपर्छ।",
+      "bt": "People considered to be at risk should be included through active efforts to ensure that they can access MHPSS services and activities made available to the general population.",
+      "type": "general",
+      "terms": [
+        "T195"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose a glossary entry for the recurring non-clinical phrase 'at risk'."
+    },
+    {
+      "id": "MAN-06-0052",
+      "page": "23",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Who is considered as being especially at risk depends on the context.9",
+      "ne": "विशेष रूपमा जोखिममा रहेको भनी कसलाई मानिन्छ भन्ने कुरा सन्दर्भमा निर्भर हुन्छ।9",
+      "bt": "Who is considered to be particularly at risk depends on the context.9",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose a glossary entry for the recurring non-clinical phrase 'at risk'; this row additionally retains the emphasis on being especially at risk."
+    },
+    {
+      "id": "MAN-06-0053",
+      "page": "23",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Every emergency therefore requires a context-specific analysis of risk factors and groups at higher risk.",
+      "ne": "त्यसैले प्रत्येक आपत्कालीन अवस्थामा जोखिमका कारक र बढी जोखिममा रहेका समूहको सन्दर्भविशिष्ट विश्लेषण आवश्यक हुन्छ।",
+      "bt": "Therefore, a context-specific analysis of risk factors and groups at greater risk is necessary in each emergency.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T292"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose a glossary entry for the recurring non-clinical phrase 'at increased risk', also applicable to 'at higher risk' in this row."
+    },
+    {
+      "id": "MAN-06-0054",
+      "page": "23",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Persons and groups at risk may include adults and children who:",
+      "ne": "जोखिममा रहेका व्यक्ति तथा समूहमा निम्न अवस्थाका वयस्क र बालबालिका पर्न सक्छन्:",
+      "bt": "Individuals and groups at risk may include adults and children in the following situations:",
+      "type": "general",
+      "terms": [
+        "T195"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose a glossary entry for the recurring non-clinical phrase 'at risk'."
+    },
+    {
+      "id": "MAN-06-0055",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are refugees, migrants, internally displaced persons, stateless persons or returnees",
+      "ne": "▶ शरणार्थी, आप्रवासी, आन्तरिक रूपमा विस्थापित व्यक्ति, राज्यविहीन व्यक्ति वा फर्किएका व्यक्ति हुन्।",
+      "bt": "▶ Are refugees, migrants, internally displaced persons, stateless persons or returnees.",
+      "type": "general",
+      "terms": [
+        "T045",
+        "T269",
+        "T287"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0056",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Have protection concerns (e.g. have been subjected to various forms of violence, abuse, exploitation, including GBV, trafficking etc.)",
+      "ne": "▶ संरक्षणसम्बन्धी सरोकारहरू छन् (जस्तै, GBV, बेचबिखन आदिसहित विभिन्न प्रकारका हिंसा, दुर्व्यवहार र शोषणमा परेका छन्)।",
+      "bt": "▶ Have protection-related concerns (for example, have experienced various forms of violence, abuse and exploitation, including GBV, trafficking, etc.).",
+      "type": "safety",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": "General protection guidance drafted for review; not a verbatim safeguarding declaration. GBV is retained without adding an expansion absent from the source."
+    },
+    {
+      "id": "MAN-06-0057",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are experiencing severe social and economic stressors",
+      "ne": "▶ गम्भीर सामाजिक तथा आर्थिक दबाब उत्पन्न गर्ने परिस्थितिहरूको सामना गरिरहेका छन्।",
+      "bt": "▶ Are facing circumstances that create severe social and economic pressure.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Rendered as ordinary social and economic pressures, not as a clinical diagnosis or a synonym for psychological distress."
+    },
+    {
+      "id": "MAN-06-0058",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Have physical, cognitive or sensory disabilities, or experience serious or chronic physical health conditions;",
+      "ne": "▶ शारीरिक, संज्ञानात्मक वा इन्द्रियसम्बन्धी अपाङ्गता भएका, वा गम्भीर वा दीर्घकालीन शारीरिक स्वास्थ्यसम्बन्धी अवस्थाहरू अनुभव गरिरहेका;",
+      "bt": "▶ Those with physical, cognitive or sensory disabilities, or experiencing severe or long-term physical health conditions;",
+      "type": "safety",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": "The draft retains all three disability categories and keeps serious and chronic physical health conditions distinct."
+    },
+    {
+      "id": "MAN-06-0059",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are survivors of EO",
+      "ne": "▶ EO बाट प्रभावित व्यक्तिहरू।",
+      "bt": "▶ Persons affected by EO.",
+      "type": "safety",
+      "terms": [
+        "T317"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "bt-divergence"
+      ],
+      "note": "EO is undefined in the supplied context and is retained without expansion. The frozen label means affected persons and can include indirectly affected people, whereas the source specifies people who directly experienced and survived EO. bt-divergence: The frozen label प्रभावित व्यक्तिहरू means affected persons and can include indirectly affected people, whereas survivors denotes people who directly experienced and survived EO. The frozen form and undefined acronym EO are retained."
+    },
+    {
+      "id": "MAN-06-0060",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are pregnant",
+      "ne": "▶ गर्भवती छन्।",
+      "bt": "▶ Are pregnant.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary pregnancy-status wording; no clinical diagnosis or advice is introduced."
+    },
+    {
+      "id": "MAN-06-0061",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Have acute nutritional deficiencies (e.g. caregivers with infants in emergency nutritional feeding programmes)",
+      "ne": "▶ पोषणतत्त्वको तीव्र कमी भएका (जस्तै आपत्कालीन पोषण आहार कार्यक्रमहरूमा रहेका शिशुका हेरचाहकर्ता)।",
+      "bt": "▶ Those with acute nutrient deficiency (e.g. caregivers of infants in emergency nutritional feeding programmes).",
+      "type": "safety",
+      "terms": [
+        "T030",
+        "T409",
+        "T006"
+      ],
+      "flags": [],
+      "note": "The draft preserves acute deficiency and the source example involving caregivers whose infants are in emergency nutritional feeding programmes."
+    },
+    {
+      "id": "MAN-06-0062",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are experiencing severe psychological distress",
+      "ne": "▶ गम्भीर मानसिक व्यथा अनुभव गरिरहेका।",
+      "bt": "▶ Those experiencing severe mental distress.",
+      "type": "safety",
+      "terms": [
+        "T492",
+        "T461"
+      ],
+      "flags": [],
+      "note": "The draft preserves severe psychological distress without substituting stress or implying a diagnosis."
+    },
+    {
+      "id": "MAN-06-0063",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Have mental, neurological or substance use (MNS) disorders or have associated psychosocial or intellectual disabilities (e.g. children with developmental disabilities)",
+      "ne": "▶ मानसिक, स्नायुसम्बन्धी वा मनोसक्रिय पदार्थको प्रयोगसम्बन्धी (MNS) विकारहरू भएका वा तिनसँग सम्बन्धित मनोसामाजिक वा बौद्धिक अपाङ्गता भएका (जस्तै विकाससम्बन्धी अपाङ्गता भएका बालबालिका)।",
+      "bt": "▶ Those with mental, neurological or psychoactive substance use (MNS) disorders or with psychosocial or intellectual disabilities associated with them (e.g. children with developmental disabilities).",
+      "type": "safety",
+      "terms": [
+        "T410"
+      ],
+      "flags": [],
+      "note": "The draft retains MNS, all three disorder categories, both associated disability categories and the developmental-disability example; it does not create a glossary entry for T060."
+    },
+    {
+      "id": "MAN-06-0064",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Have limited family or social supports (e.g. single parents, unaccompanied children, out-of-school children, widows, older persons)",
+      "ne": "▶ पारिवारिक वा सामाजिक सहयोग सीमित छ (जस्तै, एकल अभिभावक, साथमा कोही नभएका बालबालिका, विद्यालयबाहिर रहेका बालबालिका, विधवा, ज्येष्ठ व्यक्ति)।",
+      "bt": "▶ Have limited family or social support (for example, single parents, unaccompanied children, children out of school, widows, older people).",
+      "type": "general",
+      "terms": [
+        "T074",
+        "T307"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0065",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are survivors of torture and/or armed violence",
+      "ne": "▶ यातना र/वा सशस्त्र हिंसाबाट बाँचेका व्यक्ति हुन्।",
+      "bt": "▶ Are people who have survived torture and/or armed violence.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "General safety-related description, not a safeguarding declaration; review pending."
+    },
+    {
+      "id": "MAN-06-0066",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are older people at risk",
+      "ne": "▶ जोखिममा रहेका ज्येष्ठ व्यक्ति हुन्।",
+      "bt": "▶ Are older people at risk.",
+      "type": "general",
+      "terms": [
+        "T074",
+        "T195"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring expression “at risk” is absent from G-0.2; proposed wording is listed separately."
+    },
+    {
+      "id": "MAN-06-0067",
+      "page": "23",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Belong to groups that experience marginalization and/or discrimination (e.g. minority ethnic groups, persons who identify as lesbian, gay, bisexual, transgender, intersex, and queer (LGBTIQ+), women and girls).",
+      "ne": "▶ सीमान्तीकरण र/वा भेदभाव भोग्ने समूहहरूमा पर्छन् (जस्तै, अल्पसङ्ख्यक जातीय समूहहरू, आफूलाई लेस्बियन, गे, उभयलिङ्गी, ट्रान्सजेन्डर, अन्तरलिङ्गी र क्वियर (LGBTIQ+) का रूपमा चिनाउने व्यक्तिहरू, महिला र बालिका)।",
+      "bt": "▶ Belong to groups that experience marginalization and/or discrimination (for example, minority ethnic groups, people who identify themselves as lesbian, gay, bisexual, transgender, intersex and queer (LGBTIQ+), women and girls).",
+      "type": "general",
+      "terms": [
+        "T397"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0068",
+      "page": "23",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "8 Information on how the MSP activities correspond to the IASC (2014) MHPSS 4Ws activity codes is available on the MHPSS MSP web platform.",
+      "ne": "8 MSP गतिविधिहरू अन्तर-निकाय स्थायी समिति (IASC, 2014) का MHPSS 4Ws गतिविधि कोडहरूसँग कसरी मेल खान्छन् भन्ने जानकारी MHPSS MSP वेब प्लेटफर्ममा उपलब्ध छ।",
+      "bt": "8 Information on how MSP activities correspond to the MHPSS 4Ws activity codes of the Inter-Agency Standing Committee (IASC, 2014) is available on the MHPSS MSP web platform.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T044",
+        "T189",
+        "T272"
+      ],
+      "flags": [],
+      "note": "Restored the required T044 form “[Nepali wording recorded in terminology evidence]-[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]” while retaining IASC, 2014, and the rest of the existing draft."
+    },
+    {
+      "id": "MAN-06-0069",
+      "page": "23",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "9 Also see pp. 2-3 in Inter-Agency Standing Committee (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Citation and page reference retained in English: 9 Also see pp. 2-3 in Inter-Agency Standing Committee (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings."
+    },
+    {
+      "id": "MAN-06-0070",
+      "page": "24",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "To avoid fragmentation and stigmatization, MHPSS activities and services for people at risk should be integrated into wider systems and services (e.g. existing community support mechanisms, education systems, livelihoods support, general health care) and efforts should be made to reach and engage relevant subgroups of the affected population (e.g. people who have experienced violence (including GBV survivors), people with severe mental health conditions).",
+      "ne": "खण्डीकरण र लाञ्छित गर्ने प्रक्रियाबाट बच्न, जोखिममा रहेका व्यक्तिहरूका लागि MHPSS गतिविधिहरू तथा सेवाहरूलाई फराकिला प्रणाली तथा सेवाहरूमा (जस्तै विद्यमान समुदायका सहयोग संयन्त्रहरू, शिक्षा प्रणालीहरू, जीविकोपार्जनमा सहयोग, सामान्य स्वास्थ्य हेरचाह) एकीकृत गरिनुपर्छ र प्रभावित जनसङ्ख्याका सान्दर्भिक उपसमूहहरूसम्म पुग्न तथा तिनलाई संलग्न गराउन प्रयास गरिनुपर्छ (जस्तै हिंसा अनुभव गरेका व्यक्तिहरू, जसमा GBV बाट प्रभावित व्यक्तिहरू पनि पर्छन्, र गम्भीर मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरू)।",
+      "bt": "To avoid fragmentation and the process of stigmatizing, MHPSS activities and services for persons at risk should be integrated into broader systems and services (e.g. existing community support mechanisms, education systems, livelihood support, general health care), and efforts should be made to reach and engage relevant subgroups of the affected population (e.g. persons who have experienced violence, including persons affected by GBV, and persons with severe mental health conditions).",
+      "type": "safety",
+      "terms": [
+        "T195",
+        "T158",
+        "T344",
+        "T312",
+        "T028",
+        "T155",
+        "T027",
+        "T139",
+        "T317",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen GBV population label means persons affected by GBV and can include indirect effects, whereas the source specifically identifies survivors who directly experienced and survived GBV. The integration and outreach provisions remain recommendations expressed as obligations in guideline prose. bt-divergence: The frozen label GBV बाट प्रभावित व्यक्तिहरू means persons affected by GBV and can include indirect effects, whereas GBV survivors specifies people who directly experienced and survived GBV. The frozen form is retained; the remaining provisions align."
+    },
+    {
+      "id": "MAN-06-0071",
+      "page": "24",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Activities that are broader and more integrated tend to reach more people, are often more sustainable and tend to be more acceptable to community members.10",
+      "ne": "बढी व्यापक र एकीकृत गतिविधिहरू सामान्यतया बढी मानिसहरूसम्म पुग्छन्, प्रायः बढी दिगो हुन्छन् र समुदायका सदस्यहरूलाई सामान्यतया बढी स्वीकार्य हुन्छन्।10",
+      "bt": "More comprehensive and integrated activities generally reach more people, are often more sustainable and are generally more acceptable to community members.10",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0072",
+      "page": "24",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "The most effective ways to reach at-risk groups depend on the context and may include:",
+      "ne": "जोखिममा रहेका समूहहरूसम्म पुग्ने सबैभन्दा प्रभावकारी तरिकाहरू सन्दर्भमा निर्भर हुन्छन् र तिनमा निम्न समावेश हुन सक्छन्:",
+      "bt": "The most effective ways to reach groups at risk depend on the context and may include the following:",
+      "type": "general",
+      "terms": [
+        "T334"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for the recurring expression “at risk”; G-0.2 is unchanged."
+    },
+    {
+      "id": "MAN-06-0073",
+      "page": "24",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Working with community-based organizations (CBOs), community leaders, mobilizers and outreach workers who have existing relationships of trust and connections with specific groups",
+      "ne": "▶ विशिष्ट समूहहरूसँग पहिलेदेखि नै विश्वासको सम्बन्ध र सम्पर्क भएका समुदायमा आधारित संस्था (CBOs), सामुदायिक अगुवा, परिचालक र समुदायसम्म पुगेर काम गर्ने कार्यकर्तासँग काम गर्ने।",
+      "bt": "▶ Working with community-based organizations (CBOs), community leaders, mobilizers and workers who reach out and work in the community, who already have relationships of trust and contact with specific groups.",
+      "type": "general",
+      "terms": [
+        "T069",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0074",
+      "page": "24",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Strengthening referral pathways developed through coordination among relevant government and humanitarian agencies across sectors",
+      "ne": "▶ विभिन्न क्षेत्रका सम्बन्धित सरकारी तथा मानवीय निकायहरूबीचको समन्वयबाट विकास गरिएका सेवा प्रेषण मार्गहरू सुदृढ गर्ने।",
+      "bt": "▶ Strengthening service referral pathways developed through coordination between relevant government and humanitarian agencies from different sectors.",
+      "type": "safety",
+      "terms": [
+        "T063",
+        "T296",
+        "T349"
+      ],
+      "flags": [],
+      "note": "General guidance on strengthening coordinated referral pathways; safety review pending. It does not authorize automatic transfer."
+    },
+    {
+      "id": "MAN-06-0075",
+      "page": "24",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Organizing community activities involving community engagement, discussions and dissemination of information about MHPSS and available services and activities (see MSP activity 3.3)",
+      "ne": "▶ समुदायको संलग्नता, छलफल तथा MHPSS र उपलब्ध सेवा तथा गतिविधिहरूबारे जानकारी प्रसार समेट्ने सामुदायिक गतिविधिहरू आयोजना गर्ने (MSP गतिविधि 3.3 हेर्नुहोस्)।",
+      "bt": "▶ Organizing community activities that include community engagement, discussion and dissemination of information about MHPSS and available services and activities (see MSP activity 3.3).",
+      "type": "check",
+      "terms": [
+        "T091",
+        "T163",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0076",
+      "page": "24",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing remote and mobile outreach and programming (see key consideration 18 and Resources on MHPSS for at-risk groups on the MHPSS MSP web platform).",
+      "ne": "▶ दूरबाट र घुम्ती रूपमा समुदायसम्म पुग्ने सेवा तथा कार्यक्रम सञ्चालन गर्ने (मुख्य विचारणीय पक्ष 18 र MHPSS MSP वेब प्लेटफर्ममा जोखिममा रहेका समूहहरूका लागि MHPSS सम्बन्धी स्रोतसामग्री हेर्नुहोस्)।",
+      "bt": "▶ Operating services and programmes that reach communities remotely and on a mobile basis (see key consideration 18 and resources on MHPSS for groups at risk on the MHPSS MSP web platform).",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T189",
+        "T252",
+        "T334",
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for the recurring expression “at risk”; both remote and mobile outreach and programming are retained."
+    },
+    {
+      "id": "MAN-06-0077",
+      "page": "24",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Ways to ensure that MHPSS MSP services and activities are accessible, inclusive and appropriate also depend on the context and may include:",
+      "ne": "MHPSS MSP का सेवा तथा गतिविधिहरू पहुँचयोग्य, समावेशी र उपयुक्त हुने सुनिश्चित गर्ने तरिकाहरू पनि सन्दर्भमा निर्भर हुन्छन् र तिनमा निम्न समावेश हुन सक्छन्:",
+      "bt": "Ways to ensure that MHPSS MSP services and activities are accessible, inclusive and appropriate also depend on the context and may include the following:",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T078"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0078",
+      "page": "24",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Facilitating access (e.g. providing transport, offering child care, flexible and adapted hours of operation, choice of location or provision of mobile services and remote services11",
+      "ne": "▶ पहुँच सहज बनाउने (जस्तै, यातायात उपलब्ध गराउने, बालबालिकाको हेरचाहको व्यवस्था गर्ने, सेवा सञ्चालनको समय लचिलो र अनुकूल बनाउने, स्थानको विकल्प दिने वा घुम्ती सेवा र दूरबाट दिइने सेवा उपलब्ध गराउने11",
+      "bt": "▶ Making access easier (e.g., providing transport, arranging childcare, making service operating hours flexible and convenient, offering a choice of location or providing mobile services and remotely delivered services11",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "source-ambiguous",
+        "bt-divergence"
+      ],
+      "note": "The source example has no closing parenthesis. The draft retains the incomplete structure and footnote marker 11 without supplying missing source text. Changed selecting a location to offering a choice of location, preserving the source's access option rather than merely choosing a site. The source's missing closing parenthesis remains unresolved and requires source review; marker 11 is retained. The back-translation renders “adapted” operating hours as “convenient,” replacing the concept of adjustment with convenience."
+    },
+    {
+      "id": "MAN-06-0079",
+      "page": "24",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Using universal design principles12 for facilities and equipment, providing reasonable accommodation measures,13 and providing communications and resources in accessible formats14",
+      "ne": "▶ सुविधास्थल र उपकरणका लागि सार्वभौमिक डिजाइनका सिद्धान्तहरू12 प्रयोग गर्ने, उचित अनुकूलनका उपायहरू13 उपलब्ध गराउने र सञ्चार तथा स्रोतसामग्री पहुँचयोग्य ढाँचामा उपलब्ध गराउने।14",
+      "bt": "▶ Applying the principles of universal design12 to facilities and equipment, providing reasonable accommodation measures13 and making communication and resource materials available in accessible formats.14",
+      "type": "check",
+      "terms": [
+        "T078",
+        "T286",
+        "T326",
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "“Universal design” and “reasonable accommodation” recur in the footnotes but are absent from G-0.2. Proposed nonclinical accessibility terms are listed separately."
+    },
+    {
+      "id": "MAN-06-0080",
+      "page": "24",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Ensuring safety (e.g. confidentiality of personal information);",
+      "ne": "▶ सुरक्षा सुनिश्चित गर्ने (जस्तै, व्यक्तिगत जानकारीको गोपनीयता कायम राख्ने)।",
+      "bt": "▶ Ensuring safety (for example, maintaining the confidentiality of personal information).",
+      "type": "safety",
+      "terms": [
+        "T211"
+      ],
+      "flags": [],
+      "note": "General safety guidance concerning confidentiality, not a verbatim consent or safeguarding declaration; review pending."
+    },
+    {
+      "id": "MAN-06-0081",
+      "page": "24",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Addressing stigma and discrimination (e.g. through community awareness-raising and advocacy);",
+      "ne": "▶ लाञ्छना र भेदभावलाई सम्बोधन गर्ने (जस्तै, समुदायमा सचेतना अभिवृद्धि र पैरवीमार्फत)।",
+      "bt": "▶ Addressing stigma and discrimination (for example, through awareness-raising and advocacy in the community).",
+      "type": "general",
+      "terms": [
+        "T191",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "“Stigma,” also expressed as “stigmatization” elsewhere in this batch, is absent from G-0.2. A nonclinical wording proposal is listed separately."
+    },
+    {
+      "id": "MAN-06-0082",
+      "page": "24",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Ensuring that the needs of specific groups are met (e.g. inclusion of information about developmental disabilities and mental health conditions in parenting programmes, tailoring some MHPSS activities to men and boys).",
+      "ne": "▶ विशिष्ट समूहहरूको आवश्यकता पूरा भएको सुनिश्चित गर्ने (जस्तै अभिभावकत्वसम्बन्धी कार्यक्रमहरूमा विकाससम्बन्धी अपाङ्गता र मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूबारे जानकारी समावेश गर्ने, केही MHPSS गतिविधिहरूलाई पुरुष र बालकहरूका लागि अनुकूल बनाउने)।",
+      "bt": "▶ Ensure that the needs of specific groups are met (e.g. include information about developmental disabilities and mental health conditions in parenting programmes, adapt some MHPSS activities for men and boys).",
+      "type": "safety",
+      "terms": [
+        "T409",
+        "T478",
+        "T158"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft preserves both examples and limits the tailoring example to some MHPSS activities for men and boys."
+    },
+    {
+      "id": "MAN-06-0083",
+      "page": "24",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "In many contexts involving displacement, host population groups that are not directly affected by the humanitarian crisis should be able to access MHPSS services and support as appropriate.",
+      "ne": "विस्थापनसँग सम्बन्धित धेरै सन्दर्भमा, मानवीय सङ्कटबाट प्रत्यक्ष प्रभावित नभएका आश्रयदाता जनसमूहहरूले पनि उपयुक्तताअनुसार MHPSS सेवा तथा सहयोग प्राप्त गर्न सक्ने हुनुपर्छ।",
+      "bt": "In many contexts related to displacement, host populations that have not been directly affected by a humanitarian crisis should also be able to receive MHPSS services and support as appropriate.",
+      "type": "general",
+      "terms": [
+        "T358"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0084",
+      "page": "24",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "KEY TERMS",
+      "ne": "मुख्य शब्दावली",
+      "bt": "Key terminology",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0085",
+      "page": "24",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Mental health and psychosocial support (MHPSS): The composite term “mental health and psychosocial support” is used in this document to describe any type of local or outside support that aims to protect or promote psychosocial well-being and/or prevent or treat mental health conditions.15",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS): यस दस्तावेजमा “मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग” भन्ने संयुक्त पद मनोसामाजिक कल्याणको संरक्षण वा प्रवर्धन गर्ने र/वा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको रोकथाम वा उपचार गर्ने उद्देश्य भएको जुनसुकै प्रकारको स्थानीय वा बाह्य सहयोगलाई जनाउन प्रयोग गरिएको छ।15",
+      "bt": "Mental health and psychosocial support (MHPSS): In this document, the combined term “mental health and psychosocial support” is used to refer to any type of local or external support intended to protect or promote psychosocial well-being and/or prevent or treat mental health conditions.15",
+      "type": "safety",
+      "terms": [
+        "T001",
+        "T005",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The definition retains local or outside support, both purpose branches, the and/or relationship and footnote marker 15."
+    },
+    {
+      "id": "MAN-06-0086",
+      "page": "24",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "MHPSS needs include a wide range of issues including interpersonal problems, emotional distress, common mental disorders (such as depression and anxiety disorders, e.g. post-traumatic stress disorder (PTSD)), severe mental disorders (such as psychosis), alcohol and substance abuse and intellectual disabilities.",
+      "ne": "MHPSS सम्बन्धी आवश्यकताहरूमा आपसी सम्बन्धका समस्याहरू, भावनात्मक व्यथा, सामान्य मानसिक विकारहरू (जस्तै [depression] र [anxiety disorders], उदाहरणका लागि [post-traumatic stress disorder] (PTSD)), गम्भीर मानसिक विकारहरू (जस्तै [psychosis]), मदिरा र मनोसक्रिय पदार्थको दुरुपयोग तथा बौद्धिक अपाङ्गतालगायतका विविध विषयहरू समावेश हुन्छन्।",
+      "bt": "MHPSS-related needs include diverse issues, including problems in interpersonal relationships, emotional distress, common mental disorders (such as [depression] and [anxiety disorders], for example [post-traumatic stress disorder] (PTSD)), severe mental disorders (such as [psychosis]), misuse of alcohol and psychoactive substances, and intellectual disability.",
+      "type": "safety",
+      "terms": [
+        "T461",
+        "T474",
+        "T515"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Named diagnoses remain in exact source English within brackets; generic clinical categories are drafted in Nepali. The source placement of PTSD within the common-disorder examples is retained."
+    },
+    {
+      "id": "MAN-06-0087",
+      "page": "24",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "10 See page 11 in Inter-Agency Standing Committee (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Citation and page reference retained in English: 10 See page 11 in Inter-Agency Standing Committee (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings."
+    },
+    {
+      "id": "MAN-06-0088",
+      "page": "24",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "11 See key consideration 18.",
+      "ne": "11 मुख्य विचारणीय पक्ष 18 हेर्नुहोस्।",
+      "bt": "11 See key consideration 18.",
+      "type": "check",
+      "terms": [
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0089",
+      "page": "24",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "12 UNICEF (2020). Not just hotlines and mobile phones: GBV service provision during Covid-19. Universal design” is the design and composition of an environment (or any building, product or service in that environment) so that it can be accessed, understood and used to the greatest extent possible by all people regardless of their age, size, ability or disability.",
+      "ne": "12 UNICEF (2020). Not just hotlines and mobile phones: GBV service provision during Covid-19. सार्वभौमिक डिजाइन” भनेको वातावरण (वा त्यस वातावरणमा रहेको कुनै पनि भवन, उत्पादन वा सेवा) को यस्तो डिजाइन र संरचना हो, जसले गर्दा सबै मानिसहरूले आफ्नो उमेर, शारीरिक आकार, क्षमता वा अपाङ्गता जे भए पनि त्यसमा सकेसम्म बढी पहुँच पाउन, त्यसलाई बुझ्न र प्रयोग गर्न सक्छन्।",
+      "bt": "12 UNICEF (2020). Not just hotlines and mobile phones: GBV service provision during Covid-19. Universal design” means such a design and structure of an environment (or any building, product or service in that environment) that all people, regardless of their age, body size, ability or disability, can access, understand and use it as much as possible.",
+      "type": "check",
+      "terms": [
+        "T326"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The source wording or spacing appears irregular and is preserved; please confirm the intended reading. The bibliographic citation remains in English. The source has an unmatched closing quotation mark after “Universal design”; that irregularity is retained. “Universal design” uses a proposed nonclinical term absent from G-0.2."
+    },
+    {
+      "id": "MAN-06-0090",
+      "page": "24",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "13 ‘Reasonable accommodation’ refers to making necessary and appropriate modifications and adjustments, where needed, not imposing a disproportionate or undue burden, to ensure to persons with disabilities the enjoyment or exercise on an equal basis with others of all human rights and fundamental freedoms.",
+      "ne": "13 ‘उचित अनुकूलन’ भन्नाले अपाङ्गता भएका व्यक्तिहरूलाई अरूसरह समान आधारमा सबै मानव अधिकार तथा मौलिक स्वतन्त्रताको उपभोग वा प्रयोग सुनिश्चित गर्न, आवश्यक परेका ठाउँमा, असमानुपातिक वा अनुचित भार नपर्ने गरी आवश्यक र उपयुक्त परिमार्जन तथा समायोजन गर्नु भन्ने बुझिन्छ।",
+      "bt": "13 ‘Reasonable accommodation’ means making necessary and appropriate modifications and adjustments, where needed, without imposing a disproportionate or undue burden, to ensure that persons with disabilities enjoy or exercise all human rights and fundamental freedoms on an equal basis with others.",
+      "type": "check",
+      "terms": [
+        "T073",
+        "T239",
+        "T286"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "This is a nonclinical accessibility definition, not a consent or safeguarding declaration. “Reasonable accommodation” uses a proposed term absent from G-0.2."
+    },
+    {
+      "id": "MAN-06-0091",
+      "page": "24",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "14 Humanity and inclusion (2009). How to design and promote an environment accessible to all? Based on the Convention on the Rights of Persons with Disabilities (CRPD), Article 2, communication includes languages (spoken and signed), display of text, Braille, tactile communication, large print, accessible multimedia as well as written, audio, plain-language, human reader and augmentative and alternative modes, means and formats of communication, including accessible information and communication technology (ICT).",
+      "ne": "14 Humanity and inclusion (2009). How to design and promote an environment accessible to all? अपाङ्गता भएका व्यक्तिहरूको अधिकारसम्बन्धी महासन्धि (CRPD) को धारा 2 अनुसार, सञ्चारमा भाषाहरू (बोलिने र साङ्केतिक), पाठको प्रदर्शन, ब्रेल, स्पर्शमा आधारित सञ्चार, ठूला अक्षरमा छपाइ, पहुँचयोग्य बहुमाध्यमका साथै लिखित, श्रव्य, सरल भाषामा प्रस्तुत गरिने, मानिसले पढेर सुनाउने तथा सञ्चारलाई थप सहयोग गर्ने र वैकल्पिक विधि, माध्यम र ढाँचाहरू समावेश हुन्छन्, जसमा पहुँचयोग्य सूचना तथा सञ्चार प्रविधि (ICT) पनि पर्छ।",
+      "bt": "14 Humanity and inclusion (2009). How to design and promote an environment accessible to all? According to Article 2 of the Convention on the Rights of Persons with Disabilities (CRPD), communication includes languages (spoken and sign), display of text, Braille, tactile communication, large print, accessible multimedia, as well as written, audio, plain-language, human-read and augmentative and alternative methods, means and formats of communication, including accessible information and communication technology (ICT).",
+      "type": "check",
+      "terms": [
+        "T073",
+        "T078"
+      ],
+      "flags": [],
+      "note": "The bibliographic citation remains in English. The accessibility and communication definition is drafted as nonclinical content; CRPD, Article 2 and ICT are retained."
+    },
+    {
+      "id": "MAN-06-0092",
+      "page": "24",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "15 Inter-Agency Standing Committee (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Citation retained in English: 15 Inter-Agency Standing Committee (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings."
+    },
+    {
+      "id": "MAN-06-0093",
+      "page": "25",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Mental health condition: A broad term covering mental disorders and psychosocial disabilities.",
+      "ne": "मानसिक स्वास्थ्यसम्बन्धी अवस्था: मानसिक विकारहरू र मनोसामाजिक अपाङ्गतालाई समेट्ने व्यापक शब्द।",
+      "bt": "Mental health condition: A broad term encompassing mental disorders and psychosocial disability.",
+      "type": "safety",
+      "terms": [
+        "T476",
+        "T474",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The definition retains mental disorders and psychosocial disabilities without adding impairment criteria or specific diagnoses."
+    },
+    {
+      "id": "MAN-06-0094",
+      "page": "25",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "It also covers other mental states associated with significant distress, impairment in functioning or risk of self-harm.16",
+      "ne": "यसले उल्लेखनीय व्यथा, कार्यक्षमतामा ह्रास वा आफैँलाई हानि पुर्‍याउने जोखिमसँग सम्बन्धित अन्य मानसिक अवस्थाहरूलाई पनि समेट्छ।16",
+      "bt": "This also includes other mental conditions associated with significant distress, a decline in functioning or a risk of harming oneself.16",
+      "type": "safety",
+      "terms": [
+        "T461"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Functional impairment and self-harm are drafted without corresponding supplied glossary entries; citation marker 16 is retained."
+    },
+    {
+      "id": "MAN-06-0095",
+      "page": "25",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Persons with disabilities (adults, children, youth) include persons who have long-term sensory, physical, psychosocial, intellectual, or other impairments that, in interaction with various barriers, may prevent them from participating in, or having access to, humanitarian programmes, services or protection.17",
+      "ne": "अपाङ्गता भएका व्यक्तिहरू (वयस्क, बालबालिका, युवा) मा दीर्घकालीन इन्द्रियगत, शारीरिक, मनोसामाजिक, बौद्धिक वा अन्य क्षमतागत सीमितता भएका व्यक्तिहरू समावेश हुन्छन्; यी सीमितताहरूले विभिन्न अवरोधहरूसँगको अन्तरक्रियामा उनीहरूलाई मानवीय कार्यक्रम, सेवा वा संरक्षणमा सहभागी हुन वा तिनमा पहुँच पाउनबाट रोक्न सक्छन्।17",
+      "bt": "Persons with disabilities (adults, children, young people) include persons with long-term sensory, physical, psychosocial, intellectual or other limitations in capacity; these limitations, in interaction with various barriers, may prevent them from participating in or gaining access to humanitarian programmes, services or protection.17",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T073",
+        "T409",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The impairment categories are drafted without corresponding supplied glossary entries, preserving the interaction with barriers and the possibility rather than certainty of exclusion; citation marker 17 is retained."
+    },
+    {
+      "id": "MAN-06-0096",
+      "page": "25",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Psychosocial disability: The IASC Guidelines on the inclusion of persons with disabilities in humanitarian action define “psychosocial disability” as resulting “from barriers to social participation and access to rights linked to mental health or cognitive conditions or disturbance in behaviour that is perceived as socially unacceptable.",
+      "ne": "मनोसामाजिक अपाङ्गता: मानवीय कार्यमा अपाङ्गता भएका व्यक्तिहरूको समावेशीकरणसम्बन्धी IASC का निर्देशिकाहरूले “मनोसामाजिक अपाङ्गता” लाई “मानसिक स्वास्थ्य वा संज्ञानसम्बन्धी अवस्थाहरू अथवा सामाजिक रूपमा अस्वीकार्य ठानिने व्यवहारगत विचलनसँग जोडिएका सामाजिक सहभागिता र अधिकारसम्मको पहुँचमा हुने अवरोधहरूबाट उत्पन्न हुने भनी परिभाषित गर्छन्।",
+      "bt": "Psychosocial disability: The IASC guidelines on the inclusion of persons with disabilities in humanitarian action define “psychosocial disability” as “arising from barriers to social participation and access to rights linked to mental health or cognition-related conditions or behavioural deviations considered socially unacceptable.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T073",
+        "T086",
+        "T157",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "Psychosocial disability, cognitive conditions and behavioural disturbance lack supplied glossary entries; the source opens but does not close the quotation defining psychosocial disability."
+    },
+    {
+      "id": "MAN-06-0097",
+      "page": "25",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The term is usually reserved for people with more persistent or recurrent functional impairment, who are confronted with systematic exclusion and participation barriers.",
+      "ne": "यो शब्द सामान्यतया कार्यक्षमतामा अझ बढी निरन्तर कायम रहने वा बारम्बार दोहोरिने ह्रास भएका र व्यवस्थित बहिष्करण तथा सहभागिताका अवरोधहरूको सामना गर्ने व्यक्तिहरूका लागि मात्र प्रयोग गरिन्छ।",
+      "bt": "This term is generally used only for persons who have a more persistent or frequently recurring decline in functioning and who face systematic exclusion and barriers to participation.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Functional impairment is drafted without a corresponding supplied glossary entry, retaining persistence or recurrence and systematic exclusion as distinct features."
+    },
+    {
+      "id": "MAN-06-0098",
+      "page": "25",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The term is less often used for those with temporary mental health conditions who recover quickly, sometimes in response to MHPSS interventions.",
+      "ne": "अस्थायी मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका र चाँडै निको हुने (कहिलेकाहीँ MHPSS का हस्तक्षेपहरूको फलस्वरूप) व्यक्तिहरूका लागि यो शब्द कम प्रयोग गरिन्छ।",
+      "bt": "This term is used less for people who have temporary mental health-related conditions and recover quickly (sometimes as a result of MHPSS interventions).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T476",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The frozen plural condition label and the acronym MHPSS are retained; the interventions are general rather than named therapies. The supplied Nepali and BT scope “sometimes” over quick recovery resulting from interventions. The source describes people who recover quickly, with only the response to MHPSS interventions qualified by “sometimes.” The repair separates those scopes."
+    },
+    {
+      "id": "MAN-06-0099",
+      "page": "25",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "During humanitarian emergences, distress leading to functional impairment is often transient, and it is important not to label such response as a medical condition or disability.”18",
+      "ne": "मानवीय आपत्कालका समयमा कार्यक्षमतामा ह्रास ल्याउने व्यथा प्रायः अस्थायी हुन्छ, र यस्तो प्रतिक्रियालाई चिकित्सकीय अवस्था वा अपाङ्गताको संज्ञा नदिनु महत्त्वपूर्ण हुन्छ।”18",
+      "bt": "During humanitarian emergencies, distress that causes a decline in functioning is often temporary, and it is important not to label such a reaction as a medical condition or disability.”18",
+      "type": "safety",
+      "terms": [
+        "T461"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The source says “emergences”; this draft interprets it as “emergencies,” which requires confirmation, and retains the closing quotation and citation marker 18; functional impairment lacks a supplied glossary entry."
+    },
+    {
+      "id": "MAN-06-0100",
+      "page": "25",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Though the definitions and terms used may vary, the central aspect is the persistent or recurrent functional impairment experienced, which, in interaction with various barriers, may hinder the person´s full and effective participation and access to services.",
+      "ne": "प्रयोग गरिने परिभाषा र शब्दहरू फरक हुन सक्ने भए पनि, मुख्य पक्ष भनेको व्यक्तिले अनुभव गर्ने कार्यक्षमतामा निरन्तर कायम रहने वा बारम्बार दोहोरिने ह्रास हो; यसले विभिन्न अवरोधहरूसँगको अन्तरक्रियामा व्यक्तिको पूर्ण र प्रभावकारी सहभागिता तथा सेवाहरूमा पहुँचमा बाधा पुर्‍याउन सक्छ।",
+      "bt": "Although the definitions and terms used may differ, the main aspect is the persistent or frequently recurring decline in functioning experienced by the person; this, in interaction with various barriers, may hinder the person's full and effective participation and access to services.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "Functional impairment is drafted without a corresponding supplied glossary entry; the irregular apostrophe in “person´s” does not create a substantive ambiguity."
+    },
+    {
+      "id": "MAN-06-0101",
+      "page": "25",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "WHAT CRITERIA WERE USED TO DECIDE WHAT SHOULD GO INTO THE MHPSS MSP?",
+      "ne": "MHPSS MSP मा के समावेश गर्ने भन्ने निर्णय गर्न कुन मापदण्डहरू प्रयोग गरिए?",
+      "bt": "What criteria were used to decide what to include in the MHPSS MSP?",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0102",
+      "page": "25",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The MSP includes activities that:",
+      "ne": "MSP मा निम्न विशेषता भएका गतिविधिहरू समावेश छन्:",
+      "bt": "The MSP includes activities with the following characteristics:",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0103",
+      "page": "25",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Aim to promote and improve mental health and psychosocial well-being and reduce suffering",
+      "ne": "▶ मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणको प्रवर्द्धन र सुधार गर्ने तथा पीडा कम गर्ने उद्देश्य राख्ने।",
+      "bt": "▶ Aim to promote and improve mental health and psychosocial well-being and reduce suffering.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed candidate for psychosocial well-being."
+    },
+    {
+      "id": "MAN-06-0104",
+      "page": "25",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Focus on problems that are common and/or severe",
+      "ne": "▶ सामान्य रूपमा देखिने र/वा गम्भीर समस्याहरूमा केन्द्रित हुने।",
+      "bt": "▶ Focus on commonly seen and/or serious problems.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0105",
+      "page": "25",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Have been identified as priorities in key guidance documents and published expert reviews (e.g. the Sphere Handbook, IASC MHPSS guidelines and resources, CP minimum standards, the Inter-Agency Minimum Standards for GBV in Emergencies Programming, the INEE Minimum Standards, the IASC Guidelines on Inclusion of Persons with Disabilities in Humanitarian Action, the Nurturing Care Framework)",
+      "ne": "▶ प्रमुख मार्गदर्शन दस्तावेजहरू र प्रकाशित विशेषज्ञ समीक्षाहरूमा प्राथमिकताका रूपमा पहिचान गरिएका हुने (उदाहरणका लागि, Sphere पुस्तिका, IASC MHPSS निर्देशिकाहरू तथा स्रोतसामग्री, CP न्यूनतम मापदण्डहरू, आपत्कालीन अवस्था हुँदा सञ्चालन गरिने GBV कार्यक्रमका लागि अन्तर-निकाय न्यूनतम मापदण्डहरू, INEE न्यूनतम मापदण्डहरू, मानवीय कार्यमा अपाङ्गता भएका व्यक्तिहरूको समावेशीकरणसम्बन्धी IASC निर्देशिकाहरू, बाल विकासलाई पोषण गर्ने स्याहारको रूपरेखा)।",
+      "bt": "▶ Be identified as priorities in key guidance documents and published expert reviews (for example, the Sphere Handbook, IASC MHPSS guidelines and resource materials, CP minimum standards, inter-agency minimum standards for GBV programmes conducted during emergencies, INEE minimum standards, IASC guidelines on the inclusion of persons with disabilities in humanitarian action, the framework for care that nurtures child development).",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087",
+        "T131",
+        "T073",
+        "T082",
+        "T372",
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "These are guidance-document titles, not clinical instructions. Glossary proposal: humanitarian action = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; recurring terminology proposed for review without changing G-0.2. The Nepali describes GBV programming related to emergencies rather than programming in emergencies; the back-translation obscures this difference. Revised that condition. Official document-title terminology remains pending technical review. The back-translation loses the completed-status meaning of 'have been identified' by saying 'be identified' and renders the named Nurturing Care Framework as a descriptive framework for care that nurtures child development."
+    },
+    {
+      "id": "MAN-06-0106",
+      "page": "25",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are informed by the best available evidence",
+      "ne": "▶ उपलब्ध सर्वोत्तम प्रमाणलाई ध्यानमा राखी तय गरिएका हुने।",
+      "bt": "▶ Be determined taking into account the best available evidence.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "'Based on' strengthens 'informed by' into a claim of evidentiary foundation. Revised to preserve evidence informing the activities."
+    },
+    {
+      "id": "MAN-06-0107",
+      "page": "25",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are affordable at scale and are informed by cost-effectiveness and other value-for-money considerations",
+      "ne": "▶ व्यापक स्तरमा सञ्चालन गर्दा पनि खर्च धान्न सकिने र लागत-प्रभावकारिता तथा खर्चअनुसार प्राप्त हुने मूल्यसम्बन्धी अन्य विचारणीय पक्षहरूलाई ध्यानमा राखी तय गरिएका हुने।",
+      "bt": "▶ Be affordable even when implemented on a broad scale and be determined taking into account cost-effectiveness and other considerations concerning the value received for the expenditure.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "'Based on' strengthens 'informed by' for cost-effectiveness and other value-for-money considerations. Revised that relationship while retaining affordability at scale."
+    },
+    {
+      "id": "MAN-06-0108",
+      "page": "25",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Promote human rights and support the protection of at-risk populations from human rights violations (e.g. neglect, exploitation, violence, abuse, discrimination)",
+      "ne": "▶ मानव अधिकारको प्रवर्द्धन गर्ने र जोखिममा रहेका जनसमूहलाई मानव अधिकार उल्लङ्घनबाट संरक्षण गर्न सहयोग गर्ने (उदाहरणका लागि, उपेक्षा, शोषण, हिंसा, दुर्व्यवहार, भेदभाव)।",
+      "bt": "▶ Promote human rights and help protect at-risk population groups from human rights violations (for example, neglect, exploitation, violence, abuse, discrimination).",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T239"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General protection guidance drafted; safety review pending. Glossary proposal: human rights = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; recurring terminology proposed for review without changing G-0.2."
+    },
+    {
+      "id": "MAN-06-0109",
+      "page": "25",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are feasible in most emergency contexts at different phases of the emergency (i.e. despite insecurity, scarce human resources, logistical constraints and other limitations inherent in humanitarian settings)",
+      "ne": "▶ आपत्कालीन अवस्था का विभिन्न चरणमा अधिकांश आपत्कालीन सन्दर्भमा सम्भव हुने (अर्थात्, असुरक्षा, मानव संसाधन (HR) को अभाव, बन्दोबस्तीसम्बन्धी अवरोध र मानवीय सहायता प्रदान गरिने परिवेशमा अन्तर्निहित अन्य सीमितताका बाबजुद)।",
+      "bt": "▶ Are feasible in most emergency contexts at different stages of an emergency (that is, despite insecurity, shortages of human resources (HR), logistical obstacles and other limitations inherent in settings where humanitarian assistance is provided).",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T042"
+      ],
+      "flags": [],
+      "note": "HR is retained alongside the supplied human-resources candidate as directed by its glossary note."
+    },
+    {
+      "id": "MAN-06-0110",
+      "page": "25",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Can be implemented within a 12-month timeframe",
+      "ne": "▶ 12 महिनाको समयावधिभित्र कार्यान्वयन गर्न सकिने।",
+      "bt": "▶ Can be implemented within a period of 12 months.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0111",
+      "page": "25",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are adaptable and acceptable across cultures and contexts",
+      "ne": "▶ विभिन्न संस्कृति र सन्दर्भअनुसार अनुकूलन गर्न सकिने तथा स्वीकार्य हुने।",
+      "bt": "▶ Can be adapted to different cultures and contexts and are acceptable.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-06-0112",
+      "page": "25",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Are readily implementable (e.g. global guidance/manuals are available to support implementation).",
+      "ne": "▶ सहजै कार्यान्वयन गर्न सकिने (उदाहरणका लागि, कार्यान्वयनमा सहयोग गर्न विश्वव्यापी मार्गदर्शन वा निर्देशन पुस्तिकाहरू उपलब्ध हुने)।",
+      "bt": "▶ Be readily implementable (for example, global guidance or instruction manuals be available to support implementation).",
+      "type": "general",
+      "terms": [
+        "T259",
+        "T380"
+      ],
+      "flags": [],
+      "note": "'Manuals' became 'workbooks', changing the kind of implementation resource. Revised to instruction manuals."
+    },
+    {
+      "id": "MAN-06-0113",
+      "page": "25",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "16 WHO (2022). World Mental Health Report: Transforming mental health for all.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Citation only; retain the complete English citation unchanged, including 16, WHO, and (2022)."
+    },
+    {
+      "id": "MAN-06-0114",
+      "page": "25",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "17 See UN Convention on the Rights of Persons with Disabilities and IASC (2019) IASC Guidelines on the Inclusion of Persons with Disabilities in Humanitarian Action.",
+      "ne": "17 अपाङ्गता भएका व्यक्तिहरूको अधिकारसम्बन्धी UN महासन्धि र IASC (2019) को मानवीय कार्यमा अपाङ्गता भएका व्यक्तिहरूको समावेशीकरणसम्बन्धी IASC निर्देशिकाहरू हेर्नुहोस्।",
+      "bt": "17 See the UN Convention on the Rights of Persons with Disabilities and IASC (2019)'s IASC guidelines on the inclusion of persons with disabilities in humanitarian action.",
+      "type": "general",
+      "terms": [
+        "T073",
+        "T086"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The reference instruction and nonclinical document titles are translated; 17, UN, IASC, and (2019) are retained. Glossary proposal: humanitarian action = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; proposed for review without changing G-0.2."
+    },
+    {
+      "id": "MAN-06-0115",
+      "page": "25",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "18 IASC (2019). IASC Guidelines on the Inclusion of Persons with Disabilities in Humanitarian Action, p. 132.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Citation only; retain the complete English citation unchanged, including 18, IASC, (2019), and p. 132."
+    }
+  ]
+}

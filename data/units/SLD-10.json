@@ -1,0 +1,364 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-10",
+  "unit_title": "Matching MHPSS Activities to the MSP",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "92-95",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:08:35+05:45",
+  "coverage": {
+    "source_words": 172,
+    "row_words": 172,
+    "skipped": [
+      "Slide 92: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 92: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 92: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 93: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 94: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 94: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 94: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 94: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 94: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 95: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 95: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-10-0001",
+      "page": "92",
+      "loc": "slide-title",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Group Exercise - Matching example activities",
+      "ne": "समूह अभ्यास – उदाहरणका रूपमा दिइएका गतिविधिहरूको मिलान",
+      "bt": "Group exercise – matching the activities given as examples",
+      "type": "general",
+      "terms": [
+        "T371"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: group exercise = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; not added to the frozen glossary."
+    },
+    {
+      "id": "SLD-10-0002",
+      "page": "92",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "In your group, look at the activity you’ve been given and match it with one of the MSP activities hanging on the wall.",
+      "ne": "आफ्नो समूहमा, तपाईंहरूलाई दिइएको गतिविधि हेर्नुहोस् र त्यसलाई भित्तामा झुन्ड्याइएका MSP गतिविधिहरू मध्ये कुनै एउटासँग मिलाउनुहोस्।",
+      "bt": "In your group, look at the activity given to you and match it with one of the MSP activities hung on the wall.",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0003",
+      "page": "92",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "When you have decided, tape your activity card to the MSP activity that it matches.",
+      "ne": "निर्णय गरिसकेपछि, आफ्नो गतिविधि कार्ड त्यससँग मेल खाने MSP गतिविधिमा टेपले टाँस्नुहोस्।",
+      "bt": "After you have made a decision, use tape to stick your activity card onto the MSP activity that matches it.",
+      "type": "general",
+      "terms": [
+        "T091"
+      ],
+      "flags": [],
+      "note": "The back-translation places the card next to the matching MSP activity rather than attaching it to that activity. The revision makes the attachment target explicit."
+    },
+    {
+      "id": "SLD-10-0004",
+      "page": "92",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "25 min",
+      "ne": "25 मिनेट",
+      "bt": "25 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0005",
+      "page": "93",
+      "loc": "slide-title",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Exercise - Matching real activities to the MSP",
+      "ne": "अभ्यास – वास्तविक गतिविधिहरूलाई MSP सँग मिलाउने",
+      "bt": "Exercise – matching actual activities with MSP",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0006",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Individually or with colleagues from your own organisation:",
+      "ne": "व्यक्तिगत रूपमा वा आफ्नै संस्थाका सहकर्मीहरूसँग:",
+      "bt": "Individually or with colleagues from your own organization:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0007",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Review your existing programmes and identify which MSP activities you are currently implementing",
+      "ne": "आफ्ना विद्यमान कार्यक्रमहरूको समीक्षा गर्नुहोस् र हाल कुन-कुन MSP गतिविधिहरू कार्यान्वयन गरिरहनुभएको छ भन्ने पहिचान गर्नुहोस्।",
+      "bt": "Review your existing programs and identify which MSP activities you are currently implementing.",
+      "type": "general",
+      "terms": [
+        "T272",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0008",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "For each activity, use a sticky note to write: organization, target group, locations.",
+      "ne": "प्रत्येक गतिविधिका लागि टाँसिने नोटमा संस्था, लक्षित समूह र स्थानहरू लेख्नुहोस्।",
+      "bt": "For each activity, write the organization, target group and locations on a sticky note.",
+      "type": "check",
+      "terms": [
+        "T435"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: sticky note / post-it note = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; not added to the frozen glossary."
+    },
+    {
+      "id": "SLD-10-0009",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "When you are done, stick your post-it notes up on the corresponding flip charts.",
+      "ne": "लेखिसकेपछि, आफ्ना टाँसिने नोटहरू सम्बन्धित फ्लिपचार्टहरूमा टाँस्नुहोस्।",
+      "bt": "After writing, stick your sticky notes on the relevant flipcharts.",
+      "type": "general",
+      "terms": [
+        "T368"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for post-it note, consistent with sticky note in the preceding instruction; not added to the frozen glossary."
+    },
+    {
+      "id": "SLD-10-0010",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "For planned activities (not yet implemented), use a different colour and include planned start date",
+      "ne": "योजना गरिएका तर अझै कार्यान्वयन नगरिएका गतिविधिहरूका लागि फरक रङ प्रयोग गर्नुहोस् र सुरु गर्ने योजनाबद्ध मिति पनि समावेश गर्नुहोस्।",
+      "bt": "Use a different color for activities that are planned but have not yet been implemented, and also include the planned start date.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0011",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "30 min",
+      "ne": "30 मिनेट",
+      "bt": "30 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0012",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Education4All (3.6)",
+      "ne": "Education4All (3.6)",
+      "bt": "Education4All (3.6)",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Organization name and activity code retained exactly."
+    },
+    {
+      "id": "SLD-10-0013",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Targeting girls and boys",
+      "ne": "बालिका र बालकहरूलाई लक्षित",
+      "bt": "Targeted at girls and boys",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0014",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Location: Region X Camp B",
+      "ne": "स्थान: Region X Camp B",
+      "bt": "Location: Region X Camp B",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The location identifier Region X Camp B is retained exactly."
+    },
+    {
+      "id": "SLD-10-0015",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Safety4All (3.4)",
+      "ne": "Safety4All (3.4)",
+      "bt": "Safety4All (3.4)",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Organization name and activity code retained exactly."
+    },
+    {
+      "id": "SLD-10-0016",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Adult women and men",
+      "ne": "वयस्क महिला र पुरुष",
+      "bt": "Adult women and men",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0017",
+      "page": "93",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Planned start date - Jan 2024",
+      "ne": "सुरु गर्ने योजनाबद्ध मिति – जनवरी 2024",
+      "bt": "Planned start date – January 2024",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0018",
+      "page": "94",
+      "loc": "slide-title",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Group Exercise – Checklist review",
+      "ne": "समूह अभ्यास – जाँचसूचीको समीक्षा",
+      "bt": "Group exercise – review of the checklist",
+      "type": "general",
+      "terms": [
+        "T121",
+        "T371"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for group exercise; not added to the frozen glossary."
+    },
+    {
+      "id": "SLD-10-0019",
+      "page": "94",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Choose an activity you are implementing",
+      "ne": "आफूले कार्यान्वयन गरिरहेको एउटा गतिविधि छान्नुहोस्।",
+      "bt": "Choose one activity that you are implementing.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0020",
+      "page": "94",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Review the checklist of core actions",
+      "ne": "मुख्य कार्यहरू समावेश भएको जाँचसूचीको समीक्षा गर्नुहोस्।",
+      "bt": "Review the checklist containing the main actions.",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T121",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0021",
+      "page": "94",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Note which ones you have completed/not completed.",
+      "ne": "कुन-कुन कार्यहरू पूरा गर्नुभएको छ र कुन-कुन पूरा गर्नुभएको छैन भनेर टिपोट गर्नुहोस्।",
+      "bt": "Note which actions you have completed and which you have not completed.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0022",
+      "page": "94",
+      "loc": "slide-body",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "20 min",
+      "ne": "20 मिनेट",
+      "bt": "20 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-10-0023",
+      "page": "95",
+      "loc": "slide-title",
+      "section": "Matching MHPSS Activities to the MSP",
+      "en": "Group Exercise – Discussion",
+      "ne": "समूह अभ्यास – छलफल",
+      "bt": "Group exercise – discussion",
+      "type": "general",
+      "terms": [
+        "T371"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for group exercise; not added to the frozen glossary."
+    }
+  ]
+}

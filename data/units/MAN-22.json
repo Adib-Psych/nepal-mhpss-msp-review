@@ -1,0 +1,765 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-22",
+  "unit_title": "Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "66-68",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:48:30+05:45",
+  "coverage": {
+    "source_words": 1255,
+    "row_words": 1252,
+    "skipped": [
+      "PDF p.66: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 61",
+      "PDF p.67: running footer/page number removed: 62 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.68: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 63"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-22-0001",
+      "page": "66",
+      "loc": "heading",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "ne": "3.8 शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.8 Promote the mental health and psychosocial well-being of education sector personnel and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T105",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Exact supplied activity candidate T105 reused; its clinical wording remains unreviewed."
+    },
+    {
+      "id": "MAN-22-0002",
+      "page": "66",
+      "loc": "para",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Integrating MHPSS with education can contribute to effective learning and can help protect children from the negative effects of crisis by creating stable routines, fostering hope, reducing stress, encouraging self-expression and promoting collaborative behaviour.",
+      "ne": "शिक्षासँग MHPSS एकीकृत गर्दा प्रभावकारी सिकाइमा योगदान पुग्न सक्छ र स्थिर दिनचर्या स्थापित गर्ने, आशा जगाउने, तनाव कम गर्ने, आत्म-अभिव्यक्तिलाई प्रोत्साहन गर्ने र सहकार्यपूर्ण व्यवहार प्रवर्द्धन गर्ने माध्यमबाट बालबालिकालाई सङ्कटका नकारात्मक प्रभावबाट जोगाउन मद्दत पुग्न सक्छ।",
+      "bt": "Integrating MHPSS with education can contribute to effective learning and can help protect children from the negative effects of crises by establishing stable routines, instilling hope, reducing stress, encouraging self-expression and promoting cooperative behavior.",
+      "type": "general",
+      "terms": [
+        "T028"
+      ],
+      "flags": [],
+      "note": "Stress and self-expression are drafted as ordinary educational concepts, not diagnostic or treatment terminology. The source specifies stable routines; the Nepali and back-translation instead specify regular routines. The revision restores stability."
+    },
+    {
+      "id": "MAN-22-0003",
+      "page": "66",
+      "loc": "para",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Teachers should be trained and supported to increase their mental health literacy so they can strengthen their own resources and competencies and are better able to support children´s mental health and psychosocial well-being.",
+      "ne": "शिक्षकहरूको मानसिक स्वास्थ्यसम्बन्धी साक्षरता बढाउन उनीहरूलाई तालिम र सहयोग दिइनुपर्छ, ताकि उनीहरूले आफ्नै साधन र सक्षमता सुदृढ गर्न सकून् र बालबालिकाको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा अझ राम्रो सहयोग गर्न सकून्।",
+      "bt": "Teachers should be given training and support to increase their mental health literacy, so that they can strengthen their own resources and competencies and better support children's mental health and psychosocial well-being.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T027",
+        "T157",
+        "T209",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Mental health literacy has no supplied glossary candidate; its Nepali rendering is unvalidated. Resources refers here to teachers’ own means, not specifically to resource materials."
+    },
+    {
+      "id": "MAN-22-0004",
+      "page": "66",
+      "loc": "para",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Other education personnel should be empowered to support teachers in their roles.",
+      "ne": "शिक्षकलाई उनीहरूको भूमिका निर्वाह गर्न सहयोग गर्न सक्ने गरी अन्य शिक्षा क्षेत्रका कर्मचारीलाई सशक्त बनाउनुपर्छ।",
+      "bt": "Other education sector personnel should be empowered so that they can support teachers in carrying out their roles.",
+      "type": "general",
+      "terms": [
+        "T070"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-22-0005",
+      "page": "66",
+      "loc": "para",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Teaching can be one of the most stressful occupations and teachers not only influence students’ learning but also their social, emotional and cognitive development.",
+      "ne": "अध्यापन सबैभन्दा बढी तनावपूर्ण पेसामध्ये एक हुन सक्छ र शिक्षकले विद्यार्थीको सिकाइमा मात्र नभई उनीहरूको सामाजिक, भावनात्मक र संज्ञानात्मक विकासमा पनि प्रभाव पार्छन्।",
+      "bt": "Teaching can be one of the most stressful professions, and teachers influence not only students' learning but also their social, emotional and cognitive development.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Reclassified as an ordinary statement about work and educational development, not a clinical assessment or instrument item."
+    },
+    {
+      "id": "MAN-22-0006",
+      "page": "66",
+      "loc": "para",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Teachers also play an important role in supporting at-risk children (e.g. those with MHPSS needs, developmental disabilities or protection vulnerabilities).",
+      "ne": "जोखिममा रहेका बालबालिकालाई (जस्तै MHPSS सम्बन्धी आवश्यकता भएका, विकासात्मक अपाङ्गता भएका वा संरक्षणका दृष्टिले जोखिममा रहेका बालबालिका) सहयोग गर्न पनि शिक्षकहरूको महत्त्वपूर्ण भूमिका हुन्छ।",
+      "bt": "Teachers also have an important role in supporting children at risk (such as children with MHPSS-related needs, children with developmental disabilities or children at risk from a protection perspective).",
+      "type": "safety",
+      "terms": [
+        "T029"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Developmental disabilities has no supplied glossary candidate and is drafted as a general disability category, not as a named diagnosis."
+    },
+    {
+      "id": "MAN-22-0007",
+      "page": "66",
+      "loc": "para",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "The mental health and psychosocial well-being of teachers is particularly important in crises as it affects their teaching and their ability to support the mental health and psychosocial well-being of their students.",
+      "ne": "सङ्कटका बेला शिक्षकको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण विशेष महत्त्वपूर्ण हुन्छ, किनकि यसले उनीहरूको अध्यापन र आफ्ना विद्यार्थीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सहयोग गर्ने क्षमतामा प्रभाव पार्छ।",
+      "bt": "Teachers' mental health and psychosocial well-being are particularly important during crises, because this affects their teaching and their capacity to support their students' mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being wording reuses the supplied unreviewed candidates T157 and T005."
+    },
+    {
+      "id": "MAN-22-0008",
+      "page": "67",
+      "loc": "heading",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-22-0009",
+      "page": "67",
+      "loc": "heading",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "ne": "शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "Promote the mental health and psychosocial well-being of education sector personnel and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T105",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Exact supplied activity candidate T105 reused; its clinical wording remains unreviewed."
+    },
+    {
+      "id": "MAN-22-0010",
+      "page": "67",
+      "loc": "heading",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-22-0011",
+      "page": "67",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Assess needs and capacities to support the mental health and psychosocial well-being of children in learning spaces and the mental health and psychosocial well-being of teachers and other education personnel55 (e.g. through consultations with communities, caregivers, teachers and other education personnel and with education authorities such as Ministry of Education officials).",
+      "ne": "सिकाइ स्थलमा रहेका बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण र शिक्षक तथा अन्य शिक्षा क्षेत्रका कर्मचारी55 को मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सहयोग गर्नका लागि आवश्यकता र क्षमताहरूको लेखाजोखा गर्नुहोस् (जस्तै समुदाय, हेरचाहकर्ता, शिक्षक तथा अन्य शिक्षा क्षेत्रका कर्मचारी र शिक्षा मन्त्रालयका अधिकारीजस्ता शिक्षा निकायका अधिकारीसँग परामर्श गरेर)।",
+      "bt": "Assess needs and capacities to support the mental health and psychosocial well-being of children in learning spaces and the mental health and psychosocial well-being of teachers and other education sector staff55 (for example, by consulting with communities, caregivers, teachers and other education sector staff, and officials of education bodies such as Ministry of Education officials).",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T070",
+        "T004",
+        "T006",
+        "T028",
+        "T328",
+        "T346",
+        "T347",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being wording reuses the supplied unreviewed candidates T157 and T005. The source footnote marker 55 is retained with education personnel. The translation adds that the assessed needs and capacities are those required. The source asks for assessment of needs and capacities without restricting capacities to required ones. The revision removes that restriction."
+    },
+    {
+      "id": "MAN-22-0012",
+      "page": "67",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Develop/select, adapt and translate orientation, training, programme, and IEC materials to support the well-being of teachers and other education personnel (e.g. check-ins that gauge teachers’ emotional well-being and needs for additional support; peer-to-peer networks/support groups; social and emotional learning (SEL)56 workshops; orientations on stress management and coping skills), based on needs and priorities identified in assessments and through participatory discussions (see actions on community engagement in MSP activity 2.1).",
+      "ne": "लेखाजोखा र सहभागितामूलक छलफलबाट पहिचान भएका आवश्यकता र प्राथमिकताका आधारमा शिक्षकहरू र अन्य शिक्षा क्षेत्रका कर्मचारीको कल्याणमा सहयोग पुर्‍याउन अभिमुखीकरण, तालिम, कार्यक्रम र IEC का सामग्री विकास वा छनोट गरी अनुकूलन र अनुवाद गर्नुहोस् (जस्तै शिक्षकहरूको भावनात्मक कल्याण र थप सहयोगका आवश्यकता बुझ्न गरिने छोटा संवाद; सहकर्मीहरूबीचका सञ्जाल/सहयोग समूहहरू; सामाजिक तथा भावनात्मक सिकाइ (SEL)56 सम्बन्धी कार्यशाला; तनाव व्यवस्थापन र कठिनाइको सामना गर्ने सीपसम्बन्धी अभिमुखीकरण) (MSP गतिविधि 2.1 मा सामुदायिक सहभागितासम्बन्धी कार्यहरू हेर्नुहोस्)।",
+      "bt": "Based on the needs and priorities identified through assessment and participatory discussion, develop or select, adapt and translate orientations, training, programmes and IEC materials to support the well-being of teachers and other education sector personnel (such as brief conversations to understand teachers' emotional well-being and needs for additional support; networks/support groups among colleagues; workshops on social and emotional learning (SEL)56; orientations on stress management and skills for coping with difficulties) (see the community participation-related tasks in MSP Activity 2.1).",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T014",
+        "T028",
+        "T070",
+        "T091",
+        "T163",
+        "T205",
+        "T303",
+        "T311",
+        "T328",
+        "T409",
+        "T444",
+        "T458",
+        "T513"
+      ],
+      "flags": [],
+      "note": "SEL is rendered as an educational learning process; stress management and coping skills remain general categories rather than named therapies."
+    },
+    {
+      "id": "MAN-22-0013",
+      "page": "67",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Develop/select, adapt and translate orientations, training programme and IEC materials to help build the capacity of teachers and other education personnel to support the mental health and psychosocial well-being of children, including children with disabilities and children with protection vulnerabilities (e.g. children with developmental disabilities, children associated with armed forces and armed groups, child survivors of sexual violence or GBV; see key consideration 34 and the recommended MHPSS training topics for teachers and other education personnel on the MHPSS MSP web platform).",
+      "ne": "अपाङ्गता भएका बालबालिका र संरक्षणका दृष्टिले जोखिममा रहेका बालबालिकासहित बालबालिकाको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सहयोग गर्न शिक्षकहरू र अन्य शिक्षा क्षेत्रका कर्मचारीको क्षमता विकासमा मद्दत पुर्‍याउन अभिमुखीकरण, तालिम कार्यक्रम र IEC सामग्री विकास वा छनोट गरी अनुकूलन र अनुवाद गर्नुहोस् (जस्तै विकासात्मक अपाङ्गता भएका बालबालिका, सशस्त्र बल र सशस्त्र समूहसँग आबद्ध बालबालिका, यौन हिंसा वा GBV प्रत्यक्ष रूपमा भोगेर बाँचेका प्रभावित व्यक्तिहरूमा पर्ने बालबालिका; मुख्य विचारणीय पक्ष 34 र MHPSS MSP वेब प्लेटफर्ममा शिक्षकहरू र अन्य शिक्षा क्षेत्रका कर्मचारीका लागि सिफारिस गरिएका MHPSS तालिमका विषयहरू हेर्नुहोस्)।",
+      "bt": "Develop or select, adapt and translate orientations, training programmes and IEC materials to help build the capacity of teachers and other education sector personnel to support the mental health and psychosocial well-being of children, including children with disabilities and children at risk from a protection perspective (for example, children with developmental disabilities, children associated with armed forces and armed groups, children who are among affected persons who have survived directly experiencing sexual violence or GBV; see key consideration 34 and the MHPSS training topics recommended for teachers and other education sector personnel on the MHPSS MSP web platform).",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T014",
+        "T027",
+        "T028",
+        "T029",
+        "T070",
+        "T088",
+        "T157",
+        "T163",
+        "T189",
+        "T252",
+        "T299",
+        "T317",
+        "T328",
+        "T409",
+        "T410"
+      ],
+      "flags": [
+        "bt-divergence",
+        "glossary-missing"
+      ],
+      "note": "The frozen survivors label प्रभावित व्यक्तिहरू means affected persons and can include indirectly affected people, whereas the source specifies children who directly experienced and survived sexual violence or GBV; the label here refers only to those children. Developmental disabilities has no supplied glossary candidate. Removed the unsupported universal quantifier 'all'. bt-divergence: the frozen label प्रभावित व्यक्तिहरू means affected persons and can include indirectly affected people, whereas 'child survivors' specifies children who directly experienced and survived the violence. The repair retains the frozen label and explicitly restricts its referents to those children."
+    },
+    {
+      "id": "MAN-22-0014",
+      "page": "67",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Train and supervise facilitators to support the well-being of teachers and other education personnel and to provide orientations, training, and supportive follow-up on promoting the mental health and psychosocial well-being of children (see the recommended MHPSS training topics for workers providing activities that build MHPSS capacity and support well-being among caregivers and teachers on the MHPSS MSP web platform).",
+      "ne": "शिक्षक तथा अन्य शिक्षा क्षेत्रका कर्मचारीको कल्याणमा सहयोग गर्न र बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने विषयमा अभिमुखीकरण, तालिम तथा सहयोगात्मक अनुवर्ती सहयोग प्रदान गर्न सहजकर्तालाई तालिम दिनुहोस् र उनीहरूको सुपरिवेक्षण गर्नुहोस् (MHPSS MSP वेब प्लेटफर्ममा हेरचाहकर्ता र शिक्षकको MHPSS क्षमता विकास गर्ने तथा उनीहरूको कल्याणमा सहयोग गर्ने गतिविधि प्रदान गर्ने कार्यकर्ताका लागि सिफारिस गरिएका MHPSS तालिमका विषयहरू हेर्नुहोस्)।",
+      "bt": "Train and supervise facilitators to provide orientation, training and supportive follow-up support on supporting the well-being of teachers and other education sector personnel and promoting children's mental health and psychosocial well-being (see the recommended MHPSS training topics on the MHPSS MSP web platform for workers who develop caregivers' and teachers' MHPSS capacities and provide activities supporting their well-being).",
+      "type": "general",
+      "terms": [
+        "T070",
+        "T157",
+        "T005",
+        "T014",
+        "T163",
+        "T189",
+        "T006",
+        "T088",
+        "T229",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Clinical wording reuses unreviewed candidates T157 and T005. Proposals for recurring nonclinical terms: facilitators = [Nepali wording recorded in terminology evidence]; supervision = [Nepali wording recorded in terminology evidence]; capacity building = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. These are not additions to G-0.2."
+    },
+    {
+      "id": "MAN-22-0015",
+      "page": "67",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Provide ongoing support to teachers and other education personnel to promote their own mental health and psychosocial wellbeing, and ongoing capacity building to enhance their abilities to support children (e.g. via in-service training, mentoring, and peer-learning methods).",
+      "ne": "शिक्षक तथा अन्य शिक्षा क्षेत्रका कर्मचारीलाई उनीहरूको आफ्नै मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न निरन्तर सहयोग प्रदान गर्नुहोस् र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता अभिवृद्धि गर्न निरन्तर क्षमता विकास गर्नुहोस् (जस्तै सेवाकालीन तालिम, अनुभवी व्यक्तिबाट दिइने मार्गदर्शन र सहकर्मीबीच सिकाइका विधिमार्फत)।",
+      "bt": "Provide ongoing support to teachers and other education sector staff to promote their own mental health and psychosocial well-being, and carry out ongoing capacity development to enhance their ability to support children (for example, through in-service training, guidance provided by experienced people and methods of learning among peers).",
+      "type": "general",
+      "terms": [
+        "T070",
+        "T157",
+        "T005",
+        "T201",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Clinical wording reuses unreviewed candidates T157 and T005. Proposed recurring nonclinical term: capacity building = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; not added to G-0.2. Mentoring is reduced to unspecified guidance. The revision specifies guidance from an experienced person to retain the mentoring component."
+    },
+    {
+      "id": "MAN-22-0016",
+      "page": "67",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Provide orientations and/or training to teachers and other education personnel to promote the mental health and psychosocial well-being of children.",
+      "ne": "बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न शिक्षक तथा अन्य शिक्षा क्षेत्रका कर्मचारीलाई अभिमुखीकरण र/वा तालिम प्रदान गर्नुहोस्।",
+      "bt": "Provide orientation and/or training to teachers and other education sector personnel to promote children's mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T070",
+        "T014",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical wording reuses unreviewed candidates T157 and T005."
+    },
+    {
+      "id": "MAN-22-0017",
+      "page": "67",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Provide orientations to teachers and other education personnel (e.g. head teachers, principals, school supervisors and other education officials) on the rationale for integrating MHPSS into education in emergencies programming and the role of teachers in crisis contexts.",
+      "ne": "आपत्कालीन अवस्थामा सञ्चालन गरिने शिक्षा कार्यक्रमहरूमा MHPSS एकीकृत गर्नुको औचित्य र सङ्कटको सन्दर्भमा शिक्षकको भूमिकाबारे शिक्षक तथा अन्य शिक्षा क्षेत्रका कर्मचारीलाई (जस्तै प्रधानाध्यापक, प्रिन्सिपल, विद्यालय सुपरिवेक्षक र अन्य शिक्षा अधिकारी) अभिमुखीकरण प्रदान गर्नुहोस्।",
+      "bt": "Provide orientation to teachers and other education sector personnel (for example, headteachers, principals, school supervisors and other education officials) on the rationale for integrating MHPSS into education programmes conducted in emergencies and on teachers' roles in the context of a crisis.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T028",
+        "T070",
+        "T014",
+        "T310"
+      ],
+      "flags": [],
+      "note": "Head teachers and principals are retained as separate source-listed roles."
+    },
+    {
+      "id": "MAN-22-0018",
+      "page": "67",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Facilitate access to safe spaces in which to conduct activities as needed.",
+      "ne": "आवश्यकताअनुसार गतिविधि सञ्चालन गर्न सुरक्षित स्थलहरूमा पहुँच सहज बनाउनुहोस्।",
+      "bt": "Facilitate access to safe sites to conduct activities as needed.",
+      "type": "general",
+      "terms": [
+        "T293"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-22-0019",
+      "page": "67",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Facilitate referrals from education settings to any needed services and supports (e.g. MHPSS services, health services, protection services).",
+      "ne": "शैक्षिक परिवेशबाट आवश्यक पर्ने सेवा तथा सहयोग (जस्तै MHPSS सेवा, स्वास्थ्य सेवा, संरक्षण सेवा) का लागि सम्बन्धित सेवामा पठाउने कार्यलाई सहजीकरण गर्नुहोस्।",
+      "bt": "Facilitate referral from educational settings to the relevant services for needed services and support (for example, MHPSS services, health services, protection services).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T029",
+        "T172",
+        "T364"
+      ],
+      "flags": [],
+      "note": "General referral guidance drafted using candidate T172; safety and contextual review remain pending."
+    },
+    {
+      "id": "MAN-22-0020",
+      "page": "67",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Engage staff with MHPSS technical expertise to provide ongoing supervision to facilitators and oversight of activities.",
+      "ne": "सहजकर्तालाई निरन्तर सुपरिवेक्षण प्रदान गर्न र गतिविधिहरूको रेखदेख गर्न MHPSS सम्बन्धी प्राविधिक विशेषज्ञता भएका कर्मचारीलाई संलग्न गराउनुहोस्।",
+      "bt": "Engage personnel with technical expertise in MHPSS to provide ongoing supervision to facilitators and oversee activities.",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical terms: facilitators = [Nepali wording recorded in terminology evidence]; supervision = [Nepali wording recorded in terminology evidence]. Neither is added to G-0.2."
+    },
+    {
+      "id": "MAN-22-0021",
+      "page": "67",
+      "loc": "footnote",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "55 The term “teachers and other education personnel” includes classroom teachers and classroom assistants; early childhood or pre-school teachers; educators of people with disabilities; subject specialists and vocational trainers; facilitators in child-friendly spaces; community volunteers, religious educators and life skills instructors; and head teachers, principals, school supervisors and other education officials. INEE (2010). INEE Minimum Standards for Education: Preparedness, Response, Recovery.",
+      "ne": "55 “शिक्षक तथा अन्य शिक्षा क्षेत्रका कर्मचारी” भन्ने शब्दावलीमा कक्षामा अध्यापन गर्ने शिक्षक र कक्षा सहायक; प्रारम्भिक बाल्यावस्था वा पूर्वप्राथमिक तहका शिक्षक; अपाङ्गता भएका व्यक्तिलाई शिक्षा दिने व्यक्ति; विषय विशेषज्ञ र व्यावसायिक प्रशिक्षक; बालमैत्री स्थलका सहजकर्ता; सामुदायिक स्वयंसेवक, धार्मिक शिक्षा दिने व्यक्ति र जीवनोपयोगी सीपका प्रशिक्षक; तथा प्रधानाध्यापक, प्रिन्सिपल, विद्यालय सुपरिवेक्षक र अन्य शिक्षा अधिकारी समावेश हुन्छन्। INEE (2010). INEE Minimum Standards for Education: Preparedness, Response, Recovery.",
+      "bt": "55 The term “teachers and other education sector personnel” includes teachers who teach in classrooms and classroom assistants; early childhood or pre-primary level teachers; people who educate persons with disabilities; subject specialists and vocational trainers; facilitators of child-friendly spaces; community volunteers, people who provide religious education and life skills trainers; and headteachers, principals, school supervisors and other education officials. INEE (2010). INEE Minimum Standards for Education: Preparedness, Response, Recovery.",
+      "type": "general",
+      "terms": [
+        "T070",
+        "T028",
+        "T229",
+        "T310"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Reclassified as an ordinary personnel definition, not a clinical check. The citation is retained verbatim. Proposed recurring nonclinical term: facilitators = [Nepali wording recorded in terminology evidence]; not added to G-0.2."
+    },
+    {
+      "id": "MAN-22-0022",
+      "page": "67",
+      "loc": "footnote",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "56 Social and Emotional Learning (SEL) is the process of acquiring core competencies to recognize and manage emotions, set and achieve goals, appreciate the perspectives of others, establish and maintain positive relationships, make responsible decisions and handle interpersonal situations constructively. The qualities that SEL aims to foster include self-awareness, emotional literacy, cognitive flexibility, improved memory, resilience, persistence, motivation, empathy, social and relationship skills, effective communication, listening skills, self-esteem, self-confidence, respect and self-regulation. SEL is an important component of MHPSS that educators should address continually, especially in crisis contexts, since it contributes to better learning and to children’s improved mental health and psychosocial well-being. INEE (2016). Background Paper on Psychosocial Support and Social & Emotional Learning for Children & Youth.",
+      "ne": "56 सामाजिक तथा भावनात्मक सिकाइ (SEL) भनेको भावना पहिचान र व्यवस्थापन गर्ने, लक्ष्य निर्धारण गरी हासिल गर्ने, अरूका दृष्टिकोणको कदर गर्ने, सकारात्मक सम्बन्ध स्थापना गरी कायम राख्ने, जिम्मेवार निर्णय गर्ने र अन्तरव्यक्तिगत परिस्थितिहरूलाई रचनात्मक ढङ्गले सम्हाल्ने मुख्य सक्षमता हासिल गर्ने प्रक्रिया हो। SEL ले विकास गर्न खोज्ने गुणहरूमा आत्मसचेतना, भावनासम्बन्धी साक्षरता, सोचमा लचकता, सुध्रिएको स्मरणशक्ति, उत्थानशीलता, निरन्तर प्रयास गरिरहने दृढता, उत्प्रेरणा, समानुभूति, सामाजिक र सम्बन्ध कायम गर्ने सीप, प्रभावकारी सञ्चार, सुन्ने सीप, आत्मसम्मान, आत्मविश्वास, सम्मान र आत्मनियमन पर्छन्। SEL, MHPSS को एउटा महत्त्वपूर्ण घटक हो, जसमा शिक्षाकर्मीहरूले विशेष गरी सङ्कटको अवस्थामा निरन्तर ध्यान दिनुपर्छ, किनकि यसले अझ राम्रो सिकाइ तथा बालबालिकाको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सुधार ल्याउन योगदान गर्छ। INEE (2016). बालबालिका र युवाका लागि मनोसामाजिक सहयोग र सामाजिक तथा भावनात्मक सिकाइसम्बन्धी पृष्ठभूमि पत्र।",
+      "bt": "56 Social and emotional learning (SEL) is the process of acquiring core competencies to identify and manage emotions, set and achieve goals, appreciate others' perspectives, establish and maintain positive relationships, make responsible decisions and handle interpersonal situations constructively. The qualities that SEL seeks to develop include self-awareness, emotional literacy, flexibility in thinking, improved memory, resilience, determination to keep making efforts, motivation, empathy, social and relationship-maintaining skills, effective communication, listening skills, self-esteem, self-confidence, respect and self-regulation. SEL is an important component of MHPSS, to which education workers should give continuous attention, especially in a crisis situation, because it contributes to better learning and improvements in children's mental health and psychosocial well-being. INEE (2016). Background paper on psychosocial support and social and emotional learning for children and youth.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T027",
+        "T157",
+        "T209",
+        "T303",
+        "T328",
+        "T345",
+        "T410",
+        "T503"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Several cognitive and emotional constructs have no supplied glossary candidates; their Nepali renderings are unvalidated. The reference title is translated, while INEE and 2016 are retained."
+    },
+    {
+      "id": "MAN-22-0023",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूका आधारमा)",
+      "bt": "Additional actions given for consideration (based on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-22-0024",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Provide social and emotional learning opportunities for teachers and other education personnel so they can strengthen their own social and emotional competencies, interact positively with children and serve as role models for them to follow.",
+      "ne": "शिक्षक र शिक्षा क्षेत्रका अन्य कर्मचारीलाई सामाजिक तथा भावनात्मक सिकाइका अवसरहरू प्रदान गर्नुहोस्, ताकि उनीहरूले आफ्नै सामाजिक तथा भावनात्मक सक्षमता सुदृढ गर्न, बालबालिकासँग सकारात्मक रूपमा अन्तरक्रिया गर्न र बालबालिकाले अनुसरण गर्न सक्ने आदर्श व्यक्तिको भूमिका निर्वाह गर्न सकून्।",
+      "bt": "Provide teachers and other education personnel with opportunities for social and emotional learning so that they can strengthen their own social and emotional competence, interact positively with children and fulfill the role of role models whom children can follow.",
+      "type": "general",
+      "terms": [
+        "T209",
+        "T303"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Drafted as an ordinary educational instruction, not a clinical intervention. Proposed missing term: social and emotional learning = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The complete T070 phrase is not used because 'other' modifies education personnel."
+    },
+    {
+      "id": "MAN-22-0025",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Provide social and emotional learning for children through formal and non-formal school curricula.57",
+      "ne": "औपचारिक तथा अनौपचारिक विद्यालय पाठ्यक्रममार्फत बालबालिकालाई सामाजिक तथा भावनात्मक सिकाइ प्रदान गर्नुहोस्।57",
+      "bt": "Provide children with social and emotional learning through formal and informal school curricula.57",
+      "type": "general",
+      "terms": [
+        "T303"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing term: social and emotional learning = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Footnote marker 57 is retained."
+    },
+    {
+      "id": "MAN-22-0026",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Take steps to promote the inclusion of MHPSS elements, including SEL, in pre- and in-service training.",
+      "ne": "सेवापूर्व तथा सेवाकालीन तालिममा SEL लगायतका MHPSS का पक्षहरू समावेश गर्ने कार्यलाई प्रवर्द्धन गर्न कदम चाल्नुहोस्।",
+      "bt": "Take steps to promote the inclusion of aspects of MHPSS, including SEL, in pre-service and in-service training.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "SEL and MHPSS are retained exactly. The missing SEL glossary entry is proposed separately."
+    },
+    {
+      "id": "MAN-22-0027",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Advocate for the revision of national teacher competency frameworks to promote the integration of MHPSS elements, including SEL.",
+      "ne": "SEL लगायतका MHPSS का पक्षहरू एकीकृत गर्ने कार्यलाई प्रवर्द्धन गर्न राष्ट्रिय शिक्षक सक्षमता रूपरेखाहरूको संशोधनका लागि पैरवी गर्नुहोस्।",
+      "bt": "Advocate for the revision of national teacher competency frameworks to promote the integration of aspects of MHPSS, including SEL.",
+      "type": "general",
+      "terms": [
+        "T332"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "This concerns revision of educational competency frameworks, not a clinical procedure. The missing SEL glossary entry is proposed separately."
+    },
+    {
+      "id": "MAN-22-0028",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Create and/or support structures and practices that promote teacher-parent communication about children’s well-being (e.g. fostering teacher-parent cooperation processes by organizing pre-planned teacher-parent meetings at regular intervals, conducting awareness-raising and skills-building sessions for caregivers and for teachers).",
+      "ne": "बालबालिकाको कल्याणबारे शिक्षक र अभिभावकबीच संवादलाई प्रवर्द्धन गर्ने संरचना र अभ्यासहरू स्थापना गर्नुहोस् र/वा तिनलाई सहयोग गर्नुहोस् (जस्तै, नियमित अन्तरालमा पूर्वनियोजित शिक्षक–अभिभावक बैठकहरू आयोजना गरेर शिक्षक–अभिभावक सहकार्यका प्रक्रियाहरूलाई बढावा दिने, हेरचाहकर्ता र शिक्षकका लागि सचेतना अभिवृद्धि तथा सीप विकासका सत्रहरू सञ्चालन गर्ने)।",
+      "bt": "Establish and/or support structures and practices that promote dialogue between teachers and parents about children's well-being (for example, fostering processes of teacher–parent collaboration by organizing pre-planned teacher–parent meetings at regular intervals, and conducting awareness-raising and skill-development sessions for caregivers and teachers).",
+      "type": "general",
+      "terms": [
+        "T006",
+        "T328",
+        "T424",
+        "T433"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-22-0029",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Support or reactivate collective activities around learning spaces to maximize exchanges and cooperation between education personnel, caregivers and the community (e.g. through parent-teacher associations, mothers’ groups, community education committees; by creating opportunities for older community members to impart cultural and traditional knowledge to younger generations; by organizing learning and recreational events facilitated jointly by education personnel, students, caregivers and community groups; see MSP activity 3.4).",
+      "ne": "शिक्षा क्षेत्रका कर्मचारी, हेरचाहकर्ता र समुदायबीच आदानप्रदान र सहकार्य अधिकतम बनाउन सिकाइ स्थलहरूमा र तिनको वरपर सामूहिक गतिविधिलाई सहयोग गर्नुहोस् वा पुनः सक्रिय बनाउनुहोस् (जस्तै, अभिभावक–शिक्षक सङ्घ, आमा समूह र सामुदायिक शिक्षा समितिमार्फत; समुदायका ज्येष्ठ सदस्यले नयाँ पुस्तालाई सांस्कृतिक तथा परम्परागत ज्ञान हस्तान्तरण गर्ने अवसर सिर्जना गरेर; शिक्षा क्षेत्रका कर्मचारी, विद्यार्थी, हेरचाहकर्ता र सामुदायिक समूहले संयुक्त रूपमा सहजीकरण गर्ने सिकाइ तथा मनोरञ्जनात्मक कार्यक्रम आयोजना गरेर; MSP गतिविधि 3.4 हेर्नुहोस्)।",
+      "bt": "Support or reactivate collective activities in and around learning sites to maximize exchange and collaboration among education personnel, caregivers and the community (for example, through parent–teacher associations, mothers' groups and community education committees; by creating opportunities for older members of the community to pass cultural and traditional knowledge on to the new generation; by organizing learning and recreational programs jointly facilitated by education personnel, students, caregivers and community groups; see MSP activity 3.4).",
+      "type": "general",
+      "terms": [
+        "T070",
+        "T006",
+        "T074",
+        "T081",
+        "T091",
+        "T254",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring term: learning spaces = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Activity reference 3.4 is retained without inserting its activity title."
+    },
+    {
+      "id": "MAN-22-0030",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Build the capacity of school leaders to better support their own mental health and psychosocial well-being and that of other education personnel.",
+      "ne": "विद्यालयका नेतृत्वकर्ताले आफ्नो र शिक्षा क्षेत्रका अन्य कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा अझ राम्रो सहयोग गर्न सकून् भनेर उनीहरूको क्षमता विकास गर्नुहोस्।",
+      "bt": "Develop the capacity of school leaders so that they can better support their own mental health and psychosocial well-being and that of other education personnel.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed candidates. The complete T070 phrase is not used because the source specifies other education personnel."
+    },
+    {
+      "id": "MAN-22-0031",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Advocate for policies and professional development activities that promote the mental health and psychosocial well-being of education personnel.",
+      "ne": "शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने नीति र पेसागत विकासका गतिविधिका लागि पैरवी गर्नुहोस्।",
+      "bt": "Advocate for policies and professional development activities that promote the mental health and psychosocial well-being of education personnel.",
+      "type": "general",
+      "terms": [
+        "T070",
+        "T157",
+        "T005",
+        "T328",
+        "T332",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The two health-related labels are supplied unreviewed candidates; this is a policy and professional-development instruction."
+    },
+    {
+      "id": "MAN-22-0032",
+      "page": "68",
+      "loc": "heading",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-22-0033",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-22-0034",
+      "page": "68",
+      "loc": "heading",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Key consideration 26: MHPSS focal points for learning spaces",
+      "ne": "मुख्य विचारणीय पक्ष 26: सिकाइ स्थलहरूका लागि MHPSS सम्पर्क व्यक्तिहरू",
+      "bt": "Key consideration 26: MHPSS contact persons for learning sites",
+      "type": "general",
+      "terms": [
+        "T252",
+        "T254",
+        "T267"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring terms: learning spaces = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; MHPSS focal point = MHPSS [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Number 26 is retained. The source heading has plural focal points; the BT renders a singular contact person. The revision makes the plurality explicit."
+    },
+    {
+      "id": "MAN-22-0035",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Learning spaces should have a designated MHPSS focal point who is aware of the MHPSS services available and referral mechanisms in place. This may be a school counsellor, where available.",
+      "ne": "सिकाइ स्थलहरूमा उपलब्ध MHPSS सेवा र विद्यमान सेवा प्रेषण संयन्त्रहरूबारे जानकारी भएको तोकिएको MHPSS सम्पर्क व्यक्ति हुन सिफारिस गरिन्छ। विद्यालयमा परामर्शदाता उपलब्ध भएमा ती व्यक्तिले यो भूमिका निर्वाह गर्न सक्छन्।",
+      "bt": "It is recommended that there be a designated MHPSS contact person who has information about the MHPSS services available at learning sites and existing service referral mechanisms. If a counselor is available at the school, that person can fulfill this role.",
+      "type": "safety",
+      "terms": [
+        "T064",
+        "T254",
+        "T267"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "General service-access guidance; safety review pending. School counsellor is rendered as a school support role without asserting clinical qualifications. Missing recurring terms proposed separately: learning spaces and MHPSS focal point. The source recommends that learning spaces 'should have' a designated focal point; the BT strengthens this to 'must have'. The revision explicitly expresses a recommendation rather than a mandatory requirement. The BT attaches 'at learning sites' to the available MHPSS services rather than to the requirement for a designated contact person, narrowing the service scope and leaving the learning spaces’ responsibility to have that person unstated."
+    },
+    {
+      "id": "MAN-22-0036",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Alternatively, a high-capacity individual (such as a teacher or a head teacher) can be trained and supported to fulfil the role of MHPSS focal point, identifying needs and referring as appropriate. Taking on this role may require a review and adjustment of their existing workload and responsibilities.",
+      "ne": "वैकल्पिक रूपमा, उच्च क्षमता भएका व्यक्तिलाई (जस्तै, शिक्षक वा प्रधानाध्यापकलाई) आवश्यकताहरू पहिचान गर्ने र उपयुक्तताअनुसार सम्बन्धित सेवामा पठाउने कार्य गर्दै MHPSS सम्पर्क व्यक्तिको भूमिका निर्वाह गर्न तालिम र सहयोग दिन सकिन्छ। यो भूमिका ग्रहण गर्दा ती व्यक्तिको विद्यमान कार्यभार र जिम्मेवारीको समीक्षा तथा समायोजन गर्नुपर्ने हुन सक्छ।",
+      "bt": "Alternatively, a highly capable person (for example, a teacher or headteacher) can be given training and support to fulfill the role of MHPSS contact person, identifying needs and referring to relevant services as appropriate. Taking on this role may require a review and adjustment of that person's existing workload and responsibilities.",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T267"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General role-allocation and referral guidance; safety review pending. Proposed missing recurring term: MHPSS focal point = MHPSS [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The possible need to review and adjust existing workload and responsibilities is retained."
+    },
+    {
+      "id": "MAN-22-0037",
+      "page": "68",
+      "loc": "heading",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Key consideration 27: Support the recruitment and retention of female teachers",
+      "ne": "मुख्य विचारणीय पक्ष 27: महिला शिक्षकको भर्ना र उनीहरूलाई सेवामा कायम राख्ने कार्यमा सहयोग गर्नुहोस्",
+      "bt": "Key consideration 27: Support the recruitment of female teachers and their retention in service",
+      "type": "general",
+      "terms": [
+        "T252"
+      ],
+      "flags": [],
+      "note": "Recruitment is rendered as appointment, narrowing the source's recruitment process to appointment. The revision restores recruitment and the instruction to support it."
+    },
+    {
+      "id": "MAN-22-0038",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "There is a shortage of female teachers in many crisis-affected countries. This deprives girls of positive female role models and of teachers who understand their needs. It also further restricts options for girls’ education. It is important to ensure that there are women in learning spaces (teachers and other female personnel) who can act as mentors, role models or resource persons for girls.",
+      "ne": "सङ्कटबाट प्रभावित धेरै देशमा महिला शिक्षकको अभाव छ। यसले बालिकाहरूलाई सकारात्मक आदर्श बन्न सक्ने महिला र उनीहरूको आवश्यकता बुझ्ने शिक्षकबाट वञ्चित गर्छ। यसले बालिकाहरूको शिक्षाका विकल्पहरूलाई थप सीमित पनि गर्छ। सिकाइ स्थलहरूमा बालिकाका लागि मार्गदर्शक, आदर्श व्यक्ति वा स्रोत व्यक्तिको भूमिका निर्वाह गर्न सक्ने महिला (शिक्षक र अन्य महिला कर्मचारी) रहेको सुनिश्चित गर्नु महत्त्वपूर्ण छ।",
+      "bt": "There is a shortage of female teachers in many countries affected by crises. This deprives girls of women who can be positive role models and teachers who understand their needs. It also further limits girls' options for education. It is important to ensure that there are women (teachers and other female personnel) at learning sites who can fulfill the role of mentors, role models or resource persons for girls.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T254"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring term: learning spaces = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The source's country-level statement is retained without adding local examples."
+    },
+    {
+      "id": "MAN-22-0039",
+      "page": "68",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "Where no female teachers or candidates are available for training, consider approaching women from the community to work as classroom assistants. Inexperienced or underqualified volunteers can teach effectively with adequate training. Whenever possible, provide ongoing training and opportunities for female volunteers to complete their own education, and support their transition into a full teaching role.",
+      "ne": "तालिमका लागि महिला शिक्षक वा महिला उम्मेदवार उपलब्ध नभएमा, कक्षाकोठा सहायकका रूपमा काम गर्न समुदायका महिलासँग सम्पर्क गर्नेबारे विचार गर्नुहोस्। अनुभव नभएका वा आवश्यकभन्दा कम योग्यता भएका स्वयंसेवकले पर्याप्त तालिम पाएमा प्रभावकारी रूपमा पढाउन सक्छन्। सम्भव भएसम्म, महिला स्वयंसेवकलाई निरन्तर तालिम र आफ्नो शिक्षा पूरा गर्ने अवसर प्रदान गर्नुहोस्, र शिक्षकको पूर्ण भूमिका निर्वाह गर्न थाल्ने प्रक्रियामा उनीहरूलाई सहयोग गर्नुहोस्।",
+      "bt": "If female teachers or female candidates for training are not available, consider contacting women from the community to work as classroom assistants. Volunteers with no experience or with less than the required qualifications can teach effectively if they receive adequate training. Wherever possible, provide female volunteers with ongoing training and opportunities to complete their education, and support them in the process of beginning to fulfill the full role of a teacher.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-22-0040",
+      "page": "68",
+      "loc": "footnote",
+      "section": "Section 3 > 3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "en": "57 See WHO (2020). Helping Adolescents Thrive: Guidelines on mental health promotive and preventive interventions for adolescents.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the bibliographic reference unchanged: 57 See WHO (2020). Helping Adolescents Thrive: Guidelines on mental health promotive and preventive interventions for adolescents."
+    }
+  ]
+}

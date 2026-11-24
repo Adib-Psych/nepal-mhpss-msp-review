@@ -1,0 +1,840 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-13",
+  "unit_title": "Additional MSP Tools",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "107-116",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:09:10+05:45",
+  "coverage": {
+    "source_words": 447,
+    "row_words": 447,
+    "skipped": [
+      "Slide 109: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 110: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 110: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 111: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 112: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 113: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 113: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 113: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 114: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 114: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 115: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 115: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-13-0001",
+      "page": "107",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "Module 7:",
+      "ne": "मोड्युल 7:",
+      "bt": "Module 7:",
+      "type": "general",
+      "terms": [
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0002",
+      "page": "107",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "Additional MSP tools",
+      "ne": "थप MSP उपकरणहरू",
+      "bt": "Additional MSP tools",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0003",
+      "page": "108",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "Module Learning Objectives",
+      "ne": "मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Module learning objectives",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0004",
+      "page": "108",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Understand the purpose and functioning of:",
+      "ne": "निम्न उपकरणहरूको उद्देश्य र कार्यप्रणाली बुझ्ने।",
+      "bt": "Understand the purpose and working methods of the following tools.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0005",
+      "page": "108",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "MSP Costing tool",
+      "ne": "MSP लागत अनुमान उपकरण",
+      "bt": "MSP cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0006",
+      "page": "108",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "MSP Gap Analysis tool",
+      "ne": "MSP कमी विश्लेषण उपकरण",
+      "bt": "MSP gap analysis tool",
+      "type": "general",
+      "terms": [
+        "T038"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0007",
+      "page": "108",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "MSP M&E Indicator Bank",
+      "ne": "MSP अनुगमन तथा मूल्याङ्कन (M&E) सूचक भण्डार",
+      "bt": "MSP monitoring and evaluation (M&E) indicator repository",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T382",
+        "T394",
+        "T396"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed nonclinical rendering of M&E Indicator Bank; glossary addition pending review."
+    },
+    {
+      "id": "SLD-13-0008",
+      "page": "109",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "MSP Additional Planning Tools",
+      "ne": "योजना बनाउनका लागि थप MSP उपकरणहरू",
+      "bt": "Additional MSP tools for planning",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0009",
+      "page": "109",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Gap analysis Tool",
+      "ne": "अन्तर विश्लेषण उपकरण",
+      "bt": "Gap analysis tool",
+      "type": "general",
+      "terms": [
+        "T137",
+        "T370"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0010",
+      "page": "109",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Costing Tool",
+      "ne": "लागत अनुमान उपकरण",
+      "bt": "Cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T351"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed standalone rendering of Costing Tool, consistent with T020 but without adding MSP."
+    },
+    {
+      "id": "SLD-13-0011",
+      "page": "109",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "M&E Indicator Bank",
+      "ne": "अनुगमन तथा मूल्याङ्कन (M&E) सूचक भण्डार",
+      "bt": "Monitoring and evaluation (M&E) indicator repository",
+      "type": "general",
+      "terms": [
+        "T382",
+        "T394",
+        "T396"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the same proposed rendering of M&E Indicator Bank as the earlier title, without MSP."
+    },
+    {
+      "id": "SLD-13-0012",
+      "page": "110",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "What is the Gap Analysis tool?",
+      "ne": "अन्तर विश्लेषण उपकरण के हो?",
+      "bt": "What is the gap analysis tool?",
+      "type": "general",
+      "terms": [
+        "T137",
+        "T370"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0013",
+      "page": "110",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "A tool to assess and map implementation of MSP activities",
+      "ne": "MSP गतिविधिहरूको कार्यान्वयनको लेखाजोखा र नक्साङ्कन गर्ने उपकरण",
+      "bt": "A tool for taking stock of and mapping the implementation of MSP activities",
+      "type": "general",
+      "terms": [
+        "T272",
+        "T380"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0014",
+      "page": "110",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Identify which MSP activities are being implemented and gaps in the response",
+      "ne": "कुन MSP गतिविधिहरू कार्यान्वयन भइरहेका छन् र प्रतिकार्यमा के कमीहरू छन् भन्ने पहिचान गर्ने।",
+      "bt": "Identify which MSP activities are being implemented and what gaps there are in the response.",
+      "type": "general",
+      "terms": [
+        "T272",
+        "T174",
+        "T232"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0015",
+      "page": "110",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Provide information on changes in coverage and gaps in MSP activities over time",
+      "ne": "समयसँगै MSP गतिविधिहरूले समेटेको दायरा र तिनमा रहेका कमीहरूमा आएको परिवर्तनबारे जानकारी दिने।",
+      "bt": "Provide information about changes over time in the scope covered by MSP activities and the gaps in them.",
+      "type": "general",
+      "terms": [
+        "T272",
+        "T232"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Coverage is rendered as the scope reached by the activities; a glossary proposal is supplied."
+    },
+    {
+      "id": "SLD-13-0016",
+      "page": "111",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "Why conduct a Gap Analysis?",
+      "ne": "अन्तर विश्लेषण किन गर्ने?",
+      "bt": "Why conduct a gap analysis?",
+      "type": "general",
+      "terms": [
+        "T370"
+      ],
+      "flags": [],
+      "note": "Uses the analysis component of T137 without adding Tool, which is absent from this heading."
+    },
+    {
+      "id": "SLD-13-0017",
+      "page": "111",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "To evaluate the current response (activities being implemented, coverage, overlap)",
+      "ne": "हालको प्रतिकार्यको मूल्याङ्कन गर्न (कार्यान्वयन भइरहेका गतिविधिहरू, समेटिएको दायरा र एकअर्कासँग खप्टिने अवस्था)।",
+      "bt": "To evaluate the current response (activities being implemented, the scope covered and the situation of overlap with one another).",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T353"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed coverage wording in a grammatical form appropriate to this list. The source says overlap; [Nepali wording recorded in terminology evidence] and the back-translation instead specify duplication. Overlap need not amount to duplication. Revised to preserve overlap without that narrower implication; technical terminology review remains pending."
+    },
+    {
+      "id": "SLD-13-0018",
+      "page": "111",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "To identify priorities moving forward",
+      "ne": "आगामी कार्यका प्राथमिकताहरू पहिचान गर्न।",
+      "bt": "To identify priorities for future work.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0019",
+      "page": "111",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "To understand barriers and challenges in implementing specific activities and/or integrating MHPSS",
+      "ne": "विशिष्ट गतिविधिहरू कार्यान्वयन गर्न र/वा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) एकीकृत गर्न आइपर्ने बाधा र चुनौतीहरू बुझ्न।",
+      "bt": "To understand the barriers and challenges encountered in implementing specific activities and/or integrating mental health and psychosocial support (MHPSS).",
+      "type": "general",
+      "terms": [
+        "T001"
+      ],
+      "flags": [],
+      "note": "T001 is reused verbatim as an unreviewed clinical terminology candidate."
+    },
+    {
+      "id": "SLD-13-0020",
+      "page": "111",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "To advocate to donors and others to fill gaps",
+      "ne": "कमीहरू पूरा गर्न दातृ निकाय र अन्य पक्षहरूसँग पैरवी गर्न।",
+      "bt": "To advocate with donor agencies and other parties to fill gaps.",
+      "type": "general",
+      "terms": [
+        "T232",
+        "T023"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0021",
+      "page": "111",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "To coordinate different actors/sectors that are implementing the same activity",
+      "ne": "एउटै गतिविधि कार्यान्वयन गरिरहेका विभिन्न सम्बद्ध पक्षहरू/क्षेत्रबीच समन्वय गर्न।",
+      "bt": "To coordinate among different stakeholders/sectors implementing the same activity.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0022",
+      "page": "112",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "MSP Costing Tool",
+      "ne": "MSP लागत अनुमान उपकरण",
+      "bt": "MSP cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0023",
+      "page": "112",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "To calculate the costs of MSP activities",
+      "ne": "MSP गतिविधिहरूको लागत गणना गर्न।",
+      "bt": "To calculate the cost of MSP activities.",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0024",
+      "page": "112",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Useful for coordinators, implementing organizations and donors",
+      "ne": "समन्वयकर्ताहरू, कार्यान्वयन गर्ने संस्थाहरू र दातृ निकायका लागि उपयोगी",
+      "bt": "Useful for coordinators, implementing organizations and donor agencies",
+      "type": "general",
+      "terms": [
+        "T214",
+        "T023"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0025",
+      "page": "112",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "User inputs basic information (e.g. country and affected population numbers)",
+      "ne": "प्रयोगकर्ताले आधारभूत जानकारी प्रविष्ट गर्छन् (जस्तै, देश र प्रभावित जनसङ्ख्याको सङ्ख्या)।",
+      "bt": "The user enters basic information (for example, the country and the number of people in the affected population).",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0026",
+      "page": "112",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Cost estimates are automatically generated based on available data",
+      "ne": "उपलब्ध तथ्याङ्कका आधारमा लागतका अनुमानहरू स्वतः तयार हुन्छन्।",
+      "bt": "Cost estimates are generated automatically based on available data.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0027",
+      "page": "112",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "We also want to mention the costing tool which is designed to support coordinators, donors, and program managers with costing MSP activities​​",
+      "ne": "हामी लागत अनुमान उपकरणको पनि उल्लेख गर्न चाहन्छौँ, जुन समन्वयकर्ताहरू, दातृ निकाय र कार्यक्रम व्यवस्थापकहरूलाई MSP गतिविधिहरूको लागत अनुमान गर्न सहयोग गर्ने गरी तयार गरिएको छ।",
+      "bt": "We also want to mention the cost estimation tool, which has been developed to help coordinators, donor agencies and programme managers estimate the cost of MSP activities.",
+      "type": "general",
+      "terms": [
+        "T214",
+        "T023",
+        "T272",
+        "T351"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed standalone Costing Tool rendering, consistent with T020."
+    },
+    {
+      "id": "SLD-13-0028",
+      "page": "112",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "the tool is available for download on the MSP website as well as a user guide​​",
+      "ne": "यो उपकरण र यसको प्रयोगकर्ता मार्गदर्शिका MSP वेबसाइटबाट डाउनलोड गर्न सकिन्छ।",
+      "bt": "This tool and its user guide can be downloaded from the MSP website.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163",
+        "T443"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0029",
+      "page": "112",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "In the tool you can check which MSP activities you want to include in the costing, ​​",
+      "ne": "उपकरणमा तपाईंले लागत अनुमानमा समावेश गर्न चाहेका MSP गतिविधिहरूमा चिन्ह लगाउन सक्नुहुन्छ।",
+      "bt": "In the tool, you can mark the MSP activities you want to include in the cost estimate.",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0030",
+      "page": "112",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "You just enter some basic information, for example, the country, the size of the affected population, number of health facilities and things like that, and it will give you an estimate of how much each of the activities cost and how much all of the activities cost together​​",
+      "ne": "तपाईंले देश, प्रभावित जनसङ्ख्याको सङ्ख्या, स्वास्थ्य संस्थाहरूको सङ्ख्या र यस्तै केही आधारभूत जानकारी मात्र प्रविष्ट गरेपछि उपकरणले प्रत्येक गतिविधिको लागत र सबै गतिविधिको कुल लागतको अनुमान दिन्छ।",
+      "bt": "After you enter only some basic information such as the country, the number of people in the affected population, the number of health facilities and similar information, the tool provides an estimate of the cost of each activity and the total cost of all activities.",
+      "type": "general",
+      "terms": [
+        "T237"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0031",
+      "page": "112",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "It bases calculations on default values, which you can also change to improve accuracy.",
+      "ne": "यसले पूर्वनिर्धारित मानका आधारमा गणना गर्छ, र तपाईंले शुद्धता बढाउन ती मान परिवर्तन पनि गर्न सक्नुहुन्छ।",
+      "bt": "It calculates based on default values, and you can also change those values to increase accuracy.",
+      "type": "general",
+      "terms": [
+        "T356"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposes [Nepali wording recorded in terminology evidence] for default and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for default values; review pending."
+    },
+    {
+      "id": "SLD-13-0032",
+      "page": "112",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "For example, you can change default unit costs and select whether you plan to engage international staff or national staff for different roles, and adjust the estimates accordingly​",
+      "ne": "उदाहरणका लागि, तपाईंले पूर्वनिर्धारित प्रति एकाइ लागत परिवर्तन गर्न, विभिन्न भूमिकाका लागि अन्तर्राष्ट्रिय कर्मचारी वा राष्ट्रिय कर्मचारी संलग्न गराउने योजना छ भन्ने चयन गर्न र सोहीअनुसार अनुमानहरू समायोजन गर्न सक्नुहुन्छ।",
+      "bt": "For example, you can change the default cost per unit, select whether you plan to involve international staff or national staff for different roles, and adjust the estimates accordingly.",
+      "type": "general",
+      "terms": [
+        "T356"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Applies the proposed rendering of default to unit costs; staffing alternatives and the corresponding adjustment of estimates are retained."
+    },
+    {
+      "id": "SLD-13-0033",
+      "page": "113",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "Costing Tool",
+      "ne": "लागत अनुमान उपकरण",
+      "bt": "Cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T351"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The standalone recurring title Costing Tool is absent from the glossary; proposed wording retains the wording of T020 without adding MSP."
+    },
+    {
+      "id": "SLD-13-0034",
+      "page": "113",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "Here you can see what the costing tool looks like.",
+      "ne": "यहाँ तपाईंले लागत अनुमान उपकरण कस्तो देखिन्छ भनेर हेर्न सक्नुहुन्छ।",
+      "bt": "Here you can see what the cost estimation tool looks like.",
+      "type": "general",
+      "terms": [
+        "T351"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed standalone wording for Costing Tool."
+    },
+    {
+      "id": "SLD-13-0035",
+      "page": "113",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "As you can see here you would enter basic information on the country, the target population as well as demographic data.",
+      "ne": "यहाँ देखिएअनुसार, तपाईंले देश र लक्षित जनसङ्ख्यासम्बन्धी आधारभूत जानकारीका साथै जनसाङ्ख्यिक तथ्याङ्क प्रविष्ट गर्नुहुन्छ।",
+      "bt": "As shown here, you enter demographic data along with basic information about the country and target population.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Reclassified as general entry guidance rather than a check item."
+    },
+    {
+      "id": "SLD-13-0036",
+      "page": "113",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "You are also able to adjust the default prices for office costs and supplies, trainings/meetings etc. And you may also add costs that are not included in the tool to improve accuracy.",
+      "ne": "तपाईंले कार्यालय खर्च र सामग्री, तालिम/बैठक आदिका लागि पूर्वनिर्धारित मूल्यहरू पनि समायोजन गर्न सक्नुहुन्छ। साथै, शुद्धता बढाउन उपकरणमा समावेश नभएका खर्चहरू पनि थप्न सक्नुहुन्छ।",
+      "bt": "You can also adjust the preset values for office expenses and materials, training/meetings, etc. In addition, you can add expenses not included in the tool to increase accuracy.",
+      "type": "general",
+      "terms": [
+        "T356"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0037",
+      "page": "113",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "Where to find the costing tool",
+      "ne": "लागत अनुमान उपकरण कहाँ पाइन्छ",
+      "bt": "Where to find the cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T351"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed standalone wording for Costing Tool."
+    },
+    {
+      "id": "SLD-13-0038",
+      "page": "113",
+      "loc": "slide-notes",
+      "section": "Additional MSP Tools",
+      "en": "https://www.mhpssmsp.org/en/lesson/download-costing-tool#page-1",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the source URL unchanged: https://www.mhpssmsp.org/en/lesson/download-costing-tool#page-1"
+    },
+    {
+      "id": "SLD-13-0039",
+      "page": "114",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "Budget Tables Activity",
+      "ne": "बजेट तालिकाहरूसम्बन्धी गतिविधि",
+      "bt": "Activity related to budget tables",
+      "type": "activity",
+      "terms": [
+        "T340"
+      ],
+      "flags": [],
+      "note": "The source refers to plural budget tables; the back-translation renders a singular budget table. The revision makes the plurality explicit."
+    },
+    {
+      "id": "SLD-13-0040",
+      "page": "115",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "M&E Indicator bank",
+      "ne": "अनुगमन तथा मूल्याङ्कन (M&E) का सूचकहरूको भण्डार",
+      "bt": "Repository of monitoring and evaluation (M&E) indicators",
+      "type": "general",
+      "terms": [
+        "T394"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Standalone M&E and Indicator Bank entries are absent. The M&E wording reuses the supplied activity 2.2 candidate; Indicator Bank wording is proposed."
+    },
+    {
+      "id": "SLD-13-0041",
+      "page": "115",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Bank of indicators appropriate to each MSP activity",
+      "ne": "प्रत्येक MSP गतिविधिका लागि उपयुक्त सूचकहरूको भण्डार",
+      "bt": "Repository of suitable indicators for each MSP activity",
+      "type": "general",
+      "terms": [
+        "T091"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for the recurring Indicator Bank concept."
+    },
+    {
+      "id": "SLD-13-0042",
+      "page": "115",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Designed to support with:",
+      "ne": "निम्न कार्यमा सहयोग गर्न तयार गरिएको:",
+      "bt": "Prepared to assist with the following tasks:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0043",
+      "page": "115",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Writing funding proposals",
+      "ne": "वित्तपोषणका लागि प्रस्ताव लेख्ने",
+      "bt": "Writing proposals for funding",
+      "type": "general",
+      "terms": [
+        "T231"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0044",
+      "page": "115",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Strengthening M&E",
+      "ne": "अनुगमन तथा मूल्याङ्कन (M&E) सुदृढ गर्ने",
+      "bt": "Strengthening monitoring and evaluation (M&E)",
+      "type": "general",
+      "terms": [
+        "T394"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "A standalone M&E entry is absent; wording reuses the supplied activity 2.2 candidate."
+    },
+    {
+      "id": "SLD-13-0045",
+      "page": "115",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Reviewing MHPSS plans and proposals (e.g. for donors)",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) सम्बन्धी योजना र प्रस्तावहरूको समीक्षा गर्ने (उदाहरणका लागि, दातृ निकायका लागि)",
+      "bt": "Reviewing plans and proposals related to mental health and psychosocial support (MHPSS) (for example, for donor agencies)",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T023"
+      ],
+      "flags": [],
+      "note": "The MHPSS expansion reuses the cited unreviewed candidate T001."
+    },
+    {
+      "id": "SLD-13-0046",
+      "page": "115",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Agreeing common MHPSS indicators for use by different actors across the humanitarian response",
+      "ne": "समग्र मानवीय प्रतिकार्यमा विभिन्न सम्बद्ध पक्षहरूले प्रयोग गर्ने साझा MHPSS सूचकहरूमा सहमति कायम गर्ने",
+      "bt": "Reaching agreement on common MHPSS indicators used by various stakeholders across the overall humanitarian response",
+      "type": "general",
+      "terms": [
+        "T003",
+        "T114",
+        "T333"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0047",
+      "page": "116",
+      "loc": "slide-title",
+      "section": "Additional MSP Tools",
+      "en": "Review: Module Learning Objectives",
+      "ne": "पुनरावलोकन: मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Review: Learning objectives of the module",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0048",
+      "page": "116",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "Understand the purpose and functioning of:",
+      "ne": "निम्नको उद्देश्य र कार्यप्रणाली बुझ्नुहोस्।",
+      "bt": "Understand the purpose and functioning of the following.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0049",
+      "page": "116",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "MSP Costing tool",
+      "ne": "MSP लागत अनुमान उपकरण",
+      "bt": "MSP cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0050",
+      "page": "116",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "MSP Gap Analysis tool",
+      "ne": "MSP कमी विश्लेषण उपकरण",
+      "bt": "MSP gap analysis tool",
+      "type": "general",
+      "terms": [
+        "T038"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-13-0051",
+      "page": "116",
+      "loc": "slide-body",
+      "section": "Additional MSP Tools",
+      "en": "MSP M&E Indicator Bank",
+      "ne": "MSP को अनुगमन तथा मूल्याङ्कन (M&E) का सूचकहरूको भण्डार",
+      "bt": "Repository of MSP monitoring and evaluation (M&E) indicators",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T394"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed standalone M&E and Indicator Bank wording; no frozen glossary entry is changed."
+    }
+  ]
+}

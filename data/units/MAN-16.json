@@ -1,0 +1,773 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-16",
+  "unit_title": "Orient frontline workers and community leaders in basic psychosocial support skills",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "52-54",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:05:12+05:45",
+  "coverage": {
+    "source_words": 1328,
+    "row_words": 1328,
+    "skipped": [
+      "PDF p.52: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 47",
+      "PDF p.53: running footer/page number removed: 48 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.54: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 49"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-16-0001",
+      "page": "52",
+      "loc": "heading",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "ne": "3.2 अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने",
+      "bt": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "type": "activity",
+      "terms": [
+        "T099",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the exact activity label from the cited, unreviewed T099 candidate."
+    },
+    {
+      "id": "MAN-16-0002",
+      "page": "52",
+      "loc": "para",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Frontline humanitarian staff, volunteers and key community members should be equipped with basic psychosocial support skills to support people in distress.",
+      "ne": "कष्टमा रहेका व्यक्तिहरूलाई सहयोग गर्न मानवीय कार्यमा संलग्न अग्रपंक्तिका कर्मचारी, स्वयंसेवक र समुदायका प्रमुख सदस्यलाई आधारभूत मनोसामाजिक सहयोग सीपले सुसज्जित बनाउनुपर्छ।",
+      "bt": "Frontline staff, volunteers and key community members involved in humanitarian work should be equipped with basic psychosocial support skills to help people in distress.",
+      "type": "general",
+      "terms": [
+        "T196",
+        "T284",
+        "T344",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Distress is expressed as ordinary suffering, not stress or a diagnosis. The support-skills wording reuses the cited, unreviewed T099 phrase; a standalone glossary entry is proposed."
+    },
+    {
+      "id": "MAN-16-0003",
+      "page": "52",
+      "loc": "para",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "It is recommended that frontline workers from all sectors and trusted community members deliver this form of support as part of their duties as they meet people in acute distress or with acute needs.",
+      "ne": "तीव्र कष्टमा रहेका वा तत्काल सम्बोधन गर्नुपर्ने आवश्यकता भएका व्यक्तिहरूसँग भेट हुँदा, सबै क्षेत्रका अग्रपंक्तिका कार्यकर्ता र समुदायका विश्वासिला सदस्यले आफ्नो जिम्मेवारीको अङ्गका रूपमा यस किसिमको सहयोग प्रदान गर्न सिफारिस गरिन्छ।",
+      "bt": "When encountering people in acute distress or with needs that must be addressed immediately, it is recommended that frontline workers from all sectors and trusted members of the community provide this kind of support as part of their responsibility.",
+      "type": "general",
+      "terms": [
+        "T013",
+        "T296",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Acute distress and acute needs are expressed as ordinary descriptions of suffering and urgent need, without introducing a diagnosis or clinical intervention."
+    },
+    {
+      "id": "MAN-16-0004",
+      "page": "52",
+      "loc": "para",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "This form of support is not a psychological intervention but rather a basic, humane and supportive response to suffering and an entry point to further support and referral. Additional interventions will be required to address impairment due to psychological distress or mental health conditions (see MSP activities 3.10, 3.11 and 3.12).",
+      "ne": "यस किसिमको सहयोग मनोवैज्ञानिक हस्तक्षेप होइन, बरु पीडाप्रति गरिने आधारभूत, मानवीय र सहयोगी प्रतिकार्य तथा थप सहयोग र सम्बन्धित सेवामा पठाउने कार्यतर्फको प्रवेशबिन्दु हो। मानसिक व्यथा वा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूका कारण कार्यक्षमतामा आउने ह्रासलाई सम्बोधन गर्न थप हस्तक्षेपहरू आवश्यक पर्नेछन् (MSP गतिविधिहरू 3.10, 3.11 र 3.12 हेर्नुहोस्)।",
+      "bt": "This kind of support is not a psychological intervention, but rather a basic, humane and supportive response to suffering and an entry point toward further support and referral to related services. Additional interventions will be needed to address the decline in functioning caused by mental distress or mental health conditions (see MSP activities 3.10, 3.11 and 3.12).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T163",
+        "T172",
+        "T174",
+        "T272",
+        "T461",
+        "T478",
+        "T492"
+      ],
+      "flags": [],
+      "note": "The distinction between basic support and psychological intervention, and the requirement for additional interventions to address impairment, are retained."
+    },
+    {
+      "id": "MAN-16-0005",
+      "page": "52",
+      "loc": "para",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Basic psychosocial support skills involve listening carefully, assessing basic needs, promoting social support, protecting people from further harm and connecting them with relevant services and resources.",
+      "ne": "आधारभूत मनोसामाजिक सहयोग सीपमा ध्यानपूर्वक सुन्ने, आधारभूत आवश्यकताको लेखाजोखा गर्ने, सामाजिक सहयोग प्रवर्द्धन गर्ने, व्यक्तिहरूलाई थप हानिबाट जोगाउने र उनीहरूलाई सान्दर्भिक सेवा तथा स्रोतसँग जोड्ने कार्य समावेश हुन्छन्।",
+      "bt": "Basic psychosocial support skills include listening attentively, assessing basic needs, promoting social support, protecting people from further harm and connecting them with relevant services and resources.",
+      "type": "safety",
+      "terms": [
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Drafted as general safety guidance; review is pending. The support-skills phrase is drawn from cited, unreviewed T099, with a standalone glossary entry proposed."
+    },
+    {
+      "id": "MAN-16-0006",
+      "page": "52",
+      "loc": "para",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "This support should be provided in relevant settings (e.g. health clinics, protection services, the general community) for different segments of the population, and should be one part of a larger MHPSS response across multiple sectors implemented alongside comprehensive MHPSS services and activities.",
+      "ne": "यो सहयोग जनसङ्ख्याका विभिन्न समूहका लागि सान्दर्भिक परिवेशमा (जस्तै, स्वास्थ्य क्लिनिक, संरक्षण सेवा, सामान्य समुदायमा) प्रदान गर्नुपर्छ र यो व्यापक मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) सेवा र गतिविधिसँगै कार्यान्वयन गरिने, धेरै क्षेत्र समेट्ने बृहत् MHPSS प्रतिकार्यको एउटा अङ्ग हुनुपर्छ।",
+      "bt": "This support should be provided in settings relevant to different population groups (for example, health clinics, protection services, in the general community), and it should be a part of a broad MHPSS response covering many sectors, implemented alongside wider mental health and psychosocial support (MHPSS) services and activities.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T029",
+        "T001",
+        "T161",
+        "T296",
+        "T344"
+      ],
+      "flags": [],
+      "note": "The MHPSS expansion reuses the cited, unreviewed T001 candidate. The settings, population groups and relationship to comprehensive multisectoral services are retained."
+    },
+    {
+      "id": "MAN-16-0007",
+      "page": "52",
+      "loc": "para",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Organizations should coordinate and collaborate to organize orientations in basic psychosocial support skills.",
+      "ne": "संस्थाहरूले आधारभूत मनोसामाजिक सहयोग सीपसम्बन्धी अभिमुखीकरण आयोजना गर्न समन्वय र सहकार्य गर्नुपर्छ।",
+      "bt": "Organizations should coordinate and collaborate to organize orientations on basic psychosocial support skills.",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring support-skills phrase follows cited, unreviewed T099; the proposed standalone entry would cover its use outside the activity label."
+    },
+    {
+      "id": "MAN-16-0008",
+      "page": "52",
+      "loc": "heading",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-16-0009",
+      "page": "52",
+      "loc": "heading",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Orient frontline workers and community leaders in basic psychosocial support skills",
+      "ne": "अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने",
+      "bt": "Orient frontline workers and community leaders in basic psychosocial support skills",
+      "type": "activity",
+      "terms": [
+        "T099",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Retains the exact cited, unreviewed activity-label candidate without adding a code absent from this row."
+    },
+    {
+      "id": "MAN-16-0010",
+      "page": "52",
+      "loc": "heading",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key tasks",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-16-0011",
+      "page": "52",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Identify relevant settings and target groups, including frontline workers in the humanitarian response and key community leaders, to whom people may turn for support (e.g. frontline workers working at points of entry and reception facilities; guards; health workers; ambulance drivers; nutrition and food distribution workers; WASH workers; camp management and shelter workers; teachers; youth and women’s leaders; religious leaders; community leaders; translators/cultural mediators and local authorities)in coordination with relevant actors/sectors.",
+      "ne": "सम्बन्धित पक्षहरू/क्षेत्रहरूसँग समन्वय गरी, मानिसहरूले सहयोगका लागि सम्पर्क गर्न सक्ने मानवीय प्रतिकार्यमा संलग्न अग्रपंक्तिका कार्यकर्ता र प्रमुख सामुदायिक अगुवा लगायतका सान्दर्भिक परिवेश र लक्षित समूह पहिचान गर्नुहोस् (जस्तै प्रवेशस्थलहरू र आगमनका बेला मानिसहरूलाई ग्रहण गर्ने सुविधास्थलहरूमा काम गर्ने अग्रपंक्तिका कार्यकर्ता; पहरेदारहरू; स्वास्थ्यकर्मीहरू; एम्बुलेन्स चालकहरू; पोषण र खाद्य वितरणमा काम गर्ने कार्यकर्ताहरू; खानेपानी, सरसफाइ तथा स्वच्छता (WASH) सम्बन्धी कार्यकर्ताहरू; शिविर व्यवस्थापन र आश्रयसम्बन्धी कार्यकर्ताहरू; शिक्षकहरू; युवा र महिलाका अगुवाहरू; धार्मिक अगुवा; सामुदायिक अगुवा; अनुवादकहरू/सांस्कृतिक मध्यस्थकर्ताहरू र स्थानीय अधिकारीहरू)।",
+      "bt": "In coordination with relevant parties/sectors, identify relevant settings and target groups, including frontline workers involved in the humanitarian response and key community leaders whom people can contact for support (for example, frontline workers working at entry points and facilities that receive people upon arrival; guards; health workers; ambulance drivers; workers working in nutrition and food distribution; workers concerned with drinking water, sanitation and hygiene (WASH); workers concerned with camp management and shelter; teachers; youth and women leaders; religious leaders; community leaders; translators/cultural mediators and local officials).",
+      "type": "safety",
+      "terms": [
+        "T003",
+        "T013",
+        "T027",
+        "T030",
+        "T069",
+        "T174",
+        "T186",
+        "T296",
+        "T300",
+        "T349",
+        "T415",
+        "T435"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The institutional meaning of 'reception facilities' is unspecified, so the draft describes their reception function without assigning an institutional type; 'guards' remains limited to people performing guard duties."
+    },
+    {
+      "id": "MAN-16-0012",
+      "page": "53",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Develop/select, adapt and translate orientation materials on basic psychosocial support skills for selected target groups (e.g. psychological first aid (PFA), PFA for children, LIVES for GBV responders, GBV Pocket Guide for supporting survivors of GBV when a GBV actor is not available; see key consideration 21 and key consideration 16).",
+      "ne": "छानिएका लक्षित समूहका लागि आधारभूत मनोसामाजिक सहयोग सीपसम्बन्धी अभिमुखीकरण सामग्री विकास/छनोट गर्नुहोस्, अनुकूलन गर्नुहोस् र अनुवाद गर्नुहोस् (जस्तै [psychological first aid] (PFA), [PFA for children], GBV प्रतिकार्यकर्ताहरूका लागि [LIVES], GBV सम्बन्धी काम गर्ने कुनै पक्ष उपलब्ध नभएको अवस्थामा लैङ्गिक हिंसाबाट प्रभावित व्यक्तिहरूलाई सहयोग गर्नका लागि [GBV Pocket Guide]; मुख्य विचारणीय पक्ष 21 र मुख्य विचारणीय पक्ष 16 हेर्नुहोस्)।",
+      "bt": "Develop/select, adapt and translate orientation materials on basic psychosocial support skills for the selected target groups (for example, [psychological first aid] (PFA), [PFA for children], [LIVES] for GBV responders, [GBV Pocket Guide] for supporting people affected by gender-based violence when no party working on GBV is available; see key consideration 21 and key consideration 16).",
+      "type": "safety",
+      "terms": [
+        "T014",
+        "T140",
+        "T174",
+        "T184",
+        "T196",
+        "T233",
+        "T252",
+        "T284",
+        "T410",
+        "T435",
+        "T454"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen GBV survivor label denotes a person affected by GBV and can include indirect effects, whereas 'survivors of GBV' denotes people who directly experienced and survived GBV; the source scope remains direct survivors only. bt-divergence: the frozen label for survivors of GBV means people affected by gender-based violence and can include indirectly affected people; the source refers to people who directly experienced and survived GBV. The frozen form is retained."
+    },
+    {
+      "id": "MAN-16-0013",
+      "page": "53",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Develop a list of available services and supports to provide to staff and volunteers oriented in basic psychosocial support.",
+      "ne": "आधारभूत मनोसामाजिक सहयोगसम्बन्धी अभिमुखीकरण प्राप्त कर्मचारी र स्वयंसेवकलाई उपलब्ध गराउन, उपलब्ध सेवा र सहयोगको सूची तयार गर्नुहोस्।",
+      "bt": "Prepare a list of available services and support to make available to staff and volunteers who have received orientation on basic psychosocial support.",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The support wording reuses a phrase within cited, unreviewed T099. A standalone basic psychosocial support entry is proposed."
+    },
+    {
+      "id": "MAN-16-0014",
+      "page": "53",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Implement orientations on basic psychosocial support skills, supported by staff with MHPSS technical expertise.",
+      "ne": "MHPSS सम्बन्धी प्राविधिक विशेषज्ञता भएका कर्मचारीको सहयोगमा आधारभूत मनोसामाजिक सहयोग सीपसम्बन्धी अभिमुखीकरण सञ्चालन गर्नुहोस्।",
+      "bt": "Conduct orientations on basic psychosocial support skills with the support of staff who have technical expertise in MHPSS.",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains technical staff support for delivering orientations. The support-skills phrase follows cited, unreviewed T099 and is proposed as a standalone glossary entry."
+    },
+    {
+      "id": "MAN-16-0015",
+      "page": "53",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूअनुसार)",
+      "bt": "Additional tasks given for consideration (according to the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-16-0016",
+      "page": "53",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Deliver refresher orientations and follow-up sessions to provide frontline staff and volunteers with an opportunity to improve their skills and provide coaching.",
+      "ne": "अग्रपंक्तिका कर्मचारी र स्वयंसेवकलाई आफ्ना सीप सुधार्ने अवसर दिन र सीप विकाससम्बन्धी मार्गदर्शन (coaching) प्रदान गर्न पुनर्ताजगी अभिमुखीकरण र अनुवर्ती सत्रहरू सञ्चालन गर्नुहोस्।",
+      "bt": "Conduct refresher orientations and follow-up sessions to give frontline staff and volunteers opportunities to improve their skills and to provide guidance on skill development (coaching).",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T424"
+      ],
+      "flags": [],
+      "note": "Coaching is retained in English alongside a functional Nepali rendering to distinguish it from the orientation and follow-up sessions."
+    },
+    {
+      "id": "MAN-16-0017",
+      "page": "53",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Build the capacity of local organizations and agencies to orient their own staff on basic psychosocial support.",
+      "ne": "स्थानीय संस्था र निकायले आफ्नै कर्मचारीलाई आधारभूत मनोसामाजिक सहयोगसम्बन्धी अभिमुखीकरण दिन सक्ने गरी उनीहरूको क्षमता विकास गर्नुहोस्।",
+      "bt": "Develop the capacity of local organizations and bodies so that they can give their own staff orientation on basic psychosocial support.",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserves local organizations and agencies as the capacity-building recipients and their own staff as orientation recipients. The support phrase comes from cited, unreviewed T099; a standalone entry is proposed."
+    },
+    {
+      "id": "MAN-16-0018",
+      "page": "53",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Provide basic psychosocial support via hotlines (e.g. suicide prevention, GBV support) operated by well-trained and supervised staff.",
+      "ne": "राम्रोसँग तालिम प्राप्त तथा सुपरिवेक्षणमा रहेका कर्मचारीले सञ्चालन गर्ने हटलाइनमार्फत (जस्तै, आत्महत्या रोकथाम, लैङ्गिक हिंसा (GBV) सम्बन्धी सहयोग) आधारभूत मनोसामाजिक सहयोग प्रदान गर्नुहोस्।",
+      "bt": "Provide basic psychosocial support through hotlines operated by well-trained and supervised staff (for example, suicide prevention, support related to gender-based violence (GBV)).",
+      "type": "safety",
+      "terms": [
+        "T140",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Drafted as general safety guidance on hotline provision, not clinical treatment wording; safety review is pending. The basic psychosocial support phrase is reused from cited, unreviewed T099 and proposed for a standalone entry."
+    },
+    {
+      "id": "MAN-16-0019",
+      "page": "53",
+      "loc": "heading",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": "An ordinary resource heading, not a clinical or validated-instrument item."
+    },
+    {
+      "id": "MAN-16-0020",
+      "page": "53",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणमा पहुँच प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to gain access to relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": "Uses the exact supplied T019 phrase within an ordinary navigation instruction."
+    },
+    {
+      "id": "MAN-16-0021",
+      "page": "53",
+      "loc": "heading",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Key consideration 21: Guidance on psychosocial support skills for specific groups or types of emergency",
+      "ne": "मुख्य विचारणीय पक्ष 21: विशिष्ट समूह वा आपत्कालका प्रकारका लागि मनोसामाजिक सहयोग सीपसम्बन्धी मार्गदर्शन",
+      "bt": "Key consideration 21: Guidance on psychosocial support skills for specific groups or types of emergencies",
+      "type": "general",
+      "terms": [
+        "T252",
+        "T284",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The support-skills wording is drawn from cited, unreviewed T099 without adding 'basic', which is absent from this heading. A standalone entry for psychosocial support skills is proposed."
+    },
+    {
+      "id": "MAN-16-0022",
+      "page": "53",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "“Basic psychosocial support skills” are also sometimes referred to as “basic psychosocial competencies”, “basic helping skills”, “foundational helping skills” or “core clinical skills”. The actions in MSP activity 3.2 relate to the training of frontline workers and community leaders on basic psychosocial support skills, regardless of sector or setting. Several relevant models and training packages have been developed to build these skills, with some focusing on specific humanitarian contexts and target populations:",
+      "ne": "“आधारभूत मनोसामाजिक सहयोग सीप” लाई कहिलेकाहीँ “आधारभूत मनोसामाजिक सक्षमता”, “सहयोग गर्ने आधारभूत सीप”, “सहयोगका लागि आधार बन्ने सीप” वा “मुख्य चिकित्सकीय सीप” पनि भनिन्छ। MSP गतिविधि 3.2 अन्तर्गतका कार्यहरू जुनसुकै क्षेत्र वा परिवेशका अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपको तालिम दिनेसँग सम्बन्धित छन्। यी सीप विकास गर्न विभिन्न सान्दर्भिक ढाँचाहरू र तालिम प्याकेजहरू विकास गरिएका छन्, जसमध्ये केहीले विशिष्ट मानवीय सन्दर्भ र लक्षित जनसमूहमा ध्यान केन्द्रित गर्छन्:",
+      "bt": "“Basic psychosocial support skills” are sometimes also called “basic psychosocial competencies,” “basic skills for helping,” “skills that form a basis for support” or “core therapeutic skills.” The tasks under MSP activity 3.2 relate to training frontline workers and community leaders from any sector or setting in basic psychosocial support skills. Various relevant frameworks and training packages have been developed to develop these skills, some of which focus on specific humanitarian contexts and target populations:",
+      "type": "safety",
+      "terms": [
+        "T013",
+        "T069",
+        "T091",
+        "T163",
+        "T196",
+        "T209",
+        "T284",
+        "T296",
+        "T410",
+        "T454"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The four alternative skill labels are drafted as general terminology, not as named therapies or validated clinical equivalents. The original renders foundational helping skills as skills for preparing a foundation for helping, introducing a preparatory function not stated in the source. The repair describes skills that form a foundation for helping. “Core clinical skills” becomes “core therapeutic skills,” narrowing the label from clinical skills generally to treatment-related skills."
+    },
+    {
+      "id": "MAN-16-0023",
+      "page": "53",
+      "loc": "bullet",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "▶ Psychological first aid: e.g. World Health Organization, War Trauma Foundation and World Vision International (2011). Psychological First Aid Guide for Field Workers, Facilitator’s Manual for orienting field workers. This covers general PFA principles that are generally applicable for people in acute distress after exposure to a crisis event in different settings and populations.",
+      "ne": "▶ [Psychological first aid]: जस्तै विश्व स्वास्थ्य सङ्गठन (World Health Organization), War Trauma Foundation र World Vision International (2011)। [Psychological First Aid Guide for Field Workers], [Facilitator’s Manual for orienting field workers]। यसमा PFA का सामान्य सिद्धान्तहरू समेटिएका छन्, जुन विभिन्न परिवेश र जनसमूहमा सङ्कटको घटनाको सामना गरेपछि तीव्र व्यथा अनुभव गरिरहेका मानिसहरूका लागि सामान्यतया लागू हुन्छन्।",
+      "bt": "▶ [Psychological first aid]: for example, World Health Organization (World Health Organization), War Trauma Foundation and World Vision International (2011). [Psychological First Aid Guide for Field Workers], [Facilitator’s Manual for orienting field workers]. This includes general principles of PFA, which generally apply to people experiencing acute distress after facing a crisis event in various settings and populations.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T052",
+        "T461"
+      ],
+      "flags": [],
+      "note": "The intervention and reference titles remain exact English, while the explanation retains acute distress following exposure to a crisis event and general applicability across settings and populations."
+    },
+    {
+      "id": "MAN-16-0024",
+      "page": "53",
+      "loc": "bullet",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "▶ Psychological first aid specifically for children: e.g. Save the Children (2013). PFA Training Manual for Child Practitioners, and 2017 online PFA for Children course. These resources have more detailed information for supporting children in acute distress after exposure to a crisis event.",
+      "ne": "▶ विशेष गरी बालबालिकाका लागि [Psychological first aid]: जस्तै Save the Children (2013)। [PFA Training Manual for Child Practitioners], र 2017 को अनलाइन [PFA for Children] पाठ्यक्रम। यी स्रोतसामग्रीमा सङ्कटको घटनाको सामना गरेपछि तीव्र व्यथा अनुभव गरिरहेका बालबालिकालाई सहयोग गर्नेबारे थप विस्तृत जानकारी छ।",
+      "bt": "▶ [Psychological first aid] especially for children: for example, Save the Children (2013). [PFA Training Manual for Child Practitioners], and the 2017 online [PFA for Children] course. These resource materials contain more detailed information about supporting children who are experiencing acute distress after facing a crisis event.",
+      "type": "safety",
+      "terms": [
+        "T416",
+        "T461"
+      ],
+      "flags": [],
+      "note": "The child-specific scope, publication years and reference names are retained without adding an explanation of the named intervention."
+    },
+    {
+      "id": "MAN-16-0025",
+      "page": "53",
+      "loc": "bullet",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "▶ GBV responders: e.g. WHO (2014). Health care for women subjected to intimate partner violence or sexual violence: A clinical handbook. This resource provides health care providers with information about first-line support for survivors of intimate partner violence and sexual violence according to the principles of LIVES (Listen, Inquire about needs and concerns, Validate, Enhance safety, and Support). GBV AoR (2018) GBV Pocket Guide-How to support survivor of gender based violence when a GBV actor is not available in your area, provides additional guidance for non-GBV responders on supporting survivors of GBV.",
+      "ne": "▶ GBV प्रतिकार्यकर्ताहरू: जस्तै WHO (2014)। [Health care for women subjected to intimate partner violence or sexual violence: A clinical handbook]। यस स्रोतसामग्रीले स्वास्थ्य सेवा प्रदायकलाई [LIVES] (सुन्ने, आवश्यकता र चिन्ताबारे सोध्ने, अनुभवलाई मान्यता दिने, सुरक्षा बढाउने र सहयोग गर्ने) का सिद्धान्तअनुसार घनिष्ठ साथीद्वारा हुने हिंसा र यौन हिंसाबाट प्रभावित व्यक्तिहरूलाई प्रारम्भिक सहयोग दिने सम्बन्धमा जानकारी दिन्छ। GBV AoR (2018) को [GBV Pocket Guide-How to support survivor of gender based violence when a GBV actor is not available in your area] ले GBV का प्रतिकार्यकर्ता बाहेकका प्रतिकार्यकर्ताहरूलाई लैङ्गिक हिंसाबाट प्रभावित व्यक्तिहरूलाई सहयोग गर्ने सम्बन्धमा थप मार्गदर्शन दिन्छ।",
+      "bt": "▶ GBV responders: for example, WHO (2014). [Health care for women subjected to intimate partner violence or sexual violence: A clinical handbook]. This resource material informs health service providers about giving initial support to people affected by intimate partner violence and sexual violence according to the principles of [LIVES] (listening, asking about needs and concerns, validating the experience, increasing safety and providing support). GBV AoR (2018)’s [GBV Pocket Guide-How to support survivor of gender based violence when a GBV actor is not available in your area] gives further guidance to responders other than GBV responders on supporting people affected by gender-based violence.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T055",
+        "T140",
+        "T174",
+        "T184",
+        "T233",
+        "T236",
+        "T299",
+        "T317",
+        "T416",
+        "T462"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor labels mean affected persons and may include people affected indirectly, whereas the source refers to people who directly experienced and survived the specified violence; the LIVES expansion is translated because the source supplies it. The original restricts non-GBV responders to workers responding in sectors other than GBV; the source distinguishes responders without imposing that sector-based restriction. The repair removes it. bt-divergence remains: the frozen survivor labels mean affected persons and can include indirect effects, whereas the source refers to people who directly experienced and survived the specified violence. “Survivors” of intimate partner violence, sexual violence and GBV becomes “people affected by” those forms of violence, broadening the scope to potentially include people indirectly affected rather than only those who directly experienced the violence."
+    },
+    {
+      "id": "MAN-16-0026",
+      "page": "53",
+      "loc": "bullet",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "▶ Psychosocial support skills in infectious disease outbreaks: e.g. WHO, CBM Global, World Vision International, UNICEF (2014) Psychological First Aid during Ebola Virus Disease Outbreaks and IASC (2020) Basic Psychosocial Skills – A Guide for COVID-19 Responders. The Guide for COVID-19 responders can also be adapted to other healthcare settings where people may experience increased distress.41",
+      "ne": "▶ सरुवा रोगको प्रकोपका बेला मनोसामाजिक सहयोग सीप: जस्तै WHO, CBM Global, World Vision International, UNICEF (2014) को [Psychological First Aid during Ebola Virus Disease Outbreaks] र IASC (2020) को [Basic Psychosocial Skills – A Guide for COVID-19 Responders]। COVID-19 प्रतिकार्यकर्ताहरूका लागि उक्त मार्गदर्शिकालाई मानिसहरूले बढी व्यथा अनुभव गर्न सक्ने स्वास्थ्य सेवाका अन्य परिवेशमा पनि अनुकूलन गर्न सकिन्छ।41",
+      "bt": "▶ Psychosocial support skills during infectious disease outbreaks: for example, [Psychological First Aid during Ebola Virus Disease Outbreaks] from WHO, CBM Global, World Vision International, UNICEF (2014) and [Basic Psychosocial Skills – A Guide for COVID-19 Responders] from IASC (2020). That guide for COVID-19 responders can also be adapted to other health care settings where people may experience greater distress.41",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T144",
+        "T174",
+        "T284",
+        "T383",
+        "T410",
+        "T461"
+      ],
+      "flags": [],
+      "note": "The possibility of adapting the guide to other healthcare settings where distress may increase is retained, along with footnote marker 41."
+    },
+    {
+      "id": "MAN-16-0027",
+      "page": "53",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "See the relevant Guidelines, Standards and Tools for a more comprehensive list of materials, as well as the recommended training topics on basic psychosocial support skills for frontline workers and community leaders, available on the MHPSS MSP web platform .",
+      "ne": "सामग्रीको थप विस्तृत सूचीका साथै अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवाका लागि आधारभूत मनोसामाजिक सहयोग सीपसम्बन्धी सिफारिस गरिएका तालिमका विषयहरूका लागि MHPSS MSP वेब प्लेटफर्ममा उपलब्ध सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण हेर्नुहोस्।",
+      "bt": "For a more detailed list of materials, as well as recommended training topics on basic psychosocial support skills for frontline workers and community leaders, see the relevant guidelines, standards and tools available on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T013",
+        "T069",
+        "T088",
+        "T163",
+        "T189",
+        "T019",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Ordinary navigation instruction translated. The wording for basic psychosocial support skills reuses the supplied, unreviewed activity 3.2 candidate. A standalone glossary entry is proposed without changing G-0.2."
+    },
+    {
+      "id": "MAN-16-0028",
+      "page": "53",
+      "loc": "footnote",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "41 For a brief description of basic psychosocial skills (“core clinical skill”) in the context of COVID see WHO (2021). COVID-19 Clinical management: living guidance, Chapter 17: Management of neurological and mental manifestations associated with COVID-19.",
+      "ne": "41 COVID को सन्दर्भमा आधारभूत मनोसामाजिक सीप (“मुख्य चिकित्सकीय सीप”) को संक्षिप्त विवरणका लागि WHO (2021) को [COVID-19 Clinical management: living guidance], [Chapter 17: Management of neurological and mental manifestations associated with COVID-19] हेर्नुहोस्।",
+      "bt": "41 For a brief description of basic psychosocial skills (“core clinical skills”) in the context of COVID, see WHO (2021), [COVID-19 Clinical management: living guidance], [Chapter 17: Management of neurological and mental manifestations associated with COVID-19].",
+      "type": "safety",
+      "terms": [
+        "T410"
+      ],
+      "flags": [],
+      "note": "The explanatory skill terminology is drafted in Nepali, while the cited publication and chapter titles remain exact English."
+    },
+    {
+      "id": "MAN-16-0029",
+      "page": "54",
+      "loc": "heading",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Key consideration 22: Training for protection actors with specific roles",
+      "ne": "मुख्य विचारणीय पक्ष 22: विशिष्ट भूमिका भएका संरक्षण क्षेत्रमा कार्यरत पक्षहरूका लागि तालिम",
+      "bt": "Key consideration 22: Training for actors working in the protection sector who have specific roles",
+      "type": "general",
+      "terms": [
+        "T168",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Nonclinical heading translated. A recurring heading label, Key consideration, is absent from the supplied glossary; a candidate is proposed."
+    },
+    {
+      "id": "MAN-16-0030",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "In addition to basic psychosocial support skills (see MSP activity 3.2), some protection actors may require more specific training and knowledge in MHPSS. See the recommended MHPSS training topics for protection caseworkers, available on the MHPSS MSP web platform.",
+      "ne": "आधारभूत मनोसामाजिक सहयोग सीपका अतिरिक्त (MSP गतिविधि 3.2 हेर्नुहोस्), संरक्षण क्षेत्रमा कार्यरत पक्षहरूमध्ये केहीलाई MHPSS सम्बन्धी थप विशिष्ट तालिम र ज्ञान आवश्यक पर्न सक्छ। MHPSS MSP वेब प्लेटफर्ममा उपलब्ध संरक्षणसम्बन्धी केस कार्यकर्ताका लागि सिफारिस गरिएका MHPSS तालिमका विषयहरू हेर्नुहोस्।",
+      "bt": "In addition to basic psychosocial support skills (see MSP activity 3.2), some actors working in the protection sector may need more specialized training and knowledge related to MHPSS. See the recommended MHPSS training topics for protection case workers available on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T168",
+        "T189",
+        "T088",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Training and navigation content translated. The wording for basic psychosocial support skills reuses the supplied, unreviewed activity 3.2 candidate; a standalone glossary entry is proposed. Protection caseworkers remains distinct from protection actors."
+    },
+    {
+      "id": "MAN-16-0031",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Some areas of protection may require more in-depth training. For example, workers interviewing survivors of torture and violence, monitoring and documenting protection and human rights violations, and conducting in-depth work with at-risk populations may require a deeper understanding of the effects of exposure to distressing events on memory and other aspects of cognitive function.",
+      "ne": "संरक्षणका केही क्षेत्रमा अझ गहन तालिम आवश्यक पर्न सक्छ। उदाहरणका लागि, यातना र हिंसाबाट प्रभावित व्यक्तिहरूसँग अन्तर्वार्ता लिने, संरक्षण र मानव अधिकारका उल्लङ्घनहरूको अनुगमन तथा अभिलेखीकरण गर्ने, र जोखिममा रहेका जनसमूहसँग गहन रूपमा काम गर्ने कार्यकर्ताहरूलाई व्यथित बनाउने घटनाहरूको सामना गर्दा स्मरणशक्ति र संज्ञानात्मक कार्यका अन्य पक्षहरूमा पर्ने प्रभावबारे अझ गहिरो बुझाइ आवश्यक पर्न सक्छ।",
+      "bt": "More intensive training may be needed in some areas of protection. For example, workers who interview people affected by torture and violence, monitor and document protection and human rights violations, and work intensively with at-risk populations may need a deeper understanding of the effects on memory and other aspects of cognitive functioning when facing distressing events.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T239",
+        "T271",
+        "T296",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor label means affected persons and can include indirect effects, whereas 'survivors of torture and violence' refers to people who directly experienced and survived those acts; both training needs remain possibilities rather than universal requirements. bt-divergence: the frozen survivor label means affected persons and can include people affected indirectly; the source refers to people who directly experienced and survived torture and violence. The frozen form is retained."
+    },
+    {
+      "id": "MAN-16-0032",
+      "page": "54",
+      "loc": "heading",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Key consideration 23: Providing basic psychosocial support in health care settings",
+      "ne": "मुख्य विचारणीय पक्ष 23: स्वास्थ्य सेवा प्रदान गरिने स्थानमा आधारभूत मनोसामाजिक सहयोग प्रदान गर्ने",
+      "bt": "Key consideration 23: Providing basic psychosocial support in locations where health services are provided",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T252",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Service-setting heading translated using basic psychosocial support wording already present in the supplied, unreviewed activity 3.2 candidate. Standalone entries for that wording and the recurring heading label are proposed."
+    },
+    {
+      "id": "MAN-16-0033",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Persons who experience serious physical health conditions or injuries in the context of humanitarian crises are likely to experience distress and are at higher risk of developing mental health conditions.",
+      "ne": "मानवीय सङ्कटहरूको सन्दर्भमा गम्भीर शारीरिक स्वास्थ्यसम्बन्धी अवस्था वा चोटपटक भोग्ने व्यक्तिहरूले व्यथा अनुभव गर्ने सम्भावना हुन्छ र उनीहरू मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू विकास हुने बढी जोखिममा रहेका हुन्छन्।",
+      "bt": "In the context of humanitarian crises, people who experience serious physical health conditions or injuries are likely to experience distress and are at greater risk of developing mental health conditions.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T378",
+        "T461",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The likelihood of distress and the comparatively higher risk of developing mental health conditions remain distinct claims, without adding a diagnosis or certainty."
+    },
+    {
+      "id": "MAN-16-0034",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "This includes persons and their families who may have life-threatening injuries or conditions (e.g. persons in acute care); people who have suffered injuries resulting in permanent disabilities or impairments (e.g. survivors of EO, people injured in conflict and disaster settings); and people in need of palliative care (see MSP activity 4.1).",
+      "ne": "यसमा ज्यान जोखिममा पार्ने चोटपटक वा स्वास्थ्य अवस्था हुन सक्ने व्यक्तिहरू र तिनका परिवार (जस्तै, तीव्र अवस्थाको उपचार तथा स्याहार पाइरहेका व्यक्तिहरू); स्थायी अपाङ्गता वा कार्यगत क्षति हुने गरी चोटपटक लागेका व्यक्तिहरू (जस्तै, EO बाट प्रभावित व्यक्तिहरू, द्वन्द्व र विपद्को परिवेशमा चोटपटक लागेका व्यक्तिहरू); र प्रशामक स्याहार आवश्यक पर्ने व्यक्तिहरू समावेश छन् (MSP गतिविधि 4.1 हेर्नुहोस्)।",
+      "bt": "This includes people who may have life-threatening injuries or health conditions and their families (for example, people receiving treatment and care for acute conditions); people who have sustained injuries resulting in permanent disability or functional loss (for example, people affected by EO, people injured in settings of conflict and disaster); and people who need palliative care (see MSP activity 4.1).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T091",
+        "T163",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen प्रभावित व्यक्तिहरू means affected persons and can include indirectly affected people, whereas survivors of EO denotes people who directly experienced and survived EO; EO remains unexpanded. bt-divergence: The frozen प्रभावित व्यक्तिहरू means affected persons and can include indirectly affected people, while survivors of EO refers to people who directly experienced and survived EO. The frozen form is retained; no other substantive difference identified."
+    },
+    {
+      "id": "MAN-16-0035",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Many sexual and reproductive health issues can lead to severe distress, including early and unwanted pregnancy; prolonged and complicated delivery; infant loss; miscarriage; abortion; infertility; diagnosis of STIs (e.g. HIV, syphilis, gonorrhoea, etc.); obstetric fistula and intimate partner violence (IPV) or sexual violence (see MSP activity 3.11; and WHO’s statement on providing person-centred and compassionate care and respectful maternity care42).",
+      "ne": "यौन तथा प्रजनन स्वास्थ्यसम्बन्धी धेरै समस्याले तीव्र व्यथा उत्पन्न गराउन सक्छन्। यस्ता समस्यामा चाँडै हुने तथा अनिच्छित गर्भधारण; लामो र जटिल प्रसव; शिशु गुमाउनु; [miscarriage]; [abortion]; [infertility]; STIs को निदान (जस्तै, [HIV], [syphilis], [gonorrhoea] आदि); [obstetric fistula] र घनिष्ठ साथीद्वारा हुने हिंसा (IPV) वा यौन हिंसा समावेश छन् (MSP गतिविधि 3.11; तथा व्यक्तिकेन्द्रित र करुणामय स्याहार र सम्मानजनक प्रसूति स्याहार प्रदान गर्नेबारे WHO को वक्तव्य42 हेर्नुहोस्)।",
+      "bt": "Many sexual and reproductive health problems can cause intense distress. Such problems include early and unwanted pregnancy; long and complicated labour; losing a baby; [miscarriage]; [abortion]; [infertility]; diagnosis of STIs (such as [HIV], [syphilis], [gonorrhoea], etc.); [obstetric fistula] and violence by an intimate partner (IPV) or sexual violence (see MSP Activity 3.11; and WHO's statement42 on providing person-centred and compassionate care and respectful maternity care).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T055",
+        "T091",
+        "T163",
+        "T280",
+        "T299",
+        "T461",
+        "T507",
+        "T508"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "prior-draft-changed",
+        "bt-divergence"
+      ],
+      "note": "Restored miscarriage and abortion to exact source English inside square brackets; other candidate wording is unchanged. The source does not define the timing or age intended by early pregnancy, so the draft retains a general timing expression. “Prolonged and complicated delivery” becomes “long and complicated labour,” shifting the clinical event from delivery to labour. “Infant loss” becomes “losing a baby,” which does not preserve the explicit restriction to an infant and can also encompass pregnancy loss."
+    },
+    {
+      "id": "MAN-16-0036",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Orienting health care providers (e.g. physicians, nurses, midwives, medical assistants, staff providing sexual and reproductive health (SRH) services, emergency care or palliative/end-of-life care) who work in relevant settings (e.g. hospitals, SRH services, rehabilitation facilities) in basic psychosocial support can have a significant impact on the well-being of persons in their care and their family members. The selection of workers and volunteers to orient will depend on the emergency context (e.g. specific needs, populations at risk, available time and resources).",
+      "ne": "सम्बन्धित परिवेशहरूमा (जस्तै, अस्पताल, SRH सेवा, पुनर्स्थापना केन्द्रहरू) काम गर्ने स्वास्थ्य सेवा प्रदायकहरूलाई (जस्तै, चिकित्सक, नर्स, प्रसूतिकर्मी, चिकित्सा सहायक, यौन तथा प्रजनन स्वास्थ्य (SRH) सेवा, आकस्मिक स्याहार वा प्रशामक/जीवनको अन्तिम अवस्थाको स्याहार प्रदान गर्ने कर्मचारी) आधारभूत मनोसामाजिक सहयोगसम्बन्धी अभिमुखीकरण दिँदा उनीहरूले स्याहार गरिरहेका व्यक्तिहरू र ती व्यक्तिका परिवारका सदस्यहरूको कल्याणमा उल्लेखनीय प्रभाव पर्न सक्छ। अभिमुखीकरण दिनका लागि कर्मचारी र स्वयंसेवकहरूको छनोट आपत्कालीन अवस्थाको सन्दर्भमा निर्भर हुनेछ (जस्तै, विशिष्ट आवश्यकताहरू, जोखिममा रहेका जनसमूहहरू, उपलब्ध समय र स्रोतसामग्री)।",
+      "bt": "Providing orientation on basic psychosocial support to health service providers working in relevant settings (for example, hospitals, SRH services, rehabilitation centres) (for example, doctors, nurses, midwives, medical assistants, staff providing sexual and reproductive health (SRH) services, emergency care or palliative/end-of-life care) can have a significant impact on the well-being of the people they are caring for and those people's family members. The selection of staff and volunteers to be given orientation will depend on the context of the emergency (for example, specific needs, populations at risk, available time and resources).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T195",
+        "T236",
+        "T328",
+        "T410",
+        "T416",
+        "T454",
+        "T500",
+        "T508"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen स्रोतसामग्री can suggest source materials, whereas resources in this selection context can also include personnel, funding, and other non-material inputs. bt-divergence: The frozen स्रोतसामग्री denotes source materials, narrowing resources, which here can also include personnel, funding and other non-material inputs. The frozen form is retained; no other substantive difference identified."
+    },
+    {
+      "id": "MAN-16-0037",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "Community health workers and volunteers can play an important role in providing basic psychosocial support as part of health-related awareness-raising and education activities (e.g. when helping to promote inclusion and address stigmatization towards people living with HIV/AIDS, obstetric fistula or infectious diseases; when providing SRH education to specific groups such as adolescents; when following up with persons and families who have experienced serious health-related conditions or the loss of family members).",
+      "ne": "समुदायका स्वास्थ्यकर्मी र स्वयंसेवकहरूले स्वास्थ्यसम्बन्धी सचेतना अभिवृद्धि तथा शिक्षा गतिविधिहरूको अङ्गका रूपमा आधारभूत मनोसामाजिक सहयोग प्रदान गर्न महत्त्वपूर्ण भूमिका खेल्न सक्छन् (जस्तै, [HIV/AIDS], [obstetric fistula] वा सरुवा रोग भएका व्यक्तिहरूको समावेशीकरण प्रवर्द्धन गर्न र उनीहरूलाई लाञ्छित गर्ने प्रक्रियालाई सम्बोधन गर्न सघाउँदा; किशोरकिशोरीजस्ता निश्चित समूहहरूलाई SRH सम्बन्धी शिक्षा दिँदा; गम्भीर स्वास्थ्यसम्बन्धी अवस्थाहरू भोगेका वा परिवारका सदस्यहरू गुमाएका व्यक्ति र परिवारहरूसँग अनुवर्ती सम्पर्क गर्दा)।",
+      "bt": "Community health workers and volunteers can play an important role in providing basic psychosocial support as part of health awareness-raising and education activities (for example, when helping to promote the inclusion of people with [HIV/AIDS], [obstetric fistula] or communicable diseases and to address the process of stigmatizing them; when providing education about SRH to specific groups such as adolescents; when making follow-up contact with individuals and families who have experienced serious health conditions or lost family members).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T028",
+        "T242",
+        "T344",
+        "T410",
+        "T454"
+      ],
+      "flags": [],
+      "note": "General support activities are drafted in Nepali, diagnostic names remain in exact source English, and SRH is retained without adding an expansion absent from this row."
+    },
+    {
+      "id": "MAN-16-0038",
+      "page": "54",
+      "loc": "footnote",
+      "section": "Section 3 > 3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "en": "42 In September 2014, WHO released a statement on the prevention and elimination of disrespect and abuse during childbirth. Globally, many women experience disrespectful, abusive or neglectful treatment during childbirth in health care facilities. These practices can violate women’s rights, deter them from seeking and using maternal health care services and can have implications for their health and well-being. WHO (2014). Prevention and elimination of disrespect and abuse during childbirth.",
+      "ne": "42 सेप्टेम्बर 2014 मा WHO ले प्रसवका क्रममा हुने अनादर र दुर्व्यवहारको रोकथाम र उन्मूलनसम्बन्धी वक्तव्य जारी गरेको थियो। विश्वभरि धेरै महिलाले स्वास्थ्य संस्थामा प्रसवका क्रममा अनादरपूर्ण, दुर्व्यवहारपूर्ण वा बेवास्तापूर्ण व्यवहार भोग्छन्। यस्ता अभ्यासले महिलाका अधिकार उल्लङ्घन गर्न सक्छन्, उनीहरूलाई मातृ स्वास्थ्य सेवाहरू खोज्न र प्रयोग गर्नबाट निरुत्साहित गर्न सक्छन् र उनीहरूको स्वास्थ्य तथा कल्याणमा असर पार्न सक्छन्। WHO (2014). Prevention and elimination of disrespect and abuse during childbirth.",
+      "bt": "42 In September 2014, WHO issued a statement on the prevention and elimination of disrespect and abuse during childbirth. Many women worldwide experience disrespectful, abusive or neglectful treatment during childbirth in health facilities. Such practices can violate women's rights, discourage them from seeking and using maternal health services and affect their health and well-being. WHO (2014). Prevention and elimination of disrespect and abuse during childbirth.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T328"
+      ],
+      "flags": [],
+      "note": "General safety and rights-related explanatory text drafted; review pending. This describes a WHO statement rather than reproducing a verbatim safeguarding declaration. The bibliographic title is retained in English."
+    }
+  ]
+}

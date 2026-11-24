@@ -1,0 +1,576 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-01",
+  "unit_title": "Mental Health and Psychosocial Support MINIMUM SERVICE PACKAGE",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "1-3",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:34:36+05:45",
+  "coverage": {
+    "source_words": 781,
+    "row_words": 780,
+    "skipped": [
+      "PDF p.3: running footer/page number removed: II Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-01-0001",
+      "page": "1",
+      "loc": "title",
+      "section": "frontmatter",
+      "en": "Mental Health and Psychosocial Support",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग",
+      "bt": "Mental health and psychosocial support",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the exact cited unreviewed clinical candidate T001."
+    },
+    {
+      "id": "MAN-01-0002",
+      "page": "1",
+      "loc": "title",
+      "section": "frontmatter",
+      "en": "MINIMUM SERVICE PACKAGE",
+      "ne": "न्यूनतम सेवा प्याकेज",
+      "bt": "Minimum service package",
+      "type": "general",
+      "terms": [
+        "T002"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0003",
+      "page": "2",
+      "loc": "heading",
+      "section": "frontmatter",
+      "en": "Mental Health and Psychosocial Support",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग",
+      "bt": "Mental health and psychosocial support",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Retains the same cited unreviewed clinical title candidate as the cover."
+    },
+    {
+      "id": "MAN-01-0004",
+      "page": "2",
+      "loc": "heading",
+      "section": "frontmatter",
+      "en": "MINIMUM SERVICE PACKAGE",
+      "ne": "न्यूनतम सेवा प्याकेज",
+      "bt": "Minimum service package",
+      "type": "general",
+      "terms": [
+        "T002"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0005",
+      "page": "2",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "© IASC, 2022. This publication was published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "ne": "© IASC, 2022. यो प्रकाशन Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO इजाजतपत्र (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo) अन्तर्गत प्रकाशित गरिएको थियो।",
+      "bt": "© IASC, 2022. This publication was published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": "The licence name, code and URL are retained exactly; legal wording requires review."
+    },
+    {
+      "id": "MAN-01-0006",
+      "page": "2",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "Under the terms of this licence, you may reproduce, translate and adapt this work for non-commercial purposes, provided the work is appropriately cited.",
+      "ne": "यस इजाजतपत्रका सर्तहरूअनुसार, यस कृतिलाई उचित रूपमा उद्धृत गरिएको भएमा तपाईंले गैरव्यावसायिक प्रयोजनका लागि यसको पुनरुत्पादन, अनुवाद र रूपान्तरण गर्न सक्नुहुन्छ।",
+      "bt": "Under the terms of this licence, you may reproduce, translate and adapt this work for non-commercial purposes, provided that this work is appropriately cited.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": "Preserves appropriate citation as a condition of permission; legal review pending."
+    },
+    {
+      "id": "MAN-01-0007",
+      "page": "2",
+      "loc": "heading",
+      "section": "frontmatter",
+      "en": "Suggested citation",
+      "ne": "सुझाइएको उद्धरण",
+      "bt": "Suggested citation",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary nonclinical heading translated rather than held for checking."
+    },
+    {
+      "id": "MAN-01-0008",
+      "page": "2",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "Inter-Agency Standing Committee (IASC), The Mental Health and Psychosocial Support Minimum Service Package, IASC, Geneva, 2022.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the bibliographic citation exactly as supplied in English."
+    },
+    {
+      "id": "MAN-01-0009",
+      "page": "2",
+      "loc": "heading",
+      "section": "frontmatter",
+      "en": "Translations",
+      "ne": "अनुवादहरू",
+      "bt": "Translations",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0010",
+      "page": "2",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "Please contact the IASC Reference Group for Mental Health and Psychosocial Support in Emergency Settings (IASC MHPSS RG) at mhpss.refgroup@gmail.com for coordination of translations.",
+      "ne": "अनुवादहरूको समन्वयका लागि आपत्कालीन परिस्थितिमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी IASC सन्दर्भ समूह (IASC MHPSS RG) लाई mhpss.refgroup@gmail.com मा सम्पर्क गर्नुहोस्।",
+      "bt": "For coordination of translations, contact the IASC Reference Group on Mental Health and Psychosocial Support in Emergency Settings (IASC MHPSS RG) at mhpss.refgroup@gmail.com.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T171",
+        "T224",
+        "T349",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses cited unreviewed clinical candidate T001 within the group name. Proposes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring term emergency settings; the email address is unchanged."
+    },
+    {
+      "id": "MAN-01-0011",
+      "page": "2",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "All completed translations will be posted on the IASC MHPSS RG website.",
+      "ne": "सम्पन्न भएका सबै अनुवादहरू IASC MHPSS RG को वेबसाइटमा राखिनेछन्।",
+      "bt": "All completed translations will be placed on the IASC MHPSS RG website.",
+      "type": "general",
+      "terms": [
+        "T443"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0012",
+      "page": "2",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "If you create a translation or an adaptation of this work, kindly note that:",
+      "ne": "यदि तपाईंले यस कृतिको अनुवाद वा रूपान्तरण तयार गर्नुहुन्छ भने, निम्न कुराहरूमा ध्यान दिनुहोस्।",
+      "bt": "If you prepare a translation or adaptation of this work, pay attention to the following points.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0013",
+      "page": "2",
+      "loc": "bullet",
+      "section": "frontmatter",
+      "en": "▶ You are not allowed to add your logo (or that of a funding agency) to the product.",
+      "ne": "▶ यस सामग्रीमा आफ्नो लोगो वा वित्तपोषण गर्ने निकायको लोगो थप्न तपाईंलाई अनुमति छैन।",
+      "bt": "▶ You are not permitted to add your own logo or the logo of a funding body to this material.",
+      "type": "general",
+      "terms": [
+        "T231"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0014",
+      "page": "2",
+      "loc": "bullet",
+      "section": "frontmatter",
+      "en": "▶ In case of adaptation (i.e. changes in the text or images), the use of the IASC logo is not permitted. In any use, there should be no suggestion that IASC endorses any specific organization, product or service.",
+      "ne": "▶ रूपान्तरण गरिएको अवस्थामा अर्थात् पाठ वा चित्रहरूमा परिवर्तन गरिएको अवस्थामा IASC को लोगो प्रयोग गर्न अनुमति छैन। जुनसुकै प्रयोगमा पनि IASC ले कुनै विशिष्ट संस्था, उत्पादन वा सेवालाई समर्थन गरेको भन्ने सङ्केत हुनु उचित हुँदैन।",
+      "bt": "▶ In cases where adaptations have been made, that is, where changes have been made to the text or pictures, use of the IASC logo is not permitted. In any use, there should be no indication that IASC has endorsed any particular organization, product or service.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The BT strengthens 'should' to 'must' in the endorsement sentence and renders 'product' as 'material'. The revision distinguishes the absolute logo prohibition from the source's 'should' wording and restores 'product'."
+    },
+    {
+      "id": "MAN-01-0015",
+      "page": "2",
+      "loc": "bullet",
+      "section": "frontmatter",
+      "en": "▶ You should license your translation or adaptation under the same or equivalent Creative Commons licence. CC BY-NC-SA 4.0 or 3.0 is suggested. This is the list of compatible licences: https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses.",
+      "ne": "▶ तपाईंले आफ्नो अनुवाद वा रूपान्तरणलाई उही वा समकक्ष Creative Commons इजाजतपत्रअन्तर्गत उपलब्ध गराउनु उचित हुन्छ। CC BY-NC-SA 4.0 वा 3.0 सुझाइएको छ। मिल्दो इजाजतपत्रहरूको सूची यहाँ छ: https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses।",
+      "bt": "▶ You should make your translation or adaptation available under the same or an equivalent Creative Commons license. CC BY-NC-SA 4.0 or 3.0 is suggested. The list of compatible licenses is here: https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": "Preserves the licence alternatives and compatibility URL; legal review pending. The source says 'should license', whereas the Nepali and BT impose 'must'. The revision restores recommendation strength without changing the licence alternatives or URL."
+    },
+    {
+      "id": "MAN-01-0016",
+      "page": "2",
+      "loc": "bullet",
+      "section": "frontmatter",
+      "en": "▶ You should add the following disclaimer in the language of the translation: “This translation/adaptation was not created by the Inter-Agency Standing Committee (IASC). The IASC is not responsible for the content or accuracy of this translation. The original English edition: Inter-Agency, Standing Committee, The Mental Health and Psychosocial Support Minimum Service Package, Licence: CC BY-NC-SA 3.0 IGO, shall be the binding and authentic edition.”",
+      "ne": "▶ तपाईंले अनुवादको भाषामा निम्न अस्वीकरण थप्नु उचित हुन्छ। “यो अनुवाद/रूपान्तरण अन्तर-निकाय स्थायी समिति (IASC) ले तयार गरेको होइन। यस अनुवादको विषयवस्तु वा शुद्धताका लागि IASC जिम्मेवार छैन। मूल अङ्ग्रेजी संस्करण: Inter-Agency, Standing Committee, The Mental Health and Psychosocial Support Minimum Service Package, Licence: CC BY-NC-SA 3.0 IGO, नै बाध्यकारी र प्रामाणिक संस्करण हुनेछ।”",
+      "bt": "▶ You should add the following disclaimer in the language of the translation. “This translation/adaptation was not prepared by the Inter-Agency Standing Committee (IASC). IASC is not responsible for the content or accuracy of this translation. The original English version: Inter-Agency, Standing Committee, The Mental Health and Psychosocial Support Minimum Service Package, Licence: CC BY-NC-SA 3.0 IGO, shall be the binding and authoritative version.”",
+      "type": "check",
+      "terms": [
+        "T044",
+        "T348"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Legal disclaimer drafted for review, not a consent or safeguarding declaration. The embedded English bibliographic wording, including its punctuation, is retained as supplied. The introductory 'should add' becomes 'must add' in the Nepali and BT. The revision restores recommendation strength while retaining the disclaimer, its negations, and the binding status of the original English edition. The BT calls the original English edition 'authoritative' rather than 'authentic', substituting authority for authenticity while preserving its binding status."
+    },
+    {
+      "id": "MAN-01-0017",
+      "page": "2",
+      "loc": "heading",
+      "section": "frontmatter",
+      "en": "Color guide",
+      "ne": "रङसम्बन्धी मार्गदर्शिका",
+      "bt": "Guide to colours",
+      "type": "general",
+      "terms": [
+        "T144"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0018",
+      "page": "2",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "For ease of reference, different colours are used in this document to represent the following main sectors and Areas of Responsibility:",
+      "ne": "सन्दर्भका लागि हेर्न सजिलो होस् भनेर यस दस्तावेजमा निम्न मुख्य क्षेत्र र जिम्मेवारीका क्षेत्रहरू जनाउन फरकफरक रङहरू प्रयोग गरिएका छन्।",
+      "bt": "Different colours have been used in this document to indicate the following main sectors and areas of responsibility so that it is easy to consult for reference.",
+      "type": "general",
+      "terms": [
+        "T116",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0019",
+      "page": "2",
+      "loc": "figure-label",
+      "section": "frontmatter",
+      "en": "Health",
+      "ne": "स्वास्थ्य",
+      "bt": "Health",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0020",
+      "page": "2",
+      "loc": "figure-label",
+      "section": "frontmatter",
+      "en": "Protection",
+      "ne": "संरक्षण",
+      "bt": "Protection",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0021",
+      "page": "2",
+      "loc": "figure-label",
+      "section": "frontmatter",
+      "en": "Child Protection",
+      "ne": "बाल संरक्षण",
+      "bt": "Child protection",
+      "type": "general",
+      "terms": [
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0022",
+      "page": "2",
+      "loc": "figure-label",
+      "section": "frontmatter",
+      "en": "Gender-Based Violence",
+      "ne": "लैङ्गिक हिंसा",
+      "bt": "Gender-based violence",
+      "type": "safety",
+      "terms": [
+        "T010",
+        "T233"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed safety-sector label; relevant domain review remains pending."
+    },
+    {
+      "id": "MAN-01-0023",
+      "page": "2",
+      "loc": "figure-label",
+      "section": "frontmatter",
+      "en": "Education",
+      "ne": "शिक्षा",
+      "bt": "Education",
+      "type": "general",
+      "terms": [
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0024",
+      "page": "2",
+      "loc": "figure-label",
+      "section": "frontmatter",
+      "en": "Mine Action",
+      "ne": "बारुदी सुरुङ सम्बन्धी कार्य",
+      "bt": "Work related to landmines",
+      "type": "general",
+      "terms": [
+        "T011"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0025",
+      "page": "2",
+      "loc": "figure-label",
+      "section": "frontmatter",
+      "en": "Nutrition",
+      "ne": "पोषण",
+      "bt": "Nutrition",
+      "type": "general",
+      "terms": [
+        "T030"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0026",
+      "page": "2",
+      "loc": "figure-label",
+      "section": "frontmatter",
+      "en": "Camp Coordination & Camp Management (CCCM)",
+      "ne": "शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM)",
+      "bt": "Camp coordination and camp management (CCCM)",
+      "type": "general",
+      "terms": [
+        "T199",
+        "T200",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the missing sector label Camp Coordination & Camp Management; retains CCCM."
+    },
+    {
+      "id": "MAN-01-0027",
+      "page": "2",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "Other sectors: Shelter & Settlements, Water, Sanitation & Hygiene (WASH), Food Security and Livelihoods (FSL)",
+      "ne": "अन्य क्षेत्रहरू: आश्रय तथा बस्ती, खानेपानी, सरसफाइ तथा स्वच्छता (WASH), खाद्य सुरक्षा तथा जीविकोपार्जन (FSL)",
+      "bt": "Other sectors: shelter and settlements, drinking water, sanitation and hygiene (WASH), food security and livelihoods (FSL)",
+      "type": "general",
+      "terms": [
+        "T186",
+        "T034",
+        "T296",
+        "T300",
+        "T301"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the missing sector label Shelter & Settlements. Uses the exact supplied WASH and FSL label candidates."
+    },
+    {
+      "id": "MAN-01-0028",
+      "page": "2",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "Key Considerations in grey are relevant to all sectors and areas of work",
+      "ne": "खैरो रङमा देखाइएका मुख्य विचारणीय पक्षहरू सबै क्षेत्र तथा कार्यक्षेत्रमा सान्दर्भिक छन्।",
+      "bt": "The key considerations shown in grey are relevant to all sectors and fields of work.",
+      "type": "general",
+      "terms": [
+        "T154",
+        "T252",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0029",
+      "page": "3",
+      "loc": "heading",
+      "section": "frontmatter",
+      "en": "Acknowledgements",
+      "ne": "आभार",
+      "bt": "Acknowledgements",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-01-0030",
+      "page": "3",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "The MHPSS Minimum Service Package was developed by the IASC Reference Group for Mental Health and Psychosocial Support in Emergency Settings (IASC MHPSS RG).",
+      "ne": "MHPSS न्यूनतम सेवा प्याकेज आपत्कालीन परिस्थितिमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी IASC सन्दर्भ समूह (IASC MHPSS RG) ले विकास गरेको हो।",
+      "bt": "The MHPSS minimum service package was developed by the IASC Reference Group on Mental Health and Psychosocial Support in Emergency Settings (IASC MHPSS RG).",
+      "type": "general",
+      "terms": [
+        "T002",
+        "T001",
+        "T171",
+        "T224",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses cited unreviewed clinical candidate T001 in the group name. Reuses the proposal [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for emergency settings without changing the frozen glossary."
+    },
+    {
+      "id": "MAN-01-0031",
+      "page": "3",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "The development of the package and the coordination of the field demonstration, reviews, and editing was led by the United Nations Children’s Fund (UNICEF) and the World Health Organization (WHO) in collaboration with the United Nations High Commissioner for Refugees (UNHCR) and the United Nations Populations Fund (UNFPA).",
+      "ne": "United Nations Children’s Fund (UNICEF) र विश्व स्वास्थ्य सङ्गठन (WHO) ले United Nations High Commissioner for Refugees (UNHCR) र United Nations Populations Fund (UNFPA) सँगको सहकार्यमा प्याकेजको विकास तथा स्थलगत प्रदर्शन, समीक्षा र सम्पादनको समन्वयको नेतृत्व गरेका थिए।",
+      "bt": "United Nations Children’s Fund (UNICEF) and the World Health Organization (WHO), in collaboration with United Nations High Commissioner for Refugees (UNHCR) and United Nations Populations Fund (UNFPA), led the coordination of the package’s development and field demonstration, review and editing.",
+      "type": "general",
+      "terms": [
+        "T052",
+        "T349"
+      ],
+      "flags": [],
+      "note": "Institutional names without supplied candidates are retained in English, including the source wording United Nations Populations Fund."
+    },
+    {
+      "id": "MAN-01-0032",
+      "page": "3",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "These processes were supported by a thematic working group of member agencies of the Reference Group, including Act Church of Sweden, IFRC Psychosocial Centre, the International Federation of Red Cross and Red Crescent Societies (IFRC), International Association of Schools of Social Work, International Medical Corps (IMC), International Rescue Committee (IRC), International Organization for Migration (IOM), Jesuit Refugee Services (JRS), Medair, MHPSS.net, Norwegian Church Aid (NCA), Save the Children, HealthNet TPO, Transcultural Psychosocial Organization Nepal (TPO Nepal), and World Vision International (WVI).",
+      "ne": "यी प्रक्रियाहरूमा सन्दर्भ समूहका सदस्य निकायहरूको विषयगत कार्यसमूहले सहयोग गरेको थियो। उक्त समूहमा Act Church of Sweden, IFRC Psychosocial Centre, International Federation of Red Cross and Red Crescent Societies (IFRC), International Association of Schools of Social Work, International Medical Corps (IMC), International Rescue Committee (IRC), International Organization for Migration (IOM), Jesuit Refugee Services (JRS), Medair, MHPSS.net, Norwegian Church Aid (NCA), Save the Children, HealthNet TPO, Transcultural Psychosocial Organization Nepal (TPO Nepal) र World Vision International (WVI) समावेश थिए।",
+      "bt": "These processes were supported by a thematic working group of the Reference Group’s member agencies. The group included Act Church of Sweden, IFRC Psychosocial Centre, International Federation of Red Cross and Red Crescent Societies (IFRC), International Association of Schools of Social Work, International Medical Corps (IMC), International Rescue Committee (IRC), International Organization for Migration (IOM), Jesuit Refugee Services (JRS), Medair, MHPSS.net, Norwegian Church Aid (NCA), Save the Children, HealthNet TPO, Transcultural Psychosocial Organization Nepal (TPO Nepal) and World Vision International (WVI).",
+      "type": "general",
+      "terms": [
+        "T171"
+      ],
+      "flags": [],
+      "note": "All named member agencies and their supplied acronyms are retained in English; no new clinical wording is introduced through institutional names."
+    },
+    {
+      "id": "MAN-01-0033",
+      "page": "3",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "Through consultations, discussions, surveys, interviews, and reviews, feedback was also received from key stakeholders in global, regional, and frontline positions including contributors from Action Contre la Faim (ACF), Americares, CBM Global, Child Protection Area of Responsibility (CP AoR), Christian Aid, Colombian Red Cross, Creative Associates International, Dan Church Aid (DCA), FHI 360, Finn Church Aid (FCA), Gender-based Violence Area of Responsibility (GBV AoR), Global Camp Coordination and Camp Management Cluster (CCCM), Global Education Cluster, Global Food Security Cluster, Global Health Cluster, Global Protection Cluster, Global Shelter Cluster, Global Water, Sanitation and Hygiene Cluster (WASH), HIAS, Inter-agency Network for Education in Emergencies (INEE), London School of Hygiene and Tropical Medicine (LSHTM), McGill University, Médecins du Monde (MdM), Médecins Sans Frontières (MSF), MHPSS Collaborative, Norwegian Refugee Council (NRC), the Pan American Health Organization (PAHO), Porticus, Plan International, Regional Psychosocial Support Initiative (REPSSI), Right to Play, SOS Children’s Villages International, Terre des Hommes (TdH), The Alliance for Child Protection in Humanitarian Action, United Nations Office for Project Services (UNOPS), War Child Holland, War Child UK, as well as many country-level Technical Working Groups, individual practitioners, experts, academic partners and government representatives.",
+      "ne": "परामर्श, छलफल, सर्वेक्षण, अन्तर्वार्ता तथा समीक्षामार्फत विश्वव्यापी, क्षेत्रीय तथा अग्रपङ्क्तिका भूमिकामा रहेका प्रमुख सरोकारवालाहरूबाट पनि प्रतिक्रिया प्राप्त भयो। यसमा Action Contre la Faim (ACF), Americares, CBM Global, बाल संरक्षण जिम्मेवारी क्षेत्र (Child Protection Area of Responsibility, CP AoR), Christian Aid, Colombian Red Cross, Creative Associates International, Dan Church Aid (DCA), FHI 360, Finn Church Aid (FCA), लैङ्गिक हिंसा जिम्मेवारी क्षेत्र (Gender-based Violence Area of Responsibility, GBV AoR), विश्वव्यापी शिविर समन्वय तथा शिविर व्यवस्थापन क्लस्टर (Global Camp Coordination and Camp Management Cluster, CCCM), विश्वव्यापी शिक्षा क्लस्टर (Global Education Cluster), विश्वव्यापी खाद्य सुरक्षा क्लस्टर (Global Food Security Cluster), विश्वव्यापी स्वास्थ्य क्लस्टर (Global Health Cluster), विश्वव्यापी संरक्षण क्लस्टर (Global Protection Cluster), Global Shelter Cluster, विश्वव्यापी खानेपानी, सरसफाइ तथा स्वच्छता क्लस्टर (Global Water, Sanitation and Hygiene Cluster, WASH), HIAS, Inter-agency Network for Education in Emergencies (INEE), London School of Hygiene and Tropical Medicine (LSHTM), McGill University, Médecins du Monde (MdM), Médecins Sans Frontières (MSF), MHPSS Collaborative, Norwegian Refugee Council (NRC), Pan American Health Organization (PAHO), Porticus, Plan International, Regional Psychosocial Support Initiative (REPSSI), Right to Play, SOS Children’s Villages International, Terre des Hommes (TdH), The Alliance for Child Protection in Humanitarian Action, United Nations Office for Project Services (UNOPS), War Child Holland र War Child UK का योगदानकर्ताहरूका साथै देशस्तरका धेरै प्राविधिक कार्यसमूह (Technical Working Groups), व्यक्तिगत रूपमा कार्यरत अभ्यासकर्ता, विज्ञ, प्राज्ञिक साझेदार र सरकारी प्रतिनिधिहरू समावेश थिए।",
+      "bt": "Feedback was also received from key stakeholders in global, regional and frontline roles through consultations, discussions, surveys, interviews and reviews. These included contributors from Action Contre la Faim (ACF), Americares, CBM Global, the Child Protection Area of Responsibility (CP AoR), Christian Aid, Colombian Red Cross, Creative Associates International, Dan Church Aid (DCA), FHI 360, Finn Church Aid (FCA), the Gender-based Violence Area of Responsibility (GBV AoR), the Global Camp Coordination and Camp Management Cluster (CCCM), the Global Education Cluster, the Global Food Security Cluster, the Global Health Cluster, the Global Protection Cluster, Global Shelter Cluster, the Global Water, Sanitation and Hygiene Cluster (WASH), HIAS, Inter-agency Network for Education in Emergencies (INEE), London School of Hygiene and Tropical Medicine (LSHTM), McGill University, Médecins du Monde (MdM), Médecins Sans Frontières (MSF), MHPSS Collaborative, Norwegian Refugee Council (NRC), Pan American Health Organization (PAHO), Porticus, Plan International, Regional Psychosocial Support Initiative (REPSSI), Right to Play, SOS Children’s Villages International, Terre des Hommes (TdH), The Alliance for Child Protection in Humanitarian Action, United Nations Office for Project Services (UNOPS), War Child Holland and War Child UK, as well as many country-level Technical Working Groups, practitioners working individually, experts, academic partners and government representatives.",
+      "type": "general",
+      "terms": [
+        "T182",
+        "T036",
+        "T012",
+        "T010",
+        "T031",
+        "T123",
+        "T028",
+        "T135",
+        "T027",
+        "T029",
+        "T033",
+        "T050",
+        "T233",
+        "T346",
+        "T347",
+        "T349",
+        "T434"
+      ],
+      "flags": [],
+      "note": "Institutional names without supplied Nepali forms are retained in English. Translated sector and coordination labels use the supplied unreviewed candidates; embedded institutional names are not newly translated as clinical terminology."
+    },
+    {
+      "id": "MAN-01-0034",
+      "page": "3",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "In addition, critical insights were gathered throughout the one-year field-testing period in multiple demonstration countries, which was implemented through partnerships with the following agencies: Better World Organization (BWO), Grow Strong Foundation (GSF), HealthNet TPO South Sudan (TPO South Sudan), Médecins du Monde Ukraine (MdM Ukraine), Fundación Proinco, HealthNet TPO Nigeria (TPO Nigeria), War Child Holland (WCH), World Vision Colombia.",
+      "ne": "यसका अतिरिक्त, नमुना कार्यान्वयन गरिएका विभिन्न देशहरूमा एक वर्षको स्थलगत परीक्षण अवधिभर महत्त्वपूर्ण अन्तर्दृष्टिहरू सङ्कलन गरिए। उक्त परीक्षण निम्न निकायहरूसँगको साझेदारीमार्फत कार्यान्वयन गरिएको थियो: Better World Organization (BWO), Grow Strong Foundation (GSF), HealthNet TPO South Sudan (TPO South Sudan), Médecins du Monde Ukraine (MdM Ukraine), Fundación Proinco, HealthNet TPO Nigeria (TPO Nigeria), War Child Holland (WCH) र World Vision Colombia।",
+      "bt": "In addition, important insights were collected throughout a one-year field-testing period in various countries where pilot implementation was carried out. That testing was implemented through partnerships with the following bodies: Better World Organization (BWO), Grow Strong Foundation (GSF), HealthNet TPO South Sudan (TPO South Sudan), Médecins du Monde Ukraine (MdM Ukraine), Fundación Proinco, HealthNet TPO Nigeria (TPO Nigeria), War Child Holland (WCH) and World Vision Colombia.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The one-year duration, multiple demonstration-country setting and all eight partner agencies are retained. Institutional names and acronyms remain in their source forms."
+    },
+    {
+      "id": "MAN-01-0035",
+      "page": "3",
+      "loc": "para",
+      "section": "frontmatter",
+      "en": "The development of the MSP was funded by the Ministry of Foreign Affairs of the Netherlands, the United Kingdom Foreign, Commonwealth & Development Office, Education Cannot Wait, and the Global Protection Cluster.",
+      "ne": "MSP को विकासका लागि नेदरल्यान्ड्सको परराष्ट्र मन्त्रालय, संयुक्त अधिराज्यको विदेश, राष्ट्रमण्डल तथा विकास कार्यालय, Education Cannot Wait र विश्वव्यापी संरक्षण क्लस्टर (Global Protection Cluster) ले आर्थिक सहयोग प्रदान गरेका थिए।",
+      "bt": "The Ministry of Foreign Affairs of the Netherlands, the Foreign, Commonwealth and Development Office of the United Kingdom, Education Cannot Wait and the Global Protection Cluster had provided financial support for the development of the MSP.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T029",
+        "T123"
+      ],
+      "flags": [],
+      "note": "All four funding bodies are retained. Education Cannot Wait remains an institutional name rather than being translated as a statement."
+    }
+  ]
+}

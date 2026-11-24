@@ -1,0 +1,363 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-19",
+  "unit_title": "Annexes",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "71-71",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:03:09+05:45",
+  "coverage": {
+    "source_words": 128,
+    "row_words": 128,
+    "skipped": [
+      "Page 71: running-footer: Annexes · MSP Workshop Facilitator Manual · 67"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-19-0001",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "Annexes",
+      "ne": "परिशिष्टहरू",
+      "bt": "Appendices",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-19-0002",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "List of Annexes:",
+      "ne": "परिशिष्टहरूको सूची:",
+      "bt": "List of appendices:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-19-0003",
+      "page": "71",
+      "loc": "bullet",
+      "section": "Annexes",
+      "en": "› Annex 1 - Delivery Modalities of the Workshop",
+      "ne": "› परिशिष्ट 1 - कार्यशाला सञ्चालनका विधिहरू",
+      "bt": "› Appendix 1 - Methods for conducting the workshop",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term Workshop is absent from G-0.3; proposed rendering: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-19-0004",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "68",
+      "ne": "68",
+      "bt": "68",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Page reference retained exactly."
+    },
+    {
+      "id": "FAC-19-0005",
+      "page": "71",
+      "loc": "bullet",
+      "section": "Annexes",
+      "en": "› Annex 2 - Sample Agenda for 3-Day Workshop",
+      "ne": "› परिशिष्ट 2 - 3 दिने कार्यशालाको नमुना कार्यसूची",
+      "bt": "› Appendix 2 - Sample agenda for a 3-day workshop",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Workshop uses the proposed rendering [Nepali wording recorded in terminology evidence], which is absent from G-0.3."
+    },
+    {
+      "id": "FAC-19-0006",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "69",
+      "ne": "69",
+      "bt": "69",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Page reference retained exactly."
+    },
+    {
+      "id": "FAC-19-0007",
+      "page": "71",
+      "loc": "bullet",
+      "section": "Annexes",
+      "en": "› Annex 3 - Workshop Surveys",
+      "ne": "› परिशिष्ट 3 - कार्यशालासम्बन्धी सर्वेक्षणहरू",
+      "bt": "› Appendix 3 - Workshop-related surveys",
+      "type": "general",
+      "terms": [
+        "T434",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Workshop uses the proposed rendering [Nepali wording recorded in terminology evidence]. This is a document title, not a validated instrument item."
+    },
+    {
+      "id": "FAC-19-0008",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "71",
+      "ne": "71",
+      "bt": "71",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Page reference retained exactly."
+    },
+    {
+      "id": "FAC-19-0009",
+      "page": "71",
+      "loc": "bullet",
+      "section": "Annexes",
+      "en": "› Annex 4 - Workshop Evaluation Form",
+      "ne": "› परिशिष्ट 4 - कार्यशाला मूल्याङ्कन फाराम",
+      "bt": "› Appendix 4 - Workshop evaluation form",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Workshop uses the proposed rendering [Nepali wording recorded in terminology evidence]. This is a form title, not a validated instrument item or response option."
+    },
+    {
+      "id": "FAC-19-0010",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "75",
+      "ne": "75",
+      "bt": "75",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Page reference retained exactly."
+    },
+    {
+      "id": "FAC-19-0011",
+      "page": "71",
+      "loc": "bullet",
+      "section": "Annexes",
+      "en": "› Annex 5 - Treasure Hunt Handout",
+      "ne": "› परिशिष्ट 5 - खजाना खोजको वितरण सामग्री",
+      "bt": "› Appendix 5 - Treasure hunt handout",
+      "type": "general",
+      "terms": [
+        "T373",
+        "T440"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term Handout is absent from G-0.3; proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Treasure Hunt is translated as an activity title."
+    },
+    {
+      "id": "FAC-19-0012",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "77",
+      "ne": "77",
+      "bt": "77",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Page reference retained exactly."
+    },
+    {
+      "id": "FAC-19-0013",
+      "page": "71",
+      "loc": "bullet",
+      "section": "Annexes",
+      "en": "› Annex 6 - The Puzzle Story Handout",
+      "ne": "› परिशिष्ट 6 - पहेली कथाको वितरण सामग्री",
+      "bt": "› Appendix 6 - Riddle story handout",
+      "type": "general",
+      "terms": [
+        "T373"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Handout uses the proposed rendering [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence], which is absent from G-0.3."
+    },
+    {
+      "id": "FAC-19-0014",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "79",
+      "ne": "79",
+      "bt": "79",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Page reference retained exactly."
+    },
+    {
+      "id": "FAC-19-0015",
+      "page": "71",
+      "loc": "bullet",
+      "section": "Annexes",
+      "en": "› Annex 7 - Activity Example Cards",
+      "ne": "› परिशिष्ट 7 - गतिविधिका उदाहरणहरू भएका कार्डहरू",
+      "bt": "› Appendix 7 - Cards with examples of activities",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-19-0016",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "81",
+      "ne": "81",
+      "bt": "81",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Page reference retained exactly."
+    },
+    {
+      "id": "FAC-19-0017",
+      "page": "71",
+      "loc": "bullet",
+      "section": "Annexes",
+      "en": "› Annex 8 - MSP Scenario Challenges",
+      "ne": "› परिशिष्ट 8 - MSP सम्बन्धी परिदृश्यमा आधारित चुनौतीहरू",
+      "bt": "› Appendix 8 - Scenario-based challenges related to MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T419",
+        "T420",
+        "T421"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term Scenario Challenge is absent from G-0.3; proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-19-0018",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "83",
+      "ne": "83",
+      "bt": "83",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Page reference retained exactly."
+    },
+    {
+      "id": "FAC-19-0019",
+      "page": "71",
+      "loc": "para",
+      "section": "Annexes",
+      "en": "Scenario Challenge 1. Using the MSP to Find Resources (10 min) Scenario Challenge 2. Using the MSP to Select and/or Strengthen MHPSS Activities (20 min) Scenario Challenge 3. Using the MSP to Advocate for MHPSS (10 min)",
+      "ne": "परिदृश्यमा आधारित चुनौती 1. MSP प्रयोग गरी स्रोतहरू खोज्ने (10 मिनेट)\nपरिदृश्यमा आधारित चुनौती 2. MSP प्रयोग गरी MHPSS गतिविधिहरू चयन गर्ने र/वा सुदृढ गर्ने (20 मिनेट)\nपरिदृश्यमा आधारित चुनौती 3. MSP प्रयोग गरी MHPSS का लागि पैरवी गर्ने (10 मिनेट)",
+      "bt": "Scenario-based challenge 1. Finding resources using MSP (10 minutes)\nScenario-based challenge 2. Selecting and/or strengthening MHPSS activities using MSP (20 minutes)\nScenario-based challenge 3. Advocating for MHPSS using MSP (10 minutes)",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T158",
+        "T419",
+        "T420"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Scenario Challenge uses the proposed rendering [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The three activity titles and their respective durations are preserved."
+    },
+    {
+      "id": "FAC-19-0020",
+      "page": "71",
+      "loc": "bullet",
+      "section": "Annexes",
+      "en": "› Annex 9 - Next Steps with the MSP",
+      "ne": "› परिशिष्ट 9 - MSP सँगका आगामी कदमहरू",
+      "bt": "› Appendix 9 - Next steps with MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T402"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-19-0021",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "88",
+      "ne": "88",
+      "bt": "88",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Page reference retained exactly."
+    },
+    {
+      "id": "FAC-19-0022",
+      "page": "71",
+      "loc": "bullet",
+      "section": "Annexes",
+      "en": "› Annex 10 - Costing Tool Practice Exercises",
+      "ne": "› परिशिष्ट 10 - लागत गणना गर्ने उपकरण प्रयोगका अभ्यासहरू",
+      "bt": "› Appendix 10 - Exercises in using the cost calculation tool",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-19-0023",
+      "page": "71",
+      "loc": "heading",
+      "section": "Annexes",
+      "en": "93",
+      "ne": "93",
+      "bt": "93",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Page reference retained exactly."
+    }
+  ]
+}

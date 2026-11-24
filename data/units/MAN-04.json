@@ -1,0 +1,1931 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-04",
+  "unit_title": "Overview",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "9-13",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:37:31+05:45",
+  "coverage": {
+    "source_words": 2135,
+    "row_words": 2133,
+    "skipped": [
+      "PDF p.9: running footer/page number removed: 4 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.10: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 5",
+      "PDF p.11: running footer/page number removed: 6 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.12: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 7",
+      "PDF p.13: running footer/page number removed: 8 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-04-0001",
+      "page": "9",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Overview",
+      "ne": "झलक",
+      "bt": "Overview",
+      "type": "general",
+      "terms": [
+        "T016"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0002",
+      "page": "9",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "WHY IS RESPONDING TO MENTAL HEALTH AND PSYCHOSOCIAL SUPPORT (MHPSS) NEEDS IMPORTANT IN EMERGENCIES?",
+      "ne": "आपत्कालीन अवस्थामा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) सम्बन्धी आवश्यकताहरूलाई सम्बोधन गर्नु किन महत्त्वपूर्ण छ?",
+      "bt": "Why is it important to address needs related to mental health and psychosocial support (MHPSS) in emergencies?",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T001 is reused from the cited unreviewed candidate for the composite MHPSS term."
+    },
+    {
+      "id": "MAN-04-0003",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Humanitarian emergencies cause widespread suffering, affecting people’s mental health and psychosocial well-being.",
+      "ne": "मानवीय आपत्कालीन अवस्थाले व्यापक पीडा निम्त्याउँछन् र मानिसहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा असर पार्छन्।",
+      "bt": "Humanitarian emergencies cause widespread suffering and affect people's mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T005 is reused from the cited unreviewed candidate for psychosocial well-being."
+    },
+    {
+      "id": "MAN-04-0004",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Affected populations experience a range of stressors that can have both immediate and long-term consequences.",
+      "ne": "प्रभावित जनसमूहले दबाब सिर्जना गर्ने विभिन्न परिस्थितिहरूको सामना गर्छन्, जसका तत्कालीन र दीर्घकालीन दुवै परिणाम हुन सक्छन्।",
+      "bt": "Affected populations face various circumstances that create pressure, which can have both immediate and long-term consequences.",
+      "type": "general",
+      "terms": [
+        "T192"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The environmental stressors are rendered as ordinary pressures, without introducing a diagnostic term. Proposed recurring term: affected populations = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0005",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "These include exposure to violence, separation from or loss of loved ones, poor living conditions, poverty, food insecurity, loss of livelihoods and means of survival, physical injuries and illnesses, and a lack of access to services such as health care, education and social care.",
+      "ne": "यी परिस्थितिहरूमा हिंसाको सामना गर्नुपर्नु, प्रियजनबाट छुट्टिनु वा उनीहरूलाई गुमाउनु, बसोबासको अवस्था खराब हुनु, गरिबी, खाद्य असुरक्षा, जीविकोपार्जन र बाँच्ने साधन गुमाउनु, शारीरिक चोटपटक लाग्नु र बिरामी पर्नु तथा स्वास्थ्य सेवा, शिक्षा र सामाजिक हेरचाहजस्ता सेवामा पहुँच नहुनु समावेश छन्।",
+      "bt": "These circumstances include having to face violence, being separated from or losing loved ones, poor living conditions, poverty, food insecurity, losing livelihoods and means of survival, sustaining physical injuries and becoming ill, and not having access to services such as health care, education and social care.",
+      "type": "general",
+      "terms": [
+        "T155",
+        "T027",
+        "T028"
+      ],
+      "flags": [],
+      "note": "Reclassified as general: this is a contextual list of adversity and access barriers, not clinical guidance or a safeguarding declaration."
+    },
+    {
+      "id": "MAN-04-0006",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Emergencies can also erode protective supports such as family and community networks and can lead to sudden changes in social roles and relationships.",
+      "ne": "आपत्कालीन अवस्थाले परिवार र समुदायका सञ्जालजस्ता संरक्षण प्रदान गर्ने सहयोगका आधारहरूलाई पनि कमजोर बनाउन सक्छन् र सामाजिक भूमिका तथा सम्बन्धमा अचानक परिवर्तन ल्याउन सक्छन्।",
+      "bt": "Emergencies can also weaken protective sources of support such as family and community networks and can bring sudden changes in social roles and relationships.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T029",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0007",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Many people affected by emergencies experience common reactions such as difficulties with sleeping, fatigue, worry, anger and physical aches and pains.",
+      "ne": "आपत्कालीन अवस्थाबाट प्रभावित धेरै व्यक्तिहरूले निद्रासम्बन्धी कठिनाइहरू, थकान, चिन्ता, रिस र शरीर दुख्ने जस्ता सामान्य प्रतिक्रियाहरू अनुभव गर्छन्।",
+      "bt": "Many people affected by an emergency experience common reactions such as sleep-related difficulties, fatigue, anxiety, anger and body aches.",
+      "type": "safety",
+      "terms": [
+        "T131"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The reactions remain common experiences rather than named diagnoses. The Nepali and BT narrow difficulties with sleeping to difficulty falling asleep. The repair restores the broader scope of sleep-related difficulties. “Worry” becomes “anxiety,” which can imply a stronger emotional state."
+    },
+    {
+      "id": "MAN-04-0008",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "For most people, these problems are manageable and improve over time, but for others, they impair daily functioning.",
+      "ne": "अधिकांश व्यक्तिका लागि यी समस्याहरू व्यवस्थापन गर्न सकिने हुन्छन् र समयसँगै कम हुँदै जान्छन्, तर अरूका लागि तिनले दैनिक कामकाजमा बाधा पुर्‍याउँछन्।",
+      "bt": "For most people, these problems are manageable and decrease over time, but for others they interfere with daily activities.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The distinction between manageable problems for most people and impaired daily functioning for others is retained."
+    },
+    {
+      "id": "MAN-04-0009",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Globally, one in five (22.1%) people living in areas affected by conflict is estimated to have a mental health condition.1",
+      "ne": "विश्वभरि, द्वन्द्वबाट प्रभावित क्षेत्रहरूमा बस्ने प्रत्येक पाँचमध्ये एक (22.1%) व्यक्तिमा मानसिक स्वास्थ्यसम्बन्धी अवस्था रहेको अनुमान गरिएको छ।1",
+      "bt": "Worldwide, it is estimated that one in every five (22.1%) people living in areas affected by conflict has a mental health condition.1",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T476"
+      ],
+      "flags": [],
+      "note": "The source estimate, percentage and citation marker 1 are retained without independent verification."
+    },
+    {
+      "id": "MAN-04-0010",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Mental health and psychosocial support services are often sparse even before a crisis occurs, and emergencies can disrupt the availability of services and people’s access to them.",
+      "ne": "सङ्कट आउनुअघि नै मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग सेवाहरू प्रायः न्यून हुन्छन्, र आपत्कालीन अवस्थाले सेवाहरूको उपलब्धता तथा ती सेवामा मानिसहरूको पहुँचमा अवरोध पुर्‍याउन सक्छन्।",
+      "bt": "Mental health and psychosocial support services are often limited even before a crisis occurs, and emergencies can obstruct the availability of services and people's access to those services.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T131",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T001 is reused as the cited unreviewed candidate within the service description."
+    },
+    {
+      "id": "MAN-04-0011",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "People with pre-existing mental health conditions are at risk of relapse or deterioration, often face stigma and discrimination and need continued access to care and protection.",
+      "ne": "पहिलेदेखि नै मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरू ती अवस्था फेरि बल्झिने वा बिग्रिने जोखिममा रहेका हुन्छन्, प्रायः लाञ्छना र भेदभावको सामना गर्छन् र उनीहरूलाई हेरचाह तथा संरक्षणमा निरन्तर पहुँच आवश्यक हुन्छ।",
+      "bt": "People who already have mental health conditions are at risk of those conditions recurring or worsening, often face stigma and discrimination and need continued access to care and protection.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T157",
+        "T195",
+        "T478"
+      ],
+      "flags": [],
+      "note": "Pre-existing conditions, recurrence or deterioration, frequent stigma and discrimination, and the need for continued access are retained."
+    },
+    {
+      "id": "MAN-04-0012",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "For children, adverse conditions in emergencies can disrupt cognitive, emotional, social and physical development, with enduring consequences for their future.",
+      "ne": "बालबालिकाका हकमा, आपत्कालीन अवस्थाका प्रतिकूल परिस्थितिहरूले संज्ञानात्मक, भावनात्मक, सामाजिक र शारीरिक विकासमा अवरोध पुर्‍याउन सक्छन्, जसका परिणाम उनीहरूको भविष्यमा लामो समयसम्म रहन सक्छन्।",
+      "bt": "In the case of children, adverse circumstances in emergencies can hinder cognitive, emotional, social and physical development, with consequences that can remain for a long time into their future.",
+      "type": "general",
+      "terms": [
+        "T131"
+      ],
+      "flags": [],
+      "note": "Reclassified as general: the sentence concerns broad dimensions of child development, not a diagnosis, treatment instruction, or validated assessment item."
+    },
+    {
+      "id": "MAN-04-0013",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Effective MHPSS programming provides critical services and supports across the life course to reduce suffering and improve people’s mental health and psychosocial well-being.",
+      "ne": "प्रभावकारी रूपमा MHPSS कार्यक्रम सञ्चालन गर्दा पीडा कम गर्न र मानिसहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सुधार ल्याउन जीवनका सबै चरणमा अत्यावश्यक सेवा र सहयोग प्रदान गरिन्छ।",
+      "bt": "When MHPSS programmes are carried out effectively, essential services and support are provided at all stages of life to reduce suffering and improve people's mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "T005 is reused as a cited unreviewed candidate. Proposed recurring term: programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0014",
+      "page": "9",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "This can lead to improvements in people’s abilities to meet their basic needs to survive, recover and rebuild their lives.",
+      "ne": "यसबाट मानिसहरूलाई बाँच्न, फेरि सम्हालिन र आफ्नो जीवन पुनर्निर्माण गर्न आवश्यक आधारभूत आवश्यकताहरू पूरा गर्ने क्षमतामा सुधार आउन सक्छ।",
+      "bt": "This can improve people's ability to meet the basic needs necessary to survive, recover and rebuild their lives.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0015",
+      "page": "9",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "The integration of MHPSS into emergency responses can enhance the impact of programming across sectors and can contribute to saving lives. MHPSS programmes can also help strengthen health, social and education systems in the longer term.",
+      "ne": "आपत्कालीन प्रतिकार्यमा MHPSS एकीकृत गर्दा विभिन्न क्षेत्रमा कार्यक्रम सञ्चालनको प्रभाव बढ्न सक्छ र जीवन बचाउन योगदान पुग्न सक्छ। MHPSS कार्यक्रमले दीर्घकालमा स्वास्थ्य, सामाजिक र शिक्षा प्रणालीहरूलाई सुदृढ बनाउन पनि मद्दत गर्न सक्छन्।",
+      "bt": "Integrating MHPSS into emergency response can increase the impact of programme implementation in various sectors and can contribute to saving lives. MHPSS programmes can also help strengthen health, social and education systems in the long term.",
+      "type": "general",
+      "terms": [
+        "T132",
+        "T160",
+        "T027",
+        "T028",
+        "T296",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0016",
+      "page": "9",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "1 Charlson F. et al. (2019). New WHO prevalence estimates of mental disorders in conflict settings: a systematic review and meta-analysis. The Lancet 394 (10194), pp. 240-248.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the bibliographic citation unchanged in English, including citation number 1, author, year, title, journal, volume, issue, and page range."
+    },
+    {
+      "id": "MAN-04-0017",
+      "page": "10",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "WHAT IS THE MHPSS MINIMUM SERVICE PACKAGE (MHPSS MSP)?",
+      "ne": "MHPSS न्यूनतम सेवा प्याकेज (MHPSS MSP) के हो?",
+      "bt": "What is the MHPSS Minimum Service Package (MHPSS MSP)?",
+      "type": "general",
+      "terms": [
+        "T002",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0018",
+      "page": "10",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "The MHPSS MSP outlines a set of activities that are considered to be of the highest priority in meeting the immediate critical needs of emergency-affected populations, based on existing guidelines, available evidence and expert consensus. Each activity comes with checklists of core and additional actions.",
+      "ne": "MHPSS MSP ले विद्यमान निर्देशिकाहरू, उपलब्ध प्रमाण र विज्ञहरूको सहमतिका आधारमा आपत्कालीन अवस्थाबाट प्रभावित जनसमूहका तत्कालीन अत्यावश्यक आवश्यकताहरू पूरा गर्न सर्वोच्च प्राथमिकताका मानिने गतिविधिहरूको एक समूहको रूपरेखा प्रस्तुत गर्छ। प्रत्येक गतिविधिसँग मुख्य कार्यहरू तथा अतिरिक्त कार्यहरूको जाँचसूचीहरू दिइएका छन्।",
+      "bt": "The MHPSS MSP outlines a set of activities considered to be of the highest priority for meeting the immediate essential needs of populations affected by emergencies, based on existing guidelines, available evidence and expert consensus. Checklists of main actions and additional actions are provided with each activity.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T086",
+        "T090",
+        "T131",
+        "T129",
+        "T121",
+        "T190",
+        "T192"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses affected populations = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Also proposes the recurring term additional actions = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; neither proposal changes the frozen glossary. The source specifies plural checklists for each activity; Nepali and BT reduce these to a single checklist. Restored the plural."
+    },
+    {
+      "id": "MAN-04-0019",
+      "page": "10",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "In principle, MSP activities, and respective core actions, can be implemented within a 12-month timeframe, and most will need to continue beyond that. The checklists of additional actions should be reviewed in each context to determine their level of priority and sequence, based on local needs and available resources",
+      "ne": "सैद्धान्तिक रूपमा, MSP गतिविधिहरू र तिनका सम्बन्धित मुख्य कार्यहरू 12 महिनाको समयसीमाभित्र कार्यान्वयन गर्न सकिन्छ, र अधिकांशलाई त्यसपछि पनि निरन्तरता दिनुपर्ने हुन्छ। स्थानीय आवश्यकता र उपलब्ध स्रोतका आधारमा अतिरिक्त कार्यहरूको प्राथमिकताको स्तर र क्रम निर्धारण गर्न प्रत्येक सन्दर्भमा तिनका जाँचसूचीहरू समीक्षा गर्नु उचित हुन्छ।",
+      "bt": "In principle, MSP activities and their related main actions can be implemented within a timeframe of 12 months, and most will need to be continued after that as well. It is appropriate to review the checklists of additional actions in each context to determine their priority level and sequence based on local needs and available resources.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T129",
+        "T121",
+        "T190",
+        "T272",
+        "T350"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserves the 12-month implementation timeframe and the need to continue most activities and actions beyond it. Uses additional actions = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and proposes MSP activities = MSP [Nepali wording recorded in terminology evidence]. BT changes the recommendation that checklists should be reviewed into a requirement that they must be reviewed. Revised that modality while retaining the 12-month timeframe and the need for most activities and actions to continue beyond it."
+    },
+    {
+      "id": "MAN-04-0020",
+      "page": "10",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "The MSP activities should be:",
+      "ne": "MSP गतिविधिहरू निम्नअनुसार हुनु उचित हुन्छ:",
+      "bt": "It is appropriate for MSP activities to be as follows:",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T272"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term MSP activities = MSP [Nepali wording recorded in terminology evidence]. The source introduces recommendations with should; BT strengthens this to must. Restored recommendation strength."
+    },
+    {
+      "id": "MAN-04-0021",
+      "page": "10",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ available and accessible to people in all emergencies",
+      "ne": "▶ सबै आपत्कालीन अवस्थामा मानिसहरूका लागि उपलब्ध र पहुँचयोग्य हुनु उचित हुन्छ।",
+      "bt": "▶ It is appropriate for them to be available and accessible to people in all emergency situations.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T078"
+      ],
+      "flags": [],
+      "note": "This bullet inherits should from the source heading; BT instead states must. Restored recommendation strength without changing availability, accessibility or scope."
+    },
+    {
+      "id": "MAN-04-0022",
+      "page": "10",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ of high quality",
+      "ne": "▶ उच्च गुणस्तरका हुनु उचित हुन्छ।",
+      "bt": "▶ It is appropriate for them to be of high quality.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "This bullet inherits should from the source heading; BT instead states must. Restored recommendation strength."
+    },
+    {
+      "id": "MAN-04-0023",
+      "page": "10",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ appropriate to the specific context (e.g. existing systems and services, community considerations)",
+      "ne": "▶ विशिष्ट सन्दर्भअनुकूल हुनु उचित हुन्छ (जस्तै, विद्यमान प्रणाली र सेवाहरू तथा समुदायसम्बन्धी विचारणीय पक्षहरू)।",
+      "bt": "▶ It is appropriate for them to be adapted to the specific context (e.g., existing systems and services and community-related considerations).",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": "This bullet inherits should from the source heading; BT instead states must. Restored recommendation strength while retaining both contextual examples."
+    },
+    {
+      "id": "MAN-04-0024",
+      "page": "10",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ provided in an acceptable manner to affected populations in line with the gender, age and diverse characteristics of individuals.",
+      "ne": "▶ व्यक्तिहरूको लिङ्ग, उमेर र विविध विशेषताअनुरूप प्रभावित जनसमूहलाई स्वीकार्य हुने तरिकाले प्रदान गरिनु उचित हुन्छ।",
+      "bt": "▶ It is appropriate for them to be provided in a manner acceptable to the affected population, in accordance with individuals' gender, age and diverse characteristics.",
+      "type": "general",
+      "terms": [
+        "T192"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term affected populations = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. This bullet inherits should from the source heading; BT instead states must. Restored recommendation strength while preserving acceptability to affected populations and all individual characteristics listed."
+    },
+    {
+      "id": "MAN-04-0025",
+      "page": "10",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "If an activity is not in place, it should be made available as soon as possible.",
+      "ne": "कुनै गतिविधि सञ्चालनमा छैन भने, त्यसलाई सकेसम्म चाँडो उपलब्ध गराउनु उचित हुन्छ।",
+      "bt": "If an activity is not in operation, it is appropriate to make it available as soon as possible.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "BT strengthens should be made available to must be made available. Restored recommendation strength and retained both the condition and as-soon-as-possible urgency."
+    },
+    {
+      "id": "MAN-04-0026",
+      "page": "10",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The extent to which all MSP activities are implemented in a specific setting, depends on many factors such as existing capacities and available resources.",
+      "ne": "कुनै विशिष्ट परिवेशमा सबै MSP गतिविधिहरू कुन हदसम्म कार्यान्वयन हुन्छन् भन्ने कुरा विद्यमान क्षमता र उपलब्ध स्रोतजस्ता धेरै कारकहरूमा निर्भर हुन्छ।",
+      "bt": "The extent to which all MSP activities are implemented in a particular setting depends on many factors, such as existing capacity and available resources.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T272"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term MSP activities = MSP [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0027",
+      "page": "10",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "However, even in resource-poor settings the MSP can provide major directions on what MHPSS services and activities to strive for.",
+      "ne": "तथापि, स्रोतको अभाव भएका परिवेशमा समेत MSP ले कुन MHPSS सेवा र गतिविधिहरू उपलब्ध गराउने लक्ष्य राख्ने भन्ने विषयमा प्रमुख दिशा दिन सक्छ।",
+      "bt": "However, even in settings lacking resources, the MSP can provide major direction on which MHPSS services and activities to aim to make available.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0028",
+      "page": "10",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Use of the MHPSS MSP is expected to lead to better-coordinated, more predictable and more equitable responses that make effective use of limited resources and thus improve the scale and quality of programming. This will ultimately result in substantially better mental health and psychosocial well-being for larger numbers of people.",
+      "ne": "MHPSS MSP को प्रयोगबाट अझ राम्रो समन्वय भएका, बढी पूर्वानुमानयोग्य र बढी समतामूलक प्रतिकार्य हुने अपेक्षा गरिएको छ, जसले सीमित स्रोतको प्रभावकारी उपयोग गरी कार्यक्रम सञ्चालनको विस्तार र गुणस्तरमा सुधार ल्याउँछन्। यसबाट अन्ततः अझ धेरै मानिसहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा उल्लेखनीय सुधार आउनेछ।",
+      "bt": "Use of the MHPSS MSP is expected to result in better-coordinated, more predictable and more equitable responses, which improve the reach and quality of programme implementation by making effective use of limited resources. This will ultimately bring significant improvements in the mental health and psychosocial well-being of more people.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T174",
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "T005 is reused as a cited unreviewed candidate. Uses programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Preserves the distinction between the expected response improvements and the stated ultimate result."
+    },
+    {
+      "id": "MAN-04-0029",
+      "page": "10",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "The MHPSS MSP is not a comprehensive list of all feasible or effective MHPSS activities, and thus MHPSS responses should not be limited to MSP activities. Rather, the MHPSS MSP provides a foundation for progressive strengthening and further scale-up of MHPSS activities.",
+      "ne": "MHPSS MSP सबै सम्भव वा प्रभावकारी MHPSS गतिविधिहरूको सम्पूर्ण सूची होइन, त्यसैले MHPSS प्रतिकार्यलाई MSP गतिविधिहरूमा मात्र सीमित गर्नु उचित हुँदैन। बरु, MHPSS MSP ले MHPSS गतिविधिहरूलाई क्रमशः सुदृढ गर्दै थप विस्तार गर्न आधार प्रदान गर्छ।",
+      "bt": "The MHPSS MSP is not a complete list of all possible or effective MHPSS activities, so it is not appropriate to limit the MHPSS response to MSP activities alone. Rather, the MHPSS MSP provides a basis for further expanding MHPSS activities while progressively strengthening them.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T158",
+        "T161",
+        "T272"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term MSP activities = MSP [Nepali wording recorded in terminology evidence]. The distinction between MHPSS activities generally and the activities within the MSP is retained. BT strengthens should not be limited to must not be limited. Restored the negative recommendation. Also clarified completeness of the list: the existing Nepali wording can mean detailed or extensive rather than comprehensive."
+    },
+    {
+      "id": "MAN-04-0030",
+      "page": "10",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The development of sustainable, comprehensive and inclusive MHPSS systems requires a longer-term outlook and investment, with close coordination between humanitarian and development funders and with respect for the central role of government, local authorities, civil society organizations and communities.",
+      "ne": "दिगो, समग्र र समावेशी MHPSS प्रणालीहरूको विकासका लागि दीर्घकालीन दृष्टिकोण र लगानी आवश्यक पर्छ। यसमा मानवीय सहायता र विकासका लागि वित्तीय सहयोग प्रदान गर्ने पक्षहरूबीच घनिष्ठ समन्वय हुनुपर्छ र सरकार, स्थानीय निकाय, नागरिक समाजका संस्थाहरू (CSOs) तथा समुदायहरूको केन्द्रीय भूमिकाको सम्मान गरिनुपर्छ।",
+      "bt": "The development of sustainable, comprehensive and inclusive MHPSS systems requires a long-term outlook and investment. There must be close coordination between those providing financial support for humanitarian assistance and development, and the central role of government, local bodies, civil society organizations (CSOs) and communities must be respected.",
+      "type": "general",
+      "terms": [
+        "T041",
+        "T349"
+      ],
+      "flags": [],
+      "note": "The civil society organization label follows T041, with CSOs supplied at first use as directed by that candidate entry."
+    },
+    {
+      "id": "MAN-04-0031",
+      "page": "10",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "WHY IS AN MHPSS MSP NEEDED?",
+      "ne": "MHPSS MSP किन आवश्यक छ?",
+      "bt": "Why is the MHPSS MSP necessary?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0032",
+      "page": "10",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "MHPSS is a multisectoral and cross-cutting area of work with relevance for the Health, Protection (including Child Protection (CP), Gender-Based Violence (GBV) and Mine Action), Education, Nutrition, Water, Sanitation and Hygiene (WASH), Shelter and Settlements, Camp Coordination and Camp Management (CCCM) and Food Security and Livelihoods (FSL) sectors/clusters/Areas of Responsibility (AORs) in all emergencies.2",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) बहु-क्षेत्रगत तथा विभिन्न क्षेत्रहरूमा साझा रूपमा लागू हुने कार्यक्षेत्र हो। यो सबै आपत्कालीन अवस्थामा स्वास्थ्य, संरक्षण (बाल संरक्षण (CP), लैङ्गिक हिंसा (GBV) र बारुदी सुरुङ सम्बन्धी कार्यसहित), शिक्षा, पोषण, खानेपानी, सरसफाइ तथा स्वच्छता (WASH), आश्रय तथा बस्ती, शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM) र खाद्य सुरक्षा तथा जीविकोपार्जन (FSL) का क्षेत्र/क्लस्टर/जिम्मेवारीका क्षेत्रहरू (AORs) सँग सान्दर्भिक हुन्छ।2",
+      "bt": "Mental health and psychosocial support (MHPSS) is a multisectoral field of work that applies jointly across different sectors. It is relevant in all emergencies to the sectors/clusters/areas of responsibility (AORs) of health, protection (including child protection (CP), gender-based violence (GBV) and work related to landmines), education, nutrition, water, sanitation and hygiene (WASH), shelter and settlements, camp coordination and camp management (CCCM), and food security and livelihoods (FSL).2",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T026",
+        "T131",
+        "T027",
+        "T029",
+        "T036",
+        "T143",
+        "T011",
+        "T028",
+        "T030",
+        "T188",
+        "T032",
+        "T031",
+        "T034",
+        "T124",
+        "T116",
+        "T193",
+        "T233",
+        "T296",
+        "T300",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Reclassified as general: this describes multisectoral scope, not safety instructions. T001 is reused verbatim from the cited unreviewed prior candidate, not clinically validated. Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. Source capitalization AORs and footnote marker 2 are preserved. The BT describes interrelation between sectors rather than work that cuts across sectors. The revision makes its application across sectors explicit; technical terminology review remains pending. The BT narrows the named Mine Action area to work related to landmines, omitting its broader explosive-hazard scope."
+    },
+    {
+      "id": "MAN-04-0033",
+      "page": "10",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "2 Summary Record, IASC Principals meeting, 5 December 2019.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the citation in English: 2 Summary Record, IASC Principals meeting, 5 December 2019."
+    },
+    {
+      "id": "MAN-04-0034",
+      "page": "11",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The MSP encompasses a wide range of activities that can be implemented by staff and volunteers with diverse backgrounds, qualifications and levels of experience.",
+      "ne": "MSP मा विविध पृष्ठभूमि, योग्यता र अनुभवका स्तर भएका कर्मचारी तथा स्वयंसेवकले कार्यान्वयन गर्न सक्ने व्यापक किसिमका गतिविधिहरू समेटिएका छन्।",
+      "bt": "The MSP includes a wide range of activities that can be implemented by staff and volunteers with diverse backgrounds, qualifications and levels of experience.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0035",
+      "page": "11",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "While standards, guidelines and tools for MHPSS have been developed, there is a recognized need for an intersectoral package to operationalize these various guidelines and standards.",
+      "ne": "MHPSS का लागि मापदण्डहरू, निर्देशिकाहरू र साधनहरू विकास गरिएका भए पनि यी विभिन्न निर्देशिकाहरू र मापदण्डहरू व्यवहारमा लागू गर्न अन्तरक्षेत्रीय प्याकेज आवश्यक रहेको स्वीकार गरिएको छ।",
+      "bt": "Although standards, guidelines and tools have been developed for MHPSS, it has been recognized that an intersectoral package is needed to put these various guidelines and standards into practice.",
+      "type": "general",
+      "terms": [
+        "T087",
+        "T086",
+        "T296",
+        "T389",
+        "T437",
+        "T438"
+      ],
+      "flags": [],
+      "note": "Reclassified as general: this explains the rationale for an intersectoral package rather than presenting a check."
+    },
+    {
+      "id": "MAN-04-0036",
+      "page": "11",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "HOW CAN THE MHPSS MSP BE USED?",
+      "ne": "MHPSS MSP कसरी प्रयोग गर्न सकिन्छ?",
+      "bt": "How can the MHPSS MSP be used?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0037",
+      "page": "11",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The MHPSS MSP is a resource for humanitarian actors who plan, support, coordinate, implement and evaluate humanitarian activities within and across sectors.",
+      "ne": "MHPSS MSP क्षेत्रभित्र र क्षेत्रहरूबीच मानवीय गतिविधिहरूको योजना बनाउने, तिनलाई सहयोग गर्ने, समन्वय गर्ने, कार्यान्वयन गर्ने र मूल्याङ्कन गर्ने मानवीय कार्यमा संलग्न पक्षहरूका लागि एक स्रोत सामग्री हो।",
+      "bt": "The MHPSS MSP is a resource material for actors involved in humanitarian work who plan, support, coordinate, implement and evaluate humanitarian activities within and across sectors.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T147",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0038",
+      "page": "11",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "These include government actors, MHPSS Technical Working Groups (TWGs), national and international non-governmental organizations (NGOs), civil society and other advocacy groups, Red Cross and Red Crescent networks, UN agencies, coordinators of sectors/clusters/AoRs and donors.",
+      "ne": "यसमा सरकारका सम्बद्ध पक्षहरू, MHPSS प्राविधिक कार्यसमूह (TWGs), राष्ट्रिय तथा अन्तर्राष्ट्रिय गैरसरकारी संस्थाहरू (NGOs), नागरिक समाज तथा अन्य पैरवी समूहहरू, रेड क्रस तथा रेड क्रिसेन्ट सञ्जालहरू, संयुक्त राष्ट्रसंघ (UN) का निकायहरू, क्षेत्र/क्लस्टर/जिम्मेवारीका क्षेत्रहरू (AoRs) का समन्वयकर्ताहरू र दातृ निकाय समावेश छन्।",
+      "bt": "These include relevant government actors, MHPSS technical working groups (TWGs), national and international nongovernmental organizations (NGOs), civil society and other advocacy groups, Red Cross and Red Crescent networks, United Nations (UN) agencies, coordinators of sectors/clusters/areas of responsibility (AoRs), and donor agencies.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T050",
+        "T048",
+        "T035",
+        "T124",
+        "T117",
+        "T023",
+        "T191",
+        "T214",
+        "T249",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Sector and coordinators are absent from G-0.2; proposed renderings: [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0039",
+      "page": "11",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The MHPSS MSP informs the development and implementation of humanitarian response planning processes and documents including Humanitarian Needs Overviews, Humanitarian Response Plans, Refugee Response Plans, cluster strategy development and specific donor funding calls and mechanisms.",
+      "ne": "MHPSS MSP ले मानवीय आवश्यकतासम्बन्धी झलक (Humanitarian Needs Overviews), मानवीय प्रतिकार्य योजना (Humanitarian Response Plans), शरणार्थी प्रतिकार्य योजना (Refugee Response Plans), क्लस्टर रणनीति विकास तथा दातृ निकायका विशिष्ट वित्तपोषण आह्वान र संयन्त्रहरूसहित मानवीय प्रतिकार्यको योजना बनाउने प्रक्रिया र दस्तावेजहरू तयार गर्ने तथा कार्यान्वयन गर्ने कामका लागि जानकारी प्रदान गर्छ।",
+      "bt": "The MHPSS MSP provides information for the work of preparing and implementing humanitarian response planning processes and documents, including Humanitarian Needs Overviews, Humanitarian Response Plans, Refugee Response Plans, cluster strategy development, and donor agencies’ specific funding calls and mechanisms.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T016",
+        "T003",
+        "T174",
+        "T123",
+        "T023",
+        "T231",
+        "T380"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "English document titles are retained alongside draft Nepali renderings for identification. Funding is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. Provides direction is stronger than informs. The revision describes an informational contribution without assigning the MSP a directive role."
+    },
+    {
+      "id": "MAN-04-0040",
+      "page": "11",
+      "loc": "table-head",
+      "section": "Introduction > Overview",
+      "en": "Who should use the MSP?",
+      "ne": "MSP कसले प्रयोग गर्नुपर्छ?",
+      "bt": "Who should use the MSP?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0041",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Coordinators",
+      "ne": "समन्वयकर्ताहरू",
+      "bt": "Coordinators",
+      "type": "general",
+      "terms": [
+        "T214"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Coordinators is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0042",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Implementers",
+      "ne": "कार्यान्वयनकर्ताहरू",
+      "bt": "Implementers",
+      "type": "general",
+      "terms": [
+        "T241"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Implementers is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0043",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Technical advisers",
+      "ne": "प्राविधिक सल्लाहकारहरू",
+      "bt": "Technical advisers",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0044",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Donors",
+      "ne": "दातृ निकाय",
+      "bt": "Donor agencies",
+      "type": "general",
+      "terms": [
+        "T023"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0045",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "e.g. MHPSS TWGs; government and UN agencies with coordination and planning responsibilities; sector/cluster coordination groups*, Inter-Cluster Coordination Teams and Humanitarian Country Teams",
+      "ne": "उदाहरणका लागि, MHPSS प्राविधिक कार्यसमूह (TWGs); समन्वय र योजनाको जिम्मेवारी भएका सरकारी तथा UN निकायहरू; क्षेत्र/क्लस्टर समन्वय समूहहरू*, अन्तर-क्लस्टर समन्वय टोलीहरू (Inter-Cluster Coordination Teams) र देशस्तरीय मानवीय कार्य टोलीहरू (Humanitarian Country Teams)",
+      "bt": "For example, MHPSS technical working groups (TWGs); government and UN agencies with responsibility for coordination and planning; sector/cluster coordination groups*, Inter-Cluster Coordination Teams and Humanitarian Country Teams",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T123",
+        "T128",
+        "T296",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. The asterisk is retained. The BT renders Humanitarian Country Teams as generic country-level humanitarian action teams, obscuring the named coordination body. English names are retained to preserve institutional identity; review of the Nepali formal titles remains pending."
+    },
+    {
+      "id": "MAN-04-0046",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Implementers of MHPSS programmes (e.g. national/ local government agencies, NGOs, UN agencies)",
+      "ne": "MHPSS कार्यक्रम कार्यान्वयन गर्ने कार्यान्वयनकर्ताहरू (उदाहरणका लागि, राष्ट्रिय/स्थानीय सरकारी निकायहरू, NGOs, UN निकायहरू)",
+      "bt": "Implementers who implement MHPSS programmes (for example, national/local government agencies, NGOs, UN agencies)",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T241",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Implementers is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0047",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "i.e. those with expertise in MHPSS who are advising and supporting programme implementation",
+      "ne": "अर्थात्, MHPSS मा विशेषज्ञता भएका र कार्यक्रम कार्यान्वयनमा सल्लाह तथा सहयोग प्रदान गरिरहेका व्यक्तिहरू",
+      "bt": "That is, individuals who have expertise in MHPSS and are providing advice and support in programme implementation",
+      "type": "general",
+      "terms": [
+        "T380",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0048",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Donors and others making decisions about funding",
+      "ne": "दातृ निकाय तथा वित्तपोषणसम्बन्धी निर्णय गर्ने अन्य पक्षहरू",
+      "bt": "Donor agencies and other actors making decisions about funding",
+      "type": "general",
+      "terms": [
+        "T023",
+        "T231"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Funding is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0049",
+      "page": "11",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "For what purpose can the MSP be used?",
+      "ne": "MSP के प्रयोजनका लागि प्रयोग गर्न सकिन्छ?",
+      "bt": "For what purposes can the MSP be used?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0050",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Identifying and addressing gaps in the MHPSS response",
+      "ne": "MHPSS प्रतिकार्यमा रहेका कमीहरू पहिचान गर्ने र तिनलाई सम्बोधन गर्ने।",
+      "bt": "To identify gaps in the MHPSS response and address them.",
+      "type": "general",
+      "terms": [
+        "T161",
+        "T232"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Gaps is absent from G-0.2; proposed contextual rendering: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0051",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Advocating and communicating with donors and other decision-makers about MHPSS needs and gaps",
+      "ne": "MHPSS सम्बन्धी आवश्यकता र कमीहरूबारे दातृ निकाय तथा अन्य निर्णयकर्ताहरूसँग पैरवी र सञ्चार गर्ने।",
+      "bt": "To advocate and communicate with donor agencies and other decision-makers about MHPSS needs and gaps.",
+      "type": "general",
+      "terms": [
+        "T023",
+        "T217",
+        "T232"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Gaps is absent from G-0.2; proposed contextual rendering: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0052",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Deciding which programme activities to prioritize for implementation",
+      "ne": "कार्यान्वयनका लागि कुन कार्यक्रमगत गतिविधिहरूलाई प्राथमिकता दिने भन्ने निर्णय गर्ने।",
+      "bt": "To decide which programmatic activities to prioritize for implementation.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T380",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0053",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Obtaining guidance on what actions to take when implementing each activity",
+      "ne": "प्रत्येक गतिविधि कार्यान्वयन गर्दा के-कस्ता कार्य गर्ने भन्नेबारे मार्गदर्शन प्राप्त गर्ने।",
+      "bt": "To obtain guidance on what actions to take when implementing each activity.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0054",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Estimating costs of MHPSS activities",
+      "ne": "MHPSS गतिविधिहरूको लागत अनुमान गर्ने।",
+      "bt": "To estimate the costs of MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0055",
+      "page": "11",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Deciding which MHPSS activities to fund",
+      "ne": "कुन MHPSS गतिविधिहरूका लागि वित्तपोषण गर्ने भन्ने निर्णय गर्ने।",
+      "bt": "To decide which MHPSS activities to fund.",
+      "type": "general",
+      "terms": [
+        "T158"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Funding is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0056",
+      "page": "11",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "* Sector/cluster coordination groups particularly in Health, Education, Protection and associated AoRs (GBV, CP, Mine Action).",
+      "ne": "* विशेष गरी स्वास्थ्य, शिक्षा, संरक्षण र सम्बन्धित जिम्मेवारीका क्षेत्रहरू (AoRs) (GBV, CP, बारुदी सुरुङ सम्बन्धी कार्य) का क्षेत्र/क्लस्टर समन्वय समूहहरू।",
+      "bt": "* In particular, sector/cluster coordination groups for health, education, protection and related areas of responsibility (AoRs) (GBV, CP, mine action).",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T028",
+        "T029",
+        "T117",
+        "T011",
+        "T123",
+        "T128",
+        "T296",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. GBV, CP and the asterisk are retained."
+    },
+    {
+      "id": "MAN-04-0057",
+      "page": "11",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "For further information on how individual organizations and coordination groups can use the MSP, please see the step-by-step guides for different users of the MSP.",
+      "ne": "छुट्टाछुट्टै संस्था र समन्वय समूहहरूले MSP कसरी प्रयोग गर्न सक्छन् भन्नेबारे थप जानकारीका लागि MSP का विभिन्न प्रयोगकर्ताका लागि तयार गरिएका चरणबद्ध मार्गदर्शिका हेर्नुहोस्।",
+      "bt": "For more information about how individual organizations and coordination groups can use the MSP, see the step-by-step guides prepared for different users of the MSP.",
+      "type": "general",
+      "terms": [
+        "T128",
+        "T163",
+        "T183",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0058",
+      "page": "12",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "WHO SHOULD IMPLEMENT MHPSS MSP ACTIVITIES?",
+      "ne": "MHPSS MSP का गतिविधिहरू कसले कार्यान्वयन गर्नुपर्छ?",
+      "bt": "Who should implement the activities of the MHPSS MSP?",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T379"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0059",
+      "page": "12",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "No single organization is expected to implement the entire MHPSS MSP.",
+      "ne": "कुनै एक संस्थाले मात्र सम्पूर्ण MHPSS MSP कार्यान्वयन गर्ने अपेक्षा गरिएको छैन।",
+      "bt": "No single organization alone is expected to implement the entire MHPSS MSP.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0060",
+      "page": "12",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Rather, relevant organizations must coordinate and work together across sectors to ensure that MSP activities are implemented and a comprehensive response is delivered in each specified geographical area (e.g. district, camp, village, city, neighbourhood).",
+      "ne": "बरु, प्रत्येक निर्दिष्ट भौगोलिक क्षेत्र (उदाहरणका लागि, जिल्ला, शिविर, गाउँ, सहर, छिमेक) मा MSP गतिविधि कार्यान्वयन हुने र समग्र प्रतिकार्य प्रदान गरिने सुनिश्चित गर्न सम्बन्धित संस्थाहरूले विभिन्न क्षेत्रहरूबीच समन्वय गरी मिलेर काम गर्नुपर्छ।",
+      "bt": "Rather, the relevant organizations must coordinate across different sectors and work together to ensure that MSP activities are implemented and an overall response is provided in each specified geographical area (for example, district, camp, village, city, neighbourhood).",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T174",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. Here it denotes a work sector, distinct from geographical area."
+    },
+    {
+      "id": "MAN-04-0061",
+      "page": "12",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Depending on their mandate and capacities, some organizations will be better placed than others to implement certain activities.",
+      "ne": "आफ्नो कार्यादेश र क्षमताअनुसार केही संस्थाहरू निश्चित गतिविधिहरू कार्यान्वयन गर्न अन्य संस्थाभन्दा बढी उपयुक्त स्थितिमा हुनेछन्।",
+      "bt": "Depending on their mandate and capacity, some organizations will be better placed than other organizations to implement particular activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0062",
+      "page": "12",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "For ease of reference, icons are provided alongside each MSP activity to indicate sectors, clusters or AoRs that are typically well placed to deliver or contribute to it (e.g. Health, Education, Protection - including CP, GBV, and Mine Action- and Nutrition).",
+      "ne": "सजिलै सन्दर्भ लिन सकियोस् भनेर प्रत्येक MSP गतिविधिसँगै चिह्नहरू दिइएका छन्। यी चिह्नहरूले उक्त गतिविधि सञ्चालन गर्न वा त्यसमा योगदान दिन सामान्यतया उपयुक्त स्थितिमा रहेका क्षेत्र, क्लस्टर वा जिम्मेवारीका क्षेत्रहरू (AoRs) जनाउँछन् (उदाहरणका लागि, स्वास्थ्य, शिक्षा, संरक्षण—CP, GBV र बारुदी सुरुङ सम्बन्धी कार्यसहित—तथा पोषण)।",
+      "bt": "Symbols are provided alongside each MSP activity for easy reference. These symbols indicate the sectors, clusters or areas of responsibility (AoRs) generally well placed to conduct or contribute to that activity (for example, health, education, protection—including CP, GBV and mine action—and nutrition).",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T150",
+        "T124",
+        "T117",
+        "T027",
+        "T028",
+        "T029",
+        "T011",
+        "T030",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]. The sentence is split for readability without changing its scope."
+    },
+    {
+      "id": "MAN-04-0063",
+      "page": "12",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Table 1 shows the icons representing the sectors, clusters, AoRs and other areas of work included in the MSP.",
+      "ne": "तालिका 1 मा MSP मा समावेश गरिएका क्षेत्र, क्लस्टर, जिम्मेवारीका क्षेत्रहरू (AoRs) र अन्य कार्यक्षेत्रलाई जनाउने चिह्नहरू देखाइएका छन्।",
+      "bt": "Table 1 shows the symbols indicating the sectors, clusters, areas of responsibility (AoRs) and other fields of work included in the MSP.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T124",
+        "T117",
+        "T150",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Reclassified as general: this is a descriptive table reference, not a check. Sector is absent from G-0.2; proposed rendering: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-04-0064",
+      "page": "12",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Throughout the MSP, coloured icons indicate that the area of work is well placed to deliver an activity, while dark-blue icons indicate that the area of work is well-placed to contribute to or facilitate implementation.",
+      "ne": "MSP भरि, रङ्गीन चिह्नहरू ले सम्बन्धित कार्यक्षेत्र गतिविधि सञ्चालन गर्न उपयुक्त रहेको जनाउँछन् भने गाढा नीलो चिह्नहरू ले उक्त कार्यक्षेत्र कार्यान्वयनमा योगदान गर्न वा सहजीकरण गर्न उपयुक्त रहेको जनाउँछन्।",
+      "bt": "Throughout the MSP, colored symbols indicate suitability for carrying out activities in the relevant area of work, while dark blue symbols indicate suitability for contributing to or facilitating the implementation of that area of work.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T150",
+        "T193",
+        "T380"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for the recurring term 'area of work' is listed separately."
+    },
+    {
+      "id": "MAN-04-0065",
+      "page": "12",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Table 1. Icons depicting sectors, clusters, AORs and other areas of work referenced in the MSP",
+      "ne": "तालिका 1. MSP मा उल्लेख गरिएका क्षेत्र, क्लस्टर, AORs र अन्य कार्यक्षेत्र दर्शाउने चिह्नहरू",
+      "bt": "Table 1. Symbols showing the sectors, clusters, AORs and other areas of work mentioned in the MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T124",
+        "T150",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Descriptive table heading, not a checklist. Proposed terminology for sectors, areas of responsibility and areas of work is listed separately; AORs is preserved exactly."
+    },
+    {
+      "id": "MAN-04-0066",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Sector/ AoR/ cluster/area of work",
+      "ne": "क्षेत्र/ AoR/ क्लस्टर/ कार्यक्षेत्र",
+      "bt": "Sector/ AoR/ Cluster/ Area of work",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T193",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for sector, area of responsibility and area of work is listed separately; AoR is preserved exactly."
+    },
+    {
+      "id": "MAN-04-0067",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Relevant actors (who commonly coordinate or implement programmes)",
+      "ne": "सम्बन्धित सम्बद्ध पक्षहरू (जसले सामान्यतया कार्यक्रमको समन्वय वा कार्यान्वयन गर्छन्)",
+      "bt": "Relevant stakeholders (who generally coordinate or implement the program)",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0068",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Health",
+      "ne": "स्वास्थ्य",
+      "bt": "Health",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0069",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Health cluster, health coordination groups; ministry of health, health facilities and providers; organizations implementing health-related programmes.",
+      "ne": "स्वास्थ्य क्लस्टर, स्वास्थ्य समन्वय समूहहरू; स्वास्थ्य मन्त्रालय, स्वास्थ्य संस्थाहरू तथा स्वास्थ्य सेवा प्रदायकहरू; स्वास्थ्यसम्बन्धी कार्यक्रम कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "Health cluster, health coordination groups; Ministry of Health, health institutions and health service providers; organizations implementing health-related programs.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T123",
+        "T128",
+        "T237",
+        "T349",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0070",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Education",
+      "ne": "शिक्षा",
+      "bt": "Education",
+      "type": "general",
+      "terms": [
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0071",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Education cluster; education coordination groups; ministry of education; schools and other educational facilities and associated personnel; organizations implementing education-related programmes.",
+      "ne": "शिक्षा क्लस्टर; शिक्षा समन्वय समूहहरू; शिक्षा मन्त्रालय; विद्यालय तथा अन्य शैक्षिक संस्थाहरू र तिनसँग सम्बद्ध कर्मचारीहरू; शिक्षासम्बन्धी कार्यक्रम कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "Education cluster; education coordination groups; Ministry of Education; schools and other educational institutions and their associated staff; organizations implementing education-related programs.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T123",
+        "T128",
+        "T349",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0072",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Protection",
+      "ne": "संरक्षण",
+      "bt": "Protection",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0073",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Protection cluster; protection sector coordination groups (e.g. in refugee responses); ministry of social welfare and other relevant ministries (e.g. ministry of justice, ministry of health); social services facilities and providers; organizations implementing protection-related programmes, including through facilities such as community centers.",
+      "ne": "संरक्षण क्लस्टर; संरक्षण क्षेत्रका समन्वय समूहहरू (उदाहरणका लागि, शरणार्थीसम्बन्धी प्रतिकार्यमा); समाज कल्याण मन्त्रालय तथा अन्य सम्बन्धित मन्त्रालयहरू (उदाहरणका लागि, न्याय मन्त्रालय, स्वास्थ्य मन्त्रालय); सामाजिक सेवाका संस्था तथा सेवा प्रदायकहरू; सामुदायिक केन्द्रजस्ता संस्थामार्फत समेत संरक्षणसम्बन्धी कार्यक्रम कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "Protection cluster; protection sector coordination groups (for example, in refugee-related responses); Ministry of Social Welfare and other relevant ministries (for example, Ministry of Justice, Ministry of Health); social service institutions and service providers; organizations implementing protection-related programs, including through institutions such as community centers.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T123",
+        "T128",
+        "T174",
+        "T027",
+        "T296",
+        "T349",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for the recurring term 'sector' is listed separately."
+    },
+    {
+      "id": "MAN-04-0074",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Child Protection",
+      "ne": "बाल संरक्षण",
+      "bt": "Child protection",
+      "type": "general",
+      "terms": [
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0075",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Child Protection AoR of the Protection Cluster; child protection coordination groups (e.g. child protection subsector in refugee responses); social welfare and other relevant ministries (e.g. ministry of education, ministry of justice, ministry of interior/internal affairs); social welfare, community and education facilities and providers; organizations implementing child protection-related programmes.",
+      "ne": "संरक्षण क्लस्टरको बाल संरक्षण जिम्मेवारी क्षेत्र (AoR); बाल संरक्षण समन्वय समूहहरू (उदाहरणका लागि, शरणार्थीसम्बन्धी प्रतिकार्यमा बाल संरक्षण उपक्षेत्र); समाज कल्याण मन्त्रालय तथा अन्य सम्बन्धित मन्त्रालयहरू (उदाहरणका लागि, शिक्षा मन्त्रालय, न्याय मन्त्रालय, गृह/आन्तरिक मामिला मन्त्रालय); समाज कल्याण, समुदाय तथा शिक्षासम्बन्धी संस्था तथा सेवा प्रदायकहरू; बाल संरक्षणसम्बन्धी कार्यक्रम कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "Child protection area of responsibility (AoR) of the protection cluster; child protection coordination groups (for example, the child protection subsector in refugee-related responses); Ministry of Social Welfare and other relevant ministries (for example, Ministry of Education, Ministry of Justice, Ministry of Home/Internal Affairs); social welfare, community and education-related institutions and service providers; organizations implementing child protection-related programs.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T123",
+        "T036",
+        "T128",
+        "T174",
+        "T028",
+        "T296",
+        "T344",
+        "T349",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for area of responsibility and sector is listed separately."
+    },
+    {
+      "id": "MAN-04-0076",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Gender-Based Violence",
+      "ne": "लैङ्गिक हिंसा",
+      "bt": "Gender-based violence",
+      "type": "safety",
+      "terms": [
+        "T010",
+        "T233"
+      ],
+      "flags": [],
+      "note": "Uses the exact supplied unreviewed candidate label; review pending."
+    },
+    {
+      "id": "MAN-04-0077",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "GBV AoR of the Protection Cluster; GBV coordination groups (e.g. GBV subsector in refugee responses); social welfare and other relevant ministries (e.g. ministry of justice, ministry of health, ministry for women and families); women-and-girl-friendly spaces personnel; health providers, including sexual and reproductive health; organizations implementing GBV programmes.",
+      "ne": "संरक्षण क्लस्टरको GBV जिम्मेवारी क्षेत्र (AoR); GBV समन्वय समूहहरू (उदाहरणका लागि, शरणार्थीसम्बन्धी प्रतिकार्यमा GBV उपक्षेत्र); समाज कल्याण मन्त्रालय तथा अन्य सम्बन्धित मन्त्रालयहरू (उदाहरणका लागि, न्याय मन्त्रालय, स्वास्थ्य मन्त्रालय, महिला तथा परिवारसम्बन्धी मन्त्रालय); महिला तथा बालिकामैत्री स्थलका कर्मचारीहरू; यौन तथा प्रजनन स्वास्थ्य सेवा प्रदायकहरूसहित स्वास्थ्य सेवा प्रदायकहरू; GBV कार्यक्रम कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "GBV area of responsibility (AoR) of the protection cluster; GBV coordination groups (for example, the GBV subsector in refugee-related responses); Ministry of Social Welfare and other relevant ministries (for example, Ministry of Justice, Ministry of Health, ministry concerned with women and families); staff of women- and girl-friendly spaces; health service providers, including sexual and reproductive health service providers; organizations implementing GBV programs.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T123",
+        "T128",
+        "T174",
+        "T027",
+        "T296",
+        "T349",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "This is a directory of sectors and providers, not clinical care instructions or a safeguarding declaration. Proposed terminology for area of responsibility and sector is listed separately."
+    },
+    {
+      "id": "MAN-04-0078",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Mine Action",
+      "ne": "बारुदी सुरुङ सम्बन्धी कार्य",
+      "bt": "Landmine-related work",
+      "type": "safety",
+      "terms": [
+        "T011"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen label specifies landmine-related work, which may exclude parts of the broader source category Mine Action. bt-divergence: The frozen label literally specifies landmine-related work, narrowing the broader source category Mine Action. The frozen form is retained."
+    },
+    {
+      "id": "MAN-04-0079",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Mine Action AoR of the Protection Cluster; Mine Action Centre; national mine action authority and relevant ministries; mine Action coordination groups; organizations implementing mine action programmes.",
+      "ne": "संरक्षण क्लस्टरअन्तर्गत बारुदी सुरुङ सम्बन्धी कार्यको AoR; बारुदी सुरुङ सम्बन्धी कार्य केन्द्र; बारुदी सुरुङ सम्बन्धी कार्यको राष्ट्रिय प्राधिकरण र सम्बन्धित मन्त्रालयहरू; बारुदी सुरुङ सम्बन्धी कार्यका समन्वय समूहहरू; बारुदी सुरुङ सम्बन्धी कार्यका कार्यक्रमहरू कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "AoR for landmine-related work under the protection cluster; landmine-related work centre; national authority for landmine-related work and relevant ministries; coordination groups for landmine-related work; organizations implementing landmine-related work programmes.",
+      "type": "safety",
+      "terms": [
+        "T011",
+        "T029",
+        "T123",
+        "T127",
+        "T128",
+        "T349",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen Mine Action label specifies landmine-related work in every occurrence, potentially narrowing the source remit of the actors and programmes; supplied candidates do not cover AoR or the institutional titles. bt-divergence: The frozen Mine Action form specifies landmine-related work throughout, narrowing the literal remit of the listed AoR, centre, authority, coordination groups and programmes. The frozen form is retained; the actor list is otherwise preserved."
+    },
+    {
+      "id": "MAN-04-0080",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Nutrition",
+      "ne": "पोषण",
+      "bt": "Nutrition",
+      "type": "general",
+      "terms": [
+        "T030"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0081",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Nutrition cluster; nutrition coordination groups; Ministry of Health and other relevant ministries (e.g. ministry of food and agriculture); supplementary feeding centres and providers; organizations implementing nutrition-related programmes.",
+      "ne": "पोषण क्लस्टर; पोषण समन्वय समूहहरू; स्वास्थ्य मन्त्रालय तथा अन्य सम्बन्धित मन्त्रालयहरू (उदाहरणका लागि, खाद्य तथा कृषि मन्त्रालय); पूरक आहार उपलब्ध गराउने केन्द्र तथा सेवा प्रदायकहरू; पोषणसम्बन्धी कार्यक्रम कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "Nutrition cluster; nutrition coordination groups; Ministry of Health and other relevant ministries (for example, Ministry of Food and Agriculture); centers and service providers providing supplementary food; organizations implementing nutrition-related programs.",
+      "type": "general",
+      "terms": [
+        "T030",
+        "T123",
+        "T128",
+        "T027",
+        "T349",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Supplementary feeding is rendered as a service-provider label, without adding clinical eligibility or treatment guidance."
+    },
+    {
+      "id": "MAN-04-0082",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Camp Coordination & Camp Management (CCCM)",
+      "ne": "शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM)",
+      "bt": "Camp coordination and camp management (CCCM)",
+      "type": "general",
+      "terms": [
+        "T199",
+        "T200",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "A proposed expansion of CCCM is listed separately."
+    },
+    {
+      "id": "MAN-04-0083",
+      "page": "12",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "CCCM cluster; CCCM coordination groups; relevant government ministries (e.g. interior/internal affairs, disaster management and relief); organizations implementing CCCM.",
+      "ne": "CCCM क्लस्टर; CCCM समन्वय समूहहरू; सम्बन्धित सरकारी मन्त्रालयहरू (उदाहरणका लागि, गृह/आन्तरिक मामिला, विपद् व्यवस्थापन तथा राहतसम्बन्धी मन्त्रालयहरू); CCCM कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "CCCM cluster; CCCM coordination groups; relevant government ministries (for example, ministries concerned with home/internal affairs, disaster management and relief); organizations implementing CCCM.",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T128",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "CCCM is preserved; a proposed glossary expansion is listed separately."
+    },
+    {
+      "id": "MAN-04-0084",
+      "page": "13",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Sector/ AoR/ cluster/area of work",
+      "ne": "क्षेत्र/ AoR/ क्लस्टर/ कार्यक्षेत्र",
+      "bt": "Sector/ AoR/ Cluster/ Area of work",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T193",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for sector, area of responsibility and area of work is listed separately; AoR is preserved exactly."
+    },
+    {
+      "id": "MAN-04-0085",
+      "page": "13",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Relevant actors (who commonly coordinate or implement programmes)",
+      "ne": "सम्बन्धित सम्बद्ध पक्षहरू (जसले सामान्यतया कार्यक्रमको समन्वय वा कार्यान्वयन गर्छन्)",
+      "bt": "Relevant stakeholders (who generally coordinate or implement the program)",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0086",
+      "page": "13",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Shelter & Settlements",
+      "ne": "आश्रय तथा बस्ती",
+      "bt": "Shelter and settlements",
+      "type": "general",
+      "terms": [
+        "T300",
+        "T301"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for the recurring sector name 'Shelter & Settlements' is listed separately."
+    },
+    {
+      "id": "MAN-04-0087",
+      "page": "13",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Shelter & settlements cluster and related coordination groups; relevant government ministries (e.g. those responsible for civil emergencies and/or housing); local government; organizations implementing shelter-related programmes.",
+      "ne": "आश्रय तथा बस्ती क्लस्टर र सम्बन्धित समन्वय समूहहरू; सम्बन्धित सरकारी मन्त्रालयहरू (उदाहरणका लागि, नागरिक आपत्कालीन अवस्था र/वा आवासको जिम्मेवारी भएका मन्त्रालयहरू); स्थानीय सरकार; आश्रयसम्बन्धी कार्यक्रम कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "Shelter and settlements cluster and relevant coordination groups; relevant government ministries (for example, ministries with responsibility for civil emergencies and/or housing); local government; organizations implementing shelter-related programs.",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T128",
+        "T131",
+        "T300",
+        "T301",
+        "T349",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for Shelter & Settlements is listed separately. The civil-emergencies qualification and the and/or condition are retained."
+    },
+    {
+      "id": "MAN-04-0088",
+      "page": "13",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Water, Sanitation & Hygiene (WASH)",
+      "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH)",
+      "bt": "Drinking water, sanitation and hygiene (WASH)",
+      "type": "safety",
+      "terms": [
+        "T186"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen label specifies drinking water, whereas Water in the source has no such restriction. bt-divergence: The frozen WASH form specifies drinking water, whereas the source says Water without that restriction. The frozen form is retained."
+    },
+    {
+      "id": "MAN-04-0089",
+      "page": "13",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "WASH cluster; WASH coordination groups; relevant government ministries (e.g. infrastructure, health, social welfare, water & environment); organizations implementing WASH programming.",
+      "ne": "WASH क्लस्टर; WASH समन्वय समूहहरू; सम्बन्धित सरकारी मन्त्रालयहरू (उदाहरणका लागि, पूर्वाधार, स्वास्थ्य, समाज कल्याण, पानी तथा वातावरणसम्बन्धी मन्त्रालयहरू); WASH कार्यक्रम कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "WASH cluster; WASH coordination groups; relevant government ministries (for example, ministries related to infrastructure, health, social welfare, water and environment); organizations implementing WASH programmes.",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T128",
+        "T027",
+        "T349"
+      ],
+      "flags": [],
+      "note": "WASH is retained as the source acronym; the full supplied Nepali expansion is used in the preceding sector label. The ministry example narrows water to drinking water. The revision removes that unsupported restriction while retaining WASH."
+    },
+    {
+      "id": "MAN-04-0090",
+      "page": "13",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Food Security & Livelihoods (FSL)",
+      "ne": "खाद्य सुरक्षा तथा जीविकोपार्जन (FSL)",
+      "bt": "Food security and livelihoods (FSL)",
+      "type": "general",
+      "terms": [
+        "T136"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-04-0091",
+      "page": "13",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Food security cluster; food security coordination groups; relevant government ministries (e.g. ministry of food and agriculture, ministry of labour, ministry of social welfare); farmers/pastoralists associations and cooperatives; organizations implementing food-security and livelihoods programmes.",
+      "ne": "खाद्य सुरक्षा क्लस्टर; खाद्य सुरक्षाका समन्वय समूहहरू; सम्बन्धित सरकारी मन्त्रालयहरू (जस्तै, खाद्य तथा कृषि मन्त्रालय, श्रम मन्त्रालय, समाज कल्याण मन्त्रालय); किसानहरू/चरनमा आधारित पशुपालन गर्नेहरूका संघ र सहकारी संस्थाहरू; खाद्य सुरक्षा र जीविकोपार्जनका कार्यक्रमहरू कार्यान्वयन गर्ने संस्थाहरू।",
+      "bt": "Food security cluster; food security coordination groups; relevant government ministries (for example, Ministry of Food and Agriculture, Ministry of Labour, Ministry of Social Welfare); associations and cooperative organizations of farmers/those engaged in grazing-based livestock raising; organizations implementing food security and livelihood programmes.",
+      "type": "safety",
+      "terms": [
+        "T123",
+        "T127",
+        "T128",
+        "T135",
+        "T155",
+        "T349",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Pastoralists is rendered with an explicit pasture-based livelihood distinction rather than as generic livestock keepers."
+    },
+    {
+      "id": "MAN-04-0092",
+      "page": "13",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "All aspects of a humanitarian response, including the behaviour and attitudes of staff and volunteers, can impact the psychological well-being of affected populations.",
+      "ne": "कर्मचारी तथा स्वयंसेवकहरूको व्यवहार र मनोवृत्तिसहित मानवीय प्रतिकार्यका सबै पक्षहरूले प्रभावित जनसमूहको मानसिक सुस्वास्थ्यमा प्रभाव पार्न सक्छन्।",
+      "bt": "All aspects of the humanitarian response, including the behaviour and attitudes of staff and volunteers, can affect the mental well-being of the affected population.",
+      "type": "safety",
+      "terms": [
+        "T003",
+        "T174",
+        "T192",
+        "T495"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Psychological well-being uses its supplied candidate and is not replaced with psychosocial well-being; the possibility of an effect is retained."
+    },
+    {
+      "id": "MAN-04-0093",
+      "page": "13",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Therefore, all sectors play a critical role in ensuring that their activities are delivered in a way that promotes mental health and psychosocial well-being (this is sometimes known as using an “MHPSS approach”).",
+      "ne": "त्यसैले, आफ्ना गतिविधिहरू मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन गर्ने तरिकाले सञ्चालन हुने सुनिश्चित गर्न सबै क्षेत्रले अत्यन्त महत्त्वपूर्ण भूमिका खेल्छन् (यसलाई कहिलेकाहीँ “MHPSS दृष्टिकोण” प्रयोग गर्ने भनिन्छ)।",
+      "bt": "Therefore, all sectors play an extremely important role in ensuring that their activities are carried out in a way that promotes mental health and psychosocial well-being (this is sometimes called using an “MHPSS approach”).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T296",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Mental health and psychosocial well-being reuse the exact supplied unreviewed candidates. Proposed terminology for sector is listed separately. Critical role is weakened to important role. The revision restores the stronger emphasis without changing the actors or the requirement to ensure how activities are delivered."
+    },
+    {
+      "id": "MAN-04-0094",
+      "page": "13",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "Actors across a wide range of sectors can also play a key role in enhancing the effectiveness of MHPSS activities.",
+      "ne": "क्षेत्रहरूको व्यापक दायरामा रहेका सम्बद्ध पक्षहरू ले MHPSS गतिविधिहरूको प्रभावकारिता बढाउन पनि महत्त्वपूर्ण भूमिका खेल्न सक्छन्।",
+      "bt": "Stakeholders across a wide range of sectors can also play an important role in increasing the effectiveness of MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T158",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Proposed terminology for the recurring term 'sector' is listed separately. Different sectors does not explicitly retain the breadth expressed by a wide range of sectors. The revision restores that breadth and retains can also. “Actors” becomes “stakeholders,” shifting the actor category, and “a key role” becomes “an important role,” weakening the emphasis on centrality."
+    },
+    {
+      "id": "MAN-04-0095",
+      "page": "13",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "This can be achieved, for example, by coordinating and collaborating to:",
+      "ne": "उदाहरणका लागि, निम्न कार्यका लागि समन्वय र सहकार्य गरेर यो हासिल गर्न सकिन्छ:",
+      "bt": "For example, this can be achieved by coordinating and collaborating for the following tasks:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The colon is retained because this sentence introduces the following list."
+    },
+    {
+      "id": "MAN-04-0096",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Include mental health and psychosocial well-being in needs assessments: (see MSP activities 1.2 and 2.1): For example, inclusion of MHPSS in multi-sectoral site needs assessments organized by CCCM actors.",
+      "ne": "▶ आवश्यकताको लेखाजोखामा मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण समावेश गर्नुहोस् (MSP गतिविधि 1.2 र 2.1 हेर्नुहोस्): उदाहरणका लागि, CCCM सम्बद्ध पक्षले आयोजना गर्ने स्थलका आवश्यकतासम्बन्धी बहुक्षेत्रीय लेखाजोखामा MHPSS समावेश गर्ने।",
+      "bt": "▶ Include mental health and psychosocial well-being in needs assessments (see MSP activities 1.2 and 2.1): for example, including MHPSS in multisectoral assessments of site needs organized by CCCM actors.",
+      "type": "general",
+      "terms": [
+        "T068",
+        "T157",
+        "T005",
+        "T091",
+        "T163",
+        "T120",
+        "T004",
+        "T296",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Ordinary assessment and coordination guidance translated. Mental health and psychosocial well-being terminology reuses the supplied unreviewed candidates."
+    },
+    {
+      "id": "MAN-04-0097",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Provide humanitarian assistance in ways that support mental health and psychosocial well-being (see MSP activity 3.1): All humanitarian actors can take MHPSS considerations into account when planning their activities, such as prioritizing privacy and dignity when constructing WASH facilities, setting up safe community and recreational spaces when planning and managing camps and ensuring that affected populations have ways to communicate with loved ones and access information (e.g. phones, phone charging facilities).",
+      "ne": "▶ मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणलाई सहयोग पुग्ने गरी मानवीय सहायता प्रदान गर्नुहोस् (MSP गतिविधि 3.1 हेर्नुहोस्): सबै मानवीय कार्यमा संलग्न पक्षहरूले आफ्ना गतिविधिको योजना बनाउँदा MHPSS सम्बन्धी विचारणीय पक्षलाई ध्यानमा राख्न सक्छन्। उदाहरणका लागि, खानेपानी, सरसफाइ तथा स्वच्छता (WASH) सम्बन्धी सुविधा निर्माण गर्दा गोपनीयता र मर्यादालाई प्राथमिकता दिने, शिविरको योजना तथा व्यवस्थापन गर्दा सुरक्षित सामुदायिक स्थल र सुरक्षित मनोरञ्जनात्मक स्थलको व्यवस्था गर्ने, र प्रभावित जनसङ्ख्याका लागि प्रियजनसँग सञ्चार गर्ने तथा जानकारी प्राप्त गर्ने माध्यमहरू उपलब्ध भएको सुनिश्चित गर्ने (जस्तै, फोन र फोन चार्ज गर्ने सुविधा)।",
+      "bt": "▶ Provide humanitarian assistance in a way that supports mental health and psychosocial well-being (see MSP activity 3.1): All actors involved in humanitarian work can take MHPSS-related considerations into account when planning their activities. For example, prioritize privacy and dignity when constructing water, sanitation and hygiene (WASH) facilities, arrange safe community spaces and safe recreational spaces when planning and managing camps, and ensure that means of communicating with loved ones and obtaining information are available to the affected population (e.g., phones and phone-charging facilities).",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T005",
+        "T091",
+        "T163",
+        "T147",
+        "T186",
+        "T081",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "General safety guidance concerning privacy, dignity, safe spaces and communication access; review pending. This is not a verbatim safeguarding declaration. The Nepali explicitly marks community spaces, but not recreational spaces, as safe. The source describes both kinds of spaces as safe; the revision makes that scope explicit."
+    },
+    {
+      "id": "MAN-04-0098",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Engage in mutual advocacy: This includes actors from different areas of work advocating to address MHPSS needs and MHPSS actors advocating to address needs relevant to other sectors, e.g. MHPSS actors advocating for improved shelter, given the impact on mental health (see MSP activity 3.1).",
+      "ne": "▶ पारस्परिक पैरवीमा संलग्न हुनुहोस्: यसमा विभिन्न कार्यक्षेत्रका सम्बद्ध पक्षहरूले MHPSS सम्बन्धी आवश्यकतालाई सम्बोधन गर्न पैरवी गर्ने र MHPSS सम्बद्ध पक्षहरूले अन्य क्षेत्रसँग सम्बन्धित आवश्यकतालाई सम्बोधन गर्न पैरवी गर्ने कार्य समावेश हुन्छन्। उदाहरणका लागि, आश्रयले मानसिक स्वास्थ्यमा पार्ने प्रभावलाई ध्यानमा राख्दै MHPSS सम्बद्ध पक्षहरूले आश्रयको अवस्था सुधार गर्न पैरवी गर्ने (MSP गतिविधि 3.1 हेर्नुहोस्)।",
+      "bt": "▶ Engage in mutual advocacy: this includes actors from various areas of work advocating to address MHPSS-related needs and MHPSS actors advocating to address needs related to other sectors. For example, MHPSS actors advocating to improve shelter conditions, taking into account the effect of shelter on mental health (see MSP activity 3.1).",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T157",
+        "T091",
+        "T163",
+        "T191",
+        "T266",
+        "T296",
+        "T300"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring terms 'MHPSS actors' and 'shelter' lack standalone glossary entries. Proposed forms are listed separately; the frozen glossary is unchanged."
+    },
+    {
+      "id": "MAN-04-0099",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Orient frontline workers in basic psychosocial support (see MSP activity 3.2): MHPSS actors can facilitate orientations3 on basic psychosocial support for those working in protection, CCCM, shelter, WASH, nutrition, livelihoods and other areas.",
+      "ne": "▶ अग्रपंक्तिका कार्यकर्तालाई आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्नुहोस् (MSP गतिविधि 3.2 हेर्नुहोस्): MHPSS सम्बद्ध पक्षहरूले संरक्षण, CCCM, आश्रय, खानेपानी, सरसफाइ तथा स्वच्छता (WASH), पोषण, जीविकोपार्जन र अन्य क्षेत्रमा काम गर्नेहरूका लागि आधारभूत मनोसामाजिक सहयोगसम्बन्धी अभिमुखीकरण3 को सहजीकरण गर्न सक्छन्।",
+      "bt": "▶ Orient frontline workers on basic psychosocial support (see MSP activity 3.2): MHPSS actors can facilitate orientation3 on basic psychosocial support for those working in protection, CCCM, shelter, water, sanitation and hygiene (WASH), nutrition, livelihoods and other sectors.",
+      "type": "general",
+      "terms": [
+        "T013",
+        "T014",
+        "T091",
+        "T163",
+        "T114",
+        "T029",
+        "T186",
+        "T030",
+        "T155",
+        "T266",
+        "T300",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The phrase '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is reused from supplied activity 3.2 (T099) as an unreviewed candidate, not newly coined clinical wording. Footnote marker 3 is retained. Standalone entries for basic psychosocial support, MHPSS actors and shelter are proposed separately."
+    },
+    {
+      "id": "MAN-04-0100",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Disseminate key MHPSS messages (see MSP activity 3.3): Many actors can incorporate MHPSS messages into their activities and information materials, e.g. at registration facilities and camps, and as part of health, nutrition, WASH, and Mine Action activities.",
+      "ne": "▶ MHPSS सम्बन्धी मुख्य सन्देशहरू प्रसार गर्नुहोस् (MSP गतिविधि 3.3 हेर्नुहोस्): धेरै सम्बद्ध पक्षहरूले आफ्ना गतिविधि तथा सूचनामूलक सामग्रीमा MHPSS सम्बन्धी सन्देशहरू समावेश गर्न सक्छन्। उदाहरणका लागि, दर्ता सुविधा उपलब्ध हुने स्थान र शिविरहरूमा तथा स्वास्थ्य, पोषण, खानेपानी, सरसफाइ तथा स्वच्छता (WASH) र बारुदी सुरुङ सम्बन्धी कार्यका गतिविधिको अङ्गका रूपमा यस्ता सन्देशहरू समावेश गर्न सकिन्छ।",
+      "bt": "▶ Disseminate key messages related to MHPSS (see MSP activity 3.3): many actors can include MHPSS-related messages in their activities and informational materials. For example, such messages can be included at locations where registration facilities are available and in camps, and as part of activities in health, nutrition, water, sanitation and hygiene (WASH) and mine action.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T163",
+        "T114",
+        "T027",
+        "T030",
+        "T186",
+        "T011"
+      ],
+      "flags": [],
+      "note": "This row concerns dissemination arrangements, not the wording of clinical messages or validated instrument items."
+    },
+    {
+      "id": "MAN-04-0101",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Capitalize on the interconnections between MHPSS outcomes and outcomes from other areas of work (see MSP activities 2.1 and 3.1): Mental health and psychosocial well-being shape how people behave and make decisions. Programmes that incorporate MHPSS and other elements can therefore be mutually reinforcing. For example, given that maternal distress can impact child nutritional outcomes, early childhood development (ECD) programmes that incorporate efforts to improve maternal well-being are likely to have additional benefits for child nutrition and development. Given that both poor living conditions and a lack of agency can increase psychological distress, programmes that involve community members in decisions about shelter and camp management are likely to improve living conditions, mental health and psychosocial well-being.",
+      "ne": "▶ MHPSS का परिणाम र अन्य कार्यक्षेत्रका परिणामबीचका अन्तरसम्बन्धहरूको उपयोग गर्नुहोस् (MSP गतिविधिहरू 2.1 र 3.1 हेर्नुहोस्): मानसिक स्वास्थ्य र मनोसामाजिक कल्याणले मानिसहरूको व्यवहार र निर्णय लिने तरिकालाई आकार दिन्छन्। त्यसैले MHPSS र अन्य तत्वहरू समेट्ने कार्यक्रमहरूले एकअर्कालाई सबल बनाउन सक्छन्। उदाहरणका लागि, आमाहरूको व्यथाले बालबालिकाको पोषणसम्बन्धी परिणाममा प्रभाव पार्न सक्ने भएकाले, आमाहरूको कल्याण सुधार्ने प्रयासहरू समेट्ने प्रारम्भिक बाल विकास (ECD) कार्यक्रमहरूले बालबालिकाको पोषण र विकासमा थप लाभ पुर्‍याउने सम्भावना हुन्छ। कमजोर बसोबासको अवस्था र आफ्ना निर्णय लिने तथा तिनअनुसार कार्य गर्ने सामर्थ्यको अभाव दुवैले मानसिक व्यथा बढाउन सक्ने भएकाले, आश्रय र शिविर व्यवस्थापनसम्बन्धी निर्णयहरूमा समुदायका सदस्यहरूलाई सहभागी गराउने कार्यक्रमहरूले बसोबासको अवस्था, मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सुधार ल्याउने सम्भावना हुन्छ।",
+      "bt": "▶ Make use of the interrelationships between MHPSS outcomes and outcomes in other areas of work (see MSP activities 2.1 and 3.1): Mental health and psychosocial well-being shape people's behaviour and ways of making decisions. Therefore, programmes incorporating MHPSS and other elements can strengthen one another. For example, because mothers' distress can affect children's nutritional outcomes, early childhood development (ECD) programmes incorporating efforts to improve mothers' well-being are likely to bring additional benefits to children's nutrition and development. Because both poor living conditions and a lack of the ability to make one's own decisions and act according to them can increase mental distress, programmes that involve community members in decisions concerning shelter and camp management are likely to bring improvements in living conditions, mental health and psychosocial well-being.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T030",
+        "T037",
+        "T157",
+        "T163",
+        "T272",
+        "T274",
+        "T300",
+        "T328",
+        "T344",
+        "T409",
+        "T410",
+        "T461",
+        "T492"
+      ],
+      "flags": [],
+      "note": "Maternal distress and psychological distress remain distinct; agency is expressed as the capacity to make and act on decisions, and likely benefits are not made certain."
+    },
+    {
+      "id": "MAN-04-0102",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Ensure that services and supports are accessible and meet the needs of people with mental health conditions: For example, by ensuring that people in psychiatric institutions have adequate food and WASH facilities (see MSP activity 3.14) and by including people recovering from mental health conditions in livelihoods programmes.",
+      "ne": "▶ सेवा तथा सहयोगहरू पहुँचयोग्य छन् र मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरूका आवश्यकताहरू पूरा गर्छन् भन्ने सुनिश्चित गर्नुहोस्: उदाहरणका लागि, मनोचिकित्सासम्बन्धी संस्थाहरूमा रहेका व्यक्तिहरूका लागि पर्याप्त खाना र खानेपानी, सरसफाइ तथा स्वच्छता (WASH) सम्बन्धी पर्याप्त सुविधाहरू सुनिश्चित गरेर (MSP गतिविधि 3.14 हेर्नुहोस्) र मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूबाट सुधार हुँदै गरेका व्यक्तिहरूलाई जीविकोपार्जनका कार्यक्रमहरूमा समावेश गरेर यसो गर्न सकिन्छ।",
+      "bt": "▶ Ensure that services and support are accessible and meet the needs of people with mental health conditions: For example, this can be done by ensuring adequate food and adequate facilities related to drinking water, sanitation and hygiene (WASH) for people in psychiatric institutions (see MSP activity 3.14) and by including people who are recovering from mental health conditions in livelihood programmes.",
+      "type": "safety",
+      "terms": [
+        "T078",
+        "T091",
+        "T155",
+        "T157",
+        "T163",
+        "T186",
+        "T409",
+        "T478"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Psychiatric institutions are not narrowed to hospitals, and recovery remains ongoing; the frozen WASH expansion specifies drinking water although the source acronym does not explicitly impose that restriction. bt-divergence: The frozen WASH expansion restricts its water component to drinking water, a restriction not present in the source. The frozen form is retained; accessibility, needs, institutional population, adequacy and ongoing recovery are otherwise preserved."
+    },
+    {
+      "id": "MAN-04-0103",
+      "page": "13",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "3 In the MSP the term ‘orientation’ is used to refer to brief, one-off sessions, while the term ‘training’ refers to more comprehensive capacity building that requires ongoing support and supervision.",
+      "ne": "3 MSP मा ‘अभिमुखीकरण’ शब्द छोटो अवधिका, एक पटक मात्र सञ्चालन हुने सत्रहरूलाई जनाउन प्रयोग गरिएको छ भने ‘तालिम’ शब्दले निरन्तर सहयोग र सुपरिवेक्षण आवश्यक पर्ने, अझ व्यापक क्षमता विकासलाई जनाउँछ।",
+      "bt": "3 In the MSP, the term ‘orientation’ is used to refer to short-duration sessions conducted only once, whereas the term ‘training’ refers to more extensive capacity development requiring ongoing support and supervision.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T014",
+        "T201",
+        "T309",
+        "T424"
+      ],
+      "flags": [],
+      "note": "Administrative definitions of orientation and training translated as ordinary nonclinical content; the distinction between one-off sessions and more comprehensive capacity building is retained."
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-23",
+  "unit_title": "Workshop Evaluation Form",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "79-80",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:03:26+05:45",
+  "coverage": {
+    "source_words": 213,
+    "row_words": 213,
+    "skipped": [
+      "Page 79: running-footer: Annexes · MSP Workshop Facilitator Manual · 75",
+      "Page 80: running-footer: 76 · MSP Workshop Facilitator Manual · Annexes"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-23-0001",
+      "page": "79",
+      "loc": "heading",
+      "section": "Workshop Evaluation Form",
+      "en": "Annex 4",
+      "ne": "अनुसूची 4",
+      "bt": "Annex 4",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0002",
+      "page": "79",
+      "loc": "heading",
+      "section": "Workshop Evaluation Form",
+      "en": "Workshop Evaluation Form",
+      "ne": "कार्यशाला मूल्याङ्कन फाराम",
+      "bt": "Workshop evaluation form",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'workshop' is absent from G-0.3; a nonclinical candidate is proposed below."
+    },
+    {
+      "id": "FAC-23-0003",
+      "page": "79",
+      "loc": "para",
+      "section": "Workshop Evaluation Form",
+      "en": "Please provide feedback based on your experience in this workshop.",
+      "ne": "कृपया यस कार्यशालामा आफ्नो अनुभवका आधारमा पृष्ठपोषण दिनुहोस्।",
+      "bt": "Please give feedback based on your experience in this workshop.",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical rendering of 'workshop'; glossary review is pending."
+    },
+    {
+      "id": "FAC-23-0004",
+      "page": "79",
+      "loc": "para",
+      "section": "Workshop Evaluation Form",
+      "en": "Your responses will help us improve future MSP workshops.",
+      "ne": "तपाईंका उत्तरहरूले हामीलाई आगामी MSP कार्यशालाहरू सुधार गर्न मद्दत गर्नेछन्।",
+      "bt": "Your answers will help us improve future MSP workshops.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical rendering of 'workshop'; glossary review is pending."
+    },
+    {
+      "id": "FAC-23-0005",
+      "page": "79",
+      "loc": "para",
+      "section": "Workshop Evaluation Form",
+      "en": "Your responses are anonymous.",
+      "ne": "तपाईंका उत्तरहरू अनाम रहनेछन्।",
+      "bt": "Your answers will remain anonymous.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Administrative anonymity statement; this is not a participant consent declaration."
+    },
+    {
+      "id": "FAC-23-0006",
+      "page": "79",
+      "loc": "heading",
+      "section": "Workshop Evaluation Form",
+      "en": "Section A.",
+      "ne": "खण्ड A.",
+      "bt": "Section A.",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0007",
+      "page": "79",
+      "loc": "para",
+      "section": "Workshop Evaluation Form",
+      "en": "Please rate how useful you found each of the modules.",
+      "ne": "कृपया प्रत्येक मोड्युल तपाईंलाई कत्तिको उपयोगी लाग्यो भन्ने मूल्याङ्कन गर्नुहोस्।",
+      "bt": "Please rate how useful you found each module.",
+      "type": "general",
+      "terms": [
+        "T399"
+      ],
+      "flags": [],
+      "note": "Ordinary workshop feedback instruction; the supplied source does not identify it as a validated instrument item."
+    },
+    {
+      "id": "FAC-23-0008",
+      "page": "79",
+      "loc": "table-head",
+      "section": "Workshop Evaluation Form",
+      "en": "Not at all useful------------------------------------------------Extremely useful",
+      "ne": "बिल्कुलै उपयोगी छैन------------------------------------------------अत्यन्त उपयोगी",
+      "bt": "Not at all useful------------------------------------------------Extremely useful",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary workshop usefulness scale anchors; no validated instrument status is supplied."
+    },
+    {
+      "id": "FAC-23-0009",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "1",
+      "ne": "1",
+      "bt": "1",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0010",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "2",
+      "ne": "2",
+      "bt": "2",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0011",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "3",
+      "ne": "3",
+      "bt": "3",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0012",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "4",
+      "ne": "4",
+      "bt": "4",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0013",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "5",
+      "ne": "5",
+      "bt": "5",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0014",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "6",
+      "ne": "6",
+      "bt": "6",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0015",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "7",
+      "ne": "7",
+      "bt": "7",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0016",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "8",
+      "ne": "8",
+      "bt": "8",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0017",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "9",
+      "ne": "9",
+      "bt": "9",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0018",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "10",
+      "ne": "10",
+      "bt": "10",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0019",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "1. Overview of MHPSS",
+      "ne": "1. मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) को झलक",
+      "bt": "1. Overview of mental health and psychosocial support (MHPSS)",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T016"
+      ],
+      "flags": [],
+      "note": "The clinical phrase reuses T001 verbatim from its cited unreviewed candidate."
+    },
+    {
+      "id": "FAC-23-0020",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "2. Introduction to the MHPSS Minimum Service Package",
+      "ne": "2. MHPSS न्यूनतम सेवा प्याकेजको परिचय",
+      "bt": "2. Introduction to the MHPSS Minimum Service Package",
+      "type": "general",
+      "terms": [
+        "T002"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0021",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "3. Interagency coordination & assessment",
+      "ne": "3. निकायहरूबीच समन्वय र लेखाजोखा",
+      "bt": "3. Coordination and assessment among agencies",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0022",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "4. Essential components of MHPSS programmes",
+      "ne": "4. MHPSS कार्यक्रमका अत्यावश्यक अवयवहरू",
+      "bt": "4. Essential components of an MHPSS programme",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0023",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "5. MHPSS MSP Programme Activities",
+      "ne": "5. MHPSS MSP कार्यक्रमगत गतिविधिहरू",
+      "bt": "5. MHPSS MSP programmatic activities",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T167",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0024",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "6. Integrating MHPSS into programming across different areas of work",
+      "ne": "6. विभिन्न कार्यक्षेत्रमा कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने",
+      "bt": "6. Integrating MHPSS into programme planning and implementation in various fields of work",
+      "type": "general",
+      "terms": [
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0025",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "7. Additional MSP Tools",
+      "ne": "7. MSP का अतिरिक्त साधनहरू",
+      "bt": "7. Additional tools of the MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T437",
+        "T438"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0026",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "8. Using the MSP",
+      "ne": "8. MSP को प्रयोग",
+      "bt": "8. Use of the MSP",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0027",
+      "page": "79",
+      "loc": "heading",
+      "section": "Workshop Evaluation Form",
+      "en": "Section B.",
+      "ne": "खण्ड B.",
+      "bt": "Section B.",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0028",
+      "page": "79",
+      "loc": "bullet",
+      "section": "Workshop Evaluation Form",
+      "en": "1. What did you like about the workshop?",
+      "ne": "1. कार्यशालामा तपाईंलाई के मन पर्‍यो?",
+      "bt": "1. What did you like about the workshop?",
+      "type": "check",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical rendering of 'workshop'; this is an ordinary feedback question, not an identified validated instrument item."
+    },
+    {
+      "id": "FAC-23-0029",
+      "page": "79",
+      "loc": "bullet",
+      "section": "Workshop Evaluation Form",
+      "en": "2. What would you change to improve the workshop?",
+      "ne": "2. कार्यशालालाई अझ राम्रो बनाउन तपाईं के परिवर्तन गर्नुहुन्थ्यो?",
+      "bt": "2. What would you change to make the workshop better?",
+      "type": "check",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical rendering of 'workshop'; this is an ordinary feedback question, not an identified validated instrument item."
+    },
+    {
+      "id": "FAC-23-0030",
+      "page": "79",
+      "loc": "bullet",
+      "section": "Workshop Evaluation Form",
+      "en": "3. What other MHPSS-related topics would you like training on?",
+      "ne": "3. MHPSS सम्बन्धी अन्य कुन विषयमा तपाईं तालिम लिन चाहनुहुन्छ?",
+      "bt": "3. On what other topics related to MHPSS would you like to receive training?",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary question about training preferences; no new clinical terminology is introduced."
+    },
+    {
+      "id": "FAC-23-0031",
+      "page": "80",
+      "loc": "heading",
+      "section": "Workshop Evaluation Form",
+      "en": "Section C.",
+      "ne": "खण्ड C.",
+      "bt": "Section C.",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0032",
+      "page": "80",
+      "loc": "table-head",
+      "section": "Workshop Evaluation Form",
+      "en": "As a result of the workshop:",
+      "ne": "कार्यशालाको परिणामस्वरूप:",
+      "bt": "As a result of the workshop:",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical rendering of 'workshop'; the source is a lead-in to subsequent statements."
+    },
+    {
+      "id": "FAC-23-0033",
+      "page": "80",
+      "loc": "table-head",
+      "section": "Workshop Evaluation Form",
+      "en": "Strongly Disagree",
+      "ne": "दृढ रूपमा असहमत",
+      "bt": "Strongly disagree",
+      "type": "general",
+      "terms": [
+        "T333",
+        "T357"
+      ],
+      "flags": [],
+      "note": "Workshop evaluation response option; the supplied context does not identify it as part of a validated instrument. The source expresses strength of disagreement, whereas the back-translation expresses completeness. Revised to retain strong disagreement without implying total disagreement."
+    },
+    {
+      "id": "FAC-23-0034",
+      "page": "80",
+      "loc": "table-head",
+      "section": "Workshop Evaluation Form",
+      "en": "Disagree",
+      "ne": "असहमत",
+      "bt": "Disagree",
+      "type": "general",
+      "terms": [
+        "T333",
+        "T357"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0035",
+      "page": "80",
+      "loc": "table-head",
+      "section": "Workshop Evaluation Form",
+      "en": "Neutral",
+      "ne": "तटस्थ",
+      "bt": "Neutral",
+      "type": "general",
+      "terms": [
+        "T401"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0036",
+      "page": "80",
+      "loc": "table-head",
+      "section": "Workshop Evaluation Form",
+      "en": "Agree",
+      "ne": "सहमत",
+      "bt": "Agree",
+      "type": "general",
+      "terms": [
+        "T333"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0037",
+      "page": "80",
+      "loc": "table-head",
+      "section": "Workshop Evaluation Form",
+      "en": "Strongly Agree",
+      "ne": "दृढ रूपमा सहमत",
+      "bt": "Strongly agree",
+      "type": "general",
+      "terms": [
+        "T333"
+      ],
+      "flags": [],
+      "note": "The source expresses strength of agreement, whereas the back-translation expresses completeness. Revised to retain strong agreement without implying total agreement."
+    },
+    {
+      "id": "FAC-23-0038",
+      "page": "80",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "1. I have a better understanding of the MSP.",
+      "ne": "1. MSP बारे मेरो बुझाइ अझ राम्रो भएको छ।",
+      "bt": "1. My understanding of MSP has become better.",
+      "type": "check",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0039",
+      "page": "80",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "2. I feel more confident in my ability to integrate MHPSS into humanitarian programming.",
+      "ne": "2. मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) एकीकृत गर्ने आफ्नो क्षमताप्रति म अझ बढी विश्वस्त भएको महसुस गर्छु।",
+      "bt": "2. I feel that I have become more confident in my ability to integrate mental health and psychosocial support (MHPSS) into humanitarian program formulation and implementation.",
+      "type": "check",
+      "terms": [
+        "T282",
+        "T001"
+      ],
+      "flags": [],
+      "note": "The expanded MHPSS wording reuses T001 exactly as an unreviewed prior candidate; no clinical validation is claimed."
+    },
+    {
+      "id": "FAC-23-0040",
+      "page": "80",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "3. I feel more confident in my ability to advocate for MHPSS.",
+      "ne": "3. MHPSS का लागि पैरवी गर्ने आफ्नो क्षमताप्रति म अझ बढी विश्वस्त भएको महसुस गर्छु।",
+      "bt": "3. I feel that I have become more confident in my ability to advocate for MHPSS.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0041",
+      "page": "80",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "4. I feel more confident in my ability to support other actors in using the MSP.",
+      "ne": "4. MSP प्रयोग गर्न अन्य सम्बद्ध पक्षहरूलाई सहयोग गर्ने आफ्नो क्षमताप्रति म अझ बढी विश्वस्त भएको महसुस गर्छु।",
+      "bt": "4. I feel that I have become more confident in my ability to help other relevant parties use MSP.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0042",
+      "page": "80",
+      "loc": "table-cell",
+      "section": "Workshop Evaluation Form",
+      "en": "5. This training has been useful for my work",
+      "ne": "5. यो तालिम मेरो कामका लागि उपयोगी भएको छ।",
+      "bt": "5. This training has been useful for my work.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-23-0043",
+      "page": "80",
+      "loc": "heading",
+      "section": "Workshop Evaluation Form",
+      "en": "Please share any additional comments or feedback below:",
+      "ne": "कृपया थप टिप्पणी वा पृष्ठपोषण भए तल लेख्नुहोस्।",
+      "bt": "Please write below if you have any additional comments or feedback.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

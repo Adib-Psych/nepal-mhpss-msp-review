@@ -1,0 +1,1878 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-04",
+  "unit_title": "The MSP Structure and Content",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "21-26",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:58:16+05:45",
+  "coverage": {
+    "source_words": 1785,
+    "row_words": 1785,
+    "skipped": [
+      "Page 21: running-footer: Module 2 · MSP Workshop Facilitator Manual · 17",
+      "Page 22: running-footer: 18 · MSP Workshop Facilitator Manual · Module 2",
+      "Page 22: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 22: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 23: running-footer: Module 2 · MSP Workshop Facilitator Manual · 19",
+      "Page 23: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 23: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 23: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 24: running-footer: 20 · MSP Workshop Facilitator Manual · Module 2",
+      "Page 24: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 24: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 24: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 24: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 24: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 25: running-footer: Module 2 · MSP Workshop Facilitator Manual · 21",
+      "Page 25: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 25: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 25: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 25: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 25: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 25: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 26: running-footer: 22 · MSP Workshop Facilitator Manual · Module 2"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-04-0001",
+      "page": "21",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Module 2:",
+      "ne": "मोड्युल 2:",
+      "bt": "Module 2:",
+      "type": "activity",
+      "terms": [
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: module = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-04-0002",
+      "page": "21",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Overview of the MHPSS Minimum Service Package",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) न्यूनतम सेवा प्याकेजको झलक",
+      "bt": "Overview of the Mental Health and Psychosocial Support (MHPSS) Minimum Service Package",
+      "type": "activity",
+      "terms": [
+        "T001",
+        "T002",
+        "T016"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed clinical candidate T001; review remains pending."
+    },
+    {
+      "id": "FAC-04-0003",
+      "page": "21",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "By the end of this module, participants will be able to:",
+      "ne": "यस मोड्युलको अन्त्यसम्ममा सहभागीहरूले निम्न कार्य गर्न सक्नेछन्:",
+      "bt": "By the end of this module, participants will be able to do the following:",
+      "type": "general",
+      "terms": [
+        "T399",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term for module."
+    },
+    {
+      "id": "FAC-04-0004",
+      "page": "21",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "› Describe the structure of the MSP",
+      "ne": "› MSP को संरचना वर्णन गर्ने।",
+      "bt": "› Describe the structure of the MSP.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: structure = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-04-0005",
+      "page": "21",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "› Differentiate the sections of the MSP",
+      "ne": "› MSP का खण्डहरूबीचको भिन्नता छुट्याउने।",
+      "bt": "› Distinguish the differences between the sections of the MSP.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0006",
+      "page": "21",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "› Navigate through the MSP website",
+      "ne": "› MSP वेबसाइटका विभिन्न भागमा जाने।",
+      "bt": "› Go to different parts of the MSP website.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T443"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposes [Nepali wording recorded in terminology evidence] for website and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for navigating. Finding and accessing materials narrows website navigation to content retrieval. The revision restores navigation among the website's parts."
+    },
+    {
+      "id": "FAC-04-0007",
+      "page": "21",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "2.1 The MSP Structure and Content",
+      "ne": "2.1 MSP को संरचना र विषयवस्तु",
+      "bt": "2.1 Structure and content of the MSP",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T348",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms for structure and content."
+    },
+    {
+      "id": "FAC-04-0008",
+      "page": "21",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "› What is the MSP?",
+      "ne": "› MSP के हो?",
+      "bt": "› What is the MSP?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0009",
+      "page": "21",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0010",
+      "page": "21",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "› MSP structure and content",
+      "ne": "› MSP को संरचना र विषयवस्तु",
+      "bt": "› Structure and content of the MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T348",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms for structure and content."
+    },
+    {
+      "id": "FAC-04-0011",
+      "page": "21",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0012",
+      "page": "21",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "2.2 Navigating the MSP",
+      "ne": "2.2 MSP का विभिन्न भागमा जाने तरिका",
+      "bt": "2.2 How to go to different parts of MSP",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed functional wording for navigating; the source heading does not explicitly say website. The original narrows navigating the MSP to finding and accessing materials. The revision restores navigation without adding a website reference absent from this heading."
+    },
+    {
+      "id": "FAC-04-0013",
+      "page": "21",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "› Navigating the MSP website",
+      "ne": "› MSP वेबसाइटका विभिन्न भागमा जाने तरिका",
+      "bt": "› How to go to different parts of the MSP website",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T443"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring wording for website navigation. Finding and accessing materials narrows website navigation to content retrieval. The revision restores navigation among the website's parts."
+    },
+    {
+      "id": "FAC-04-0014",
+      "page": "21",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0015",
+      "page": "21",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "› Treasure hunt",
+      "ne": "› खजाना खोजी",
+      "bt": "› Treasure hunt",
+      "type": "general",
+      "terms": [
+        "T440"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0016",
+      "page": "21",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "50 min",
+      "ne": "50 मिनेट",
+      "bt": "50 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0017",
+      "page": "22",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "2.1 The MSP Structure and Content",
+      "ne": "2.1 MSP को संरचना र विषयवस्तु",
+      "bt": "2.1 Structure and content of the MSP",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T348",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms for structure and content."
+    },
+    {
+      "id": "FAC-04-0018",
+      "page": "22",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "What is the MSP?",
+      "ne": "MSP के हो?",
+      "bt": "What is the MSP?",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0019",
+      "page": "22",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0020",
+      "page": "22",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0021",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "participants how many are familiar with the MSP and what they know about it.",
+      "ne": "सहभागीहरूमध्ये कति जना MSP सँग परिचित छन् र उनीहरूलाई यसबारे के थाहा छ भनी सोध्नुहोस्।",
+      "bt": "Ask how many of the participants are familiar with the MSP and what they know about it.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T406"
+      ],
+      "flags": [],
+      "note": "Completes the instruction introduced by the preceding Ask heading."
+    },
+    {
+      "id": "FAC-04-0022",
+      "page": "22",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0023",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "The MSP is an intersectoral package of high priority activities to address the critical needs of emergency-affected populations.",
+      "ne": "MSP आपत्कालबाट प्रभावित जनसमूहका अत्यावश्यक आवश्यकता सम्बोधन गर्न उच्च प्राथमिकताका गतिविधिहरू समेटिएको अन्तरक्षेत्रीय प्याकेज हो।",
+      "bt": "MSP is an intersectoral package containing high-priority activities to address the essential needs of populations affected by an emergency.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T192",
+        "T296",
+        "T089",
+        "T389"
+      ],
+      "flags": [],
+      "note": "Covering various sectors does not explicitly preserve the intersectoral character of the package. The revision makes that relationship explicit; the technical wording remains pending review."
+    },
+    {
+      "id": "FAC-04-0024",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "It is based on, and consistent with, existing guidelines, including the 2007 IASC MHPSS guidelines and other more recent IASC guidelines.",
+      "ne": "यो 2007 का IASC MHPSS निर्देशिकाहरू र त्यसपछि जारी भएका अन्य IASC निर्देशिकाहरू लगायत विद्यमान निर्देशिकाहरूमा आधारित छ र तिनीसँग सुसङ्गत छ।",
+      "bt": "It is based on and consistent with existing guidelines, including the 2007 IASC MHPSS guidelines and other IASC guidelines issued afterward.",
+      "type": "check",
+      "terms": [
+        "T086"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0025",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "It also includes other global guidance across different sectors/areas of work such as the Sphere Standards, the Child Protection Minimum Standards, the GBV Minimum Standards, the INEE minimum standards among others.",
+      "ne": "यसमा विभिन्न क्षेत्र तथा कार्यक्षेत्रका अन्य विश्वव्यापी मार्गदर्शन पनि समावेश छन्, जस्तै Sphere मापदण्डहरू, बाल संरक्षण न्यूनतम मापदण्डहरू, GBV न्यूनतम मापदण्डहरू र INEE न्यूनतम मापदण्डहरू लगायतका मार्गदर्शन।",
+      "bt": "It also includes other global guidance from various sectors and areas of work, such as guidance including the Sphere standards, Child Protection Minimum Standards, GBV Minimum Standards and INEE Minimum Standards.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T087",
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0026",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "The MSP draws on these guidelines to identify minimum activities for the MHPSS response across sectors/AoRs.",
+      "ne": "MSP ले विभिन्न क्षेत्र/AoRs मा MHPSS प्रतिकार्यका लागि न्यूनतम गतिविधिहरू पहिचान गर्न यी निर्देशिकाहरूलाई आधार बनाउँछ।",
+      "bt": "The MSP uses these guidelines as a basis to identify minimum activities for the MHPSS response across various sectors/AoRs.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T296",
+        "T161",
+        "T086"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoRs is retained exactly. Areas of responsibility is absent from the glossary; a candidate equivalent is proposed separately."
+    },
+    {
+      "id": "FAC-04-0027",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "It was published by the IASC Reference Group for Mental Health and Psychosocial Support in Emergency Settings.",
+      "ne": "यसलाई आपत्कालीन परिस्थितिमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी IASC सन्दर्भ समूहले प्रकाशित गरेको हो।",
+      "bt": "It was published by the IASC Reference Group on Mental Health and Psychosocial Support in Emergency Settings.",
+      "type": "check",
+      "terms": [
+        "T224",
+        "T001",
+        "T171",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed clinical candidate T001; review remains pending."
+    },
+    {
+      "id": "FAC-04-0028",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "It’s been revised and reviewed with a lot of input from a very wide range of actors through the IASC MHPSS RG, different clusters and AORs, and coordination groups.",
+      "ne": "IASC MHPSS RG, विभिन्न क्लस्टर र AORs तथा समन्वय समूहहरूमार्फत अत्यन्त विविध सम्बद्ध पक्षहरूबाट प्राप्त व्यापक सुझावका आधारमा यसलाई संशोधन र समीक्षा गरिएको छ।",
+      "bt": "It has been revised and reviewed on the basis of extensive suggestions received from highly diverse stakeholders through the IASC MHPSS RG, various clusters and AORs, and coordination groups.",
+      "type": "general",
+      "terms": [
+        "T124",
+        "T128",
+        "T114",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AORs is retained exactly as supplied, distinct from AoRs in the earlier row. A candidate equivalent for areas of responsibility is proposed separately."
+    },
+    {
+      "id": "FAC-04-0029",
+      "page": "22",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Describe",
+      "ne": "वर्णन गर्नुहोस्।",
+      "bt": "Describe.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0030",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "how the Minimum Service Package was developed in the context of growing interest in MHPSS and a corresponding increase in MHPSS activities integrated into many areas of work including Child Protection, Education, GBV, Health, Food Security and Livelihoods, and beyond.",
+      "ne": "MHPSS प्रति बढ्दो चासो र त्यसअनुरूप बाल संरक्षण, शिक्षा, GBV, स्वास्थ्य, खाद्य सुरक्षा तथा जीविकोपार्जन लगायत अन्य धेरै कार्यक्षेत्रमा समावेश गरिएका MHPSS गतिविधिहरूमा भएको वृद्धिको सन्दर्भमा न्यूनतम सेवा प्याकेज कसरी विकास गरियो भन्ने वर्णन गर्नुहोस्।",
+      "bt": "Describe how the minimum service package was developed in the context of growing interest in MHPSS and the corresponding increase in MHPSS activities included in many other areas of work, including child protection, education, GBV, health, food security and livelihoods.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T028",
+        "T027",
+        "T034",
+        "T158",
+        "T002"
+      ],
+      "flags": [],
+      "note": "Completes the instruction introduced by the preceding Describe heading."
+    },
+    {
+      "id": "FAC-04-0031",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Explain that in recent years there has been more interest from donors and more political will recognizing the importance of MHPSS, including many high-level meetings and reviews of MHPSS in humanitarian response.",
+      "ne": "हालका वर्षहरूमा MHPSS को महत्त्वलाई स्वीकार गर्दै दातृ निकायको चासो र राजनीतिक इच्छाशक्ति बढेको छ र यसअन्तर्गत मानवीय प्रतिकार्यमा MHPSS सम्बन्धी धेरै उच्चस्तरीय बैठक र समीक्षा भएका छन् भन्ने व्याख्या गर्नुहोस्।",
+      "bt": "Explain that in recent years, donor interest and political will have increased in recognition of the importance of MHPSS, and that under this there have been many high-level meetings and reviews concerning MHPSS in humanitarian response.",
+      "type": "general",
+      "terms": [
+        "T023",
+        "T003"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0032",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Describe how on those various high-level discussions a recurrent theme was that, while there has been growth in MHPSS activities in response to critical needs, there is still a lot of variation in what MHPSS activities look like and how they are understood.",
+      "ne": "ती विभिन्न उच्चस्तरीय छलफलमा बारम्बार उठेको विषय के थियो भने अत्यावश्यक आवश्यकता सम्बोधन गर्न MHPSS गतिविधिहरू बढेका भए पनि ती गतिविधिहरूको स्वरूप कस्तो हुन्छ र तिनलाई कसरी बुझिन्छ भन्नेमा अझै धेरै भिन्नता छ भन्ने कुरा वर्णन गर्नुहोस्।",
+      "bt": "Describe that a repeatedly raised topic in those various high-level discussions was that, although MHPSS activities have increased to address essential needs, there is still much variation in what form those activities take and how they are understood.",
+      "type": "general",
+      "terms": [
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0033",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Underscore how while existing guidance provides a good starting point, implementing agencies share the need for more information on how to choose between different activities to make sure their work is impactful and of high quality; and how from a funding perspective, donors express that in order to more effectively fund MHPSS, they need more information on what the priority, non-negotiable activities are, and how much funding they need to dedicate to these priority activities.",
+      "ne": "विद्यमान मार्गदर्शनले राम्रो सुरुआती आधार दिए पनि आफ्नो काम प्रभावकारी र उच्च गुणस्तरको हुने सुनिश्चित गर्न विभिन्न गतिविधिमध्ये कसरी छनोट गर्ने भन्नेबारे कार्यान्वयन गर्ने निकायहरूलाई थप जानकारी आवश्यक छ भन्ने कुरामा जोड दिनुहोस्; साथै, वित्तपोषणको दृष्टिले, MHPSS लाई अझ प्रभावकारी रूपमा वित्तपोषण गर्न कुन गतिविधिहरू प्राथमिकतामा पर्छन् र अनिवार्य छन् तथा यी प्राथमिकताका गतिविधिहरूका लागि कति वित्तपोषण छुट्याउनुपर्छ भन्नेबारे थप जानकारी चाहिने कुरा दातृ निकायले व्यक्त गर्छन् भन्ने कुरामा पनि जोड दिनुहोस्।",
+      "bt": "Emphasize that although existing guidance provides a good starting basis, implementing agencies need more information on how to choose among different activities to ensure that their work is effective and of high quality; also emphasize that, from a financing perspective, donor agencies express a need for more information on which activities are priorities and mandatory for financing MHPSS more effectively, and how much funding should be allocated to these priority activities.",
+      "type": "general",
+      "terms": [
+        "T231",
+        "T089",
+        "T023"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0034",
+      "page": "22",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "End by explaining that this was the context where the MSP was developed.",
+      "ne": "यही सन्दर्भमा MSP विकास गरिएको हो भन्ने कुरा व्याख्या गरेर समापन गर्नुहोस्।",
+      "bt": "Conclude by explaining that MSP was developed in this context.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0035",
+      "page": "23",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Briefly explain",
+      "ne": "संक्षेपमा व्याख्या गर्नुहोस्।",
+      "bt": "Explain briefly.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0036",
+      "page": "23",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "The development process:",
+      "ne": "विकास प्रक्रिया:",
+      "bt": "Development process:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0037",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• A literature review of key documents such as IASC guidelines, Sphere Guidelines, and sector/cluster publications with relevance to MHPSS",
+      "ne": "• IASC निर्देशिकाहरू, Sphere निर्देशिकाहरू तथा MHPSS सँग सान्दर्भिक क्षेत्र/क्लस्टरका प्रकाशनहरूजस्ता प्रमुख दस्तावेजहरूको साहित्य समीक्षा",
+      "bt": "• Literature review of key documents such as the IASC guidelines, Sphere guidelines, and publications of sectors/clusters relevant to MHPSS",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T296",
+        "T123",
+        "T393"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term literature review is absent from G-0.3; proposed wording is listed for review."
+    },
+    {
+      "id": "FAC-04-0038",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Extensive consultations through global networks for MHPSS and the relevant clusters & Areas of Responsibility (more than 100 participants in interviews and focus groups, in diverse locations and roles)",
+      "ne": "• MHPSS का विश्वव्यापी सञ्जालहरू तथा सम्बन्धित क्लस्टर र जिम्मेवारीका क्षेत्रहरूमार्फत व्यापक परामर्श (विविध स्थान र भूमिकाका 100 भन्दा बढी सहभागीहरूसँग अन्तर्वार्ता र केन्द्रित समूह छलफल)",
+      "bt": "• Extensive consultation through global MHPSS networks and related clusters and areas of responsibility (interviews and focus group discussions with more than 100 participants from diverse locations and roles)",
+      "type": "general",
+      "terms": [
+        "T124",
+        "T116",
+        "T346",
+        "T347",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Ordinary development-process content is translated rather than retained as check. The recurring term consultations is absent from G-0.3; proposed wording is listed for review."
+    },
+    {
+      "id": "FAC-04-0039",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Focus on getting input from colleagues implementing MHPSS in different emergency settings around the world as well as global wand regional advisors.",
+      "ne": "• विश्वभरिका विभिन्न आपत्कालीन परिस्थितिमा MHPSS कार्यान्वयन गरिरहेका सहकर्मीहरूका साथै विश्वस्तरका तथा क्षेत्रीय सल्लाहकारहरूबाट राय प्राप्त गर्नमा ध्यान केन्द्रित गर्नुहोस्।",
+      "bt": "• Focus on obtaining opinions from colleagues implementing MHPSS in various emergency situations around the world, as well as from global and regional advisers.",
+      "type": "safety",
+      "terms": [
+        "T224"
+      ],
+      "flags": [
+        "unclear-english",
+        "bt-divergence"
+      ],
+      "note": "The malformed source phrase 'global wand regional advisors' is provisionally interpreted as 'global and regional advisors'; this interpretation requires source confirmation. The Nepali and BT interpret the malformed source phrase 'global wand regional advisors' as 'global and regional advisers'. This interpretation is plausible but cannot be confirmed from the supplied source; no repair is justified without clarification."
+    },
+    {
+      "id": "FAC-04-0040",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• First draft developed based on these literature reviews and consultations",
+      "ne": "• यी साहित्य समीक्षा र परामर्शका आधारमा पहिलो मस्यौदा तयार गरिएको",
+      "bt": "• The first draft was prepared on the basis of these literature reviews and consultations",
+      "type": "general",
+      "terms": [
+        "T346",
+        "T347",
+        "T393"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring terms literature review and consultations are absent from G-0.3; proposed wording is listed for review."
+    },
+    {
+      "id": "FAC-04-0041",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Multiple rounds of peer review.",
+      "ne": "• समकक्षी समीक्षाका धेरै चरणहरू",
+      "bt": "• Several rounds of peer review",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0042",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Pilot over two years, with feedback through hundreds of survey respondents & consultations with users",
+      "ne": "• दुई वर्षसम्म परीक्षण कार्यान्वयन, जसमा सर्वेक्षणका सयौँ उत्तरदाता र प्रयोगकर्ताहरूसँगको परामर्शमार्फत पृष्ठपोषण प्राप्त गरिएको",
+      "bt": "• Pilot implementation for two years, during which feedback was obtained through hundreds of survey respondents and consultation with users",
+      "type": "general",
+      "terms": [
+        "T346",
+        "T347",
+        "T417",
+        "T434"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term consultations is absent from G-0.3; proposed wording is listed for review."
+    },
+    {
+      "id": "FAC-04-0043",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Extensively revised and finally released as an IASC product in Dec 2022.",
+      "ne": "• व्यापक रूपमा संशोधन गरी अन्ततः डिसेम्बर 2022 मा IASC को सामग्रीका रूपमा जारी गरिएको",
+      "bt": "• Extensively revised and finally released as IASC material in December 2022",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary publication-history content is translated rather than retained as check."
+    },
+    {
+      "id": "FAC-04-0044",
+      "page": "23",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0045",
+      "page": "23",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "The MSP is available as a printable PDF and as an online platform.",
+      "ne": "MSP मुद्रण गर्न मिल्ने PDF र अनलाइन मञ्चका रूपमा उपलब्ध छ।",
+      "bt": "MSP is available as a printable PDF and an online platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T404"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0046",
+      "page": "23",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Note:",
+      "ne": "ध्यान दिनुपर्ने कुरा:",
+      "bt": "Points to note:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0047",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Printable PDF version has all the core content on the activities.",
+      "ne": "• मुद्रण गर्न मिल्ने PDF संस्करणमा गतिविधिहरूसम्बन्धी सबै मूल सामग्री समावेश छन्।",
+      "bt": "• The printable PDF version contains all the core material relating to the activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0048",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• The online version has some extra content:",
+      "ne": "• अनलाइन संस्करणमा केही थप सामग्री छन्:",
+      "bt": "• The online version has some additional material:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0049",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "» lists of resources that are updated as new publications are released.",
+      "ne": "» नयाँ प्रकाशनहरू जारी हुँदै जाँदा अद्यावधिक गरिने स्रोत सामग्रीका सूचीहरू",
+      "bt": "» Lists of resource materials that are updated as new publications are released",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0050",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "» orientation videos",
+      "ne": "» अभिमुखीकरणसम्बन्धी भिडियोहरू",
+      "bt": "» Orientation-related videos",
+      "type": "general",
+      "terms": [
+        "T014"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0051",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "» ability to search for content & filter activities by sector",
+      "ne": "» सामग्री खोज्न र क्षेत्रअनुसार गतिविधिहरू छान्न सकिने सुविधा",
+      "bt": "» A feature for searching for material and selecting activities by sector",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0052",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• The PDF has hyperlinks throughout so you can click through to additional content on the website",
+      "ne": "• PDF भरि हाइपरलिङ्कहरू राखिएका छन्, जसमा क्लिक गरेर वेबसाइटमा रहेका थप सामग्रीमा जान सकिन्छ।",
+      "bt": "• Hyperlinks are included throughout the PDF, which can be clicked to access additional material on the website.",
+      "type": "general",
+      "terms": [
+        "T443"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0053",
+      "page": "23",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Share which languages each version is currently available in.",
+      "ne": "• प्रत्येक संस्करण हाल कुन-कुन भाषामा उपलब्ध छ भन्ने जानकारी दिनुहोस्।",
+      "bt": "• Give information on which languages each version is currently available in.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0054",
+      "page": "23",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "MSP Structure and Content",
+      "ne": "MSP को संरचना र सामग्री",
+      "bt": "Structure and content of MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T433"
+      ],
+      "flags": [],
+      "note": "This is a section heading, not an activity title."
+    },
+    {
+      "id": "FAC-04-0055",
+      "page": "23",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0056",
+      "page": "23",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "This is an ordinary duration label."
+    },
+    {
+      "id": "FAC-04-0057",
+      "page": "23",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "The MSP is divided into four sections.",
+      "ne": "MSP लाई चार खण्डमा विभाजन गरिएको छ।",
+      "bt": "MSP is divided into four sections.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0058",
+      "page": "23",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "The workshop will cover all four sections.",
+      "ne": "कार्यशालामा चारै खण्ड समेटिनेछन्।",
+      "bt": "All four sections will be covered in the workshop.",
+      "type": "general",
+      "terms": [
+        "T422",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0059",
+      "page": "23",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Each section focuses on different types of activities:",
+      "ne": "प्रत्येक खण्डले फरक प्रकारका गतिविधिहरूमा ध्यान केन्द्रित गर्छ:",
+      "bt": "Each section focuses on different types of activities:",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0060",
+      "page": "23",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Section 1 focuses on interagency coordination and assessment for the MHPSS response.",
+      "ne": "खण्ड 1 ले MHPSS प्रतिकार्यका लागि निकायहरूबीचको समन्वय र लेखाजोखामा ध्यान केन्द्रित गर्छ।",
+      "bt": "Section 1 focuses on inter-agency coordination and assessment for the MHPSS response.",
+      "type": "general",
+      "terms": [
+        "T161",
+        "T004",
+        "T349",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Ordinary coordination and assessment content is translated rather than retained as check."
+    },
+    {
+      "id": "FAC-04-0061",
+      "page": "23",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Section 2 lists essential components of all MHPSS Programs.",
+      "ne": "खण्ड 2 मा सबै MHPSS कार्यक्रमका अत्यावश्यक अङ्गहरू सूचीकृत छन्।",
+      "bt": "Section 2 lists the essential components of all MHPSS programmes.",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": "Ordinary programme-structure content is translated rather than retained as check."
+    },
+    {
+      "id": "FAC-04-0062",
+      "page": "23",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Section 3 contains the programmatic activities that address the mental health and psychosocial needs of affected populations.",
+      "ne": "खण्ड 3 मा प्रभावित जनसमूहका मानसिक स्वास्थ्य तथा मनोसामाजिक आवश्यकताहरू सम्बोधन गर्ने कार्यक्रमगत गतिविधिहरू समावेश छन्।",
+      "bt": "Section 3 includes programmatic activities that address the mental health and psychosocial needs of affected populations.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T166",
+        "T192",
+        "T410",
+        "T422"
+      ],
+      "flags": [],
+      "note": "The supplied G-0.5 candidate forms are retained without implying terminology validation."
+    },
+    {
+      "id": "FAC-04-0063",
+      "page": "23",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Section 4 contains two programme activities focused on specific settings.",
+      "ne": "खण्ड 4 मा विशिष्ट परिस्थितिमा केन्द्रित दुई कार्यक्रमगत गतिविधिहरू समावेश छन्।",
+      "bt": "Section 4 includes two programmatic activities focused on specific situations.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Ordinary programme-structure content is translated rather than retained as check."
+    },
+    {
+      "id": "FAC-04-0064",
+      "page": "24",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Show",
+      "ne": "देखाउनुहोस्।",
+      "bt": "Show.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0065",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "the slide with MSP activities and explain: In section 1, we have the two activities focused on inter agency coordination and assessment .",
+      "ne": "MSP गतिविधिहरू भएको स्लाइड र व्याख्या गर्नुहोस्: खण्ड 1 मा हामीसँग अन्तर-संस्थागत समन्वय र लेखाजोखामा केन्द्रित दुई गतिविधिहरू छन्।",
+      "bt": "The slide with MSP activities, and explain: In Section 1, we have two activities focused on inter-agency coordination and assessment.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T163",
+        "T272",
+        "T349",
+        "T422",
+        "T427"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The opening lacks a verb specifying what to do with the slide; that fragment is retained without adding an instruction to show it."
+    },
+    {
+      "id": "FAC-04-0066",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "(1.1 Coordinate MHPSS within and across sectors; 1.2 Assess MHPSS needs and resources to guide programming).",
+      "ne": "(1.1 क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने; 1.2 कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने)।",
+      "bt": "(1.1 Coordinate MHPSS within and across sectors; 1.2 Assess MHPSS needs and resources to guide programming).",
+      "type": "activity",
+      "terms": [
+        "T092",
+        "T093"
+      ],
+      "flags": [],
+      "note": "Both activity labels reuse the supplied unreviewed candidates verbatim."
+    },
+    {
+      "id": "FAC-04-0067",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "These activities are particularly relevant to TWGs/coordination groups, as they rely on interagency work.",
+      "ne": "यी गतिविधिहरू अन्तरनिकाय कार्यमा निर्भर हुने भएकाले TWGs/समन्वय समूहहरूका लागि विशेष रूपमा सान्दर्भिक छन्।",
+      "bt": "These activities are particularly relevant for TWGs/coordination groups because they depend on interagency work.",
+      "type": "general",
+      "terms": [
+        "T128",
+        "T349",
+        "T386"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "TWGs is retained without an unsupported expansion. Proposed recurring modifier: interagency = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-04-0068",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "In section 2, we have four activities considered the essential components of all MHPSS programmes (that is: effective program planning, design and coordination– 2.1; developing and implementing systems for M&E – 2.2; caring for staff & volunteers - 2.3; and supporting MHPSS competencies of staff and volunteers- 2.4).",
+      "ne": "खण्ड 2 मा सबै MHPSS कार्यक्रमका अत्यावश्यक अङ्ग मानिने चार गतिविधि छन् (अर्थात्: प्रभावकारी कार्यक्रम योजना, डिजाइन र समन्वय – 2.1; M&E का लागि प्रणाली विकास र कार्यान्वयन – 2.2; कर्मचारी र स्वयंसेवकको हेरचाह – 2.3; र कर्मचारी तथा स्वयंसेवकको MHPSS सम्बन्धी सक्षमताका लागि सहयोग – 2.4)।",
+      "bt": "Section 2 contains four activities considered essential components of all MHPSS programs (namely: effective program planning, design and coordination – 2.1; development and implementation of systems for M&E – 2.2; care of staff and volunteers – 2.3; and support for the MHPSS-related competencies of staff and volunteers – 2.4).",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T159",
+        "T349",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "The four programme-management components and their codes are retained; this is ordinary operational content rather than new clinical wording. Nepali and BT add strengthening competencies, whereas the source says supporting competencies without specifying strengthening. Removed that added objective."
+    },
+    {
+      "id": "FAC-04-0069",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "These are activities that any organization engaging in any type of MHPSS activity should be doing.",
+      "ne": "कुनै पनि प्रकारको MHPSS गतिविधिमा संलग्न जुनसुकै संस्थाले यी गतिविधिहरू गरिरहेको हुनुपर्छ।",
+      "bt": "Any organization involved in any type of MHPSS activity should be carrying out these activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0070",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Section 3 is the main body of the MSP and it covers 14 programme activities, from community-wide messaging and supporting community-self help, all the way up to focused support like psychological interventions and care & protection for people in psychiatric hospitals and other institutions.",
+      "ne": "खण्ड 3 MSP को मुख्य भाग हो र यसमा 14 कार्यक्रमगत गतिविधिहरू समेटिएका छन्। यी गतिविधिहरू समुदायभरि सन्देश प्रवाह गर्ने र समुदायको स्वसहयोगमा सहयोग गर्ने कार्यदेखि मनोवैज्ञानिक हस्तक्षेप तथा मानसिक अस्पताल र अन्य संस्थामा रहेका व्यक्तिहरूको हेरचाह र संरक्षणजस्ता लक्षित सहयोगसम्म फैलिएका छन्।",
+      "bt": "Section 3 is the main part of the MSP and includes 14 programmatic activities. These activities range from conveying messages throughout the community and supporting community self-help to targeted support such as psychological interventions and the care and protection of people in psychiatric hospitals and other institutions.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T167",
+        "T007",
+        "T015",
+        "T029",
+        "T344",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Clinical terms reuse only T007 and T015, cited respectively to MAN PDF p5 / PRIOR-SUM-29OCT2026 p.2 row 102 and MAN PDF p5 / PRIOR-SUM-29OCT2026 p.2 row 104. Both remain unreviewed candidates."
+    },
+    {
+      "id": "FAC-04-0071",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "In section 4 we have the two program activities for specific settings.",
+      "ne": "खण्ड 4 मा विशिष्ट परिवेशका लागि दुई कार्यक्रमगत गतिविधिहरू छन्।",
+      "bt": "Section 4 has two programmatic activities for specific settings.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0072",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "These activities will be relevant if you are working in a Public Health Emergency response to an infectious disease outbreak and/or if you are providing MHPSS for people deprived of their liberty.",
+      "ne": "यदि तपाईं सरुवा रोगको प्रकोपको सन्दर्भमा जनस्वास्थ्य आपत्कालको प्रतिकार्यमा काम गर्दै हुनुहुन्छ र/वा स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई MHPSS प्रदान गर्दै हुनुहुन्छ भने यी गतिविधिहरू सान्दर्भिक हुनेछन्।",
+      "bt": "These activities will be relevant if you are working in a public health emergency response in the context of an infectious disease outbreak and/or are providing MHPSS to people deprived of liberty.",
+      "type": "general",
+      "terms": [
+        "T170",
+        "T174",
+        "T383"
+      ],
+      "flags": [],
+      "note": "The infectious-disease wording reuses [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] from supplied activity candidate T112; the liberty-related wording reuses supplied activity candidate T113. These are unreviewed candidates."
+    },
+    {
+      "id": "FAC-04-0073",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "That means that these activities would be applicable in addition to the activities in section 3. Depending on the group, it may be useful to highlight where to find the activities that are most relevant to the audience.",
+      "ne": "यसको अर्थ यी गतिविधिहरू खण्ड 3 का गतिविधिहरूका अतिरिक्त लागू हुनेछन् भन्ने हो। समूहअनुसार, सहभागीहरूका लागि सबैभन्दा सान्दर्भिक गतिविधिहरू कहाँ पाइन्छन् भनेर विशेष रूपमा देखाउनु उपयोगी हुन सक्छ।",
+      "bt": "This means that these activities will apply in addition to the activities in Section 3. Depending on the group, it may be useful to specifically show where the activities most relevant to the participants can be found.",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0074",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Explain that MSP activities are considered “minimum” for a humanitarian response.",
+      "ne": "मानवीय प्रतिकार्यका लागि MSP गतिविधिहरूलाई “न्यूनतम” मानिन्छ भनेर व्याख्या गर्नुहोस्।",
+      "bt": "Explain that the MSP activities are considered the “minimum” for a humanitarian response.",
+      "type": "general",
+      "terms": [
+        "T003",
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0075",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "These activities should be implemented in all emergencies.",
+      "ne": "यी गतिविधिहरू सबै आपत्कालीन अवस्थामा कार्यान्वयन गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate to implement these activities in all emergency situations.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T379"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "BT renders the source recommendation should as mandatory must. Revised to express recommended implementation without an absolute obligation, retaining all emergencies. The BT weakens the recommendation that these activities should be implemented in all emergencies to a statement that implementing them is appropriate."
+    },
+    {
+      "id": "FAC-04-0076",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "In principle, MSP activities can be implemented within a 12-month timeframe, and most will need to continue beyond that.",
+      "ne": "सैद्धान्तिक रूपमा, MSP गतिविधिहरू 12 महिनाको समयावधिभित्र कार्यान्वयन गर्न सकिन्छ, र तीमध्ये अधिकांशलाई त्यसपछि पनि निरन्तरता दिनुपर्ने हुन्छ।",
+      "bt": "In principle, the MSP activities can be implemented within a period of 12 months, and most of them will need to be continued afterwards as well.",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0077",
+      "page": "24",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Highlight",
+      "ne": "विशेष जोड दिनुहोस्।",
+      "bt": "Place particular emphasis.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0078",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "No single organization is expected to implement all activities.",
+      "ne": "कुनै एक संस्थाले मात्र सबै गतिविधिहरू कार्यान्वयन गर्ने अपेक्षा गरिएको छैन।",
+      "bt": "No single organization alone is expected to implement all the activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0079",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Rather, organizations must coordinate and work together across sectors and AORs to ensure that activities are implemented and that a comprehensive response is delivered in each geographical area.",
+      "ne": "बरु, प्रत्येक भौगोलिक क्षेत्रमा गतिविधिहरू कार्यान्वयन भएको र समग्र प्रतिकार्य प्रदान गरिएको सुनिश्चित गर्न संस्थाहरूले विभिन्न क्षेत्र र AORs बीच समन्वय गरी मिलेर काम गर्नुपर्छ।",
+      "bt": "Rather, organizations must coordinate across different sectors and AORs and work together to ensure that activities are implemented in each geographical area and that an overall response is provided.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T174"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AORs is a recurring coordination label absent from the supplied glossary. Retain the source acronym without expansion pending an agreed glossary entry."
+    },
+    {
+      "id": "FAC-04-0080",
+      "page": "24",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0081",
+      "page": "24",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Each activity across the 4 sections has the same structure and comes with a set of tools to support planning and implementation, including:",
+      "ne": "4 वटै खण्डका प्रत्येक गतिविधिको संरचना एउटै छ र प्रत्येक गतिविधिसँग योजना तथा कार्यान्वयनमा सहयोग गर्ने साधनहरूको समूह दिइएको छ, जसमा निम्न कुरा समावेश छन्:",
+      "bt": "Each activity in all 4 sections has the same structure, and each activity is accompanied by a set of tools to support planning and implementation, which includes the following:",
+      "type": "general",
+      "terms": [
+        "T380",
+        "T422",
+        "T433",
+        "T437",
+        "T438"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring resource term: tools = [Nepali wording recorded in terminology evidence]. The colon is retained to introduce the following list."
+    },
+    {
+      "id": "FAC-04-0082",
+      "page": "24",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• A brief introduction explaining why the activity is important.",
+      "ne": "• गतिविधि किन महत्त्वपूर्ण छ भनेर व्याख्या गर्ने संक्षिप्त परिचय।",
+      "bt": "• A brief introduction explaining why the activity is important.",
+      "type": "general",
+      "terms": [
+        "T017"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0083",
+      "page": "24",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• A checklist of core actions to help plan and implement the activity safely and effectively. Additional actions for consideration , that can also be prioritized depending on context-specific needs and available resources.",
+      "ne": "• गतिविधिको सुरक्षित र प्रभावकारी योजना तथा कार्यान्वयनमा मद्दत गर्ने मुख्य कार्यहरू समेटिएको जाँचसूची। विचार गर्नका लागि दिइएका थप कार्यहरू, जसलाई सन्दर्भविशेषका आवश्यकता र उपलब्ध स्रोतअनुसार पनि प्राथमिकता दिन सकिन्छ।",
+      "bt": "• A checklist containing key actions that help with the safe and effective planning and implementation of the activity. Additional actions provided for consideration, which can also be prioritized according to context-specific needs and available resources.",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T121",
+        "T115",
+        "T350"
+      ],
+      "flags": [],
+      "note": "This describes planning resources rather than issuing a safeguarding declaration or clinical instruction."
+    },
+    {
+      "id": "FAC-04-0084",
+      "page": "24",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Key guidelines, standards and tools, to support planning and implementation – explain that links to different language versions of each resource are provided where available, and that resources are organized under subheadings to make it easier to navigate (e.g. resources for adults vs children, resources for different sectors)",
+      "ne": "• योजना तथा कार्यान्वयनमा सहयोग गर्ने प्रमुख निर्देशिकाहरू, मापदण्डहरू र साधनहरू – उपलब्ध भएमा प्रत्येक स्रोत सामग्रीका विभिन्न भाषाका संस्करणका लिङ्कहरू दिइएका छन् र सामग्री खोज्न सजिलो होस् भनेर स्रोत सामग्रीलाई उपशीर्षकअन्तर्गत व्यवस्थित गरिएको छ भन्ने कुरा व्याख्या गर्नुहोस् (जस्तै, वयस्कका लागि र बालबालिकाका लागि स्रोत सामग्री, विभिन्न क्षेत्रका लागि स्रोत सामग्री)।",
+      "bt": "• Key guidelines, standards and tools to support planning and implementation – explain that, where available, links to versions of each resource material in different languages are provided and that resource materials are organized under subheadings to make materials easier to find (for example, resource materials for adults and for children, resource materials for different sectors).",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087",
+        "T296",
+        "T380",
+        "T437",
+        "T438"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring resource term: tools = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-04-0085",
+      "page": "24",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Explain that the resource lists are online only but that they are linked throughout the PDF (the image of the computer is a reminder)",
+      "ne": "• स्रोत सामग्रीका सूचीहरू अनलाइनमा मात्र उपलब्ध छन्, तर PDF भरि तिनका लिङ्कहरू दिइएका छन् भनेर व्याख्या गर्नुहोस् (कम्प्युटरको चित्रले यो कुरा सम्झाउँछ)।",
+      "bt": "• Explain that the lists of resource materials are available only online, but links to them are provided throughout the PDF (the picture of a computer serves as a reminder of this).",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0086",
+      "page": "25",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0087",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Some activities also include key considerations that give more information on how to approach the activity, particularly where there are important nuances or complex issues to navigate.",
+      "ne": "केही गतिविधिमा मुख्य विचारणीय पक्षहरू पनि समावेश छन्, जसले गतिविधि कसरी अघि बढाउने भन्नेबारे थप जानकारी दिन्छन्, विशेष गरी ध्यान दिनुपर्ने महत्त्वपूर्ण सूक्ष्म भिन्नता वा जटिल विषयहरू भएका अवस्थामा।",
+      "bt": "Some activities also include key considerations, which provide further information on how to proceed with the activity, particularly where there are important subtle differences or complex issues that require attention.",
+      "type": "general",
+      "terms": [
+        "T154"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0088",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "It can be helpful to be able to point to these when people ask for guidance on issues that might be difficult or controversial Explain that some activities include MHPSS recommended training topics.",
+      "ne": "मानिसहरूले कठिन वा विवादास्पद हुन सक्ने विषयमा मार्गदर्शन माग्दा यी पक्षहरू देखाउन सक्नु उपयोगी हुन सक्छ। केही गतिविधिमा MHPSS सम्बन्धी सिफारिस गरिएका तालिमका विषयहरू समावेश छन् भनेर व्याख्या गर्नुहोस्।",
+      "bt": "It may be useful to be able to point out these considerations when people ask for guidance on topics that may be difficult or controversial. Explain that some activities include recommended MHPSS-related training topics.",
+      "type": "general",
+      "terms": [
+        "T088"
+      ],
+      "flags": [],
+      "note": "The missing sentence boundary before Explain is resolved as two sentences without changing the content."
+    },
+    {
+      "id": "FAC-04-0089",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "These aim to support implementing agencies to develop and/or adapt MHPSS training programmes.",
+      "ne": "यिनको उद्देश्य कार्यान्वयन गर्ने निकायहरूलाई MHPSS तालिम कार्यक्रम विकास गर्न र/वा अनुकूलन गर्न सहयोग गर्नु हो।",
+      "bt": "Their purpose is to help implementing bodies develop and/or adapt MHPSS training programmes.",
+      "type": "general",
+      "terms": [
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0090",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "The lists of recommended training topics may serve as a starting point for curriculum development but must be adapted to priority needs in the implementing context in collaboration with the affected population.",
+      "ne": "सिफारिस गरिएका तालिमका विषयहरूका सूचीले पाठ्यक्रम विकासको प्रारम्भिक आधारको काम गर्न सक्छन्, तर प्रभावित जनसमुदायसँग सहकार्य गरी कार्यान्वयन हुने सन्दर्भका प्राथमिकताप्राप्त आवश्यकताअनुसार तिनलाई अनुकूलन गर्नैपर्छ।",
+      "bt": "The lists of recommended training topics can serve as a starting point for curriculum development, but they must be adapted in collaboration with the affected population according to the prioritized needs of the context in which implementation takes place.",
+      "type": "general",
+      "terms": [
+        "T088"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0091",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Explain that the lists of MHPSS recommended training topics are only available online (the image of the computer is a reminder).",
+      "ne": "MHPSS सम्बन्धी सिफारिस गरिएका तालिमका विषयहरूका सूची अनलाइनमा मात्र उपलब्ध छन् भनेर व्याख्या गर्नुहोस् (कम्प्युटरको चित्रले यो कुरा सम्झाउँछ)।",
+      "bt": "Explain that the lists of recommended MHPSS-related training topics are available only online (the picture of a computer serves as a reminder of this).",
+      "type": "general",
+      "terms": [
+        "T088"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0092",
+      "page": "25",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Note again",
+      "ne": "पुनः उल्लेख गर्नुहोस्।",
+      "bt": "Mention again.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0093",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "The MSP includes a range of sectors/AORs visible on the slide.",
+      "ne": "MSP मा स्लाइडमा देखाइएका विभिन्न क्षेत्र/AORs समावेश छन्।",
+      "bt": "The MSP includes the different sectors/AORs shown on the slide.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T296",
+        "T427"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AORs is retained exactly. A recurring AOR glossary entry is needed; no expansion is supplied in the source."
+    },
+    {
+      "id": "FAC-04-0094",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Explain that icons are used throughout the MSP to make it easier to navigate.",
+      "ne": "MSP भरि सामग्री खोज्न सजिलो बनाउन चिह्नहरू प्रयोग गरिएका छन् भनेर व्याख्या गर्नुहोस्।",
+      "bt": "Explain that icons are used throughout the MSP to make materials easier to find.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T150"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0095",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Each sector/cluster/AOR is represented in the MSP with an icon (point out the icons for a few sectors to illustrate).",
+      "ne": "MSP मा प्रत्येक क्षेत्र/क्लस्टर/AOR लाई एउटा प्रतीकद्वारा जनाइएको छ (उदाहरणका रूपमा केही क्षेत्रका चिह्नहरू देखाउनुहोस्)।",
+      "bt": "Each sector/cluster/AOR in the MSP is represented by a symbol (show the icons of some sectors as examples).",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T296",
+        "T123",
+        "T149",
+        "T150"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AOR is retained exactly pending an agreed glossary entry."
+    },
+    {
+      "id": "FAC-04-0096",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Icons are provided alongside each MSP activity to indicate sectors/clusters/AoRs that are typically well placed to deliver or contribute to it.",
+      "ne": "प्रत्येक MSP गतिविधिसँगै चिह्नहरू दिइएका छन्, जसले सामान्यतया उक्त गतिविधि सञ्चालन गर्न वा त्यसमा योगदान दिन उपयुक्त स्थितिमा रहेका क्षेत्र/क्लस्टर/AoRs जनाउँछन्।",
+      "bt": "Icons are provided alongside each MSP activity, indicating the sectors/clusters/AoRs that are generally well placed to carry out or contribute to that activity.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T150",
+        "T296",
+        "T124"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The source spelling AoRs is preserved. A recurring AOR glossary entry is needed."
+    },
+    {
+      "id": "FAC-04-0097",
+      "page": "25",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0098",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "The icons can be used to identify activities that are relevant for a particular sector/ AoR.",
+      "ne": "कुनै निश्चित क्षेत्र/जिम्मेवारीको क्षेत्र (AoR) सँग सान्दर्भिक गतिविधिहरू पहिचान गर्न चिह्नहरू प्रयोग गर्न सकिन्छ।",
+      "bt": "Symbols can be used to identify activities relevant to a particular sector/area of responsibility (AoR).",
+      "type": "general",
+      "terms": [
+        "T150",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoR has no supplied glossary entry; proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (AoR)."
+    },
+    {
+      "id": "FAC-04-0099",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Describe how to use the icons to navigate the MSP:",
+      "ne": "MSP मा सम्बन्धित सामग्री खोज्न चिह्नहरू कसरी प्रयोग गर्ने भन्ने वर्णन गर्नुहोस्।",
+      "bt": "Describe how to use the symbols to find relevant material in the MSP.",
+      "type": "general",
+      "terms": [
+        "T150",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0100",
+      "page": "25",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• If a sector icon appears next to an activity and it is brightly coloured, it means that the sector is typically well placed to deliver that activity.",
+      "ne": "• कुनै गतिविधिको छेउमा कुनै क्षेत्रको प्रतीक देखिन्छ र त्यो चम्किलो रङमा छ भने, उक्त क्षेत्र सामान्यतया सो गतिविधि सञ्चालन गर्न उपयुक्त स्थितिमा हुन्छ भन्ने बुझिन्छ।",
+      "bt": "• If a sector's symbol appears next to an activity and it is brightly coloured, it is understood that that sector is generally in a suitable position to carry out that activity.",
+      "type": "general",
+      "terms": [
+        "T149",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0101",
+      "page": "25",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• If the icon is dark blue, it means that sector is typically well placed to contribute to that activity.",
+      "ne": "• प्रतीक गाढा नीलो छ भने, उक्त क्षेत्र सामान्यतया सो गतिविधिमा योगदान दिन उपयुक्त स्थितिमा हुन्छ भन्ने बुझिन्छ।",
+      "bt": "• If the symbol is dark blue, it is understood that that sector is generally in a suitable position to contribute to that activity.",
+      "type": "general",
+      "terms": [
+        "T149",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0102",
+      "page": "25",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• If a sector icon does not appear next to an activity at all, it means that sector is usually not involved in that activity.",
+      "ne": "• कुनै गतिविधिको छेउमा कुनै क्षेत्रको प्रतीक नै देखिँदैन भने, उक्त क्षेत्र सामान्यतया सो गतिविधिमा संलग्न हुँदैन भन्ने बुझिन्छ।",
+      "bt": "• If a sector's symbol does not appear at all next to an activity, it is understood that that sector is generally not involved in that activity.",
+      "type": "general",
+      "terms": [
+        "T149",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0103",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "Use the next slide to provide an example to participants:",
+      "ne": "सहभागीहरूलाई उदाहरण दिन अर्को स्लाइड प्रयोग गर्नुहोस्।",
+      "bt": "Use the next slide to give participants an example.",
+      "type": "general",
+      "terms": [
+        "T406",
+        "T427"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0104",
+      "page": "25",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• For activity 3.6 (Group activities for children’s mental health and psychosocial wellbeing) Child Protection and/or Education actors (coloured icons) will provide group activities for children, but Shelter & Settlements, Camp Coordination & Camp management and WASH actors (dark blue icons) might facilitate this by providing the space, notifying the community in the camp about when these activities are happening and where. Highlight that this intended as a helpful guide to who typically does what, not as prescriptive rules.",
+      "ne": "• गतिविधि 3.6 (बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि) अन्तर्गत बाल संरक्षणका सम्बद्ध पक्षहरू र/वा शिक्षा क्षेत्रमा कार्यरत पक्षहरू (रङ्गीन चिह्नहरू) ले बालबालिकाका लागि सामूहिक गतिविधिहरू सञ्चालन गर्नेछन्। तर आश्रय तथा बस्ती, शिविर समन्वय तथा शिविर व्यवस्थापन र खानेपानी, सरसफाइ तथा स्वच्छता (WASH) का सम्बद्ध पक्षहरू (गाढा नीला चिह्नहरू) ले सम्भवतः स्थान उपलब्ध गराएर तथा यी गतिविधिहरू कहिले र कहाँ हुँदै छन् भन्नेबारे शिविरमा रहेको समुदायलाई जानकारी दिएर यसमा सहजीकरण गर्न सक्छन्। यो सामान्यतया कसले के गर्छ भन्ने बुझ्न मद्दत गर्ने मार्गदर्शिकाका रूपमा हो, पालना गर्नैपर्ने नियमहरूका रूपमा होइन भन्ने कुरामा जोड दिनुहोस्।",
+      "bt": "• Under Activity 3.6 (group activities for children's mental health and psychosocial well-being), actors concerned with child protection and/or actors working in the education sector (colored symbols) will conduct group activities for children. However, actors concerned with shelter and settlement, camp coordination and camp management, and water, sanitation and hygiene (WASH) (dark blue symbols) may perhaps facilitate this by providing space and informing the community in the camp about when and where these activities are taking place. Emphasize that this is generally a guide to help understand who does what, not rules that must be followed.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T036",
+        "T114",
+        "T130",
+        "T150",
+        "T301",
+        "T199",
+        "T186",
+        "T144",
+        "T344",
+        "T349",
+        "T410"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The activity 3.6 label reuses wording from the supplied T103 activity candidate, with the action ending omitted to match the source noun phrase. Clinical wording remains an unreviewed candidate. The row is ordinary guidance on sector roles, not clinical instruction. The back-translation renders 'might facilitate' as 'can facilitate'; the revision makes the possibility explicit. 'Not as prescriptive rules' was narrowed to 'not a rule assigning roles'; the revision restores the broader non-prescriptive qualification. The back-translation shifts 'typically' from who performs each role to describing the guide as 'generally a guide,' losing the explicit qualification that the role assignments describe typical practice."
+    },
+    {
+      "id": "FAC-04-0105",
+      "page": "25",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Display",
+      "ne": "देखाउनुहोस्।",
+      "bt": "Show.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0106",
+      "page": "25",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "the list of MHPSS activities and icons to show:",
+      "ne": "निम्न कुरा देखाउनका लागि MHPSS गतिविधिहरू र चिह्नहरूको सूची",
+      "bt": "List of MHPSS activities and symbols to show the following",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T150"
+      ],
+      "flags": [],
+      "note": "This fragment continues the preceding Display heading and introduces the following bullets."
+    },
+    {
+      "id": "FAC-04-0107",
+      "page": "25",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• All sectors are tagged in Section 1 as intersectoral participation is fundamental in coordination efforts and also to promote a coordinated approach to the assessment of an emergency and to the prioritization of the needs.",
+      "ne": "• खण्ड 1 मा सबै क्षेत्रलाई चिह्नित गरिएको छ, किनकि समन्वयका प्रयासहरूमा अन्तरक्षेत्रीय सहभागिता आधारभूत हुन्छ र आपत्कालीन अवस्थाको लेखाजोखा तथा आवश्यकताहरूको प्राथमिकीकरणमा समन्वित दृष्टिकोण प्रवर्द्धन गर्न पनि यो आधारभूत हुन्छ।",
+      "bt": "• All sectors are marked in Section 1, because intersectoral participation is fundamental to coordination efforts, and it is also fundamental to promoting a coordinated approach to assessing the emergency situation and prioritizing needs.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T349",
+        "T389",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Ordinary coordination and assessment guidance; no clinical wording is required."
+    },
+    {
+      "id": "FAC-04-0108",
+      "page": "26",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Section 2 does not have any icons next to it because these activities relate to internal organizational processes and don’t require inter-sectoral coordination. These activities are here to guide organizations internal work and systems as they are crucial for the planning and implementation of a safe and effective MHPSS response.",
+      "ne": "• खण्ड 2 को छेउमा कुनै चिह्नहरू छैनन्, किनकि यी गतिविधिहरू संस्थाका आन्तरिक प्रक्रियासँग सम्बन्धित छन् र यिनका लागि अन्तरक्षेत्रीय समन्वय आवश्यक पर्दैन। सुरक्षित र प्रभावकारी MHPSS प्रतिकार्यको योजना तथा कार्यान्वयनका लागि यी गतिविधिहरू अत्यावश्यक भएकाले संस्थाहरूको आन्तरिक काम र प्रणालीहरूलाई दिशा दिन यहाँ समावेश गरिएका हुन्।",
+      "bt": "• There are no symbols next to Section 2, because these activities relate to organizations' internal processes and do not require intersectoral coordination. Since these activities are essential for planning and implementing a safe and effective MHPSS response, they have been included here to guide organizations' internal work and systems.",
+      "type": "general",
+      "terms": [
+        "T150",
+        "T161",
+        "T349",
+        "T380",
+        "T385",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Organizational guidance rather than clinical instruction. Inter-sectoral coordination has no supplied glossary entry; proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-04-0109",
+      "page": "26",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "» Underscore that organizations must have sound systems for program design, for coordination, for M&E, for caring for staff & volunteers and for building the MHPSS competencies of staff & volunteers. Section 2 refers to the activities that any organizations engaging in any type of MHPSS activity should be doing.",
+      "ne": "» संस्थाहरूसँग कार्यक्रमको डिजाइन, समन्वय, अनुगमन तथा मूल्याङ्कन (M&E), कर्मचारी र स्वयंसेवकहरूको हेरचाह तथा कर्मचारी र स्वयंसेवकहरूको MHPSS सम्बन्धी सक्षमता विकासका लागि सुदृढ प्रणालीहरू हुनैपर्छ भन्ने कुरामा जोड दिनुहोस्। खण्ड 2 मा जुनसुकै प्रकारको MHPSS गतिविधिमा संलग्न कुनै पनि संस्थाले गर्नु उचित हुने गतिविधिहरू उल्लेख गरिएका छन्।",
+      "bt": "» Emphasize that organizations must have strong systems for program design, coordination, monitoring and evaluation (M&E), care of staff and volunteers, and development of staff and volunteers' MHPSS-related competence. Section 2 lists activities that would be appropriate for any organization involved in any type of MHPSS activity to carry out.",
+      "type": "general",
+      "terms": [
+        "T159",
+        "T349",
+        "T394",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Ordinary organizational requirements. M&E has no standalone glossary entry; the proposed rendering [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (M&E) is already present within the supplied activity 2.2 candidate. The second sentence strengthens 'should be doing' to 'must do'. The revision distinguishes that recommendation from the first sentence's explicit requirement that organizations must have sound systems. The back-translation weakens Section 2's recommendation from activities organizations 'should be doing' to activities that 'would be appropriate' to carry out."
+    },
+    {
+      "id": "FAC-04-0110",
+      "page": "26",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Move to Sections 3 and 4 and show that different sectors are tagged in different activities, as shown in the example provided before.",
+      "ne": "• खण्ड 3 र 4 मा जानुहोस् र पहिले दिइएको उदाहरणमा जस्तै विभिन्न गतिविधिमा फरक-फरक क्षेत्रलाई चिह्नित गरिएको छ भन्ने देखाउनुहोस्।",
+      "bt": "• Go to Sections 3 and 4 and show that different sectors are marked for different activities, as in the example given earlier.",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": "Ordinary navigation instruction."
+    },
+    {
+      "id": "FAC-04-0111",
+      "page": "26",
+      "loc": "bullet",
+      "section": "The MSP Structure and Content",
+      "en": "• Note again that icons are not intended to prescribe roles for sectors, but rather to indicate which sectors are in principle best placed to implement or contribute to activities and thus facilitate coordination.",
+      "ne": "• चिह्नहरू क्षेत्रहरूका भूमिका तोक्नका लागि नभई सैद्धान्तिक रूपमा कुन-कुन क्षेत्र गतिविधिहरू कार्यान्वयन गर्न वा तिनमा योगदान दिन सबैभन्दा उपयुक्त स्थितिमा छन् भन्ने सङ्केत गर्न र यसरी समन्वय सहज बनाउनका लागि हुन् भन्ने कुरा फेरि उल्लेख गर्नुहोस्।",
+      "bt": "• Mention again that the symbols are not for assigning roles to sectors, but for indicating which sectors are, in principle, in the most suitable position to implement activities or contribute to them, and thereby facilitating coordination.",
+      "type": "general",
+      "terms": [
+        "T150",
+        "T296",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0112",
+      "page": "26",
+      "loc": "heading",
+      "section": "The MSP Structure and Content",
+      "en": "Distribute",
+      "ne": "वितरण गर्नुहोस्।",
+      "bt": "Distribute.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-04-0113",
+      "page": "26",
+      "loc": "para",
+      "section": "The MSP Structure and Content",
+      "en": "MSP General Flyer (two-page summary)",
+      "ne": "MSP को सामान्य परिचयपत्र (दुई पृष्ठको सारांश)",
+      "bt": "General introduction sheet for the MSP (two-page summary)",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

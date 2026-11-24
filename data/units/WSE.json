@@ -1,0 +1,1395 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "WSE",
+  "unit_id": "WSE",
+  "unit_title": "Workshop M&E (evaluation) template",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/M&E template English.xlsx",
+  "source_sha256": "f7f2b7e1b758bd5d55e88afd0b1632f2de8961f9d8fbeed903a333c6bf005997",
+  "pages": "3 sheets",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:10:35+05:45",
+  "coverage": {
+    "source_words": 643,
+    "row_words": 635,
+    "skipped": [
+      "Sheet Pre & Post tests: person-level-scope-exclusion: Illustrative facilitator-name example excluded under the person-level data restriction; source unchanged.",
+      "Sheet Evaluations: person-level-scope-exclusion: Illustrative facilitator-name example excluded under the person-level data restriction; source unchanged."
+    ]
+  },
+  "rows": [
+    {
+      "id": "WSE-0001",
+      "page": "Pre & Post tests!A1",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Guidance on data entry:",
+      "ne": "तथ्याङ्क प्रविष्टिसम्बन्धी मार्गदर्शन:",
+      "bt": "Guidance on data entry:",
+      "type": "general",
+      "terms": [
+        "T355"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: data entry = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "WSE-0002",
+      "page": "Pre & Post tests!A2",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "The first entry in blue is an example.",
+      "ne": "नीलो रङमा रहेको पहिलो प्रविष्टि एउटा उदाहरण हो।",
+      "bt": "The first entry in blue is an example.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0003",
+      "page": "Pre & Post tests!A3",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "For questions in section A, please enter a number between 1 and 7 (where 1=Strongly disagree, and 7=Strongly agree)",
+      "ne": "खण्ड A का प्रश्नहरूका लागि 1 देखि 7 सम्मको कुनै सङ्ख्या प्रविष्ट गर्नुहोस् (जहाँ 1=दृढ रूपमा असहमत र 7=दृढ रूपमा सहमत)।",
+      "bt": "For the questions in Section A, enter any number from 1 to 7 (where 1=strongly disagree and 7=strongly agree).",
+      "type": "check",
+      "terms": [
+        "T333",
+        "T357",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Data-entry guidance and response anchors are drafted as ordinary nonclinical wording; the supplied material does not identify them as validated instrument content. The response anchors express complete disagreement/agreement rather than strong disagreement/agreement. Revised the intensity wording to retain the source anchors."
+    },
+    {
+      "id": "WSE-0004",
+      "page": "Pre & Post tests!A4",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "For questions in Section B, please select \"Correct\" or \"Incorrect\" from the drop-down menu. The correct answers are indicated in the heading. You can type 'C' or 'I' followed by Tab to do this quickly. ",
+      "ne": "खण्ड B का प्रश्नहरूका लागि ड्रप-डाउन मेनुबाट \"Correct\" (सही) वा \"Incorrect\" (गलत) छान्नुहोस्। सही उत्तरहरू शीर्षकमा दिइएका छन्। छिटो गर्नका लागि 'C' वा 'I' टाइप गरेपछि Tab थिच्न सक्नुहुन्छ।",
+      "bt": "For the questions in Section B, select \"Correct\" (right) or \"Incorrect\" (wrong) from the drop-down menu. The correct answers are given in the heading. To do this quickly, you can type 'C' or 'I' and then press Tab.",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": "English menu labels and keyboard inputs are retained to match the spreadsheet interface."
+    },
+    {
+      "id": "WSE-0005",
+      "page": "Pre & Post tests!A5",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Only mark a response as correct if the respondent circled all correct options. ",
+      "ne": "उत्तरदाताले सबै सही विकल्पहरूमा घेरा लगाएको अवस्थामा मात्र उक्त उत्तरलाई सही भनी चिन्ह लगाउनुहोस्।",
+      "bt": "Mark the answer as correct only when the respondent has circled all the correct options.",
+      "type": "general",
+      "terms": [
+        "T417"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: respondent = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "WSE-0006",
+      "page": "Pre & Post tests!A6",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Please check any blank cells before submission. Only leave a cell blank if the responder did not answer the question. ",
+      "ne": "पेस गर्नुअघि खाली रहेका सबै कक्षहरू जाँच गर्नुहोस्। उत्तरदाताले प्रश्नको उत्तर नदिएको अवस्थामा मात्र कक्ष खाली छोड्नुहोस्।",
+      "bt": "Check all empty cells before submitting. Leave a cell empty only when the respondent has not answered the question.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed term [Nepali wording recorded in terminology evidence] for the source's responder, consistent with respondent in the preceding instruction."
+    },
+    {
+      "id": "WSE-0007",
+      "page": "Pre & Post tests!A7",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Please do not merge cells or add columns.",
+      "ne": "कक्षहरू गाभ्ने वा स्तम्भहरू थप्ने काम नगर्नुहोस्।",
+      "bt": "Do not merge cells or add columns.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0008",
+      "page": "Pre & Post tests!A8",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Once data is entered for a workshop, please email it to mhpss.msp@gmail.com.",
+      "ne": "कार्यशालाको तथ्याङ्क प्रविष्ट गरिसकेपछि उक्त तथ्याङ्क mhpss.msp@gmail.com मा इमेल गर्नुहोस्।",
+      "bt": "After entering the workshop data, email that data to mhpss.msp@gmail.com.",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms: workshop = [Nepali wording recorded in terminology evidence]; data entry = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The email address is unchanged."
+    },
+    {
+      "id": "WSE-0009",
+      "page": "Pre & Post tests!A9",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Do not submit the same data more than once (use a new file for each submission). ",
+      "ne": "एउटै तथ्याङ्क एक पटकभन्दा बढी पेस नगर्नुहोस् (प्रत्येक पटक पेस गर्दा नयाँ फाइल प्रयोग गर्नुहोस्)।",
+      "bt": "Do not submit the same data more than once (use a new file each time you submit).",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0010",
+      "page": "Pre & Post tests!A11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Country",
+      "ne": "देश",
+      "bt": "Country",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0011",
+      "page": "Pre & Post tests!B11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Location",
+      "ne": "स्थान",
+      "bt": "Location",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0012",
+      "page": "Pre & Post tests!C11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Date",
+      "ne": "मिति",
+      "bt": "Date",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0013",
+      "page": "Pre & Post tests!D11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Workshop name (please give a unique name to clearly distinguish each workshop)",
+      "ne": "कार्यशालाको नाम (प्रत्येक कार्यशालालाई स्पष्ट रूपमा छुट्याउन फरक नाम दिनुहोस्)।",
+      "bt": "Workshop name (give each workshop a different name to distinguish it clearly).",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term workshop = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "WSE-0014",
+      "page": "Pre & Post tests!E11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Facilitator",
+      "ne": "सहजकर्ता",
+      "bt": "Facilitator",
+      "type": "general",
+      "terms": [
+        "T229"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0015",
+      "page": "Pre & Post tests!F11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Pre or Post",
+      "ne": "पूर्व वा पश्चात्",
+      "bt": "Pre or post",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Retains the concise before/after label without adding an explicit referent absent from the cell."
+    },
+    {
+      "id": "WSE-0016",
+      "page": "Pre & Post tests!G11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "A1. I am confident in my ability to advocate for MHPSS.",
+      "ne": "A1. MHPSS का लागि पैरवी गर्ने आफ्नो क्षमताप्रति म विश्वस्त छु।",
+      "bt": "A1. I am confident in my ability to advocate for MHPSS.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0017",
+      "page": "Pre & Post tests!H11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "A2. I can explain how to integrate MHPSS into humanitarian response planning.",
+      "ne": "A2. मानवीय प्रतिकार्यको योजना बनाउँदा MHPSS कसरी एकीकृत गर्ने भन्ने कुरा म व्याख्या गर्न सक्छु।",
+      "bt": "A2. I can explain how to integrate MHPSS when planning a humanitarian response.",
+      "type": "check",
+      "terms": [
+        "T003"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0018",
+      "page": "Pre & Post tests!I11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "A3. I know how to use the MSP to plan MHPSS activities in humanitarian programming.",
+      "ne": "A3. मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS गतिविधिहरूको योजना बनाउन MSP कसरी प्रयोग गर्ने भन्ने मलाई थाहा छ।",
+      "bt": "A3. I know how to use the MSP to plan MHPSS activities in humanitarian programme design and implementation.",
+      "type": "check",
+      "terms": [
+        "T282",
+        "T158",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0019",
+      "page": "Pre & Post tests!J11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "A4. I can explain why MHPSS is a multisectoral repsonse.",
+      "ne": "",
+      "bt": "",
+      "type": "protected",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "This first-person self-assessment item in the pre/post test is protected as assessment-instrument content; the source spelling 'repsonse' appears to mean 'response' but remains unconfirmed."
+    },
+    {
+      "id": "WSE-0020",
+      "page": "Pre & Post tests!K11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "A5. I can justify the importance of integrating MHPSS activities in humanitarian programming.",
+      "ne": "A5. मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS गतिविधिहरू एकीकृत गर्नुको महत्त्वलाई म तर्कसहित पुष्टि गर्न सक्छु।",
+      "bt": "A5. I can justify with reasoning the importance of integrating MHPSS activities into humanitarian programme design and implementation.",
+      "type": "check",
+      "terms": [
+        "T282",
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0021",
+      "page": "Pre & Post tests!L11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "A6. I can give examples of MHPSS activities integrated into different sectors/clusters/Areas of Responsibility.",
+      "ne": "A6. विभिन्न क्षेत्र/क्लस्टर/जिम्मेवारीका क्षेत्रहरूमा एकीकृत गरिएका MHPSS गतिविधिहरूका उदाहरण म दिन सक्छु।",
+      "bt": "A6. I can give examples of MHPSS activities integrated into different sectors/clusters/areas of responsibility.",
+      "type": "check",
+      "terms": [
+        "T296",
+        "T124",
+        "T116",
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0022",
+      "page": "Pre & Post tests!M11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "A7. I can explain the importance of MHPSS coordination.",
+      "ne": "A7. MHPSS समन्वयको महत्त्व म व्याख्या गर्न सक्छु।",
+      "bt": "A7. I can explain the importance of MHPSS coordination.",
+      "type": "check",
+      "terms": [
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0023",
+      "page": "Pre & Post tests!N11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "A8. I can list the essential components of all MHPSS programmes.",
+      "ne": "A8. सबै MHPSS कार्यक्रमका अत्यावश्यक घटकहरू म सूचीबद्ध गर्न सक्छु।",
+      "bt": "A8. I can list the essential components of all MHPSS programmes.",
+      "type": "check",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0024",
+      "page": "Pre & Post tests!O11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "B1. Which of the following statements about the MHPSS Minimum Service Package (MSP) is FALSE? Answer: d",
+      "ne": "B1. MHPSS न्यूनतम सेवा प्याकेज (MSP) सम्बन्धी तलका कथनहरूमध्ये कुन गलत छ? उत्तर: d",
+      "bt": "B1. Which of the following statements about the MHPSS Minimum Service Package (MSP) is incorrect? Answer: d",
+      "type": "check",
+      "terms": [
+        "T002",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0025",
+      "page": "Pre & Post tests!P11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "B2. Which of the following tools are included in the MSP? Answer: a,b,d,e (correct if all four circled)",
+      "ne": "B2. तलका कुन-कुन साधनहरू MSP मा समावेश छन्? उत्तर: a,b,d,e (चारै विकल्पमा घेरा लगाइएको भए सही)",
+      "bt": "B2. Which of the following tools are included in the MSP? Answer: a,b,d,e (correct if all four options are circled)",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T437",
+        "T438"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0026",
+      "page": "Pre & Post tests!Q11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "B3. Which of the following is NOT an activity in the MSP? Answer: d",
+      "ne": "B3. तलकामध्ये कुन MSP अन्तर्गतको गतिविधि होइन? उत्तर: d",
+      "bt": "B3. Which of the following is not an activity under the MSP? Answer: d",
+      "type": "check",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0027",
+      "page": "Pre & Post tests!R11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "B4. Which of the following is NOT included in the MSP? (Answer: c)",
+      "ne": "B4. तलकामध्ये कुन MSP मा समावेश छैन? (उत्तर: c)",
+      "bt": "B4. Which of the following is not included in the MSP? (Answer: c)",
+      "type": "check",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0028",
+      "page": "Pre & Post tests!S11",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "B5. Which of the following is NOT an intended use of the MSP? (Answer: c)",
+      "ne": "B5. तलकामध्ये कुन MSP को अभिप्रेत प्रयोग होइन? (उत्तर: c)",
+      "bt": "B5. Which of the following is not an intended use of the MSP? (Answer: c)",
+      "type": "check",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0029",
+      "page": "Pre & Post tests!A12",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Ireland",
+      "ne": "आयरल्यान्ड",
+      "bt": "Ireland",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0030",
+      "page": "Pre & Post tests!B12",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Cork",
+      "ne": "कर्क",
+      "bt": "Cork",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0031",
+      "page": "Pre & Post tests!D12",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Example MHPSS TWG workshop, Cork 26 August",
+      "ne": "उदाहरण: MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) को कार्यशाला, कर्क, 26 अगस्ट",
+      "bt": "Example: MHPSS Technical Working Group (MHPSS TWG) workshop, Cork, 26 August",
+      "type": "general",
+      "terms": [
+        "T268",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Ordinary example workshop metadata, not an assessment item. Uses the supplied unreviewed T268 candidate and the proposed recurring term workshop = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "WSE-0032",
+      "page": "Pre & Post tests!F12",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Pre",
+      "ne": "पूर्व",
+      "bt": "Pre",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0033",
+      "page": "Pre & Post tests!O12",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Correct",
+      "ne": "सही",
+      "bt": "Correct",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0034",
+      "page": "Pre & Post tests!P12",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Incorrect",
+      "ne": "गलत",
+      "bt": "Incorrect",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0035",
+      "page": "Pre & Post tests!Q12",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Correct",
+      "ne": "सही",
+      "bt": "Correct",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0036",
+      "page": "Pre & Post tests!R12",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Correct",
+      "ne": "सही",
+      "bt": "Correct",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0037",
+      "page": "Pre & Post tests!S12",
+      "loc": "cell",
+      "section": "Pre & Post tests",
+      "en": "Incorrect",
+      "ne": "गलत",
+      "bt": "Incorrect",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0038",
+      "page": "Evaluations!A1",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Guidance on data entry:",
+      "ne": "तथ्याङ्क प्रविष्टिसम्बन्धी मार्गदर्शन:",
+      "bt": "Guidance on data entry:",
+      "type": "general",
+      "terms": [
+        "T355"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring administrative term: data entry = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Not added to the frozen glossary."
+    },
+    {
+      "id": "WSE-0039",
+      "page": "Evaluations!A2",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "The first entry in blue is an example.",
+      "ne": "नीलो रङमा रहेको पहिलो प्रविष्टि एउटा उदाहरण हो।",
+      "bt": "The first entry in blue is an example.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0040",
+      "page": "Evaluations!A3",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "For questions in section A, please enter a number between 1 and 10 (where 1=Not at all useful, and 10=Extremely useful)",
+      "ne": "खण्ड A का प्रश्नहरूका लागि कृपया 1 देखि 10 सम्मको कुनै सङ्ख्या प्रविष्ट गर्नुहोस् (जहाँ 1=कत्ति पनि उपयोगी छैन र 10=अत्यन्त उपयोगी छ)।",
+      "bt": "For the questions in Section A, please enter any number from 1 to 10 (where 1=not at all useful and 10=extremely useful).",
+      "type": "check",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": "Administrative guidance with usefulness-scale anchors; the supplied context does not identify these as validated instrument options."
+    },
+    {
+      "id": "WSE-0041",
+      "page": "Evaluations!A4",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "For questions in Section B, please enter the response (in English wherever possible).",
+      "ne": "खण्ड B का प्रश्नहरूका लागि कृपया उत्तर प्रविष्ट गर्नुहोस् (सम्भव भएसम्म अङ्ग्रेजीमा)।",
+      "bt": "For the questions in Section B, please enter an answer (in English as far as possible).",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0042",
+      "page": "Evaluations!A5",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Please check any blank cells before submission. Only leave a cell blank if the responder did not answer the question. ",
+      "ne": "पेस गर्नुअघि कृपया खाली रहेका सबै कोष्ठहरू जाँच गर्नुहोस्। उत्तरदाताले प्रश्नको उत्तर नदिएको अवस्थामा मात्र कोष्ठ खाली छोड्नुहोस्।",
+      "bt": "Before submitting, please check all cells that are blank. Leave a cell blank only when the respondent has not answered the question.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0043",
+      "page": "Evaluations!A6",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Please do not merge cells or add columns.",
+      "ne": "कृपया कोष्ठहरू नगाभ्नुहोस् वा स्तम्भहरू नथप्नुहोस्।",
+      "bt": "Please do not merge cells or add columns.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0044",
+      "page": "Evaluations!A7",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Once data is entered for a workshop, please email it to mhpss.msp@gmail.com.",
+      "ne": "कार्यशालाको तथ्याङ्क प्रविष्ट गरिसकेपछि कृपया उक्त तथ्याङ्क mhpss.msp@gmail.com मा इमेलमार्फत पठाउनुहोस्।",
+      "bt": "After entering the workshop data, please send those data by email to mhpss.msp@gmail.com.",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring terms workshop = [Nepali wording recorded in terminology evidence] and data entry = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; neither has been added to the frozen glossary."
+    },
+    {
+      "id": "WSE-0045",
+      "page": "Evaluations!A8",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Do not submit the same data more than once (use a new file for each submission). ",
+      "ne": "एउटै तथ्याङ्क एक पटकभन्दा बढी पेस नगर्नुहोस् (हरेक पटक पेस गर्दा नयाँ फाइल प्रयोग गर्नुहोस्)।",
+      "bt": "Do not submit the same data more than once (use a new file each time you submit).",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0046",
+      "page": "Evaluations!A10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Country",
+      "ne": "देश",
+      "bt": "Country",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0047",
+      "page": "Evaluations!B10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Location",
+      "ne": "स्थान",
+      "bt": "Location",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0048",
+      "page": "Evaluations!C10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Date",
+      "ne": "मिति",
+      "bt": "Date",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0049",
+      "page": "Evaluations!D10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Workshop name",
+      "ne": "कार्यशालाको नाम",
+      "bt": "Name of the workshop",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: workshop = [Nepali wording recorded in terminology evidence]. Not added to the frozen glossary."
+    },
+    {
+      "id": "WSE-0050",
+      "page": "Evaluations!E10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Facilitator",
+      "ne": "सहजकर्ता",
+      "bt": "Facilitator",
+      "type": "general",
+      "terms": [
+        "T229"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0051",
+      "page": "Evaluations!F10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "A1. Overview of MHPSS",
+      "ne": "A1. MHPSS को झलक",
+      "bt": "A1. A glimpse of MHPSS",
+      "type": "safety",
+      "terms": [
+        "T016"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen candidate झलक can suggest a brief glimpse, whereas 'Overview' can denote a broader introductory account; the supplied form is retained unchanged for review. bt-divergence: The frozen candidate झलक conveys a glimpse, which is narrower than the introductory account conveyed by 'Overview'. The frozen form is retained unchanged."
+    },
+    {
+      "id": "WSE-0052",
+      "page": "Evaluations!G10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "A2. Introduction to the MHPSS Minimum Service Package",
+      "ne": "A2. MHPSS न्यूनतम सेवा प्याकेजको परिचय",
+      "bt": "A2. Introduction to the MHPSS Minimum Service Package",
+      "type": "check",
+      "terms": [
+        "T002"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0053",
+      "page": "Evaluations!H10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "A3. Interagency coordination & assessment",
+      "ne": "A3. अन्तरनिकाय समन्वय तथा लेखाजोखा",
+      "bt": "A3. Inter-agency coordination and assessment",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T349",
+        "T386",
+        "T387"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0054",
+      "page": "Evaluations!I10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "A4. Essential components of MHPSS programmes",
+      "ne": "A4. MHPSS कार्यक्रमका अत्यावश्यक अङ्गहरू",
+      "bt": "A4. Essential components of an MHPSS programme",
+      "type": "check",
+      "terms": [
+        "T160",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0055",
+      "page": "Evaluations!J10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "A5. MHPSS MSP Programme Activities",
+      "ne": "A5. MHPSS MSP का कार्यक्रमगत गतिविधिहरू",
+      "bt": "A5. Programmatic activities of the MHPSS MSP",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T167",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0056",
+      "page": "Evaluations!K10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "A6. Integrating MHPSS into programming across different areas of work",
+      "ne": "A6. कार्यका विभिन्न क्षेत्रमा कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने",
+      "bt": "A6. Integrating MHPSS into programme planning and implementation in different areas of work",
+      "type": "check",
+      "terms": [
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0057",
+      "page": "Evaluations!L10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "A7. Additional MSP tools",
+      "ne": "A7. MSP का थप साधनहरू",
+      "bt": "A7. Additional tools of the MSP",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T437",
+        "T438"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0058",
+      "page": "Evaluations!M10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "A8. Using the MSP",
+      "ne": "A8. MSP को प्रयोग",
+      "bt": "A8. Use of the MSP",
+      "type": "check",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0059",
+      "page": "Evaluations!N10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "B1. What did you like about the workshop?",
+      "ne": "B1. कार्यशालामा तपाईंलाई के मन पर्‍यो?",
+      "bt": "B1. What did you like about the workshop?",
+      "type": "check",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term workshop = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "WSE-0060",
+      "page": "Evaluations!O10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "B2. What would you change to improve the workshop?",
+      "ne": "B2. कार्यशाला सुधार गर्न तपाईं के परिवर्तन गर्नुहुन्थ्यो?",
+      "bt": "B2. What would you change to improve the workshop?",
+      "type": "check",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term workshop = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "WSE-0061",
+      "page": "Evaluations!P10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "B3. What other MHPSS-related topics would you like training on?",
+      "ne": "B3. तपाईं MHPSS सम्बन्धी अरू कुन विषयमा तालिम लिन चाहनुहुन्छ?",
+      "bt": "B3. On what other topics related to MHPSS would you like to receive training?",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0062",
+      "page": "Evaluations!Q10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "C1. I have a beter understanding of the MSP.",
+      "ne": "",
+      "bt": "",
+      "type": "protected",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "This first-person evaluation item assessing the respondent’s understanding is protected as assessment-instrument content; the source spelling 'beter' appears to mean 'better' but remains unconfirmed."
+    },
+    {
+      "id": "WSE-0063",
+      "page": "Evaluations!R10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "C2. I feel more confident in my ability to integrate MHPSS into humanitarian programming.",
+      "ne": "C2. मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने आफ्नो क्षमताप्रति म अझ बढी विश्वस्त छु।",
+      "bt": "C2. I am more confident in my ability to integrate MHPSS into humanitarian programme planning and implementation.",
+      "type": "check",
+      "terms": [
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0064",
+      "page": "Evaluations!S10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "C3. I feel more confident in my ability to advocate for MHPSS.",
+      "ne": "C3. MHPSS का लागि पैरवी गर्ने आफ्नो क्षमताप्रति म अझ बढी विश्वस्त छु।",
+      "bt": "C3. I am more confident in my ability to advocate for MHPSS.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0065",
+      "page": "Evaluations!T10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "C4. I feel more confident in my ability to support other actors in using the MSP.",
+      "ne": "C4. MSP प्रयोग गर्न अन्य सम्बद्ध पक्षहरूलाई सहयोग गर्ने आफ्नो क्षमताप्रति म अझ बढी विश्वस्त छु।",
+      "bt": "C4. I am even more confident in my ability to help other relevant parties use MSP.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T114"
+      ],
+      "flags": [],
+      "note": "Drafted as an ordinary workshop evaluation statement; validated-instrument status is not supplied."
+    },
+    {
+      "id": "WSE-0066",
+      "page": "Evaluations!U10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "C5. This training has been useful for my work. ",
+      "ne": "C5. यो तालिम मेरो कामका लागि उपयोगी भएको छ।",
+      "bt": "C5. This training has been useful for my work.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0067",
+      "page": "Evaluations!V10",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Additional comments & feedback. ",
+      "ne": "थप टिप्पणी तथा प्रतिक्रिया",
+      "bt": "Additional comments and feedback",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0068",
+      "page": "Evaluations!A11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Ireland",
+      "ne": "आयरल्यान्ड",
+      "bt": "Ireland",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0069",
+      "page": "Evaluations!B11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Cork ",
+      "ne": "कर्क",
+      "bt": "Cork",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0070",
+      "page": "Evaluations!D11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Example MHPSS TWG workshop, Cork 26 August",
+      "ne": "उदाहरण: MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) कार्यशाला, कर्क, 26 अगस्ट",
+      "bt": "Example: MHPSS Technical Working Group (MHPSS TWG) workshop, Cork, 26 August",
+      "type": "general",
+      "terms": [
+        "T268",
+        "T444"
+      ],
+      "flags": [],
+      "note": "An example workshop label, not an assessment item."
+    },
+    {
+      "id": "WSE-0071",
+      "page": "Evaluations!N11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Interactive activities",
+      "ne": "अन्तर्क्रियात्मक गतिविधिहरू",
+      "bt": "Interactive activities",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0072",
+      "page": "Evaluations!O11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Longer breaks",
+      "ne": "अझ लामो विश्राम अवधि",
+      "bt": "Longer break period",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0073",
+      "page": "Evaluations!P11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Manging suicidal ideation",
+      "ne": "आत्महत्या गर्ने विचारको व्यवस्थापन",
+      "bt": "Management of thoughts of committing suicide",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source reads 'Manging suicidal ideation'; the draft interprets 'Manging' as 'Managing', but the intended wording requires confirmation."
+    },
+    {
+      "id": "WSE-0074",
+      "page": "Evaluations!Q11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Strongly agree",
+      "ne": "पूर्ण रूपमा सहमत",
+      "bt": "Fully agree",
+      "type": "general",
+      "terms": [
+        "T333",
+        "T431"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring agreement-scale label absent from G-0.3; proposed wording is listed for review. No validated-instrument status is supplied."
+    },
+    {
+      "id": "WSE-0075",
+      "page": "Evaluations!R11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Agree",
+      "ne": "सहमत",
+      "bt": "Agree",
+      "type": "general",
+      "terms": [
+        "T333"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring agreement-scale label absent from G-0.3; proposed wording is listed for review."
+    },
+    {
+      "id": "WSE-0076",
+      "page": "Evaluations!S11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Neutral",
+      "ne": "तटस्थ",
+      "bt": "Neutral",
+      "type": "general",
+      "terms": [
+        "T401"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring agreement-scale label absent from G-0.3; proposed wording is listed for review."
+    },
+    {
+      "id": "WSE-0077",
+      "page": "Evaluations!T11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Agree",
+      "ne": "सहमत",
+      "bt": "Agree",
+      "type": "general",
+      "terms": [
+        "T333"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the same proposed wording as WSE-0075; the glossary remains unchanged."
+    },
+    {
+      "id": "WSE-0078",
+      "page": "Evaluations!U11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "Strongly agree",
+      "ne": "पूर्ण रूपमा सहमत",
+      "bt": "Fully agree",
+      "type": "general",
+      "terms": [
+        "T333",
+        "T431"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the same proposed wording as WSE-0074; the glossary remains unchanged."
+    },
+    {
+      "id": "WSE-0079",
+      "page": "Evaluations!V11",
+      "loc": "cell",
+      "section": "Evaluations",
+      "en": "x",
+      "ne": "x",
+      "bt": "x",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Source marker retained exactly."
+    },
+    {
+      "id": "WSE-0080",
+      "page": "Data Validation - Do not edit!A1",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Data validation lists - do not edit",
+      "ne": "तथ्याङ्क प्रमाणीकरणका सूचीहरू — सम्पादन नगर्नुहोस्।",
+      "bt": "Data validation lists — do not edit.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0081",
+      "page": "Data Validation - Do not edit!A4",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Pre and Post",
+      "ne": "पूर्व र पश्चात्",
+      "bt": "Before and after",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0082",
+      "page": "Data Validation - Do not edit!A5",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Pre",
+      "ne": "पूर्व",
+      "bt": "Before",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0083",
+      "page": "Data Validation - Do not edit!A6",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Post",
+      "ne": "पश्चात्",
+      "bt": "After",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0084",
+      "page": "Data Validation - Do not edit!A8",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Correct or incorrect",
+      "ne": "सही वा गलत",
+      "bt": "Correct or incorrect",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0085",
+      "page": "Data Validation - Do not edit!A9",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Correct",
+      "ne": "सही",
+      "bt": "Correct",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0086",
+      "page": "Data Validation - Do not edit!A10",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Incorrect",
+      "ne": "गलत",
+      "bt": "Incorrect",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "WSE-0087",
+      "page": "Data Validation - Do not edit!A13",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Column1",
+      "ne": "Column1",
+      "bt": "Column1",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Spreadsheet column identifier retained exactly, including its Latin digit."
+    },
+    {
+      "id": "WSE-0088",
+      "page": "Data Validation - Do not edit!A14",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Strongly disagree",
+      "ne": "पूर्ण रूपमा असहमत",
+      "bt": "Fully disagree",
+      "type": "general",
+      "terms": [
+        "T333",
+        "T357",
+        "T432"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Agreement-scale terminology is absent from G-0.3; proposed wording is listed for review."
+    },
+    {
+      "id": "WSE-0089",
+      "page": "Data Validation - Do not edit!A15",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Disagree",
+      "ne": "असहमत",
+      "bt": "Disagree",
+      "type": "general",
+      "terms": [
+        "T333",
+        "T357"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Agreement-scale terminology is absent from G-0.3; proposed wording is listed for review."
+    },
+    {
+      "id": "WSE-0090",
+      "page": "Data Validation - Do not edit!A16",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Neutral",
+      "ne": "तटस्थ",
+      "bt": "Neutral",
+      "type": "general",
+      "terms": [
+        "T401"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the same proposed wording as WSE-0076; the glossary remains unchanged."
+    },
+    {
+      "id": "WSE-0091",
+      "page": "Data Validation - Do not edit!A17",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Agree",
+      "ne": "सहमत",
+      "bt": "Agree",
+      "type": "general",
+      "terms": [
+        "T333"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the same proposed wording as WSE-0075; the glossary remains unchanged."
+    },
+    {
+      "id": "WSE-0092",
+      "page": "Data Validation - Do not edit!A18",
+      "loc": "cell",
+      "section": "Data Validation - Do not edit",
+      "en": "Strongly agree",
+      "ne": "पूर्ण रूपमा सहमत",
+      "bt": "Fully agree",
+      "type": "general",
+      "terms": [
+        "T333",
+        "T431"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the same proposed wording as WSE-0074; the glossary remains unchanged."
+    }
+  ]
+}

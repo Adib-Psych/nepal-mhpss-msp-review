@@ -1,0 +1,952 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-15",
+  "unit_title": "MSP Scenario Challenges",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "63-65",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:06:30+05:45",
+  "coverage": {
+    "source_words": 1302,
+    "row_words": 1301,
+    "skipped": [
+      "Page 63: running-footer: Module 8 · MSP Workshop Facilitator Manual · 59",
+      "Page 64: running-footer: 60 · MSP Workshop Facilitator Manual · Module 8",
+      "Page 65: running-footer: Module 8 · MSP Workshop Facilitator Manual · 61"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-15-0001",
+      "page": "63",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "8.2 MSP Scenario Challenges",
+      "ne": "8.2 MSP परिदृश्यका चुनौतीहरू",
+      "bt": "8.2 MSP scenario challenges",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed scenario terminology is not in the frozen glossary."
+    },
+    {
+      "id": "FAC-15-0002",
+      "page": "63",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario challenges",
+      "ne": "परिदृश्यका चुनौतीहरू",
+      "bt": "Scenario challenges",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed ordinary term for scenario; glossary unchanged."
+    },
+    {
+      "id": "FAC-15-0003",
+      "page": "63",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Prepare",
+      "ne": "तयारी गर्नुहोस्।",
+      "bt": "Prepare.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0004",
+      "page": "63",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "70 min",
+      "ne": "70 मिनेट",
+      "bt": "70 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0005",
+      "page": "63",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• MSP Scenario Challenges Handout",
+      "ne": "• MSP परिदृश्यका चुनौतीहरूको वितरण सामग्री",
+      "bt": "• Handout on MSP scenario challenges",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T373",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Scenario and handout require glossary entries; proposed forms are listed separately."
+    },
+    {
+      "id": "FAC-15-0006",
+      "page": "63",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Guide",
+      "ne": "मार्गदर्शिका",
+      "bt": "Guide",
+      "type": "general",
+      "terms": [
+        "T144"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0007",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Note: Handouts for this activity need to have been prepared in advance, using Annex 8 - MSP Scenario Challenges.",
+      "ne": "नोट: यस गतिविधिका लागि वितरण सामग्री अनुसूची 8 - MSP परिदृश्यका चुनौतीहरू प्रयोग गरी अग्रिम रूपमा तयार गरिसकेको हुनुपर्छ।",
+      "bt": "Note: The handout for this activity must have been prepared in advance using Annex 8 - MSP scenario challenges.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T373",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains the requirement for advance preparation using Annex 8; uses proposed scenario and handout terminology."
+    },
+    {
+      "id": "FAC-15-0008",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Inform participants that they will have an opportunity now to review some scenarios and to practice using the MSP to respond to the challenges found in the scenario.",
+      "ne": "सहभागीहरूलाई अब केही परिदृश्यहरूको समीक्षा गर्ने र ती परिदृश्यमा रहेका चुनौतीहरू सम्बोधन गर्न MSP प्रयोग गर्ने अभ्यास गर्ने अवसर पाउनेछन् भन्ने जानकारी दिनुहोस्।",
+      "bt": "Inform participants that they will now have the opportunity to review some scenarios and practise using MSP to address the challenges in those scenarios.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T406",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed ordinary term for scenario."
+    },
+    {
+      "id": "FAC-15-0009",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Divide participants into small groups.",
+      "ne": "सहभागीहरूलाई साना समूहमा विभाजन गर्नुहोस्।",
+      "bt": "Divide participants into small groups.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0010",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "If participants are from different sectors, group them according to their sector.",
+      "ne": "सहभागीहरू फरक-फरक क्षेत्रबाट आएका छन् भने उनीहरूको क्षेत्रअनुसार समूह बनाउनुहोस्।",
+      "bt": "If participants come from different sectors, form groups according to their sectors.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0011",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Explain that each group will need to respond to three scenarios, one on using the MSP to identify resources, one on prioritizing and planning activities, and one on MHPSS advocacy.",
+      "ne": "प्रत्येक समूहले तीनवटा परिदृश्यमा प्रतिक्रिया दिनुपर्नेछ भन्ने स्पष्ट पार्नुहोस्: एउटा स्रोतहरू पहिचान गर्न MSP प्रयोग गर्ने सम्बन्धमा, अर्को गतिविधिहरूको प्राथमिकता निर्धारण र योजना बनाउने सम्बन्धमा, र अर्को MHPSS का लागि पैरवी गर्ने सम्बन्धमा।",
+      "bt": "Clarify that each group will have to respond to three scenarios: one concerning using MSP to identify resources, another concerning prioritising and planning activities, and another concerning advocating for MHPSS.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T191",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserves the three distinct scenario topics; uses proposed scenario terminology."
+    },
+    {
+      "id": "FAC-15-0012",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The first scenario is the same for all groups, and the second and third scenarios differ.",
+      "ne": "पहिलो परिदृश्य सबै समूहका लागि एउटै हुन्छ, तर दोस्रो र तेस्रो परिदृश्य फरक हुन्छन्।",
+      "bt": "The first scenario is the same for all groups, but the second and third scenarios are different.",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed ordinary term for scenario."
+    },
+    {
+      "id": "FAC-15-0013",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Share three scenarios with each group (see the facilitation notes in Annex 8 to help you prepare handouts with appropriate versions of each challenge for each group in advance).",
+      "ne": "प्रत्येक समूहलाई तीनवटा परिदृश्य दिनुहोस् (प्रत्येक समूहका लागि प्रत्येक चुनौतीको उपयुक्त संस्करण समावेश भएको वितरण सामग्री अग्रिम रूपमा तयार गर्न सहयोगका लागि अनुसूची 8 मा भएका सहजीकरणसम्बन्धी टिप्पणीहरू हेर्नुहोस्)।",
+      "bt": "Give each group three scenarios (see the facilitation notes in Annex 8 for help in preparing handouts in advance that include the appropriate version of each challenge for each group).",
+      "type": "check",
+      "terms": [
+        "T365",
+        "T366",
+        "T373",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed terminology for scenario, handout and facilitation notes; retains the advance-preparation condition."
+    },
+    {
+      "id": "FAC-15-0014",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Notify the groups that they will have 45 minutes to respond to all three scenarios, and instruct them to nominate a spokesperson who will feedback to the larger group after the exercise.",
+      "ne": "समूहहरूलाई तीनवटै परिदृश्यमा प्रतिक्रिया दिन 45 मिनेट समय हुनेछ भन्ने जानकारी दिनुहोस् र अभ्यासपछि ठूलो समूहमा आफ्नो समूहको काम प्रस्तुत गर्ने एक जना प्रवक्ता चयन गर्न निर्देशन दिनुहोस्।",
+      "bt": "Inform the groups that they will have 45 minutes to respond to all three scenarios and instruct them to select one spokesperson to present their group's work to the larger group after the exercise.",
+      "type": "check",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserves 45 minutes and the spokesperson's reporting role after the exercise; uses proposed scenario terminology."
+    },
+    {
+      "id": "FAC-15-0015",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Allow the groups 45 minutes to complete the activity, circulating to answer questions and provide help where needed.",
+      "ne": "समूहहरूलाई गतिविधि पूरा गर्न 45 मिनेट समय दिनुहोस् र समूहहरूबीच घुम्दै प्रश्नहरूको उत्तर दिनुहोस् तथा आवश्यक ठाउँमा सहयोग गर्नुहोस्।",
+      "bt": "Give the groups 45 minutes to complete the activity and move among the groups to answer questions and provide help where needed.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0016",
+      "page": "63",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "After the groups have completed their scenarios, give",
+      "ne": "समूहहरूले आ-आफ्ना परिदृश्यमा काम पूरा गरेपछि,",
+      "bt": "After the groups have completed work on their respective scenarios,",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The source sentence continues in the following row; this row intentionally remains a fragment. Uses proposed scenario terminology."
+    },
+    {
+      "id": "FAC-15-0017",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "each group 5-7 minutes to present their work.",
+      "ne": "प्रत्येक समूहलाई आफ्नो काम प्रस्तुत गर्न 5-7 मिनेट समय दिनुहोस्।",
+      "bt": "Give each group 5-7 minutes to present its work.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": "Completes the instruction begun in the preceding row; preserves 5-7 exactly."
+    },
+    {
+      "id": "FAC-15-0018",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Allow 10 minutes for questions and answers.",
+      "ne": "प्रश्नोत्तरका लागि 10 मिनेट समय दिनुहोस्।",
+      "bt": "Allow 10 minutes for questions and answers.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0019",
+      "page": "63",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Part 1:",
+      "ne": "भाग 1:",
+      "bt": "Part 1:",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0020",
+      "page": "63",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Notes for facilitating the discussion of the scenario on Using the MSP to Find Resources: Participants may find resources in the relevant guidelines, standards and tools listed under activities: 2.1 - crisis management; 3.4 - guidance on engaging communities on specific topics; 3.2 – guidance on basic psychosocial support skills; 3.3, 3.10 and 3.11. For example, participants could consult the IASC Guidance on Addressing Suicide in Humanitarian Settings to identify intervention programme activities, as well as examples of multisectoral suicide prevention initiatives across emergencies.",
+      "ne": "स्रोतसामग्री खोज्न MSP प्रयोग गर्ने परिदृश्यको छलफल सहजीकरणका लागि टिप्पणीहरू: सहभागीहरूले यी गतिविधिहरूअन्तर्गत सूचीबद्ध सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणमा स्रोतसामग्री भेट्टाउन सक्छन्: 2.1 - सङ्कट व्यवस्थापन; 3.4 - विशिष्ट विषयहरूमा समुदायहरूलाई संलग्न गराउनेसम्बन्धी मार्गदर्शन; 3.2 – आधारभूत मनोसामाजिक सहयोग सीपसम्बन्धी मार्गदर्शन; 3.3, 3.10 र 3.11। उदाहरणका लागि, सहभागीहरूले हस्तक्षेपसम्बन्धी कार्यक्रमगत गतिविधिहरू पहिचान गर्नका साथै विभिन्न आपत्कालीन अवस्थामा बहु-क्षेत्रगत आत्महत्या रोकथामका पहलहरूका उदाहरण पहिचान गर्न [IASC Guidance on Addressing Suicide in Humanitarian Settings] हेर्न सक्छन्।",
+      "bt": "Notes for facilitating discussion of the scenario of using MSP to find resource materials: Participants can find resource materials in the relevant guidelines, standards and tools listed under these activities: 2.1 - Crisis management; 3.4 - Guidance on engaging communities on specific topics; 3.2 – Guidance on basic psychosocial support skills; 3.3, 3.10 and 3.11. For example, participants can consult [IASC Guidance on Addressing Suicide in Humanitarian Settings] to identify programmatic activities related to interventions as well as to identify examples of multisectoral suicide prevention initiatives in various emergency situations.",
+      "type": "safety",
+      "terms": [
+        "T019",
+        "T026",
+        "T131",
+        "T163",
+        "T167",
+        "T196",
+        "T284",
+        "T406",
+        "T409",
+        "T410",
+        "T416",
+        "T419",
+        "T454"
+      ],
+      "flags": [],
+      "note": "The resource searches and consultation remain possibilities rather than requirements; the reference title is retained exactly in English. The original coordination allows 'examples' to apply to intervention programme activities as well as suicide prevention initiatives. The source specifies programme activities themselves and examples of initiatives; the repair separates those objects explicitly."
+    },
+    {
+      "id": "FAC-15-0021",
+      "page": "64",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Part 2:",
+      "ne": "भाग 2:",
+      "bt": "Part 2:",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0022",
+      "page": "64",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Notes for facilitating the discussion of the scenarios on Using the MSP to Select and/or Strengthen MHPSS Activities:",
+      "ne": "MHPSS गतिविधिहरू चयन गर्न र/वा सुदृढ गर्न MSP प्रयोग गर्ने विषयका परिदृश्यहरूको छलफल सहजीकरणका लागि टिप्पणीहरू:",
+      "bt": "Notes for facilitating discussion of scenarios concerning using MSP to select and/or strengthen MHPSS activities:",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T163",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed terminology for scenario and facilitation notes; retains and/or."
+    },
+    {
+      "id": "FAC-15-0023",
+      "page": "64",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 1- GBV/Gender Participants may implement / strengthen implementation of activities",
+      "ne": "परिदृश्य 1- GBV/लैङ्गिक पक्ष\nसहभागीहरूले निम्न गतिविधिहरू कार्यान्वयन गर्न वा तिनको कार्यान्वयन सुदृढ गर्न सक्छन्।",
+      "bt": "Scenario 1- GBV/gender aspect\nParticipants can implement the following activities or strengthen their implementation.",
+      "type": "check",
+      "terms": [
+        "T233",
+        "T380",
+        "T406",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains GBV without expansion and the possibility of implementing or strengthening implementation. Uses proposed scenario terminology."
+    },
+    {
+      "id": "FAC-15-0024",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.1,",
+      "ne": "• 3.1,",
+      "bt": "• 3.1,",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Activity code and list punctuation retained unchanged."
+    },
+    {
+      "id": "FAC-15-0025",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.4,",
+      "ne": "• 3.4,",
+      "bt": "• 3.4,",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Activity code and list punctuation retained unchanged."
+    },
+    {
+      "id": "FAC-15-0026",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• and 3.9, in response to the gaps identified. Participants may use the core actions under activity 3.9 to establish and/ or strengthen MHPSS activities in the safe spaces.",
+      "ne": "• र 3.9, पहिचान गरिएका कमीहरू सम्बोधन गर्न। सहभागीहरूले सुरक्षित स्थलहरूमा MHPSS गतिविधिहरू सुरु गर्न र/वा सुदृढ गर्न गतिविधि 3.9 अन्तर्गतका मुख्य कार्यहरू प्रयोग गर्न सक्छन्।",
+      "bt": "• and 3.9, to address the identified gaps. Participants can use the key actions under activity 3.9 to start and/or strengthen MHPSS activities in safe spaces.",
+      "type": "check",
+      "terms": [
+        "T232",
+        "T293",
+        "T158",
+        "T129",
+        "T350",
+        "T406"
+      ],
+      "flags": [],
+      "note": "The opening fragment completes the preceding activity list; retains both establishing and/or strengthening activities."
+    },
+    {
+      "id": "FAC-15-0027",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• Participants may need to obtain more information on the needs of the target groups (activity 1.2) to select programme activities accordingly. It is worth underscoring that all Section 2 activities should be implemented as well.",
+      "ne": "• तदनुसार कार्यक्रमगत गतिविधिहरू चयन गर्न सहभागीहरूले लक्षित समूहहरूको आवश्यकताबारे थप जानकारी प्राप्त गर्नुपर्ने हुन सक्छ (गतिविधि 1.2)। खण्ड 2 का सबै गतिविधिहरू पनि कार्यान्वयन गर्नु उचित हुन्छ भन्ने कुरामा जोड दिनु उपयुक्त हुन्छ।",
+      "bt": "• Participants may need to obtain more information about the needs of the target groups in order to select programmatic activities accordingly (Activity 1.2). It would be appropriate to emphasize that it would also be appropriate to implement all the activities in Section 2.",
+      "type": "check",
+      "terms": [
+        "T167",
+        "T379",
+        "T406",
+        "T409",
+        "T422",
+        "T435"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Preserves the possible need for more information and the recommendation to implement all Section 2 activities. The back-translation strengthens 'should be implemented' to 'must also be implemented.' Revised the second sentence to express a recommendation rather than a mandatory requirement. The back-translation weakens the recommendation that all Section 2 activities should be implemented to a statement that implementing them would be appropriate."
+    },
+    {
+      "id": "FAC-15-0028",
+      "page": "64",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 2 - Health The most suitable MSP activities for this scenario would be",
+      "ne": "परिदृश्य 2 - स्वास्थ्य\nयस परिदृश्यका लागि सबैभन्दा उपयुक्त MSP गतिविधिहरू निम्न हुनेछन्:",
+      "bt": "Scenario 2 - Health\nThe most appropriate MSP activities for this scenario would be the following:",
+      "type": "check",
+      "terms": [
+        "T027",
+        "T272",
+        "T163",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Introduces the following activity list; uses proposed scenario terminology."
+    },
+    {
+      "id": "FAC-15-0029",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.10 - given that the organization wants to integrate mental health into general health care.",
+      "ne": "• 3.10 - किनभने संस्थाले सामान्य स्वास्थ्य सेवामा मानसिक स्वास्थ्य समावेश गर्न चाहन्छ।",
+      "bt": "• 3.10 - because the organisation wants to include mental health in general health services.",
+      "type": "check",
+      "terms": [
+        "T027",
+        "T157"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied mental health candidate; the surrounding wording concerns ordinary service integration."
+    },
+    {
+      "id": "FAC-15-0030",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.12 - could be considered and could involve working with the local psychologists to build further capacities around psychological interventions (e.g. training the psychologists and having them support non-specialized health workers at the clinics).",
+      "ne": "• 3.12 - यसलाई विचार गर्न सकिन्छ र यसमा मनोवैज्ञानिक हस्तक्षेपसम्बन्धी क्षमता थप विकास गर्न स्थानीय मनोवैज्ञानिकहरूसँग मिलेर काम गर्ने कार्य समावेश हुन सक्छ (जस्तै, मनोवैज्ञानिकहरूलाई तालिम दिने र उनीहरूले क्लिनिकहरूमा रहेका गैर-विशेषज्ञ स्वास्थ्यकर्मीहरूलाई सहयोग गर्ने व्यवस्था मिलाउने)।",
+      "bt": "• 3.12 - This can be considered and may include working together with local psychologists to further develop capacity related to psychological interventions (e.g., training psychologists and making arrangements for them to support non-specialist health workers in clinics).",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T027",
+        "T497"
+      ],
+      "flags": [],
+      "note": "Both possibilities are retained, and psychologists remain distinct from the non-specialized health workers they would support."
+    },
+    {
+      "id": "FAC-15-0031",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• Participants would also want to coordinate their activities (1.1.) and assess to what extent mental heath is already integrated with general health care (e.g. existing national mental health policies and plans and existing systems and capacities of health care workers, numbers and locations of psychiatrists in the region etc.). It is worth underscoring that all Section 2 activities should be implemented as well.",
+      "ne": "• सहभागीहरूले आफ्ना गतिविधिहरूबीच समन्वय गर्न (1.1.) र मानसिक स्वास्थ्यलाई सामान्य स्वास्थ्य हेरचाहसँग पहिले नै कति हदसम्म एकीकृत गरिएको छ भन्ने मूल्याङ्कन गर्न पनि चाहनेछन् (जस्तै, विद्यमान राष्ट्रिय मानसिक स्वास्थ्य नीति तथा योजनाहरू, विद्यमान प्रणालीहरू र स्वास्थ्यकर्मीहरूको क्षमता, त्यस क्षेत्रका मनोचिकित्सकहरूको सङ्ख्या र उनीहरू रहेका स्थानहरू आदि)। खण्ड 2 का सबै गतिविधिहरू पनि कार्यान्वयन गर्नु उपयुक्त हुन्छ भन्ने कुरामा जोड दिनु उचित हुन्छ।",
+      "bt": "• Participants will also want to coordinate their activities (1.1.) and assess the extent to which mental health has already been integrated with general health care (e.g., existing national mental health policies and plans, existing systems and the capacity of health workers, the number of psychiatrists in that area and the locations where they are, etc.). It is appropriate to emphasize that it is also appropriate to implement all activities in Section 2.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T296",
+        "T379",
+        "T406",
+        "T422",
+        "T491"
+      ],
+      "flags": [
+        "unclear-english",
+        "bt-divergence"
+      ],
+      "note": "The source phrase 'mental heath' is interpreted as an apparent typographical error for 'mental health'; the assessment scope and requirement concerning all Section 2 activities are retained. The source recommends implementing all Section 2 activities; the supplied wording is read as a mandatory requirement. The repair makes the recommendation explicit without changing its scope. 'Mental heath' is treated as the apparent source typo for 'mental health'. 'Would also want' becomes 'will also want,' making participants' anticipated intention more definite. 'All Section 2 activities should be implemented' becomes 'it is appropriate to implement all Section 2 activities,' weakening the explicit recommendation to a statement of appropriateness."
+    },
+    {
+      "id": "FAC-15-0032",
+      "page": "64",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 3- Child Protection In real life, you would probably ask more questions before recommending specific activities (e.g. how old are the children?).",
+      "ne": "परिदृश्य 3- बाल संरक्षण\nवास्तविक परिस्थितिमा, विशिष्ट गतिविधिहरू सिफारिस गर्नुअघि सम्भवतः तपाईंले थप प्रश्नहरू सोध्नुहुनेछ (उदाहरणका लागि, बालबालिका कति उमेरका छन्?)।",
+      "bt": "Scenario 3- Child protection\nIn a real situation, you would probably ask more questions before recommending specific activities (for example, how old are the children?).",
+      "type": "check",
+      "terms": [
+        "T036",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Ordinary facilitation advice, not a safeguarding declaration; translated rather than protected. Uses proposed scenario terminology."
+    },
+    {
+      "id": "FAC-15-0033",
+      "page": "64",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "There is no strictly correct or incorrect answer, however, based on the information we have, it’s likely the following activities would be most appropriate:",
+      "ne": "पूर्ण रूपमा सही वा गलत भन्ने कुनै उत्तर छैन। तथापि, हामीसँग भएको जानकारीका आधारमा निम्न गतिविधिहरू सबैभन्दा उपयुक्त हुने सम्भावना छ।",
+      "bt": "There is no completely right or wrong answer. However, based on the information we have, the following activities are likely to be the most appropriate.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0034",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.6 - this activity covers the usual structured and recreational group activities that take place in child friendly spaces (and also in schools)",
+      "ne": "• 3.6 - यस गतिविधिले बालमैत्री स्थलहरूमा (र विद्यालयहरूमा पनि) सामान्यतया सञ्चालन हुने संरचित सामूहिक गतिविधिहरू तथा मनोरञ्जनात्मक सामूहिक गतिविधिहरू समेट्छ।",
+      "bt": "• 3.6 - This activity covers structured group activities and recreational group activities that are generally conducted in child-friendly spaces (and also in schools).",
+      "type": "check",
+      "terms": [
+        "T080",
+        "T081",
+        "T341",
+        "T342"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'child-friendly spaces' is absent from G-0.3; '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is proposed for review."
+    },
+    {
+      "id": "FAC-15-0035",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.7 - whenever we work with children, we should also engage their caregivers. This is particularly important in this scenario, which mentions that parents report they are ‘struggling to cope’",
+      "ne": "• 3.7 - हामीले बालबालिकासँग काम गर्दा सधैँ उनीहरूका हेरचाहकर्ता पनि सहभागी गराउनु उचित हुन्छ। यस परिदृश्यमा यो विशेष रूपमा महत्त्वपूर्ण छ, किनकि यसमा अभिभावकहरूले आफूलाई ‘परिस्थितिको सामना गर्न कठिनाइ भइरहेको’ बताएका छन्।",
+      "bt": "• 3.7 - When we work with children, it is always appropriate to involve their caregivers as well. This is particularly important in this scenario, because in it the parents have said that they are ‘having difficulty coping with the situation’.",
+      "type": "check",
+      "terms": [
+        "T006",
+        "T419"
+      ],
+      "flags": [],
+      "note": "The quoted difficulty coping is rendered as ordinary reported experience, not as a clinical condition. The BT strengthens 'should also engage' to 'must always involve'. The revision retains the whenever condition while expressing a recommendation rather than a mandatory requirement."
+    },
+    {
+      "id": "FAC-15-0036",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.5 - the scenario mentions that children are hitting and biting – this hints that there might be some younger children involved, and that integrating MHPSS & ECD might be beneficial If groups mention other activities (e.g. 3.3 on key messaging, 3.8 on MHPSS in education) explore their rationale and explanation. Some may mention 3.4 - but highlight that that is group activities for adults, whereas 3.6 is a dedicated activity on group activities for children. While this activity is asking about the programme activities in section 3, because the scenario mentions that ‘facilitators report high levels of stress’ it is worth underscoring that all Section 2 activities should be implemented as well – here the need for 2.3 (Care for staff and volunteers) is particularly clear.",
+      "ne": "• 3.5 - परिदृश्यमा बालबालिकाले हिर्काउने र टोक्ने गरेको उल्लेख छ। यसले केही साना उमेरका बालबालिका पनि संलग्न हुन सक्ने र MHPSS र ECD लाई एकीकृत गर्नु लाभदायक हुन सक्ने सङ्केत गर्छ। समूहहरूले अन्य गतिविधिहरू उल्लेख गरेमा (जस्तै, मुख्य सन्देशहरू दिने विषयमा 3.3, शिक्षामा MHPSS सम्बन्धी 3.8), उनीहरूले दिएका आधार र व्याख्याबारे थप छलफल गर्नुहोस्। केहीले 3.4 उल्लेख गर्न सक्छन्, तर त्यो वयस्कहरूका लागि सामूहिक गतिविधिहरूसम्बन्धी हो भने 3.6 विशेष रूपमा बालबालिकाका लागि सामूहिक गतिविधिहरूसम्बन्धी गतिविधि हो भन्ने कुरा स्पष्ट पार्नुहोस्। यस अभ्यासले खण्ड 3 का कार्यक्रमगत गतिविधिहरूबारे सोधेको भए पनि, परिदृश्यमा ‘सहजीकरणकर्ता आफूलाई धेरै तनाव भएको बताउँछन्’ भन्ने उल्लेख भएकाले खण्ड 2 का सबै गतिविधिहरू पनि कार्यान्वयन गर्नु उचित हुन्छ भन्ने कुरामा जोड दिनु उपयुक्त हुन्छ। यहाँ 2.3 (कर्मचारी र स्वयंसेवकको हेरचाह गर्ने) को आवश्यकता विशेष रूपमा स्पष्ट छ।",
+      "bt": "• 3.5 - The scenario mentions that children hit and bite. This indicates that some younger children may also be involved and that integrating MHPSS and ECD may be beneficial. If groups mention other activities (for example, 3.3 on giving key messages, 3.8 on MHPSS in education), discuss further the reasons and explanations they have given. Some may mention 3.4, but clarify that it concerns group activities for adults, whereas 3.6 is an activity specifically concerning group activities for children. Although this exercise asks about the programmatic activities in Section 3, it is appropriate to emphasize that it would also be appropriate to implement all the activities in Section 2, because the scenario mentions that ‘the facilitator says they are very stressed’. The need for 2.3 (caring for staff and volunteers) is particularly clear here.",
+      "type": "check",
+      "terms": [
+        "T028",
+        "T167",
+        "T230",
+        "T379",
+        "T409",
+        "T419",
+        "T422"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The reported stress is drafted as ordinary non-diagnostic wording. ECD and all activity and section numbers are retained. The BT strengthens 'all Section 2 activities should be implemented' to 'must also be implemented'. The revision restores recommendation strength without changing the scope of all Section 2 activities. The BT changes the plural reporting actors, ‘facilitators’, to a single ‘facilitator’."
+    },
+    {
+      "id": "FAC-15-0037",
+      "page": "64",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 4 – Protection",
+      "ne": "परिदृश्य 4 – संरक्षण",
+      "bt": "Scenario 4 – Protection",
+      "type": "check",
+      "terms": [
+        "T029",
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0038",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.13 - The scenario identifies that staff need (additional) training on providing MHPSS through Case Management. You should refer to the list of recommended training topics provided with that activity to check which relevant topics case managers have not yet been trained on. The list of recommended guidance, standards, and tools will be useful in finding relevant source materials",
+      "ne": "• 3.13 - यस परिदृश्यले कर्मचारीहरूलाई केस व्यवस्थापनमार्फत MHPSS प्रदान गर्ने विषयमा (थप) तालिम आवश्यक भएको देखाउँछ। केस व्यवस्थापकहरू अझै कुन-कुन सम्बन्धित विषयमा तालिम पाउन बाँकी छन् भनी जाँच गर्न उक्त गतिविधिसँगै दिइएको सिफारिस गरिएका तालिमका विषयहरू समावेश भएको सूची हेर्नु उचित हुन्छ। सिफारिस गरिएका मार्गदर्शन, मापदण्डहरू र साधनहरूको सूची सम्बन्धित स्रोत सामग्री फेला पार्न उपयोगी हुनेछ।",
+      "bt": "• 3.13 - This scenario shows that staff need (additional) training on providing MHPSS through case management. It is appropriate to consult the list of recommended training topics provided with that activity to check which related topics case managers have yet to receive training on. The list of recommended guidance, standards and tools will be useful for finding relevant resource materials.",
+      "type": "safety",
+      "terms": [
+        "T118",
+        "T088",
+        "T087",
+        "T419",
+        "T437",
+        "T438"
+      ],
+      "flags": [],
+      "note": "General guidance on checking training coverage and locating resources; safety review remains pending. The inflected rendering of 'case managers' does not reproduce the frozen T119 form. The source recommends consulting the list ('should refer'); the translation makes this a direct instruction. The revision restores recommendation strength and uses the exact candidate form [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-15-0039",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.4 - will support you to address the gap in supporting new and pre-existing group-based community MHPSS activities",
+      "ne": "• 3.4 - नयाँ तथा पहिलेदेखि सञ्चालनमा रहेका समूहमा आधारित सामुदायिक MHPSS गतिविधिहरूलाई सहयोग गर्ने कार्यमा रहेको कमी सम्बोधन गर्न यसले तपाईंलाई सहयोग गर्नेछ।",
+      "bt": "• 3.4 - This will help you address the gap in work to support new and already operating group-based community MHPSS activities.",
+      "type": "check",
+      "terms": [
+        "T079"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0040",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.2 - will help equip all staff with the basic psychosocial support skills they need to support people in distress.",
+      "ne": "• 3.2 - यसले सबै कर्मचारीहरूलाई व्यथामा रहेका मानिसहरूलाई सहयोग गर्न आवश्यक पर्ने आधारभूत मनोसामाजिक सहयोग सीप हासिल गर्न मद्दत गर्नेछ।",
+      "bt": "• 3.2 - This will help all staff acquire the basic psychosocial support skills needed to support people in distress.",
+      "type": "safety",
+      "terms": [
+        "T196",
+        "T284",
+        "T410",
+        "T454",
+        "T461"
+      ],
+      "flags": [],
+      "note": "Distress remains a broad experience and is not replaced by a diagnosis or impaired daily functioning."
+    },
+    {
+      "id": "FAC-15-0041",
+      "page": "64",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• You have been seeking referral options for refugees with sings of anxiety and depression. From your conversation with the TWG you have learned that another organization will be offering psychological interventions, which is likely to meet this referral need. It is worth underscoring that all Section 2 activities should be implemented as well.",
+      "ne": "• तपाईंले [anxiety] र [depression] का लक्षण भएका शरणार्थीहरूका लागि सम्बन्धित सेवामा पठाउने कार्यका विकल्पहरू खोज्दै आउनुभएको छ। TWG सँगको कुराकानीबाट तपाईंले अर्को संस्थाले मनोवैज्ञानिक हस्तक्षेप उपलब्ध गराउनेछ भन्ने थाहा पाउनुभएको छ, जसले सम्बन्धित सेवामा पठाउने कार्यको यो आवश्यकता सम्भवतः पूरा गर्नेछ। खण्ड 2 का सबै गतिविधिहरू पनि कार्यान्वयन गर्नु उपयुक्त हुन्छ भन्ने कुरामा जोड दिनु उचित हुन्छ।",
+      "bt": "• You have been looking for options for referral to relevant services for refugees with symptoms of [anxiety] and [depression]. From a conversation with the TWG, you have learned that another organization will provide a psychological intervention, which will probably meet this need for referral to relevant services. It is appropriate to emphasize that it is also appropriate to implement all activities in Section 2.",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T172",
+        "T287",
+        "T379",
+        "T422"
+      ],
+      "flags": [
+        "unclear-english",
+        "bt-divergence"
+      ],
+      "note": "The source phrase 'sings of anxiety and depression' is interpreted as an apparent typographical error for 'signs of anxiety and depression'; the future offer and its likely rather than certain fulfillment of the referral need are retained. The source recommends implementing all Section 2 activities; the supplied wording is read as a mandatory requirement. The repair restores advisory force while retaining the future provision and likely fulfillment of the referral need. 'Sings' is treated as the apparent source typo for 'signs'. 'All Section 2 activities should be implemented' becomes 'it is appropriate to implement all Section 2 activities,' weakening the explicit recommendation to a statement of appropriateness."
+    },
+    {
+      "id": "FAC-15-0042",
+      "page": "65",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 5 – Education Based on the information we have, it’s likely the following activities would be most appropriate:",
+      "ne": "परिदृश्य 5 – शिक्षा। हामीसँग भएको जानकारीका आधारमा निम्न गतिविधिहरू सबैभन्दा उपयुक्त हुने सम्भावना छ।",
+      "bt": "Scenario 5 – Education. Based on the information we have, the following activities are likely to be the most appropriate.",
+      "type": "check",
+      "terms": [
+        "T028",
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0043",
+      "page": "65",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.6 – this activity covers the usual structured and recreational group activities that take place in child friendly spaces and also in schools, the scenario mentions that teachers have not been trained in structured group activities",
+      "ne": "• 3.6 – यस गतिविधिले बालमैत्री स्थलहरूमा र विद्यालयहरूमा पनि सामान्यतया सञ्चालन हुने संरचित सामूहिक गतिविधिहरू तथा मनोरञ्जनात्मक सामूहिक गतिविधिहरू समेट्छ। परिदृश्यमा शिक्षकहरूले संरचित सामूहिक गतिविधिहरू सञ्चालन गर्ने तालिम पाएका छैनन् भन्ने उल्लेख छ।",
+      "bt": "• 3.6 – This activity covers structured group activities and recreational group activities that are generally conducted in child-friendly spaces and also in schools. The scenario mentions that teachers have not received training in conducting structured group activities.",
+      "type": "check",
+      "terms": [
+        "T080",
+        "T081",
+        "T341",
+        "T342",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The proposed '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' consistently renders the recurring term 'child-friendly spaces'; it is not an addition to G-0.3."
+    },
+    {
+      "id": "FAC-15-0044",
+      "page": "65",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.8 – this activity focuses on supporting teachers mental health and psychosocial well being and on strengthening their ability to promote the mental health and well being of children; through this activity it would be possible to support teachers to feel better equipped to respond to the MHPSS needs of children and to cope with the high levels of stress they have been experiencing themselves",
+      "ne": "• 3.8 – यस गतिविधिले शिक्षकहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सहयोग गर्ने र बालबालिकाको मानसिक स्वास्थ्य तथा कल्याण प्रवर्द्धन गर्ने उनीहरूको क्षमता सुदृढ गर्ने कुरामा ध्यान केन्द्रित गर्छ। यस गतिविधिमार्फत शिक्षकहरूलाई बालबालिकाका MHPSS आवश्यकताहरू सम्बोधन गर्न आफू अझ सक्षम भएको महसुस गर्न र आफैँले अनुभव गरिरहेको उच्च स्तरको तनावको सामना गर्न सहयोग गर्न सकिनेछ।",
+      "bt": "• 3.8 – This activity focuses on supporting teachers’ mental health and psychosocial well-being and strengthening their capacity to promote children’s mental health and well-being. Through this activity, teachers can be helped to feel more capable of addressing children’s MHPSS needs and to cope with the high level of stress they themselves are experiencing.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental-health and psychosocial-well-being wording reuses the supplied unreviewed candidates T157 and T005. Stress and coping are rendered as ordinary experience, without diagnostic terminology."
+    },
+    {
+      "id": "FAC-15-0045",
+      "page": "65",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• 3.7 - whenever we work with children, we should also engage their caregivers.",
+      "ne": "• 3.7 - हामीले बालबालिकासँग काम गर्दा सधैँ उनीहरूका हेरचाहकर्ता पनि सहभागी गराउनु उचित हुन्छ।",
+      "bt": "• 3.7 - When we work with children, it is always appropriate to involve their caregivers as well.",
+      "type": "check",
+      "terms": [
+        "T006"
+      ],
+      "flags": [],
+      "note": "The BT strengthens 'should also engage' to 'must always involve'. The revision retains the whenever condition while expressing a recommendation rather than a mandatory requirement."
+    },
+    {
+      "id": "FAC-15-0046",
+      "page": "65",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• If groups mention other activities (e.g. 3.5) explore their rationale. S ome may mention activity 3.5. Highlight that the scenario speaks about school age children . It is worth underscoring that all Section 2 activities should be implemented as well.",
+      "ne": "• समूहहरूले अन्य गतिविधिहरू (जस्तै, 3.5) उल्लेख गरेमा उनीहरूले दिएका आधारबारे थप छलफल गर्नुहोस्। केहीले गतिविधि 3.5 उल्लेख गर्न सक्छन्। परिदृश्यमा विद्यालय जाने उमेरका बालबालिकाबारे चर्चा गरिएको छ भन्ने कुरा स्पष्ट पार्नुहोस्। खण्ड 2 का सबै गतिविधिहरू पनि कार्यान्वयन गर्नु उचित हुन्छ भन्ने कुरामा जोड दिनु उपयुक्त हुन्छ।",
+      "bt": "• If groups mention other activities (for example, 3.5), discuss further the reasons they have given. Some may mention activity 3.5. Clarify that the scenario discusses school-age children. It is appropriate to emphasize that it would also be appropriate to implement all the activities in Section 2.",
+      "type": "check",
+      "terms": [
+        "T379",
+        "T419",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Both source references to 3.5 are retained; the source's spacing errors do not change the meaning. The BT strengthens 'all Section 2 activities should be implemented' to 'must also be implemented'. The revision restores recommendation strength."
+    },
+    {
+      "id": "FAC-15-0047",
+      "page": "65",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Note for facilitators",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी",
+      "bt": "Note for the facilitator",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0048",
+      "page": "65",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The MSP Practice Exercises handout includes 3 types of scenarios:",
+      "ne": "MSP अभ्याससम्बन्धी वितरण सामग्रीमा 3 प्रकारका परिदृश्यहरू समावेश छन्।",
+      "bt": "The handout on the MSP exercise includes 3 types of scenarios.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T373",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring resource term 'handout' is absent from G-0.3; '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is proposed for review."
+    },
+    {
+      "id": "FAC-15-0049",
+      "page": "65",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• Part 1 - Using the MSP to Find Resources is the same for all groups.",
+      "ne": "• भाग 1 - स्रोतहरू खोज्न MSP प्रयोग गर्ने अभ्यास सबै समूहका लागि एउटै छ।",
+      "bt": "• Part 1 - The exercise on using the MSP to find resources is the same for all groups.",
+      "type": "check",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0050",
+      "page": "65",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• Part 2 - Using the MSP to Select and/or strengthen MHPSS Activities contains five sector-specific scenarios to choose from (Health, Education, Protection, Child Protection, and GBV). If the participants are all from the same sector/AoR, select the most appropriate scenario to use. If the participants are from different sectors/ AoRs, select the appropriate scenarios, make different handouts for each sector/AoR, and divide participants into sector-specific groups.",
+      "ne": "• भाग 2 - MHPSS गतिविधिहरू छनोट गर्न र/वा सुदृढ गर्न MSP प्रयोग गर्ने अभ्यासमा छनोटका लागि पाँचवटा क्षेत्रगत परिदृश्यहरू (स्वास्थ्य, शिक्षा, संरक्षण, बाल संरक्षण र GBV) समावेश छन्। सबै सहभागी एउटै क्षेत्र/AoR का भएमा प्रयोग गर्नका लागि सबैभन्दा उपयुक्त परिदृश्य छनोट गर्नुहोस्। सहभागीहरू फरक-फरक क्षेत्रहरू/AoRs का भएमा उपयुक्त परिदृश्यहरू छनोट गर्नुहोस्, प्रत्येक क्षेत्र/AoR का लागि छुट्टाछुट्टै वितरण सामग्री तयार गर्नुहोस् र सहभागीहरूलाई क्षेत्रअनुसार समूहमा विभाजन गर्नुहोस्।",
+      "bt": "• Part 2 - The exercise on using the MSP to select and/or strengthen MHPSS activities includes five sectoral scenarios (health, education, protection, child protection and GBV) to choose from. If all participants are from the same sector/AoR, select the most appropriate scenario to use. If participants are from different sectors/AoRs, select appropriate scenarios, prepare separate handouts for each sector/AoR and divide participants into groups by sector.",
+      "type": "check",
+      "terms": [
+        "T158",
+        "T163",
+        "T027",
+        "T028",
+        "T029",
+        "T036",
+        "T296",
+        "T373",
+        "T406",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The handout proposal '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is used for the separate sector/AoR materials. GBV, AoR and AoRs are retained without introducing expansions."
+    },
+    {
+      "id": "FAC-15-0051",
+      "page": "65",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• Part 3 - Using the MSP to Advocate for MHPSS includes five scenarios. Select a different scenario for each group so that all five are presented at the end of the exercise. You can also develop scenarios relevant to the context.",
+      "ne": "• भाग 3 - MHPSS का लागि पैरवी गर्न MSP प्रयोग गर्ने अभ्यासमा पाँचवटा परिदृश्यहरू समावेश छन्। अभ्यासको अन्त्यमा पाँचैवटा परिदृश्य प्रस्तुत हुने गरी प्रत्येक समूहका लागि फरक परिदृश्य छनोट गर्नुहोस्। तपाईंले सन्दर्भअनुकूल परिदृश्यहरू पनि विकास गर्न सक्नुहुन्छ।",
+      "bt": "• Part 3 - The exercise on using the MSP to advocate for MHPSS includes five scenarios. Select a different scenario for each group so that all five scenarios are presented at the end of the exercise. You can also develop scenarios suited to the context.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-15-0052",
+      "page": "65",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "For Part 2 on the MSP Scenario Challenges handout, please note that the objective is to prompt discussions among participants on how to use the MSP to select, initiate and/or strengthen MHPSS activities.",
+      "ne": "MSP परिदृश्य चुनौतीसम्बन्धी वितरण सामग्रीको भाग 2 का सन्दर्भमा, यसको उद्देश्य MHPSS गतिविधिहरू छनोट गर्न, सुरु गर्न र/वा सुदृढ गर्न MSP कसरी प्रयोग गर्ने भन्नेबारे सहभागीहरूबीच छलफल अघि बढाउनु हो भन्ने कुरामा ध्यान दिनुहोस्।",
+      "bt": "With regard to Part 2 of the MSP scenario challenge handout, note that its purpose is to advance discussion among participants about how to use the MSP to select, initiate and/or strengthen MHPSS activities.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T158",
+        "T373",
+        "T406",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The proposed handout term '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' identifies the specific resource containing Part 2."
+    },
+    {
+      "id": "FAC-15-0053",
+      "page": "65",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "In the discussion, facilitators should reflect on how the participants used the MSP to guide their thinking, reflecting real-world application of the MSP.",
+      "ne": "छलफलमा सहजीकरणकर्ताले सहभागीहरूले आफ्नो सोचलाई दिशा दिन MSP कसरी प्रयोग गरे भन्नेबारे विचार गर्नु उचित हुन्छ, जसमा MSP को वास्तविक व्यवहारमा हुने प्रयोग प्रतिबिम्बित हुन्छ।",
+      "bt": "In the discussion, it is appropriate for the facilitator to consider how participants used the MSP to guide their thinking, which reflects the use of the MSP in actual practice.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T163",
+        "T406"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The BT strengthens 'should reflect' to 'must consider' and adds a separate requirement that the use 'must reflect' actual practice. The revision removes both mandatory formulations. The attachment of the source phrase 'reflecting real-world application of the MSP' remains ambiguous and pending review. The BT assigns reflection to a single ‘facilitator’ rather than the plural ‘facilitators’ in the source."
+    }
+  ]
+}

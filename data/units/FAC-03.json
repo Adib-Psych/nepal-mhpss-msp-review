@@ -1,0 +1,1843 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-03",
+  "unit_title": "Mental Health and Psychosocial Support in Humanitarian Crises",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "16-20",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:59:54+05:45",
+  "coverage": {
+    "source_words": 1920,
+    "row_words": 1920,
+    "skipped": [
+      "Page 16: running-footer: 12 · MSP Workshop Facilitator Manual · Module 1",
+      "Page 17: running-footer: Module 1 · MSP Workshop Facilitator Manual · 13",
+      "Page 17: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 18: running-footer: 14 · MSP Workshop Facilitator Manual · Module 1",
+      "Page 18: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 18: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 19: running-footer: Module 1 · MSP Workshop Facilitator Manual · 15",
+      "Page 19: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 20: running-footer: 16 · MSP Workshop Facilitator Manual · Module 1",
+      "Page 20: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 20: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 20: image-content-unverified: Exact embedded text, if present, is not transcribed."
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-03-0001",
+      "page": "16",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "1.2 Mental Health and Psychosocial Support in Humanitarian Crises",
+      "ne": "1.2 मानवीय सङ्कटमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग",
+      "bt": "1.2 Mental health and psychosocial support in humanitarian crises",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "T001 is reused verbatim as a cited unreviewed candidate. Humanitarian crises is absent from the supplied glossary; a proposal is listed."
+    },
+    {
+      "id": "FAC-03-0002",
+      "page": "16",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "How humanitarian crises impact mental health and psychosocial wellbeing",
+      "ne": "मानवीय सङ्कटले मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा कसरी प्रभाव पार्छ",
+      "bt": "How humanitarian crises affect mental health and psychosocial well-being",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The psychosocial well-being wording uses the cited unreviewed T005 candidate. The proposed wording for humanitarian crises remains outside the frozen glossary."
+    },
+    {
+      "id": "FAC-03-0003",
+      "page": "16",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0004",
+      "page": "16",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0005",
+      "page": "16",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "What layers of the social ecological model are influenced by humanitarian crises?",
+      "ne": "मानवीय सङ्कटले सामाजिक–पारिस्थितिक मोडेलका कुन तहहरूलाई प्रभाव पार्छ?",
+      "bt": "Which levels of the social–ecological model does a humanitarian crisis affect?",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Humanitarian crises and social ecological model are recurring terms absent from the supplied glossary; proposals are listed. The named social ecological model is rendered as a framework. The revision preserves the source's explicit designation as a model."
+    },
+    {
+      "id": "FAC-03-0006",
+      "page": "16",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "(If possible, make reference to a specific crisis that is relevant to the setting)",
+      "ne": "(सम्भव भएमा, सम्बन्धित परिवेशसँग सान्दर्भिक कुनै विशिष्ट सङ्कटको उल्लेख गर्नुहोस्।)",
+      "bt": "(If possible, mention a specific crisis relevant to the setting concerned.)",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0007",
+      "page": "16",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Use",
+      "ne": "प्रयोग गर्नुहोस्।",
+      "bt": "Use.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0008",
+      "page": "16",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "participant responses to highlight that humanitarian crises impact all layers of the social ecological model.",
+      "ne": "मानवीय सङ्कटले सामाजिक–पारिस्थितिक मोडेलका सबै तहमा प्रभाव पार्छ भन्ने कुरा स्पष्ट पार्न सहभागीहरूका उत्तरहरू प्रयोग गर्नुहोस्।",
+      "bt": "Use participants’ answers to make clear that a humanitarian crisis affects all levels of the social–ecological model.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Uses the proposed nonclinical wording for humanitarian crises and social ecological model without changing the glossary. The named social ecological model is rendered as a framework. The revision preserves the source's explicit designation as a model. The back-translation adds an explicit imperative to use participants’ answers, whereas the exact source fragment states no such instruction."
+    },
+    {
+      "id": "FAC-03-0009",
+      "page": "16",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0010",
+      "page": "16",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "participants for examples of how humanitarian crises impact the different layers.",
+      "ne": "मानवीय सङ्कटले विभिन्न तहमा कसरी प्रभाव पार्छ भन्ने उदाहरणहरू सहभागीहरूसँग माग्नुहोस्।",
+      "bt": "Ask participants for examples of how humanitarian crises affect different levels.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed wording for the recurring term humanitarian crises."
+    },
+    {
+      "id": "FAC-03-0011",
+      "page": "16",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Make sure",
+      "ne": "सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0012",
+      "page": "16",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "the discussion includes an example from each layer, including positive examples as well.",
+      "ne": "छलफलमा प्रत्येक तहको उदाहरण र सकारात्मक उदाहरणहरू पनि समावेश भएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure that the discussion includes an example of each level and positive examples as well.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0013",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Individual - coping skills could be tested during a crisis, opportunities to learn new coping skills, usual ways of coping may not be available (e.g., not safe to take a walk or not able to talk with friends).",
+      "ne": "• व्यक्ति — सङ्कटका बेला परिस्थितिको सामना गर्ने सीपको परीक्षा हुन सक्छ, परिस्थितिको सामना गर्ने नयाँ सीप सिक्ने अवसरहरू मिल्न सक्छन् र परिस्थितिको सामना गर्ने सामान्य तरिकाहरू उपलब्ध नहुन सक्छन् (जस्तै, हिँडडुल गर्न जानु सुरक्षित नहुनु वा साथीहरूसँग कुराकानी गर्न नसक्नु)।",
+      "bt": "• Individual — During a crisis, skills for coping with the situation may be tested, opportunities to learn new skills for coping with the situation may arise, and usual ways of coping with the situation may not be available (for example, it may not be safe to go for a walk or it may not be possible to talk with friends).",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Coping skills is translated as ordinary, nonclinical wording. A proposal is listed because the term recurs within this row."
+    },
+    {
+      "id": "FAC-03-0014",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Relationships - separation from or loss of loved ones, an increased sense of closeness within a family, increase in relationship violence including GBV.",
+      "ne": "• सम्बन्ध — प्रियजनहरूबाट अलग हुनु वा उनीहरूलाई गुमाउनु, परिवारभित्र निकटताको अनुभूति बढ्नु, लैङ्गिकतामा आधारित हिंसा (GBV) लगायत सम्बन्धभित्र हुने हिंसा बढ्नु।",
+      "bt": "• Relationships — Being separated from loved ones or losing them, an increased feeling of closeness within the family, increased violence within relationships, including gender-based violence (GBV).",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "General discussion of relationship violence, not a verbatim safeguarding declaration. Safety review remains pending."
+    },
+    {
+      "id": "FAC-03-0015",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Communities - people who are marginalized may face further discrimination and be unable to access services, community members may feel a stronger sense of cohesion in the face of adversity and help one another.",
+      "ne": "• समुदाय — सीमान्तीकृत व्यक्तिहरूले थप भेदभाव सामना गर्नुपर्ने र सेवामा पहुँच पाउन नसक्ने हुन सक्छ; प्रतिकूल परिस्थितिमा समुदायका सदस्यहरूले आपसी एकताको अझ बलियो अनुभूति गर्न र एकअर्कालाई सहयोग गर्न सक्छन्।",
+      "bt": "• Community — Marginalized people may have to face additional discrimination and may be unable to access services; in adverse circumstances, community members may feel a stronger sense of mutual unity and help one another.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0016",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Services - services may be disrupted (e.g., buildings damaged, staff displaced), new services may be made available by humanitarian responders.",
+      "ne": "• सेवा — सेवाहरू अवरुद्ध हुन सक्छन् (जस्तै, भवनहरू क्षतिग्रस्त हुनु, कर्मचारीहरू विस्थापित हुनु), मानवीय प्रतिकार्यमा संलग्न पक्षहरूले नयाँ सेवाहरू उपलब्ध गराउन सक्छन्।",
+      "bt": "• Services — Services may be disrupted (for example, buildings being damaged, staff being displaced), and parties involved in the humanitarian response may provide new services.",
+      "type": "general",
+      "terms": [
+        "T174"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0017",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Society - economic conditions may worsen, resources may be allocated to services that were previously underfunded.",
+      "ne": "• समाज — आर्थिक अवस्था बिग्रन सक्छ, पहिले अपर्याप्त रकम उपलब्ध गराइएका सेवाहरूका लागि स्रोतहरू विनियोजन हुन सक्छन्।",
+      "bt": "• Society — The economic situation may worsen, and resources may be allocated to services that were previously provided with insufficient funds.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0018",
+      "page": "16",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0019",
+      "page": "16",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "How does a humanitarian crisis impact one´s mental health and psychosocial wellbeing?",
+      "ne": "मानवीय सङ्कटले व्यक्तिको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा कसरी प्रभाव पार्छ?",
+      "bt": "How do humanitarian crises affect an individual's mental health and psychosocial well-being?",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "T005 is used only as the cited unreviewed candidate in this discussion question. Humanitarian crisis uses the listed proposal."
+    },
+    {
+      "id": "FAC-03-0020",
+      "page": "16",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Do most people who experience a humanitarian crisis develop a mental health condition?",
+      "ne": "के मानवीय सङ्कटको अनुभव गर्ने अधिकांश मानिसहरूमा मानसिक स्वास्थ्यसम्बन्धी अवस्था उत्पन्न हुन्छ?",
+      "bt": "Do most people who experience a humanitarian crisis develop a mental health condition?",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T476"
+      ],
+      "flags": [],
+      "note": "The question retains most people and does not imply an answer."
+    },
+    {
+      "id": "FAC-03-0021",
+      "page": "16",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Why or why not?",
+      "ne": "किन हो वा किन होइन?",
+      "bt": "Why or why not?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The existing wording specifies why something happens or does not happen, whereas the source leaves the preceding proposition implicit. The revision removes the added occurrence meaning without supplying a missing antecedent."
+    },
+    {
+      "id": "FAC-03-0022",
+      "page": "16",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0023",
+      "page": "16",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Humanitarian emergencies cause widespread suffering, affecting people’s mental health and psychosocial well-being.",
+      "ne": "मानवीय आपत्कालीन अवस्थाले व्यापक पीडा निम्त्याउँछ र मानिसहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा प्रभाव पार्छ।",
+      "bt": "Humanitarian emergencies cause widespread suffering and affect people's mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Psychosocial well-being retains the cited unreviewed T005 candidate; no new clinical terminology is introduced."
+    },
+    {
+      "id": "FAC-03-0024",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• For children, adverse conditions in emergencies can disrupt cognitive, emotional, social and physical development, with enduring consequences for their future.",
+      "ne": "• बालबालिकाका लागि आपत्कालीन अवस्थामा प्रतिकूल परिस्थितिले संज्ञानात्मक, भावनात्मक, सामाजिक र शारीरिक विकासमा बाधा पुर्‍याउन सक्छन्, जसको उनीहरूको भविष्यमा दीर्घकालीन असर पर्न सक्छ।",
+      "bt": "• For children, adverse circumstances in emergencies can hinder cognitive, emotional, social and physical development, which can have a long-term effect on their future.",
+      "type": "safety",
+      "terms": [
+        "T131"
+      ],
+      "flags": [],
+      "note": "The draft retains possibility, all four developmental domains and lasting consequences for children's futures."
+    },
+    {
+      "id": "FAC-03-0025",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Many people affected by emergencies experience common reactions such as difficulties with sleeping, fatigue, worry, anger and physical aches and pains. These are normal reactions to adverse circumstances.",
+      "ne": "• आपत्कालीन अवस्थाबाट प्रभावित धेरै मानिसहरूले निद्रामा कठिनाइ, थकान, चिन्ता, रिस तथा शारीरिक दुखाइ र पीडाजस्ता सामान्य प्रतिक्रियाहरू अनुभव गर्छन्। यी प्रतिकूल परिस्थितिप्रतिका स्वाभाविक प्रतिक्रियाहरू हुन्।",
+      "bt": "• Many people affected by an emergency experience common reactions such as difficulty sleeping, fatigue, worry, anger, and physical aches and pains. These are natural reactions to adverse circumstances.",
+      "type": "safety",
+      "terms": [
+        "T131"
+      ],
+      "flags": [],
+      "note": "The examples remain illustrative, and the draft preserves the statement that these are normal reactions without adding a diagnosis."
+    },
+    {
+      "id": "FAC-03-0026",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• For most people, these problems are manageable and will improve over time, but for some people, these problems may persist and affect their ability to do their usual daily tasks.",
+      "ne": "• अधिकांश व्यक्तिका लागि यी समस्याहरू सम्हाल्न सकिने हुन्छन् र समयसँगै सुधार हुँदै जानेछन्, तर केही व्यक्तिमा यी समस्याहरू रहिरहन सक्छन् र उनीहरूले दैनिक रूपमा गर्ने सामान्य कामहरू गर्ने क्षमतामा असर पार्न सक्छन्।",
+      "bt": "• For most people, these problems are manageable and will improve over time, but in some people these problems may persist and may affect their ability to do the usual tasks they do daily.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Drafted as ordinary wording about problems, time and daily functioning; no new clinical label is introduced. Preserves the contrast between most people and some people, and between expected improvement and possible persistence."
+    },
+    {
+      "id": "FAC-03-0027",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Globally one in five people (about 22%) living in an area affected by conflict is estimated to have a mental health condition.4 That is three times the global estimate for people not affected by conflict.5",
+      "ne": "• विश्वव्यापी रूपमा द्वन्द्वबाट प्रभावित क्षेत्रमा बस्ने प्रत्येक पाँच जनामध्ये एक जना (करिब 22%) मा मानसिक स्वास्थ्यसम्बन्धी अवस्था हुने अनुमान गरिएको छ।4 यो द्वन्द्वबाट प्रभावित नभएका मानिसहरूका लागि गरिएको विश्वव्यापी अनुमानको तीन गुणा हो।5",
+      "bt": "• Globally, it is estimated that one in every five people (about 22%) living in conflict-affected areas has a mental health condition.4 This is three times the global estimate for people not affected by conflict.5",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T476"
+      ],
+      "flags": [],
+      "note": "The draft retains the estimated prevalence, the conflict-affected population, 22%, the threefold comparison and citation markers 4 and 5."
+    },
+    {
+      "id": "FAC-03-0028",
+      "page": "17",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0029",
+      "page": "17",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "How do you think a humanitarian emergency can impact people who already have a mental health condition?",
+      "ne": "पहिलेदेखि नै मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका मानिसहरूलाई मानवीय आपत्कालीन अवस्थाले कसरी असर पार्न सक्छ भन्ने तपाईंलाई लाग्छ?",
+      "bt": "How do you think humanitarian emergencies can affect people who already have a mental health condition?",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T131",
+        "T157",
+        "T472",
+        "T476"
+      ],
+      "flags": [],
+      "note": "The draft preserves the pre-existing condition, possibility of impact and open discussion question."
+    },
+    {
+      "id": "FAC-03-0030",
+      "page": "17",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0031",
+      "page": "17",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "People with pre-existing mental health conditions are at risk of relapse or deterioration (e.g., disruption of access to psychotropic medication, difficulties coping with additional stressors due to the humanitarian situation) they may be left behind (e.g., if people are fleeing an area) and they need continued access to care and protection.",
+      "ne": "पहिलेदेखि मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका मानिसहरू अवस्था पुनः बल्झिने वा बिग्रिने जोखिममा रहेका हुन्छन् (जस्तै, मनोप्रभावी औषधिसम्मको पहुँचमा अवरोध हुनु, मानवीय परिस्थितिका कारण थपिएका तनावका कारकहरूको सामना गर्न कठिनाइ हुनु)। उनीहरू पछाडि छोडिन सक्छन् (जस्तै, मानिसहरू कुनै क्षेत्रबाट भागिरहेका भएमा), र उनीहरूलाई हेरचाह र संरक्षणमा निरन्तर पहुँच आवश्यक हुन्छ।",
+      "bt": "People with pre-existing mental health conditions are at risk of the condition recurring or worsening (for example, disruption of access to psychotropic medicines, difficulty coping with additional stress factors caused by humanitarian circumstances). They may be left behind (for example, if people are fleeing an area), and they need continued access to care and protection.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T029",
+        "T157",
+        "T195",
+        "T476",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The draft retains relapse or deterioration, both contributing examples, the possibility of being left behind and continued access to both care and protection."
+    },
+    {
+      "id": "FAC-03-0032",
+      "page": "17",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "People in mental hospitals and other institutions are especially at risk (e.g., staff fleeing and being displaced, no access to basic needs such as food and water, disruption in medication supply and psychological support)",
+      "ne": "मानसिक अस्पतालहरू र अन्य संस्थाहरूमा रहेका मानिसहरू विशेष गरी जोखिममा रहेका हुन्छन् (जस्तै, कर्मचारीहरू भाग्नु र विस्थापित हुनु, खाना र पानीजस्ता आधारभूत आवश्यकताहरूमा पहुँच नहुनु, औषधिको आपूर्ति र मनोवैज्ञानिक सहयोगमा अवरोध हुनु)।",
+      "bt": "People in mental hospitals and other institutions are particularly at risk (for example, staff fleeing and being displaced, lack of access to basic necessities such as food and water, disruption of medicine supplies and psychological support).",
+      "type": "safety",
+      "terms": [
+        "T195"
+      ],
+      "flags": [],
+      "note": "The draft retains other institutions, heightened risk and every example, including disruption of medication supply and psychological support."
+    },
+    {
+      "id": "FAC-03-0033",
+      "page": "17",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Impact of humanitarian crises",
+      "ne": "मानवीय सङ्कटको प्रभाव",
+      "bt": "Impact of a humanitarian crisis",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0034",
+      "page": "17",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Prepare",
+      "ne": "तयारी गर्नुहोस्",
+      "bt": "Prepare",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0035",
+      "page": "17",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "25 min",
+      "ne": "25 मिनेट",
+      "bt": "25 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0036",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Flip chart paper and pens.",
+      "ne": "• फ्लिप चार्टका कागज र कलमहरू।",
+      "bt": "• Flip chart paper and pens.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0037",
+      "page": "17",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Divide",
+      "ne": "बाँड्नुहोस्",
+      "bt": "Share.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The heading adds 'into groups'; the source heading says only 'Divide'. The following row already specifies small groups. The back-translation says 'Share' rather than 'Divide', changing the instructed action."
+    },
+    {
+      "id": "FAC-03-0038",
+      "page": "17",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "participants into small groups and give them flip chart paper and a pen.",
+      "ne": "सहभागीहरूलाई साना समूहमा बाँड्नुहोस् र उनीहरूलाई फ्लिप चार्टका कागज र एउटा कलम दिनुहोस्।",
+      "bt": "Divide participants into small groups and give them flip chart paper and one pen.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": "The action introduced by the preceding heading is expressed here to make the Nepali instruction grammatical."
+    },
+    {
+      "id": "FAC-03-0039",
+      "page": "17",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Review",
+      "ne": "समीक्षा गर्नुहोस्",
+      "bt": "Review",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0040",
+      "page": "17",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "the instructions for participants:",
+      "ne": "सहभागीहरूका लागि निर्देशनहरू:",
+      "bt": "Instructions for participants:",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0041",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• In your group, discuss and answer the following question. Make a brief presentation on your flip chart and select someone to present it.",
+      "ne": "• आफ्नो समूहमा निम्न प्रश्नबारे छलफल गर्नुहोस् र उत्तर दिनुहोस्। आफ्नो फ्लिप चार्टमा संक्षिप्त प्रस्तुति तयार गर्नुहोस् र प्रस्तुत गर्न एक जना छान्नुहोस्।",
+      "bt": "• Discuss and answer the following question in your group. Prepare a brief presentation on your flip chart and choose one person to present.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0042",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• “What can people, organizations, and governments in different areas (health, education, social welfare, etc.) do at each layer of this model to help people with their mental health and psychosocial wellbeing?” Encourage them to include examples from their context if possible. Give the groups 10 minutes to prepare. You will have 3 minutes to present.",
+      "ne": "• “विभिन्न क्षेत्रमा (स्वास्थ्य, शिक्षा, समाज कल्याण आदि) कार्यरत व्यक्ति, संस्था र सरकारहरूले मानिसहरूको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सहयोग गर्न यस मोडेलको प्रत्येक तहमा के गर्न सक्छन्?” सम्भव भएमा उनीहरूलाई आफ्नै सन्दर्भका उदाहरण समावेश गर्न प्रोत्साहित गर्नुहोस्। समूहहरूलाई तयारीका लागि 10 मिनेट दिनुहोस्। प्रस्तुति दिन तपाईंहरूले 3 मिनेट पाउनुहुनेछ।",
+      "bt": "• “What can individuals, organizations and governments working in different sectors (health, education, social welfare, etc.) do at each level of this model to support people's mental health and psychosocial well-being?” If possible, encourage them to include examples from their own context. Give the groups 10 minutes to prepare. You will have 3 minutes to give the presentation.",
+      "type": "check",
+      "terms": [
+        "T027",
+        "T028",
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T005 is reused from the supplied cited unreviewed candidate. The source shifts from facilitator instructions to directly addressing participants in the final sentence; that shift is retained."
+    },
+    {
+      "id": "FAC-03-0043",
+      "page": "17",
+      "loc": "footnote",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "4 Charlson F. et al. (2019). New WHO prevalence estimates of mental disorders in conflict settings: a systematic review and meta-analysis. The Lancet 394, pp.240-248. 5 Vos, T., e al. (2017). Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016. The Lancet, 390(10100), 1211-1259.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Keep both bibliographic citations exactly as supplied in English, including reference numbers, names, dates, journal details and page ranges."
+    },
+    {
+      "id": "FAC-03-0044",
+      "page": "18",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Discuss",
+      "ne": "छलफल गर्नुहोस्",
+      "bt": "Discuss",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0045",
+      "page": "18",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "the exercise in plenary and emphasize that different people and organizations from different areas of work have a role to play in promoting mental health and psychosocial wellbeing so it is important that we work together.",
+      "ne": "पूर्ण सत्रमा अभ्यासबारे छलफल गर्नुहोस् र विभिन्न कार्यक्षेत्रका विभिन्न व्यक्ति र संस्थाहरूले मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन गर्न भूमिका खेल्ने भएकाले हामीले मिलेर काम गर्नु महत्त्वपूर्ण छ भन्ने कुरामा जोड दिनुहोस्।",
+      "bt": "Discuss the exercise in the plenary session and emphasize that it is important for us to work together because different individuals and organizations from different fields of work play a role in promoting mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T407",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T005 is reused from the supplied cited unreviewed candidate. The action introduced by the preceding heading is expressed here for grammatical completeness."
+    },
+    {
+      "id": "FAC-03-0046",
+      "page": "18",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "This will be explored in more detail further ahead.",
+      "ne": "यस विषयलाई अगाडि थप विस्तृत रूपमा समेटिनेछ।",
+      "bt": "This topic will be covered in more detail later.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0047",
+      "page": "18",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "What it MHPSS?",
+      "ne": "MHPSS के हो?",
+      "bt": "What is MHPSS?",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "unclear-english",
+        "source-ambiguous"
+      ],
+      "note": "The source heading reads 'What it MHPSS?'; the draft provisionally interprets this malformed wording as 'What is MHPSS?', pending source clarification."
+    },
+    {
+      "id": "FAC-03-0048",
+      "page": "18",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Remind",
+      "ne": "सम्झना गराउनुहोस्",
+      "bt": "Remind.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The back-translation reads 'Explain', whereas the source instructs the facilitator to remind participants of something already introduced."
+    },
+    {
+      "id": "FAC-03-0049",
+      "page": "18",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "15 min",
+      "ne": "15 मिनेट",
+      "bt": "15 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0050",
+      "page": "18",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "participants about the composite term.",
+      "ne": "सहभागीहरूलाई उक्त संयुक्त पदबारे।",
+      "bt": "To participants about the aforementioned combined term.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": "This fragment completes the preceding reminder heading; it does not introduce or expand a clinical term."
+    },
+    {
+      "id": "FAC-03-0051",
+      "page": "18",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Add that:",
+      "ne": "साथै निम्न कुरा बताउनुहोस्:",
+      "bt": "Also state the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0052",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Emergencies affect wellbeing in many areas of life",
+      "ne": "• आपत्कालीन अवस्थाले जीवनका धेरै क्षेत्रमा कल्याणलाई असर गर्छ।",
+      "bt": "• An emergency affects well-being in many areas of life.",
+      "type": "general",
+      "terms": [
+        "T131"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0053",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Many different services and organizations, from different areas of work, formal and informal, have a role to play",
+      "ne": "• विभिन्न कार्यक्षेत्रका धेरै किसिमका औपचारिक तथा अनौपचारिक सेवा र संस्थाहरूको भूमिका छ।",
+      "bt": "• Many kinds of formal and informal services and institutions from various fields of work have a role.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The Nepali and back-translation impose an obligation to play a role ('must'); the source states that these services and organizations have a role to play."
+    },
+    {
+      "id": "FAC-03-0054",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• It’s critical that they work well together and are connected and well coordinated",
+      "ne": "• तिनले एकआपसमा राम्रोसँग काम गर्नु, परस्पर जोडिनु र तिनबीच राम्रो समन्वय हुनु अत्यावश्यक छ।",
+      "bt": "• It is essential that they work well with one another, be interconnected and have good coordination among them.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0055",
+      "page": "18",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्",
+      "bt": "Explain",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0056",
+      "page": "18",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "In emergencies, people are affected in different ways and require different kinds of services and supports.",
+      "ne": "आपत्कालीन अवस्था हुँदा मानिसहरू विभिन्न तरिकाले प्रभावित हुन्छन् र उनीहरूलाई विभिन्न किसिमका सेवा र सहयोग आवश्यक पर्छन्।",
+      "bt": "When an emergency occurs, people are affected in different ways and need different kinds of services and support.",
+      "type": "general",
+      "terms": [
+        "T131"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0057",
+      "page": "18",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "The intervention pyramid is used to illustrate the range of complementary supports that are required to protect and promote the mental health and psychosocial wellbeing of individuals.",
+      "ne": "व्यक्तिहरूको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणको संरक्षण तथा प्रवर्द्धन गर्न आवश्यक पर्ने एकअर्काका पूरक विभिन्न किसिमका सहयोग देखाउन हस्तक्षेप पिरामिड प्रयोग गरिन्छ।",
+      "bt": "The intervention pyramid is used to show the different kinds of mutually complementary support needed to protect and promote individuals' mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T153",
+        "T410",
+        "T412"
+      ],
+      "flags": [],
+      "note": "T005 is reused from the supplied cited unreviewed candidate."
+    },
+    {
+      "id": "FAC-03-0058",
+      "page": "18",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "If participants are not familiar with the intervention pyramid, explain the following points:",
+      "ne": "सहभागीहरू हस्तक्षेप पिरामिडसँग परिचित छैनन् भने निम्न बुँदाहरू व्याख्या गर्नुहोस्:",
+      "bt": "If participants are not familiar with the intervention pyramid, explain the following points:",
+      "type": "check",
+      "terms": [
+        "T153",
+        "T406",
+        "T412"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0059",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• The intervention pyramid communicates a common set of underlying principles:",
+      "ne": "• हस्तक्षेप पिरामिडले साझा आधारभूत सिद्धान्तहरूको समूह प्रस्तुत गर्छ:",
+      "bt": "• The intervention pyramid presents a set of shared basic principles:",
+      "type": "check",
+      "terms": [
+        "T153",
+        "T412"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0060",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Protecting and promoting mental health and psychosocial wellbeing requires a layered system of complementary activities that address different needs",
+      "ne": "• मानसिक स्वास्थ्य र मनोसामाजिक कल्याणको संरक्षण तथा प्रवर्द्धन गर्न विभिन्न आवश्यकतालाई सम्बोधन गर्ने, एकअर्काका पूरक गतिविधिहरूको तहगत प्रणाली आवश्यक पर्छ।",
+      "bt": "• To protect and promote mental health and psychosocial well-being, a layered system of mutually complementary activities that address different needs is required.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T005 is reused from the supplied cited unreviewed candidate."
+    },
+    {
+      "id": "FAC-03-0061",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• All layers of the pyramid are important and should be made available concurrently.",
+      "ne": "• पिरामिडका सबै तह महत्त्वपूर्ण छन् र तिनलाई एकै समयमा उपलब्ध गराउनु उचित हुन्छ।",
+      "bt": "• All levels of the pyramid are important, and it is appropriate to make them available at the same time.",
+      "type": "general",
+      "terms": [
+        "T412"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation strengthens 'should be made available' to 'must be made available'. The revision expresses a recommendation while retaining all layers and concurrent availability. The back-translation describes concurrent availability as appropriate rather than explicitly stating that all layers should be made available concurrently, weakening the recommendation."
+    },
+    {
+      "id": "FAC-03-0062",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "» Fewer people require services at the higher layers of the pyramid, and a greater number of people require services at the lower layers.",
+      "ne": "» पिरामिडका माथिल्ला तहका सेवा कम मानिसलाई आवश्यक पर्छन् भने तल्ला तहका सेवा बढी मानिसलाई आवश्यक पर्छन्।",
+      "bt": "» Fewer people need services at the upper levels of the pyramid, while more people need services at the lower levels.",
+      "type": "general",
+      "terms": [
+        "T412"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0063",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "» Most people can cope well once their basic needs are met – with basic services and security delivered in ways that protect their dignity",
+      "ne": "» अधिकांश मानिसका आधारभूत आवश्यकता उनीहरूको मर्यादा जोगिने गरी आधारभूत सेवा र सुरक्षा उपलब्ध गराएर पूरा गरिएपछि उनीहरूले परिस्थितिको राम्रोसँग सामना गर्न सक्छन्।",
+      "bt": "» Once most people's basic needs have been met by providing basic services and security in a way that preserves their dignity, they can cope well with the situation.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0064",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "» Many people will benefit from activities that strengthen community and family support",
+      "ne": "» समुदाय र परिवारको सहयोग सुदृढ गर्ने गतिविधिबाट धेरै मानिस लाभान्वित हुनेछन्।",
+      "bt": "» Many people will benefit from activities that strengthen community and family support.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0065",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "» A smaller number of people will need focused one-to-one care such as MHPSS through individual case management",
+      "ne": "» अझ कम सङ्ख्याका व्यक्तिहरूलाई एक जनाले एक जनालाई प्रदान गर्ने केन्द्रित हेरचाह आवश्यक हुनेछ, जस्तै व्यक्तिगत केस व्यवस्थापनमार्फत MHPSS।",
+      "bt": "» An even smaller number of people will need focused care provided by one person to one person, such as MHPSS through individual case management.",
+      "type": "general",
+      "terms": [
+        "T118"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "One-to-one care is rendered descriptively as ordinary service-delivery wording, not as a newly coined clinical intervention name. The comparative 'smaller number' became 'a small number.' 'One person at a time' describes sequencing rather than explicitly preserving the one-to-one care relationship. 'An even smaller number' adds comparative emphasis beyond the source's 'a smaller number.'"
+    },
+    {
+      "id": "FAC-03-0066",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• And an even smaller number need specialized care from psychologists and psychiatrists.",
+      "ne": "• अनि अझ थोरै सङ्ख्याका मानिसहरूलाई मनोवैज्ञानिकहरू र मनोचिकित्सकहरूबाट विशेषीकृत हेरचाह आवश्यक हुन्छ।",
+      "bt": "• And an even smaller number of people need specialized care from psychologists and psychiatrists.",
+      "type": "safety",
+      "terms": [
+        "T491",
+        "T497"
+      ],
+      "flags": [],
+      "note": "The draft preserves the smaller comparative group, the need for specialized care and both professional groups."
+    },
+    {
+      "id": "FAC-03-0067",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Individuals that need specialized services, e.g., from a psychiatrist, are also likely to benefit from activities at the lower layers (e.g. support groups, basic services delivered in ways that promote dignity).",
+      "ne": "• विशेषीकृत सेवाहरू आवश्यक पर्ने व्यक्तिहरूलाई, उदाहरणका लागि मनोचिकित्सकबाट सेवा आवश्यक पर्ने व्यक्तिहरूलाई, तल्ला तहका क्रियाकलापहरूबाट पनि लाभ पुग्ने सम्भावना हुन्छ (जस्तै, सहयोग समूहहरू र मर्यादा प्रवर्द्धन गर्ने तरिकाले प्रदान गरिने आधारभूत सेवाहरू)।",
+      "bt": "• Individuals who need specialized services, for example individuals who need services from a psychiatrist, are also likely to benefit from lower-level activities (for example, support groups and basic services provided in ways that promote dignity).",
+      "type": "safety",
+      "terms": [
+        "T178",
+        "T311"
+      ],
+      "flags": [],
+      "note": "The draft retains the psychiatrist as an example, the likelihood rather than certainty of benefit, and both examples of lower-layer activities."
+    },
+    {
+      "id": "FAC-03-0068",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Typically, delivering activities at higher layers of the pyramid requires more formal or specialized qualifications. This often corresponds to more training, supervision and mentoring being required for the staff involved.",
+      "ne": "• सामान्यतया, पिरामिडका माथिल्ला तहमा गतिविधिहरू सञ्चालन गर्न बढी औपचारिक वा विशेषीकृत योग्यता आवश्यक पर्छ। यसअनुसार संलग्न कर्मचारीलाई प्रायः थप तालिम, सुपरिवेक्षण र मार्गदर्शन आवश्यक पर्छ।",
+      "bt": "• Generally, more formal or specialized qualifications are required to carry out activities at the higher levels of the pyramid. Accordingly, the staff involved often need additional training, supervision and guidance.",
+      "type": "general",
+      "terms": [
+        "T309",
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring standalone term 'pyramid' is absent from the frozen glossary; proposed form: [Nepali wording recorded in terminology evidence]. Qualifications, training and mentoring are ordinary workforce wording here."
+    },
+    {
+      "id": "FAC-03-0069",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• The provision of MHPSS services and activities involves different actors; no single actor/organization can provide all of these activities.",
+      "ne": "• MHPSS सेवा तथा गतिविधिहरू प्रदान गर्न विभिन्न सम्बद्ध पक्षहरू संलग्न हुन्छन्; कुनै एक पक्ष वा संस्थाले मात्र यी सबै गतिविधि प्रदान गर्न सक्दैन।",
+      "bt": "• Various relevant parties are involved in providing MHPSS services and activities; no single party or organization alone can provide all these activities.",
+      "type": "general",
+      "terms": [
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0070",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• The MHPSS response does not involve only MHPSS providers; rather, a wide range of humanitarian actors across different areas of work play an important part (e.g. by ensuring that humanitarian aid is provided in a way that minimized psychological distress and promotes well-being, dignity and agency).",
+      "ne": "• MHPSS प्रतिकार्यमा MHPSS सेवा प्रदायकहरू मात्र संलग्न हुँदैनन्; बरु, विभिन्न कार्यक्षेत्रमा रहेका मानवीय कार्यमा संलग्न पक्षहरूले महत्त्वपूर्ण भूमिका खेल्छन् (जस्तै, मानवीय सहायता प्रदान गर्दा मानसिक व्यथा न्यून हुने र कल्याण, मर्यादा तथा आफ्ना निर्णय गर्न र तिनअनुसार कार्य गर्न सक्ने क्षमता प्रवर्द्धन हुने कुरा सुनिश्चित गरेर)।",
+      "bt": "• MHPSS responses do not involve only MHPSS service providers; rather, actors involved in humanitarian work across different sectors play an important role (for example, by ensuring that, when providing humanitarian assistance, mental distress is minimized and well-being, dignity and the ability to make one's own decisions and act on them are promoted).",
+      "type": "safety",
+      "terms": [
+        "T147",
+        "T161",
+        "T174",
+        "T328",
+        "T376",
+        "T461",
+        "T492"
+      ],
+      "flags": [
+        "unclear-english"
+      ],
+      "note": "The source's tense mismatch in 'is provided ... minimized' is interpreted as the intended effect of aid delivery; the draft retains the broader range of actors and all four intended outcomes."
+    },
+    {
+      "id": "FAC-03-0071",
+      "page": "19",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Emphasize",
+      "ne": "जोड दिनुहोस्।",
+      "bt": "Emphasize.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0072",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "that effective MHPSS programming provides critical services and supports across the life course, taking into account individuals’ needs, vulnerabilities and strengths at different stages of life, particularly at sensitive developmental stages and during more vulnerable periods of life, such as infants, young children, adolescents and older adults.",
+      "ne": "प्रभावकारी MHPSS कार्यक्रम तर्जुमा तथा कार्यान्वयनले जीवनका विभिन्न चरणमा व्यक्तिका आवश्यकता, जोखिममा पर्न सक्ने अवस्था र सबल पक्षलाई ध्यानमा राख्दै जीवनभर अत्यावश्यक सेवा र सहयोग प्रदान गर्छ। यसमा विशेष गरी विकासका संवेदनशील चरण र जीवनका बढी जोखिमयुक्त अवधि, जस्तै शिशु अवस्था, साना बालबालिकाको अवस्था, किशोरावस्था र ज्येष्ठ वयस्क अवस्थालाई ध्यानमा राखिन्छ।",
+      "bt": "Effective MHPSS programme planning and implementation provides essential services and support throughout life, taking into account individuals' needs, situations in which they may be at risk, and strengths at different stages of life. Particular attention is given to sensitive stages of development and higher-risk periods of life, such as infancy, the stage of young children, adolescence and older adulthood.",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T074"
+      ],
+      "flags": [],
+      "note": "Developmental stages and vulnerability are rendered as ordinary life-course wording, not as clinical classifications."
+    },
+    {
+      "id": "FAC-03-0073",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "The aim overall is building individuals resilience and promoting mental health and psychosocial well-being.",
+      "ne": "समग्र उद्देश्य व्यक्तिहरूमा प्रतिकूल अवस्थाको सामना गरी पुनः अघि बढ्ने क्षमता विकास गर्नु र मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्नु हो।",
+      "bt": "The overall objective is to develop individuals' capacity to face adverse circumstances and move forward again, and to promote mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "This is an explanatory aim, not a validated instrument item. Resilience is expressed descriptively rather than coined as a clinical term. [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] reuses the cited unreviewed T005 candidate."
+    },
+    {
+      "id": "FAC-03-0074",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "This can lead to improvements in people’s abilities to meet their basic needs to survive, recover and rebuild their lives after difficult experiences.",
+      "ne": "यसबाट कठिन अनुभवपछि बाँच्न, पुनः सम्हालिन र आफ्नो जीवन पुनर्निर्माण गर्न आवश्यक आधारभूत आवश्यकता पूरा गर्ने मानिसहरूको क्षमतामा सुधार आउन सक्छ।",
+      "bt": "This can improve people's ability to meet the basic needs necessary to survive, recover and rebuild their lives after difficult experiences.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0075",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Remind participants that the social ecological model showed that our mental health and psychosocial wellbeing are impacted by many factors from different layers and areas of our lives, including our health, our physical safety, our access to education, livelihoods, our ability to exercise our legal rights, where we live, community cohesion etc. These are all things that can be severely disrupted by emergencies.",
+      "ne": "सामाजिक–पारिस्थितिक नमुनाले हाम्रो मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा हाम्रो जीवनका विभिन्न तह र क्षेत्रका धेरै तत्त्वले प्रभाव पार्छन् भन्ने देखाएको थियो भनेर सहभागीहरूलाई सम्झाउनुहोस्। यी तत्त्वमा हाम्रो स्वास्थ्य, शारीरिक सुरक्षा, शिक्षामा पहुँच, जीविकोपार्जन, कानुनी अधिकार प्रयोग गर्ने क्षमता, हामी बस्ने ठाउँ, समुदायको एकता आदि पर्छन्। आपत्कालीन अवस्थाले यी सबैमा गम्भीर अवरोध पुर्‍याउन सक्छ।",
+      "bt": "Remind participants that the social–ecological model showed that many factors at different levels and in different areas of our lives influence our mental health and psychosocial well-being. These factors include our health, physical safety, access to education, livelihoods, ability to exercise legal rights, the place where we live, community unity, and so on. An emergency can seriously disrupt all of these.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T027",
+        "T028",
+        "T155",
+        "T131",
+        "T344",
+        "T406",
+        "T410"
+      ],
+      "flags": [],
+      "note": "This is a facilitator reminder, not an instrument item. [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] reuses the cited unreviewed T005 candidate; the social ecological model is described as a general explanatory model."
+    },
+    {
+      "id": "FAC-03-0076",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "For this reason, to be most effective, MHPSS activities need to focus on many areas of life and must be integrated into different services and areas of work, like health, education, and protection/social services.",
+      "ne": "यस कारणले, सबैभन्दा प्रभावकारी हुनका लागि MHPSS गतिविधिहरूले जीवनका धेरै क्षेत्रमा ध्यान केन्द्रित गर्नुपर्छ र तिनलाई स्वास्थ्य, शिक्षा तथा संरक्षण/सामाजिक सेवाजस्ता विभिन्न सेवा र कार्यक्षेत्रमा एकीकृत गर्नुपर्छ।",
+      "bt": "For this reason, to be most effective, MHPSS activities must focus on many areas of life and must be integrated into different services and fields of work, such as health, education and protection/social services.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T027",
+        "T028",
+        "T029",
+        "T193"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0077",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "This is why MHPSS is a cross-cutting area of work.",
+      "ne": "यसैले MHPSS विभिन्न क्षेत्रभरि फैलिएको कार्यक्षेत्र हो।",
+      "bt": "Therefore, MHPSS is a field of work that extends across various sectors.",
+      "type": "general",
+      "terms": [
+        "T193"
+      ],
+      "flags": [],
+      "note": "'Connected with various sectors' weakens 'cross-cutting' to an association; the source describes a field spanning sectors."
+    },
+    {
+      "id": "FAC-03-0078",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "It cuts across several areas of work, such as health, protection (including child protection, gender-based violence, mine action), nutrition, food security and livelihoods, etc.",
+      "ne": "यो स्वास्थ्य, संरक्षण (बाल संरक्षण, लैङ्गिक हिंसा र बारुदी सुरुङ सम्बन्धी कार्यसहित), पोषण, खाद्य सुरक्षा तथा जीविकोपार्जन आदिजस्ता विभिन्न कार्यक्षेत्रमा फैलिएको छ।",
+      "bt": "It extends across various fields of work such as health, protection (including child protection, gender-based violence and landmine-related work), nutrition, food security and livelihoods, and so on.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T029",
+        "T036",
+        "T010",
+        "T011",
+        "T030",
+        "T034",
+        "T193"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Reclassified as an ordinary description of sectors, not a safeguarding declaration or safety procedure. Supplied sector labels are retained as unreviewed candidates. 'Is connected with' replaces the source's assertion that MHPSS cuts across the listed areas of work. 'Mine action' is narrowed to 'landmine-related work.'"
+    },
+    {
+      "id": "FAC-03-0079",
+      "page": "19",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Note for facilitators",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी",
+      "bt": "Note for the facilitator",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0080",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "It is important to note that whatever version of the pyramid is shown, it is an illustrative example.",
+      "ne": "पिरामिडको जुनसुकै संस्करण देखाइए पनि त्यो बुझाउनका लागि दिइएको उदाहरण हो भन्ने कुरा ध्यानमा राख्नु महत्त्वपूर्ण छ।",
+      "bt": "Whichever version of the pyramid is shown, it is important to keep in mind that it is an example given for explanation.",
+      "type": "general",
+      "terms": [
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring standalone term 'pyramid' is absent from the frozen glossary; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-03-0081",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "There have been different versions of the IASC and other pyramids over the years.",
+      "ne": "विगतका वर्षहरूमा IASC का पिरामिड र अन्य पिरामिडका विभिन्न संस्करण प्रचलनमा आएका छन्।",
+      "bt": "Over the past years, various versions of the IASC pyramid and other pyramids have come into use.",
+      "type": "general",
+      "terms": [
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "IASC is retained exactly. The recurring standalone term 'pyramid' is absent from the frozen glossary; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-03-0082",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "No matter the specific pyramid, they illustrate the same common principle - that there is a need for multi-layered complimentary services - although where specific activities should be placed often varies (also see MSP IASC pyramid handout).",
+      "ne": "जुनसुकै विशिष्ट पिरामिड भए पनि तिनले एउटै साझा सिद्धान्त देखाउँछन्—बहु-तहका पूरक सेवाहरू आवश्यक हुन्छन्—यद्यपि निश्चित क्रियाकलापहरू कुन तहमा राख्नुपर्छ भन्ने कुरा प्रायः फरक हुन्छ (MSP IASC पिरामिडसम्बन्धी वितरण सामग्री पनि हेर्नुहोस्)।",
+      "bt": "Whatever the specific pyramid, they show the same shared principle—multiple levels of complementary services are needed—although which level particular activities should be placed at often differs (also see the handout on the MSP IASC pyramid).",
+      "type": "safety",
+      "terms": [
+        "T163",
+        "T373",
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing",
+        "unclear-english",
+        "source-ambiguous",
+        "bt-divergence"
+      ],
+      "note": "The source says 'complimentary services', which can mean free services; the draft provisionally follows the contextual reading of mutually complementary services, for which no frozen candidate is supplied, pending source clarification. Source ambiguity: 'complimentary services' can mean services provided free of charge, whereas Nepali and BT mean complementary services. The contextual reading is plausible, but exact alignment cannot be confirmed without source clarification; no speculative repair made."
+    },
+    {
+      "id": "FAC-03-0083",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Participants may be curious about how different MHPSS activities fit within the MHPSS Intervention Pyramid.",
+      "ne": "विभिन्न MHPSS गतिविधिहरू MHPSS हस्तक्षेप पिरामिडमा कसरी समावेश हुन्छन् भन्नेबारे सहभागीहरू जिज्ञासु हुन सक्छन्।",
+      "bt": "Participants may be curious about how various MHPSS activities fit into the MHPSS intervention pyramid.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T153",
+        "T406",
+        "T412"
+      ],
+      "flags": [],
+      "note": "This is an observation about participant questions, not a validated check or instrument item."
+    },
+    {
+      "id": "FAC-03-0084",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "If this point is raised, you can explain that the pyramid was developed to convey a common set of underlying principles (as described above), it was not intended as a model for organizing MHPSS activities under the different layers.",
+      "ne": "यदि यो विषय उठ्यो भने, पिरामिड साझा आधारभूत सिद्धान्तहरू (माथि वर्णन गरिएअनुसार) बुझाउनका लागि विकास गरिएको हो र विभिन्न तहअन्तर्गत MHPSS गतिविधिहरू व्यवस्थित गर्ने नमुनाका रूपमा बनाइएको होइन भनेर तपाईंले स्पष्ट पार्न सक्नुहुन्छ।",
+      "bt": "If this topic comes up, you can clarify that the pyramid was developed to explain shared basic principles (as described above) and was not created as a model for organizing MHPSS activities under different levels.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T412"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring standalone term 'pyramid' is absent from the frozen glossary; proposed form: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-03-0085",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "It is best to limit this conversation to avoid getting drawn into a debate about where a specific MHPSS activity falls.",
+      "ne": "कुनै खास MHPSS गतिविधि कुन तहमा पर्छ भन्ने बहसमा तानिनबाट जोगिन यो छलफल सीमित राख्नु उचित हुन्छ।",
+      "bt": "It is advisable to keep this discussion limited to avoid being drawn into a debate about which level a particular MHPSS activity falls under.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0086",
+      "page": "19",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "The humanitarian cluster system",
+      "ne": "मानवीय क्लस्टर प्रणाली",
+      "bt": "Humanitarian cluster system",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T377"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring system name 'humanitarian cluster system' is absent from the frozen glossary; proposed form: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The existing cluster candidate is retained."
+    },
+    {
+      "id": "FAC-03-0087",
+      "page": "19",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0088",
+      "page": "19",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "This is a duration label, not a check or instrument item. Latin digits are retained."
+    },
+    {
+      "id": "FAC-03-0089",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "participants how many are familiar with the humanitarian cluster system.",
+      "ne": "मानवीय क्लस्टर प्रणालीबारे कति जना परिचित हुनुहुन्छ भनेर सहभागीहरूलाई सोध्नुहोस्।",
+      "bt": "Ask participants how many are familiar with the humanitarian cluster system.",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T377",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The instruction continues the preceding 'Ask' heading. The recurring system name is absent from the frozen glossary; proposed form: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-03-0090",
+      "page": "19",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "If any participants are, ask one of them to explain it for those who aren’t.",
+      "ne": "यदि कुनै सहभागी यसबारे परिचित हुनुहुन्छ भने, उहाँहरूमध्ये एक जनालाई परिचित नभएका सहभागीहरूका लागि यसबारे व्याख्या गर्न भन्नुहोस्।",
+      "bt": "If any participants are familiar with it, ask one of them to explain it to the participants who are not familiar with it.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0091",
+      "page": "19",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0092",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• In the past, when an emergency happened that was too big for the government to cope with alone, what often happened is that many international actors would rush in to help, without necessarily talking to each other or coordinating their activities well.",
+      "ne": "• विगतमा, सरकारले एक्लै सामना गर्न नसक्ने गरी ठूलो आपत्कालीन अवस्था आइपर्दा, प्रायः धेरै अन्तर्राष्ट्रिय सम्बद्ध पक्षहरू मद्दत गर्न हतारिँदै आइपुग्थे, तर उनीहरूले एकअर्कासँग कुराकानी गरेका वा आफ्ना गतिविधिहरूको राम्रो समन्वय गरेका हुन्थे नै भन्ने हुँदैनथ्यो।",
+      "bt": "• In the past, when an emergency so large that the government could not cope alone occurred, many international parties involved would often rush in to help, but they would not necessarily have talked to one another or coordinated their activities well.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T114"
+      ],
+      "flags": [],
+      "note": "The source says the influx often occurred without communication or good coordination necessarily taking place. Nepali makes absence of communication or coordination categorical within those occurrences; the revision restores 'not necessarily'."
+    },
+    {
+      "id": "FAC-03-0093",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• This could sometimes make things worse rather than better – with lots of people using up resources, and not necessarily working together in an effective way (duplication, gaps, using up resources, unpredictable responses, exploitation).",
+      "ne": "• यसले कहिलेकाहीँ अवस्था सुधार्नुको सट्टा झन् बिगार्न सक्थ्यो—धेरै मानिसले स्रोतहरू प्रयोग गरेर सकाउँथे र उनीहरूले प्रभावकारी रूपमा मिलेर काम गर्छन् भन्ने सुनिश्चित हुँदैनथ्यो (कामको दोहोरोपन, कमीहरू, स्रोतहरू प्रयोग गरेर सकाउनु, पूर्वानुमान गर्न नसकिने प्रतिकार्य, शोषण)।",
+      "bt": "• This could sometimes make the situation worse instead of improving it—many people would use up resources, and it was not assured that they would work together effectively (duplication of work, gaps, using up resources, unpredictable response, exploitation).",
+      "type": "general",
+      "terms": [
+        "T232",
+        "T174",
+        "T360"
+      ],
+      "flags": [],
+      "note": "Exploitation is retained as a listed consequence, not expanded into a safeguarding declaration. Both occurrences of 'using up resources' became ordinary resource consumption, weakening the source's depletion meaning."
+    },
+    {
+      "id": "FAC-03-0094",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Thankfully, over the years, having learned many lessons along the way, the humanitarian system has evolved and introduced formal systems to improve the effectiveness of emergency responses.",
+      "ne": "• सौभाग्यवश, वर्षौँको अवधिमा धेरै पाठ सिक्दै मानवीय प्रणाली विकसित भएको छ र आपत्कालीन प्रतिकार्यको प्रभावकारिता सुधार्न औपचारिक प्रणालीहरू लागू गरेको छ।",
+      "bt": "• Fortunately, over the years, the humanitarian system has evolved while learning many lessons and has implemented formal systems to improve the effectiveness of emergency response.",
+      "type": "general",
+      "terms": [
+        "T132"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0095",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• One of the main improvements was the introduction of the Humanitarian Cluster System in 2005.",
+      "ne": "• प्रमुख सुधारमध्ये एउटा 2005 मा मानवीय क्लस्टर प्रणाली लागू गरिनु थियो।",
+      "bt": "• One of the major improvements was the introduction of the humanitarian cluster system in 2005.",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T377"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "This is a historical explanatory statement, not an instrument item. The source year is retained exactly. The recurring system name is absent from the frozen glossary; proposed form: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-03-0096",
+      "page": "20",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0097",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Clusters are groups of organizations that represent the main sectors of humanitarian action. (Review the clusters on the slide).",
+      "ne": "• क्लस्टर भनेका मानवीय कार्यका मुख्य क्षेत्रको प्रतिनिधित्व गर्ने संस्थाका समूह हुन्। (स्लाइडमा देखाइएका क्लस्टरको समीक्षा गर्नुहोस्।)",
+      "bt": "• Clusters are groups of organizations representing the main areas of humanitarian work. (Review the clusters shown on the slide.)",
+      "type": "general",
+      "terms": [
+        "T124",
+        "T296",
+        "T427"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0098",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• They are designated by the Inter Agency Standing Committee (IASC), with responsibility for coordination across organizations and with other clusters.",
+      "ne": "• संस्थाहरूबीच र अन्य क्लस्टरसँग समन्वय गर्ने जिम्मेवारीसहित संस्थाहरूबीचको स्थायी समिति (Inter Agency Standing Committee, IASC) ले यी क्लस्टर तोक्छ।",
+      "bt": "• The Inter Agency Standing Committee (IASC) designates these clusters with responsibility for coordinating among organizations and with other clusters.",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T124",
+        "T247",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: coordination = [Nepali wording recorded in terminology evidence]. The committee's English name and acronym are retained for identification."
+    },
+    {
+      "id": "FAC-03-0099",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Each cluster has a lead agency (as shown on the slide) that provides support to field operations.",
+      "ne": "• प्रत्येक क्लस्टरमा नेतृत्व गर्ने एउटा निकाय हुन्छ (स्लाइडमा देखाइएअनुसार), जसले स्थलगत कार्यसञ्चालनमा सहयोग पुर्‍याउँछ।",
+      "bt": "• Each cluster has a leading body (as shown on the slide), which provides support for operations on the ground.",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T427"
+      ],
+      "flags": [],
+      "note": "The translation narrows 'field operations' to work carried out at a workplace. Revised to retain the operational field context."
+    },
+    {
+      "id": "FAC-03-0100",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Not all clusters are activated in all emergencies.",
+      "ne": "• सबै आपत्कालीन अवस्थामा सबै क्लस्टर सक्रिय गरिँदैनन्।",
+      "bt": "• Not all clusters are activated in all emergencies.",
+      "type": "general",
+      "terms": [
+        "T124",
+        "T131"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0101",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• Good coordination means fewer gaps and overlaps in the assistance provided by humanitarian organizations.",
+      "ne": "• राम्रो समन्वय हुँदा मानवीय संस्थाले प्रदान गर्ने सहायतामा कमीहरू र दोहोरोपन कम हुन्छन्।",
+      "bt": "• When there is good coordination, gaps and duplication in the assistance provided by humanitarian organizations are reduced.",
+      "type": "general",
+      "terms": [
+        "T232",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term coordination = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-03-0102",
+      "page": "20",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "If needed, explain that the cluster approach seeks to:",
+      "ne": "आवश्यक परेमा, क्लस्टर पद्धतिले निम्न उद्देश्य राख्छ भनी स्पष्ट पार्नुहोस्।",
+      "bt": "If necessary, clarify that the cluster approach has the following objectives.",
+      "type": "general",
+      "terms": [
+        "T123"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0103",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• improve coordination by grouping humanitarian organizations, both UN and non-UN, according to these sectors of humanitarian action,",
+      "ne": "• UN अन्तर्गतका र UN बाहिरका मानवीय संस्थालाई मानवीय कार्यका यी क्षेत्रअनुसार समूहबद्ध गरी समन्वय सुधार गर्ने।",
+      "bt": "• To improve coordination by grouping humanitarian organizations within the UN and outside the UN according to these areas of humanitarian work.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term coordination = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-03-0104",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• formalize the responsibilities of the agencies in charge of leading each grouping.",
+      "ne": "• प्रत्येक समूहको नेतृत्व गर्ने जिम्मा पाएका निकायका जिम्मेवारीलाई औपचारिक रूप दिने।",
+      "bt": "• To formalize the responsibilities of the agencies assigned to lead each group.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0105",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• support the provision of services through a platform that makes it possible to agree on approaches and eliminate duplication of efforts",
+      "ne": "• अपनाइने पद्धतिमा सहमति जुटाउन र प्रयासको दोहोरोपन हटाउन सम्भव बनाउने साझा मञ्चमार्फत सेवा प्रदान गर्न सहयोग गर्ने।",
+      "bt": "• To support service delivery through a shared platform that makes it possible to reach agreement on the approach to be adopted and eliminate duplication of effort.",
+      "type": "general",
+      "terms": [
+        "T333",
+        "T360"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0106",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• promote strategic decision-making: coordination of needs assessment, gap analysis and priority setting, funding needs",
+      "ne": "• रणनीतिक निर्णय प्रक्रियालाई प्रवर्धन गर्नुहोस्: आवश्यकताहरूको लेखाजोखा, अन्तर विश्लेषण र प्राथमिकता निर्धारणको समन्वय, वित्तपोषणका आवश्यकताहरू।",
+      "bt": "• Promote the strategic decision-making process: coordination of needs assessment, gap analysis and prioritization, financing needs.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T231",
+        "T349",
+        "T370"
+      ],
+      "flags": [
+        "glossary-missing",
+        "unclear-english"
+      ],
+      "note": "The source fragment 'funding needs' does not establish whether these needs are another object of coordination or a separate decision-making consideration; the draft preserves that unresolved relationship."
+    },
+    {
+      "id": "FAC-03-0107",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "• promote joint advocacy to respond to identified concerns on behalf of the cluster organizations and the affected population",
+      "ne": "• पहिचान गरिएका सरोकारलाई सम्बोधन गर्न क्लस्टरका संस्था र प्रभावित जनसङ्ख्याका तर्फबाट संयुक्त पैरवी प्रवर्द्धन गर्ने।",
+      "bt": "• Promote joint advocacy on behalf of the cluster's organizations and the affected population to address the identified concerns.",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T191"
+      ],
+      "flags": [],
+      "note": "The existing placement of 'on behalf of' allows it to modify identification of concerns, as reflected in the back-translation. Revised so advocacy is undertaken on behalf of cluster organizations and the affected population."
+    },
+    {
+      "id": "FAC-03-0108",
+      "page": "20",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0109",
+      "page": "20",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "participants which sector / cluster or AoR they work in (if this is a multi-sectoral workshop) and use this to highlight that MHPSS is a cross-cutting area of work.",
+      "ne": "यदि यो बहुक्षेत्रीय कार्यशाला हो भने, सहभागीहरूलाई उनीहरू कुन क्षेत्र / क्लस्टर वा जिम्मेवारी क्षेत्र (AoR) मा काम गर्छन् भनी सोध्नुहोस् र यसैका आधारमा MHPSS विभिन्न क्षेत्रलाई समेट्ने कार्यक्षेत्र हो भन्ने कुरा स्पष्ट पार्नुहोस्।",
+      "bt": "If this is a multisectoral workshop, ask participants which sector / cluster or area of responsibility (AoR) they work in, and on this basis clarify that MHPSS is a field of work that encompasses different sectors.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T123",
+        "T193",
+        "T406",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring terms: Area of Responsibility (AoR) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (AoR); cross-cutting = [Nepali wording recorded in terminology evidence]. The multi-sectoral workshop condition is retained. 'Intersectoral' can describe relationships between sectors without preserving the source's cross-cutting scope. Revised to state that this area of work spans multiple sectors; the technical rendering remains subject to terminology review."
+    },
+    {
+      "id": "FAC-03-0110",
+      "page": "20",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0111",
+      "page": "20",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "participants what are the clusters/sectors/AoRs that typically contribute to the MHPSS response.",
+      "ne": "सहभागीहरूलाई सामान्यतया कुन क्लस्टर/क्षेत्र/जिम्मेवारी क्षेत्र (AoRs) ले MHPSS प्रतिकार्यमा योगदान गर्छन् भनी सोध्नुहोस्।",
+      "bt": "Ask participants which clusters/sectors/areas of responsibility (AoRs) generally contribute to the MHPSS response.",
+      "type": "general",
+      "terms": [
+        "T124",
+        "T296",
+        "T161",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term Area of Responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The source plural acronym AoRs is preserved."
+    },
+    {
+      "id": "FAC-03-0112",
+      "page": "20",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-03-0113",
+      "page": "20",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "In 2019, the global leadership for the inter-agency humanitarian response system (the IASC Principals) re-affirmed the decision to “treat MHPSS as a cross-cutting issue that has relevance within health, protection, nutrition, education and Camp Coordination and Camp Management sectors/clusters, in all emergencies”.6 Other sectors, such as WASH, Shelter & Settlements, Food Security and Livelihoods, can also contribute to the MHPSS response.",
+      "ne": "2019 मा, संस्थाहरूबीचको मानवीय प्रतिकार्य प्रणालीको विश्वस्तरीय नेतृत्व (IASC Principals) ले “सबै आपत्कालीन अवस्थामा स्वास्थ्य, संरक्षण, पोषण, शिक्षा तथा शिविर समन्वय तथा शिविर व्यवस्थापन क्षेत्र/क्लस्टरमा सान्दर्भिक हुने, विभिन्न क्षेत्रलाई समेट्ने विषयका रूपमा MHPSS लाई लिने” निर्णयलाई पुनः पुष्टि गर्‍यो।6 खानेपानी, सरसफाइ तथा स्वच्छता (WASH), आश्रय तथा बस्ती, खाद्य सुरक्षा तथा जीविकोपार्जन जस्ता अन्य क्षेत्रले पनि MHPSS प्रतिकार्यमा योगदान गर्न सक्छन्।",
+      "bt": "In 2019, the global leadership of the interagency humanitarian response system (IASC Principals) reaffirmed the decision to “consider MHPSS as a topic encompassing different sectors, relevant to the health, protection, nutrition, education, and camp coordination and camp management sectors/clusters in all emergencies.”6 Other sectors such as water, sanitation and hygiene (WASH), shelter and settlements, food security and livelihoods can also contribute to the MHPSS response.",
+      "type": "check",
+      "terms": [
+        "T247",
+        "T003",
+        "T131",
+        "T027",
+        "T029",
+        "T030",
+        "T028",
+        "T031",
+        "T296",
+        "T124",
+        "T186",
+        "T301",
+        "T034",
+        "T161",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term cross-cutting = [Nepali wording recorded in terminology evidence]. This is an institutional policy quotation, not a consent or safeguarding declaration. The year, IASC Principals, all named sectors and citation marker 6 are retained. The policy quotation renders 'cross-cutting' as 'intersectoral,' which does not explicitly retain applicability across sectors. Revised that phrase while preserving the named sectors, all-emergencies scope, reaffirmation, citation marker and possibility of contributions from other sectors. The technical rendering remains subject to terminology review."
+    },
+    {
+      "id": "FAC-03-0114",
+      "page": "20",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "These sectors/clusters/AoRs are all included in the MSP.",
+      "ne": "यी सबै क्षेत्र/क्लस्टर/जिम्मेवारी क्षेत्र (AoRs) MSP मा समावेश छन्।",
+      "bt": "All these sectors/clusters/areas of responsibility (AoRs) are included in the MSP.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T124",
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term Area of Responsibility = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The source acronyms AoRs and MSP are preserved."
+    },
+    {
+      "id": "FAC-03-0115",
+      "page": "20",
+      "loc": "footnote",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "6 IASC Summary Record and Action Points of Principals Meeting, Geneva, 5 December 2019 bit.ly/IASC-Principals-meeting-05122019.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Citation retained in English: 6 IASC Summary Record and Action Points of Principals Meeting, Geneva, 5 December 2019 bit.ly/IASC-Principals-meeting-05122019."
+    }
+  ]
+}

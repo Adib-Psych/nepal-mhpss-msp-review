@@ -1,0 +1,824 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-29",
+  "unit_title": "Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "87-90",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:09:28+05:45",
+  "coverage": {
+    "source_words": 1124,
+    "row_words": 1124,
+    "skipped": [
+      "PDF p.87: running footer/page number removed: 82 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.88: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 83",
+      "PDF p.89: running footer/page number removed: 84 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.90: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 85"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-29-0001",
+      "page": "87",
+      "loc": "heading",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "SECTION 4",
+      "ne": "खण्ड 4",
+      "bt": "Section 4",
+      "type": "activity",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0002",
+      "page": "87",
+      "loc": "heading",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "ACTIVITIES AND CONSIDERATIONS FOR SPECIFIC SETTINGS",
+      "ne": "विशिष्ट परिवेशका लागि गतिविधि तथा विचारणीय पक्षहरू",
+      "bt": "Activities and considerations for specific settings",
+      "type": "activity",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0003",
+      "page": "88",
+      "loc": "heading",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "ne": "4.1 सरुवा रोगको क्लिनिकल केस व्यवस्थापनमा MHPSS सम्बन्धी विचारणीय पक्ष र सहयोग एकीकृत गर्ने।",
+      "bt": "4.1 Integrate MHPSS-related considerations and support into the clinical case management of communicable diseases.",
+      "type": "safety",
+      "terms": [
+        "T112",
+        "T118",
+        "T242"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label T112 uses a disease category that can imply transmission between hosts, whereas infectious diseases does not impose that restriction. bt-divergence: Frozen T112 uses 'सरुवा रोग', back-translated as 'communicable diseases', for 'infectious diseases'. This can restrict the category to diseases transmissible between hosts. The frozen form is retained."
+    },
+    {
+      "id": "MAN-29-0004",
+      "page": "88",
+      "loc": "para",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Outbreaks of infectious disease (e.g. COVID-19, Ebola virus disease, Zika virus disease) have major impacts on mental health and psychosocial well-being.",
+      "ne": "सरुवा रोगका प्रकोपहरूले (जस्तै, [COVID-19], [Ebola virus disease], [Zika virus disease]) मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा ठूलो प्रभाव पार्छन्।",
+      "bt": "Outbreaks of communicable diseases (for example, [COVID-19], [Ebola virus disease], [Zika virus disease]) have a major impact on mental health and psychosocial well-being.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T027",
+        "T157",
+        "T242",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen disease term can narrow infectious disease to disease transmissible between hosts; the source does not impose that restriction. Disease names remain in exact source English. bt-divergence: Frozen T242 uses 'सरुवा रोग', back-translated as 'communicable diseases', for 'infectious disease'. This can restrict the category to diseases transmissible between hosts. The frozen form is retained."
+    },
+    {
+      "id": "MAN-29-0005",
+      "page": "88",
+      "loc": "para",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Stressors resulting from such outbreaks include social isolation, economic hardship, disrupted daily routines (education, employment) and disrupted access to services, including mental health care.",
+      "ne": "यस्ता प्रकोपबाट उत्पन्न हुने तनावका कारकहरूमा सामाजिक एक्लोपन, आर्थिक कठिनाइ, दैनिक दिनचर्यामा अवरोध (शिक्षा, रोजगारी) र मानसिक स्वास्थ्य सेवासहित अन्य सेवामा पहुँचमा अवरोध पर्छन्।",
+      "bt": "Stressors arising from such outbreaks include social isolation, economic difficulties, disruption to daily routines (education, employment) and barriers to accessing other services, including mental health services.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T157"
+      ],
+      "flags": [],
+      "note": "Uses ordinary, non-diagnostic wording for stressors. The mental health care wording is reused from supplied activity candidate T107, unreviewed."
+    },
+    {
+      "id": "MAN-29-0006",
+      "page": "88",
+      "loc": "para",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Persons admitted to health care facilities can experience fear, uncertainty and social isolation.",
+      "ne": "स्वास्थ्य संस्थामा भर्ना भएका व्यक्तिहरूले डर, अनिश्चितता र सामाजिक एक्लोपन अनुभव गर्न सक्छन्।",
+      "bt": "People admitted to health facilities may experience fear, uncertainty and social isolation.",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring facility term lacks a standalone glossary entry; proposed wording is listed separately. Fear and isolation are rendered as ordinary experiences, not diagnoses."
+    },
+    {
+      "id": "MAN-29-0007",
+      "page": "88",
+      "loc": "para",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Those who lose loved ones often have limited opportunities to mourn or to access support.",
+      "ne": "प्रियजन गुमाएका व्यक्तिहरूका लागि प्रायः शोक मनाउने वा सहयोग प्राप्त गर्ने अवसर सीमित हुन्छन्।",
+      "bt": "For people who have lost loved ones, opportunities to mourn or receive support are often limited.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0008",
+      "page": "88",
+      "loc": "para",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "There are often discrimination and social stigma towards people with the disease and their carers, including health workers.",
+      "ne": "रोग लागेका व्यक्ति र स्वास्थ्यकर्मीसहित उनीहरूको हेरचाह गर्ने व्यक्तिहरूप्रति प्रायः भेदभाव गरिन्छ र सामाजिक कलङ्क लगाइन्छ।",
+      "bt": "People who have the disease and those caring for them, including health workers, are often discriminated against and socially stigmatized.",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0009",
+      "page": "88",
+      "loc": "para",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Fear, depression and worry are common, and rates of mental health conditions are likely to increase.",
+      "ne": "डर, [depression] र चिन्ता सामान्य रूपमा देखिन्छन्, र मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको दर बढ्ने सम्भावना छ।",
+      "bt": "Fear, [depression] and anxiety are commonly seen, and rates of mental health conditions are likely to increase.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The named diagnosis remains in exact source English, and the increase in rates remains a possibility rather than a certainty."
+    },
+    {
+      "id": "MAN-29-0010",
+      "page": "88",
+      "loc": "para",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "It is therefore important to integrate MHPSS considerations and support into clinical case management for infectious diseases and also to integrate relevant MHPSS actions into the broader public health emergency response (see key consideration 35).",
+      "ne": "त्यसैले, सरुवा रोगको क्लिनिकल केस व्यवस्थापनमा MHPSS सम्बन्धी विचारणीय पक्ष र सहयोग एकीकृत गर्नुका साथै व्यापक जनस्वास्थ्य आपत्कालको प्रतिकार्यमा सान्दर्भिक MHPSS कार्यहरू पनि एकीकृत गर्नु महत्त्वपूर्ण छ (मुख्य विचारणीय पक्ष 35 हेर्नुहोस्)।",
+      "bt": "Therefore, it is important to integrate MHPSS-related considerations and support into the clinical case management of communicable diseases, as well as to integrate relevant MHPSS activities into the broader public health emergency response (see key consideration 35).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T118",
+        "T170",
+        "T174",
+        "T242",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen disease term can narrow infectious diseases to diseases transmissible between hosts, a restriction absent from the source. Both areas of integration and reference 35 are retained. bt-divergence: Frozen T242 uses 'सरुवा रोग', back-translated as 'communicable diseases', for 'infectious diseases'. This can restrict the category to diseases transmissible between hosts. The frozen form is retained."
+    },
+    {
+      "id": "MAN-29-0011",
+      "page": "89",
+      "loc": "heading",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0012",
+      "page": "89",
+      "loc": "heading",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "ne": "सरुवा रोगको क्लिनिकल केस व्यवस्थापनमा MHPSS सम्बन्धी विचारणीय पक्ष र सहयोग एकीकृत गर्ने।",
+      "bt": "Integrate MHPSS-related considerations and support into the clinical case management of communicable diseases.",
+      "type": "safety",
+      "terms": [
+        "T112",
+        "T118",
+        "T242"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label T112 uses a disease category that can imply transmission between hosts, whereas infectious diseases does not impose that restriction. bt-divergence: Frozen T112 uses 'सरुवा रोग', back-translated as 'communicable diseases', for 'infectious diseases'. This can restrict the category to diseases transmissible between hosts. The frozen form is retained."
+    },
+    {
+      "id": "MAN-29-0013",
+      "page": "89",
+      "loc": "heading",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0014",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Develop/select, adapt and translate materials where needed (e.g. orientation materials for staff, information, education and communication (IEC) materials aimed at affected populations).",
+      "ne": "आवश्यकताअनुसार सामग्री विकास वा छनोट गर्नुहोस्, अनुकूलन गर्नुहोस् र अनुवाद गर्नुहोस् (जस्तै, कर्मचारीका लागि अभिमुखीकरण सामग्री तथा प्रभावित जनसमुदायलाई लक्षित सूचना, शिक्षा तथा सञ्चार (IEC) सामग्री)।",
+      "bt": "Develop or select, adapt and translate materials as needed (for example, orientation materials for staff and information, education and communication (IEC) materials targeted at affected communities).",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T043"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0015",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Identify MHPSS focal points to provide and coordinate services for MHPSS in all health facilities.",
+      "ne": "सबै स्वास्थ्य संस्थामा MHPSS सेवा प्रदान गर्न र ती सेवाको समन्वय गर्न MHPSS सम्पर्क व्यक्तिहरू पहिचान गर्नुहोस्।",
+      "bt": "Identify MHPSS contact persons to provide MHPSS services and coordinate those services in all health facilities.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T267"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring facility term lacks a standalone glossary entry; proposed wording is listed separately."
+    },
+    {
+      "id": "MAN-29-0016",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Ensure that every health facility has at least one person trained and a system in place to identify and provide care for people with common and severe mental health conditions.",
+      "ne": "सामान्य तथा गम्भीर मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरूको पहिचान गर्न र उनीहरूलाई हेरचाह प्रदान गर्न हरेक स्वास्थ्य संस्थामा कम्तीमा एक जना तालिमप्राप्त व्यक्ति र स्थापित प्रणाली रहेको सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure that every health facility has at least one trained person and an established system to identify people with common and severe mental health conditions and provide care to them.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The requirement applies to every facility and retains both at least one trained person and an established identification and care system."
+    },
+    {
+      "id": "MAN-29-0017",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Orient health care workers who are tasked with the management of persons with infectious diseases in basic psychosocial support skills, assessment and first-line clinical interventions and on drug-drug interactions (e.g. between medications for managing infectious diseases and psychotropic medication).",
+      "ne": "सरुवा रोग भएका व्यक्तिहरूको व्यवस्थापनको जिम्मेवारी पाएका स्वास्थ्यकर्मीहरूलाई आधारभूत मनोसामाजिक सहयोग सीप, लेखाजोखा, पहिलो रोजाइका चिकित्सकीय हस्तक्षेपहरू र औषधिहरूबीचको अन्तरक्रियाबारे अभिमुखीकरण दिनुहोस् (जस्तै, सरुवा रोगको व्यवस्थापनमा प्रयोग हुने औषधि र मनोप्रभावी औषधिबीचको अन्तरक्रिया)।",
+      "bt": "Give health workers responsible for managing people with communicable diseases an orientation on basic psychosocial support skills, assessment, first-choice medical interventions and interactions between medicines (for example, interactions between medicines used in the management of communicable diseases and psychotropic medicines).",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T027",
+        "T196",
+        "T242",
+        "T284",
+        "T410",
+        "T454"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen disease term can narrow infectious diseases to diseases transmissible between hosts, a restriction absent from the source. All orientation topics and the medication-interaction example are retained. bt-divergence: Frozen T242 uses 'सरुवा रोग', back-translated as 'communicable diseases', for 'infectious diseases' in both the worker assignment and the medication example. This can restrict the category to diseases transmissible between hosts. The frozen form is retained."
+    },
+    {
+      "id": "MAN-29-0018",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Provide MHPSS to persons with infectious diseases and their family members, including children. This includes support for coping with acute and severe illness (e.g. acknowledging and addressing distress, facilitating communication, ensuring respect and dignity).",
+      "ne": "सरुवा रोग भएका व्यक्तिहरू र बालबालिकासहित उनीहरूका परिवारका सदस्यहरूलाई MHPSS प्रदान गर्नुहोस्। यसमा तीव्र तथा गम्भीर रोगावस्थासँग जुध्न सहयोग समावेश छ (जस्तै, व्यथालाई स्वीकार गर्ने र सम्बोधन गर्ने, सञ्चार सहज बनाउने, सम्मान र गरिमा सुनिश्चित गर्ने)।",
+      "bt": "Provide MHPSS to people with communicable diseases and their family members, including children. This includes support to cope with acute and severe illness (for example, acknowledging and addressing distress, facilitating communication, ensuring respect and dignity).",
+      "type": "safety",
+      "terms": [
+        "T242",
+        "T461"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen disease term can narrow infectious diseases to diseases transmissible between hosts, a restriction absent from the source. The recipients and all examples of coping support are retained. bt-divergence: Frozen T242 uses 'सरुवा रोग', back-translated as 'communicable diseases', for 'infectious diseases'. This can restrict the category of people receiving support to those with diseases transmissible between hosts. The frozen form is retained."
+    },
+    {
+      "id": "MAN-29-0019",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Identify, manage and, as appropriate, refer infected people with new or pre-existing MNS conditions to mental health services as needed.81",
+      "ne": "नयाँ वा पहिलेदेखि रहेका MNS सम्बन्धी अवस्थाहरू भएका सङ्क्रमित व्यक्तिहरूको पहिचान गर्नुहोस्, उनीहरूको व्यवस्थापन गर्नुहोस् र, उपयुक्त भएमा, आवश्यकताअनुसार उनीहरूलाई मानसिक स्वास्थ्य सेवामा पठाउनुहोस्।81",
+      "bt": "Identify infected people with new or pre-existing MNS-related conditions, manage them and, where appropriate, refer them to mental health services as needed.81",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T263"
+      ],
+      "flags": [],
+      "note": "MNS and footnote marker 81 are retained, along with both qualifications governing referral."
+    },
+    {
+      "id": "MAN-29-0020",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Ensure that health facilities are equipped with needed supplies of essential psychotropic medications.",
+      "ne": "स्वास्थ्य संस्थाहरूमा अत्यावश्यक मनोप्रभावी औषधिहरूको आवश्यक आपूर्ति उपलब्ध रहेको सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure that the necessary supply of essential psychotropic medicines is available in health facilities.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T237"
+      ],
+      "flags": [],
+      "note": "The instruction retains the requirement for needed supplies of essential psychotropic medications without adding prescribing guidance."
+    },
+    {
+      "id": "MAN-29-0021",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Integrate data on comorbid mental health conditions in clinical forms and health information systems.82",
+      "ne": "सहवर्ती मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको तथ्याङ्क चिकित्सकीय फारामहरू र स्वास्थ्य सूचना प्रणालीहरूमा एकीकृत गर्नुहोस्।82",
+      "bt": "Integrate data on co-occurring mental health conditions into medical forms and health information systems.82",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T478"
+      ],
+      "flags": [],
+      "note": "Co-occurrence, both documentation settings and footnote marker 82 are retained."
+    },
+    {
+      "id": "MAN-29-0022",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Include MHPSS considerations to mitigate protection risks and reduce psychological distress for infected persons who are hospitalized (e.g. ensuring access to accurate and easily understood information about the condition and the treatment; facilitating communication with family members remotely via phones or protective screens; facilitating visits from religious leaders if desired; facilitating daily activities, e.g. by providing books and games, especially for children).",
+      "ne": "अस्पतालमा भर्ना भएका सङ्क्रमित व्यक्तिहरूका लागि संरक्षणसम्बन्धी जोखिमहरू कम गर्न र मानसिक व्यथा घटाउन MHPSS सम्बन्धी विचारणीय पक्षहरू समावेश गर्नुहोस् (जस्तै, अवस्था र उपचारबारे सही तथा सजिलै बुझिने जानकारीमा पहुँच सुनिश्चित गर्ने; फोन वा सुरक्षात्मक पर्दामार्फत टाढैबाट परिवारका सदस्यहरूसँग सञ्चार सहज बनाउने; इच्छा भएमा धार्मिक अगुवाहरू भेट्न आउने व्यवस्था सहज बनाउने; दैनिक क्रियाकलापहरू सहज बनाउने, उदाहरणका लागि विशेष गरी बालबालिकालाई पुस्तक र खेलहरू उपलब्ध गराएर)।",
+      "bt": "Include MHPSS-related considerations to reduce protection-related risks and mental distress for infected people admitted to hospital (for example, ensuring access to accurate and easily understandable information about the condition and treatment; facilitating communication with family members from a distance by phone or through a protective screen; facilitating arrangements for religious leaders to visit if desired; facilitating daily activities, for example by providing books and games, especially to children).",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T415",
+        "T461",
+        "T492"
+      ],
+      "flags": [],
+      "note": "All examples are retained, including remote family communication, religious visits only if desired, and books and games especially for children."
+    },
+    {
+      "id": "MAN-29-0023",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Establish links and referral mechanisms for affected people and their family members to access mental health care providers, food security and livelihoods support, education, social services (including housing) and other relevant services and supports.",
+      "ne": "प्रभावित व्यक्ति र उनीहरूका परिवारका सदस्यहरूले मानसिक स्वास्थ्य सेवा प्रदायक, खाद्य सुरक्षा तथा जीविकोपार्जन सहयोग, शिक्षा, सामाजिक सेवा (आवाससहित) तथा अन्य सान्दर्भिक सेवा र सहयोगमा पहुँच प्राप्त गर्न सकून् भनेर सम्पर्क सम्बन्ध र सेवा प्रेषण संयन्त्रहरू स्थापना गर्नुहोस्।",
+      "bt": "Establish linkages and service referral mechanisms so that affected people and their family members can access mental health service providers, food security and livelihood support, education, social services (including housing) and other relevant services and support.",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T034",
+        "T028",
+        "T064",
+        "T236"
+      ],
+      "flags": [],
+      "note": "General service-access safety draft; review pending. Mental health care wording is reused from supplied unreviewed activity candidate T107. Referral mechanisms remain distinct from referral pathways."
+    },
+    {
+      "id": "MAN-29-0024",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Establish opportunities for those who are bereaved to mourn and follow cultural traditions for safe and dignified burials, based on their preferences and to the extent possible.",
+      "ne": "प्रियजन गुमाएका व्यक्तिहरूलाई उनीहरूको प्राथमिकताका आधारमा र सम्भव भएसम्म शोक मनाउने तथा सुरक्षित र मर्यादित दफनका लागि सांस्कृतिक परम्परा पालना गर्ने अवसर उपलब्ध गराउनुहोस्।",
+      "bt": "Provide people who have lost loved ones with opportunities, based on their preferences and as far as possible, to mourn and follow cultural traditions for safe and dignified burial.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "General safety and cultural-practice guidance; review pending. Burial is retained specifically rather than broadened to all funeral practices, and both preference and feasibility qualifications are preserved."
+    },
+    {
+      "id": "MAN-29-0025",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Protect the mental health of all responders and ensure that they can access mental health and psychosocial care.",
+      "ne": "सबै प्रतिकार्यकर्ताहरूको मानसिक स्वास्थ्यको रक्षा गर्नुहोस् र उनीहरूले मानसिक स्वास्थ्य तथा मनोसामाजिक हेरचाह पाउन सक्ने सुनिश्चित गर्नुहोस्।",
+      "bt": "Protect the mental health of all responders and ensure that they can receive mental health and psychosocial care.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T174",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Care is retained as care rather than replaced with support, and both requirements apply to all responders."
+    },
+    {
+      "id": "MAN-29-0026",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूमा निर्भर)",
+      "bt": "Additional actions given for consideration (depending on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0027",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Add to health care facilities either a mental health professional (e.g. psychiatric nurse, psychiatric clinical officer, psychologist) or a trained and supervised non-specialist whose work is dedicated part-time or full-time to mental health care.",
+      "ne": "स्वास्थ्य हेरचाह संस्थाहरूमा मानसिक स्वास्थ्यका एक जना पेशाकर्मी (जस्तै, मनोचिकित्सा सेवाका नर्स, मनोचिकित्सा सेवाका क्लिनिकल अधिकृत वा मनोवैज्ञानिक) वा तालिमप्राप्त तथा सुपरिवेक्षणमा रहेका एक जना गैरविशेषज्ञ थप्नुहोस्, जसको काम आंशिक वा पूर्ण समय मानसिक स्वास्थ्य हेरचाहमा समर्पित हुन्छ।",
+      "bt": "Add one mental health professional (for example, a psychiatric services nurse, a psychiatric services clinical officer or a psychologist) or one trained and supervised non-specialist to health care facilities, whose work is devoted part-time or full-time to mental health care.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157"
+      ],
+      "flags": [],
+      "note": "The alternative staffing options, training and supervision requirements, and part-time or full-time dedication to mental health care are retained."
+    },
+    {
+      "id": "MAN-29-0028",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Facilitate community-level activities such as support groups for those who have been affected or are recovering (if this can be done safely) (see MSP activity 3.4).",
+      "ne": "प्रभावित भएका वा निको हुँदै गरेका व्यक्तिहरूका लागि सहयोग समूहजस्ता समुदायस्तरका गतिविधि सहजीकरण गर्नुहोस् (यदि यो सुरक्षित रूपमा गर्न सकिन्छ भने) (MSP गतिविधि 3.4 हेर्नुहोस्)।",
+      "bt": "Facilitate community-level activities such as support groups for people who have been affected or are recovering (if this can be done safely) (see MSP activity 3.4).",
+      "type": "safety",
+      "terms": [
+        "T091",
+        "T344",
+        "T364"
+      ],
+      "flags": [],
+      "note": "General community-activity safety draft; review pending. The condition that activities can be conducted safely is retained."
+    },
+    {
+      "id": "MAN-29-0029",
+      "page": "89",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Provide psychological interventions for persons who have recovered from infectious diseases and for others, including bereaved family members (see MSP activity 3.12).",
+      "ne": "सरुवा रोगबाट निको भइसकेका व्यक्तिहरूलाई र आफन्त गुमाएका परिवारका सदस्यहरूसहित अन्य व्यक्तिहरूलाई मनोवैज्ञानिक हस्तक्षेप प्रदान गर्नुहोस् (MSP गतिविधि 3.12 हेर्नुहोस्)।",
+      "bt": "Provide psychological interventions to people who have recovered from infectious disease and to other people, including family members who have lost relatives (see MSP activity 3.12).",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T091",
+        "T163",
+        "T242"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Frozen T242 uses सरुवा रोग, which denotes communicable disease and can narrow the source category infectious diseases; recovered persons and the separate inclusion of others, including bereaved family members, are retained. bt-divergence: Frozen T242 सरुवा रोग denotes communicable disease, which can narrow the source category infectious diseases. The frozen form is retained; no other substantive difference requires repair."
+    },
+    {
+      "id": "MAN-29-0030",
+      "page": "89",
+      "loc": "footnote",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "81 WHO (2020). The impact of COVID-19 on mental, neurological and substance use services: results of a rapid assessment. Annex 3: Modifications for safe delivery of MNS services and considerations towards restoration of activities.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the source citation verbatim, including 81, WHO, 2020, COVID-19, Annex 3 and MNS; the bibliographic title is not translated."
+    },
+    {
+      "id": "MAN-29-0031",
+      "page": "89",
+      "loc": "footnote",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "82 For example, see WHO clinical characterization forms for COVID-19.",
+      "ne": "82 उदाहरणका लागि, [COVID-19] का चिकित्सकीय विशेषताहरूको विवरण भर्ने WHO का फारामहरू हेर्नुहोस्।",
+      "bt": "82 For example, see WHO's forms for filling in details of the clinical characteristics of [COVID-19].",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "prior-draft-changed"
+      ],
+      "note": "Enclosed COVID-19 in square brackets as required for a named disease; all other candidate wording is unchanged."
+    },
+    {
+      "id": "MAN-29-0032",
+      "page": "90",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Provide follow-up for persons with MNS conditions after discharge to assess their symptoms, ensure that they are doing well and facilitate access to additional support and services as needed (e.g. through telehealth, where available and appropriate).",
+      "ne": "MNS अवस्थाहरू भएका व्यक्तिहरूलाई डिस्चार्जपछि अनुगमन सेवा प्रदान गर्नुहोस्, ताकि उनीहरूका लक्षणहरूको आकलन गर्न, उनीहरूको अवस्था राम्रो रहेको सुनिश्चित गर्न र आवश्यकताअनुसार थप सहयोग तथा सेवामा पहुँचका लागि सहजीकरण गर्न सकियोस् (जस्तै, उपलब्ध र उपयुक्त भएको अवस्थामा दूरस्वास्थ्य सेवा (telehealth) मार्फत)।",
+      "bt": "Provide follow-up services after discharge to people with MNS conditions, so that their symptoms can be assessed, it can be ensured that their condition is good, and access to further support and services can be facilitated as needed (for example, through remote health services (telehealth) where available and appropriate).",
+      "type": "safety",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": "MNS is retained without inventing a glossary translation, and telehealth remains conditional on both availability and appropriateness."
+    },
+    {
+      "id": "MAN-29-0033",
+      "page": "90",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Organize dedicated helplines to provide remote support to persons recovering from infectious diseases, their families and the public.",
+      "ne": "सरुवा रोगबाट निको हुँदै गरेका व्यक्तिहरू, उनीहरूका परिवार र सर्वसाधारणलाई टाढैबाट सहयोग प्रदान गर्न विशेष रूपमा यसैका लागि सहायता फोन सेवाहरूको व्यवस्था गर्नुहोस्।",
+      "bt": "Arrange assistance telephone services specifically for this purpose to provide support remotely to people recovering from infectious disease, their families and the general public.",
+      "type": "safety",
+      "terms": [
+        "T242",
+        "T374"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Frozen T242 uses सरुवा रोग, which denotes communicable disease and can narrow the source category infectious diseases; recovery remains ongoing rather than completed. bt-divergence: Frozen T242 सरुवा रोग denotes communicable disease, which can narrow the source category infectious diseases. The frozen form is retained; ongoing recovery and all three recipient groups are preserved."
+    },
+    {
+      "id": "MAN-29-0034",
+      "page": "90",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Organize activities and positive messaging to reduce stigma and to honour people affected and front-line responders.",
+      "ne": "लाञ्छना कम गर्न तथा प्रभावित व्यक्ति र अग्रपङ्क्तिमा प्रतिकार्य गर्ने व्यक्तिहरूको सम्मान गर्न गतिविधिहरू र सकारात्मक सन्देश प्रवाहको व्यवस्था गर्नुहोस्।",
+      "bt": "Arrange activities and the dissemination of positive messages to reduce stigma and to honor affected people and people responding on the front line.",
+      "type": "general",
+      "terms": [
+        "T174"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposal: add reviewed glossary entries for stigma and front-line responders. Stigma is drafted here as social discrediting, not as a clinical condition."
+    },
+    {
+      "id": "MAN-29-0035",
+      "page": "90",
+      "loc": "heading",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "check",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0036",
+      "page": "90",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणमा पहुँच प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to access relevant guidelines, standards and tools.",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0037",
+      "page": "90",
+      "loc": "heading",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Key consideration 35: MHPSS as part of the public health emergency response",
+      "ne": "मुख्य विचारणीय पक्ष 35: जनस्वास्थ्य आपत्कालमा गरिने प्रतिकार्यको अङ्गका रूपमा MHPSS",
+      "bt": "Key consideration 35: MHPSS as part of the response to a public health emergency",
+      "type": "check",
+      "terms": [
+        "T170",
+        "T174",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-29-0038",
+      "page": "90",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "Mental health and psychosocial support is an integral component of the public health emergency response to infectious diseases and contributes to saving lives.",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग सरुवा रोगसम्बन्धी जनस्वास्थ्य आपत्कालको प्रतिकार्यको अभिन्न घटक हो र यसले जीवन बचाउन योगदान पुर्‍याउँछ।",
+      "bt": "Mental health and psychosocial support is an integral component of the response to a public health emergency related to infectious disease, and it contributes to saving lives.",
+      "type": "safety",
+      "terms": [
+        "T001",
+        "T027",
+        "T157",
+        "T170",
+        "T174",
+        "T242",
+        "T345",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Frozen T242 uses सरुवा रोग, which denotes communicable disease and can narrow the source category infectious diseases; the integral role and contribution to saving lives are retained. bt-divergence: Frozen T242 सरुवा रोग denotes communicable disease, which can narrow the source category infectious diseases. The frozen form is retained; the integral role and contribution to saving lives are preserved."
+    },
+    {
+      "id": "MAN-29-0039",
+      "page": "90",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "MHPSS actors have a key role to play across several pillars of the public health emergency response, including infectious disease case management, infection control measures, risk communication and community engagement, safe and dignified funeral rites, and maintaining safe and accessible essential health services.83,84 In some public health emergencies, MHPSS might also be a specific stand-alone pillar linked to other pillars as a cross-cutting issue.",
+      "ne": "जनस्वास्थ्य आपत्कालको प्रतिकार्यका विभिन्न स्तम्भहरूमा MHPSS सम्बद्ध पक्षहरूको महत्त्वपूर्ण भूमिका हुन्छ; यी स्तम्भहरूमा सरुवा रोगको केस व्यवस्थापन, सङ्क्रमण नियन्त्रणका उपायहरू, जोखिमसम्बन्धी सञ्चार र सामुदायिक सहभागिता, सुरक्षित तथा मर्यादित अन्त्येष्टि संस्कार, र अत्यावश्यक स्वास्थ्य सेवाहरू सुरक्षित तथा पहुँचयोग्य राख्ने कार्य समावेश छन्।83,84 केही जनस्वास्थ्य आपत्कालमा MHPSS आफैँ पनि एउटा छुट्टै विशिष्ट स्तम्भ हुन सक्छ, जुन अन्तरक्षेत्रीय विषयका रूपमा अन्य स्तम्भहरूसँग जोडिएको हुन्छ।",
+      "bt": "MHPSS-related parties have an important role in the various pillars of the response to a public health emergency; these pillars include case management of communicable diseases, infection control measures, risk communication and community participation, safe and dignified funeral rites, and keeping essential health services safe and accessible.83,84 In some public health emergencies, MHPSS itself may also be a separate, distinct pillar, which is linked with other pillars as a cross-sectoral issue.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T078",
+        "T114",
+        "T118",
+        "T170",
+        "T174",
+        "T205",
+        "T242",
+        "T266",
+        "T354"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T242 can narrow infectious disease to communicable disease, while frozen T354 denotes intersectoral scope rather than necessarily the source's cross-pillar scope; the possible stand-alone status of MHPSS is retained. Repaired the added obligation: the source says actors have a key role, not that they must play that role. bt-divergence remains: frozen T242 narrows infectious disease to communicable disease, and frozen T354 अन्तरक्षेत्रीय denotes intersectoral scope rather than necessarily cutting across response pillars. Both frozen forms are retained. “Communicable diseases” narrows “infectious disease.” “Cross-sectoral issue” shifts the scope from cutting across response pillars to spanning sectors."
+    },
+    {
+      "id": "MAN-29-0040",
+      "page": "90",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "MHPSS workers often play a central role in supporting people to change their behaviours and make decisions that prevent the transmission of disease. The support and information that MHPSS workers provide to affected individuals is often key to their decisions to enter quarantine or treatment facilities and to cooperate with restrictions and procedures (e.g. isolation, contact tracing). When a person dies in a treatment facility, MHPSS workers are often tasked with informing family members and facilitating safe and dignified burial practices. MHPSS workers also support and advocate for people who have recovered from infectious diseases, facilitating their safe reintegration into their communities and working with community members to address stigma and harmful misconceptions.",
+      "ne": "रोग सर्नबाट रोक्ने गरी मानिसहरूलाई आफ्नो व्यवहार बदल्न र निर्णय लिन सहयोग गर्न MHPSS कार्यकर्ताहरूले प्रायः केन्द्रीय भूमिका खेल्छन्। MHPSS कार्यकर्ताहरूले प्रभावित व्यक्तिहरूलाई दिने सहयोग र जानकारी उनीहरूले क्वारेन्टिन वा उपचार केन्द्रमा जाने तथा प्रतिबन्ध र प्रक्रियाहरूको पालना गर्ने निर्णय लिनका लागि प्रायः महत्त्वपूर्ण हुन्छन् (जस्तै, अलग्गै बस्ने व्यवस्था र सम्पर्कमा आएका व्यक्तिहरूको खोजी)। उपचार केन्द्रमा कुनै व्यक्तिको मृत्यु हुँदा परिवारका सदस्यहरूलाई खबर गर्ने र सुरक्षित तथा मर्यादित दफन प्रक्रियामा सहजीकरण गर्ने जिम्मेवारी प्रायः MHPSS कार्यकर्ताहरूलाई दिइन्छ। MHPSS कार्यकर्ताहरूले सरुवा रोगबाट निको भइसकेका व्यक्तिहरूलाई सहयोग दिनुका साथै उनीहरूका पक्षमा पैरवी पनि गर्छन्, उनीहरूलाई आआफ्नो समुदायमा सुरक्षित रूपमा पुनः समाहित हुन सहजीकरण गर्छन् र लाञ्छना तथा हानिकारक गलत धारणाहरूलाई सम्बोधन गर्न समुदायका सदस्यहरूसँग मिलेर काम गर्छन्।",
+      "bt": "MHPSS workers often play a central role in helping people change their behavior and make decisions so as to prevent disease transmission. The support and information that MHPSS workers give affected individuals are often important for them to decide to go to quarantine or treatment centers and to comply with restrictions and procedures (for example, arrangements for staying separately and tracing people who have been in contact). When a person dies in a treatment center, MHPSS workers are often given responsibility for informing family members and facilitating a safe and dignified burial process. MHPSS workers provide support to people who have recovered from communicable diseases and also advocate on their behalf, facilitate their safe reintegration into their respective communities, and work together with community members to address stigma and harmful misconceptions.",
+      "type": "safety",
+      "terms": [
+        "T242",
+        "T344"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T242 can narrow infectious diseases to communicable diseases; quarantine, isolation and contact tracing remain distinct, and the source's repeated frequency qualifications are retained. Repaired निर्णायक, back-translated as decisive, which strengthens the source's key role of support and information in decisions. bt-divergence remains: frozen T242 सरुवा रोग denotes communicable disease and can narrow infectious diseases; the frozen form is retained. “Communicable diseases” narrows “infectious diseases.” Support and information being “important” weakens their being “key” to decisions. “Comply with restrictions and procedures” is stronger than “cooperate with” them."
+    },
+    {
+      "id": "MAN-29-0041",
+      "page": "90",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "At-risk groups (e.g. older persons, persons with pre-existing MNS conditions, persons with disabilities, women and girls, people on the move, victims of trafficking, refugees, IDPs, migrants) must be considered when planning and implementing outbreak response actions and when adapting ongoing activities (e.g. appropriate targeting of these populations; developing accessible messages).",
+      "ne": "प्रकोप प्रतिकार्यका कार्यहरूको योजना बनाउँदा र तिनको कार्यान्वयन गर्दा तथा चलिरहेका गतिविधिहरूमा आवश्यक परिमार्जन गर्दा जोखिममा रहेका समूहहरूलाई अनिवार्य रूपमा ध्यानमा राख्नुपर्छ (जस्तै, ज्येष्ठ व्यक्तिहरू, पहिलेदेखि नै MNS अवस्थाहरू भएका व्यक्तिहरू, अपाङ्गता भएका व्यक्तिहरू, महिला तथा बालिकाहरू, आवागमनमा रहेका व्यक्तिहरू, मानव बेचबिखनका पीडितहरू, शरणार्थी, IDPs र प्रवासी); उदाहरणका लागि, यी जनसमूहहरूलाई उपयुक्त ढङ्गले लक्षित गर्ने र पहुँचयोग्य सन्देशहरू तयार गर्ने।",
+      "bt": "Groups at risk must necessarily be taken into account when planning and implementing outbreak response actions and when making necessary modifications to ongoing activities (for example, older people, people with pre-existing MNS conditions, people with disabilities, women and girls, people on the move, victims of human trafficking, refugees, IDPs and migrants); for example, preparing messages that appropriately target these populations and are accessible.",
+      "type": "safety",
+      "terms": [
+        "T073",
+        "T074",
+        "T078",
+        "T174",
+        "T269",
+        "T287",
+        "T334"
+      ],
+      "flags": [],
+      "note": "All listed groups are retained separately, including people on the move, refugees, IDPs and migrants, and must remains an explicit obligation."
+    },
+    {
+      "id": "MAN-29-0042",
+      "page": "90",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "There should be at least one person (and where possible two persons, one male and one female) and a system in place to provide and coordinate services for MHPSS in all facilities engaged in the infectious disease outbreak response (health, education, camps, social services and others).85",
+      "ne": "सरुवा रोगको प्रकोपको प्रतिकार्यमा संलग्न सबै सेवास्थलहरूमा (स्वास्थ्य, शिक्षा, शिविर, सामाजिक सेवा र अन्य) MHPSS सेवाहरू प्रदान गर्न र तिनको समन्वय गर्न कम्तीमा एक जना व्यक्ति (र सम्भव भएसम्म दुई जना, एक पुरुष र एक महिला) तथा एउटा प्रणालीको व्यवस्था हुनु उचित हुन्छ।85",
+      "bt": "It is appropriate to arrange for at least one person (and, where possible, two people, one man and one woman) and a system to provide and coordinate MHPSS services at all service sites involved in the response to a communicable disease outbreak (health, education, camps, social services and others).85",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T028",
+        "T174",
+        "T242",
+        "T383"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Frozen T383 denotes a communicable disease outbreak and can narrow infectious disease outbreak; the wording retains a recommendation rather than an explicit must, both a person and a system, and the conditional two-person arrangement. Repaired the obligation strength: the source recommends that provision should exist, whereas the supplied BT states must. The minimum staffing, conditional two-person arrangement, system and facility scope are preserved. bt-divergence remains: frozen T383 सरुवा रोगको प्रकोप denotes a communicable disease outbreak and can narrow infectious disease outbreak; the frozen form is retained. “Communicable disease outbreak” narrows “infectious disease outbreak.” “It is appropriate to arrange for” softens the recommendation that a person and a system “should” be in place."
+    },
+    {
+      "id": "MAN-29-0043",
+      "page": "90",
+      "loc": "table-cell",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "See the additional guidance for using the MHPSS MSP in the public health emergency response to infectious disease outbreaks on the MHPSS MSP web platform, including considerations and actions relevant to each MSP activity.",
+      "ne": "सरुवा रोगको प्रकोपसम्बन्धी जनस्वास्थ्य आपत्कालको प्रतिकार्यमा MHPSS MSP प्रयोग गर्नेबारे थप मार्गदर्शनका लागि MHPSS MSP वेब प्लेटफर्म हेर्नुहोस्; यस मार्गदर्शनमा प्रत्येक MSP गतिविधिसँग सान्दर्भिक विचारणीय पक्षहरू र कार्यहरू समावेश छन्।",
+      "bt": "For further guidance on using the MHPSS MSP in responding to a public health emergency related to an infectious disease outbreak, see the MHPSS MSP web platform; this guidance includes considerations and actions relevant to each MSP activity.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T091",
+        "T163",
+        "T170",
+        "T174",
+        "T189",
+        "T242",
+        "T383"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Frozen T383 denotes a communicable disease outbreak and can narrow infectious disease outbreaks; the guidance remains about response to outbreaks rather than merely activities occurring during them. bt-divergence: Frozen T383 सरुवा रोगको प्रकोप denotes a communicable disease outbreak, which can narrow infectious disease outbreaks. The frozen form is retained; the guidance location, response context and relevance to each MSP activity are preserved."
+    },
+    {
+      "id": "MAN-29-0044",
+      "page": "90",
+      "loc": "footnote",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "83 WHO (2021). COVID-19 Strategic Preparedness and Response Plan (SPRP 2021).",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the supplied bibliographic citation unchanged, including 83, WHO, 2021, COVID-19 and SPRP 2021."
+    },
+    {
+      "id": "MAN-29-0045",
+      "page": "90",
+      "loc": "footnote",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "84 WHO Executive Board, Promoting mental health preparedness and response for public health emergencies. 20 January 2021.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the supplied bibliographic citation unchanged, including 84, WHO Executive Board, the publication title and 20 January 2021."
+    },
+    {
+      "id": "MAN-29-0046",
+      "page": "90",
+      "loc": "footnote",
+      "section": "Section 4 > 4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "en": "85 IASC Reference Group on MHPSS in Emergency Settings (2020). Information Note on Updating Humanitarian and County Response Plans to Include COVID-19 Mental Health and Psychosocial Support (MHPSS) Activities.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the supplied bibliographic citation unchanged, including 85, IASC, MHPSS, 2020 and COVID-19. Preserve County exactly as supplied in the title; do not silently replace it with Country."
+    }
+  ]
+}

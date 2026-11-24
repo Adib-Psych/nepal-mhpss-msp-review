@@ -1,0 +1,2851 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-05",
+  "unit_title": "Overview",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "14-20",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:46:52+05:45",
+  "coverage": {
+    "source_words": 4141,
+    "row_words": 4135,
+    "skipped": [
+      "PDF p.14: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 9",
+      "PDF p.15: running footer/page number removed: 10 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.16: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 11",
+      "PDF p.17: running footer/page number removed: 12 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.18: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 13",
+      "PDF p.19: running footer/page number removed: 14 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.20: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 15"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-05-0001",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Monitor MHPSS-related outputs and outcomes: Where programmes in other areas of work contribute to improving mental health and psychosocial well-being, it can be useful to capture these outputs and outcomes (e.g. number of people with mental health conditions engaged in livelihoods programming; improvements in well-being following a participatory shelter programme).",
+      "ne": "▶ MHPSS-सम्बन्धी प्रतिफल र परिणामहरूको अनुगमन गर्नुहोस्: अन्य कार्यक्षेत्रका कार्यक्रमहरूले मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सुधार ल्याउन योगदान गर्ने अवस्थामा यी प्रतिफल र परिणामहरू अभिलेख गर्नु उपयोगी हुन सक्छ (जस्तै, जीविकोपार्जनसम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनमा संलग्न मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका व्यक्तिहरूको सङ्ख्या; सहभागितामूलक आश्रय कार्यक्रमपछि कल्याणमा भएको सुधार)।",
+      "bt": "▶ Monitor MHPSS-related outputs and outcomes: Where programmes in other areas of work contribute to improving mental health and psychosocial well-being, it may be useful to record these outputs and outcomes (e.g., the number of people with mental health-related conditions involved in formulating and implementing livelihood-related programmes; improvement in well-being after a participatory shelter programme).",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T155",
+        "T157",
+        "T271",
+        "T282",
+        "T300",
+        "T328",
+        "T409",
+        "T476",
+        "T485"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft preserving the conditional usefulness of recording results and the population without adding a functioning-impairment criterion."
+    },
+    {
+      "id": "MAN-05-0002",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Ensure cross-referral mechanisms: This includes mapping of MHPSS services and facilitating the identification and referral of persons with possible mental health conditions by workers from different sectors. This also requires MHPSS workers to identify and refer persons to help meet their different needs (e.g. housing, livelihoods, social services).",
+      "ne": "▶ परस्पर सेवा प्रेषण संयन्त्रहरू सुनिश्चित गर्नुहोस्: यसमा MHPSS सेवाहरूको नक्साङ्कन गर्ने र मानसिक स्वास्थ्यसम्बन्धी अवस्था हुन सक्ने व्यक्तिहरूको पहिचान तथा उनीहरूलाई सम्बन्धित सेवामा पठाउने कार्यमा विभिन्न क्षेत्रका कर्मचारीलाई सहजीकरण गर्ने काम समावेश हुन्छ। यसका लागि MHPSS कर्मचारीले पनि व्यक्तिहरूको पहिचान गरी उनीहरूका विभिन्न आवश्यकता (जस्तै, आवास, जीविकोपार्जन, सामाजिक सेवाहरू) पूरा गर्न सघाउन उनीहरूलाई सम्बन्धित सेवामा पठाउनुपर्छ।",
+      "bt": "▶ Ensure mutual service referral mechanisms: This includes mapping MHPSS services and facilitating staff from various sectors in identifying people who may have mental health-related conditions and referring them to the relevant services. For this, MHPSS staff must also identify people and refer them to the relevant services to help meet their various needs (e.g., housing, livelihoods, social services).",
+      "type": "safety",
+      "terms": [
+        "T064",
+        "T155",
+        "T157",
+        "T172",
+        "T260"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft preserving reciprocal referral, possible rather than established conditions, and the separate referral obligation of MHPSS workers."
+    },
+    {
+      "id": "MAN-05-0003",
+      "page": "14",
+      "loc": "para",
+      "section": "Introduction > Overview",
+      "en": "The following key considerations provide examples of how MHPSS can be integrated into programming across different sectors and areas of work.",
+      "ne": "निम्न मुख्य विचारणीय पक्षहरूले विभिन्न क्षेत्र र कार्यक्षेत्रका कार्यक्रमको तर्जुमा तथा कार्यान्वयनमा MHPSS कसरी एकीकृत गर्न सकिन्छ भन्ने उदाहरणहरू प्रस्तुत गर्छन्।",
+      "bt": "The following key considerations present examples of how MHPSS can be integrated into the design and implementation of programmes in different sectors and areas of work.",
+      "type": "general",
+      "terms": [
+        "T154",
+        "T252",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0004",
+      "page": "14",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key Consideration 1: Integrating MHPSS into health programming",
+      "ne": "मुख्य विचारणीय पक्ष 1: स्वास्थ्यसम्बन्धी कार्यक्रमको तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने",
+      "bt": "Key consideration 1: Integrating MHPSS into the design and implementation of health-related programmes",
+      "type": "check",
+      "terms": [
+        "T027",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0005",
+      "page": "14",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Mental health is an integral part of health. Mental health and physical health are strongly interconnected, with one influencing the other.",
+      "ne": "मानसिक स्वास्थ्य समग्र स्वास्थ्यको अभिन्न अङ्ग हो। मानसिक स्वास्थ्य र शारीरिक स्वास्थ्य एकअर्कासँग गहिरो रूपमा अन्तरसम्बन्धित छन् र एउटाले अर्कोलाई प्रभाव पार्छ।",
+      "bt": "Mental health is an integral part of overall health. Mental health and physical health are deeply interconnected, and each affects the other.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T027"
+      ],
+      "flags": [],
+      "note": "Mental health wording reuses the supplied unreviewed T157 candidate; the remaining statement is a general explanation of the relationship between mental and physical health."
+    },
+    {
+      "id": "MAN-05-0006",
+      "page": "14",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Health actors can integrate MHPSS into programming by:",
+      "ne": "स्वास्थ्य क्षेत्रका सम्बद्ध पक्षहरूले निम्न तरिकाले कार्यक्रमको तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्न सक्छन्।",
+      "bt": "Relevant actors in the health sector can integrate MHPSS into programme design and implementation in the following ways.",
+      "type": "general",
+      "terms": [
+        "T145"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0007",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including MHPSS in health assessments (see MSP activity 1.2).",
+      "ne": "▶ स्वास्थ्यसम्बन्धी लेखाजोखामा MHPSS समावेश गर्ने (MSP गतिविधि 1.2 हेर्नुहोस्)।",
+      "bt": "▶ Include MHPSS in health-related assessments (see MSP activity 1.2).",
+      "type": "check",
+      "terms": [
+        "T027",
+        "T004",
+        "T091"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0008",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Advocating for the provision of health services in ways that are inclusive, person-centered, promote dignity, enhance social support and respect human rights.",
+      "ne": "▶ स्वास्थ्य सेवाहरू समावेशी र व्यक्तिकेन्द्रित हुने, मर्यादा प्रवर्द्धन गर्ने, सामाजिक सहयोग बढाउने र मानव अधिकारको सम्मान गर्ने तरिकाले उपलब्ध गराउन पैरवी गर्ने।",
+      "bt": "▶ Advocate for health services to be provided in ways that are inclusive and person-centred, promote dignity, increase social support and respect human rights.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T239"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposes a recurring nonclinical service-design term for 'person-centred'; the frozen glossary is unchanged."
+    },
+    {
+      "id": "MAN-05-0009",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Advocating for addressing social determinants of mental health, including risks and protective factors.",
+      "ne": "▶ जोखिमका कारक तथा संरक्षणकारी कारकहरूसहित मानसिक स्वास्थ्यका सामाजिक निर्धारकहरूलाई सम्बोधन गर्न पैरवी गर्ने।",
+      "bt": "▶ Advocate for addressing the social determinants of mental health, including risk factors and protective factors.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T283",
+        "T304"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Social determinants, risk factors and protective factors are drafted as general public-health concepts, not diagnostic wording; recurring terminology proposals are provided."
+    },
+    {
+      "id": "MAN-05-0010",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Engaging in advocacy, promotion and prevention together with other sectors and actors to build awareness of mental health, and to end stigma and discrimination.",
+      "ne": "▶ मानसिक स्वास्थ्यबारे सचेतना बढाउन तथा कलङ्क र भेदभाव अन्त्य गर्न अन्य क्षेत्र र सम्बद्ध पक्षहरूसँग मिलेर पैरवी, प्रवर्द्धन र रोकथाममा संलग्न हुने।",
+      "bt": "▶ Engage in advocacy, promotion and prevention together with other sectors and relevant actors to increase awareness of mental health and end stigma and discrimination.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T114",
+        "T191",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0011",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Orienting health workers on basic psychosocial support (see MSP activity 3.2).",
+      "ne": "▶ स्वास्थ्यकर्मीलाई आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्नुहोस् (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "▶ Orient health workers on basic psychosocial support (see MSP activity 3.2).",
+      "type": "safety",
+      "terms": [
+        "T014",
+        "T027",
+        "T091",
+        "T163",
+        "T454"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft treating basic psychosocial support as a general support category rather than a named therapy."
+    },
+    {
+      "id": "MAN-05-0012",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Integrating programs that promote mental health for caregivers, children and adolescents into health services (see MSP activities 3.5 and 3.7).",
+      "ne": "▶ हेरचाहकर्ता, बालबालिका तथा किशोरकिशोरीको मानसिक स्वास्थ्य प्रवर्द्धन गर्ने कार्यक्रमहरूलाई स्वास्थ्य सेवामा एकीकृत गर्ने (MSP गतिविधिहरू 3.5 र 3.7 हेर्नुहोस्)।",
+      "bt": "▶ Integrate programmes that promote the mental health of caregivers, children and adolescents into health services (see MSP activities 3.5 and 3.7).",
+      "type": "check",
+      "terms": [
+        "T006",
+        "T072",
+        "T157",
+        "T027",
+        "T272"
+      ],
+      "flags": [],
+      "note": "The mental health term reuses the supplied unreviewed T157 candidate; this row concerns programme integration rather than a new clinical procedure."
+    },
+    {
+      "id": "MAN-05-0013",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Integrating mental health care into general health care and other health services (see MSP activity 3.10).",
+      "ne": "▶ मानसिक स्वास्थ्य हेरचाहलाई सामान्य स्वास्थ्य हेरचाह र अन्य स्वास्थ्य सेवाहरूमा एकीकृत गर्नुहोस् (MSP गतिविधि 3.10 हेर्नुहोस्)।",
+      "bt": "▶ Integrate mental health care into general health care and other health services (see MSP activity 3.10).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T091",
+        "T157",
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft preserving integration into both general health care and other health services without restricting care to a named treatment."
+    },
+    {
+      "id": "MAN-05-0014",
+      "page": "14",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सम्बन्धित स्रोत सामग्रीहरू हेर्नुहोस्।",
+      "bt": "See the related resource materials on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0015",
+      "page": "14",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key consideration 2: Integrating MHPSS into education programming",
+      "ne": "मुख्य विचारणीय पक्ष 2: शिक्षासम्बन्धी कार्यक्रमको तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने",
+      "bt": "Key consideration 2: Integrating MHPSS into the design and implementation of education-related programmes",
+      "type": "check",
+      "terms": [
+        "T028",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0016",
+      "page": "14",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Education can offer a stable routine and structure, support a sense of normality, promote children’s social and emotional development, play and foster hope. Learning spaces provide opportunities for peer and adult support and can unite the wider community. MHPSS is inherent to this work, helping children, caregivers and education personnel to cope, build resilience and promoting a supportive environment.",
+      "ne": "शिक्षाले स्थिर दिनचर्या र व्यवस्थित ढाँचा उपलब्ध गराउन, सामान्य अवस्था रहेको अनुभूतिलाई टेवा दिन, बालबालिकाको सामाजिक तथा भावनात्मक विकास र खेललाई प्रवर्द्धन गर्न तथा आशा जगाउन सक्छ। सिकाइ स्थलहरूले समवयस्क र वयस्कबाट सहयोग प्राप्त गर्ने अवसर प्रदान गर्छन् र बृहत् समुदायलाई एकताबद्ध बनाउन सक्छन्। MHPSS यस कार्यको अभिन्न अङ्ग हो; यसले बालबालिका, हेरचाहकर्ता तथा शिक्षा क्षेत्रका कर्मचारीलाई कठिनाइको सामना गर्न र कठिनाइमा टिक्न, अनुकूल हुन तथा पुनः सम्हालिन सक्ने क्षमता विकास गर्न मद्दत गर्छ तथा सहयोगी वातावरण प्रवर्द्धन गर्छ।",
+      "bt": "Education can provide a stable routine and an organized structure, support a sense of normality, promote children's social and emotional development and play, and inspire hope. Learning sites provide opportunities to receive support from peers and adults and can unite the wider community. MHPSS is an integral part of this work; it helps children, caregivers and education sector staff to cope with difficulties and to develop the capacity to withstand difficulties, adapt and recover, and promotes a supportive environment.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T071",
+        "T254",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Coping and resilience are expressed descriptively in their ordinary educational sense, without introducing a named clinical intervention or claiming validated clinical terminology. The original renders a stable routine as merely regular and narrows resilience to recovery after difficulties. The revision restores stability and includes withstanding and adapting to difficulties, rather than recovery alone."
+    },
+    {
+      "id": "MAN-05-0017",
+      "page": "14",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Education actors can integrate MHPSS into programming by:",
+      "ne": "शिक्षा क्षेत्रमा कार्यरत पक्षहरूले निम्न तरिकाले कार्यक्रमको तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्न सक्छन्।",
+      "bt": "Actors working in the education sector can integrate MHPSS into programme design and implementation in the following ways.",
+      "type": "general",
+      "terms": [
+        "T130"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0018",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including the mental health and psychosocial well-being of target communities (including children, caregivers and education personnel) in education needs assessments (see MSP activities 1.2 and 2.1).",
+      "ne": "▶ शिक्षासम्बन्धी आवश्यकताको लेखाजोखामा लक्षित समुदायहरूका सदस्यहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण समावेश गर्ने, जसमा बालबालिका, हेरचाहकर्ता तथा शिक्षा क्षेत्रका कर्मचारी पनि पर्छन् (MSP गतिविधिहरू 1.2 र 2.1 हेर्नुहोस्)।",
+      "bt": "▶ Include the mental health and psychosocial well-being of members of the target communities, including children, caregivers and education-sector staff, in assessments of education-related needs (see MSP activities 1.2 and 2.1).",
+      "type": "check",
+      "terms": [
+        "T028",
+        "T068",
+        "T157",
+        "T005",
+        "T071",
+        "T272",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed T157 and T005 candidates."
+    },
+    {
+      "id": "MAN-05-0019",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing and advocating across sectors for the provision of services in ways that promote the dignity of crisis-affected people and are inclusive, participatory, person-centred, and rights-based.",
+      "ne": "▶ सङ्कटबाट प्रभावित व्यक्तिहरूको मर्यादा प्रवर्द्धन गर्ने तथा समावेशी, सहभागितामूलक, व्यक्तिकेन्द्रित र अधिकारमा आधारित तरिकाले सेवाहरू उपलब्ध गराउने र विभिन्न क्षेत्रहरूमा त्यस्ता सेवा उपलब्ध गराउन पैरवी गर्ने।",
+      "bt": "▶ Promote the dignity of people affected by crisis, provide services in inclusive, participatory, person-centred and rights-based ways, and advocate for such services to be provided across different sectors.",
+      "type": "general",
+      "terms": [
+        "T280",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical service-design equivalent for the recurring term 'person-centred'."
+    },
+    {
+      "id": "MAN-05-0020",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Advocating to address social determinants of mental health and psychosocial well-being, including risk and protective factors.",
+      "ne": "▶ जोखिमका कारक तथा संरक्षणकारी कारकहरूसहित मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका सामाजिक निर्धारकहरूलाई सम्बोधन गर्न पैरवी गर्ने।",
+      "bt": "▶ Advocate for addressing the social determinants of mental health and psychosocial well-being, including risk factors and protective factors.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T283",
+        "T304",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses supplied unreviewed candidates for mental health and psychosocial well-being, with proposed general public-health wording for the recurring determinants and factor terms."
+    },
+    {
+      "id": "MAN-05-0021",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Orienting all frontline education staff in basic psychosocial support for children and adults (see MSP activity 3.2).",
+      "ne": "▶ बालबालिका र वयस्कहरूका लागि आधारभूत मनोसामाजिक सहयोगबारे अग्रपङ्क्तिमा कार्यरत सबै शिक्षा क्षेत्रका कर्मचारीलाई अभिमुखीकरण गर्नुहोस् (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "▶ Orient all education-sector staff working on the front line on basic psychosocial support for children and adults (see MSP activity 3.2).",
+      "type": "safety",
+      "terms": [
+        "T014",
+        "T028",
+        "T070",
+        "T091",
+        "T163",
+        "T454"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft retaining all frontline education staff as recipients of orientation and both children and adults as recipients of support."
+    },
+    {
+      "id": "MAN-05-0022",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Incorporating key MHPSS messages into education activities and informational materials (see MSP activity 3.3).",
+      "ne": "▶ शिक्षासम्बन्धी गतिविधि तथा सूचनामूलक सामग्रीहरूमा मुख्य MHPSS सन्देशहरू समावेश गर्ने (MSP गतिविधि 3.3 हेर्नुहोस्)।",
+      "bt": "▶ Include key MHPSS messages in education-related activities and informational materials (see MSP activity 3.3).",
+      "type": "check",
+      "terms": [
+        "T028",
+        "T091"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0023",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing MHPSS services as a part of Education work (see MSP activities 3.4 to 3.8).",
+      "ne": "▶ शिक्षासम्बन्धी कार्यको अङ्गका रूपमा MHPSS सेवाहरू प्रदान गर्ने (MSP गतिविधिहरू 3.4 देखि 3.8 सम्म हेर्नुहोस्)।",
+      "bt": "▶ Provide MHPSS services as part of education-related work (see MSP activities 3.4 to 3.8).",
+      "type": "check",
+      "terms": [
+        "T028",
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0024",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Working closely with actors in child protection, ECD, GBV, health and other areas of work to define roles and responsibilities, avoid duplication, improve the quality of care and ensure MHPSS activities are consistent and mutually-reinforcing.",
+      "ne": "▶ भूमिका तथा जिम्मेवारीहरू निर्धारण गर्न, दोहोरोपनबाट बच्न, हेरचाहको गुणस्तर सुधार गर्न र MHPSS गतिविधिहरू एकरूप तथा एकअर्कालाई सुदृढ बनाउने किसिमका छन् भन्ने सुनिश्चित गर्न बाल संरक्षण, ECD, GBV, स्वास्थ्य तथा अन्य कार्यक्षेत्रका सम्बद्ध पक्षहरूसँग निकट सहकार्य गर्ने।",
+      "bt": "▶ Work closely with relevant actors in child protection, ECD, GBV, health and other areas of work to define roles and responsibilities, avoid duplication, improve the quality of care and ensure that MHPSS activities are consistent and mutually reinforcing.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T027",
+        "T114",
+        "T158",
+        "T360"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0025",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Establishing joint referral pathways and SOPs for the referral of children and adults, including facilitating access to the full range of MHPSS activities and services as needed.",
+      "ne": "▶ बालबालिका र वयस्कलाई सम्बन्धित सेवामा पठाउनका लागि संयुक्त सेवा प्रेषण मार्गहरू तथा SOPs स्थापना गर्ने, जसमा आवश्यकताअनुसार सम्पूर्ण MHPSS गतिविधिहरू तथा सेवामा पहुँच सहज बनाउने कार्य पनि समावेश हुन्छ।",
+      "bt": "▶ Establish joint service referral pathways and SOPs for referring children and adults to relevant services, including facilitating access to the full range of MHPSS activities and services as needed.",
+      "type": "safety",
+      "terms": [
+        "T063",
+        "T158"
+      ],
+      "flags": [],
+      "note": "General referral-system guidance drafted for review; this is not a consent declaration or a validated safeguarding protocol."
+    },
+    {
+      "id": "MAN-05-0026",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Ensuring that education activities are accessible and meet the needs of people with mental health conditions.",
+      "ne": "▶ शिक्षासम्बन्धी गतिविधिहरू पहुँचयोग्य छन् र मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका व्यक्तिहरूका आवश्यकता पूरा गर्छन् भन्ने सुनिश्चित गर्नुहोस्।",
+      "bt": "▶ Ensure that education-related activities are accessible and meet the needs of people with mental health-related conditions.",
+      "type": "safety",
+      "terms": [
+        "T028",
+        "T078",
+        "T157",
+        "T476"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft preserving both accessibility and meeting needs without adding a functioning-impairment criterion to the population."
+    },
+    {
+      "id": "MAN-05-0027",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Monitoring MHPSS-related outputs and outcomes (e.g. improvements in knowledge, attitudes and skills of education personnel participating in MHPSS orientations and trainings; improvements in subjective well-being among children following participation in structured group activities).",
+      "ne": "▶ MHPSS-सम्बन्धी प्रतिफल र परिणामहरूको अनुगमन गर्नुहोस् (जस्तै, MHPSS अभिमुखीकरण र तालिमहरूमा सहभागी शिक्षा क्षेत्रका कर्मचारीको ज्ञान, दृष्टिकोण र सीपमा भएको सुधार; संरचित सामूहिक गतिविधिहरूमा सहभागितापछि बालबालिकामा व्यक्तिले अनुभूत गर्ने सुस्वास्थ्यमा भएको सुधार)।",
+      "bt": "▶ Monitor MHPSS-related outputs and outcomes (e.g., improvement in the knowledge, attitudes and skills of education-sector staff who participate in MHPSS orientations and trainings; improvement in well-being experienced by the individual among children after participation in structured group activities).",
+      "type": "safety",
+      "terms": [
+        "T014",
+        "T070",
+        "T080",
+        "T271",
+        "T485",
+        "T514"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft retaining subjective well-being as distinct from psychosocial well-being and preserving both monitoring examples."
+    },
+    {
+      "id": "MAN-05-0028",
+      "page": "15",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सम्बन्धित स्रोत सामग्रीहरू हेर्नुहोस्।",
+      "bt": "See the related resource materials on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0029",
+      "page": "15",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key consideration 3: Integrating MHPSS into protection programming",
+      "ne": "मुख्य विचारणीय पक्ष 3: संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने",
+      "bt": "Key consideration 3: Integrating MHPSS into protection programme design and implementation",
+      "type": "check",
+      "terms": [
+        "T169",
+        "T252",
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0030",
+      "page": "15",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Protection programming in humanitarian crises contributes to the centrality of protection in humanitarian action. It supports understanding, respect for and access to rights of affected people in line with humanitarian principles and in accordance with relevant bodies of international human rights and humanitarian law. In practice, it involves a series of activities and services aimed at analyzing and monitoring protection risks, needs, vulnerabilities and capacities of individuals to address those needs; at preventing and mitigating exposure to protection risks and violations; at supporting affected people to claim their rights, access available remedies, and recover from the effects of violence, coercion, discrimination, and abuse. Protection programming includes integrating age, gender, and diversity4 considerations and applying a community-based approach, providing specialized protection services; integrating protection activities into the programming of other sector-specific responses; and supporting the mainstreaming of protection throughout the humanitarian response.",
+      "ne": "मानवीय सङ्कटका बेला गरिने संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयनले मानवीय कार्यमा संरक्षणलाई केन्द्रमा राख्न योगदान पुर्‍याउँछ। यसले मानवीय सिद्धान्तअनुरूप तथा अन्तर्राष्ट्रिय मानव अधिकार र मानवीय कानुनका सम्बन्धित प्रावधानअनुसार प्रभावित व्यक्तिहरूका अधिकारबारे बुझाइ, ती अधिकारको सम्मान र तिनमा पहुँचलाई सहयोग गर्छ। व्यवहारमा, यसअन्तर्गत संरक्षणसम्बन्धी जोखिम, आवश्यकता, जोखिममा पर्ने अवस्था र ती आवश्यकता सम्बोधन गर्ने व्यक्तिहरूको क्षमताको विश्लेषण तथा अनुगमन गर्ने; संरक्षणसम्बन्धी जोखिम र अधिकार उल्लङ्घनमा पर्ने अवस्था रोक्ने तथा घटाउने; र प्रभावित व्यक्तिहरूलाई आफ्ना अधिकार दाबी गर्न, उपलब्ध उपचारात्मक उपायमा पहुँच प्राप्त गर्न तथा हिंसा, जबरजस्ती, भेदभाव र दुर्व्यवहारका असरबाट सम्हालिन सहयोग गर्ने उद्देश्यका विभिन्न गतिविधि र सेवा पर्छन्। संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयनमा उमेर, लैङ्गिकता र विविधता4 सम्बन्धी विचारणीय पक्ष समेट्ने तथा समुदायमा आधारित पद्धति अपनाउने, विशिष्टीकृत संरक्षण सेवा प्रदान गर्ने, अन्य क्षेत्रगत प्रतिकार्यका कार्यक्रम तर्जुमा तथा कार्यान्वयनमा संरक्षण गतिविधि एकीकृत गर्ने र समग्र मानवीय प्रतिकार्यमा संरक्षणलाई मूलप्रवाहीकरण गर्न सहयोग गर्ने कार्य समावेश हुन्छन्।",
+      "bt": "The design and implementation of protection programmes during humanitarian crises contributes to placing protection at the centre of humanitarian action. It supports understanding of, respect for and access to the rights of affected people in accordance with humanitarian principles and the relevant provisions of international human rights and humanitarian law. In practice, this includes various activities and services aimed at analysing and monitoring protection risks, needs, situations of being at risk and people's capacities to address those needs; preventing and reducing protection risks and exposure to rights violations; and helping affected people claim their rights, access available remedies and recover from the effects of violence, coercion, discrimination and abuse. The design and implementation of protection programmes includes incorporating considerations relating to age, gender and diversity4 and adopting community-based approaches, providing specialised protection services, integrating protection activities into the design and implementation of other sectoral response programmes, and supporting the mainstreaming of protection throughout the humanitarian response.",
+      "type": "safety",
+      "terms": [
+        "T169",
+        "T029",
+        "T174",
+        "T003",
+        "T233",
+        "T239",
+        "T271",
+        "T282",
+        "T296",
+        "T344"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "General protection guidance drafted for review; not a verbatim safeguarding declaration. The footnote marker 4 remains attached to diversity. 'Return to a normal state' adds a normality endpoint absent from 'recover from the effects.' Revised that phrase without adding a clinical term. The source targets preventing and mitigating exposure to protection risks and violations, whereas the back-translation targets preventing and reducing protection risks themselves alongside exposure to rights violations."
+    },
+    {
+      "id": "MAN-05-0031",
+      "page": "15",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Incorporating MHPSS aspects effectively into protection programming and activities helps to mitigate immediate and long-term risks to the dignity, mental health, and psychosocial well-being of affected people.",
+      "ne": "संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयन र गतिविधिहरूमा MHPSS सम्बन्धी पक्ष प्रभावकारी रूपमा समावेश गर्दा प्रभावित व्यक्तिहरूको मर्यादा, मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा पर्ने तत्कालीन तथा दीर्घकालीन जोखिम घटाउन मद्दत पुग्छ।",
+      "bt": "Effectively including MHPSS-related aspects in the planning and implementation of protection programmes and in activities helps reduce immediate and long-term risks to affected people's dignity, mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T169",
+        "T157",
+        "T005",
+        "T282",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The psychosocial well-being wording reuses the supplied unreviewed T005 candidate."
+    },
+    {
+      "id": "MAN-05-0032",
+      "page": "15",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Protection actors can integrate MHPSS into programming by:",
+      "ne": "संरक्षण क्षेत्रमा कार्यरत पक्षहरूले निम्न तरिकाबाट कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्न सक्छन्:",
+      "bt": "Actors working in the protection sector can integrate MHPSS into programme planning and implementation in the following ways:",
+      "type": "general",
+      "terms": [
+        "T168",
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0033",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Ensuring that protection activities and services are accessible to and consider the specific needs of people with mental health conditions.",
+      "ne": "▶ संरक्षणसम्बन्धी गतिविधि र सेवाहरू मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका व्यक्तिहरूका लागि पहुँचयोग्य छन् र तिनले यी व्यक्तिहरूका विशिष्ट आवश्यकतालाई ध्यानमा राख्छन् भन्ने सुनिश्चित गर्नुहोस्।",
+      "bt": "▶ Ensure that protection-related activities and services are accessible to people with mental health-related conditions and that they take into account the specific needs of these people.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T078",
+        "T157",
+        "T476"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft preserving accessibility and consideration of specific needs without narrowing the population by impairment."
+    },
+    {
+      "id": "MAN-05-0034",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including basic references to the mental health and psychosocial well-being needs of affected population in protection needs assessments and protection monitoring (see MSP activities 1.2 and 2.1).",
+      "ne": "▶ संरक्षणसम्बन्धी आवश्यकताको लेखाजोखा र संरक्षण अनुगमनमा प्रभावित जनसङ्ख्याको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणसम्बन्धी आवश्यकताका आधारभूत उल्लेख समावेश गर्ने (MSP गतिविधिहरू 1.2 र 2.1 हेर्नुहोस्)।",
+      "bt": "▶ Include basic references to the mental health and psychosocial well-being needs of the affected population in protection needs assessments and protection monitoring (see MSP activities 1.2 and 2.1).",
+      "type": "check",
+      "terms": [
+        "T068",
+        "T029",
+        "T157",
+        "T005",
+        "T091",
+        "T271",
+        "T272",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The assessment reference retains both activity codes; psychosocial well-being uses the supplied unreviewed candidate."
+    },
+    {
+      "id": "MAN-05-0035",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Incorporating key MHPSS messages into information materials and in communications with communities during all phases of humanitarian action (see MSP activity 3.3).",
+      "ne": "▶ मानवीय कार्यका सबै चरणमा सूचना सामग्री र समुदायसँग गरिने सञ्चारमा मुख्य MHPSS सन्देशहरू समावेश गर्ने (MSP गतिविधि 3.3 हेर्नुहोस्)।",
+      "bt": "▶ Include key MHPSS messages in information materials and communication with communities at all stages of humanitarian action (see MSP activity 3.3).",
+      "type": "check",
+      "terms": [
+        "T091"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0036",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including MHPSS service providers in protection service mapping to support information sharing and referrals.",
+      "ne": "▶ सूचना आदानप्रदान र सम्बन्धित सेवामा पठाउने कार्यमा सहयोग गर्न संरक्षण सेवाहरूको नक्साङ्कनमा MHPSS सेवा प्रदायकहरूलाई समावेश गर्ने।",
+      "bt": "▶ Include MHPSS service providers in the mapping of protection services to support information exchange and referral to relevant services.",
+      "type": "safety",
+      "terms": [
+        "T067",
+        "T172",
+        "T029",
+        "T260"
+      ],
+      "flags": [],
+      "note": "Service mapping and referral guidance is drafted for safety review; it does not add authorization to disclose information or transfer individuals."
+    },
+    {
+      "id": "MAN-05-0037",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Establishing joint referral pathways between protection and MHPSS actors to facilitate access to the full range of MHPSS activities and services by individuals in need.",
+      "ne": "▶ आवश्यकतामा रहेका व्यक्तिहरूलाई उपलब्ध सबै प्रकारका MHPSS गतिविधिहरू र सेवामा पहुँच सहज बनाउन संरक्षण क्षेत्रमा कार्यरत पक्षहरू र MHPSS क्षेत्रमा कार्यरत पक्षहरूबीच संयुक्त सेवा प्रेषण मार्गहरू स्थापना गर्ने।",
+      "bt": "▶ Establish joint service referral pathways between actors working in the protection sector and actors working in the MHPSS sector to facilitate access for people in need to all types of available MHPSS activities and services.",
+      "type": "safety",
+      "terms": [
+        "T158",
+        "T168",
+        "T063"
+      ],
+      "flags": [],
+      "note": "Joint referral-pathway guidance is drafted for safety review; access is facilitated rather than presented as automatic transfer."
+    },
+    {
+      "id": "MAN-05-0038",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Orienting all frontline protection staff in basic psychosocial support for girls, boys, women and men, and other individuals with diverse characteristics (see MSP activity 3.2).",
+      "ne": "▶ संरक्षण क्षेत्रमा कार्यरत सबै अग्रपंक्तिका कर्मचारीलाई बालिका, बालक, महिला र पुरुष तथा विविध विशेषता भएका अन्य व्यक्तिहरूका लागि आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्ने (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "▶ Orient all frontline staff working in the protection sector on basic psychosocial support for girls, boys, women and men and other people with diverse characteristics (see MSP activity 3.2).",
+      "type": "check",
+      "terms": [
+        "T029",
+        "T014",
+        "T091",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Basic psychosocial support reuses wording from the supplied unreviewed activity 3.2 candidate. Frontline staff is a recurring operational term proposed separately."
+    },
+    {
+      "id": "MAN-05-0039",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Training case managers on relevant MHPSS topics (see MSP activity 3.13 and the recommended MHPSS training topics for case managers).",
+      "ne": "▶ केस व्यवस्थापकहरूलाई सान्दर्भिक MHPSS विषयमा तालिम दिने (MSP गतिविधि 3.13 र केस व्यवस्थापकहरूका लागि सिफारिस गरिएका MHPSS तालिमका विषयहरू हेर्नुहोस्)।",
+      "bt": "▶ Train case managers on relevant MHPSS topics (see MSP activity 3.13 and the recommended MHPSS training topics for case managers).",
+      "type": "check",
+      "terms": [
+        "T119",
+        "T091",
+        "T088"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0040",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Advocating with duty bearers for non-discrimination, access to social services and equal enjoyment of basic human rights by people with mental health conditions and psychosocial problems.",
+      "ne": "▶ मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका र मनोसामाजिक समस्याहरू भएका व्यक्तिहरूका लागि भेदभाव नहुने व्यवस्था, सामाजिक सेवाहरूमा पहुँच र आधारभूत मानव अधिकारको समान उपभोग सुनिश्चित गर्न दायित्व भएका पक्षहरूसँग पैरवी गर्नुहोस्।",
+      "bt": "▶ Advocate with parties who have obligations to ensure arrangements without discrimination, access to social services and equal enjoyment of basic human rights for people with mental health-related conditions and psychosocial problems.",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T239",
+        "T476",
+        "T498"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft preserving advocacy with duty bearers and both population descriptors without adding a functioning-impairment criterion."
+    },
+    {
+      "id": "MAN-05-0041",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Advocating to address social factors influencing mental health and psychosocial well-being amongst affected populations (e.g. mitigating risk factors, promoting protective factors.",
+      "ne": "▶ प्रभावित जनसङ्ख्याको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा प्रभाव पार्ने सामाजिक कारक सम्बोधन गर्न पैरवी गर्ने (उदाहरणका लागि, जोखिम बढाउने कारक घटाउने र संरक्षणकारी कारक प्रवर्द्धन गर्ने)।",
+      "bt": "▶ Advocate to address social factors that affect the mental health and psychosocial well-being of the affected population (for example, reducing factors that increase risk and promoting protective factors).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing",
+        "unclear-english"
+      ],
+      "note": "The source opens but does not close the example parenthesis; the draft closes it without adding an example. Advocacy, risk factors and protective factors are recurring terms proposed for glossary review."
+    },
+    {
+      "id": "MAN-05-0042",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Contributing to monitor overall MHPSS-related outcomes (e.g. improvements in subjective well-being, functioning, coping, and/or social connectedness following participation in protection activities).",
+      "ne": "▶ समग्र MHPSS-सम्बन्धी परिणामहरूको अनुगमनमा योगदान गर्नुहोस् (जस्तै, संरक्षणसम्बन्धी गतिविधिहरूमा सहभागितापछि व्यक्तिले अनुभूत गर्ने सुस्वास्थ्य, कार्यशीलता, परिस्थितिको सामना गर्ने क्षमता र/वा सामाजिक आबद्धतामा भएको सुधार)।",
+      "bt": "▶ Contribute to monitoring overall MHPSS-related outcomes (e.g., improvement in well-being experienced by the individual, functioning, ability to cope with circumstances and/or social connectedness after participation in protection-related activities).",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T271",
+        "T274",
+        "T514"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft preserving contribution rather than sole responsibility for monitoring and retaining the source's and/or relationship between outcome examples."
+    },
+    {
+      "id": "MAN-05-0043",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Reinforcing joint advocacy between protection and MHPSS across sectors to consider MHPSS as a cross-cutting issue in the humanitarian response, and for the provision of services in ways that promote dignity are inclusive, community-based, participatory, people-centred, and rights-based (see MSP activity 3.1).",
+      "ne": "▶ मानवीय प्रतिकार्यमा MHPSS लाई सबै क्षेत्रमा समेटिने विषयका रूपमा विचार गर्न तथा मर्यादा प्रवर्द्धन गर्ने, समावेशी, समुदायमा आधारित, सहभागितामूलक, व्यक्तिकेन्द्रित र अधिकारमा आधारित तरिकाले सेवा प्रदान गर्न क्षेत्रहरूमा संरक्षण र MHPSS बीचको संयुक्त पैरवी सुदृढ गर्ने (MSP गतिविधि 3.1 हेर्नुहोस्)।",
+      "bt": "▶ Strengthen joint advocacy between protection and MHPSS across sectors to consider MHPSS as a topic to be included in all sectors in the humanitarian response and to provide services in ways that promote dignity and are inclusive, community-based, participatory, person-centred and rights-based (see MSP activity 3.1).",
+      "type": "check",
+      "terms": [
+        "T003",
+        "T029",
+        "T091",
+        "T191",
+        "T296",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing",
+        "unclear-english"
+      ],
+      "note": "The source lacks a connector after 'promote dignity'; the draft treats the following descriptors as parallel requirements for service provision. Advocacy is proposed as a recurring glossary term. The draft makes protection and MHPSS the topics of advocacy rather than the two sides undertaking joint advocacy. Revised to retain 'between protection and MHPSS' and removed the added necessity in the rendering of 'cross-cutting.' The missing source connector after 'dignity' remains pending source review; the parallel-descriptor reading is not validated."
+    },
+    {
+      "id": "MAN-05-0044",
+      "page": "15",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform. See also key considerations 4, 5 and 6.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सान्दर्भिक स्रोत सामग्री हेर्नुहोस्। मुख्य विचारणीय पक्षहरू 4, 5 र 6 पनि हेर्नुहोस्।",
+      "bt": "See relevant resource materials on the MHPSS MSP web platform. Also see key considerations 4, 5 and 6.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T189",
+        "T154",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0045",
+      "page": "15",
+      "loc": "footnote",
+      "section": "Introduction > Overview",
+      "en": "4 Diversity refers to differences in values, attitudes, cultural perspectives, beliefs, ethnic background, nationality, sexual orientation, gender identity, health, social status, impairments, and other specific personal characteristics (as defined in the 2019 IASC Guidelines on the Inclusion of Persons with Disabilities in Humanitarian Action).",
+      "ne": "4 विविधता भन्नाले मूल्य, दृष्टिकोण, सांस्कृतिक परिप्रेक्ष्य, विश्वास, जातीय पृष्ठभूमि, राष्ट्रियता, यौन अभिमुखता, लैङ्गिक पहिचान, स्वास्थ्य, सामाजिक हैसियत, अङ्ग वा कार्यक्षमतामा भएका कमी र अन्य विशिष्ट व्यक्तिगत विशेषतामा रहेका भिन्नतालाई जनाउँछ (मानवीय कार्यमा अपाङ्गता भएका व्यक्तिहरूको समावेशितासम्बन्धी 2019 IASC निर्देशिकाहरूमा परिभाषित गरिएअनुसार)।",
+      "bt": "4 Diversity refers to differences in values, attitudes, cultural perspectives, beliefs, ethnic backgrounds, nationalities, sexual orientations, gender identities, health, social status, impairments of body parts or functioning and other specific personal characteristics (as defined in the 2019 IASC guidelines on the inclusion of persons with disabilities in humanitarian action).",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T073",
+        "T086",
+        "T233"
+      ],
+      "flags": [],
+      "note": "Reclassified as an ordinary diversity definition rather than an instruction. The cited guideline title is a descriptive draft rendering, not an asserted official Nepali title."
+    },
+    {
+      "id": "MAN-05-0046",
+      "page": "16",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key consideration 4: Integrating MHPSS into child protection programming",
+      "ne": "मुख्य विचारणीय पक्ष 4: बाल संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने",
+      "bt": "Key consideration 4: Integrating MHPSS into the planning and implementation of child protection programmes",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T169",
+        "T252",
+        "T282"
+      ],
+      "flags": [],
+      "note": "Reclassified as a heading. The singular heading form corresponds to the supplied plural key-considerations candidate and remains unreviewed."
+    },
+    {
+      "id": "MAN-05-0047",
+      "page": "16",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Child protection is the prevention of and response to abuse, neglect, exploitation, and violence against children. MHPSS is inherent to this work, helping children to cope, recover, and build resilience in the face of adversity.",
+      "ne": "बाल संरक्षण भनेको बालबालिकाविरुद्ध हुने दुर्व्यवहार, उपेक्षा, शोषण र हिंसाको रोकथाम तथा प्रतिकार्य हो। MHPSS यस कार्यको अभिन्न अङ्ग हो, जसले बालबालिकालाई प्रतिकूलताको सामना गर्न, त्यसका असरबाट सम्हालिन र प्रतिकूलता सहन तथा त्यसबाट पुनः सम्हालिन सक्ने क्षमता विकास गर्न मद्दत गर्छ।",
+      "bt": "Child protection is the prevention of and response to abuse, neglect, exploitation and violence against children. MHPSS is an integral part of this work, helping children face adversity, recover from its effects and develop the capacity to withstand adversity and recover from it again.",
+      "type": "safety",
+      "terms": [
+        "T036",
+        "T174"
+      ],
+      "flags": [],
+      "note": "General child-protection explanation drafted for safety review. Coping, recovery and resilience are expressed here as ordinary capacities, not diagnoses or validated outcome items. 'Return to a normal state' adds an endpoint absent from 'recover.' Replaced it with ordinary recovery wording while retaining coping and resilience as distinct capacities."
+    },
+    {
+      "id": "MAN-05-0048",
+      "page": "16",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Child protection actors can integrate MHPSS into programming by:",
+      "ne": "बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरूले निम्न तरिकाबाट कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्न सक्छन्:",
+      "bt": "Actors working in the child protection sector can integrate MHPSS into programme planning and implementation in the following ways:",
+      "type": "general",
+      "terms": [
+        "T122",
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0049",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including the mental health and psychosocial well-being of boys and girls of different ages in child protection needs assessments (see MSP activities 1.2 and 2.1).",
+      "ne": "▶ बाल संरक्षणसम्बन्धी आवश्यकताको लेखाजोखामा विभिन्न उमेरका बालक र बालिकाको मानसिक स्वास्थ्य र मनोसामाजिक कल्याण समावेश गर्ने (MSP गतिविधिहरू 1.2 र 2.1 हेर्नुहोस्)।",
+      "bt": "▶ Include the mental health and psychosocial well-being of boys and girls of different ages in child protection needs assessments (see MSP activities 1.2 and 2.1).",
+      "type": "check",
+      "terms": [
+        "T036",
+        "T068",
+        "T157",
+        "T005",
+        "T091",
+        "T272",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Both boys and girls and their differing ages are retained; psychosocial well-being reuses the supplied unreviewed candidate."
+    },
+    {
+      "id": "MAN-05-0050",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing and advocating across sectors for the provision of services in ways that are inclusive, participatory, child-centred, rights-based, and promote the dignity of children and adolescents.",
+      "ne": "▶ समावेशी, सहभागितामूलक, बालकेन्द्रित र अधिकारमा आधारित तथा बालबालिका तथा किशोरकिशोरीको मर्यादा प्रवर्द्धन गर्ने तरिकाले सेवा प्रदान गर्ने र यसरी सेवा प्रदान गर्न सबै क्षेत्रमा पैरवी गर्ने।",
+      "bt": "▶ Provide services in a way that is inclusive, participatory, child-centred and rights-based and promotes the dignity of children and adolescents, and advocate across all sectors for services to be provided in this way.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Both direct service provision and cross-sector advocacy are retained. Advocacy is proposed as a recurring glossary term."
+    },
+    {
+      "id": "MAN-05-0051",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Advocating to address social determinants of mental health and psychosocial wellbeing among children, adolescents, and caregivers, including risk and protective factors.",
+      "ne": "▶ बालबालिका तथा किशोरकिशोरी र हेरचाहकर्ताको मानसिक स्वास्थ्य र मनोसामाजिक कल्याण निर्धारण गर्ने सामाजिक कारकहरू, जसमा जोखिम बढाउने र संरक्षणकारी कारक पनि पर्छन्, सम्बोधन गर्न पैरवी गर्ने।",
+      "bt": "▶ Advocate to address the social factors that determine the mental health and psychosocial well-being of children and adolescents and caregivers, including factors that increase risk and protective factors.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T006",
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Social determinants are rendered descriptively without adding clinical terminology. Advocacy, risk factors and protective factors are recurring terms proposed for glossary review."
+    },
+    {
+      "id": "MAN-05-0052",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Orienting all frontline child protection staff in basic psychosocial support for children and adults (see MSP activity 3.2).",
+      "ne": "▶ बाल संरक्षण क्षेत्रमा कार्यरत सबै अग्रपंक्तिका कर्मचारीलाई बालबालिका र वयस्कका लागि आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्ने (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "▶ Orient all frontline staff working in the child protection sector on basic psychosocial support for children and adults (see MSP activity 3.2).",
+      "type": "check",
+      "terms": [
+        "T036",
+        "T014",
+        "T091",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Basic psychosocial support reuses the supplied unreviewed activity 3.2 wording. The instruction retains adults as well as children; frontline staff is proposed separately."
+    },
+    {
+      "id": "MAN-05-0053",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Training child protection case managers on relevant MHPSS topics (see MSP activity 3.13 and the recommended MHPSS training topics for case managers).",
+      "ne": "▶ बाल संरक्षणका केस व्यवस्थापकहरूलाई सान्दर्भिक MHPSS विषयमा तालिम दिने (MSP गतिविधि 3.13 र केस व्यवस्थापकहरूका लागि सिफारिस गरिएका MHPSS तालिमका विषयहरू हेर्नुहोस्)।",
+      "bt": "▶ Train child protection case managers on relevant MHPSS topics (see MSP activity 3.13 and the recommended MHPSS training topics for case managers).",
+      "type": "check",
+      "terms": [
+        "T036",
+        "T119",
+        "T091",
+        "T088"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0054",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Incorporating key MHPSS messages for children, adolescents, and caregivers (see MSP activity 3.3) into child protection activities and informational materials.",
+      "ne": "▶ बालबालिका तथा किशोरकिशोरी र हेरचाहकर्ताका लागि मुख्य MHPSS सन्देशहरू (MSP गतिविधि 3.3 हेर्नुहोस्) बाल संरक्षण गतिविधि र सूचनामूलक सामग्रीमा समावेश गर्ने।",
+      "bt": "▶ Include key MHPSS messages for children and adolescents and caregivers (see MSP activity 3.3) in child protection activities and informational materials.",
+      "type": "check",
+      "terms": [
+        "T072",
+        "T006",
+        "T091",
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0055",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing MHPSS services for children and caregivers as a part of child protection work (see MSP activities 3.4 to 3.8, 3.12 to 3.14, and 4.2).",
+      "ne": "▶ बाल संरक्षण कार्यको अङ्गका रूपमा बालबालिका र हेरचाहकर्ताका लागि MHPSS सेवा प्रदान गर्ने (MSP गतिविधिहरू 3.4 देखि 3.8, 3.12 देखि 3.14, र 4.2 हेर्नुहोस्)।",
+      "bt": "▶ Provide MHPSS services for children and caregivers as part of child protection work (see MSP activities 3.4 to 3.8, 3.12 to 3.14, and 4.2).",
+      "type": "check",
+      "terms": [
+        "T036",
+        "T006",
+        "T091",
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0056",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Working closely with actors in education, ECD, GBV, health and other areas of work to ensure MHPSS activities for children, adolescents and caregivers are consistent and mutually-reinforcing.",
+      "ne": "▶ बालबालिका तथा किशोरकिशोरी र हेरचाहकर्ताका लागि सञ्चालन गरिने MHPSS गतिविधिहरू सुसङ्गत र एकअर्कालाई सुदृढ बनाउने खालका छन् भन्ने सुनिश्चित गर्न शिक्षा, ECD, GBV, स्वास्थ्य तथा कार्यका अन्य क्षेत्रका सम्बद्ध पक्षहरूसँग निकट सहकार्य गर्ने।",
+      "bt": "▶ Work closely with relevant actors in education, ECD, GBV, health and other areas of work to ensure that MHPSS activities conducted for children and adolescents and caregivers are consistent and mutually reinforcing.",
+      "type": "general",
+      "terms": [
+        "T072",
+        "T006",
+        "T158",
+        "T028",
+        "T027",
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0057",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Establishing joint referral pathways and SOPs for the referral of children, adolescents, and caregivers to needed services, including facilitating access to the full range of child-friendly MHPSS activities and services as needed.",
+      "ne": "▶ बालबालिका तथा किशोरकिशोरी र हेरचाहकर्तालाई आवश्यक सेवामा पठाउन संयुक्त सेवा प्रेषण मार्गहरू तथा मानक कार्यसञ्चालन प्रक्रियाहरू (SOPs) स्थापना गर्ने; यसमा आवश्यकताअनुसार बालमैत्री MHPSS गतिविधिहरू र सेवाहरूको सम्पूर्ण दायरामा पहुँच सहज बनाउने कार्य पनि समावेश गर्ने।",
+      "bt": "▶ Establish joint service referral pathways and standard operating procedures (SOPs) to refer children and adolescents and caregivers to necessary services; include in this the facilitation of access to the full range of child-friendly MHPSS activities and services as needed.",
+      "type": "safety",
+      "terms": [
+        "T072",
+        "T006",
+        "T063",
+        "T158"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General referral-safety guidance drafted; review pending. SOPs recurs without a glossary entry; proposed wording is listed separately."
+    },
+    {
+      "id": "MAN-05-0058",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Ensuring that child protection activities are accessible and meet the needs of children and adolescents with mental health conditions.",
+      "ne": "▶ बाल संरक्षणसम्बन्धी गतिविधिहरू पहुँचयोग्य छन् र मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका बालबालिका तथा किशोरकिशोरीका आवश्यकता पूरा गर्छन् भन्ने सुनिश्चित गर्नुहोस्।",
+      "bt": "▶ Ensure that child protection-related activities are accessible and meet the needs of children and adolescents with mental health-related conditions.",
+      "type": "safety",
+      "terms": [
+        "T036",
+        "T072",
+        "T078",
+        "T157",
+        "T476"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft preserving children and adolescents as the population and retaining both accessibility and meeting their needs."
+    },
+    {
+      "id": "MAN-05-0059",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Monitoring MHPSS-related outputs and outcomes (e.g. improvements in knowledge, attitudes and skills of caregivers participating in MHPSS orientations and trainings; improvements in subjective well-being among children and adolescents following participation in structured group activities).",
+      "ne": "▶ MHPSS-सम्बन्धी प्रतिफल र परिणामहरूको अनुगमन गर्नुहोस् (जस्तै, MHPSS अभिमुखीकरण र तालिमहरूमा सहभागी हेरचाहकर्ताको ज्ञान, दृष्टिकोण र सीपमा भएको सुधार; संरचित सामूहिक गतिविधिहरूमा सहभागितापछि बालबालिका तथा किशोरकिशोरीमा व्यक्तिले अनुभूत गर्ने सुस्वास्थ्यमा भएको सुधार)।",
+      "bt": "▶ Monitor MHPSS-related outputs and outcomes (e.g., improvement in the knowledge, attitudes and skills of caregivers who participate in MHPSS orientations and trainings; improvement in well-being experienced by the individual among children and adolescents after participation in structured group activities).",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T014",
+        "T072",
+        "T080",
+        "T271",
+        "T485",
+        "T514"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft retaining caregivers in the first example and children and adolescents in the second, with subjective well-being kept distinct from psychosocial well-being."
+    },
+    {
+      "id": "MAN-05-0060",
+      "page": "16",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सम्बन्धित स्रोतसामग्री हेर्नुहोस्।",
+      "bt": "See the relevant resource materials on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189",
+        "T416"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0061",
+      "page": "16",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key consideration 5: Integrating MHPSS into GBV programming",
+      "ne": "मुख्य विचारणीय पक्षहरू 5: GBV कार्यक्रमहरूमा MHPSS एकीकरण",
+      "bt": "Key considerations 5: Integration of MHPSS into GBV programmes",
+      "type": "check",
+      "terms": [
+        "T154",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0062",
+      "page": "16",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "GBV programming focuses on prevention of and response to Gender-Based Violence. GBV disproportionately affects women and girls, though, men and boys can also experience sexual violence and abuse. MHPSS is an essential component of GBV programming. While survivors’ experiences vary, the impacts of GBV on mental health and psychosocial well-being can have extensive consequences for individuals, families, and communities. Addressing the mental health and psychosocial needs of survivors and those at risk of GBV, as well as preventing violence, is critical to promoting gender equality, resilience and recovery.",
+      "ne": "GBV सम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयन लैङ्गिक हिंसाको रोकथाम र त्यसप्रतिको प्रतिकार्यमा केन्द्रित हुन्छ। GBV ले महिला र बालिकाहरूलाई अनुपातहीन रूपमा बढी असर गर्छ, यद्यपि पुरुष र बालकहरूले पनि यौन हिंसा र दुर्व्यवहार भोग्न सक्छन्। MHPSS, GBV सम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनको अत्यावश्यक घटक हो। प्रभावित व्यक्तिहरूका अनुभव फरकफरक भए पनि मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा GBV ले पार्ने असरका कारण व्यक्ति, परिवार र समुदायमा व्यापक परिणामहरू देखिन सक्छन्। लैङ्गिक समानता, उत्थानशीलता र पुनर्लाभलाई प्रवर्द्धन गर्न प्रभावित व्यक्तिहरू तथा GBV को जोखिममा रहेका व्यक्तिहरूका मानसिक स्वास्थ्य र मनोसामाजिक आवश्यकताहरू सम्बोधन गर्नुका साथै हिंसाको रोकथाम गर्नु अत्यन्त महत्त्वपूर्ण छ।",
+      "bt": "Planning and implementation of GBV-related programmes focus on the prevention of and response to gender-based violence. GBV disproportionately affects women and girls more, although men and boys can also experience sexual violence and abuse. MHPSS is an essential component of planning and implementation of GBV-related programmes. Although the experiences of affected people differ, the effects of GBV on mental health and psychosocial well-being can have wide-ranging consequences for individuals, families and communities. To promote gender equality, resilience and recovery, it is extremely important to address the mental health and psychosocial needs of affected people and people at risk of GBV, as well as to prevent violence.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T010",
+        "T157",
+        "T174",
+        "T195",
+        "T233",
+        "T282",
+        "T317",
+        "T344",
+        "T345",
+        "T410",
+        "T503"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T317 denotes affected persons, potentially including indirectly affected people, whereas survivors here denotes people who directly experienced and survived GBV; the source population must not be broadened. bt-divergence: Frozen प्रभावित व्यक्तिहरू means affected persons, potentially including indirectly affected people; the source specifies survivors in both the experiences and needs clauses. The frozen form is retained; otherwise aligned."
+    },
+    {
+      "id": "MAN-05-0063",
+      "page": "16",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "GBV actors can integrate MHPSS into programming by:",
+      "ne": "GBV क्षेत्रमा कार्यरत पक्षहरूले निम्न उपाय अपनाएर कार्यक्रमहरूमा MHPSS एकीकृत गर्न सक्छन्:",
+      "bt": "Actors working in the GBV sector can integrate MHPSS into programmes by adopting the following measures:",
+      "type": "general",
+      "terms": [
+        "T138"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0064",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including the mental health and psychosocial well-being of women, men, boys, girls and persons with diverse sexual orientation, gender identity, gender expression and sex characteristics (SOGIESC) in needs assessments (see MSP activities 1.2 and 2.1).",
+      "ne": "▶ आवश्यकताको लेखाजोखामा महिला, पुरुष, बालक, बालिका र विविध यौन अभिमुखीकरण, लैङ्गिक पहिचान, लैङ्गिक अभिव्यक्ति तथा लिङ्गसम्बन्धी विशेषता (SOGIESC) भएका व्यक्तिहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण समावेश गर्ने (MSP गतिविधि 1.2 र 2.1 हेर्नुहोस्)।",
+      "bt": "▶ Include the mental health and psychosocial well-being of women, men, boys, girls and people with diverse sexual orientations, gender identities, gender expressions and sex characteristics (SOGIESC) in needs assessments (see MSP activities 1.2 and 2.1).",
+      "type": "check",
+      "terms": [
+        "T068",
+        "T157",
+        "T005",
+        "T091",
+        "T163",
+        "T233",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The well-being phrase reuses supplied unreviewed candidates T157 and T005. SOGIESC is retained with all four components; terminology review is pending."
+    },
+    {
+      "id": "MAN-05-0065",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing and advocating across sectors for the provision of services in ways that promote safety and dignity of GBV survivors, particularly women and girls, and are safe, confidential, inclusive, community-based, participatory, survivor-centred, and rights-based.",
+      "ne": "▶ GBV बाट प्रभावित व्यक्तिहरू, विशेष गरी महिला र बालिकाहरूको सुरक्षा र मर्यादालाई प्रवर्द्धन गर्ने तथा सुरक्षित, गोपनीय, समावेशी, समुदायमा आधारित, सहभागितामूलक, प्रभावित व्यक्तिहरूमा केन्द्रित र अधिकारमा आधारित हुने गरी सेवाहरू उपलब्ध गराउने र विभिन्न क्षेत्रहरूमा यसरी सेवा उपलब्ध गराउन पैरवी गर्ने।",
+      "bt": "▶ Promote the safety and dignity of people affected by GBV, especially women and girls, and provide services in a way that is safe, confidential, inclusive, community-based, participatory, centred on affected people and rights-based, and advocate for providing services in this way across different sectors.",
+      "type": "safety",
+      "terms": [
+        "T139",
+        "T296",
+        "T317",
+        "T344"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T139 and T317 denote affected persons rather than specifically survivors; their use also renders survivor-centred as affected-person-centred, broadening both the population label and the stated service principle. bt-divergence: Frozen GBV बाट प्रभावित व्यक्तिहरू broadens GBV survivors to people affected by GBV, and प्रभावित व्यक्तिहरूमा केन्द्रित broadens survivor-centred to affected-person-centred. The frozen forms are retained; otherwise aligned."
+    },
+    {
+      "id": "MAN-05-0066",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Advocating to address social determinants of mental health and psychosocial well-being (e.g. levels of social support, exclusion, deprivation, poverty) among GBV survivors, particularly women and girls, including addressing risks and promoting protective factors.",
+      "ne": "▶ GBV बाट प्रभावित व्यक्तिहरू, विशेष गरी महिला र बालिकाहरूका मानसिक स्वास्थ्य र मनोसामाजिक कल्याणका सामाजिक निर्धारकहरू (जस्तै सामाजिक सहयोगको स्तर, बहिष्करण, वञ्चना, गरिबी) सम्बोधन गर्न पैरवी गर्ने, जसमा जोखिमहरू सम्बोधन गर्ने र संरक्षणकारी कारकहरूलाई प्रवर्द्धन गर्ने कार्य पनि समावेश छन्।",
+      "bt": "▶ Advocate for addressing the social determinants of the mental health and psychosocial well-being of people affected by GBV, especially women and girls (such as the level of social support, exclusion, deprivation, poverty), including addressing risks and promoting protective factors.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T139",
+        "T157",
+        "T283",
+        "T304"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T139 denotes people affected by GBV and can include indirectly affected people, whereas the source specifically addresses social determinants among GBV survivors. bt-divergence: Frozen GBV बाट प्रभावित व्यक्तिहरू can include indirectly affected people, whereas the source specifies social determinants among GBV survivors. The frozen form is retained; otherwise aligned."
+    },
+    {
+      "id": "MAN-05-0067",
+      "page": "16",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Orienting all frontline GBV staff in basic psychosocial support (see MSP activity 3.2).",
+      "ne": "▶ अग्रपंक्तिमा कार्यरत सबै GBV कर्मचारीलाई आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्ने (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "▶ Orient all frontline GBV staff on basic psychosocial support (see MSP activity 3.2).",
+      "type": "check",
+      "terms": [
+        "T014",
+        "T091",
+        "T163",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The phrase '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is reused from the supplied unreviewed activity 3.2 candidate; it is not a newly coined clinical translation."
+    },
+    {
+      "id": "MAN-05-0068",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Training case managers on relevant MHPSS topics (see MSP activity 3.13 and the recommended MHPSS training topics for case managers).",
+      "ne": "▶ केस व्यवस्थापकहरूलाई सम्बन्धित MHPSS विषयहरूमा तालिम दिने (MSP गतिविधि 3.13 र केस व्यवस्थापकहरूका लागि सिफारिस गरिएका MHPSS तालिमका विषयहरू हेर्नुहोस्)।",
+      "bt": "▶ Train case managers on relevant MHPSS topics (see MSP activity 3.13 and the recommended MHPSS training topics for case managers).",
+      "type": "check",
+      "terms": [
+        "T119",
+        "T091",
+        "T163",
+        "T088"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0069",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Incorporating key MHPSS messages into GBV activities and informational materials (see MSP activity 3.3).",
+      "ne": "▶ GBV गतिविधिहरू र जानकारीमूलक सामग्रीमा मुख्य MHPSS सन्देशहरू समावेश गर्ने (MSP गतिविधि 3.3 हेर्नुहोस्)।",
+      "bt": "▶ Include key MHPSS messages in GBV activities and informational materials (see MSP activity 3.3).",
+      "type": "check",
+      "terms": [
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0070",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing MHPSS services for women, girls and survivors as a part of GBV work (see MSP activities 3.4, 3.7, 3.9, 3.11 to 3.13 and 4.2).",
+      "ne": "▶ GBV सम्बन्धी कार्यको अंशका रूपमा महिला, बालिका र प्रभावित व्यक्तिहरूका लागि MHPSS सेवाहरू उपलब्ध गराउने (MSP गतिविधिहरू 3.4, 3.7, 3.9, 3.11 देखि 3.13 र 4.2 हेर्नुहोस्)।",
+      "bt": "▶ Provide MHPSS services for women, girls and affected people as part of GBV-related work (see MSP activities 3.4, 3.7, 3.9, 3.11 to 3.13 and 4.2).",
+      "type": "safety",
+      "terms": [
+        "T163",
+        "T272",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T317 denotes affected persons and may include indirectly affected people, while the source specifies survivors as one of the recipient groups. bt-divergence: Frozen प्रभावित व्यक्तिहरू broadens the specified survivor recipient group to affected persons, potentially including indirectly affected people. The frozen form is retained; otherwise aligned."
+    },
+    {
+      "id": "MAN-05-0071",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Working closely with actors in Protection (including child protection), education, health and other areas of work to ensure MHPSS activities for GBV survivors, particularly women and girls are consistent and mutually-reinforcing.",
+      "ne": "▶ GBV बाट प्रभावित व्यक्तिहरू, विशेष गरी महिला र बालिकाहरूका लागि सञ्चालन गरिने MHPSS गतिविधिहरू एकरूप र एकअर्कालाई सुदृढ बनाउने खालका छन् भन्ने सुनिश्चित गर्न संरक्षण (बाल संरक्षणसहित), शिक्षा, स्वास्थ्य र अन्य कार्यक्षेत्रका सम्बद्ध पक्षहरूसँग निकट सहकार्य गर्ने।",
+      "bt": "▶ Work closely with relevant parties in protection (including child protection), education, health and other areas of work to ensure that MHPSS activities carried out for people affected by GBV, especially women and girls, are consistent and mutually reinforcing.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T028",
+        "T029",
+        "T036",
+        "T114",
+        "T139",
+        "T158",
+        "T296"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T139 denotes people affected by GBV, potentially including indirectly affected people, whereas the source restricts the relevant MHPSS activities to GBV survivors. bt-divergence: Frozen GBV बाट प्रभावित व्यक्तिहरू potentially includes indirectly affected people, whereas the source specifies MHPSS activities for GBV survivors. The frozen form is retained; otherwise aligned."
+    },
+    {
+      "id": "MAN-05-0072",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Establishing joint referral pathways and SOPs for the referral of women, girls and survivors to needed services, including facilitating access to the full range of MHPSS activities and services as needed.",
+      "ne": "▶ महिला, बालिका र प्रभावित व्यक्तिहरूलाई आवश्यक सेवाहरूमा पठाउन संयुक्त सेवा प्रेषण मार्गहरू र मानक सञ्चालन प्रक्रियाहरू (SOPs) स्थापना गर्ने, जसमा आवश्यकताअनुसार MHPSS गतिविधिहरू र सेवाहरूको सम्पूर्ण दायरामा पहुँच सहज बनाउने कार्य पनि समावेश छ।",
+      "bt": "▶ Establish joint service referral pathways and standard operating procedures (SOPs) to refer women, girls and affected people to necessary services, including facilitating access to the full range of MHPSS activities and services as needed.",
+      "type": "safety",
+      "terms": [
+        "T063",
+        "T158",
+        "T317"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Frozen T317 denotes affected persons rather than specifically survivors, potentially broadening referral recipients; the Nepali rendering of SOPs has no supplied frozen candidate. bt-divergence: Frozen प्रभावित व्यक्तिहरू broadens survivors to affected persons among the referral recipients. The frozen form is retained; otherwise aligned."
+    },
+    {
+      "id": "MAN-05-0073",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Ensuring that GBV activities are accessible and meet the needs of people with mental health conditions.",
+      "ne": "▶ GBV गतिविधिहरू पहुँचयोग्य छन् र मानसिक स्वास्थ्यसम्बन्धी अवस्था भएका व्यक्तिहरूका आवश्यकताहरू पूरा गर्छन् भन्ने सुनिश्चित गर्ने।",
+      "bt": "▶ Ensure that GBV activities are accessible and meet the needs of people with mental health conditions.",
+      "type": "safety",
+      "terms": [
+        "T078",
+        "T157",
+        "T476"
+      ],
+      "flags": [],
+      "note": "The population wording retains mental health conditions without adding a functional-impairment requirement."
+    },
+    {
+      "id": "MAN-05-0074",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Monitoring MHPSS-related outputs and outcomes (e.g. improvements in subjective well-being, functioning, coping, and/or social connectedness following participation in GBV activities).",
+      "ne": "▶ MHPSS सँग सम्बन्धित प्रतिफल र परिणामहरूको अनुगमन गर्ने (जस्तै GBV गतिविधिहरूमा सहभागी भएपछि व्यक्तिले अनुभूत गर्ने सुस्वास्थ्य, कार्यशीलता, सामना गर्ने क्षमता र/वा सामाजिक आबद्धतामा आएका सुधारहरू)।",
+      "bt": "▶ Monitor MHPSS-related outputs and outcomes (such as improvements in the well-being, functioning, ability to cope and/or social connectedness that a person experiences after participating in GBV activities).",
+      "type": "safety",
+      "terms": [
+        "T271",
+        "T485",
+        "T514"
+      ],
+      "flags": [],
+      "note": "The draft distinguishes outputs from outcomes and retains the source's and/or relationship among the example improvements."
+    },
+    {
+      "id": "MAN-05-0075",
+      "page": "17",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform. See also key considerations 28.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सम्बन्धित स्रोतसामग्री हेर्नुहोस्। मुख्य विचारणीय पक्षहरू 28 पनि हेर्नुहोस्।",
+      "bt": "See the relevant resource materials on the MHPSS MSP web platform. Also see key considerations 28.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T189",
+        "T154",
+        "T252",
+        "T416"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0076",
+      "page": "17",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key consideration 6: Integrating MHPSS into mine action programming",
+      "ne": "मुख्य विचारणीय पक्षहरू 6: बारुदी सुरुङ सम्बन्धी कार्यका कार्यक्रमहरूमा MHPSS एकीकरण",
+      "bt": "Key considerations 6: Integration of MHPSS into mine action programmes",
+      "type": "check",
+      "terms": [
+        "T154",
+        "T011",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0077",
+      "page": "17",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Survivors of explosive ordnances (EO) may have a range of MHPSS needs associated with their injuries or experiences of diminished independence, restricted access to activities, problems with self-image, chronic pain, phantom pain and social challenges (e.g. unemployment, changes to social roles, stigma, discrimination). The UN Policy on Victim Assistance in Mine Action and the International Mine Action Standards (IMAS 13.10) include ‘psychological and psychosocial support’ as one of six key components of Victim Assistance. Activities to prevent injuries and reduce risks can also be opportunities to integrate MHPSS, for example, incorporating key messages on MHPSS as part of Mine/EO risk education.",
+      "ne": "विस्फोटक आयुध (EO) बाट प्रभावित व्यक्तिहरूमा आफ्ना चोटपटक वा स्वतन्त्रता घटेको, गतिविधिहरूमा पहुँच सीमित भएको, आफूप्रतिको छविसम्बन्धी समस्या, दीर्घकालीन दुखाइ, फ्यान्टम दुखाइ (phantom pain) र सामाजिक चुनौतीहरू (जस्तै बेरोजगारी, सामाजिक भूमिकामा परिवर्तन, लाञ्छना, भेदभाव) भोगेका अनुभवसँग सम्बन्धित विभिन्न MHPSS आवश्यकताहरू हुन सक्छन्। बारुदी सुरुङ सम्बन्धी कार्यमा पीडित सहायतासम्बन्धी UN को नीति र बारुदी सुरुङ सम्बन्धी कार्यका अन्तर्राष्ट्रिय मापदण्डहरू (IMAS 13.10) ले ‘मनोवैज्ञानिक तथा मनोसामाजिक सहयोग’ लाई पीडित सहायताका छ प्रमुख घटकमध्ये एकका रूपमा समावेश गर्छन्। चोटपटकको रोकथाम गर्ने र जोखिम घटाउने गतिविधिहरू MHPSS समावेश गर्ने अवसर पनि हुन सक्छन्, उदाहरणका लागि बारुदी सुरुङ/EO सम्बन्धी जोखिम शिक्षाको अंशका रूपमा MHPSS सम्बन्धी मुख्य सन्देशहरू समावेश गर्ने।",
+      "bt": "People affected by explosive ordnance (EO) may have various MHPSS needs related to their experiences of injuries or reduced independence, limited access to activities, problems related to self-image, chronic pain, phantom pain (phantom pain) and social challenges (such as unemployment, changes in social roles, stigma, discrimination). The UN policy on victim assistance in mine action and the International Mine Action Standards (IMAS 13.10) include ‘psychological and psychosocial support’ as one of the six main components of victim assistance. Activities that prevent injuries and reduce risk can also be opportunities to include MHPSS, for example by including key MHPSS-related messages as part of mine/EO risk education.",
+      "type": "safety",
+      "terms": [
+        "T011",
+        "T028",
+        "T087",
+        "T133",
+        "T185",
+        "T253",
+        "T317",
+        "T345",
+        "T410"
+      ],
+      "flags": [
+        "bt-divergence",
+        "glossary-missing"
+      ],
+      "note": "Frozen T317 denotes affected persons rather than specifically people who survived explosive ordnance incidents; phantom pain and other clinical experience terms lack supplied frozen candidates, and the quoted support category is not a named therapy. bt-divergence: Frozen प्रभावित व्यक्तिहरू potentially includes people indirectly affected by explosive ordnance, whereas the source specifies survivors of explosive ordnances. The frozen form is retained; otherwise aligned."
+    },
+    {
+      "id": "MAN-05-0078",
+      "page": "17",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Mine action actors can integrate MHPSS into programming by:",
+      "ne": "बारुदी सुरुङ सम्बन्धी कार्यमा संलग्न सम्बद्ध पक्षहरूले निम्न उपाय अपनाएर कार्यक्रमहरूमा MHPSS एकीकृत गर्न सक्छन्:",
+      "bt": "Relevant actors involved in mine action can integrate MHPSS into programmes by adopting the following measures:",
+      "type": "general",
+      "terms": [
+        "T011",
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0079",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Orienting all frontline mine action workers on basic psychosocial support, including support with motivation and perseverance in physical therapies, and the identification and referral of children and adults who may need MHPSS services and supports (see MSP activity 3.2).",
+      "ne": "▶ अग्रपङ्क्तिमा काम गर्ने बारुदी सुरुङ सम्बन्धी कार्यका सबै कार्यकर्ताहरूलाई आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्ने, जसमा भौतिक उपचारहरूका क्रममा उत्प्रेरणा र निरन्तर प्रयासका लागि सहयोग गर्ने तथा MHPSS सेवा र सहयोग आवश्यक पर्न सक्ने बालबालिका र वयस्कहरूको पहिचान गरी सम्बन्धित सेवामा पठाउने कार्य पनि समावेश छन् (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "▶ Orient all frontline mine action workers on basic psychosocial support, including supporting motivation and continued effort during physical treatments and identifying children and adults who may need MHPSS services and support and referring them to the relevant services (see MSP activity 3.2).",
+      "type": "safety",
+      "terms": [
+        "T011",
+        "T091",
+        "T163",
+        "T172",
+        "T454"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Physical therapies is rendered as a general treatment category rather than a named therapy; the supplied glossary has no matching frozen form for that phrase."
+    },
+    {
+      "id": "MAN-05-0080",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Integrating relevant key MHPSS messages into victim assistance and risk reduction information materials and activities (see MSP activity 3.3).",
+      "ne": "▶ पीडित सहायता तथा जोखिम न्यूनीकरणसम्बन्धी जानकारीमूलक सामग्री र गतिविधिहरूमा सान्दर्भिक मुख्य MHPSS सन्देशहरू एकीकृत गर्ने (MSP गतिविधि 3.3 हेर्नुहोस्)।",
+      "bt": "▶ Integrate relevant key MHPSS messages into informational materials and activities related to victim assistance and risk reduction (see MSP activity 3.3).",
+      "type": "check",
+      "terms": [
+        "T185",
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0081",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including information on injury prevention from EOs in relevant MHPSS activities (e.g. see MSP activities 3.6, 3.7, 3.8, 3.9).",
+      "ne": "▶ सान्दर्भिक MHPSS गतिविधिहरूमा EOs बाट हुने चोटपटकको रोकथामसम्बन्धी जानकारी समावेश गर्ने (उदाहरणका लागि MSP गतिविधि 3.6, 3.7, 3.8, 3.9 हेर्नुहोस्)।",
+      "bt": "▶ Include information on the prevention of injuries caused by EOs in relevant MHPSS activities (for example, see MSP activities 3.6, 3.7, 3.8, 3.9).",
+      "type": "check",
+      "terms": [
+        "T158",
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": "Injury prevention is drafted as ordinary preventive guidance, not as clinical treatment wording. The source acronym EOs is retained exactly."
+    },
+    {
+      "id": "MAN-05-0082",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Facilitating the inclusion of survivors of EO and their caregivers and families in community, cultural, sports and recreational activities (e.g. strengthening survivor networks and facilitating support groups at rehabilitation centres, orthopaedic wards, and health clinics; see MSP activity 3.4).",
+      "ne": "▶ EO बाट प्रभावित व्यक्तिहरू तथा उनीहरूका हेरचाहकर्ता र परिवारलाई सामुदायिक, सांस्कृतिक, खेलकुद र मनोरञ्जनात्मक गतिविधिहरूमा समावेश गर्न सहजीकरण गर्ने (जस्तै बाँच्न सफल व्यक्तिहरूका सञ्जाल सुदृढ बनाउने र पुनर्स्थापना केन्द्रहरू, हाडजोर्नी उपचार वार्डहरू तथा स्वास्थ्य क्लिनिकहरूमा सहयोग समूहहरू सञ्चालन गर्न सहजीकरण गर्ने; MSP गतिविधि 3.4 हेर्नुहोस्)।",
+      "bt": "▶ Facilitate the inclusion of people affected by EO and their caregivers and families in community, cultural, sports and recreational activities (such as strengthening networks of people who have survived and facilitating the running of support groups in rehabilitation centres, orthopaedic treatment wards and health clinics; see MSP activity 3.4).",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T027",
+        "T081",
+        "T091",
+        "T163",
+        "T311",
+        "T314",
+        "T317",
+        "T501"
+      ],
+      "flags": [
+        "bt-divergence",
+        "glossary-missing"
+      ],
+      "note": "Frozen T317 denotes affected persons rather than specifically EO survivors, while T314 retains the survived-person sense in survivor networks; orthopaedic wards has no supplied frozen candidate. bt-divergence: Frozen प्रभावित व्यक्तिहरू broadens EO survivors to affected persons and consequently broadens whose caregivers and families are included. The frozen survivor-network form retains the survival meaning. The frozen forms are retained; otherwise aligned."
+    },
+    {
+      "id": "MAN-05-0083",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Training rehabilitation workers and victim assistance case managers on relevant MHPSS topics (see MSP activity 3.13 and the recommended MHPSS training topics for case managers).",
+      "ne": "▶ पुनर्स्थापना कार्यकर्ताहरू र पीडित सहायताका केस व्यवस्थापकहरूलाई सान्दर्भिक MHPSS विषयहरूमा तालिम दिने (MSP गतिविधि 3.13 र केस व्यवस्थापकहरूका लागि सिफारिस गरिएका MHPSS तालिमका विषयहरू हेर्नुहोस्)।",
+      "bt": "▶ Train rehabilitation workers and victim assistance case managers on relevant MHPSS topics (see MSP activity 3.13 and the recommended MHPSS training topics for case managers).",
+      "type": "safety",
+      "terms": [
+        "T088",
+        "T091",
+        "T119",
+        "T163",
+        "T185",
+        "T502"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft retains rehabilitation workers and victim assistance case managers as distinct training recipients and preserves the activity reference."
+    },
+    {
+      "id": "MAN-05-0084",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Working with mine action centres and coordination groups to develop referral mechanisms and ensure access to MHPSS services and supports for EO survivors.",
+      "ne": "▶ सेवा प्रेषण संयन्त्रहरू विकास गर्न र EO बाट बाँच्न सफल व्यक्तिहरूका लागि MHPSS सेवा तथा सहयोगमा पहुँच सुनिश्चित गर्न बारुदी सुरुङ सम्बन्धी कार्य गर्ने केन्द्रहरू र समन्वय समूहहरूसँग मिलेर काम गर्ने।",
+      "bt": "▶ Work together with mine action centres and coordination groups to develop service referral mechanisms and ensure access to MHPSS services and support for people who have survived EO.",
+      "type": "safety",
+      "terms": [
+        "T064",
+        "T011",
+        "T128",
+        "T226",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance draft; review pending. Proposed glossary addition: EO survivors = EO [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. EO remains unexpanded."
+    },
+    {
+      "id": "MAN-05-0085",
+      "page": "17",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Monitoring MHPSS-related outputs and outcomes (e.g. improvements in well-being following the inclusion of support groups at rehabilitation centres, the strengthening of survivor networks).",
+      "ne": "▶ MHPSS सँग सम्बन्धित प्रतिफल र परिणामहरूको अनुगमन गर्ने (जस्तै, पुनर्स्थापना केन्द्रहरूमा सहयोग समूहहरू समावेश गरेपछि कल्याणमा आएको सुधार, बाँच्न सफल व्यक्तिहरूका सञ्जालको सुदृढीकरण)।",
+      "bt": "▶ Monitor outputs and outcomes related to MHPSS (for example, improvement in well-being after including support groups in rehabilitation centres, strengthening of networks of people who have survived).",
+      "type": "safety",
+      "terms": [
+        "T271",
+        "T276",
+        "T274",
+        "T485",
+        "T328",
+        "T500",
+        "T501",
+        "T311",
+        "T314"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The examples retain both improved well-being following the inclusion of support groups and the strengthening of survivor networks."
+    },
+    {
+      "id": "MAN-05-0086",
+      "page": "17",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा रहेका सान्दर्भिक स्रोतहरू हेर्नुहोस्।",
+      "bt": "See the relevant resources on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0087",
+      "page": "17",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key consideration 7: Integrating MHPSS into nutrition programming",
+      "ne": "मुख्य विचारणीय पक्ष 7: पोषणसम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकरण",
+      "bt": "Key consideration 7: Integrating MHPSS into nutrition programme planning and implementation",
+      "type": "general",
+      "terms": [
+        "T030",
+        "T252",
+        "T282"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary additions: key consideration = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0088",
+      "page": "17",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "The cognitive, social and emotional development of children depends on both adequate nutrition and nurturing care. Emergencies can severely limit caregivers’ abilities to provide these, due to both the practical disruption to food supply and the impact of the emergency on their own mental health and psychosocial well-being. Nutrition, mental health and development are interlinked in a range of ways that can be disrupted in emergencies. For example, malnourished children may show reduced activity and seek less interaction with caregivers; where caregivers consequently reduce the amount of stimulation provided, this can lead to further developmental disadvantages. Caregiver well-being can also impact child nutrition; for example, mothers experiencing depression are less likely to continue breastfeeding their child and provide less stimulation.",
+      "ne": "बालबालिकाको संज्ञानात्मक, सामाजिक र भावनात्मक विकास पर्याप्त पोषण र बाल विकासलाई पोषण गर्ने स्याहार दुवैमा निर्भर हुन्छ। आपत्कालीन अवस्थामा खाद्य आपूर्तिमा आउने व्यावहारिक अवरोध र हेरचाहकर्ताको आफ्नै मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा पर्ने प्रभाव दुवैका कारण यी कुरा उपलब्ध गराउने उनीहरूको क्षमतामा गम्भीर सीमा पर्न सक्छ। पोषण, मानसिक स्वास्थ्य र विकास विभिन्न तरिकाले एकअर्कासँग जोडिएका हुन्छन्, र आपत्कालीन अवस्थामा यी अन्तरसम्बन्धहरू बिथोलिन सक्छन्। उदाहरणका लागि, कुपोषित बालबालिका कम सक्रिय हुन सक्छन् र हेरचाहकर्तासँग कम अन्तरक्रिया खोज्न सक्छन्; फलस्वरूप हेरचाहकर्ताले उनीहरूलाई दिने विकासात्मक उत्प्रेरणा घटाएमा यसले विकासमा थप प्रतिकूलता निम्त्याउन सक्छ। हेरचाहकर्ताको कल्याणले पनि बालबालिकाको पोषणमा प्रभाव पार्न सक्छ; उदाहरणका लागि, [depression] अनुभव गरिरहेका आमाहरूले आफ्नो बच्चालाई स्तनपान गराइरहने सम्भावना कम हुन्छ र उनीहरूले कम विकासात्मक उत्प्रेरणा दिन्छन्।",
+      "bt": "Children's cognitive, social and emotional development depends on both adequate nutrition and care that nurtures child development. In emergencies, both practical disruptions to food supplies and the effects on caregivers' own mental health and psychosocial well-being can severely limit their ability to provide these things. Nutrition, mental health and development are interconnected in various ways, and these interconnections can be disrupted in emergencies. For example, malnourished children may be less active and may seek less interaction with caregivers; if caregivers consequently reduce the developmental stimulation they give them, this can lead to further adverse effects on development. Caregivers' well-being can also affect children's nutrition; for example, mothers experiencing [depression] are less likely to continue breastfeeding their child and give less developmental stimulation.",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T030",
+        "T082",
+        "T131",
+        "T027",
+        "T157",
+        "T005",
+        "T410",
+        "T328"
+      ],
+      "flags": [],
+      "note": "The diagnostic name is retained exactly in English; possibilities, conditional developmental effects and the comparison concerning breastfeeding are preserved."
+    },
+    {
+      "id": "MAN-05-0089",
+      "page": "18",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Nutrition actors can integrate MHPSS into programming by:",
+      "ne": "पोषण क्षेत्रमा कार्यरत पक्षहरूले निम्न तरिकाले कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्न सक्छन्।",
+      "bt": "Actors working in the nutrition sector can integrate MHPSS into programme planning and implementation in the following ways.",
+      "type": "general",
+      "terms": [
+        "T164",
+        "T282"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary addition: programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0090",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing nutrition services in ways that support mental health and psychosocial well-being, for example, by engaging target communities and ensuring that nutrition services are provided in a dignified manner and in a safe and culturally appropriate environment. MHPSS considerations should be taken into account in the design of therapeutic feeding centres and outpatient therapeutic programmes (see Sphere Management of Malnutrition standard 2.1).",
+      "ne": "▶ मानसिक स्वास्थ्य र मनोसामाजिक कल्याणलाई सहयोग पुग्ने तरिकाले पोषण सेवाहरू प्रदान गर्ने, उदाहरणका लागि लक्षित समुदायहरूलाई सहभागी गराएर र पोषण सेवाहरू मर्यादापूर्ण ढङ्गले तथा सुरक्षित र सांस्कृतिक रूपमा उपयुक्त वातावरणमा प्रदान गरिने सुनिश्चित गरेर। उपचारात्मक आहार उपलब्ध गराउने केन्द्रहरू र बहिरङ्ग उपचार कार्यक्रमहरूको रूपरेखा तयार गर्दा MHPSS सम्बन्धी पक्षहरूलाई ध्यानमा राखिनुपर्छ ([Sphere Management of Malnutrition standard 2.1] हेर्नुहोस्)।",
+      "bt": "▶ Provide nutrition services in ways that support mental health and psychosocial well-being, for example by involving targeted communities and ensuring that nutrition services are provided in a dignified manner and in a safe and culturally appropriate environment. Aspects related to MHPSS should be taken into account when designing centres that provide therapeutic feeding and outpatient treatment programmes (see [Sphere Management of Malnutrition standard 2.1]).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T005",
+        "T410",
+        "T328",
+        "T030",
+        "T344",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Therapeutic service settings are drafted as general service categories, and the cited standard is retained exactly in English."
+    },
+    {
+      "id": "MAN-05-0091",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Orienting nutrition workers on basic psychosocial support and on nurturing care, including identification and referral of children and adults who may need MHPSS services and supports (see MSP activity 3.2; Sphere Management of Malnutrition standard 2.2).",
+      "ne": "▶ MHPSS सेवा र सहयोग आवश्यक पर्न सक्ने बालबालिका तथा वयस्कको पहिचान गर्ने र सम्बन्धित सेवामा पठाउने कार्यसमेत समेटेर पोषण कार्यकर्तालाई आधारभूत मनोसामाजिक सहयोग र बाल विकासलाई पोषण गर्ने स्याहारबारे अभिमुखीकरण गर्ने (MSP गतिविधि 3.2; [Sphere Management of Malnutrition standard 2.2] हेर्नुहोस्)।",
+      "bt": "▶ Orient nutrition workers on basic psychosocial support and care that nurtures child development, including identifying children and adults who may need MHPSS services and support and referring them to relevant services (see MSP activity 3.2; [Sphere Management of Malnutrition standard 2.2]).",
+      "type": "safety",
+      "terms": [
+        "T030",
+        "T172",
+        "T454",
+        "T410",
+        "T082",
+        "T014",
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The possibility of needing services is retained, and the cited standard remains exactly in English."
+    },
+    {
+      "id": "MAN-05-0092",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Integrateing relevant key MHPSS messages into nutrition information materials (see MSP activity 3.3).",
+      "ne": "▶ पोषणसम्बन्धी सूचना सामग्रीमा सान्दर्भिक प्रमुख MHPSS सन्देशहरू एकीकृत गर्ने (MSP गतिविधि 3.3 हेर्नुहोस्)।",
+      "bt": "▶ Integrate relevant key MHPSS messages into nutrition-related information materials (see MSP activity 3.3).",
+      "type": "safety",
+      "terms": [
+        "T030",
+        "T091",
+        "T163"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source word 'Integrateing' is irregular; the draft follows the apparent intended meaning of integrating messages without validating that wording."
+    },
+    {
+      "id": "MAN-05-0093",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Monitoring MHPSS-related outputs and outcomes (e.g. improvements in well-being following the implementation of mother-baby and child group activities at outreach therapeutic programmes).",
+      "ne": "▶ MHPSS सँग सम्बन्धित प्रतिफल र परिणामहरूको अनुगमन गर्ने (जस्तै, सेवाग्राहीसम्म पुगेर सञ्चालन गरिने उपचार कार्यक्रमहरूमा आमा–शिशु र बालबालिकाका समूहगत गतिविधिहरू कार्यान्वयन गरेपछि कल्याणमा आएको सुधार)।",
+      "bt": "▶ Monitor outputs and outcomes related to MHPSS (for example, improvement in well-being after implementing mother–infant and children's group activities in treatment programmes conducted by reaching out to service users).",
+      "type": "safety",
+      "terms": [
+        "T276",
+        "T274",
+        "T485",
+        "T271",
+        "T409",
+        "T380",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The example retains the timing of well-being improvements after group activities and the outreach character of the therapeutic programmes."
+    },
+    {
+      "id": "MAN-05-0094",
+      "page": "18",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "For further information on the linkages between MHPSS and Nutrition, see key consideration 24.",
+      "ne": "MHPSS र पोषणबीचका अन्तरसम्बन्धबारे थप जानकारीका लागि मुख्य विचारणीय पक्ष 24 हेर्नुहोस्।",
+      "bt": "For more information about the interrelationships between MHPSS and nutrition, see Key consideration 24.",
+      "type": "general",
+      "terms": [
+        "T030",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary addition: key consideration = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0095",
+      "page": "18",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा रहेका सान्दर्भिक स्रोतहरू हेर्नुहोस्।",
+      "bt": "See the relevant resources on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0096",
+      "page": "18",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key consideration 8: Integrating MHPSS into camp coordination and camp management programming",
+      "ne": "मुख्य विचारणीय पक्ष 8: शिविर समन्वय तथा शिविर व्यवस्थापनसम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकरण",
+      "bt": "Key consideration 8: Integrating MHPSS into camp coordination and camp management programme planning and implementation",
+      "type": "general",
+      "terms": [
+        "T031",
+        "T252",
+        "T282",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary additions: key consideration = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0097",
+      "page": "18",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "The mental health and psychosocial well-being of people residing in camps and camp-like settings is significantly impacted by the extent to which they can participate in decision-making that affects their lives, access information, and access appropriate facilities and services. The distress caused by their displacement can be exacerbated or mitigated depending on the degree to which their sense of agency and independence is promoted or diminished.",
+      "ne": "शिविर तथा शिविरजस्ता परिवेशमा बसोबास गर्ने व्यक्तिहरू आफ्नो जीवनलाई असर गर्ने निर्णय प्रक्रियामा कति सहभागी हुन सक्छन्, सूचना कति प्राप्त गर्न सक्छन् र उपयुक्त सुविधा तथा सेवामा कति पहुँच राख्छन् भन्ने कुराले उनीहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा उल्लेखनीय प्रभाव पार्छ। उनीहरूमा आफ्नो तर्फबाट निर्णय र कार्य गर्न सक्ने क्षमता तथा स्वतन्त्रताको अनुभूति कति बढाइन्छ वा घटाइन्छ भन्ने आधारमा विस्थापनका कारण उत्पन्न कष्ट बढ्न वा कम हुन सक्छ।",
+      "bt": "The extent to which people living in camps and camp-like settings can participate in decision-making processes that affect their lives, can obtain information and have access to appropriate facilities and services has a significant effect on their mental health and psychosocial well-being. Distress arising from displacement can increase or decrease depending on how much their sense of ability and freedom to make decisions and act on their own behalf is increased or decreased.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T358",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being reuse supplied unreviewed candidates. Distress is rendered as ordinary displacement-related hardship, not as a diagnostic term. Agency retains the sense of being able to decide and act for oneself. The draft renders independence as self-reliance, which can imply supporting oneself rather than freedom from others' control. The revision preserves the source's sense of independence alongside agency."
+    },
+    {
+      "id": "MAN-05-0098",
+      "page": "18",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "CCCM actors, through their direct and regular interaction with displaced families and communities, have a key role to play in enhancing the well-being of those living in displacement sites (see also Minimum Standards for Camp Management; MSCM).",
+      "ne": "विस्थापित परिवार र समुदायसँग हुने प्रत्यक्ष तथा नियमित अन्तरक्रियामार्फत विस्थापित व्यक्तिहरू बसोबास गर्ने स्थलमा रहेका व्यक्तिहरूको कल्याण बढाउन CCCM सम्बद्ध पक्षको महत्त्वपूर्ण भूमिका छ (शिविर व्यवस्थापनका न्यूनतम मापदण्डहरू; MSCM पनि हेर्नुहोस्)।",
+      "bt": "Through direct and regular interaction with displaced families and communities, CCCM stakeholders have an important role in increasing the well-being of people at sites where displaced people live (see also the Minimum Standards for Camp Management; MSCM).",
+      "type": "general",
+      "terms": [
+        "T120",
+        "T087",
+        "T270",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary additions: well-being = [Nepali wording recorded in terminology evidence]; Minimum Standards for Camp Management = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. MSCM is retained. The source identifies a key role CCCM actors have to play; the draft asserts that they already perform that role. The revision states their role without asserting its actual performance."
+    },
+    {
+      "id": "MAN-05-0099",
+      "page": "18",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "CCCM actors can integrate MHPSS into programming by (see MSP activity 1.1 and MSCM 4.1) to:",
+      "ne": "CCCM सम्बद्ध पक्षले कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्न निम्न माध्यमहरू अपनाउन सक्छन् (MSP गतिविधि 1.1 र MSCM 4.1 हेर्नुहोस्)।",
+      "bt": "Parties associated with CCCM can adopt the following means to integrate MHPSS into programme planning and implementation (see MSP activity 1.1 and MSCM 4.1).",
+      "type": "safety",
+      "terms": [
+        "T120",
+        "T282",
+        "T409",
+        "T380",
+        "T163",
+        "T091"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The source phrase 'by (see MSP activity 1.1 and MSCM 4.1) to:' has an unresolved grammatical connection; the draft uses a means-based introduction without assigning a purpose to the dangling 'to'."
+    },
+    {
+      "id": "MAN-05-0100",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including MHPSS in multi-sectoral site needs assessments (see MSP activity 1.2 and MSCM 4.2).",
+      "ne": "▶ स्थलका बहुक्षेत्रीय आवश्यकताको लेखाजोखामा MHPSS समावेश गर्ने (MSP गतिविधि 1.2 र MSCM 4.2 हेर्नुहोस्)।",
+      "bt": "▶ Include MHPSS in assessments of the site's multisectoral needs (see MSP Activity 1.2 and MSCM 4.2).",
+      "type": "general",
+      "terms": [
+        "T068",
+        "T091",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0101",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Engaging in monitoring and advocacy regarding gaps in services and needs, through close collaboration and exchange between CCCM and MHPSS actors (see MSP activity 3.1 and MSCM 4.1, 4.2).",
+      "ne": "▶ CCCM र MHPSS सम्बद्ध पक्षहरूबीच निकट सहकार्य तथा आदानप्रदानमार्फत सेवामा रहेका कमी र आवश्यकताका सम्बन्धमा अनुगमन तथा पैरवी गर्ने (MSP गतिविधि 3.1 र MSCM 4.1, 4.2 हेर्नुहोस्)।",
+      "bt": "▶ Monitor and advocate regarding gaps and needs in services through close collaboration and exchange between CCCM and MHPSS actors (see MSP Activity 3.1 and MSCM 4.1, 4.2).",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T091",
+        "T191",
+        "T266",
+        "T271"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0102",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing humanitarian assistance in ways that support mental health and psychosocial well-being (see MSP activity 3.1), by:",
+      "ne": "▶ निम्न तरिकाले मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणलाई सहयोग पुग्ने गरी मानवीय सहायता प्रदान गर्ने (MSP गतिविधि 3.1 हेर्नुहोस्)।",
+      "bt": "▶ Provide humanitarian assistance in ways that support mental health and psychosocial well-being, as follows (see MSP Activity 3.1).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T091",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being reuse supplied unreviewed candidates."
+    },
+    {
+      "id": "MAN-05-0103",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Engaging site residents in decision-making related to the management of the site (e.g. by supporting inclusive and representative governance structures, child committees, sectoral committees and community-led initiatives; see MSCM 2.1, 2.4), especially related to sites for planned MHPSS activities (e.g. MSP activities 3.4, 3.6, 3.9).",
+      "ne": "• स्थलको व्यवस्थापनसम्बन्धी निर्णय प्रक्रियामा स्थलका बासिन्दालाई सहभागी गराउने (उदाहरणका लागि, समावेशी र प्रतिनिधिमूलक शासन संरचना, बाल समिति, क्षेत्रगत समिति र समुदायको नेतृत्वमा सञ्चालित पहललाई सहयोग गरेर; MSCM 2.1, 2.4 हेर्नुहोस्), विशेष गरी योजनाबद्ध MHPSS गतिविधिहरू सञ्चालन गरिने स्थलसम्बन्धी निर्णयमा (उदाहरणका लागि, MSP गतिविधिहरू 3.4, 3.6, 3.9)।",
+      "bt": "• Involve site residents in decision-making processes concerning site management (for example, by supporting inclusive and representative governance structures, children's committees, sectoral committees and community-led initiatives; see MSCM 2.1, 2.4), particularly in decisions concerning sites where planned MHPSS activities will be carried out (for example, MSP Activities 3.4, 3.6, 3.9).",
+      "type": "general",
+      "terms": [
+        "T175",
+        "T158",
+        "T091",
+        "T207",
+        "T272",
+        "T296",
+        "T344",
+        "T433"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0104",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Ensuring appropriate and inclusive planning to promote adequate protection and assistance, according to site residents’ needs (including mental health related needs), throughout the lifecycle of the site (see MSP activity 2.1, MSCM 1.2, 5).",
+      "ne": "• स्थलको सम्पूर्ण जीवनचक्रभरि स्थलका बासिन्दाका आवश्यकता (मानसिक स्वास्थ्यसम्बन्धी आवश्यकतासहित) अनुसार पर्याप्त संरक्षण तथा सहायता प्रवर्द्धन गर्न उपयुक्त र समावेशी योजना सुनिश्चित गर्ने (MSP गतिविधि 2.1, MSCM 1.2, 5 हेर्नुहोस्)।",
+      "bt": "• Ensure appropriate and inclusive planning to promote adequate protection and assistance according to site residents' needs (including mental health needs) throughout the site's entire life cycle (see MSP Activity 2.1, MSCM 1.2, 5).",
+      "type": "safety",
+      "terms": [
+        "T175",
+        "T157",
+        "T029",
+        "T091"
+      ],
+      "flags": [],
+      "note": "General protection and assistance planning guidance; review pending. Mental health reuses the supplied unreviewed candidate."
+    },
+    {
+      "id": "MAN-05-0105",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Providing sufficient communal space e.g. for socio-relational and recreational activities (e.g. for MSP activities 3.4, 3.6, 3.9, also see MSCM 3.1, 3.2).",
+      "ne": "• पर्याप्त सामुदायिक स्थान उपलब्ध गराउने, उदाहरणका लागि सामाजिक सम्बन्धसम्बन्धी तथा मनोरञ्जनात्मक गतिविधिका लागि (उदाहरणका लागि, MSP गतिविधिहरू 3.4, 3.6, 3.9 का लागि; MSCM 3.1, 3.2 पनि हेर्नुहोस्)।",
+      "bt": "• Provide sufficient community space, for example for activities related to social connections and recreation (for example, for MSP activities 3.4, 3.6, 3.9; see also MSCM 3.1, 3.2).",
+      "type": "general",
+      "terms": [
+        "T081",
+        "T091",
+        "T272"
+      ],
+      "flags": [],
+      "note": "The draft narrows socio-relational activities to activities that increase social connections. The revision retains the broader relationship-related meaning without requiring an increase."
+    },
+    {
+      "id": "MAN-05-0106",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Ensuring that site residents live in a dignified environment that promotes mental health and psychosocial well-being and is safe, secure, and physically, socially and culturally appropriate (see MSP activity 3.1, MSCM 3.1, 3.2).",
+      "ne": "• स्थलका बासिन्दा मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन गर्ने, सुरक्षित र सुरक्षाको प्रत्याभूति भएको तथा भौतिक, सामाजिक र सांस्कृतिक रूपमा उपयुक्त मर्यादित वातावरणमा बस्ने सुनिश्चित गर्ने (MSP गतिविधि 3.1, MSCM 3.1, 3.2 हेर्नुहोस्)।",
+      "bt": "• Ensure that site residents live in a dignified environment that promotes mental health and psychosocial well-being, is safe and assured of security, and is physically, socially and culturally appropriate (see MSP Activity 3.1, MSCM 3.1, 3.2).",
+      "type": "check",
+      "terms": [
+        "T175",
+        "T157",
+        "T005",
+        "T091",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being wording reuses the supplied unreviewed candidates T157 and T005."
+    },
+    {
+      "id": "MAN-05-0107",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Organizing community discussions and accessible feedback and complaints mechanisms that are responsive and contribute to improving accountability towards the affected populations (see MSP activity 2.1, MSCM 2.3).",
+      "ne": "• समुदायमा छलफल आयोजना गर्ने तथा प्रतिक्रिया र गुनासोप्रति उत्तरदायी भई प्रभावित जनसमुदायप्रतिको जवाफदेहिता सुधार्न योगदान गर्ने पहुँचयोग्य प्रतिक्रिया तथा गुनासो संयन्त्रहरूको व्यवस्था गर्ने (MSP गतिविधि 2.1, MSCM 2.3 हेर्नुहोस्)।",
+      "bt": "• Organize community discussions and establish accessible feedback and complaint mechanisms that contribute to improving accountability to the affected population by being responsive to feedback and complaints (see MSP Activity 2.1, MSCM 2.3).",
+      "type": "check",
+      "terms": [
+        "T078",
+        "T091",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0108",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Organizing orientations in basic psychosocial support (e.g. psychological first aid) for site management teams, including the identification and referral of children and adults who may need MHPSS services and supports (see MSP activity 3.2 and MSCM 4.3).",
+      "ne": "▶ MHPSS सेवा र सहयोग आवश्यक पर्न सक्ने बालबालिका तथा वयस्कको पहिचान गर्ने र सम्बन्धित सेवामा पठाउने कार्यसमेत समेटेर स्थल व्यवस्थापन टोलीहरूका लागि आधारभूत मनोसामाजिक सहयोग (जस्तै, [psychological first aid]) सम्बन्धी अभिमुखीकरण आयोजना गर्ने (MSP गतिविधि 3.2 र MSCM 4.3 हेर्नुहोस्)।",
+      "bt": "▶ Organize orientation on basic psychosocial support (for example, [psychological first aid]) for site management teams, including identifying children and adults who may need MHPSS services and support and referring them to relevant services (see MSP activity 3.2 and MSCM 4.3).",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T454",
+        "T410",
+        "T014",
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The named intervention is retained exactly in English, while the orientation, identification and referral guidance is drafted in Nepali."
+    },
+    {
+      "id": "MAN-05-0109",
+      "page": "18",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Referring people to MHPSS activities, including to mental health care providers, as needed.",
+      "ne": "▶ आवश्यकताअनुसार मानिसहरूलाई MHPSS गतिविधिहरूका लागि सम्बन्धित सेवामा पठाउने कार्य गर्ने, जसमा मानसिक स्वास्थ्य सेवा प्रदायकहरूकहाँ पठाउने कार्य पनि समावेश हुन्छ।",
+      "bt": "▶ Refer people to relevant services for MHPSS activities as needed, including referrals to mental health service providers.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T172",
+        "T157",
+        "T236"
+      ],
+      "flags": [],
+      "note": "Mental health care wording reuses [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] from the supplied unreviewed activity 3.10 candidate; no clinical validation is claimed."
+    },
+    {
+      "id": "MAN-05-0110",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including key messages on mental health and psychosocial support (see MSP activity 3.3) as part of regular provision of information to site residents utilizing their preferred communication formats and languages, including on services available in the site (MSCM 2.2).",
+      "ne": "▶ स्थलका बासिन्दालाई उनीहरूले रुचाएका सञ्चारका स्वरूप र भाषाहरू प्रयोग गरी नियमित रूपमा सूचना प्रदान गर्दा स्थलमा उपलब्ध सेवासम्बन्धी जानकारीसमेत समेट्ने र मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी मुख्य सन्देशहरू पनि समावेश गर्ने (MSP गतिविधि 3.3 हेर्नुहोस्; MSCM 2.2)।",
+      "bt": "▶ When regularly providing information to site residents using their preferred forms of communication and languages, also cover information about services available at the site and include key messages on mental health and psychosocial support (see MSP Activity 3.3; MSCM 2.2).",
+      "type": "check",
+      "terms": [
+        "T175",
+        "T001",
+        "T091",
+        "T253",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The composite MHPSS wording reuses the supplied unreviewed candidate T001."
+    },
+    {
+      "id": "MAN-05-0111",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Monitoring MHPSS-related outputs and outcomes (e.g. improvements in well-being following a participatory approach to the management of the site).",
+      "ne": "▶ MHPSS सम्बन्धी प्रतिफलहरू र परिणामहरूको अनुगमन गर्ने (जस्तै, स्थलको व्यवस्थापनमा सहभागितामूलक पद्धति अपनाएपछि कल्याणमा भएको सुधार)।",
+      "bt": "▶ Monitor MHPSS-related outputs and outcomes (e.g., improvement in well-being after adopting a participatory approach to site management).",
+      "type": "general",
+      "terms": [
+        "T271",
+        "T274",
+        "T276",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring terms: monitoring = [Nepali wording recorded in terminology evidence]; outputs = [Nepali wording recorded in terminology evidence]; outcomes = [Nepali wording recorded in terminology evidence]. These are drafting proposals, not glossary amendments."
+    },
+    {
+      "id": "MAN-05-0112",
+      "page": "19",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सान्दर्भिक स्रोतसामग्री हेर्नुहोस्।",
+      "bt": "See relevant resource materials on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189",
+        "T416"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0113",
+      "page": "19",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key consideration 9: Integrating MHPSS into shelter and settlement programming",
+      "ne": "मुख्य विचारणीय पक्ष 9: आश्रय तथा बसोबाससम्बन्धी कार्यक्रम तर्जुमा तथा सञ्चालनमा MHPSS एकीकृत गर्ने",
+      "bt": "Key consideration 9: Integrating MHPSS into the design and implementation of shelter and settlement programmes",
+      "type": "check",
+      "terms": [
+        "T252",
+        "T297",
+        "T300"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring terms: shelter = [Nepali wording recorded in terminology evidence]; settlement = [Nepali wording recorded in terminology evidence]; programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0114",
+      "page": "19",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Living conditions during humanitarian crises can affect people’s physical and mental well-being as much as the initial crisis or disaster. Overcrowding, poor ventilation, inadequate or unsafe toilets and washing facilities, inadequate menstrual hygiene facilities, inadequate water supply and poor waste management all increase stress, protection risks and ill health.",
+      "ne": "मानवीय सङ्कटहरूका बेला जीवनयापनका अवस्थाले मानिसहरूको शारीरिक तथा मानसिक कल्याणमा प्रारम्भिक सङ्कट वा विपद्ले जत्तिकै असर पार्न सक्छन्। अत्यधिक भीडभाड, हावाको कमजोर आवागमन, अपर्याप्त वा असुरक्षित शौचालय र धुनेपखाल्ने सुविधा, महिनावारीको स्वच्छताका लागि अपर्याप्त सुविधा, अपर्याप्त पानी आपूर्ति र फोहोरको कमजोर व्यवस्थापन सबैले तनाव, संरक्षणसम्बन्धी जोखिम र अस्वस्थता बढाउँछन्।",
+      "bt": "During humanitarian crises, living conditions can affect people's physical and mental well-being as much as the initial crisis or disaster. Excessive overcrowding, poor ventilation, inadequate or unsafe toilets and washing facilities, inadequate facilities for menstrual hygiene, inadequate water supply and poor waste management all increase stress, protection-related risks and ill health.",
+      "type": "safety",
+      "terms": [
+        "T378",
+        "T328",
+        "T029"
+      ],
+      "flags": [],
+      "note": "Physical and mental well-being remain distinct from psychosocial well-being, and all listed living-condition risks are retained."
+    },
+    {
+      "id": "MAN-05-0115",
+      "page": "19",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Shelter actors can integrate MHPSS into programming by:",
+      "ne": "आश्रयसम्बन्धी सम्बद्ध पक्षहरूले निम्न उपायबाट कार्यक्रम तर्जुमा तथा सञ्चालनमा MHPSS एकीकृत गर्न सक्छन्।",
+      "bt": "Shelter-related stakeholders can integrate MHPSS into programme design and implementation through the following measures.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T300"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring terms: shelter = [Nepali wording recorded in terminology evidence]; programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0116",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including MHPSS and cultural considerations in shelter assessments (see MSP activity 1.2).",
+      "ne": "▶ आश्रयसम्बन्धी लेखाजोखामा MHPSS र सांस्कृतिक पक्षहरू समावेश गर्ने (MSP गतिविधि 1.2 हेर्नुहोस्)।",
+      "bt": "▶ Include MHPSS and cultural aspects in shelter-related assessments (see MSP Activity 1.2).",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T091",
+        "T300"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring term: shelter = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0117",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Advocating for improved living conditions and adequate shelter. Safe, adequate shelter supports well-being and contributes to recovery from disaster and displacement. There is also a link between physical recovery/reconstruction and psychosocial recovery: community-led repair and/or (re)construction of homes contributes to people’s dignity and sense of agency in humanitarian settings (see MSP activity 3.1).",
+      "ne": "▶ जीवनयापनका अवस्था सुधार्न र पर्याप्त आश्रय उपलब्ध गराउन पैरवी गर्ने। सुरक्षित र पर्याप्त आश्रयले कल्याणलाई सहयोग पुर्‍याउँछ र विपद् तथा विस्थापनबाट पुनर्बहालीमा योगदान गर्छ। भौतिक पुनर्बहाली/पुनर्निर्माण र मनोसामाजिक पुनर्बहालीबीच पनि सम्बन्ध छ: घरहरूको मर्मत र/वा (पुनः)निर्माणका लागि समुदायको नेतृत्वमा सञ्चालित कार्यले मानवीय सङ्कटसँग सम्बन्धित परिवेशमा मानिसहरूको मर्यादा र आफैँ निर्णय तथा कार्य गर्न सक्ने अनुभूतिमा योगदान गर्छ (MSP गतिविधि 3.1 हेर्नुहोस्)।",
+      "bt": "▶ Advocate to improve living conditions and provide adequate shelter. Safe and adequate shelter supports well-being and contributes to recovery from disaster and displacement. There is also a relationship between physical recovery/reconstruction and psychosocial recovery: community-led work for the repair and/or (re)construction of houses contributes to people's dignity and sense of being able to make decisions and act for themselves in settings related to humanitarian crises (see MSP Activity 3.1).",
+      "type": "safety",
+      "terms": [
+        "T300",
+        "T328",
+        "T358",
+        "T410",
+        "T207",
+        "T344",
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The draft preserves the link between physical and psychosocial recovery and renders agency as a sense of being able to decide and act. The original Nepali narrows 'humanitarian settings' to settings where humanitarian assistance is provided, adding an assistance-provision condition absent from the source. The repair removes that condition."
+    },
+    {
+      "id": "MAN-05-0118",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing assistance in ways that support mental health and psychosocial well-being (see MSP activity 3.1) by:",
+      "ne": "▶ निम्न उपायबाट मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सहयोग पुग्ने गरी सहायता प्रदान गर्ने (MSP गतिविधि 3.1 हेर्नुहोस्)।",
+      "bt": "▶ Provide assistance in a way that supports mental health and psychosocial well-being through the following measures (see MSP Activity 3.1).",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T091",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being wording reuses the supplied unreviewed candidates T157 and T005."
+    },
+    {
+      "id": "MAN-05-0119",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Promoting the participation of community members, including people at heightened risk (e.g. women, persons with disabilities, displaced people, and older adults), in assessments, programme planning, and implementation, for example, by enabling people to choose their own shelter arrangements, neighbours and living areas where possible (see Sphere Shelter and settlement standards 1, 2, 3 and 5).",
+      "ne": "• लेखाजोखा, कार्यक्रमको योजना र कार्यान्वयनमा बढी जोखिममा रहेका मानिसहरू (जस्तै, महिला, अपाङ्गता भएका व्यक्तिहरू, विस्थापित मानिसहरू र ज्येष्ठ वयस्कहरू) सहित समुदायका सदस्यहरूको सहभागिता प्रवर्द्धन गर्ने; उदाहरणका लागि, सम्भव भएसम्म मानिसहरूलाई आफ्नो आश्रयको व्यवस्था, छिमेकी र बसोबास गर्ने क्षेत्र आफैँ रोज्न सक्षम बनाउने (Sphere का आश्रय तथा बसोबाससम्बन्धी मापदण्डहरू 1, 2, 3 र 5 हेर्नुहोस्)।",
+      "bt": "• Promote the participation of community members, including people at greater risk (e.g., women, persons with disabilities, displaced people and older adults), in assessments, programme planning and implementation; for example, wherever possible, enable people to choose their own shelter arrangements, neighbours and area of residence (see Sphere shelter and settlement standards 1, 2, 3 and 5).",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T073",
+        "T074",
+        "T087",
+        "T297",
+        "T300",
+        "T344",
+        "T380",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Ordinary participation and inclusion guidance is translated rather than protected. Proposed missing recurring terms: shelter = [Nepali wording recorded in terminology evidence]; settlement = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0120",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Selecting and designing sites that enable access to communal spaces for social, cultural, religious, educational and information-sharing activities (e.g. markets, schools, places of worship, community centres, recreational areas; see Sphere Shelter and settlement standards 2 and 3).",
+      "ne": "• सामाजिक, सांस्कृतिक, धार्मिक, शैक्षिक तथा सूचना आदानप्रदानका गतिविधिका लागि सामुदायिक स्थलहरूमा पहुँच सम्भव हुने गरी स्थलहरू छनोट गर्ने र तिनको रूपरेखा तयार गर्ने (जस्तै, बजार, विद्यालय, उपासनास्थल, सामुदायिक केन्द्र, मनोरञ्जनात्मक क्षेत्र; Sphere का आश्रय तथा बसोबाससम्बन्धी मापदण्डहरू 2 र 3 हेर्नुहोस्)।",
+      "bt": "• Select sites and prepare their layouts so that access to community spaces for social, cultural, religious, educational and information-sharing activities is possible (e.g., markets, schools, places of worship, community centres, recreational areas; see Sphere shelter and settlement standards 2 and 3).",
+      "type": "check",
+      "terms": [
+        "T125",
+        "T081",
+        "T087",
+        "T297",
+        "T300"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring terms: shelter = [Nepali wording recorded in terminology evidence]; settlement = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0121",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Using familiar and locally-available construction materials that allow families to make their own repairs to avoid dependency.",
+      "ne": "• परनिर्भरता रोक्न परिवारले मर्मतसम्भार आफैँ गर्न सक्ने गरी परिचित र स्थानीय रूपमा उपलब्ध निर्माण सामग्री प्रयोग गर्ने।",
+      "bt": "• Use familiar and locally available construction materials so that families can carry out maintenance themselves to prevent dependence on others.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0122",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Promoting and facilitating homemaking activities (e.g. gardening) (see Sphere Shelter and settlement standard 5).",
+      "ne": "• बस्ने ठाउँलाई घरजस्तो बनाउने गतिविधिहरू (जस्तै, बगैँचा लगाउने काम) प्रवर्द्धन गर्ने र तिनमा सहजीकरण गर्ने (Sphere को आश्रय तथा बसोबाससम्बन्धी मापदण्ड 5 हेर्नुहोस्)।",
+      "bt": "• Promote and facilitate activities that make the place of residence like a home (e.g., gardening) (see Sphere's shelter and settlement standard 5).",
+      "type": "check",
+      "terms": [
+        "T297",
+        "T300"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring terms: shelter = [Nepali wording recorded in terminology evidence]; settlement = [Nepali wording recorded in terminology evidence]. The singular standard follows the source; the plural glossary form T087 is not listed as used. The original Nepali narrows homemaking to putting the home in order. The revision retains the broader meaning of making a living space into a home, including gardening."
+    },
+    {
+      "id": "MAN-05-0123",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Maximising privacy, ease of movement, and social support (e.g. by providing, wherever possible, family-size shelters, avoiding separating people who wish to be together, enabling reunited families to live together, integrating traditional positioning of neighbouring houses, facilitating the provision of shelter for isolated, at-risk individuals, such as people with severe mental health conditions and their families; see Sphere Shelter and settlement standard 2).",
+      "ne": "• निजता, आवतजावतको सहजता र सामाजिक सहयोग अधिकतम बनाउने (उदाहरणका लागि, सम्भव भएसम्म एउटा परिवारका लागि पुग्ने आकारका आश्रय उपलब्ध गराएर, सँगै बस्न चाहने मानिसहरूलाई अलग नगरेर, पुनर्मिलन भएका परिवारहरूलाई सँगै बस्न मिल्ने बनाएर, छिमेकी घरहरूको परम्परागत अवस्थितिलाई समेटेर र गम्भीर मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्ति तथा तिनका परिवारजस्ता एक्लिएका र जोखिममा रहेका व्यक्तिहरूका लागि आश्रय उपलब्ध गराउन सहजीकरण गरेर; [Sphere Shelter and settlement standard 2] हेर्नुहोस्)।",
+      "bt": "• Maximize privacy, ease of movement and social support (for example, by providing shelters of a size sufficient for one family wherever possible, not separating people who want to live together, making it possible for reunited families to live together, incorporating the traditional positioning of neighbouring houses and facilitating the provision of shelter for isolated and at-risk people such as people with severe mental health conditions and their families; see [Sphere Shelter and settlement standard 2]).",
+      "type": "safety",
+      "terms": [
+        "T300",
+        "T478",
+        "T476",
+        "T157",
+        "T027"
+      ],
+      "flags": [],
+      "note": "The draft retains the wherever-possible condition, preferences about staying together, family reunification and the example involving severe mental health conditions."
+    },
+    {
+      "id": "MAN-05-0124",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Organizing orientations in basic psychosocial support (e.g. psychological first aid), for shelter workers, including the identification and referral of children and adults who may need MHPSS services and supports (see MSP activity 3.2).",
+      "ne": "▶ MHPSS सेवा र सहयोग आवश्यक पर्न सक्ने बालबालिका तथा वयस्कको पहिचान गर्ने र सम्बन्धित सेवामा पठाउने कार्यसमेत समेटेर आश्रयसम्बन्धी काम गर्ने कार्यकर्ताहरूका लागि आधारभूत मनोसामाजिक सहयोग (जस्तै, [psychological first aid]) सम्बन्धी अभिमुखीकरण आयोजना गर्ने (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "▶ Organize orientation on basic psychosocial support (for example, [psychological first aid]) for workers doing shelter-related work, including identifying children and adults who may need MHPSS services and support and referring them to relevant services (see MSP activity 3.2).",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T300",
+        "T454",
+        "T410",
+        "T014",
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The named intervention remains exactly in English, and the orientation guidance retains shelter workers as its audience."
+    },
+    {
+      "id": "MAN-05-0125",
+      "page": "19",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Monitoring MHPSS-related outputs and outcomes (e.g. improvements in well-being following a participatory approach to emergency shelter programming).",
+      "ne": "▶ MHPSS सम्बन्धी प्रतिफलहरू र परिणामहरूको अनुगमन गर्ने (जस्तै, आपत्कालीन आश्रयका कार्यक्रम तर्जुमा तथा सञ्चालनमा सहभागितामूलक पद्धति अपनाएपछि कल्याणमा भएको सुधार)।",
+      "bt": "▶ Monitor MHPSS-related outputs and outcomes (e.g., improvement in well-being after adopting a participatory approach to the design and implementation of emergency shelter programmes).",
+      "type": "general",
+      "terms": [
+        "T271",
+        "T274",
+        "T276",
+        "T300",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring terms: monitoring = [Nepali wording recorded in terminology evidence]; outputs = [Nepali wording recorded in terminology evidence]; outcomes = [Nepali wording recorded in terminology evidence]; shelter = [Nepali wording recorded in terminology evidence]; programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0126",
+      "page": "19",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सान्दर्भिक स्रोतसामग्री हेर्नुहोस्।",
+      "bt": "See relevant resource materials on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189",
+        "T416"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0127",
+      "page": "19",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key consideration 10: Integrating MHPSS into water, sanitation and hygiene programming",
+      "ne": "मुख्य विचारणीय पक्ष 10: खानेपानी, सरसफाइ तथा स्वच्छतासम्बन्धी कार्यक्रम तर्जुमा तथा सञ्चालनमा MHPSS एकीकृत गर्ने",
+      "bt": "Key consideration 10: Integrating MHPSS into the design and implementation of drinking water, sanitation and hygiene programmes",
+      "type": "check",
+      "terms": [
+        "T033",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring term: programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0128",
+      "page": "19",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "The way in which water, sanitation and hygiene is provided to affected populations can have a substantial impact on their dignity, mental health, and psychosocial well-being. Emergency-affected populations are likely to face substantially increased stress, protection risks, and illness where WASH facilities are unclean, unsafe, or culturally inappropriate; where there is a lack of menstrual hygiene management, where the water supply is inadequate; or where waste management is poor. There is also growing evidence that mental health and psychosocial well-being (e.g. levels of anxiety, self-efficacy, social connectedness) shape the extent to which people engage in certain health and hygiene behaviours during public health emergencies (e.g. handwashing, physical distancing, restricting movement). MHPSS and WASH outcomes are therefore closely interlinked.",
+      "ne": "प्रभावित जनसमूहलाई खानेपानी, सरसफाइ तथा स्वच्छता उपलब्ध गराउने तरिकाले उनीहरूको गरिमा, मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा उल्लेख्य प्रभाव पार्न सक्छ। खानेपानी, सरसफाइ तथा स्वच्छता (WASH) का सुविधाहरू फोहोर, असुरक्षित वा सांस्कृतिक रूपमा अनुपयुक्त भएका अवस्थामा; महिनावारी स्वच्छता व्यवस्थापनको अभाव भएका अवस्थामा; पानीको आपूर्ति अपर्याप्त भएका अवस्थामा; वा फोहोरमैला व्यवस्थापन कमजोर भएका अवस्थामा आपत्कालीन अवस्थाबाट प्रभावित जनसमूहले उल्लेख्य रूपमा बढेको तनाव, संरक्षणसम्बन्धी जोखिम र रोगको सामना गर्नुपर्ने सम्भावना हुन्छ। मानसिक स्वास्थ्य र मनोसामाजिक कल्याणले (जस्तै, चिन्ताको स्तर, आफ्नो क्षमतामाथिको विश्वास, सामाजिक आबद्धता) सार्वजनिक स्वास्थ्यसम्बन्धी आपत्कालीन अवस्थामा मानिसहरूले स्वास्थ्य र सरसफाइसम्बन्धी केही व्यवहारहरू (जस्तै, हात धुने, भौतिक दूरी कायम गर्ने, आवागमन सीमित गर्ने) कुन हदसम्म अपनाउँछन् भन्ने कुरामा प्रभाव पार्छन् भन्ने प्रमाण पनि बढ्दै गएको छ। त्यसैले MHPSS र WASH का परिणाम एकअर्कासँग घनिष्ठ रूपमा जोडिएका छन्।",
+      "bt": "The way drinking water, sanitation and hygiene are made available to affected populations can have a significant effect on their dignity, mental health and psychosocial well-being. In situations where drinking water, sanitation and hygiene (WASH) facilities are dirty, unsafe or culturally inappropriate; where menstrual hygiene management is lacking; where the water supply is insufficient; or where waste management is weak, populations affected by emergencies are likely to face significantly increased stress, protection-related risks and disease. There is also growing evidence that mental health and psychosocial well-being (for example, levels of anxiety, belief in one's own abilities, social connectedness) affect the extent to which people adopt certain health and sanitation-related behaviours (for example, washing hands, maintaining physical distance, limiting movement) during public health emergencies. Therefore, MHPSS and WASH outcomes are closely linked to each other.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T027",
+        "T029",
+        "T033",
+        "T084",
+        "T131",
+        "T157",
+        "T186",
+        "T192",
+        "T274",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Stress, anxiety, self-efficacy and social connectedness are drafted without supplied matching glossary entries; none is presented as a named diagnosis. bt-divergence: The frozen forms खानेपानी, सरसफाइ तथा स्वच्छता and खानेपानी, सरसफाइ तथा स्वच्छता (WASH) specify drinking water, whereas the source says water without that restriction. The frozen forms are retained; no other substantive difference identified."
+    },
+    {
+      "id": "MAN-05-0129",
+      "page": "20",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "WASH actors can integrate MHPSS into programming by:",
+      "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH) का सम्बद्ध पक्षहरूले निम्न उपायबाट कार्यक्रम तर्जुमा तथा सञ्चालनमा MHPSS एकीकृत गर्न सक्छन्।",
+      "bt": "Drinking water, sanitation and hygiene (WASH) stakeholders can integrate MHPSS into programme design and implementation through the following measures.",
+      "type": "general",
+      "terms": [
+        "T186",
+        "T114"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring term: programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-05-0130",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including MHPSS and cultural considerations in WASH assessments (see MSP activity 1.1).",
+      "ne": "▶ खानेपानी, सरसफाइ तथा स्वच्छता (WASH) सम्बन्धी लेखाजोखामा MHPSS र सांस्कृतिक पक्षहरू समावेश गर्ने (MSP गतिविधि 1.1 हेर्नुहोस्)।",
+      "bt": "▶ Include MHPSS and cultural aspects in drinking water, sanitation and hygiene (WASH) assessments (see MSP Activity 1.1).",
+      "type": "check",
+      "terms": [
+        "T186",
+        "T004",
+        "T091"
+      ],
+      "flags": [],
+      "note": "The source reference MSP activity 1.1 is preserved without correction."
+    },
+    {
+      "id": "MAN-05-0131",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing assistance in ways that support mental health and psychosocial well-being (see MSP activity 3.1) by:",
+      "ne": "▶ मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सहयोग पुग्ने गरी निम्न तरिकाले सहायता प्रदान गर्ने (MSP गतिविधि 3.1 हेर्नुहोस्)।",
+      "bt": "▶ Provide assistance in the following ways so as to support mental health and psychosocial well-being (see MSP Activity 3.1).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T091",
+        "T163",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being wording reuses the supplied unreviewed candidates."
+    },
+    {
+      "id": "MAN-05-0132",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Promoting the participation of target communities, including at-risk groups such as women, persons with disabilities and older adults, in assessment, programme planning and implementation. (e.g. formation and engagement of gender-balanced water committees consisting of community members and including representatives from various sub-groups) (see Sphere Hygiene promotion standards 1.1, 1.3).",
+      "ne": "• लेखाजोखा, कार्यक्रमको योजना तथा कार्यान्वयनमा महिला, अपाङ्गता भएका व्यक्तिहरू र ज्येष्ठ वयस्क जस्ता जोखिममा रहेका समूहसहित लक्षित समुदायको सहभागिता प्रवर्द्धन गर्ने (जस्तै, समुदायका सदस्यहरूबाट बनेका, विभिन्न उपसमूहका प्रतिनिधिसमेत समावेश भएका र लैङ्गिक सन्तुलन कायम गरिएका पानीसम्बन्धी समितिहरू गठन गर्ने र तिनलाई संलग्न गराउने) (Sphere स्वच्छता प्रवर्द्धन मापदण्डहरू 1.1, 1.3 हेर्नुहोस्)।",
+      "bt": "• Promote the participation of the target community, including groups at risk such as women, persons with disabilities and older adults, in assessment, programme planning and implementation (for example, form and involve water-related committees made up of community members, also including representatives of different subgroups and maintaining gender balance) (see Sphere Hygiene Promotion Standards 1.1, 1.3).",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T073",
+        "T074",
+        "T087",
+        "T233",
+        "T334",
+        "T344",
+        "T380",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose a glossary entry for 'hygiene promotion', meaning actions that encourage hygiene practices; a provisional nonclinical rendering is used here."
+    },
+    {
+      "id": "MAN-05-0133",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Promoting safety, dignity and protection in all water and sanitation activities, including BabyWASH interventions (interventions that integrate WASH across programme areas such as ECD, Nutrition, and Maternal, Newborn and Child Health to improve child health outcomes).",
+      "ne": "• BabyWASH हस्तक्षेपसहित पानी तथा सरसफाइसम्बन्धी सबै गतिविधिमा सुरक्षा, मर्यादा र संरक्षण प्रवर्द्धन गर्ने (BabyWASH हस्तक्षेपले बाल स्वास्थ्यका नतिजा सुधार गर्न ECD, पोषण तथा मातृ, नवजात शिशु र बाल स्वास्थ्य जस्ता कार्यक्रम क्षेत्रहरूमा खानेपानी, सरसफाइ तथा स्वच्छता (WASH) एकीकृत गर्छन्)।",
+      "bt": "• Promote safety, dignity and protection in all water and sanitation activities, including BabyWASH interventions (BabyWASH interventions integrate water, sanitation and hygiene (WASH) into programme areas such as ECD, nutrition and maternal, newborn and child health to improve child health outcomes).",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T030",
+        "T027",
+        "T186",
+        "T409"
+      ],
+      "flags": [],
+      "note": "General programme safety guidance drafted for review. BabyWASH and ECD are retained; no clinical procedure is introduced."
+    },
+    {
+      "id": "MAN-05-0134",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Preventing and managing conflict in a constructive manner (e.g. by asking water committees or other community groups to develop a system for preventing and managing conflict).",
+      "ne": "• रचनात्मक तरिकाले द्वन्द्व रोकथाम तथा व्यवस्थापन गर्ने (जस्तै, पानीसम्बन्धी समिति वा अन्य सामुदायिक समूहलाई द्वन्द्व रोकथाम तथा व्यवस्थापनका लागि प्रणाली विकास गर्न अनुरोध गरेर)।",
+      "bt": "• Prevent and manage conflict in constructive ways (for example, by requesting water-related committees or other community groups to develop systems for conflict prevention and management).",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary community conflict-prevention and management wording; no clinical content."
+    },
+    {
+      "id": "MAN-05-0135",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Advocating for the inclusion of menstrual hygiene management and incontinence interventions that include MHPSS considerations for women and girls (see Sphere Hygiene promotion standard 1.3).",
+      "ne": "• महिला र बालिकाहरूका लागि MHPSS सम्बन्धी विचारणीय पक्षहरू समेट्ने महिनावारी स्वच्छता व्यवस्थापन र पिसाब वा दिसा रोक्न नसकिने अवस्थासम्बन्धी हस्तक्षेपहरू समावेश गर्न वकालत गर्ने (Sphere को स्वच्छता प्रवर्द्धन मानक 1.3 हेर्नुहोस्)।",
+      "bt": "• Advocate for the inclusion of menstrual hygiene management and interventions concerning the inability to control urination or defecation that incorporate MHPSS-related considerations for women and girls (see Sphere Hygiene Promotion Standard 1.3).",
+      "type": "safety",
+      "terms": [
+        "T084"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "No matching glossary entry is supplied for incontinence interventions; the draft describes the condition without introducing a named treatment."
+    },
+    {
+      "id": "MAN-05-0136",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Orienting WASH workers on basic psychosocial support, including identification and referral of children and adults who may need MHPSS services and supports (see MSP activity 3.2).",
+      "ne": "▶ MHPSS सेवा तथा सहयोग आवश्यक पर्न सक्ने बालबालिका र वयस्कको पहिचान र सम्बन्धित सेवामा पठाउने कार्य समावेश गरी खानेपानी, सरसफाइ तथा स्वच्छता (WASH) का कार्यकर्तालाई आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण गर्ने (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "▶ Orient water, sanitation and hygiene (WASH) workers on basic psychosocial support, including identifying children and adults who may need MHPSS services and support and referring them to the relevant services (see MSP Activity 3.2).",
+      "type": "safety",
+      "terms": [
+        "T186",
+        "T172",
+        "T091",
+        "T163",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Basic psychosocial support wording reuses the supplied unreviewed activity 3.2 candidate. General identification and referral guidance is drafted; safety review is pending."
+    },
+    {
+      "id": "MAN-05-0137",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including key messages on mental health and psychosocial support (see MSP activity 3.3) as part of WASH activities.",
+      "ne": "▶ खानेपानी, सरसफाइ तथा स्वच्छता (WASH) सम्बन्धी गतिविधिको अङ्गका रूपमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी मुख्य सन्देशहरू समावेश गर्ने (MSP गतिविधि 3.3 हेर्नुहोस्)।",
+      "bt": "▶ Include key messages about mental health and psychosocial support as part of water, sanitation and hygiene (WASH) activities (see MSP Activity 3.3).",
+      "type": "general",
+      "terms": [
+        "T186",
+        "T001",
+        "T091",
+        "T163",
+        "T253",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The composite mental health and psychosocial support term reuses the supplied unreviewed candidate."
+    },
+    {
+      "id": "MAN-05-0138",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing for WASH needs as part of MHPSS activities (e.g. handwashing/hygiene included in activities for children, meeting WASH needs of persons in mental hospitals and institutions - see MSP activity 3.14).",
+      "ne": "▶ MHPSS गतिविधिहरूको अङ्गका रूपमा खानेपानी, सरसफाइ तथा स्वच्छता (WASH) सम्बन्धी आवश्यकता पूरा गर्ने (जस्तै, बालबालिकाका लागि गरिने गतिविधिमा हात धुने/स्वच्छता समावेश गर्ने, मानसिक अस्पताल तथा संस्थामा रहेका व्यक्तिहरूका WASH सम्बन्धी आवश्यकता पूरा गर्ने; MSP गतिविधि 3.14 हेर्नुहोस्)।",
+      "bt": "▶ Meet water, sanitation and hygiene (WASH) needs as part of MHPSS activities (for example, include handwashing/hygiene in activities for children, meet the WASH needs of persons in psychiatric hospitals and institutions; see MSP Activity 3.14).",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T186",
+        "T015",
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The institutional term reuses the supplied unreviewed candidate. This row concerns WASH provision, not clinical treatment."
+    },
+    {
+      "id": "MAN-05-0139",
+      "page": "20",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सान्दर्भिक स्रोत सामग्री हेर्नुहोस्।",
+      "bt": "See relevant resource materials on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0140",
+      "page": "20",
+      "loc": "heading",
+      "section": "Introduction > Overview",
+      "en": "Key consideration 11: Integrating MHPSS into food security and livelihoods programming",
+      "ne": "मुख्य विचारणीय पक्ष 11: खाद्य सुरक्षा तथा जीविकोपार्जनसम्बन्धी कार्यक्रम तर्जुमा तथा सञ्चालनमा MHPSS एकीकृत गर्ने",
+      "bt": "Key consideration 11: Integrating MHPSS into the formulation and operation of food security and livelihoods programmes",
+      "type": "general",
+      "terms": [
+        "T034",
+        "T252"
+      ],
+      "flags": [],
+      "note": "Translated as a nonclinical programme-integration heading."
+    },
+    {
+      "id": "MAN-05-0141",
+      "page": "20",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "Emergencies often disrupt access to food and cash, with many people losing their livelihoods and means of survival. This can cause severe stress and force people to engage in risky coping strategies, which may further impact their health, well-being, safety, and social relationships. For example, people may engage in risky migration or trafficking, sex work, child labour, or child marriage. The consequences of food insecurity are often gendered, with women and girls eating last and least. Harmful practices such as these can be extremely detrimental to mental health and psychosocial well-being and may have long-term effects on individual and community-wide recovery. Where food insecurity leads to malnutrition, children are at severe risk of disrupted cognitive, emotional, and social development (see key consideration 24 and MSP activity 3.5).",
+      "ne": "आपत्कालीन अवस्थामा प्रायः खाद्यान्न र नगदमा पहुँच अवरुद्ध हुन्छ, र धेरै मानिसहरूले आफ्नो जीविकोपार्जन तथा बाँच्ने आधार गुमाउँछन्। यसले तीव्र तनाव उत्पन्न गर्न सक्छ र मानिसहरूलाई कठिनाइको सामना गर्ने रणनीतिहरूअन्तर्गत जोखिमपूर्ण उपाय अपनाउन बाध्य पार्न सक्छ, जसले उनीहरूको स्वास्थ्य, कल्याण, सुरक्षा र सामाजिक सम्बन्धमा थप प्रभाव पार्न सक्छ। उदाहरणका लागि, मानिसहरू जोखिमपूर्ण बसाइँसराइ वा मानव बेचबिखन, यौन कार्य, बालश्रम वा बालविवाहमा संलग्न हुन सक्छन्। खाद्य असुरक्षाका परिणाम प्रायः लैङ्गिक आधारमा फरक हुन्छन्, जसमा महिला र बालिकाहरूले सबैभन्दा पछि र सबैभन्दा कम खाने गर्छन्। यस्ता हानिकारक अभ्यासहरू मानसिक स्वास्थ्य र मनोसामाजिक कल्याणका लागि अत्यन्त हानिकारक हुन सक्छन् र व्यक्ति तथा समग्र समुदायको पुनःस्थापनामा दीर्घकालीन प्रभाव पार्न सक्छन्। खाद्य असुरक्षाका कारण कुपोषण हुने अवस्थामा बालबालिकाको संज्ञानात्मक, भावनात्मक र सामाजिक विकासमा अवरोध आउने गम्भीर जोखिम हुन्छ (मुख्य विचारणीय पक्ष 24 र MSP गतिविधि 3.5 हेर्नुहोस्)।",
+      "bt": "In emergencies, access to food and cash is often disrupted, and many people lose their livelihoods and basis for survival. This can generate intense stress and force people to adopt risky measures as strategies for coping with difficulties, which can further affect their health, well-being, safety and social relationships. For example, people may become involved in risky migration or human trafficking, sex work, child labour or child marriage. The consequences of food insecurity often differ on the basis of gender, with women and girls eating last and least. Such harmful practices can be extremely harmful to mental health and psychosocial well-being and can have long-term effects on the recovery of individuals and the community as a whole. When food insecurity causes malnutrition, there is a serious risk of disruption to children's cognitive, emotional and social development (see Key Consideration 24 and MSP Activity 3.5).",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T027",
+        "T091",
+        "T131",
+        "T155",
+        "T157",
+        "T163",
+        "T233",
+        "T252",
+        "T274",
+        "T328",
+        "T344",
+        "T410",
+        "T459"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "Severe stress and malnutrition have no supplied matching glossary entries; the source's phrase about engaging in trafficking does not specify whether people participate in it or are subjected to it, and the draft does not resolve that ambiguity."
+    },
+    {
+      "id": "MAN-05-0142",
+      "page": "20",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "As community members recover from a humanitarian crisis, FSL programming can help restore their independence, sense of social identity, and meaningful participation in community life. Engaging in safe, dignified FSL activities can promote a sense of resilience, agency, and self-efficacy - factors that can be central to mental health and psychosocial well-being. MHPSS activities can help people to build skills in positive coping, communication, conflict resolution, and many other areas that facilitate effective participation in livelihoods.",
+      "ne": "समुदायका सदस्यहरू मानवीय सङ्कटबाट पुनः सम्हालिँदै जाँदा खाद्य सुरक्षा तथा जीविकोपार्जन (FSL) सम्बन्धी कार्यक्रमले उनीहरूको स्वावलम्बन, सामाजिक पहिचानको अनुभूति र सामुदायिक जीवनमा अर्थपूर्ण सहभागिता पुनःस्थापित गर्न मद्दत गर्न सक्छ। सुरक्षित तथा मर्यादित FSL गतिविधिमा संलग्न हुँदा कठिनाइबाट पुनः सम्हालिन सक्ने, आफ्ना निर्णयअनुसार कार्य गर्न सक्ने र आफ्नै क्षमतामा विश्वास गर्न सक्ने अनुभूति प्रवर्द्धन हुन सक्छ; यी पक्ष मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि केन्द्रीय हुन सक्छन्। MHPSS गतिविधिहरूले मानिसहरूलाई सकारात्मक रूपमा कठिनाइ सामना गर्ने, सञ्चार गर्ने, द्वन्द्व समाधान गर्ने तथा जीविकोपार्जनमा प्रभावकारी सहभागिता सहज बनाउने अन्य धेरै क्षेत्रका सीप विकास गर्न मद्दत गर्न सक्छन्।",
+      "bt": "As community members recover from a humanitarian crisis, food security and livelihoods (FSL) programmes can help restore their self-reliance, sense of social identity and meaningful participation in community life. Engagement in safe and dignified FSL activities can promote a sense of being able to recover from difficulties, act according to one's own decisions and believe in one's own abilities; these aspects can be central to mental health and psychosocial well-being. MHPSS activities can help people develop skills in coping positively with difficulties, communicating, resolving conflict and many other areas that facilitate effective participation in livelihoods.",
+      "type": "general",
+      "terms": [
+        "T034",
+        "T157",
+        "T005",
+        "T158",
+        "T155",
+        "T328",
+        "T344",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Nonclinical programme benefits and skills are drafted in ordinary descriptive language. Mental health and psychosocial well-being reuse supplied unreviewed candidates. Propose glossary entries for resilience, agency, self-efficacy and positive coping, preserving respectively recovery from adversity, capacity to decide and act, belief in one's capabilities, and constructive ways of handling difficulties."
+    },
+    {
+      "id": "MAN-05-0143",
+      "page": "20",
+      "loc": "table-cell",
+      "section": "Introduction > Overview",
+      "en": "FSL actors can integrate MHPSS into programming by:",
+      "ne": "खाद्य सुरक्षा तथा जीविकोपार्जन (FSL) का सम्बद्ध पक्षहरूले निम्न तरिकाले कार्यक्रम तर्जुमा तथा सञ्चालनमा MHPSS एकीकृत गर्न सक्छन्।",
+      "bt": "Stakeholders in food security and livelihoods (FSL) can integrate MHPSS into programme formulation and operation in the following ways.",
+      "type": "general",
+      "terms": [
+        "T034",
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-05-0144",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Including MHPSS-related factors in needs assessments: e.g. assessing social and cultural factors related to food security, nutrition and food aid such as dietary beliefs and practices, household roles, and cultural taboos (see MSP activity 1.1). Assessments should also consider the extent to which people recovering from mental health conditions can access livelihoods (see MSP activity 1.2 and Sphere Livelihoods standard 7.2).",
+      "ne": "▶ आवश्यकताको लेखाजोखामा MHPSS सम्बन्धी पक्षहरू समावेश गर्ने: उदाहरणका लागि, खानपानसम्बन्धी विश्वास र अभ्यास, घरपरिवारभित्रका भूमिका र सांस्कृतिक वर्जनाजस्ता खाद्य सुरक्षा, पोषण र खाद्य सहायतासँग सम्बन्धित सामाजिक तथा सांस्कृतिक पक्षहरूको लेखाजोखा गर्ने (MSP गतिविधि 1.1 हेर्नुहोस्)। लेखाजोखामा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूबाट निको हुँदै गरेका मानिसहरूले जीविकोपार्जनमा कुन हदसम्म पहुँच पाउन सक्छन् भन्ने कुरा पनि विचार गर्नुपर्छ (MSP गतिविधि 1.2 र Sphere को जीविकोपार्जन मानक 7.2 हेर्नुहोस्)।",
+      "bt": "▶ Include MHPSS-related aspects in needs assessments: for example, assess social and cultural aspects related to food security, nutrition and food assistance, such as beliefs and practices concerning eating, roles within households and cultural taboos (see MSP Activity 1.1). Assessments should also consider the extent to which people recovering from mental health conditions can access livelihoods (see MSP Activity 1.2 and Sphere Livelihoods Standard 7.2).",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T027",
+        "T030",
+        "T068",
+        "T091",
+        "T134",
+        "T135",
+        "T155",
+        "T157",
+        "T163",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied plural condition term is used without adding a daily-functioning impairment requirement, and recovery remains an ongoing process."
+    },
+    {
+      "id": "MAN-05-0145",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "▶ Providing assistance in ways that support mental health and psychosocial well-being (see MSP activity 3.1) by:",
+      "ne": "▶ मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सहयोग पुग्ने गरी निम्न तरिकाले सहायता प्रदान गर्ने (MSP गतिविधि 3.1 हेर्नुहोस्)।",
+      "bt": "▶ Provide assistance in the following ways so as to support mental health and psychosocial well-being (see MSP Activity 3.1).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T091",
+        "T163",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being wording reuses the supplied unreviewed candidates."
+    },
+    {
+      "id": "MAN-05-0146",
+      "page": "20",
+      "loc": "bullet",
+      "section": "Introduction > Overview",
+      "en": "• Promoting the participation of target communities in FSL programming and long-term food-security planning, including groups at heightened risk such as women, persons with disabilities, persons with mental health conditions and older adults. Engaging community members in recovery efforts not only improves the appropriateness and effectiveness of interventions but can also foster a sense of agency and combat feelings of helplessness and resignation (see Sphere Food security standard 5).",
+      "ne": "• महिला, अपाङ्गता भएका व्यक्तिहरू, मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरू र ज्येष्ठ वयस्कहरूजस्ता बढी जोखिममा रहेका समूहहरूलाई समेत समेटेर लक्षित समुदायहरूको FSL कार्यक्रम तर्जुमा तथा कार्यान्वयनमा र खाद्य सुरक्षाको दीर्घकालीन योजना निर्माणमा सहभागिता प्रवर्द्धन गर्ने। पुनःस्थापनाका प्रयासहरूमा समुदायका सदस्यहरूलाई संलग्न गराउँदा हस्तक्षेपहरूको उपयुक्तता र प्रभावकारिता बढ्छ। यसले आफ्नो निर्णय र कार्यमार्फत प्रभाव पार्न सक्ने अनुभूति पनि विकास गर्न सक्छ र असहायता तथा हार मानेको भावनालाई कम गर्न सक्छ (Sphere को खाद्य सुरक्षा मानक 5 हेर्नुहोस्)।",
+      "bt": "• Promote the participation of targeted communities in the formulation and implementation of FSL programmes and in the development of long-term plans for food security, including groups at greater risk such as women, persons with disabilities, persons with mental health-related conditions and older adults. Involving community members in rehabilitation efforts increases the appropriateness and effectiveness of interventions. This can also develop a sense of being able to have an effect through one's own decisions and actions and can reduce feelings of helplessness and giving up (see Sphere food security standard 5).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T073",
+        "T074",
+        "T135",
+        "T157",
+        "T282",
+        "T344",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "People with mental health conditions remain a broad population category without an added impairment criterion; the possible benefits for agency and feelings of helplessness or resignation remain qualified as possibilities. The BT makes improved appropriateness and effectiveness merely possible. The source asserts that engagement improves both, while qualifying the benefits for agency, helplessness and resignation as possibilities. The repair makes that distinction explicit."
+    }
+  ]
+}

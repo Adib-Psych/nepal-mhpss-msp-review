@@ -1,0 +1,1092 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-07",
+  "unit_title": "General principles and considerations",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "26-28",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:41:37+05:45",
+  "coverage": {
+    "source_words": 2051,
+    "row_words": 2049,
+    "skipped": [
+      "PDF p.26: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 21",
+      "PDF p.27: running footer/page number removed: 22 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.28: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 23"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-07-0001",
+      "page": "26",
+      "loc": "heading",
+      "section": "Introduction",
+      "en": "General principles and considerations",
+      "ne": "सामान्य सिद्धान्त र विचारणीय पक्षहरू",
+      "bt": "General principles and considerations",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0002",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "The following general principles and considerations are important for the implementation of the MHPSS MSP.19",
+      "ne": "MHPSS MSP कार्यान्वयनका लागि निम्न सामान्य सिद्धान्त र विचारणीय पक्षहरू महत्त्वपूर्ण छन्।19",
+      "bt": "The following general principles and considerations are important for implementing the MHPSS MSP.19",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T380"
+      ],
+      "flags": [],
+      "note": "Ordinary implementation guidance; no clinical wording required."
+    },
+    {
+      "id": "MAN-07-0003",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Promote human rights and equity for all affected persons through the protection of individuals and groups who are at greater risk of human rights violations.",
+      "ne": "मानव अधिकार उल्लङ्घनको बढी जोखिममा रहेका व्यक्ति र समूहहरूको संरक्षणमार्फत सबै प्रभावित व्यक्तिका मानव अधिकार र समता प्रवर्द्धन गर्नुहोस्।",
+      "bt": "Promote the human rights and equity of all affected people through the protection of individuals and groups at greater risk of human rights violations.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T239"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0004",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Promote non-discrimination and the proactive inclusion of at-risk groups to ensure their equitable access to MSP activities across identified geographical areas (see also Overview, “How can groups and persons at increased risk be prioritized and reached with MHPSS MSP activities and services?”).",
+      "ne": "पहिचान गरिएका भौगोलिक क्षेत्रहरूभरि MSP गतिविधिहरूमा जोखिममा रहेका समूहहरूको समतामूलक पहुँच सुनिश्चित गर्न गैरभेदभाव प्रवर्द्धन गर्नुहोस् र त्यस्ता समूहहरूलाई समावेश गर्न अग्रसर हुनुहोस् (झलकमा रहेको “बढी जोखिममा रहेका समूह र व्यक्तिहरूलाई कसरी प्राथमिकता दिन र उनीहरूसम्म MHPSS MSP गतिविधि तथा सेवाहरू पुर्‍याउन सकिन्छ?” पनि हेर्नुहोस्)।",
+      "bt": "Promote non-discrimination and take the initiative to include groups at risk to ensure their equitable access to MSP activities across the identified geographical areas (also see “How can groups and individuals at greater risk be prioritized and MHPSS MSP activities and services be brought to them?” in the overview).",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T016",
+        "T272",
+        "T334"
+      ],
+      "flags": [],
+      "note": "'Active inclusion' does not fully express 'proactive inclusion'; the revision explicitly calls for taking the initiative to include at-risk groups."
+    },
+    {
+      "id": "MAN-07-0005",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Ensure inclusion and participation: Ensure the inclusion of all affected groups in the assessment, design, implementation, monitoring and evaluation of the response, as well as in MHPSS activities.",
+      "ne": "समावेशीकरण र सहभागिता सुनिश्चित गर्नुहोस्: प्रतिकार्यको लेखाजोखा, डिजाइन, कार्यान्वयन, अनुगमन तथा मूल्याङ्कनका साथै MHPSS गतिविधिहरूमा सबै प्रभावित समूहहरूको समावेशीकरण सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure inclusion and participation: Ensure the inclusion of all affected groups in the assessment, design, implementation, monitoring and evaluation of the response, as well as in MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T004",
+        "T046",
+        "T158",
+        "T271",
+        "T380"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0006",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Facilitate this by ensuring that stakeholders representing all groups, especially the most at-risk, have access and can participate to the greatest extent possible and from the earliest phase of the emergency.",
+      "ne": "सबै समूहको, विशेष गरी सबैभन्दा बढी जोखिममा रहेका समूहको प्रतिनिधित्व गर्ने सरोकारवालाहरूको पहुँच सुनिश्चित गरेर र उनीहरू आपत्कालको सबैभन्दा प्रारम्भिक चरणदेखि नै सम्भव भएसम्म अधिकतम रूपमा सहभागी हुन सक्ने सुनिश्चित गरेर यसलाई सहज बनाउनुहोस्।",
+      "bt": "Facilitate this by ensuring access for stakeholders representing all groups, particularly the groups most at risk, and by ensuring that they can participate to the greatest extent possible from the very earliest stage of the emergency.",
+      "type": "general",
+      "terms": [
+        "T182"
+      ],
+      "flags": [],
+      "note": "'Early stages' loses the source's 'earliest phase'; the revision restores the earliest possible starting phase."
+    },
+    {
+      "id": "MAN-07-0007",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "It is key to leverage the existing capacities within communities in providing MHPSS, considering that community members are usually the first respondents, particularly at the onset of an emergency situation.",
+      "ne": "विशेषगरी आपत्कालीन अवस्था सुरु हुँदा समुदायका सदस्यहरू नै सामान्यतया पहिलो उत्तरदाता हुने भएकाले, MHPSS प्रदान गर्दा समुदायभित्र विद्यमान क्षमताहरूको उपयोग गर्नु अत्यन्त महत्त्वपूर्ण हुन्छ।",
+      "bt": "Especially because community members themselves are generally the first responders when an emergency begins, it is extremely important to use the capacities existing within the community when providing MHPSS.",
+      "type": "safety",
+      "terms": [
+        "T344",
+        "T417"
+      ],
+      "flags": [
+        "unclear-english"
+      ],
+      "note": "The source says 'first respondents', which may mean first responders; the draft retains the respondent wording rather than silently resolving this ambiguity."
+    },
+    {
+      "id": "MAN-07-0008",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Include people of different ages and genders, and people with diverse characteristics (e.g. different ethnic groups, minorities, LGBTIQ+, persons with diverse SOGIESC), including persons with disabilities.",
+      "ne": "विभिन्न उमेर र लिङ्गका व्यक्तिहरू तथा विविध विशेषता भएका व्यक्तिहरूलाई (जस्तै विभिन्न जातीय समूह, अल्पसङ्ख्यक, LGBTIQ+, विविध SOGIESC भएका व्यक्तिहरू), अपाङ्गता भएका व्यक्तिहरूसहित, समावेश गर्नुहोस्।",
+      "bt": "Include people of different ages and genders and people with diverse characteristics (such as different ethnic groups, minorities, LGBTIQ+, people with diverse SOGIESC), including people with disabilities.",
+      "type": "general",
+      "terms": [
+        "T073"
+      ],
+      "flags": [],
+      "note": "LGBTIQ+ and SOGIESC are retained without adding expansions absent from the source. The source says 'genders', not specifically 'gender identities'. The revision removes that added restriction while retaining both acronyms and disability inclusion."
+    },
+    {
+      "id": "MAN-07-0009",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Promote the localization of the response by building on existing resources, channelling decision-making power and additional resources to government actors/local authorities, local partner organizations (including organizations for persons with lived experience of mental health conditions and psychosocial disabilities) and affected communities.",
+      "ne": "विद्यमान स्रोतसामग्रीको उपयोग गर्दै र निर्णय गर्ने अधिकार तथा थप स्रोतसामग्री सरकारी सम्बद्ध पक्षहरू/स्थानीय निकायहरू, स्थानीय साझेदार संस्थाहरू (मानसिक स्वास्थ्यसम्बन्धी अवस्था र मनोसामाजिक अपाङ्गताको प्रत्यक्ष अनुभव भएका व्यक्तिहरूका लागि कार्य गर्ने संस्थाहरूसमेत) र प्रभावित समुदायहरूलाई हस्तान्तरण गर्दै प्रतिकार्यको स्थानीयकरणलाई प्रवर्द्धन गर्नुहोस्।",
+      "bt": "Promote the localization of the response by using existing resources and transferring decision-making authority and additional resources to government-related parties/local bodies, local partner organizations (including organizations working for people with direct experience of mental health conditions and psychosocial disability), and affected communities.",
+      "type": "safety",
+      "terms": [
+        "T416",
+        "T114",
+        "T487",
+        "T344",
+        "T174"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen resources form can suggest source materials, whereas the source's resources can also include funding, personnel and other means; the supplied population label is retained without changing its scope. The source includes organizations for the specified persons, whereas the draft says organizations of those persons; the repair restores the beneficiary relationship without requiring membership or ownership. bt-divergence: the retained frozen form स्रोतसामग्री suggests materials, while resources can also include funding, personnel and other means. “Resources” becomes source materials, narrowing the scope potentially to exclude funding, personnel and other means. “Government actors” becomes government-affiliated parties, potentially including nongovernmental affiliates. “Channelling” becomes transferring, suggesting a fuller handover of decision-making authority and resources."
+    },
+    {
+      "id": "MAN-07-0010",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Ensure that existing MHPSS programmes address stigma and discrimination and are adapted to safeguard accessibility for a range of disabilities.",
+      "ne": "विद्यमान MHPSS कार्यक्रमहरूले कलङ्क र भेदभावलाई सम्बोधन गर्ने र विभिन्न प्रकारका अपाङ्गता भएका व्यक्तिहरूको पहुँच सुरक्षित राख्ने गरी ती कार्यक्रमहरू अनुकूलित गरिएका हुने सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure that existing MHPSS programmes have been adapted so that they address stigma and discrimination and safeguard access for people with different types of disabilities.",
+      "type": "safety",
+      "terms": [
+        "T160",
+        "T409"
+      ],
+      "flags": [],
+      "note": "General accessibility and anti-discrimination guidance drafted; safety review pending."
+    },
+    {
+      "id": "MAN-07-0011",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Where needed, deliver services through outreach and mobile teams to access individuals and communities.",
+      "ne": "आवश्यक परेमा, व्यक्ति र समुदायसम्म पुग्न पहुँच विस्तारका कार्य र घुम्ती टोलीमार्फत सेवाहरू प्रदान गर्नुहोस्।",
+      "bt": "If necessary, provide services through outreach activities and mobile teams to reach individuals and communities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The original Nepali makes outreach a separate type of team. The source specifies outreach and mobile teams without requiring outreach itself to be team-based."
+    },
+    {
+      "id": "MAN-07-0012",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Do no harm: Cultivate an awareness of how ill-conceived or poorly executed MHPSS programmes might cause harm (e.g. avoid harmful treatment practices; ensure that actions respond to assessed needs; commit to ongoing monitoring, evaluation, learning and accountability; support evidence-informed, culturally appropriate responses; acknowledge the power relations between groups participating in the emergency response; enforce codes of conduct for humanitarian workers that prevent sexual exploitation and abuse; and adhere to the humanitarian principles of neutrality, impartiality, humanity and independence).",
+      "ne": "हानि नगर्नुहोस्: खराब अवधारणामा आधारित वा कमजोर ढङ्गले कार्यान्वयन गरिएका MHPSS कार्यक्रमहरूले कसरी हानि पुर्‍याउन सक्छन् भन्नेबारे सचेतना विकास गर्नुहोस् (जस्तै, हानिकारक उपचार अभ्यासहरूबाट बच्नुहोस्; कार्यहरू मूल्याङ्कन गरिएका आवश्यकताअनुरूप छन् भन्ने सुनिश्चित गर्नुहोस्; निरन्तर अनुगमन, मूल्याङ्कन, सिकाइ र जवाफदेहिताप्रति प्रतिबद्ध रहनुहोस्; प्रमाणका आधारमा तय गरिएका र सांस्कृतिक रूपमा उपयुक्त प्रतिकार्यलाई समर्थन गर्नुहोस्; आपत्कालीन प्रतिकार्यमा सहभागी समूहहरूबीचका शक्ति सम्बन्धहरू स्वीकार गर्नुहोस्; मानवीय सहायताकर्मीहरूका लागि यौन शोषण र दुर्व्यवहार रोक्ने आचारसंहिताहरूको पालना गराउनुहोस्; र तटस्थता, निष्पक्षता, मानवता र स्वतन्त्रताका मानवीय सिद्धान्तहरू पालना गर्नुहोस्)।",
+      "bt": "Do no harm: Develop awareness of how MHPSS programmes based on poor concepts or implemented weakly can cause harm (for example, avoid harmful treatment practices; ensure that actions are in accordance with assessed needs; remain committed to continuous monitoring, evaluation, learning and accountability; support responses determined on the basis of evidence and culturally appropriate; acknowledge the power relations between groups participating in the emergency response; enforce compliance with codes of conduct for humanitarian aid workers to prevent sexual exploitation and abuse; and follow the humanitarian principles of neutrality, impartiality, humanity and independence).",
+      "type": "safety",
+      "terms": [
+        "T160",
+        "T409",
+        "T271",
+        "T174",
+        "T132"
+      ],
+      "flags": [],
+      "note": "The possibility of harm is retained, and enforcing codes of conduct is rendered as ensuring compliance rather than merely introducing the codes."
+    },
+    {
+      "id": "MAN-07-0013",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Ensure that all MHPSS programming is overseen and supported by appropriately qualified personnel.",
+      "ne": "MHPSS सम्बन्धी सबै कार्यक्रमगत कार्यको रेखदेख उपयुक्त योग्यता भएका कर्मचारीले गर्ने र उनीहरूबाट ती कार्यलाई सहयोग प्राप्त हुने सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure that all programmatic work related to MHPSS is overseen by appropriately qualified staff and receives support from them.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0014",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Adhere to safe recruitment and safeguarding procedures when engaging workers that will be interacting with children and others at heightened risk (e.g. reference checks; criminal record/police checks; declarations confirming no previous relevant convictions, investigations or complaints; interviews to assess relevant attitudes, experiences, and views on safeguarding, codes of conduct, and related policies).(ibid.)",
+      "ne": "बालबालिका र बढी जोखिममा रहेका अन्य व्यक्तिहरूसँग अन्तरक्रिया गर्ने कामदारहरू संलग्न गराउँदा सुरक्षित भर्ना तथा हानि र दुर्व्यवहारबाट सुरक्षासम्बन्धी प्रक्रियाहरू पालना गर्नुहोस् (जस्तै, सिफारिस दिने व्यक्तिहरूसँग जानकारीको जाँच गर्ने; आपराधिक अभिलेख/प्रहरी जाँच गर्ने; विगतमा सम्बन्धित कसुरमा दोषी ठहर नभएको, अनुसन्धान नभएको वा उजुरी नपरेको पुष्टि गर्ने घोषणाहरू लिने; हानि र दुर्व्यवहारबाट सुरक्षा, आचारसंहिता र सम्बन्धित नीतिहरूबारे सान्दर्भिक मनोवृत्ति, अनुभव र विचारहरूको मूल्याङ्कन गर्न अन्तर्वार्ता लिने) (ibid.)।",
+      "bt": "When engaging workers who interact with children and other people at greater risk, follow procedures for safe recruitment and protection from harm and abuse (for example, check information with people providing references; conduct criminal record/police checks; obtain declarations confirming that they have not previously been convicted of a related offence, been investigated or had a complaint filed against them; conduct interviews to assess relevant attitudes, experience and views about protection from harm and abuse, codes of conduct and related policies) (ibid.).",
+      "type": "safety",
+      "terms": [
+        "T294"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The frozen safeguarding form is retained; declarations are mentioned as recruitment checks, but no declaration text is supplied."
+    },
+    {
+      "id": "MAN-07-0015",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Uphold Accountability to Affected Populations: Accountability to Affected Populations (AAP) aims to ensure that all at-risk and crisis-affected populations supported through humanitarian action are able to hold organizations to account for promoting and protecting their rights, generating effective results, taking into account their needs, concerns and preferences, and working in ways that enhance their dignity, capacities and resilience.",
+      "ne": "प्रभावित जनसङ्ख्याप्रतिको जवाफदेहिता कायम राख्नुहोस्: प्रभावित जनसङ्ख्याप्रतिको जवाफदेहिता (AAP) को उद्देश्य मानवीय कार्यमार्फत सहयोग प्राप्त गरिरहेका जोखिममा रहेका र सङ्कटबाट प्रभावित सबै जनसङ्ख्याले संस्थाहरूलाई आफ्ना अधिकारको प्रवर्द्धन र संरक्षण गर्ने, प्रभावकारी नतिजा हासिल गर्ने, आफ्ना आवश्यकता, चासो र रोजाइलाई ध्यानमा राख्ने तथा आफ्नो मर्यादा, क्षमता र प्रतिकूल अवस्थासँग जुध्न र पुनःसम्हालिन सक्ने क्षमता अभिवृद्धि गर्ने तरिकाले काम गर्ने विषयमा जवाफदेही बनाउन सक्ने सुनिश्चित गर्नु हो।",
+      "bt": "Maintain accountability to affected populations: The purpose of accountability to affected populations (AAP) is to ensure that all populations at risk and affected by crisis who are receiving assistance through humanitarian action can hold organizations accountable for working in ways that promote and protect their rights, achieve effective results, take their needs, concerns and preferences into account, and enhance their dignity, capacities and ability to cope with and recover from adverse circumstances.",
+      "type": "general",
+      "terms": [
+        "T039"
+      ],
+      "flags": [],
+      "note": "'Preferences' was translated as 'priorities'. The revision restores affected populations' preferences rather than their ranking of priorities."
+    },
+    {
+      "id": "MAN-07-0016",
+      "page": "26",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Affected populations should understand the standards of conduct expected of humanitarian personnel and should have access to safe and confidential complaint mechanisms, including for complaints about sexual exploitation and abuse.20",
+      "ne": "प्रभावित जनसङ्ख्याले मानवीय सहायतामा संलग्न कर्मचारीबाट अपेक्षित आचरणका मापदण्डहरू बुझ्नुपर्छ र यौन शोषण तथा दुर्व्यवहारसम्बन्धी उजुरीका लागि समेत सुरक्षित र गोप्य उजुरी संयन्त्रहरूमा पहुँच पाउनुपर्छ।20",
+      "bt": "Affected populations should understand the standards of conduct expected of staff involved in humanitarian assistance and should have access to safe and confidential complaints mechanisms, including for complaints concerning sexual exploitation and abuse.20",
+      "type": "safety",
+      "terms": [
+        "T087"
+      ],
+      "flags": [],
+      "note": "General guidance on conduct and access to complaint mechanisms drafted; safety review pending."
+    },
+    {
+      "id": "MAN-07-0017",
+      "page": "26",
+      "loc": "footnote",
+      "section": "Introduction",
+      "en": "19 See also the humanitarian charter and protection principles outlined in The Sphere Handbook. For additional key principles relating to GBV and Child Protection, see the GBV Minimum Standards and Child Protection Minimum Standards.",
+      "ne": "19 The Sphere Handbook मा उल्लिखित मानवीय बडापत्र र संरक्षणका सिद्धान्तहरू पनि हेर्नुहोस्। GBV र बाल संरक्षणसम्बन्धी थप मुख्य सिद्धान्तहरूका लागि GBV Minimum Standards र बाल संरक्षण न्यूनतम मापदण्डहरू (Child Protection Minimum Standards) हेर्नुहोस्।",
+      "bt": "19 Also see the Humanitarian Charter and protection principles set out in The Sphere Handbook. For additional key principles concerning GBV and child protection, see the GBV Minimum Standards and the Child Protection Minimum Standards.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T036",
+        "T087"
+      ],
+      "flags": [],
+      "note": "Reference guidance translated; English publication titles are retained for identification."
+    },
+    {
+      "id": "MAN-07-0018",
+      "page": "26",
+      "loc": "footnote",
+      "section": "Introduction",
+      "en": "20 For more information on AAP, see the IASC AAP Operational Framework; and UNICEF’s information, toolkits and guidance on AAP at https://www.corecommitments.unicef.org/ccc-2-1 and https://www.corecommitments.unicef.org/aap.",
+      "ne": "20 AAP बारे थप जानकारीका लागि IASC AAP Operational Framework हेर्नुहोस्; साथै https://www.corecommitments.unicef.org/ccc-2-1 र https://www.corecommitments.unicef.org/aap मा उपलब्ध AAP सम्बन्धी UNICEF का जानकारी, उपकरण सङ्ग्रह र मार्गदर्शन हेर्नुहोस्।",
+      "bt": "20 For more information on AAP, see the IASC AAP Operational Framework; also see UNICEF's information, toolkit and guidance on AAP available at https://www.corecommitments.unicef.org/ccc-2-1 and https://www.corecommitments.unicef.org/aap.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Both URLs and the framework title are retained exactly."
+    },
+    {
+      "id": "MAN-07-0019",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Ensure informed consent/assent and safe information-sharing practices: Individuals have the right to choose what information they disclose and to whom, and the right to withdraw their consent at any time.",
+      "ne": "[informed consent]/सुसूचित स्वीकृति र सुरक्षित रूपमा जानकारी साझा गर्ने अभ्यासहरू सुनिश्चित गर्नुहोस्: व्यक्तिहरूलाई आफूले कुन जानकारी कसलाई खुलासा गर्ने भन्ने छान्ने अधिकार र जुनसुकै बेला आफ्नो सहमति फिर्ता लिने अधिकार हुन्छ।",
+      "bt": "Ensure [informed consent]/informed approval and practices for sharing information safely: Individuals have the right to choose which information they disclose to whom and the right to withdraw their consent at any time.",
+      "type": "safety",
+      "terms": [
+        "T244"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The exact English consent term is bracketed, the frozen assent form is retained, and both disclosure choice and withdrawal at any time are preserved."
+    },
+    {
+      "id": "MAN-07-0020",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Any information disclosed should be shared onwards only with their informed consent.",
+      "ne": "खुलासा गरिएको कुनै पनि जानकारी सम्बन्धित व्यक्तिको [informed consent] भएमा मात्र अरूसँग साझा गर्नुपर्छ।",
+      "bt": "Any disclosed information should be shared with others only if there is [informed consent] from the person concerned.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recommendation and the condition that onward sharing occur only with the person's consent are retained. The draft describes consent-conditioned onward sharing as appropriate rather than retaining the source's normative should. The repair preserves the recommendation and its only-with-consent restriction without adding emphatic must language."
+    },
+    {
+      "id": "MAN-07-0021",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Informed consent means that information provided by or about someone is shared only if they understand what is to be shared, with whom, how the information will be used, and the risks and benefits of providing the information.",
+      "ne": "[Informed consent] भन्नाले कसैले दिएको वा कसैबारे दिइएको जानकारी के साझा गरिनेछ, कोसँग साझा गरिनेछ, जानकारी कसरी प्रयोग गरिनेछ र जानकारी उपलब्ध गराउँदा हुने जोखिम र फाइदाहरू के हुन् भन्ने कुरा सम्बन्धित व्यक्तिले बुझेको अवस्थामा मात्र उक्त जानकारी साझा गरिनु भन्ने बुझिन्छ।",
+      "bt": "[Informed consent] means that information given by someone or about someone is shared only when the person concerned has understood what information will be shared, with whom it will be shared, how the information will be used, and what the risks and benefits of providing the information are.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The source definition is fully drafted, including the information, recipient, intended use, risks and benefits that the person must understand."
+    },
+    {
+      "id": "MAN-07-0022",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Children below the age of 15 should have consent from their caregiver.",
+      "ne": "15 वर्षभन्दा कम उमेरका बालबालिकाका लागि उनीहरूका हेरचाहकर्ताको सहमति हुनुपर्छ।",
+      "bt": "For children under 15 years of age, there must be consent from their caregiver.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The recommendation is not made mandatory, and the strict boundary below 15 is retained; together with the next row, the source leaves children aged exactly 15 unaddressed. The draft presents caregiver consent as appropriate, weakening the source's should have recommendation. The repair restores that normative force and retains the strict below-15 boundary."
+    },
+    {
+      "id": "MAN-07-0023",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Children of over 15 can provide “informed assent”.21",
+      "ne": "15 वर्षभन्दा बढी उमेरका बालबालिकाले “सुसूचित स्वीकृति” दिन सक्छन्।21",
+      "bt": "Children over 15 years of age can give “informed approval”.21",
+      "type": "safety",
+      "terms": [
+        "T244"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The permission, strict boundary over 15 and marker 21 are retained; together with the preceding row, the source leaves children aged exactly 15 unaddressed."
+    },
+    {
+      "id": "MAN-07-0024",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Consent needs to be obtained for sharing information and referring a person to services.",
+      "ne": "सूचना आदानप्रदान गर्न र कुनै व्यक्तिलाई सम्बन्धित सेवामा पठाउने कार्यका लागि सहमति लिनुपर्छ।",
+      "bt": "Consent should be obtained for sharing information and for referring a person to the relevant service.",
+      "type": "safety",
+      "terms": [
+        "T067",
+        "T172"
+      ],
+      "flags": [],
+      "note": "General consent requirement for information sharing and referral drafted; safety review pending."
+    },
+    {
+      "id": "MAN-07-0025",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Organizations that regularly manage referrals should ensure that they have clear protocols for sharing information and for data protection.22",
+      "ne": "सम्बन्धित सेवामा पठाउने कार्य नियमित रूपमा व्यवस्थापन गर्ने संस्थाहरूले सूचना आदानप्रदान र तथ्याङ्क संरक्षणका लागि स्पष्ट कार्यविधिहरू आफूसँग भएको सुनिश्चित गर्नुपर्छ।22",
+      "bt": "Organizations that routinely manage referrals to relevant services should ensure that they have clear procedures for information sharing and data protection.22",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T067",
+        "T029"
+      ],
+      "flags": [],
+      "note": "General organizational protocol requirement drafted; footnote marker 22 retained. Safety review pending."
+    },
+    {
+      "id": "MAN-07-0026",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Information sharing must be done with respect for confidentiality, must be limited to essential information and must follow information-sharing protocols (see key consideration 19).",
+      "ne": "सूचना आदानप्रदान गर्दा गोपनीयताको सम्मान गर्नैपर्छ, अत्यावश्यक सूचनामा मात्र सीमित रहनैपर्छ र सूचना आदानप्रदानसम्बन्धी कार्यविधिहरूको पालना गर्नैपर्छ (मुख्य विचारणीय पक्ष 19 हेर्नुहोस्)।",
+      "bt": "When sharing information, confidentiality must be respected, sharing must be limited to essential information only, and procedures concerning information sharing must be followed (see key consideration 19).",
+      "type": "safety",
+      "terms": [
+        "T067",
+        "T211",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "All three mandatory information-sharing conditions are retained. Proposed missing term: confidentiality = [Nepali wording recorded in terminology evidence]. Safety review pending."
+    },
+    {
+      "id": "MAN-07-0027",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Ensure confidentiality and understand mandatory reporting: Confidentiality entails guaranteeing the privacy and security of individuals, their families and wider communities.",
+      "ne": "गोपनीयता सुनिश्चित गर्नुहोस् र अनिवार्य सूचना दिनुपर्ने प्रावधान बुझ्नुहोस्: गोपनीयतामा व्यक्ति, तिनका परिवार र व्यापक समुदायहरूको निजता तथा सुरक्षाको प्रत्याभूति गर्नु समावेश हुन्छ।",
+      "bt": "Ensure confidentiality and understand mandatory reporting provisions: Confidentiality includes guaranteeing the privacy and safety of individuals, their families and wider communities.",
+      "type": "safety",
+      "terms": [
+        "T211"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General confidentiality guidance drafted, retaining individuals, families and wider communities. Uses proposed confidentiality = [Nepali wording recorded in terminology evidence] and distinguishes privacy as [Nepali wording recorded in terminology evidence]. Mandatory reporting is not expanded into jurisdiction-specific obligations; safety review pending."
+    },
+    {
+      "id": "MAN-07-0028",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Actors need to be familiar with the laws of the country in which they are operating and be aware of what they are officially required to report.",
+      "ne": "सम्बद्ध पक्षहरू आफूले काम गरिरहेको देशका कानुनसँग परिचित हुनुपर्छ र आफूले आधिकारिक रूपमा केको जानकारी दिन आवश्यक छ भन्नेबारे जानकार हुनुपर्छ।",
+      "bt": "The relevant parties must be familiar with the laws of the country in which they are working and must be informed about what they are required to report officially.",
+      "type": "general",
+      "terms": [
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0029",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "National laws criminalize some acts (such as child abuse, rape, violence or terrorism and, in some countries, suicide and self-harm) and may require MHPSS providers, including those working in health, protection, education and GBV services, to report these acts to police or to other government officials.",
+      "ne": "राष्ट्रिय कानुनहरूले केही कार्यहरूलाई (जस्तै, बाल दुर्व्यवहार, बलात्कार, हिंसा वा आतङ्कवाद र, केही देशहरूमा, आत्महत्या तथा आफैँलाई हानि पुर्‍याउने कार्य) अपराध ठहर गर्छन् र स्वास्थ्य, संरक्षण, शिक्षा र GBV सेवाहरूमा काम गर्नेहरूसहित MHPSS प्रदायकहरूले यी कार्यहरूबारे प्रहरी वा अन्य सरकारी अधिकारीहरूलाई जानकारी दिनुपर्ने व्यवस्था गर्न सक्छन्।",
+      "bt": "National laws deem certain acts (for example, child abuse, rape, violence or terrorism and, in some countries, suicide and acts of harming oneself) to be crimes and may make provisions requiring MHPSS providers, including those working in health, protection, education and GBV services, to inform the police or other government officials about these acts.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T029",
+        "T028"
+      ],
+      "flags": [],
+      "note": "The country-specific qualification for suicide and self-harm and the possibility, rather than universality, of reporting requirements are retained."
+    },
+    {
+      "id": "MAN-07-0030",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Mandatory reporting can conflict with the principles of confidentiality, person-centred care and assistance and, in particular, taking a survivor-centred approach and considering their best interests (see key considerations 28 and 30).23",
+      "ne": "अनिवार्य रूपमा जानकारी दिने दायित्व गोपनीयता, व्यक्तिकेन्द्रित हेरचाह र सहायताका सिद्धान्तहरूसँग र, विशेषगरी, हिंसाबाट प्रभावित व्यक्तिलाई केन्द्रमा राख्ने दृष्टिकोण अपनाउने तथा उनीहरूको सर्वोत्तम हितलाई विचार गर्ने कुरासँग बाझिन सक्छ (मुख्य विचारणीय पक्षहरू 28 र 30 हेर्नुहोस्)।23",
+      "bt": "The obligation to report mandatorily may conflict with the principles of confidentiality, person-centred care and support and, especially, with adopting an approach that places the person affected by violence at the centre and considering their best interests (see Key Considerations 28 and 30).23",
+      "type": "safety",
+      "terms": [
+        "T258",
+        "T211",
+        "T280",
+        "T315",
+        "T154"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor-centred label specifies persons affected by violence, adding a violence restriction absent from this sentence and potentially including indirectly affected persons rather than only survivors. bt-divergence: the frozen survivor-centred label restricts the person to someone affected by violence, although this sentence does not specify violence, and affected persons can include indirectly affected people rather than only survivors. The frozen form is retained."
+    },
+    {
+      "id": "MAN-07-0031",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Some persons may not want to disclose their experiences, and doing so may put them (or their families) at further risk.",
+      "ne": "केही व्यक्तिले आफ्ना अनुभव खुलाउन नचाहन सक्छन्, र ती अनुभव खुलाउँदा उनीहरू (वा उनीहरूका परिवार) थप जोखिममा पर्न सक्छन्।",
+      "bt": "Some people may not want to disclose their experiences, and disclosing those experiences may put them (or their families) at further risk.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0032",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "It is important that service providers discuss with their supervisors what the best course of action should be in each case.",
+      "ne": "सेवा प्रदायकहरूले प्रत्येक अवस्थामा अपनाउनुपर्ने सबैभन्दा उपयुक्त कदम के हुनुपर्छ भन्नेबारे आफ्ना सुपरिवेक्षकहरूसँग छलफल गर्नु महत्त्वपूर्ण छ।",
+      "bt": "It is important for service providers to discuss with their supervisors what the most appropriate step to take in each situation should be.",
+      "type": "general",
+      "terms": [
+        "T310"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0033",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Providers must explain to service users the limitations of confidentiality during the process of informed consent and before providing MHPSS-related services, so that they can make informed decisions about what they choose to disclose to providers because of mandatory reporting laws.",
+      "ne": "अनिवार्य रूपमा जानकारी दिने दायित्वसम्बन्धी कानुनहरूका कारण प्रदायकहरूलाई के खुलासा गर्ने भन्नेबारे सेवा प्रयोगकर्ताहरूले सुसूचित निर्णय लिन सकून् भनेर, प्रदायकहरूले [informed consent] लिने प्रक्रियाका क्रममा र MHPSS-सम्बन्धी सेवाहरू प्रदान गर्नुअघि सेवा प्रयोगकर्ताहरूलाई गोपनीयताका सीमाहरू बुझाउनैपर्छ।",
+      "bt": "So that service users can make informed decisions about what to disclose to providers because of laws concerning the obligation to report mandatorily, providers must explain the limits of confidentiality to service users during the process of obtaining [informed consent] and before providing MHPSS-related services.",
+      "type": "safety",
+      "terms": [
+        "T258",
+        "T211"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The mandatory explanation, both timing conditions and the purpose of enabling informed disclosure decisions are retained."
+    },
+    {
+      "id": "MAN-07-0034",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Build on available resources by working with government and civil society actors and with affected people themselves, building local capacities, supporting self-help, strengthening the resources already present and adapting new initiatives so that they complement and enhance existing activities.",
+      "ne": "सरकार र नागरिक समाजका सम्बद्ध पक्षहरू तथा प्रभावित व्यक्तिहरू स्वयंसँग मिलेर काम गर्दै, स्थानीय क्षमता विकास गर्दै, स्वसहयोगलाई समर्थन गर्दै, पहिलेदेखि रहेका स्रोतहरू सुदृढ गर्दै र नयाँ पहलहरूलाई विद्यमान गतिविधिका परिपूरक बन्ने तथा तिनलाई अझ सबल बनाउने गरी अनुकूलन गर्दै उपलब्ध स्रोतहरूको जगमा काम अघि बढाउनुहोस्।",
+      "bt": "Take work forward on the foundation of available resources by working together with relevant parties in government and civil society and affected people themselves, developing local capacity, supporting self-help, strengthening pre-existing resources, and adapting new initiatives so that they complement existing activities and make them stronger.",
+      "type": "general",
+      "terms": [
+        "T035",
+        "T114",
+        "T423"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0035",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Develop integrated support systems so that MHPSS activities are closely linked to each other, to other emergency response activities and to relevant formal and informal support systems (e.g. existing community support mechanisms, formal/non-formal school systems, general health services, social services, etc.).",
+      "ne": "एकीकृत सहयोग प्रणालीहरू विकास गर्नुहोस्, ताकि MHPSS गतिविधिहरू एकअर्कासँग, आपत्कालीन प्रतिकार्यका अन्य गतिविधिसँग र सम्बन्धित औपचारिक तथा अनौपचारिक सहयोग प्रणालीहरूसँग घनिष्ठ रूपमा जोडिऊन् (उदाहरणका लागि, विद्यमान सामुदायिक सहयोग संयन्त्रहरू, औपचारिक/गैरऔपचारिक विद्यालय प्रणालीहरू, सामान्य स्वास्थ्य सेवाहरू, सामाजिक सेवाहरू आदि)।",
+      "bt": "Develop integrated support systems so that MHPSS activities are closely connected with one another, with other emergency response activities, and with relevant formal and informal support systems (for example, existing community support mechanisms, formal/non-formal school systems, general health services, social services, etc.).",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T132",
+        "T027",
+        "T312"
+      ],
+      "flags": [],
+      "note": "The source distinguishes formal/informal support systems from formal/non-formal school systems. The draft and back-translation collapse the latter distinction into formal/informal; the repair explicitly preserves non-formal for school systems."
+    },
+    {
+      "id": "MAN-07-0036",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Cultivate strong relationships and connections between sectors and services to create a mutually reinforcing network of supports, including those targeting individual, family, community and societal levels.",
+      "ne": "व्यक्ति, परिवार, समुदाय र समग्र समाजका तहलाई लक्षित गर्ने सहयोगसमेत समेटेर एकअर्कालाई सुदृढ बनाउने सहयोगको सञ्जाल निर्माण गर्न क्षेत्रहरू र सेवाहरूबीच बलियो सम्बन्ध र सम्पर्क विकास गर्नुहोस्।",
+      "bt": "Develop strong relationships and links between sectors and services to build a network of mutually reinforcing support, including support targeting the levels of individuals, families, communities and society as a whole.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0037",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Adopt a life course approach, ensuring that the MHPSS response is informed by the full range of needs, vulnerabilities and strengths experienced at different stages of life.",
+      "ne": "जीवनक्रममा आधारित दृष्टिकोण अपनाउनुहोस् र जीवनका विभिन्न चरणमा अनुभव हुने आवश्यकता, जोखिमप्रतिको संवेदनशीलता र सबल पक्षहरूको सम्पूर्ण दायरालाई आधार मानेर MHPSS प्रतिकार्य तय गरिएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Adopt a life-course-based approach and ensure that the MHPSS response is determined on the basis of the full range of needs, vulnerabilities to risk and strengths experienced at different stages of life.",
+      "type": "general",
+      "terms": [
+        "T161",
+        "T174"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0038",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Particular efforts should be made to understand and address the needs of people at sensitive developmental stages and during more vulnerable periods of life, such as infants, young children, adolescents and older adults.",
+      "ne": "शिशु, साना बालबालिका, किशोरकिशोरी र ज्येष्ठ वयस्कजस्ता विकासका संवेदनशील चरणमा रहेका र जीवनका बढी जोखिमयुक्त अवधिमा रहेका व्यक्तिहरूका आवश्यकता बुझ्न र सम्बोधन गर्न विशेष प्रयास गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate to make special efforts to understand and address the needs of people who are at sensitive stages of development and in higher-risk periods of life, such as infants, young children, adolescents and older adults.",
+      "type": "general",
+      "terms": [
+        "T074"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The draft strengthens 'should be made' to 'must be made'. The repair restores recommendation rather than mandatory force. The back-translation replaces the explicit recommendation that special efforts should be made with a statement that making them is appropriate, weakening the normative force."
+    },
+    {
+      "id": "MAN-07-0039",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "When developing MHPSS activities, seek the participation of people at different life stages, including children, adolescents and older persons, to capitalize on their diverse insights and to ensure the relevance and effectiveness of services across age groups.",
+      "ne": "MHPSS गतिविधिहरू विकास गर्दा बालबालिका, किशोरकिशोरी र ज्येष्ठ व्यक्तिहरूसहित जीवनका विभिन्न चरणमा रहेका व्यक्तिहरूको सहभागिता खोज्नुहोस्, ताकि उनीहरूका विविध अन्तर्दृष्टिको उपयोग गर्न र विभिन्न उमेर समूहका लागि सेवाको सान्दर्भिकता तथा प्रभावकारिता सुनिश्चित गर्न सकियोस्।",
+      "bt": "Seek the participation of people at different stages of life, including children, adolescents and older people, when developing MHPSS activities, so that their diverse insights can be used and the relevance and effectiveness of services for different age groups can be ensured.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T074"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0040",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Take gender-related considerations into account: MHPSS programmes must consider the specific needs of women, men, boys and girls with respect to both biological sex differences and sociocultural gender differences.",
+      "ne": "लैङ्गिक पक्षहरूलाई ध्यानमा राख्नुहोस्: MHPSS कार्यक्रमहरूले जैविक लिङ्गका भिन्नता र सामाजिक-सांस्कृतिक लैङ्गिक भिन्नता दुवैका सन्दर्भमा महिला, पुरुष, बालक र बालिकाका विशिष्ट आवश्यकतालाई विचार गर्नुपर्छ।",
+      "bt": "Take gender aspects into account: MHPSS programmes must consider the specific needs of women, men, boys and girls in relation to both biological sex differences and sociocultural gender differences.",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T198",
+        "T233",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring distinction between biological sex and sociocultural gender is not covered by the frozen glossary. Proposed candidates are listed separately."
+    },
+    {
+      "id": "MAN-07-0041",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Actors implementing MHPSS activities must understand how the experiences, strengths, needs and vulnerabilities of women, men, boys and girls may differ, and how these differences affect their coping strategies, help-seeking behaviour and access to supportive resources.",
+      "ne": "MHPSS गतिविधिहरू कार्यान्वयन गर्ने सम्बद्ध पक्षहरूले महिला, पुरुष, बालक र बालिकाका अनुभव, सबल पक्ष, आवश्यकता र जोखिमप्रतिको संवेदनशीलता कसरी फरक हुन सक्छन् र यी भिन्नताले कठिनाइको सामना गर्ने उनीहरूका रणनीति, सहयोग खोज्ने व्यवहार तथा सहयोगका स्रोतमा पहुँचलाई कसरी असर गर्छन् भन्ने बुझ्नुपर्छ।",
+      "bt": "The relevant parties implementing MHPSS activities must understand how the experiences, strengths, needs and vulnerabilities to risk of women, men, boys and girls may differ, and how these differences affect their strategies for coping with difficulties, support-seeking behaviour and access to sources of support.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0042",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Programmes should also promote gender equality and should be grounded in a rights-based approach.",
+      "ne": "कार्यक्रमहरूले लैङ्गिक समानता पनि प्रवर्द्धन गर्नु उचित हुन्छ र अधिकारमा आधारित दृष्टिकोणलाई आधार बनाउनु उचित हुन्छ।",
+      "bt": "It is appropriate for programmes also to promote gender equality and to be based on a rights-based approach.",
+      "type": "general",
+      "terms": [
+        "T233",
+        "T291",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The recurring gender terminology is absent from the frozen glossary. The proposed gender candidate also underlies the draft wording for gender equality. Both instances of 'should' become 'must' in the draft. The repair restores recommendation strength for promoting gender equality and grounding programmes in a rights-based approach. The back-translation describes promoting gender equality and using a rights-based approach as appropriate rather than explicitly recommending both through 'should'."
+    },
+    {
+      "id": "MAN-07-0043",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "This requires humanitarian actors to collaborate across sectors to simultaneously tackle different dimensions of gender inequality.",
+      "ne": "यसका लागि मानवीय कार्यमा संलग्न पक्षहरूले लैङ्गिक असमानताका विभिन्न आयामलाई एकैसाथ सम्बोधन गर्न क्षेत्रहरूबीच सहकार्य गर्नुपर्छ।",
+      "bt": "For this, parties involved in humanitarian work must collaborate across sectors to address different dimensions of gender inequality simultaneously.",
+      "type": "general",
+      "terms": [
+        "T147",
+        "T233",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring gender terminology is absent from the frozen glossary. The proposed gender candidate also underlies the draft wording for gender inequality."
+    },
+    {
+      "id": "MAN-07-0044",
+      "page": "27",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "It may also involve challenging harmful sociocultural norms and stereotypes related to masculinity and femininity (e.g. by promoting changes in gender relations, as well as access to opportunities and resources).",
+      "ne": "यसमा पुरुषत्व र स्त्रीत्वसँग सम्बन्धित हानिकारक सामाजिक-सांस्कृतिक मान्यता तथा रूढ धारणालाई चुनौती दिने कार्य पनि समावेश हुन सक्छ (उदाहरणका लागि, लैङ्गिक सम्बन्धमा परिवर्तनका साथै अवसर र स्रोतमा पहुँच बढाउने कार्यलाई प्रवर्द्धन गरेर)।",
+      "bt": "This may also include challenging harmful sociocultural norms and stereotypes related to masculinity and femininity (for example, by promoting changes in gender relations as well as increased access to opportunities and resources).",
+      "type": "safety",
+      "terms": [
+        "T233",
+        "T261"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance drafted; review pending. The recurring gender terminology is absent from the frozen glossary; a candidate is proposed separately."
+    },
+    {
+      "id": "MAN-07-0045",
+      "page": "27",
+      "loc": "footnote",
+      "section": "Introduction",
+      "en": "21 “Informed assent is the expressed willingness to participate in services. For younger children who are by definition too young to give informed consent, but old enough to understand and agree to participate in services, the child’s ‘informed assent’ is sought. Informed assent is the expressed willingness of the child to participate in services.” International Rescue Committee/UNICEF (2012). Caring for Child Survivors of Sexual Abuse: Guidelines for health and psychosocial service providers in humanitarian settings; and The Alliance for Child Protection in Humanitarian Action (2019). Minimum Standards for Child Protection in Humanitarian Action, 3.3.8: Informed consent/assent.",
+      "ne": "21 “सुसूचित स्वीकृति भनेको सेवाहरूमा सहभागी हुन व्यक्त गरिएको इच्छुकता हो। परिभाषाअनुसार [informed consent] दिनका लागि उमेर नपुगेका तर सेवाहरूमा सहभागी हुने कुरा बुझ्न र त्यसमा सहमत हुन सक्ने उमेरका साना बालबालिकाको हकमा, बालबालिकाको ‘सुसूचित स्वीकृति’ खोजिन्छ। सुसूचित स्वीकृति भनेको सेवाहरूमा सहभागी हुन बालबालिकाले व्यक्त गरेको इच्छुकता हो।” अन्तर्राष्ट्रिय उद्धार समिति/UNICEF (2012). [Caring for Child Survivors of Sexual Abuse: Guidelines for health and psychosocial service providers in humanitarian settings]; र The Alliance for Child Protection in Humanitarian Action (2019). [Minimum Standards for Child Protection in Humanitarian Action], 3.3.8: [Informed consent/assent]।",
+      "bt": "21 “Informed approval means an expressed willingness to participate in services. In the case of young children who, by definition, are not old enough to give [informed consent] but are old enough to understand and agree to participating in services, the children’s ‘informed approval’ is sought. Informed approval means the willingness expressed by children to participate in services.” International Rescue Committee/UNICEF (2012). [Caring for Child Survivors of Sexual Abuse: Guidelines for health and psychosocial service providers in humanitarian settings]; and The Alliance for Child Protection in Humanitarian Action (2019). [Minimum Standards for Child Protection in Humanitarian Action], 3.3.8: [Informed consent/assent].",
+      "type": "safety",
+      "terms": [
+        "T244",
+        "T251",
+        "T333"
+      ],
+      "flags": [],
+      "note": "The repeated definition is retained, and the cited publication titles and section heading remain in source English."
+    },
+    {
+      "id": "MAN-07-0046",
+      "page": "27",
+      "loc": "footnote",
+      "section": "Introduction",
+      "en": "22 IASC (2017). Inter-Agency Referral Form and Guidance Note.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the citation unchanged: 22 IASC (2017). Inter-Agency Referral Form and Guidance Note."
+    },
+    {
+      "id": "MAN-07-0047",
+      "page": "27",
+      "loc": "footnote",
+      "section": "Introduction",
+      "en": "23 See UNHCR (2021). UNHCR Best Interests Procedure Guidelines: Assessing and Determining the Best Interests of the Child and United Nations (2013). Convention on the Rights of the Child.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the bibliographic reference unchanged: 23 See UNHCR (2021). UNHCR Best Interests Procedure Guidelines: Assessing and Determining the Best Interests of the Child and United Nations (2013). Convention on the Rights of the Child."
+    },
+    {
+      "id": "MAN-07-0048",
+      "page": "28",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "For example, women disproportionately carry the burden of caregiving for children, older persons, persons with mental health conditions and persons with disabilities, which affects their ability to access support services and restricts the time they have available for education, livelihoods, and social activities.",
+      "ne": "उदाहरणका लागि, बालबालिका, ज्येष्ठ व्यक्तिहरू, मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरू र अपाङ्गता भएका व्यक्तिहरूको हेरचाहको बोझ असमान अनुपातमा महिलाहरूले वहन गर्छन्, जसले सहयोग सेवाहरूमा पहुँच प्राप्त गर्ने उनीहरूको क्षमतालाई असर गर्छ र शिक्षा, जीविकोपार्जन तथा सामाजिक गतिविधिहरूका लागि उनीहरूसँग उपलब्ध समय सीमित गर्छ।",
+      "bt": "For example, women bear a disproportionate share of the burden of caring for children, older persons, persons with mental health conditions and persons with disabilities, which affects their ability to access support services and limits the time available to them for education, livelihoods and social activities.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T028",
+        "T073",
+        "T074",
+        "T155",
+        "T157",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The broad mental health condition category is retained without adding impaired daily functioning."
+    },
+    {
+      "id": "MAN-07-0049",
+      "page": "28",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Activities and services should be designed with these considerations in mind, including: supporting women to use services by ensuring convenient opening hours and facilitating childcare and transport as needed; addressing protection issues faced by women and girls that may hinder participation; and encouraging men to take on caregiving responsibilities.",
+      "ne": "गतिविधि र सेवाहरूको स्वरूप निर्धारण गर्दा यी पक्षहरूलाई ध्यानमा राख्नु उचित हुन्छ, जसमा यी कार्य समावेश छन्: सेवा खुल्ने समय सुविधाजनक बनाउने र आवश्यकताअनुसार बाल हेरचाह तथा यातायातको व्यवस्था सहज बनाउने गरी महिलालाई सेवा प्रयोग गर्न सहयोग गर्ने; महिला र बालिकाले सामना गर्ने र सहभागितामा बाधा पुर्‍याउन सक्ने संरक्षणसम्बन्धी समस्यालाई सम्बोधन गर्ने; र पुरुषलाई हेरचाहको जिम्मेवारी लिन प्रोत्साहित गर्ने।",
+      "bt": "It is appropriate to take these aspects into account when determining the form of activities and services, including these actions: helping women use services by making service opening hours convenient and facilitating arrangements for childcare and transport as needed; addressing protection-related problems that women and girls face and that may hinder participation; and encouraging men to take on caregiving responsibilities.",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The draft strengthens the source's 'should' to 'must'. The repair restores recommendation strength while retaining all three measures and the 'as needed' condition. The back-translation describes taking the considerations into account as appropriate rather than explicitly recommending that activities and services be designed with them in mind."
+    },
+    {
+      "id": "MAN-07-0050",
+      "page": "28",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "It is important to note that traditional gender norms also greatly affect the mental health and well-being of men and boys.",
+      "ne": "परम्परागत लैङ्गिक मान्यताले पुरुष र बालकहरूको मानसिक स्वास्थ्य र कल्याणमा पनि ठूलो असर पार्छन् भन्ने कुरा ध्यानमा राख्नु महत्त्वपूर्ण छ।",
+      "bt": "It is important to keep in mind that traditional gender norms also have a major impact on the mental health and well-being of men and boys.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T233",
+        "T328"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0051",
+      "page": "28",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "For example, men may struggle with strict and unrealistic expectations of masculinity that can result in negative behaviours and coping mechanisms.",
+      "ne": "उदाहरणका लागि, पुरुषहरूले पुरुषत्वसम्बन्धी कठोर र अवास्तविक अपेक्षासँग सङ्घर्ष गर्नुपर्ने हुन सक्छ, जसका कारण नकारात्मक व्यवहार र परिस्थितिको सामना गर्ने नकारात्मक उपायहरू विकसित हुन सक्छन्।",
+      "bt": "For example, men may have to struggle with rigid and unrealistic expectations related to masculinity, which can lead to the development of negative behaviors and negative ways of coping with situations.",
+      "type": "general",
+      "terms": [
+        "T261"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Masculinity is a recurring term absent from G-0.2; a proposal is listed. Coping mechanisms is expressed descriptively as ways of coping, not as a clinical intervention."
+    },
+    {
+      "id": "MAN-07-0052",
+      "page": "28",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Social conceptions of masculinity can fuel child labour, gang violence, disengagement from school and recruitment into armed groups.",
+      "ne": "पुरुषत्वसम्बन्धी सामाजिक धारणाले बालश्रम, गिरोहको हिंसा, विद्यालयबाट विमुख हुने अवस्था र सशस्त्र समूहमा भर्तीलाई बढावा दिन सक्छन्।",
+      "bt": "Social notions about masculinity can promote child labour, gang violence, disengagement from school and recruitment into armed groups.",
+      "type": "safety",
+      "terms": [
+        "T261"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety-related content drafted; review pending. The recurring term masculinity is proposed separately. The translation narrows 'gang violence' to violence between gangs; the source does not restrict the victims or opposing parties to other gangs."
+    },
+    {
+      "id": "MAN-07-0053",
+      "page": "28",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Programmes should therefore consider aspects related to gender, including tailoring programmes to the needs of different groups, ensuring access and promoting gender equality.24",
+      "ne": "त्यसैले कार्यक्रमहरूले विभिन्न समूहका आवश्यकताअनुसार कार्यक्रम मिलाउने, पहुँच सुनिश्चित गर्ने र लैङ्गिक समानता प्रवर्द्धन गर्ने लगायतका लैङ्गिक पक्षहरूलाई विचार गर्नुपर्छ।24",
+      "bt": "Therefore, programs should consider gender-related aspects, including adapting programs according to the needs of different groups, ensuring access and promoting gender equality.24",
+      "type": "check",
+      "terms": [
+        "T233",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0054",
+      "page": "28",
+      "loc": "heading",
+      "section": "Introduction",
+      "en": "Key consideration 12: The effectiveness of MHPSS activities will be limited if a person’s basic protection needs are not being met",
+      "ne": "मुख्य विचारणीय पक्ष 12: व्यक्तिको संरक्षणसम्बन्धी आधारभूत आवश्यकता पूरा नभएमा MHPSS गतिविधिहरूको प्रभावकारिता सीमित हुनेछ।",
+      "bt": "Key consideration 12: If a person's basic protection-related needs are not met, the effectiveness of MHPSS activities will be limited.",
+      "type": "check",
+      "terms": [
+        "T029",
+        "T158",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0055",
+      "page": "28",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "MHPSS interventions, such as group activities and focused individual support, may have a limited impact if a person is facing ongoing abuse, neglect or violence. This should be considered in the coordination of services for each individual, so that urgent needs are met in the most effective manner. This is particularly important where children are concerned, as they are often less able to communicate their priorities and typically have less power than adults to address or avoid protection risks. Other groups at heightened risk may also face additional barriers, such as older people and people with diverse SOGIESC (see “How can groups and persons at increased risk be prioritized and reached with MHPSS MSP activities and services?” and Resources on MHPSS for At-Risk Groups on the MHPSS MSP web platform). MHPSS and protection actors must work together closely, facilitating mutual referrals. Given the trusting relationships built between facilitators and participants over time, group activities for child well-being can be an important means through which protection needs are identified and appropriate links to services and supports are made.",
+      "ne": "यदि कुनै व्यक्तिले निरन्तर दुर्व्यवहार, उपेक्षा वा हिंसा भोगिरहेको छ भने सामूहिक गतिविधि र केन्द्रित व्यक्तिगत सहयोगजस्ता MHPSS हस्तक्षेपको प्रभाव सीमित हुन सक्छ। तत्काल पूरा गर्नुपर्ने आवश्यकताहरू सबैभन्दा प्रभावकारी ढङ्गले पूरा होऊन् भनेर प्रत्येक व्यक्तिका लागि सेवाहरूको समन्वय गर्दा यस कुरालाई विचार गर्नुपर्छ। बालबालिकाका हकमा यो विशेष महत्त्वपूर्ण हुन्छ, किनकि उनीहरू प्रायः आफ्ना प्राथमिकता व्यक्त गर्न कम सक्षम हुन्छन् र संरक्षणसम्बन्धी जोखिमको सामना गर्न वा ती जोखिमबाट बच्न वयस्कको तुलनामा सामान्यतया उनीहरूसँग कम शक्ति हुन्छ। उच्च जोखिममा रहेका अन्य समूहहरू, जस्तै ज्येष्ठ व्यक्तिहरू र विविध SOGIESC भएका व्यक्तिहरूले पनि थप अवरोधको सामना गर्न सक्छन् (MHPSS MSP वेब प्लेटफर्ममा रहेको “बढी जोखिममा रहेका समूह र व्यक्तिहरूलाई MHPSS MSP गतिविधि र सेवामा कसरी प्राथमिकता दिन र तिनीसम्म कसरी पुग्न सकिन्छ?” र जोखिममा रहेका समूहहरूका लागि MHPSS सम्बन्धी स्रोतसामग्री हेर्नुहोस्)। MHPSS क्षेत्रमा कार्यरत पक्षहरू र संरक्षण क्षेत्रमा कार्यरत पक्षहरूले परस्पर सम्बन्धित सेवामा पठाउने कार्य सहजीकरण गर्दै निकट सहकार्य गर्नैपर्छ। समयसँगै सहजकर्ता र सहभागीबीच बनेका विश्वासपूर्ण सम्बन्धका कारण बालबालिकाको कल्याणका लागि सञ्चालन गरिने सामूहिक गतिविधिहरू संरक्षणसम्बन्धी आवश्यकता पहिचान गर्ने र उपयुक्त सेवा तथा सहयोगसँग जोड्ने महत्त्वपूर्ण माध्यम हुन सक्छन्।",
+      "bt": "If a person is experiencing ongoing abuse, neglect or violence, the impact of MHPSS interventions such as group activities and focused individual support may be limited. This should be considered when coordinating services for each person so that needs requiring immediate attention are met in the most effective way. This is particularly important in the case of children, because they are often less able to express their priorities and generally have less power than adults to confront or avoid protection-related risks. Other groups at high risk, such as older people and people with diverse SOGIESC, may also face additional barriers (see “How can groups and individuals at greater risk be prioritized in and reached through MHPSS MSP activities and services?” and resources on MHPSS for groups at risk on the MHPSS MSP web platform). Actors working in the MHPSS sector and actors working in the protection sector must work closely together, facilitating referrals to one another's related services. Because of the trusting relationships formed between facilitators and participants over time, group activities conducted for children's well-being can be an important means of identifying protection-related needs and connecting them with appropriate services and support.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T074",
+        "T163",
+        "T168",
+        "T172",
+        "T189",
+        "T203",
+        "T229",
+        "T328",
+        "T334",
+        "T349",
+        "T416"
+      ],
+      "flags": [],
+      "note": "General safety and service-coordination guidance drafted; review pending. Group activities and focused individual support are rendered as service descriptions, not as newly named clinical treatments."
+    },
+    {
+      "id": "MAN-07-0056",
+      "page": "28",
+      "loc": "heading",
+      "section": "Introduction",
+      "en": "Key consideration 13: Meeting the needs and ensuring the inclusion of persons with disabilities",
+      "ne": "मुख्य विचारणीय पक्ष 13: अपाङ्गता भएका व्यक्तिहरूका आवश्यकता पूरा गर्ने र उनीहरूको समावेशिता सुनिश्चित गर्ने।",
+      "bt": "Key consideration 13: Meeting the needs of persons with disabilities and ensuring their inclusion.",
+      "type": "check",
+      "terms": [
+        "T073",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0057",
+      "page": "28",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "Persons with disabilities represent a diverse group, varying in age, race, sex, gender identity, language, religion, ethnic, indigenous or social origin, type and severity of disability and barriers faced. In emergency contexts, people with psychosocial, cognitive or intellectual disabilities and those living in institutions may be at increased risk of being left behind and exposed to discrimination, violence, human rights violations, under-identification, exclusion and isolation. They may face barriers to accessing MHPSS services and participating in the MHPSS response based on: stereotypes, prejudices and stigmatizing beliefs among frontline workers (e.g. erroneous ideas about persons with disabilities being unable to make decisions or to contribute to the emergency response); limited resources, capacity and knowledge of MHPSS staff on how to adapt services to meet their needs; and/or limited opportunities to participate in and influence the design of MHPSS activities.",
+      "ne": "अपाङ्गता भएका व्यक्तिहरूको समूहमा उमेर, नश्ल, जैविक लिङ्ग, लैङ्गिक पहिचान, भाषा, धर्म, जातीय, आदिवासी वा सामाजिक उत्पत्ति, अपाङ्गताको प्रकार र गम्भीरता तथा सामना गर्नुपर्ने अवरोधहरूका आधारमा विविधता हुन्छ। आपत्कालीन सन्दर्भमा, मनोसामाजिक, संज्ञानात्मक वा बौद्धिक अपाङ्गता भएका व्यक्तिहरू तथा संस्थाहरूमा बसिरहेका व्यक्तिहरू पछि छोडिने, भेदभाव, हिंसा र मानव अधिकार उल्लङ्घनको सामना गर्ने, पर्याप्त पहिचान नहुने, बहिष्करणमा पर्ने र एक्लिने जोखिम बढेको हुन सक्छ। निम्न कारणहरूले गर्दा उनीहरूले MHPSS सेवाहरूमा पहुँच प्राप्त गर्न र MHPSS प्रतिकार्यमा सहभागी हुन अवरोधहरूको सामना गर्न सक्छन्: अग्रपंक्तिका कार्यकर्ताहरूमा रहेका रूढ धारणाहरू, पूर्वाग्रहहरू र लाञ्छना लगाउने विश्वासहरू (जस्तै, अपाङ्गता भएका व्यक्तिहरू निर्णय लिन वा आपत्कालीन प्रतिकार्यमा योगदान दिन असमर्थ हुन्छन् भन्ने गलत धारणाहरू); उनीहरूका आवश्यकताहरू पूरा गर्न सेवाहरू कसरी अनुकूल बनाउने भन्ने विषयमा MHPSS कर्मचारीहरूसँग सीमित स्रोतसामग्री, क्षमता र ज्ञान हुनु; र/वा MHPSS गतिविधिहरूको रूपरेखा तयार गर्ने कार्यमा सहभागी हुन र त्यसलाई प्रभावित गर्न सीमित अवसरहरू हुनु।",
+      "bt": "The group of persons with disabilities is diverse on the basis of age, race, biological sex, gender identity, language, religion, ethnic, indigenous or social origin, type and severity of disability, and the barriers that must be faced. In emergency contexts, persons with psychosocial, cognitive or intellectual disabilities and persons living in institutions may be at increased risk of being left behind, facing discrimination, violence and human rights violations, not being adequately identified, being excluded and becoming isolated. They may face barriers to accessing MHPSS services and participating in the MHPSS response for the following reasons: stereotypes, prejudices and stigmatizing beliefs held by frontline workers (such as mistaken beliefs that persons with disabilities are unable to make decisions or contribute to emergency response); MHPSS staff having limited resources, capacity and knowledge about how to adapt services to meet their needs; and/or having limited opportunities to participate in and influence the design of MHPSS activities.",
+      "type": "safety",
+      "terms": [
+        "T013",
+        "T073",
+        "T132",
+        "T158",
+        "T161",
+        "T174",
+        "T233",
+        "T239",
+        "T410",
+        "T416"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Disability categories are drafted as general categories, and the possible increased risk and alternative or combined barriers are retained. bt-divergence: Frozen T416 स्रोतसामग्री narrows the source’s general “resources” to resource materials, potentially excluding funding, personnel and other resources. The supplied BT renders this broadly as “resources” and does not expose that narrowing. The frozen form is retained unchanged."
+    },
+    {
+      "id": "MAN-07-0058",
+      "page": "28",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "MHPSS policies and programmes must respond to the differing needs of children, youth and adults with disabilities and respect their rights. This can be achieved by:",
+      "ne": "MHPSS नीति र कार्यक्रमहरूले अपाङ्गता भएका बालबालिका, युवा र वयस्कका फरकफरक आवश्यकतालाई सम्बोधन गर्नैपर्छ र उनीहरूका अधिकारको सम्मान गर्नैपर्छ। यो निम्न उपायबाट हासिल गर्न सकिन्छ:",
+      "bt": "MHPSS policies and programmes must address the differing needs of children, young people and adults with disabilities and must respect their rights. This can be achieved through the following measures:",
+      "type": "general",
+      "terms": [
+        "T409"
+      ],
+      "flags": [],
+      "note": "The back-translation renders both obligations as 'should', weakening the source's 'must'. The revision makes both requirements explicit."
+    },
+    {
+      "id": "MAN-07-0059",
+      "page": "28",
+      "loc": "bullet",
+      "section": "Introduction",
+      "en": "▶ Mainstreaming disability inclusion within MHPSS planning, programming and budgeting",
+      "ne": "▶ MHPSS सम्बन्धी योजना, कार्यक्रम तर्जुमा तथा सञ्चालन र बजेट तर्जुमामा अपाङ्गता समावेशितालाई मूलप्रवाहीकरण गर्ने।",
+      "bt": "▶ Mainstream disability inclusion in MHPSS-related planning, programme formulation and implementation, and budgeting.",
+      "type": "general",
+      "terms": [
+        "T220"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Disability inclusion is absent from G-0.2; a proposal is listed. 'Programming' is narrowed to program implementation. The revision includes program formulation as well as implementation."
+    },
+    {
+      "id": "MAN-07-0060",
+      "page": "28",
+      "loc": "bullet",
+      "section": "Introduction",
+      "en": "▶ Designing and implementing tailored actions as part of the MHPSS response to ensure that the specific disability-related requirements of persons are met, through reasonable accommodation measures",
+      "ne": "▶ उचित अनुकूलनका उपायहरूमार्फत व्यक्तिहरूका अपाङ्गतासम्बन्धी विशिष्ट आवश्यकताहरू पूरा भएको सुनिश्चित गर्न MHPSS प्रतिकार्यको अङ्गका रूपमा ती आवश्यकताअनुसारका कार्यहरू तर्जुमा र कार्यान्वयन गर्ने।",
+      "bt": "▶ Formulate and implement actions according to those needs as part of the MHPSS response to ensure that individuals’ specific disability-related needs are met through reasonable adaptation measures.",
+      "type": "safety",
+      "terms": [
+        "T161",
+        "T174",
+        "T286"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The frozen reasonable accommodation candidate is retained without claiming validated disability-rights equivalence."
+    },
+    {
+      "id": "MAN-07-0061",
+      "page": "28",
+      "loc": "bullet",
+      "section": "Introduction",
+      "en": "▶ Building the capacity of MHPSS workers on the communication requirements of persons with disabilities and relevant approaches such as the rights-based approach, the twin-track approach, supported decision-making, universal design features and reasonable accommodation measures.",
+      "ne": "▶ अपाङ्गता भएका व्यक्तिहरूका सञ्चारसम्बन्धी आवश्यकताहरू तथा अधिकारमा आधारित दृष्टिकोण, दुई मार्गमा आधारित दृष्टिकोण, सहयोगसहित निर्णय लिने प्रक्रिया, सबैले प्रयोग गर्न सक्ने डिजाइनका विशेषता र उचित अनुकूलनका उपायजस्ता सान्दर्भिक दृष्टिकोणहरूबारे MHPSS कार्यकर्ताहरूको क्षमता विकास गर्ने।",
+      "bt": "▶ Develop the capacity of MHPSS workers regarding the communication needs of persons with disabilities and relevant approaches such as a rights-based approach, an approach based on two paths, a process of making decisions with support, features of design that everyone can use, and reasonable adaptation measures.",
+      "type": "safety",
+      "terms": [
+        "T073",
+        "T286",
+        "T291",
+        "T313",
+        "T322",
+        "T327"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied disability-inclusion candidates are retained unchanged and remain unvalidated."
+    },
+    {
+      "id": "MAN-07-0062",
+      "page": "28",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "See relevant resources on the MHPSS MSP web platform.",
+      "ne": "MHPSS MSP वेब प्लेटफर्ममा सान्दर्भिक स्रोतसामग्री हेर्नुहोस्।",
+      "bt": "See relevant resources on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T189",
+        "T416"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-07-0063",
+      "page": "28",
+      "loc": "footnote",
+      "section": "Introduction",
+      "en": "24 See also UNICEF & UNFPA (2021). Technical Note on Gender Responsive and/or Transformative Approaches and UNICEF (2022). Technical Note on Gender in Adolescent Mental Health.",
+      "ne": "24 UNICEF & UNFPA (2021). Technical Note on Gender Responsive and/or Transformative Approaches र UNICEF (2022). Technical Note on Gender in Adolescent Mental Health पनि हेर्नुहोस्।",
+      "bt": "24 See also UNICEF & UNFPA (2021). Technical Note on Gender Responsive and/or Transformative Approaches and UNICEF (2022). Technical Note on Gender in Adolescent Mental Health.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The reading instruction is translated; bibliographic names, years and publication titles are retained in English."
+    }
+  ]
+}

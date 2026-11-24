@@ -8,7 +8,7 @@
   "source_sha256": "1ffc7a9d841af5d0bf54cc0617b8058957cc7cedb30250d6ada9190995411bcd",
   "pages": "1-3",
   "glossary_version": "G-0.5",
-  "generated": "2026-11-23T22:28:01+05:45",
+  "generated": "2026-11-23T23:16:02+05:45",
   "coverage": {
     "source_words": 1237,
     "row_words": 1237,
@@ -166,14 +166,14 @@
       "loc": "para",
       "section": "How is it relevant to Mine Action programming?",
       "en": "They may experience chronic pain, phantom pain, diminished independence, restricted access to activities, problems with self-image, and social challenges such as unemployment, changes to social roles, stigma, discrimination, and increased socio-economic vulnerability.",
-      "ne": "उनीहरूले दीर्घकालीन दुखाइ, फ्यान्टम दुखाइ (phantom pain), स्वतन्त्रतामा कमी, गतिविधिहरूमा सीमित पहुँच, आफ्नो छविसम्बन्धी समस्याहरू तथा बेरोजगारी, सामाजिक भूमिकामा परिवर्तन, लाञ्छना, भेदभाव र सामाजिक-आर्थिक जोखिमप्रवणतामा वृद्धि जस्ता सामाजिक चुनौतीहरू अनुभव गर्न सक्छन्।",
-      "bt": "They may experience long-term pain, phantom pain (phantom pain), reduced independence, limited access to activities, problems related to their own image, and social challenges such as unemployment, changes in social roles, stigma, discrimination and increased socioeconomic vulnerability.",
+      "ne": "उनीहरूले [chronic pain], [phantom pain], स्वतन्त्रतामा कमी, गतिविधिहरूमा सीमित पहुँच, आफ्नो छविसम्बन्धी समस्याहरू तथा बेरोजगारी, सामाजिक भूमिकामा परिवर्तन, लाञ्छना, भेदभाव र सामाजिक-आर्थिक जोखिमप्रवणतामा वृद्धि जस्ता सामाजिक चुनौतीहरू अनुभव गर्न सक्छन्।",
+      "bt": "They may experience [chronic pain], [phantom pain], reduced independence, limited access to activities, problems related to their own image, and social challenges such as unemployment, changes in social roles, stigma, discrimination and increased socioeconomic vulnerability.",
       "type": "safety",
       "terms": [],
       "flags": [
         "glossary-missing"
       ],
-      "note": "The symptom wording is an unvalidated draft; no supplied candidate covers phantom pain, which retains English at first use. The source specifies increased socio-economic vulnerability, whereas the Nepali and BT express increased socio-economic insecurity. Repaired this distinction while retaining possibility."
+      "note": "Replaced the Nepali rendering of chronic pain with the exact source label [chronic pain], retaining [phantom pain] and all other candidate wording; no supplied glossary entry covers either label."
     },
     {
       "id": "QSG-MA-0010",

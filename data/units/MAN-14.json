@@ -1,0 +1,484 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-14",
+  "unit_title": "Support MHPSS competencies of staff and volunteers",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "47-48",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:41:24+05:45",
+  "coverage": {
+    "source_words": 405,
+    "row_words": 405,
+    "skipped": [
+      "PDF p.47: running footer/page number removed: 42 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.47: Embedded EQUIP logo wording: EQUIP: Ensuring Quality in Psychological Support. Not in selectable text; listed as image-text skip per runbook.",
+      "PDF p.48: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 43"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-14-0001",
+      "page": "47",
+      "loc": "heading",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "2.4 Support MHPSS competencies of staff and volunteers",
+      "ne": "2.4 कर्मचारी र स्वयंसेवकको MHPSS सक्षमतामा सहयोग गर्ने",
+      "bt": "2.4 Supporting the MHPSS competence of staff and volunteers",
+      "type": "activity",
+      "terms": [
+        "T097",
+        "T209"
+      ],
+      "flags": [],
+      "note": "Exact supplied activity-label candidate retained; unreviewed."
+    },
+    {
+      "id": "MAN-14-0002",
+      "page": "47",
+      "loc": "para",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "MHPSS workers should be adequately trained, supervised and supported based on the requirements of the activity or activities that they are involved in.",
+      "ne": "MHPSS कार्यकर्ताहरूलाई उनीहरू संलग्न गतिविधि वा गतिविधिहरूको आवश्यकताका आधारमा पर्याप्त तालिम, सुपरिवेक्षण र सहयोग प्रदान गर्न सिफारिस गरिन्छ।",
+      "bt": "It is recommended that MHPSS workers be provided with adequate training, supervision and support based on the requirements of the activity or activities in which they are involved.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Supervision is not a separate glossary entry; proposed administrative wording: [Nepali wording recorded in terminology evidence]. The back-translation strengthens 'should' to 'must'. The revision makes the recommendation explicit without imposing an absolute requirement."
+    },
+    {
+      "id": "MAN-14-0003",
+      "page": "47",
+      "loc": "para",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Observing, assessing and supporting the development of competencies (knowledge, skills and attitudes) helps to ensure high-quality programmes.",
+      "ne": "सक्षमता (ज्ञान, सीप र अभिवृत्ति) को अवलोकन र लेखाजोखा गर्ने तथा त्यसको विकासमा सहयोग गर्ने कार्यले उच्च गुणस्तरका कार्यक्रमहरू सुनिश्चित गर्न मद्दत गर्छ।",
+      "bt": "Observing and assessing competence (knowledge, skills and attitudes) and supporting its development helps ensure high-quality programmes.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T209",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Generic competencies, including knowledge, skills and attitudes, lack a separate glossary entry; proposed wording: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-14-0004",
+      "page": "47",
+      "loc": "para",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Assessing and monitoring competencies can also help in tailoring training, support and supervision.",
+      "ne": "सक्षमताको लेखाजोखा र अनुगमनले तालिम, सहयोग र सुपरिवेक्षणलाई आवश्यकताअनुसार मिलाउन पनि मद्दत गर्न सक्छ।",
+      "bt": "Assessment and monitoring of competence can also help tailor training, support and supervision according to needs.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T209",
+        "T271",
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The generic competencies and supervision terms require glossary entries; tailoring remains distinct from assessment and monitoring."
+    },
+    {
+      "id": "MAN-14-0005",
+      "page": "47",
+      "loc": "para",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Continued supervision can support staff members and volunteers in their roles, create a safe place to discuss challenges, support continuous competency development, ensure that ethical considerations are addressed and reinforce staff self-care.",
+      "ne": "निरन्तर सुपरिवेक्षणले कर्मचारी र स्वयंसेवकलाई उनीहरूको भूमिकामा सहयोग गर्न, चुनौतीहरूबारे छलफल गर्न सुरक्षित स्थान सिर्जना गर्न, सक्षमताको निरन्तर विकासमा सहयोग गर्न, नैतिक पक्षहरू सम्बोधन भएको सुनिश्चित गर्न र कर्मचारीले आफ्नै हेरचाह गर्ने अभ्यासलाई सुदृढ बनाउन सक्छ।",
+      "bt": "Ongoing supervision can support staff and volunteers in their roles, create a safe space to discuss challenges, support the continuing development of competence, ensure that ethical aspects are addressed and strengthen staff practices of caring for themselves.",
+      "type": "safety",
+      "terms": [
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General guidance on safe discussion, ethical considerations and staff self-care; review pending. Generic competencies and supervision lack separate glossary entries."
+    },
+    {
+      "id": "MAN-14-0006",
+      "page": "47",
+      "loc": "para",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "The EQUIP platform and tools support teams and organizations to plan, design, adapt and implement existing and new competency-based MHPSS trainings for various sectors (e.g. child protection, education, health, etc.).",
+      "ne": "EQUIP प्लेटफर्म र उपकरणहरूले टोली र संस्थाहरूलाई विभिन्न क्षेत्रहरू (जस्तै, बाल संरक्षण, शिक्षा, स्वास्थ्य आदि) का लागि MHPSS सम्बन्धी सक्षमतामा आधारित विद्यमान तथा नयाँ तालिमहरूको योजना बनाउन, स्वरूप तयार गर्न, अनुकूलन गर्न र कार्यान्वयन गर्न सहयोग गर्छन्।",
+      "bt": "The EQUIP platform and tools support teams and organizations in planning, designing, adapting and implementing existing and new MHPSS-related competency-based training for different sectors (e.g., child protection, education, health, etc.).",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T028",
+        "T027",
+        "T159",
+        "T210",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Competency-based lacks a glossary entry; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. This describes training design, not clinical content."
+    },
+    {
+      "id": "MAN-14-0007",
+      "page": "48",
+      "loc": "heading",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-14-0008",
+      "page": "48",
+      "loc": "heading",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Support MHPSS competencies of staff and volunteers",
+      "ne": "कर्मचारी र स्वयंसेवकको MHPSS सक्षमतामा सहयोग गर्ने",
+      "bt": "Supporting the MHPSS competence of staff and volunteers",
+      "type": "activity",
+      "terms": [
+        "T097",
+        "T209"
+      ],
+      "flags": [],
+      "note": "Supplied T097 wording retained without an activity code, as in this source heading; unreviewed."
+    },
+    {
+      "id": "MAN-14-0009",
+      "page": "48",
+      "loc": "heading",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-14-0010",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Establish the competencies needed to effectively provide each activity40 (see MSP programme activities in Sections 3 and 4, and the recommended training topics for specific programmatic activities on the MHPSS MSP web platform).",
+      "ne": "प्रत्येक गतिविधि40 प्रभावकारी रूपमा सञ्चालन गर्न आवश्यक सक्षमता निर्धारण गर्नुहोस् (खण्ड 3 र 4 मा रहेका MSP कार्यक्रमगत गतिविधिहरू तथा MHPSS MSP वेब प्लेटफर्ममा रहेका विशिष्ट कार्यक्रमगत गतिविधि सम्बन्धी सिफारिस गरिएका तालिमका विषयहरू हेर्नुहोस्)।",
+      "bt": "Determine the competence required to carry out each activity40 effectively (see the MSP programme activities in Sections 3 and 4 and the recommended training topics related to specific programme activities on the MHPSS MSP web platform).",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T167",
+        "T166",
+        "T189",
+        "T088",
+        "T209",
+        "T409",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Generic competencies need a separate glossary entry. Footnote marker 40 and both section references are retained."
+    },
+    {
+      "id": "MAN-14-0011",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Assess the training needs of staff and volunteers to inform and adapt training and supervision (see MSP activity 1.2).",
+      "ne": "तालिम र सुपरिवेक्षणलाई दिशा दिन तथा अनुकूलन गर्न कर्मचारी र स्वयंसेवकका तालिम आवश्यकताहरूको लेखाजोखा गर्नुहोस् (MSP गतिविधि 1.2 हेर्नुहोस्)।",
+      "bt": "Assess the training needs of staff and volunteers to guide and adapt training and supervision (see MSP Activity 1.2).",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T091",
+        "T163",
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The proposed supervision term applies to adapting staff and volunteer training; activity reference 1.2 is unchanged."
+    },
+    {
+      "id": "MAN-14-0012",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Equip workers with responsibility for oversight, training and supervision with the necessary skills and knowledge to provide effective competency-based supervision and training.",
+      "ne": "रेखदेख, तालिम र सुपरिवेक्षणको जिम्मेवारी भएका कार्यकर्ताहरूलाई सक्षमतामा आधारित प्रभावकारी सुपरिवेक्षण र तालिम प्रदान गर्न आवश्यक सीप र ज्ञानले सुसज्जित बनाउनुहोस्।",
+      "bt": "Equip workers responsible for oversight, training and supervision with the skills and knowledge needed to provide effective competency-based supervision and training.",
+      "type": "check",
+      "terms": [
+        "T210",
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terms cover supervision and competency-based practice. Oversight is rendered separately as [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-14-0013",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Establish a schedule and structure for providing regular monitoring, support and supervision to MHPSS workers (e.g. weekly team meetings, monthly supervision meetings, remotely or in-person).",
+      "ne": "MHPSS कार्यकर्ताहरूलाई नियमित अनुगमन, सहयोग र सुपरिवेक्षण प्रदान गर्न समयतालिका र संरचना स्थापना गर्नुहोस् (जस्तै, साप्ताहिक टोली बैठकहरू, मासिक सुपरिवेक्षण बैठकहरू, दूरमाध्यमबाट वा प्रत्यक्ष उपस्थितिमा)।",
+      "bt": "Establish schedules and structures to provide regular monitoring, support and supervision to MHPSS workers (e.g., weekly team meetings, monthly supervision meetings, remotely or in person).",
+      "type": "general",
+      "terms": [
+        "T271",
+        "T309",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Supervision requires a glossary entry; weekly and monthly schedules and both meeting modes are retained."
+    },
+    {
+      "id": "MAN-14-0014",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Establish clear lines of responsibility and communication between persons responsible for training, supervision and/or management.",
+      "ne": "तालिम, सुपरिवेक्षण र/वा व्यवस्थापनका लागि जिम्मेवार व्यक्तिहरूबीच जिम्मेवारी र सञ्चारका स्पष्ट शृङ्खला स्थापित गर्नुहोस्।",
+      "bt": "Establish clear chains of responsibility and communication among those responsible for training, supervision and/or management.",
+      "type": "general",
+      "terms": [
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Supervision is proposed as an administrative term here; the source's and/or relationship is retained."
+    },
+    {
+      "id": "MAN-14-0015",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Identify confidential spaces and/or confidential means of communication for regular support and supervision.",
+      "ne": "नियमित सहयोग र सुपरिवेक्षणका लागि गोपनीयता कायम हुने स्थानहरू र/वा गोपनीयता कायम हुने सञ्चारका माध्यमहरू पहिचान गर्नुहोस्।",
+      "bt": "Identify spaces where confidentiality is maintained and/or means of communication where confidentiality is maintained for regular support and supervision.",
+      "type": "safety",
+      "terms": [
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General confidentiality guidance, not a verbatim consent or safeguarding declaration; review pending. Supervision lacks a glossary entry."
+    },
+    {
+      "id": "MAN-14-0016",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूका आधारमा)",
+      "bt": "Additional actions provided for consideration (based on context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-14-0017",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Conduct regular competency assessments of workers to inform additional training and supervision.",
+      "ne": "थप तालिम र सुपरिवेक्षणलाई दिशा दिन कार्यकर्ताहरूको सक्षमताको नियमित लेखाजोखा गर्नुहोस्।",
+      "bt": "Regularly assess workers' competence to guide further training and supervision.",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The proposed generic competencies and supervision terms apply to recurring worker assessments."
+    },
+    {
+      "id": "MAN-14-0018",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Institute or facilitate access to ongoing training programmes to continue building competencies of workers in their technical areas of work and to contribute to professional development.",
+      "ne": "कार्यकर्ताहरूको कामका प्राविधिक क्षेत्रमा उनीहरूको सक्षमता निरन्तर विकास गर्न र पेसागत विकासमा योगदान पुर्‍याउन निरन्तर तालिमका कार्यक्रमहरू स्थापना गर्नुहोस् वा त्यस्ता कार्यक्रमहरूमा पहुँच सहज बनाउनुहोस्।",
+      "bt": "Establish ongoing training programmes or facilitate access to such programmes to continually develop workers' competence in the technical areas of their work and contribute to professional development.",
+      "type": "check",
+      "terms": [
+        "T209",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Generic competencies lack a separate glossary entry; establishing training and facilitating access remain alternative actions."
+    },
+    {
+      "id": "MAN-14-0019",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Establish benchmarks for minimum safe and effective levels of key competencies of workers, relevant to the sector, complexity and context of service provision.",
+      "ne": "सेवा प्रदान गरिने क्षेत्र, सेवा प्रदान गर्ने कार्यको जटिलता र सन्दर्भसँग सान्दर्भिक हुने गरी कार्यकर्ताहरूको प्रमुख सक्षमताका न्यूनतम सुरक्षित र प्रभावकारी स्तरका लागि आधारमानहरू निर्धारण गर्नुहोस्।",
+      "bt": "Establish benchmarks for minimum safe and effective levels of workers’ core competencies that are relevant to the area in which services are provided, the complexity of providing services, and the context.",
+      "type": "safety",
+      "terms": [
+        "T209",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "General guidance on safe competency thresholds; review pending. Generic competencies require a glossary entry. The existing Nepali makes 'its complexity' refer to the sector or area. The source specifies the complexity of service provision; the revision makes that attachment explicit. The back-translation replaces the service sector with the area in which services are provided, losing the explicit sector-specific reference."
+    },
+    {
+      "id": "MAN-14-0020",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Strengthen supervision structures by engaging experienced senior supervisors to provide supervision, mentorship and training to programme-level supervisors.",
+      "ne": "कार्यक्रम तहका सुपरिवेक्षकहरूलाई सुपरिवेक्षण, मार्गदर्शकीय सहयोग र तालिम प्रदान गर्न अनुभवी वरिष्ठ सुपरिवेक्षकहरूलाई संलग्न गराई सुपरिवेक्षणका संरचनाहरू सुदृढ गर्नुहोस्।",
+      "bt": "Strengthen supervision structures by involving experienced senior supervisors to provide supervision, mentoring support and training to programme-level supervisors.",
+      "type": "general",
+      "terms": [
+        "T265",
+        "T309",
+        "T310",
+        "T409",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing terms distinguish supervision from mentorship, rendered as [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; senior and programme-level roles remain distinct."
+    },
+    {
+      "id": "MAN-14-0021",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Ensure that different persons are tasked with management and supervision/mentorship responsibilities.",
+      "ne": "व्यवस्थापनको जिम्मेवारी र सुपरिवेक्षण/मार्गदर्शकीय सहयोगको जिम्मेवारी फरक-फरक व्यक्तिहरूलाई दिइएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure that responsibility for management and responsibility for supervision/mentoring support are assigned to different people.",
+      "type": "general",
+      "terms": [
+        "T265",
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The proposed supervision and mentorship terms preserve separation from management responsibilities."
+    },
+    {
+      "id": "MAN-14-0022",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Assess and support the competencies of supervisors.",
+      "ne": "सुपरिवेक्षकहरूको सक्षमताको लेखाजोखा गर्नुहोस् र त्यसलाई सहयोग पुर्‍याउनुहोस्।",
+      "bt": "Assess supervisors' competence and support it.",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T209",
+        "T310"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The generic competencies proposal applies to supervisors; supervisor wording follows the proposed supervision term."
+    },
+    {
+      "id": "MAN-14-0023",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Assess and support the competencies of trainers.",
+      "ne": "प्रशिक्षकहरूको सक्षमताको लेखाजोखा गर्नुहोस् र त्यसलाई सहयोग पुर्‍याउनुहोस्।",
+      "bt": "Assess trainers' competence and support it.",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T209"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The generic competencies proposal applies here to trainers, not supervisors."
+    },
+    {
+      "id": "MAN-14-0024",
+      "page": "48",
+      "loc": "heading",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": "Ordinary resource heading, not a clinical check or instrument item."
+    },
+    {
+      "id": "MAN-14-0025",
+      "page": "48",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-14-0026",
+      "page": "48",
+      "loc": "footnote",
+      "section": "Section 2 > 2.4 Support MHPSS competencies of staff and volunteers",
+      "en": "40 Seek alignment with any relevant competency frameworks developed by national licencing bodies and national professional associations, as appropriate.",
+      "ne": "40 उपयुक्तताअनुसार राष्ट्रिय इजाजतपत्र प्रदान गर्ने निकायहरू र राष्ट्रिय पेसागत संघहरूले विकास गरेका सान्दर्भिक सक्षमता रूपरेखाहरूसँग तालमेल कायम गर्ने प्रयास गर्नुहोस्।",
+      "bt": "40 As appropriate, try to maintain alignment with relevant competency frameworks developed by national licensing bodies and national professional associations.",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Competency frameworks build on the proposed generic competencies term. Both national actors and the qualification 'as appropriate' are retained."
+    }
+  ]
+}

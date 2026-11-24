@@ -1,0 +1,2032 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-03",
+  "unit_title": "List of abbreviations",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "6-8",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:04:17+05:45",
+  "coverage": {
+    "source_words": 726,
+    "row_words": 726,
+    "skipped": [
+      "PDF p.6: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 1",
+      "PDF p.7: running footer/page number removed: 2 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.8: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 3"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-03-0001",
+      "page": "6",
+      "loc": "heading",
+      "section": "frontmatter",
+      "en": "List of abbreviations",
+      "ne": "सङ्क्षिप्त रूपहरूको सूची",
+      "bt": "List of abbreviations",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0002",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "AAP Accountability to Affected Populations",
+      "ne": "AAP प्रभावित जनसङ्ख्याप्रतिको जवाफदेहिता",
+      "bt": "AAP Accountability to the affected population",
+      "type": "general",
+      "terms": [
+        "T039"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0003",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "AoR Area of Responsibility",
+      "ne": "AoR जिम्मेवारी क्षेत्र",
+      "bt": "AoR Area of responsibility",
+      "type": "general",
+      "terms": [
+        "T012"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0004",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "CBOs Community based organizations",
+      "ne": "CBOs समुदायमा आधारित संस्थाहरू",
+      "bt": "CBOs Community-based organizations",
+      "type": "general",
+      "terms": [
+        "T040",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0005",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "CBT Cognitive–behavioural therapy",
+      "ne": "CBT [Cognitive–behavioural therapy]",
+      "bt": "CBT [Cognitive–behavioural therapy]",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The therapy name and CBT remain unchanged; the Devanagari QC requirement conflicts with exact-name preservation because this source supplies no explanatory gloss."
+    },
+    {
+      "id": "MAN-03-0006",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "CCCM Camp Coordination and Camp Management",
+      "ne": "CCCM शिविर समन्वय तथा शिविर व्यवस्थापन",
+      "bt": "CCCM Camp coordination and camp management",
+      "type": "general",
+      "terms": [
+        "T031",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0007",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "CP Child Protection",
+      "ne": "CP बाल संरक्षण",
+      "bt": "CP Child protection",
+      "type": "general",
+      "terms": [
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0008",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "CPMS The Minimum Standards for Child Protection in Humanitarian Action",
+      "ne": "CPMS मानवीय कार्यमा बाल संरक्षणका लागि न्यूनतम मापदण्डहरू",
+      "bt": "CPMS Minimum standards for child protection in humanitarian action",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T087",
+        "T321"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose adding the full CPMS title to the glossary; its component terms do not establish an approved title."
+    },
+    {
+      "id": "MAN-03-0009",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "CSOs Civil society organizations",
+      "ne": "CSOs नागरिक समाजका संस्थाहरू",
+      "bt": "CSOs Civil society organizations",
+      "type": "general",
+      "terms": [
+        "T041"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0010",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "ECD Early childhood development",
+      "ne": "ECD प्रारम्भिक बाल विकास",
+      "bt": "ECD Early childhood development",
+      "type": "general",
+      "terms": [
+        "T037"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0011",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "EO Explosive Ordnances",
+      "ne": "EO विस्फोटक आयुध",
+      "bt": "EO Explosive ordnance",
+      "type": "general",
+      "terms": [
+        "T133"
+      ],
+      "flags": [],
+      "note": "The supplied candidate is used as a collective label for the English plural."
+    },
+    {
+      "id": "MAN-03-0012",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "FSL Food Security and Livelihoods",
+      "ne": "FSL खाद्य सुरक्षा तथा जीविकोपार्जन",
+      "bt": "FSL Food security and livelihoods",
+      "type": "general",
+      "terms": [
+        "T034"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0013",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "GBV Gender-Based Violence",
+      "ne": "GBV लैङ्गिक हिंसा",
+      "bt": "GBV Gender-based violence",
+      "type": "general",
+      "terms": [
+        "T010",
+        "T233"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0014",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "HLP Housing, land and property",
+      "ne": "HLP आवास, भूमि तथा सम्पत्ति",
+      "bt": "HLP Housing, land and property",
+      "type": "general",
+      "terms": [
+        "T056"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0015",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "HMIS Health management information systems",
+      "ne": "HMIS स्वास्थ्य व्यवस्थापन सूचना प्रणालीहरू",
+      "bt": "HMIS Health management information systems",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T238"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose adding health management information systems as a complete glossary entry; the source plural is retained."
+    },
+    {
+      "id": "MAN-03-0016",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "HR Human resources",
+      "ne": "HR मानव संसाधन",
+      "bt": "HR Human resources",
+      "type": "general",
+      "terms": [
+        "T042"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0017",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "IASC Inter-Agency Standing Committee",
+      "ne": "IASC अन्तर-निकाय स्थायी समिति",
+      "bt": "IASC Inter-agency standing committee",
+      "type": "general",
+      "terms": [
+        "T044"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0018",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "IDP Internally displaced person",
+      "ne": "IDP आन्तरिक रूपमा विस्थापित व्यक्ति",
+      "bt": "IDP Internally displaced person",
+      "type": "general",
+      "terms": [
+        "T045"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0019",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "IEC Information, education and communication",
+      "ne": "IEC सूचना, शिक्षा तथा सञ्चार",
+      "bt": "IEC Information, education and communication",
+      "type": "general",
+      "terms": [
+        "T043"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0020",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "IFRC International Federation of Red Cross and Red Crescent Societies",
+      "ne": "IFRC रेडक्रस तथा रेडक्रिसेन्ट सोसाइटीहरूको अन्तर्राष्ट्रिय महासङ्घ",
+      "bt": "IFRC International federation of Red Cross and Red Crescent societies",
+      "type": "general",
+      "terms": [
+        "T248"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose adding the IFRC organization name. This is a draft rendering, not a claim of official Nepali naming."
+    },
+    {
+      "id": "MAN-03-0021",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "IHME Institute for Health Metrics and Evaluation",
+      "ne": "IHME स्वास्थ्य मापन तथा मूल्याङ्कन संस्थान",
+      "bt": "IHME Institute of Health Measurement and Evaluation",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T246"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen organization name uses मापन, meaning measurement, where the source specifies Metrics as quantitative measures; IHME is unchanged. bt-divergence: The frozen candidate uses मापन, meaning measurement, for the source's Metrics, meaning quantitative measures. The frozen organization name is retained unchanged."
+    },
+    {
+      "id": "MAN-03-0022",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "INEE The Inter-agency Network for Education in Emergencies",
+      "ne": "INEE आपत्कालीन अवस्थामा शिक्षाका लागि अन्तर-निकाय सञ्जाल",
+      "bt": "INEE Inter-agency network for education in emergencies",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T028",
+        "T320"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose adding the INEE network name. T131 is used with a locative suffix; that contextual form remains unreviewed."
+    },
+    {
+      "id": "MAN-03-0023",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "INGOs International Non-Governmental Organization",
+      "ne": "INGOs अन्तर्राष्ट्रिय गैरसरकारी संस्था",
+      "bt": "INGOs International nongovernmental organization",
+      "type": "safety",
+      "terms": [
+        "T249"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The plural-looking acronym INGOs and the singular organization expansion are both preserved without resolving the source-number mismatch."
+    },
+    {
+      "id": "MAN-03-0024",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "IOM International Organization for Migration",
+      "ne": "IOM आप्रवासनका लागि अन्तर्राष्ट्रिय सङ्गठन",
+      "bt": "IOM International organization for migration",
+      "type": "general",
+      "terms": [
+        "T250"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose adding the IOM organization name. This draft does not establish an official Nepali title."
+    },
+    {
+      "id": "MAN-03-0025",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "IPV Intimate partner violence",
+      "ne": "IPV घनिष्ठ साथीद्वारा हुने हिंसा",
+      "bt": "IPV Violence by an intimate partner",
+      "type": "general",
+      "terms": [
+        "T055"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0026",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "IRC International Rescue Committee",
+      "ne": "IRC अन्तर्राष्ट्रिय उद्धार समिति",
+      "bt": "IRC International rescue committee",
+      "type": "general",
+      "terms": [
+        "T251"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose adding the IRC organization name. This draft does not establish an official Nepali title."
+    },
+    {
+      "id": "MAN-03-0027",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "LGBTIQ+ Lesbian, gay, bisexual, transgender, intersex, queer",
+      "ne": "LGBTIQ+ समलिङ्गी महिला, समलिङ्गी पुरुष, उभयलिङ्गी, ट्रान्सजेन्डर, अन्तरलिङ्गी, क्वियर",
+      "bt": "LGBTIQ+ Homosexual women, homosexual men, bisexual, transgender, intersex, queer",
+      "type": "general",
+      "terms": [
+        "T255"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Propose adding the six identity labels and their acronym expansion for terminology review. The source plus sign is retained without adding categories absent from the expansion."
+    },
+    {
+      "id": "MAN-03-0028",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "LIVES Listen, Inquire, Validate, Enhance safety and Support",
+      "ne": "LIVES [Listen, Inquire, Validate, Enhance safety and Support] — सुन्नुहोस्, सोधपुछ गर्नुहोस्, मान्यता दिनुहोस्, सुरक्षा बढाउनुहोस् र सहयोग गर्नुहोस्।",
+      "bt": "LIVES [Listen, Inquire, Validate, Enhance safety and Support] — Listen, inquire, give recognition, increase safety and provide support.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "glossary-missing",
+        "prior-draft-changed"
+      ],
+      "note": "Retained the candidate Nepali wording and added the exact source English expansion in square brackets as the named LIVES intervention label; the source supplies the expansion, so its Nepali gloss is retained."
+    },
+    {
+      "id": "MAN-03-0029",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "M&E Monitoring and evaluation",
+      "ne": "M&E अनुगमन तथा मूल्याङ्कन",
+      "bt": "M&E Monitoring and evaluation",
+      "type": "general",
+      "terms": [
+        "T046",
+        "T271"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0030",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "mhGAP-HIG mhGAP Humanitarian Intervention Guide",
+      "ne": "mhGAP-HIG [mhGAP Humanitarian Intervention Guide]",
+      "bt": "mhGAP-HIG [mhGAP Humanitarian Intervention Guide]",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The official guide title and mhGAP-HIG remain unchanged; the Devanagari QC requirement conflicts with exact-title preservation because this source supplies no explanatory gloss."
+    },
+    {
+      "id": "MAN-03-0031",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "mhGAP-IG mhGAP Intervention Guide",
+      "ne": "mhGAP-IG [mhGAP Intervention Guide]",
+      "bt": "mhGAP-IG [mhGAP Intervention Guide]",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The official guide title and mhGAP-IG remain unchanged; the Devanagari QC requirement conflicts with exact-title preservation because this source supplies no explanatory gloss."
+    },
+    {
+      "id": "MAN-03-0032",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "MHPSS Mental health and psychosocial support",
+      "ne": "MHPSS मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग",
+      "bt": "MHPSS Mental health and psychosocial support",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses T001 verbatim from the cited unreviewed candidate in PRIOR-SUM-29OCT2026 p.1 row 1; no clinical validation is asserted."
+    },
+    {
+      "id": "MAN-03-0033",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "MNS Mental, neurological and substance use",
+      "ne": "MNS मानसिक, स्नायुसम्बन्धी र पदार्थको प्रयोग",
+      "bt": "MNS Mental, neurological and substance use",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The grouped categories are drafted without adding disorders or treating the expansion as a single diagnosis; MNS is unchanged."
+    },
+    {
+      "id": "MAN-03-0034",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "MoV Means of verification",
+      "ne": "MoV पुष्ट्याइँका आधारहरू",
+      "bt": "MoV bases for verification",
+      "type": "general",
+      "terms": [
+        "T047"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0035",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "MSCM Minimum Standards for Camp Management",
+      "ne": "MSCM शिविर व्यवस्थापनका न्यूनतम मापदण्डहरू",
+      "bt": "MSCM minimum standards for camp management",
+      "type": "general",
+      "terms": [
+        "T087",
+        "T270"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary entry: Minimum Standards for Camp Management = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; retain MSCM."
+    },
+    {
+      "id": "MAN-03-0036",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "MSP Minimum Service Package",
+      "ne": "MSP न्यूनतम सेवा प्याकेज",
+      "bt": "MSP minimum service package",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T002"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0037",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "NGOs Non-governmental organizations",
+      "ne": "NGOs गैरसरकारी संस्थाहरू",
+      "bt": "NGOs nongovernmental organizations",
+      "type": "general",
+      "terms": [
+        "T048"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0038",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "OCHA Office for the Coordination of Humanitarian Affairs",
+      "ne": "OCHA मानवीय मामिला समन्वय कार्यालय",
+      "bt": "OCHA office for the coordination of humanitarian affairs",
+      "type": "general",
+      "terms": [
+        "T053",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0039",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "PFA Psychological first aid",
+      "ne": "PFA [Psychological first aid]",
+      "bt": "PFA [Psychological first aid]",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The named intervention and PFA remain unchanged; the Devanagari QC requirement conflicts with exact-name preservation because this source supplies no explanatory gloss."
+    },
+    {
+      "id": "MAN-03-0040",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "PTSD Post-traumatic stress disorder",
+      "ne": "PTSD [Post-traumatic stress disorder]",
+      "bt": "PTSD [Post-traumatic stress disorder]",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The specific diagnosis and PTSD remain unchanged; the Devanagari QC requirement conflicts with exact-name preservation because this source supplies no explanatory gloss."
+    },
+    {
+      "id": "MAN-03-0041",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "SEL Social and emotional learning",
+      "ne": "SEL सामाजिक तथा भावनात्मक सिकाइ",
+      "bt": "SEL social and emotional learning",
+      "type": "general",
+      "terms": [
+        "T303"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Translated as an educational concept, not clinical terminology. Proposed glossary entry: Social and emotional learning = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; retain SEL."
+    },
+    {
+      "id": "MAN-03-0042",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "SOGIESC Sexual orientation, gender identity, gender expression and sex characteristics",
+      "ne": "SOGIESC यौन अभिमुखता, लैङ्गिक पहिचान, लैङ्गिक अभिव्यक्ति र जैविक लिङ्गसम्बन्धी विशेषताहरू",
+      "bt": "SOGIESC sexual orientation, gender identity, gender expression and characteristics related to biological sex",
+      "type": "general",
+      "terms": [
+        "T233"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Translated as nonclinical identity and characteristics terminology. Proposed glossary entry preserves all four components; terminology review is pending. The final component renders sex characteristics as sexual characteristics. Revised that component to distinguish characteristics of sex from sexuality; retained the other three components and SOGIESC."
+    },
+    {
+      "id": "MAN-03-0043",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "SOPs Standard operating procedures",
+      "ne": "SOPs मानक कार्यसञ्चालन प्रक्रियाहरू",
+      "bt": "SOPs standard operating procedures",
+      "type": "general",
+      "terms": [
+        "T049"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0044",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "SPRP Strategic Preparedness and Response Plan",
+      "ne": "SPRP रणनीतिक पूर्वतयारी तथा प्रतिकार्य योजना",
+      "bt": "SPRP strategic preparedness and response plan",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T308"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary entry: Strategic Preparedness and Response Plan = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; retain SPRP."
+    },
+    {
+      "id": "MAN-03-0045",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "SRH Sexual and reproductive health",
+      "ne": "SRH यौन तथा प्रजनन स्वास्थ्य",
+      "bt": "SRH Sexual and reproductive health",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T508"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied frozen candidate retains both sexual and reproductive health, and SRH is unchanged."
+    },
+    {
+      "id": "MAN-03-0046",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "TWG Technical Working Group",
+      "ne": "TWG प्राविधिक कार्यसमूह",
+      "bt": "TWG technical working group",
+      "type": "general",
+      "terms": [
+        "T050"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0047",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "UN United Nations",
+      "ne": "UN संयुक्त राष्ट्रसङ्घ",
+      "bt": "UN United Nations",
+      "type": "general",
+      "terms": [
+        "T051"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0048",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "UNFPA United Nations Population Fund",
+      "ne": "UNFPA संयुक्त राष्ट्रसङ्घ जनसङ्ख्या कोष",
+      "bt": "UNFPA United Nations Population Fund",
+      "type": "general",
+      "terms": [
+        "T051",
+        "T325"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary entry: United Nations Population Fund = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; retain UNFPA."
+    },
+    {
+      "id": "MAN-03-0049",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "UNHCR United Nations High Commissioner for Refugees",
+      "ne": "UNHCR संयुक्त राष्ट्रसङ्घका शरणार्थीसम्बन्धी उच्चायुक्त",
+      "bt": "UNHCR United Nations High Commissioner for Refugees",
+      "type": "general",
+      "terms": [
+        "T051",
+        "T287",
+        "T324"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary entry: United Nations High Commissioner for Refugees = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; retain UNHCR. The supplied title names the High Commissioner, not an explicitly stated office."
+    },
+    {
+      "id": "MAN-03-0050",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "UNICEF United Nations Children’s Emergency Fund",
+      "ne": "UNICEF संयुक्त राष्ट्रसङ्घ बाल आपत्कालीन कोष",
+      "bt": "UNICEF United Nations Children's Emergency Fund",
+      "type": "safety",
+      "terms": [
+        "T051",
+        "T323"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The frozen candidate preserves Emergency in the supplied expansion; the source's intended institutional title remains unresolved."
+    },
+    {
+      "id": "MAN-03-0051",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "WASH Water, Sanitation and Hygiene",
+      "ne": "WASH खानेपानी, सरसफाइ तथा स्वच्छता",
+      "bt": "WASH Drinking water, sanitation and hygiene",
+      "type": "safety",
+      "terms": [
+        "T033"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen form खानेपानी narrows the source's Water to drinking water; WASH and the other two components are retained. bt-divergence: The frozen candidate खानेपानी narrows the source's Water to drinking water. The frozen form is retained unchanged."
+    },
+    {
+      "id": "MAN-03-0052",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "WGSS Women and girls safe spaces",
+      "ne": "WGSS महिला तथा किशोरीका लागि सुरक्षित स्थल",
+      "bt": "WGSS safe space for women and adolescent girls",
+      "type": "safety",
+      "terms": [
+        "T054"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen T054 form specifies adolescent girls, whereas the source includes girls without an age restriction and therefore also includes younger girls. bt-divergence: Frozen T054 specifies adolescent girls, whereas source 'girls' also includes younger girls. The frozen form is retained; the age restriction cannot be repaired without changing it."
+    },
+    {
+      "id": "MAN-03-0053",
+      "page": "6",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "WHO World Health Organization",
+      "ne": "WHO विश्व स्वास्थ्य सङ्गठन",
+      "bt": "WHO World Health Organization",
+      "type": "general",
+      "terms": [
+        "T052"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0054",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "List of key considerations",
+      "ne": "मुख्य विचारणीय पक्षहरूको सूची",
+      "bt": "List of key considerations",
+      "type": "general",
+      "terms": [
+        "T154",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0055",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 1: Integrating MHPSS into health programming",
+      "ne": "मुख्य विचारणीय पक्ष 1: स्वास्थ्यसम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने।",
+      "bt": "Key consideration 1: Integrate MHPSS into the formulation and implementation of health-related programs.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T252",
+        "T282"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses a singular heading for the numbered consideration. Proposed glossary entry: programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-03-0056",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "p.9",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the page reference p.9 unchanged."
+    },
+    {
+      "id": "MAN-03-0057",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "9",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain 9 unchanged."
+    },
+    {
+      "id": "MAN-03-0058",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 2: Integrating MHPSS into education programming",
+      "ne": "मुख्य विचारणीय पक्ष 2: शिक्षासम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने।",
+      "bt": "Key consideration 2: Integrate MHPSS into the formulation and implementation of education-related programs.",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T252",
+        "T282"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary entry: programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; the numbered heading uses the singular form of key consideration."
+    },
+    {
+      "id": "MAN-03-0059",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 3: Integrating MHPSS into protection programming",
+      "ne": "मुख्य विचारणीय पक्ष 3: संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने।",
+      "bt": "Key consideration 3: Integrate MHPSS into the formulation and implementation of protection programs.",
+      "type": "general",
+      "terms": [
+        "T169",
+        "T252",
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0060",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "10",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain 10 unchanged."
+    },
+    {
+      "id": "MAN-03-0061",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 4: Integrating MHPSS into child protection programming",
+      "ne": "मुख्य विचारणीय पक्ष 4: बाल संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने।",
+      "bt": "Key consideration 4: Integrate MHPSS into the formulation and implementation of child protection programs.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T252",
+        "T282"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary entry: programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; child protection remains the specific programme area."
+    },
+    {
+      "id": "MAN-03-0062",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "11",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain 11 unchanged."
+    },
+    {
+      "id": "MAN-03-0063",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 5: Integrating MHPSS into GBV programming",
+      "ne": "मुख्य विचारणीय पक्ष 5: GBV सम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने।",
+      "bt": "Key consideration 5: Integrate MHPSS into the formulation and implementation of GBV-related programs.",
+      "type": "general",
+      "terms": [
+        "T252",
+        "T282"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains GBV without adding an expansion absent from the source row. Proposed glossary entries: programming = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; GBV requires a frozen glossary entry."
+    },
+    {
+      "id": "MAN-03-0064",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "11",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain 11 unchanged."
+    },
+    {
+      "id": "MAN-03-0065",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 6: Integrating MHPSS into mine action programming",
+      "ne": "मुख्य विचारणीय पक्ष 6: बारुदी सुरुङ सम्बन्धी कार्यको कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS को एकीकरण",
+      "bt": "Key consideration 6: Integration of MHPSS into the formulation and implementation of programmes related to landmine action",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T011",
+        "T282"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen T011 form explicitly refers to landmine-related action, potentially narrowing the technical sector label 'mine action'; equivalence of scope requires domain review. bt-divergence: Frozen T011 explicitly refers to landmine-related action, whereas the source uses the broader sector label 'mine action'. The frozen form is retained; equivalence of sector scope requires domain review."
+    },
+    {
+      "id": "MAN-03-0066",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "12",
+      "ne": "12",
+      "bt": "12",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0067",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 7: Integrating MHPSS into nutrition programming",
+      "ne": "मुख्य विचारणीय पक्ष 7: पोषणसम्बन्धी कार्यक्रममा MHPSS एकीकृत गर्ने।",
+      "bt": "Main consideration 7: Integrate MHPSS into nutrition-related programmes.",
+      "type": "general",
+      "terms": [
+        "T030",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0068",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "12",
+      "ne": "12",
+      "bt": "12",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0069",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 8: Integrating MHPSS into camp coordination and camp management programming",
+      "ne": "मुख्य विचारणीय पक्ष 8: शिविर समन्वय तथा शिविर व्यवस्थापनसम्बन्धी कार्यक्रममा MHPSS एकीकृत गर्ने।",
+      "bt": "Main consideration 8: Integrate MHPSS into programmes related to camp coordination and camp management.",
+      "type": "general",
+      "terms": [
+        "T031",
+        "T252",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0070",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "13",
+      "ne": "13",
+      "bt": "13",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0071",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 9: Integrating MHPSS into shelter and settlement programming",
+      "ne": "मुख्य विचारणीय पक्ष 9: आश्रय तथा बसोबाससम्बन्धी कार्यक्रममा MHPSS एकीकृत गर्ने।",
+      "bt": "Main consideration 9: Integrate MHPSS into programmes related to shelter and settlement.",
+      "type": "general",
+      "terms": [
+        "T252",
+        "T297",
+        "T300"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0072",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "14",
+      "ne": "14",
+      "bt": "14",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0073",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 10: Integrating MHPSS into water, sanitation and hygiene programming",
+      "ne": "मुख्य विचारणीय पक्ष 10: खानेपानी, सरसफाइ तथा स्वच्छता सम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS को एकीकरण",
+      "bt": "Key consideration 10: Integration of MHPSS into the formulation and implementation of programmes related to drinking water, sanitation and hygiene",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T033",
+        "T282"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen T033 form specifies drinking water, whereas the source says water without that restriction. bt-divergence: Frozen T033 restricts 'water' to drinking water, a restriction absent from the source. The frozen form is retained."
+    },
+    {
+      "id": "MAN-03-0074",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "14",
+      "ne": "14",
+      "bt": "14",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0075",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 11: Integrating MHPSS into food security and livelihoods programming",
+      "ne": "मुख्य विचारणीय पक्ष 11: खाद्य सुरक्षा तथा जीविकोपार्जनसम्बन्धी कार्यक्रममा MHPSS एकीकृत गर्ने।",
+      "bt": "Main consideration 11: Integrate MHPSS into programmes related to food security and livelihoods.",
+      "type": "general",
+      "terms": [
+        "T034",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0076",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "15",
+      "ne": "15",
+      "bt": "15",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0077",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 12: The effectiveness of MHPSS activities will be limited if a person’s basic protection needs are not being met",
+      "ne": "मुख्य विचारणीय पक्ष 12: कुनै व्यक्तिको संरक्षणसम्बन्धी आधारभूत आवश्यकता पूरा भइरहेको छैन भने MHPSS गतिविधिहरूको प्रभावकारिता सीमित हुनेछ।",
+      "bt": "Main consideration 12: If a person's basic protection-related needs are not being met, the effectiveness of MHPSS activities will be limited.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T158",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance drafted for review; the condition concerns unmet basic protection needs, not a clinical assessment."
+    },
+    {
+      "id": "MAN-03-0078",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "23",
+      "ne": "23",
+      "bt": "23",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0079",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 13: Meeting the needs and ensuring inclusion of persons with disabilities",
+      "ne": "मुख्य विचारणीय पक्ष 13: अपाङ्गता भएका व्यक्तिहरूका आवश्यकता पूरा गर्ने र उनीहरूको समावेशिता सुनिश्चित गर्ने।",
+      "bt": "Main consideration 13: Meet the needs of persons with disabilities and ensure their inclusion.",
+      "type": "general",
+      "terms": [
+        "T073",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0080",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "23",
+      "ne": "23",
+      "bt": "23",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0081",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 14: What to do if referral options for mental health services are not accessible?",
+      "ne": "मुख्य विचारणीय पक्ष 14: मानसिक स्वास्थ्य सेवाका लागि सम्बन्धित सेवामा पठाउने कार्यका विकल्पहरू पहुँचयोग्य नभएमा के गर्ने?",
+      "bt": "Main consideration 14: What to do if options for referral to relevant services for mental health care are not accessible?",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T172",
+        "T078",
+        "T252",
+        "T263"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The mental health service wording reuses the supplied unreviewed activity 3.10 candidate. This service-access question remains pending safety and language review."
+    },
+    {
+      "id": "MAN-03-0082",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "29",
+      "ne": "29",
+      "bt": "29",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0083",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 15: Assessments showing prevalence estimates of mental health conditions in humanitarian settings are not essential to initiate services",
+      "ne": "मुख्य विचारणीय पक्ष 15: मानवीय सहायताका परिवेशहरूमा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको व्याप्तिको अनुमान प्रस्तुत गर्ने लेखाजोखा सेवाहरू सुरु गर्न अत्यावश्यक हुँदैनन्",
+      "bt": "Key consideration 15: Assessments that present estimates of the prevalence of mental health conditions in humanitarian assistance settings are not essential for starting services",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T478",
+        "T408",
+        "T004"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft preserves that prevalence assessments are not essential for starting services, without prohibiting those assessments."
+    },
+    {
+      "id": "MAN-03-0084",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "32",
+      "ne": "32",
+      "bt": "32",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0085",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 16: Contextualization",
+      "ne": "मुख्य विचारणीय पक्ष 16: सन्दर्भअनुकूल बनाउने।",
+      "bt": "Main consideration 16: Adapt to the context.",
+      "type": "general",
+      "terms": [
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0086",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "35",
+      "ne": "35",
+      "bt": "35",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0087",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 17: Considering the needs of: i) migrants caught in crisis, ii) refugees and asylum seekers, iii) internally displaced persons (IDPs), iv) stateless people",
+      "ne": "मुख्य विचारणीय पक्ष 17: निम्न व्यक्तिका आवश्यकताबारे विचार गर्ने: i) सङ्कटमा परेका आप्रवासी, ii) शरणार्थी र शरण खोज्ने व्यक्ति, iii) आन्तरिक रूपमा विस्थापित व्यक्ति (IDPs), iv) राज्यविहीन व्यक्ति।",
+      "bt": "Main consideration 17: Consider the needs of the following persons: i) migrants in crisis, ii) refugees and persons seeking asylum, iii) internally displaced persons (IDPs), iv) stateless persons.",
+      "type": "general",
+      "terms": [
+        "T045",
+        "T194",
+        "T252",
+        "T269",
+        "T287"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0088",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "36",
+      "ne": "36",
+      "bt": "36",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0089",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 18: Implementing MHPSS activities remotely",
+      "ne": "मुख्य विचारणीय पक्ष 18: दूरबाट MHPSS गतिविधिहरू कार्यान्वयन गर्ने।",
+      "bt": "Main consideration 18: Implement MHPSS activities remotely.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0090",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "36",
+      "ne": "36",
+      "bt": "36",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0091",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 19: Design secure systems for information management",
+      "ne": "मुख्य विचारणीय पक्ष 19: सूचना व्यवस्थापनका लागि सुरक्षित प्रणालीहरूको डिजाइन गर्ने।",
+      "bt": "Main consideration 19: Design secure systems for information management.",
+      "type": "safety",
+      "terms": [
+        "T243",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General information-security guidance drafted for review; no specific security controls have been added."
+    },
+    {
+      "id": "MAN-03-0092",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "38",
+      "ne": "38",
+      "bt": "38",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0093",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 20: Staff responsible for providing MHPSS to people affected by humanitarian emergencies should not also be responsible for workforce well-being",
+      "ne": "मुख्य विचारणीय पक्ष 20: मानवीय आपत्कालीन अवस्थाबाट प्रभावित व्यक्तिहरूलाई MHPSS प्रदान गर्ने जिम्मेवारी भएका कर्मचारी जनशक्तिको कल्याणका लागि पनि जिम्मेवार नहुनु उचित हुन्छ।",
+      "bt": "Main consideration 20: It is appropriate for staff responsible for providing MHPSS to people affected by a humanitarian emergency not to also be responsible for the well-being of the workforce.",
+      "type": "safety",
+      "terms": [
+        "T131",
+        "T252",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General staff-role separation guidance drafted for review. Workforce well-being is retained as a broad organizational responsibility, not recast as a clinical service. BT strengthens 'should not' to 'must not' and recasts the responsibility restriction as a prohibition on assigning responsibility. The revision expresses a recommendation that the same staff should not also be responsible for workforce well-being."
+    },
+    {
+      "id": "MAN-03-0094",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "41",
+      "ne": "41",
+      "bt": "41",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0095",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 21: Guidance on psychosocial support skills for specific groups or types of emergency",
+      "ne": "मुख्य विचारणीय पक्ष 21: विशिष्ट समूह वा आपत्कालीन अवस्थाका प्रकारका लागि मनोसामाजिक सहयोग सीपसम्बन्धी मार्गदर्शन।",
+      "bt": "Main consideration 21: Guidance on psychosocial support skills for specific groups or types of emergencies.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T252",
+        "T284",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The phrase for psychosocial support skills reuses wording from the supplied unreviewed activity 3.2 candidate; it is not newly coined clinical terminology."
+    },
+    {
+      "id": "MAN-03-0096",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "48",
+      "ne": "48",
+      "bt": "48",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0097",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 22: Training for protection actors with specific roles",
+      "ne": "मुख्य विचारणीय पक्ष 22: विशिष्ट भूमिका भएका संरक्षण क्षेत्रमा कार्यरत पक्षहरूका लागि प्रशिक्षण",
+      "bt": "Key consideration 22: Training for actors working in the protection sector with specific roles",
+      "type": "general",
+      "terms": [
+        "T168",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Key consideration uses a proposed recurring label absent from G-0.2; protection actor wording follows T168."
+    },
+    {
+      "id": "MAN-03-0098",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "49",
+      "ne": "49",
+      "bt": "49",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0099",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 23: Providing basic psychosocial support in health care settings",
+      "ne": "मुख्य विचारणीय पक्ष 23: स्वास्थ्य सेवा प्रदान गरिने स्थानमा आधारभूत मनोसामाजिक सहयोग प्रदान गर्ने",
+      "bt": "Key consideration 23: Providing basic psychosocial support at locations where health services are provided",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T252",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Key consideration requires a glossary entry. Basic psychosocial support wording reuses the supplied T099 activity label as an unreviewed candidate; no clinical validation is claimed."
+    },
+    {
+      "id": "MAN-03-0100",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "49",
+      "ne": "49",
+      "bt": "49",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0101",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 24: Integrating early childhood development activities into nutrition programmes",
+      "ne": "मुख्य विचारणीय पक्ष 24: पोषण कार्यक्रममा प्रारम्भिक बाल विकासका गतिविधि एकीकृत गर्ने",
+      "bt": "Key consideration 24: Integrating early childhood development activities into nutrition programmes",
+      "type": "general",
+      "terms": [
+        "T030",
+        "T037",
+        "T252",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The proposed Key consideration label is used for this heading on integrating activities into nutrition programmes."
+    },
+    {
+      "id": "MAN-03-0102",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "56",
+      "ne": "56",
+      "bt": "56",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0103",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 25: Supporting caregivers when a child has been sexually abused",
+      "ne": "मुख्य विचारणीय पक्ष 25: बालबालिकामाथि यौन दुर्व्यवहार भएको अवस्थामा हेरचाहकर्तालाई सहयोग गर्ने",
+      "bt": "Key consideration 25: Supporting caregivers in cases where children have been sexually abused",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safeguarding heading, not a verbatim declaration; safety review pending. Key consideration uses the proposed recurring label."
+    },
+    {
+      "id": "MAN-03-0104",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "60",
+      "ne": "60",
+      "bt": "60",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0105",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 26: MHPSS focal points for learning spaces",
+      "ne": "मुख्य विचारणीय पक्ष 26: सिकाइ स्थलका लागि तोकिएका MHPSS सम्पर्क व्यक्तिहरू",
+      "bt": "Key consideration 26: MHPSS contact persons designated for learning sites",
+      "type": "general",
+      "terms": [
+        "T252",
+        "T267"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Focal points denotes designated contact persons for learning spaces. Key consideration uses the proposed recurring label. Contact persons alone does not retain the designated responsibility conveyed by focal points; the revision makes designation explicit."
+    },
+    {
+      "id": "MAN-03-0106",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "63",
+      "ne": "63",
+      "bt": "63",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0107",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 27: Support the recruitment and retention of female teachers",
+      "ne": "मुख्य विचारणीय पक्ष 27: महिला शिक्षकहरूको भर्ती र उनीहरूलाई सेवामा कायम राख्ने कार्यमा सहयोग गर्नुहोस्।",
+      "bt": "Key consideration 27: Support the recruitment of female teachers and their retention in service.",
+      "type": "general",
+      "terms": [
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recruitment and retention are both retained. The heading uses the proposed Key consideration label. [Nepali wording recorded in terminology evidence] denotes appointment, which is narrower than recruitment. The revision retains recruitment and retention as distinct activities."
+    },
+    {
+      "id": "MAN-03-0108",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "63",
+      "ne": "63",
+      "bt": "63",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0109",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 28: Gender-based violence (GBV)",
+      "ne": "मुख्य विचारणीय पक्ष 28: लैङ्गिक हिंसा (GBV)",
+      "bt": "Key consideration 28: Gender-based violence (GBV)",
+      "type": "safety",
+      "terms": [
+        "T143",
+        "T233",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "GBV wording follows the supplied unreviewed T143 candidate; safety review pending. Key consideration requires a glossary entry."
+    },
+    {
+      "id": "MAN-03-0110",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "66",
+      "ne": "66",
+      "bt": "66",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0111",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 29: Male survivors of sexual violence",
+      "ne": "मुख्य विचारणीय पक्ष 29: यौन हिंसा भोगेका पुरुषहरू",
+      "bt": "Key consideration 29: Men who have experienced sexual violence",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T299"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Survivor wording follows the affected-person construction in supplied activity T108, applied to men. Proposed glossary entries are needed for Key consideration and survivors; safety review pending. Men affected by sexual violence can include indirectly affected men, whereas survivors identifies men who themselves experienced the violence. The revision makes direct experience explicit; survivor terminology remains pending safety-language review."
+    },
+    {
+      "id": "MAN-03-0112",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "66",
+      "ne": "66",
+      "bt": "66",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0113",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 30: Providing MHPSS to survivors of sexual violence and IPV through health services",
+      "ne": "मुख्य विचारणीय पक्ष 30: यौन हिंसा तथा IPV भोगेका व्यक्तिहरूलाई स्वास्थ्य सेवामार्फत MHPSS प्रदान गर्ने",
+      "bt": "Key consideration 30: Providing MHPSS through health services to people who have experienced sexual violence and IPV",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T252",
+        "T299"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Both MHPSS and IPV are retained. Survivor wording follows the supplied T108 construction; Key consideration and survivors need glossary entries. Safety review pending. Persons affected by sexual violence and IPV is broader than survivors and may include indirectly affected people. The revision identifies people who experienced the violence, retaining both acronyms and delivery through health services; survivor terminology remains pending safety-language review."
+    },
+    {
+      "id": "MAN-03-0114",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "72",
+      "ne": "72",
+      "bt": "72",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0115",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 31: Evidence-based psychological interventions and delivery methods to manage prolonged psychological distress and common mental health conditions",
+      "ne": "मुख्य विचारणीय पक्ष 31: लामो समयसम्म रहने मानसिक व्यथा र सामान्यतया देखिने मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको व्यवस्थापनका लागि प्रमाणमा आधारित मनोवैज्ञानिक हस्तक्षेप र तिनलाई प्रदान गर्ने विधिहरू",
+      "bt": "Key consideration 31: Evidence-based psychological interventions and methods of delivering them for the management of long-lasting mental distress and commonly seen mental health conditions",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T490",
+        "T478",
+        "T228",
+        "T007",
+        "T218"
+      ],
+      "flags": [],
+      "note": "The draft retains prolonged psychological distress and common mental health conditions as distinct targets of management without adding named diagnoses or therapies."
+    },
+    {
+      "id": "MAN-03-0116",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "75",
+      "ne": "75",
+      "bt": "75",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0117",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 32: Do not offer psychological debriefing",
+      "ne": "मुख्य विचारणीय पक्ष 32: [psychological debriefing] प्रदान गर्ने प्रस्ताव नगर्नुहोस्।",
+      "bt": "Main consideration 32: Do not offer to provide [psychological debriefing].",
+      "type": "safety",
+      "terms": [
+        "T252"
+      ],
+      "flags": [],
+      "note": "The named intervention remains in exact source English, and the instruction retains the explicit prohibition on offering it. The draft prohibits providing the intervention, whereas the source prohibits offering it. The repair explicitly prohibits offering to provide it and retains the exact source-English intervention name."
+    },
+    {
+      "id": "MAN-03-0118",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "75",
+      "ne": "75",
+      "bt": "75",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0119",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 33: Ensure clarity of roles",
+      "ne": "मुख्य विचारणीय पक्ष 33: भूमिकाहरू स्पष्ट भएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Key consideration 33: Ensure that roles are clear.",
+      "type": "general",
+      "terms": [
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "This is an ordinary instruction about role clarity, not a clinical item. Key consideration uses the proposed recurring label."
+    },
+    {
+      "id": "MAN-03-0120",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "78",
+      "ne": "78",
+      "bt": "78",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0121",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 34: Child and adolescent survivors of sexual violence",
+      "ne": "मुख्य विचारणीय पक्ष 34: यौन हिंसा भोगेका बालबालिका र किशोरकिशोरीहरू",
+      "bt": "Key consideration 34: Children and adolescents who have experienced sexual violence",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T299"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Both children and adolescents are retained. Survivor wording follows the supplied T108 construction; Key consideration and survivors need glossary entries. Safety review pending. Affected children and adolescents can include those indirectly affected, whereas survivors identifies those who experienced sexual violence themselves. The revision retains both age groups and makes direct experience explicit; survivor terminology remains pending safety-language review."
+    },
+    {
+      "id": "MAN-03-0122",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "78",
+      "ne": "78",
+      "bt": "78",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0123",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 35: MHPSS as part of the public health emergency response",
+      "ne": "मुख्य विचारणीय पक्ष 35: जनस्वास्थ्य आपत्कालको प्रतिकार्यको अङ्गका रूपमा MHPSS",
+      "bt": "Key consideration 35: MHPSS as part of the response to a public health emergency",
+      "type": "general",
+      "terms": [
+        "T170",
+        "T174",
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The public health emergency and response terms follow T170 and T174. Key consideration uses the proposed recurring label."
+    },
+    {
+      "id": "MAN-03-0124",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "85",
+      "ne": "85",
+      "bt": "85",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0125",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "Key consideration 36 Providing services in places where people are deprived of their liberty",
+      "ne": "मुख्य विचारणीय पक्ष 36 मानिसहरूलाई स्वतन्त्रताबाट वञ्चित गरिने स्थानहरूमा सेवा प्रदान गर्ने",
+      "bt": "Key consideration 36 Providing services in places where people are deprived of liberty",
+      "type": "general",
+      "terms": [
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The deprivation-of-liberty wording follows supplied activity T113. The source has no colon after 36; Key consideration uses the proposed recurring label. The existing wording describes places where people deprived of liberty are located, rather than explicitly places where people are deprived of their liberty. The revision restores that relationship and preserves the absence of a colon after 36."
+    },
+    {
+      "id": "MAN-03-0126",
+      "page": "7",
+      "loc": "table-cell",
+      "section": "frontmatter",
+      "en": "87",
+      "ne": "87",
+      "bt": "87",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-03-0127",
+      "page": "8",
+      "loc": "heading",
+      "section": "frontmatter",
+      "en": "INTRODUCTION",
+      "ne": "परिचय",
+      "bt": "Introduction",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

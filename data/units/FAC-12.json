@@ -1,0 +1,577 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-12",
+  "unit_title": "Promoting mental health and psychosocial wellbeing",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "55-56",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:02:55+05:45",
+  "coverage": {
+    "source_words": 618,
+    "row_words": 617,
+    "skipped": [
+      "Page 55: running-footer: Module 6 · MSP Workshop Facilitator Manual · 51",
+      "Page 55: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 56: running-footer: 52 · MSP Workshop Facilitator Manual · Module 6",
+      "Page 56: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 56: image-content-unverified: Exact embedded text, if present, is not transcribed."
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-12-0001",
+      "page": "55",
+      "loc": "heading",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "6.2 Promoting mental health and psychosocial wellbeing",
+      "ne": "6.2 मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने",
+      "bt": "6.2 Promoting mental health and psychosocial well-being",
+      "type": "activity",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed terminology candidates."
+    },
+    {
+      "id": "FAC-12-0002",
+      "page": "55",
+      "loc": "heading",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Delivering humanitarian aid in ways that promote mental health and psychosocial wellbeing",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन हुने गरी मानवीय सहायता प्रदान गर्ने",
+      "bt": "Providing humanitarian assistance in a way that promotes mental health and psychosocial well-being",
+      "type": "activity",
+      "terms": [
+        "T157",
+        "T005",
+        "T376",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the supplied unreviewed terminology candidates. Recurring humanitarian aid is absent from the frozen glossary; proposed wording is listed separately."
+    },
+    {
+      "id": "FAC-12-0003",
+      "page": "55",
+      "loc": "heading",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "25 min",
+      "ne": "25 मिनेट",
+      "bt": "25 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0004",
+      "page": "55",
+      "loc": "heading",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Prepare",
+      "ne": "तयारी गर्नुहोस्",
+      "bt": "Prepare",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0005",
+      "page": "55",
+      "loc": "bullet",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "• Flip chart paper and pens",
+      "ne": "• फ्लिपचार्ट कागज र कलमहरू",
+      "bt": "• Flipchart paper and pens",
+      "type": "general",
+      "terms": [
+        "T368"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0006",
+      "page": "55",
+      "loc": "heading",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Guide",
+      "ne": "मार्गदर्शिका",
+      "bt": "Guide",
+      "type": "general",
+      "terms": [
+        "T144"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0007",
+      "page": "55",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "The purpose of this activity is to consider how all humanitarian aid can be delivered in ways that minimize psychological distress and promote wellbeing, dignity, and agency.",
+      "ne": "यस गतिविधिको उद्देश्य मानसिक व्यथा न्यूनतम बनाउने र कल्याण, मर्यादा तथा निर्णय गर्ने र कार्य गर्ने क्षमतालाई प्रवर्धन गर्ने तरिकाले सबै मानवीय सहायता कसरी प्रदान गर्न सकिन्छ भन्नेबारे विचार गर्नु हो।",
+      "bt": "The purpose of this activity is to consider how all humanitarian assistance can be provided in ways that minimize mental distress and promote well-being, dignity, and the capacity to make decisions and act.",
+      "type": "safety",
+      "terms": [
+        "T376",
+        "T492",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Agency is rendered as the capacity to make decisions and act."
+    },
+    {
+      "id": "FAC-12-0008",
+      "page": "55",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Divide participants into small groups and provide them with flip chart paper and pens.",
+      "ne": "सहभागीहरूलाई साना समूहमा विभाजन गर्नुहोस् र उनीहरूलाई फ्लिपचार्ट कागज र कलमहरू दिनुहोस्।",
+      "bt": "Divide participants into small groups and give them flipchart paper and pens.",
+      "type": "general",
+      "terms": [
+        "T368",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0009",
+      "page": "55",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Review the following points before showing participants the slide with the exercise instructions: Explain: so far we have been talking about services explicitly designed to target mental health and psychosocial support.",
+      "ne": "सहभागीहरूलाई अभ्यासका निर्देशनहरू भएको स्लाइड देखाउनुअघि निम्न बुँदाहरूको समीक्षा गर्नुहोस्। स्पष्ट पार्नुहोस्: अहिलेसम्म हामीले मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगलाई लक्षित गर्ने स्पष्ट उद्देश्यले तयार गरिएका सेवाहरूबारे कुरा गर्दै आएका छौँ।",
+      "bt": "Review the following points before showing participants the slide containing the exercise instructions. Clarify: So far, we have been talking about services designed with the explicit purpose of targeting mental health and psychosocial support.",
+      "type": "check",
+      "terms": [
+        "T001",
+        "T406",
+        "T410",
+        "T427"
+      ],
+      "flags": [],
+      "note": "Reuses the exact supplied unreviewed clinical terminology candidate."
+    },
+    {
+      "id": "FAC-12-0010",
+      "page": "55",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "But we know that the way other services are delivered can also have a big effect on mental health and psychosocial wellbeing (e.g. health, education, WASH services).",
+      "ne": "तर अन्य सेवाहरू प्रदान गर्ने तरिकाले पनि मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा ठूलो प्रभाव पार्न सक्छ भन्ने हामीलाई थाहा छ (जस्तै, स्वास्थ्य, शिक्षा र खानेपानी, सरसफाइ तथा स्वच्छता (WASH) सेवाहरू)।",
+      "bt": "But we know that the way other services are provided can also have a large impact on mental health and psychosocial well-being (for example, health, education, and water, sanitation and hygiene (WASH) services).",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T027",
+        "T028",
+        "T186",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed terminology candidates."
+    },
+    {
+      "id": "FAC-12-0011",
+      "page": "55",
+      "loc": "heading",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्",
+      "bt": "Ask",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0012",
+      "page": "55",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Can you think of any examples either from your work or from your own life, where a service was delivered in a way that had a big impact on mental health and psychosocial wellbeing, for example by causing more distress?",
+      "ne": "तपाईंको काम वा आफ्नै जीवनबाट, कुनै सेवा प्रदान गरिएको तरिकाले मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा ठूलो प्रभाव पारेको, उदाहरणका लागि थप कष्ट उत्पन्न गरेको, कुनै उदाहरण सम्झन सक्नुहुन्छ?",
+      "bt": "From your work or your own life, can you recall any example where the way a service was provided had a large impact on mental health and psychosocial well-being, for example, causing additional distress?",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Distress is rendered as ordinary suffering in this service-delivery example, not as a newly coined clinical term. Uses the supplied unreviewed terminology candidates."
+    },
+    {
+      "id": "FAC-12-0013",
+      "page": "55",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "It could be in health, education, shelter/accommodation, any other type of services?",
+      "ne": "त्यो स्वास्थ्य, शिक्षा, आश्रय/बसोबास वा अन्य कुनै प्रकारको सेवासँग सम्बन्धित हुन सक्छ?",
+      "bt": "Could that be related to health, education, shelter/accommodation or any other type of service?",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T028",
+        "T300"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0014",
+      "page": "55",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Discuss examples where the way aid was delivered caused distress.",
+      "ne": "सहायता प्रदान गरिएको तरिकाले कष्ट उत्पन्न गरेका उदाहरणहरूबारे छलफल गर्नुहोस्।",
+      "bt": "Discuss examples where the way assistance was provided caused distress.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Distress is rendered as ordinary suffering caused by aid delivery, not as a clinical condition."
+    },
+    {
+      "id": "FAC-12-0015",
+      "page": "55",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "If participants are struggling, mention some examples, e.g.",
+      "ne": "यदि सहभागीहरूलाई उदाहरण दिन कठिनाइ भइरहेको छ भने केही उदाहरण उल्लेख गर्नुहोस्, जस्तै:",
+      "bt": "If participants are having difficulty giving examples, mention some examples, such as:",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0016",
+      "page": "55",
+      "loc": "bullet",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "• where food distribution perceived as unfair",
+      "ne": "• खाद्यान्न वितरण अनुचित भएको ठानिएको अवस्था",
+      "bt": "• A situation where food distribution was considered unfair",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Preserves the distinction between perceived unfairness and established unfairness."
+    },
+    {
+      "id": "FAC-12-0017",
+      "page": "55",
+      "loc": "bullet",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "• where WASH services are not safe for women and girls",
+      "ne": "• खानेपानी, सरसफाइ तथा स्वच्छता (WASH) सेवाहरू महिला र बालिकाका लागि सुरक्षित नभएको अवस्था",
+      "bt": "• A situation where water, sanitation and hygiene (WASH) services were not safe for women and girls",
+      "type": "general",
+      "terms": [
+        "T186"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0018",
+      "page": "55",
+      "loc": "bullet",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "• where out-of-school children are returned to age-based classes without adequate support Some positive examples could include:",
+      "ne": "• विद्यालयबाहिर रहेका बालबालिकालाई पर्याप्त सहयोगबिना उमेरका आधारमा निर्धारण गरिएका कक्षाहरूमा फर्काइएको अवस्था\nकेही सकारात्मक उदाहरणहरू यस प्रकार हुन सक्छन्:",
+      "bt": "• A situation where out-of-school children were returned to classes determined by age without sufficient support\nSome positive examples could be as follows:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The source combines the final negative example and the introduction to positive examples; both are retained."
+    },
+    {
+      "id": "FAC-12-0019",
+      "page": "55",
+      "loc": "bullet",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "• Employing a participatory approach to camp coordination and camp management can give affected population members a sense of control and empowerment that can boost their mental health and psychosocial well-being.",
+      "ne": "• शिविर समन्वय तथा शिविर व्यवस्थापनमा सहभागितामूलक पद्धति अपनाउँदा प्रभावित जनसमूहका सदस्यहरूलाई आफ्नो अवस्थामाथि नियन्त्रण रहेको र आफू सशक्त भएको अनुभूति हुन सक्छ, जसले उनीहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण बढाउन सक्छ।",
+      "bt": "• Adopting a participatory approach in camp coordination and camp management can make members of the affected population feel that they have control over their situation and that they are empowered, which can increase their mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T031",
+        "T192",
+        "T157",
+        "T005",
+        "T349",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed terminology candidates; control and empowerment remain ordinary nonclinical concepts."
+    },
+    {
+      "id": "FAC-12-0020",
+      "page": "55",
+      "loc": "bullet",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "• Ensuring that groups or individuals with specific MHPSS needs can access basic services (including food and non-food distributions) by arranging a protective queuing system or a ‘buddy/helper’ system",
+      "ne": "• सुरक्षा प्रदान गर्ने पङ्क्ति प्रणाली वा ‘साथी/सहयोगी’ प्रणाली मिलाएर MHPSS सम्बन्धी विशिष्ट आवश्यकता भएका समूह वा व्यक्तिहरूले आधारभूत सेवाहरू (खाद्यान्न तथा गैरखाद्य सामग्रीको वितरणसहित) मा पहुँच पाउन सक्ने सुनिश्चित गर्ने",
+      "bt": "• Ensure that groups or individuals with specific needs related to MHPSS can access basic services (including the distribution of food and non-food items) by arranging a queuing system that provides safety or a ‘buddy/helper’ system.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "General safety guidance drafted for review; no verbatim safeguarding declaration or new clinical wording is introduced. The source gives a possible positive example, but the translation makes it a direct command. The repair restores the example form and avoids narrowing 'protective' to security provisions. The operational meaning of protective queuing remains pending technical review. The source describes an activity with “Ensuring,” whereas the back-translation makes it a direct instruction with “Ensure.”"
+    },
+    {
+      "id": "FAC-12-0021",
+      "page": "55",
+      "loc": "bullet",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "• Monitoring the distribution of goods to groups or individuals with specific needs to ensure that distribution is safe, dignified and equitable.",
+      "ne": "• विशिष्ट आवश्यकता भएका समूह वा व्यक्तिहरूलाई गरिने सामग्री वितरण सुरक्षित, मर्यादित र समतामूलक भएको सुनिश्चित गर्न वितरणको अनुगमन गर्ने।",
+      "bt": "• Monitor distribution to ensure that the distribution of materials to groups or individuals with specific needs is safe, dignified and equitable.",
+      "type": "safety",
+      "terms": [
+        "T271"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "General distribution-safety guidance; review pending. The source describes monitoring as a possible positive example; the translation turns it into a direct command. The repair restores the example form without changing the safety, dignity or equity requirements. The source describes an activity with “Monitoring,” whereas the back-translation makes it a direct instruction with “Monitor.”"
+    },
+    {
+      "id": "FAC-12-0022",
+      "page": "56",
+      "loc": "heading",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Explain",
+      "ne": "स्पष्ट पार्नुहोस्",
+      "bt": "Clarify",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0023",
+      "page": "56",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "In this exercise we will focus on how actors delivering other types of activities can also play a critical role in ensuring that their activities are delivered in a way that promotes mental health and psychosocial well-being (this is sometimes known as using an “MHPSS approach”).",
+      "ne": "यस अभ्यासमा हामी अन्य प्रकारका गतिविधि सञ्चालन गर्ने सम्बद्ध पक्षहरू पनि आफ्ना गतिविधि मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन हुने गरी सञ्चालन गरिएको सुनिश्चित गर्न कसरी अत्यन्त महत्त्वपूर्ण भूमिका खेल्न सक्छन् भन्ने विषयमा केन्द्रित हुनेछौँ (यसलाई कहिलेकाहीँ “MHPSS पद्धति” अपनाउने भनिन्छ)।",
+      "bt": "In this exercise, we will focus on how stakeholders conducting other types of activities can also play an extremely important role in ensuring that their activities are carried out in a way that promotes mental health and psychosocial well-being (this is sometimes called adopting an “MHPSS approach”).",
+      "type": "check",
+      "terms": [
+        "T114",
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed terminology candidates. MHPSS approach is rendered as an operational approach, not a clinical intervention. 'Critical role' is weakened to 'important role.' The repair restores the stronger emphasis while preserving 'can' and 'sometimes.'"
+    },
+    {
+      "id": "FAC-12-0024",
+      "page": "56",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "This includes delivering humanitarian aid in a way that minimizes psychological distress and promotes wellbeing, dignity, and agency.",
+      "ne": "यसमा मानसिक व्यथा न्यूनतम बनाउने र कल्याण, मर्यादा तथा निर्णय गर्ने र कार्य गर्ने क्षमतालाई प्रवर्धन गर्ने तरिकाले मानवीय सहायता प्रदान गर्नु समावेश छ।",
+      "bt": "This includes providing humanitarian assistance in ways that minimize mental distress and promote well-being, dignity, and the capacity to make decisions and act.",
+      "type": "safety",
+      "terms": [
+        "T376",
+        "T492",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Agency is rendered as the capacity to make decisions and act."
+    },
+    {
+      "id": "FAC-12-0025",
+      "page": "56",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Split participants into small groups and review the instructions:",
+      "ne": "सहभागीहरूलाई साना समूहमा विभाजन गर्नुहोस् र निर्देशनहरूको समीक्षा गर्नुहोस्।",
+      "bt": "Divide participants into small groups and review the instructions.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0026",
+      "page": "56",
+      "loc": "bullet",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "• Use a flipchart to list examples of how different sectors/AoRs can organize their work to ensure that their activities are delivered in a way that promotes mental health and psychosocial wellbeing. (You may wish to allocate specific sectors/clusters/AoRs to each group). Give the groups 10 minutes to discuss and prepare their flip chart.",
+      "ne": "• विभिन्न क्षेत्र/जिम्मेवारीका क्षेत्रहरू (AoRs) ले मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन हुने गरी आफ्ना गतिविधि सञ्चालन गरिएको सुनिश्चित गर्न आफ्नो काम कसरी व्यवस्थित गर्न सक्छन् भन्ने उदाहरणहरू फ्लिपचार्टमा सूचीबद्ध गर्नुहोस्। (तपाईंले प्रत्येक समूहलाई निश्चित क्षेत्र/क्लस्टर/जिम्मेवारीका क्षेत्रहरू (AoRs) तोक्न सक्नुहुन्छ।) समूहहरूलाई छलफल गर्न र आफ्नो फ्लिपचार्ट तयार गर्न 10 मिनेट दिनुहोस्।",
+      "bt": "• List on a flipchart examples of how different sectors/areas of responsibility (AoRs) can organize their work to ensure that their activities are carried out in a way that promotes mental health and psychosocial well-being. (You can assign specific sectors/clusters/areas of responsibility (AoRs) to each group.) Give the groups 10 minutes to discuss and prepare their flipchart.",
+      "type": "check",
+      "terms": [
+        "T296",
+        "T157",
+        "T005",
+        "T124",
+        "T368",
+        "T369",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the supplied unreviewed terminology candidates. AoRs is retained; its proposed expansion is not an addition to the frozen glossary."
+    },
+    {
+      "id": "FAC-12-0027",
+      "page": "56",
+      "loc": "heading",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Bring",
+      "ne": "ल्याउनुहोस्",
+      "bt": "Bring",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The source heading supplies the verb for the following row."
+    },
+    {
+      "id": "FAC-12-0028",
+      "page": "56",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "the participants back to plenary and allow them to share their observations.",
+      "ne": "सहभागीहरूलाई पुनः पूर्ण सत्रमा ल्याउनुहोस् र उनीहरूलाई आफ्ना अवलोकनहरू साझा गर्न दिनुहोस्।",
+      "bt": "Bring participants back to the full session and let them share their observations.",
+      "type": "general",
+      "terms": [
+        "T406",
+        "T407"
+      ],
+      "flags": [],
+      "note": "The source continues the preceding heading; the verb is included here to form a natural, complete Nepali instruction."
+    },
+    {
+      "id": "FAC-12-0029",
+      "page": "56",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Emphasize the idea that you do not have to be an MHPSS specialist to have a positive impact on wellbeing.",
+      "ne": "कल्याणमा सकारात्मक प्रभाव पार्न MHPSS विशेषज्ञ हुनैपर्छ भन्ने छैन भन्ने कुरामा जोड दिनुहोस्।",
+      "bt": "Emphasize that one does not necessarily have to be an MHPSS specialist to have a positive impact on well-being.",
+      "type": "general",
+      "terms": [
+        "T328"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-12-0030",
+      "page": "56",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "All aspects of a humanitarian response, including the behaviour and attitudes of staff and volunteers, can impact the psychological well-being of affected populations.",
+      "ne": "कर्मचारी तथा स्वयंसेवकहरूको व्यवहार र दृष्टिकोणसहित मानवीय प्रतिकार्यका सबै पक्षले प्रभावित जनसमूहको मानसिक सुस्वास्थ्यमा प्रभाव पार्न सक्छन्।",
+      "bt": "All aspects of the humanitarian response, including the behavior and attitudes of staff and volunteers, can affect the mental well-being of the affected population.",
+      "type": "safety",
+      "terms": [
+        "T003",
+        "T192",
+        "T495"
+      ],
+      "flags": [],
+      "note": "The possibility of an impact is retained without specifying whether it is positive or negative."
+    },
+    {
+      "id": "FAC-12-0031",
+      "page": "56",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Therefore, all sectors play a critical role in ensuring that their activities are delivered in a way that promotes mental health and psychosocial well-being.",
+      "ne": "त्यसैले, आफ्ना गतिविधि मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन हुने गरी सञ्चालन गरिएको सुनिश्चित गर्न सबै क्षेत्रले अत्यन्त महत्त्वपूर्ण भूमिका खेल्छन्।",
+      "bt": "Therefore, all sectors play an extremely important role in ensuring that their activities are carried out in a way that promotes mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T296",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed terminology candidates. 'Critical role' is weakened to 'important role.' The repair restores the stronger emphasis and retains the statement that all sectors play this role."
+    },
+    {
+      "id": "FAC-12-0032",
+      "page": "56",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Anyone can have a positive impact on wellbeing by delivering services in a way that minimizes psychological distress and promotes wellbeing, dignity, agency and participation of the affected population or the individual.10 Ask: How can this be achieved?",
+      "ne": "मानसिक व्यथा न्यूनतम बनाउने र प्रभावित जनसमूह वा व्यक्तिको कल्याण, मर्यादा, निर्णय गर्ने र कार्य गर्ने क्षमता तथा सहभागितालाई प्रवर्धन गर्ने तरिकाले सेवाहरू प्रदान गरेर जोसुकैले कल्याणमा सकारात्मक प्रभाव पार्न सक्छ।10 यो कसरी हासिल गर्न सकिन्छ भनेर सोध्नुहोस्।",
+      "bt": "Anyone can have a positive effect on well-being by providing services in ways that minimize mental distress and promote the well-being, dignity, capacity to make decisions and act, and participation of the affected population or individual.10 Ask how this can be achieved.",
+      "type": "safety",
+      "terms": [
+        "T492",
+        "T328",
+        "T192"
+      ],
+      "flags": [],
+      "note": "Citation marker 10 is retained, and the facilitator prompt is drafted as an instruction to ask the question."
+    },
+    {
+      "id": "FAC-12-0033",
+      "page": "56",
+      "loc": "para",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "How can different sectors/AoRs work to ensure that their activities are delivered in a way that promotes mental health and psychosocial well-being Summarize using the notes on the slide.",
+      "ne": "विभिन्न क्षेत्र/AoRs ले आफ्ना गतिविधिहरू मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन हुने गरी सञ्चालन हुने कुरा सुनिश्चित गर्न कसरी काम गर्न सक्छन्? स्लाइडमा भएका टिपोटहरू प्रयोग गरी सारांश प्रस्तुत गर्नुहोस्।",
+      "bt": "How can the various sectors/AoRs work to ensure that their activities are carried out in a way that promotes mental health and psychosocial well-being? Present a summary using the notes on the slide.",
+      "type": "check",
+      "terms": [
+        "T296",
+        "T157",
+        "T005",
+        "T410",
+        "T427"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the supplied unreviewed candidates for mental health and psychosocial well-being. AoRs is retained because no glossary entry was supplied; a proposed expansion requires source confirmation."
+    },
+    {
+      "id": "FAC-12-0034",
+      "page": "56",
+      "loc": "footnote",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "10 Horn R, Waade M and Kalisky M (2016) ‘Not doing more, but doing differently: integrating a community based psychosocial approach into other sectors’, Intervention 14(3).",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Bibliographic citation; retain the supplied English citation verbatim, including 10, author names, year, title and 14(3)."
+    }
+  ]
+}

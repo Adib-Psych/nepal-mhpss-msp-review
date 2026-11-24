@@ -1,0 +1,190 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-01",
+  "unit_title": "Workshop Learning Objectives",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "1-2",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:05:40+05:45",
+  "coverage": {
+    "source_words": 55,
+    "row_words": 55,
+    "skipped": []
+  },
+  "rows": [
+    {
+      "id": "SLD-01-0001",
+      "page": "1",
+      "loc": "slide-body",
+      "section": "Workshop Learning Objectives",
+      "en": "IASC",
+      "ne": "IASC",
+      "bt": "IASC",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-01-0002",
+      "page": "1",
+      "loc": "slide-body",
+      "section": "Workshop Learning Objectives",
+      "en": "Inter-Agency Standing Committee",
+      "ne": "अन्तर-निकाय स्थायी समिति",
+      "bt": "Inter-Agency Standing Committee",
+      "type": "general",
+      "terms": [
+        "T044"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-01-0003",
+      "page": "1",
+      "loc": "slide-title",
+      "section": "Workshop Learning Objectives",
+      "en": "STRENGTHENING MENTAL HEALTH AND PSYCHOSOCIAL SUPPORT",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग सुदृढ बनाउने",
+      "bt": "Strengthening mental health and psychosocial support",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the exact unreviewed clinical phrase supplied in T001; this is a heading, not an activity-list entry."
+    },
+    {
+      "id": "SLD-01-0004",
+      "page": "1",
+      "loc": "slide-body",
+      "section": "Workshop Learning Objectives",
+      "en": "Mental Health & Psychosocial Support Minimum Service Package",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग: न्यूनतम सेवा प्याकेज",
+      "bt": "Mental health and psychosocial support: Minimum Service Package",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T002",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the exact unreviewed clinical phrase supplied in T001; this is a package title, not a check item."
+    },
+    {
+      "id": "SLD-01-0005",
+      "page": "1",
+      "loc": "slide-notes",
+      "section": "Workshop Learning Objectives",
+      "en": "RECORD",
+      "ne": "रेकर्ड",
+      "bt": "Record",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The isolated word RECORD may be a noun or an instruction. Rendered as an instruction to record, without specifying the recording medium. The Nepali adds an imperative reading not established by the isolated source word RECORD. The revision removes the explicit instruction; whether the source denotes a noun or a command remains review pending."
+    },
+    {
+      "id": "SLD-01-0006",
+      "page": "2",
+      "loc": "slide-title",
+      "section": "Workshop Learning Objectives",
+      "en": "Workshop Learning Objectives",
+      "ne": "कार्यशालाका सिकाइ उद्देश्यहरू",
+      "bt": "Workshop learning objectives",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-01-0007",
+      "page": "2",
+      "loc": "slide-body",
+      "section": "Workshop Learning Objectives",
+      "en": "Equip participants to use the MHPSS Minimum Service Package to:",
+      "ne": "सहभागीहरूलाई निम्न कार्यका लागि MHPSS न्यूनतम सेवा प्याकेज प्रयोग गर्न सक्षम बनाउने:",
+      "bt": "Enable participants to use the MHPSS Minimum Service Package for the following tasks:",
+      "type": "general",
+      "terms": [
+        "T002",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-01-0008",
+      "page": "2",
+      "loc": "slide-body",
+      "section": "Workshop Learning Objectives",
+      "en": "Improve coordination of MHPSS",
+      "ne": "MHPSS को समन्वयमा सुधार गर्ने।",
+      "bt": "Improve the coordination of MHPSS.",
+      "type": "general",
+      "terms": [
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-01-0009",
+      "page": "2",
+      "loc": "slide-body",
+      "section": "Workshop Learning Objectives",
+      "en": "Strengthen advocacy for MHPSS",
+      "ne": "MHPSS का लागि पैरवी सुदृढ बनाउने।",
+      "bt": "Strengthen advocacy for MHPSS.",
+      "type": "general",
+      "terms": [
+        "T191"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-01-0010",
+      "page": "2",
+      "loc": "slide-body",
+      "section": "Workshop Learning Objectives",
+      "en": "Design high-quality MHPSS programming and improve existing programmes",
+      "ne": "उच्च गुणस्तरको MHPSS कार्यक्रम तर्जुमा तथा कार्यान्वयन डिजाइन गर्ने र विद्यमान कार्यक्रमहरूमा सुधार गर्ने।",
+      "bt": "Design the formulation and implementation of a high-quality MHPSS program and improve existing programs.",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T409"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The translation narrows designing programming to preparing an outline. The revision restores designing as the task while retaining the exact programming glossary form and improvement of existing programmes. The back-translation changes the design task from designing high-quality MHPSS programming to explicitly designing a program's formulation and implementation."
+    },
+    {
+      "id": "SLD-01-0011",
+      "page": "2",
+      "loc": "slide-body",
+      "section": "Workshop Learning Objectives",
+      "en": "Effectively plan and budget for MHPSS activities",
+      "ne": "MHPSS गतिविधिहरूका लागि प्रभावकारी रूपमा योजना तथा बजेट तयार गर्ने।",
+      "bt": "Prepare plans and budgets effectively for MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

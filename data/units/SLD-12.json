@@ -1,0 +1,452 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-12",
+  "unit_title": "Promoting mental health and psychosocial wellbeing",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "103-106",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:10:13+05:45",
+  "coverage": {
+    "source_words": 365,
+    "row_words": 365,
+    "skipped": [
+      "Slide 103: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 103: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 103: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 103: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 103: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 103: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 104: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 104: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 104: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 104: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 105: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 105: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 105: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 105: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 105: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 105: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-12-0001",
+      "page": "103",
+      "loc": "slide-title",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Beyond MHPSS activities: What about how other services are delivered?",
+      "ne": "MHPSS गतिविधिहरूभन्दा बाहिर: अन्य सेवाहरू कसरी प्रदान गरिन्छन् भन्नेबारे के भन्न सकिन्छ?",
+      "bt": "Beyond MHPSS activities: What can be said about how other services are provided?",
+      "type": "general",
+      "terms": [
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0002",
+      "page": "103",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Can you think of any examples either from your work or from your own life, where a service was delivered in a way that had a big impact on mental health and psychosocial wellbeing?",
+      "ne": "कुनै सेवा प्रदान गरिएको तरिकाले मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा ठूलो प्रभाव पारेका उदाहरणहरू तपाईं आफ्नो काम वा आफ्नै जीवनबाट सम्झन सक्नुहुन्छ?",
+      "bt": "Can you recall examples from your work or your own life where the way a service was provided had a major impact on mental health and psychosocial well-being?",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0003",
+      "page": "103",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "It could be in health, education, shelter/accommodation, any other type of services?",
+      "ne": "त्यस्तो उदाहरण स्वास्थ्य, शिक्षा, आश्रय वा बसोबाससम्बन्धी सेवा वा अन्य कुनै प्रकारको सेवाबाट हुन सक्छ?",
+      "bt": "Could such an example be from a health, education, shelter or accommodation-related service, or any other type of service?",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T028",
+        "T300"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0004",
+      "page": "103",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "e.g. Child being put into class based on age Iraq (even though she had missed 4 years of schooling under Daesh)",
+      "ne": "उदाहरणका लागि, इराकमा उमेरका आधारमा कक्षामा राखिएकी बालिका (Daesh को अधीनमा रहँदा उनको 4 वर्षको विद्यालय शिक्षा छुटेको भए पनि)।",
+      "bt": "For example, a girl in Iraq placed in a class based on her age (even though she had missed 4 years of schooling while under Daesh).",
+      "type": "general",
+      "terms": [
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0005",
+      "page": "103",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Haiti, one NGO paying very different wages to community workers than others",
+      "ne": "हाइटीमा एउटा NGO ले सामुदायिक कार्यकर्ताहरूलाई अरूले दिनेभन्दा निकै फरक पारिश्रमिक दिएको उदाहरण।",
+      "bt": "An example of an NGO in Haiti paying community workers remuneration very different from what others paid.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0006",
+      "page": "103",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Food distribution perceived as unfair",
+      "ne": "खाद्यान्न वितरण अनुचित भएको ठानिएको उदाहरण।",
+      "bt": "An example where food distribution was considered unfair.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0007",
+      "page": "103",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "WASH services unsafe for women & girls",
+      "ne": "महिला तथा बालिकाका लागि असुरक्षित खानेपानी, सरसफाइ तथा स्वच्छता (WASH) सेवाहरू।",
+      "bt": "Drinking water, sanitation and hygiene (WASH) services that are unsafe for women and girls.",
+      "type": "general",
+      "terms": [
+        "T186"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0008",
+      "page": "104",
+      "loc": "slide-title",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Small Group Discussion",
+      "ne": "सानो समूहमा छलफल",
+      "bt": "Small-group discussion",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0009",
+      "page": "104",
+      "loc": "slide-body",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "In your group, discuss and answer the following question.",
+      "ne": "आफ्नो समूहमा निम्न प्रश्नबारे छलफल गरी उत्तर दिनुहोस्।",
+      "bt": "Discuss and answer the following question in your group.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0010",
+      "page": "104",
+      "loc": "slide-body",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "How can how different sectors/AoRs organize their work to ensure that their activities are delivered in a way that promotes mental health and psychosocial well-being.",
+      "ne": "आफ्ना गतिविधिहरू मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन गर्ने तरिकाले कार्यान्वयन हुने कुरा सुनिश्चित गर्न विभिन्न क्षेत्र/AoRs ले आफ्नो काम कसरी व्यवस्थित गर्न सक्छन्।",
+      "bt": "How different sectors/AoRs can organize their work to ensure that their activities are implemented in a way that promotes mental health and psychosocial well-being.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T027",
+        "T157",
+        "T296",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "unclear-english",
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The duplicated 'How can how' is malformed; the draft treats the second 'how' as accidental and preserves the slash in 'sectors/AoRs' without resolving its intended relationship. No exact glossary form is supplied for 'AoRs'."
+    },
+    {
+      "id": "SLD-12-0011",
+      "page": "104",
+      "loc": "slide-body",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Make a brief presentation on your flip chart and select someone to present it.",
+      "ne": "आफ्नो फ्लिप चार्टमा छोटो प्रस्तुति तयार गर्नुहोस् र त्यसलाई प्रस्तुत गर्न एक जना छान्नुहोस्।",
+      "bt": "Prepare a short presentation on your flip chart and choose one person to present it.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0012",
+      "page": "104",
+      "loc": "slide-body",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0013",
+      "page": "105",
+      "loc": "slide-title",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Beyond MHPSS: What about how other services are delivered?",
+      "ne": "MHPSS भन्दा बाहिर: अन्य सेवाहरू कसरी प्रदान गरिन्छन् भन्नेबारे के भन्न सकिन्छ?",
+      "bt": "Beyond MHPSS: What can be said about how other services are provided?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0014",
+      "page": "105",
+      "loc": "slide-body",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "You do not have to be an MHPSS professional to have an impact on wellbeing.",
+      "ne": "कल्याणमा प्रभाव पार्न तपाईं MHPSS पेशाकर्मी नै हुनुपर्छ भन्ने छैन।",
+      "bt": "You do not have to be an MHPSS professional to have an impact on well-being.",
+      "type": "general",
+      "terms": [
+        "T328"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0015",
+      "page": "105",
+      "loc": "slide-body",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "All aid should be delivered in a way that minimizes distress and promotes wellbeing, dignity, and agency.",
+      "ne": "सबै सहायता व्यथा न्यूनतम पार्ने र कल्याण, गरिमा तथा आफ्ना निर्णय लिन र कार्य गर्न सक्ने क्षमता प्रवर्द्धन गर्ने तरिकाले प्रदान गरिनु उचित हुन्छ।",
+      "bt": "It is appropriate for all assistance to be provided in a way that minimizes distress and promotes well-being, dignity, and the ability to make one's own decisions and act.",
+      "type": "safety",
+      "terms": [
+        "T328",
+        "T461"
+      ],
+      "flags": [],
+      "note": "The draft uses the supplied candidate for distress without equating it with stress and renders agency as the capacity to make decisions and act. The BT strengthens the source recommendation 'should' to 'must' and renders 'minimizes' as merely 'reduces'. The repair expresses a recommendation rather than a requirement and explicitly retains minimization."
+    },
+    {
+      "id": "SLD-12-0016",
+      "page": "105",
+      "loc": "slide-body",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "We may need to advocate to other services to consider how they influence MH & wellbeing.",
+      "ne": "अन्य सेवाहरूले मानसिक स्वास्थ्य (MH) र कल्याणमा कसरी प्रभाव पार्छन् भन्ने विचार गर्न हामीले ती सेवाहरूसमक्ष पैरवी गर्नुपर्ने हुन सक्छ।",
+      "bt": "We may need to advocate to those services to consider how other services affect mental health (MH) and well-being.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T328",
+        "T332"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0017",
+      "page": "105",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "So far we have been talking about services directly designed to target mental health and psychosocial support",
+      "ne": "अहिलेसम्म हामीले मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगलाई प्रत्यक्ष रूपमा लक्षित गरी तयार गरिएका सेवाहरूबारे कुरा गर्दै आएका छौँ।",
+      "bt": "So far, we have been talking about services designed to directly target mental health and psychosocial support.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0018",
+      "page": "105",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "But we know that the way other services are delivered can also have a big effect on mental health and psychosocial wellbeing",
+      "ne": "तर अन्य सेवाहरू प्रदान गर्ने तरिकाले पनि मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा ठूलो प्रभाव पार्न सक्छ भन्ने हामीलाई थाहा छ।",
+      "bt": "But we know that the way other services are provided can also have a major impact on mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0019",
+      "page": "105",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Can you think of any examples either from your work or from your own life, where a service was delivered in a way that had a big impact on mental health and psychosocial wellbeing?",
+      "ne": "कुनै सेवा प्रदान गरिएको तरिकाले मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा ठूलो प्रभाव पारेका उदाहरणहरू तपाईं आफ्नो काम वा आफ्नै जीवनबाट सम्झन सक्नुहुन्छ?",
+      "bt": "Can you recall examples from your work or your own life where the way a service was provided had a major impact on mental health and psychosocial well-being?",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0020",
+      "page": "105",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "It could be in health, education, shelter/accommodation, any other type of services?",
+      "ne": "त्यस्तो उदाहरण स्वास्थ्य, शिक्षा, आश्रय वा बसोबाससम्बन्धी सेवा वा अन्य कुनै प्रकारको सेवाबाट हुन सक्छ?",
+      "bt": "Could such an example be from a health, education, shelter or accommodation-related service, or any other type of service?",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T028",
+        "T300"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0021",
+      "page": "105",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "e.g. Child being put into class based on age Iraq (even though she had missed 4 years of schooling under Daesh)",
+      "ne": "उदाहरणका लागि, इराकमा उमेरका आधारमा कक्षामा राखिएकी बालिका (Daesh को अधीनमा रहँदा उनको 4 वर्षको विद्यालय शिक्षा छुटेको भए पनि)।",
+      "bt": "For example, a girl in Iraq placed in a class based on her age (even though she had missed 4 years of schooling while under Daesh).",
+      "type": "general",
+      "terms": [
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0022",
+      "page": "105",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Haiti, one NGO paying very different wages to community workers than others",
+      "ne": "हाइटीमा एउटा NGO ले सामुदायिक कार्यकर्ताहरूलाई अरूले दिनेभन्दा निकै फरक पारिश्रमिक दिएको उदाहरण।",
+      "bt": "An example of an NGO in Haiti paying community workers remuneration very different from what others paid.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0023",
+      "page": "105",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Food distribution perceived as unfair",
+      "ne": "खाद्यान्न वितरण अनुचित भएको ठानिएको उदाहरण।",
+      "bt": "An example where food distribution was considered unfair.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0024",
+      "page": "105",
+      "loc": "slide-notes",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "WASH services unsafe for women & girls",
+      "ne": "महिला तथा बालिकाका लागि असुरक्षित खानेपानी, सरसफाइ तथा स्वच्छता (WASH) सेवाहरू।",
+      "bt": "Drinking water, sanitation and hygiene (WASH) services that are unsafe for women and girls.",
+      "type": "general",
+      "terms": [
+        "T186"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0025",
+      "page": "106",
+      "loc": "slide-title",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Review: Module Learning Objectives",
+      "ne": "पुनरावलोकन: मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Review: Learning objectives of the module",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-12-0026",
+      "page": "106",
+      "loc": "slide-body",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Give examples of MHPSS activities integrated into programming across different sectors/clusters/AoRs",
+      "ne": "विभिन्न क्षेत्र, क्लस्टर तथा AoRs मा कार्यक्रम तर्जुमा तथा कार्यान्वयनमा एकीकृत गरिएका MHPSS गतिविधिहरूका उदाहरण दिनुहोस्।",
+      "bt": "Give examples of MHPSS activities integrated into program planning and implementation in different sectors, clusters and AoRs.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T124",
+        "T282",
+        "T158"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoRs is retained. Proposed glossary entry for review: areas of responsibility (AoRs) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (AoRs)."
+    },
+    {
+      "id": "SLD-12-0027",
+      "page": "106",
+      "loc": "slide-body",
+      "section": "Promoting mental health and psychosocial wellbeing",
+      "en": "Justify the importance of integrating MHPSS into humanitarian programming.",
+      "ne": "मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्नु किन महत्त्वपूर्ण छ भन्ने तर्कसहित स्पष्ट पार्नुहोस्।",
+      "bt": "Explain with reasoning why it is important to integrate MHPSS into humanitarian program planning and implementation.",
+      "type": "general",
+      "terms": [
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

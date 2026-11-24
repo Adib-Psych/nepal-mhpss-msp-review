@@ -1,0 +1,523 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-11",
+  "unit_title": "Integrating MHPSS across sectors/clusters/AoRs",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "96-102",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:09:39+05:45",
+  "coverage": {
+    "source_words": 262,
+    "row_words": 262,
+    "skipped": [
+      "Slide 98: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 98: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 99: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 99: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 99: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 99: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 99: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 99: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 99: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 100: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 100: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 100: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 100: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 101: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-11-0001",
+      "page": "96",
+      "loc": "slide-title",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Module 6: Integrating MHPSS into programming across different areas of work",
+      "ne": "मोड्युल 6: विभिन्न कार्यक्षेत्रमा कार्यक्रम तर्जुमा तथा कार्यान्वयनमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) एकीकृत गर्ने",
+      "bt": "Module 6: Integrating mental health and psychosocial support (MHPSS) into programme planning and implementation in various fields of work",
+      "type": "activity",
+      "terms": [
+        "T282",
+        "T001",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The clinical composite phrase is reused verbatim from the cited unreviewed T001 candidate. Proposals for module and integration are listed separately; review is pending."
+    },
+    {
+      "id": "SLD-11-0002",
+      "page": "97",
+      "loc": "slide-title",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Module Learning Objectives",
+      "ne": "मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Learning objectives of the module",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Module is a recurring term absent from the supplied glossary; a proposal is listed separately."
+    },
+    {
+      "id": "SLD-11-0003",
+      "page": "97",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Give examples of MHPSS activities integrated into programming across different sectors/clusters/AoRs",
+      "ne": "विभिन्न क्षेत्र/क्लस्टर/जिम्मेवारीका क्षेत्रहरू (AoRs) मा कार्यक्रम तर्जुमा तथा कार्यान्वयनमा एकीकृत गरिएका MHPSS गतिविधिहरूका उदाहरण दिनुहोस्।",
+      "bt": "Give examples of MHPSS activities integrated into programme planning and implementation in various sectors/clusters/areas of responsibility (AoRs).",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T124",
+        "T282",
+        "T158"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Integration and AoRs are absent from the supplied glossary; proposals are listed separately."
+    },
+    {
+      "id": "SLD-11-0004",
+      "page": "97",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Justify the importance of integrating MHPSS into humanitarian programming.",
+      "ne": "मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्नुको महत्त्व तर्कसहित स्पष्ट पार्नुहोस्।",
+      "bt": "Explain with reasons the importance of integrating MHPSS into humanitarian programme planning and implementation.",
+      "type": "general",
+      "terms": [
+        "T282"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Integration is a recurring term absent from the supplied glossary; a proposal is listed separately."
+    },
+    {
+      "id": "SLD-11-0005",
+      "page": "98",
+      "loc": "slide-title",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Group Exercise - Part 1",
+      "ne": "सामूहिक अभ्यास - भाग 1",
+      "bt": "Group exercise - Part 1",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Group exercise is a recurring term absent from the supplied glossary; a proposal is listed separately."
+    },
+    {
+      "id": "SLD-11-0006",
+      "page": "98",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "How can MHPSS be integrated into the sector you have been assigned?",
+      "ne": "तपाईंलाई तोकिएको क्षेत्रमा MHPSS कसरी एकीकृत गर्न सकिन्छ?",
+      "bt": "How can MHPSS be integrated into the sector assigned to you?",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Integration is a recurring term absent from the supplied glossary; a proposal is listed separately."
+    },
+    {
+      "id": "SLD-11-0007",
+      "page": "98",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "(Use the MSP to help you.",
+      "ne": "(सहयोगका लागि MSP प्रयोग गर्नुहोस्।",
+      "bt": "(Use the MSP for help.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": "The opening parenthesis continues into the next supplied row."
+    },
+    {
+      "id": "SLD-11-0008",
+      "page": "98",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Consider activities that can be led by the sector, and activities that can be supported by the sector.)",
+      "ne": "क्षेत्रले नेतृत्व गर्न सक्ने गतिविधि र क्षेत्रले सहयोग गर्न सक्ने गतिविधिबारे विचार गर्नुहोस्।)",
+      "bt": "Consider activities that the sector can lead and activities that the sector can support.)",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": "The closing parenthesis completes the preceding supplied row."
+    },
+    {
+      "id": "SLD-11-0009",
+      "page": "98",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "What kind of MHPSS activities can be done by actors who are not MHPSS specialists (psychologists, psychiatrists)?",
+      "ne": "MHPSS विशेषज्ञ (मनोवैज्ञानिकहरू, मनोचिकित्सकहरू) नभएका सम्बद्ध पक्षहरूले कस्ता MHPSS गतिविधिहरू गर्न सक्छन्?",
+      "bt": "What kinds of MHPSS activities can involved parties who are not MHPSS specialists (psychologists, psychiatrists) carry out?",
+      "type": "safety",
+      "terms": [
+        "T114",
+        "T158",
+        "T491",
+        "T497"
+      ],
+      "flags": [],
+      "note": "The professional titles use frozen, unvalidated glossary candidates and remain examples of MHPSS specialists."
+    },
+    {
+      "id": "SLD-11-0010",
+      "page": "98",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "(e.g. facilitators, legal advisors, teachers, nutrition staff, helpline staff, health workers, GBV officers, etc.)",
+      "ne": "(जस्तै, सहजीकरणकर्ता, कानुनी सल्लाहकार, शिक्षक, पोषणसम्बन्धी कर्मचारी, हेल्पलाइनका कर्मचारी, स्वास्थ्य कार्यकर्ता, GBV अधिकृत आदि)",
+      "bt": "(For example, facilitator, legal adviser, teacher, nutrition staff, helpline staff, health worker, GBV officer, etc.)",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T030",
+        "T027"
+      ],
+      "flags": [],
+      "note": "The source list contains ordinary occupational descriptions and is translated rather than protected. GBV is retained unchanged."
+    },
+    {
+      "id": "SLD-11-0011",
+      "page": "98",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "20 min",
+      "ne": "20 मिनेट",
+      "bt": "20 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0012",
+      "page": "99",
+      "loc": "slide-title",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Group Exercise - Part 2",
+      "ne": "सामूहिक अभ्यास - भाग 2",
+      "bt": "Group exercise - Part 2",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Group exercise is a recurring term absent from the supplied glossary; a proposal is listed separately."
+    },
+    {
+      "id": "SLD-11-0013",
+      "page": "99",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Review the ‘key consideration’ you have been given",
+      "ne": "तपाईंलाई दिइएको ‘मुख्य विचारणीय पक्ष’ को समीक्षा गर्नुहोस्।",
+      "bt": "Review the ‘key consideration’ given to you.",
+      "type": "general",
+      "terms": [
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0014",
+      "page": "99",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Compare it to the ideas you discussed in Part 1.",
+      "ne": "यसलाई तपाईंले भाग 1 मा छलफल गरेका विचारहरूसँग तुलना गर्नुहोस्।",
+      "bt": "Compare it with the ideas you discussed in Part 1.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0015",
+      "page": "99",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Add any additional activities that you may have missed to your flip chart.",
+      "ne": "छुटेका हुन सक्ने थप गतिविधि आफ्नो फ्लिप चार्टमा थप्नुहोस्।",
+      "bt": "Add additional activities that may have been missed to your flip chart.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Flip chart is a recurring term absent from the supplied glossary; a proposal is listed separately."
+    },
+    {
+      "id": "SLD-11-0016",
+      "page": "99",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "15 min",
+      "ne": "15 मिनेट",
+      "bt": "15 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0017",
+      "page": "100",
+      "loc": "slide-title",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Group Exercise - Part 3",
+      "ne": "सामूहिक अभ्यास - भाग 3",
+      "bt": "Group exercise - Part 3",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Group exercise is a recurring term absent from the supplied glossary; a proposal is listed separately."
+    },
+    {
+      "id": "SLD-11-0018",
+      "page": "100",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Review the activities you have listed on your flip chart and discuss how well these have been implemented in your settings.",
+      "ne": "आफ्नो फ्लिप चार्टमा सूचीबद्ध गरेका गतिविधिको समीक्षा गर्नुहोस् र तपाईंले काम गर्ने सन्दर्भमा ती गतिविधि कत्तिको राम्ररी कार्यान्वयन भएका छन् भन्नेबारे छलफल गर्नुहोस्।",
+      "bt": "Review the activities listed on your flip chart and discuss how well those activities have been implemented in the context in which you work.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Flip chart is a recurring term absent from the supplied glossary; a proposal is listed separately."
+    },
+    {
+      "id": "SLD-11-0019",
+      "page": "100",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Circle the ones that have been implemented.",
+      "ne": "कार्यान्वयन भएका गतिविधिलाई घेरा लगाउनुहोस्।",
+      "bt": "Circle the activities that have been implemented.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0020",
+      "page": "100",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "20 min",
+      "ne": "20 मिनेट",
+      "bt": "20 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0021",
+      "page": "101",
+      "loc": "slide-title",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "MHPSS integration – Group discussion",
+      "ne": "MHPSS एकीकरण – सामूहिक छलफल",
+      "bt": "MHPSS integration – group discussion",
+      "type": "activity",
+      "terms": [
+        "T384"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Integration is a recurring term absent from the supplied glossary; a proposal is listed separately."
+    },
+    {
+      "id": "SLD-11-0022",
+      "page": "101",
+      "loc": "slide-notes",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Each group to present",
+      "ne": "प्रत्येक समूहले प्रस्तुति दिनुपर्छ।",
+      "bt": "Each group must give a presentation.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0023",
+      "page": "102",
+      "loc": "slide-title",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Benefits of integrating MHPSS across sectors",
+      "ne": "विभिन्न क्षेत्रमा MHPSS एकीकृत गर्नुका लाभ",
+      "bt": "Benefits of integrating MHPSS into various sectors",
+      "type": "activity",
+      "terms": [
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Integration is a recurring term absent from the supplied glossary; a proposal is listed separately."
+    },
+    {
+      "id": "SLD-11-0024",
+      "page": "102",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Humanitarian emergencies = high need, not enough specialists",
+      "ne": "मानवीय आपत्कालीन अवस्था = आवश्यकता धेरै, विशेषज्ञ अपर्याप्त",
+      "bt": "Humanitarian emergency = many needs, insufficient specialists",
+      "type": "general",
+      "terms": [
+        "T131"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0025",
+      "page": "102",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Integrating into wider systems (e.g. schools, health services, social care) & training non-specialists allows:",
+      "ne": "व्यापक प्रणालीहरूमा (जस्तै, विद्यालय, स्वास्थ्य सेवा, सामाजिक हेरचाह) एकीकृत गर्दा र गैरविशेषज्ञहरूलाई तालिम दिँदा निम्न कुरा सम्भव हुन्छन्:",
+      "bt": "Integrating into broader systems (for example, schools, health services, social care) and training non-specialists make the following possible:",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Integration is absent from the supplied glossary; a proposal is listed separately. Non-specialists is an ordinary role description, not newly coined clinical terminology."
+    },
+    {
+      "id": "SLD-11-0026",
+      "page": "102",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Reach more people",
+      "ne": "अझ धेरै व्यक्तिसम्म पुग्न सकिने",
+      "bt": "Able to reach more people",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0027",
+      "page": "102",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "More accessible",
+      "ne": "अझ बढी पहुँचयोग्य",
+      "bt": "More accessible",
+      "type": "general",
+      "terms": [
+        "T078"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0028",
+      "page": "102",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Less stigma",
+      "ne": "कम कलङ्क",
+      "bt": "Less stigma",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Stigma is translated here as an ordinary social concept, not as a clinical diagnosis or instrument item."
+    },
+    {
+      "id": "SLD-11-0029",
+      "page": "102",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Often more sustainable",
+      "ne": "प्रायः अझ बढी दिगो",
+      "bt": "Often more sustainable",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0030",
+      "page": "102",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Addressing MHPSS needs – better able to use other services, take care of themselves & others",
+      "ne": "MHPSS सम्बन्धी आवश्यकतालाई सम्बोधन गर्दा – अन्य सेवा प्रयोग गर्न तथा आफ्नो र अरूको हेरचाह गर्न अझ सक्षम हुने",
+      "bt": "When MHPSS-related needs are addressed – becoming more able to use other services and to care for oneself and others",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-11-0031",
+      "page": "102",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Wellbeing & other outcomes are mutually reinforcing",
+      "ne": "कल्याण र अन्य परिणामले एकअर्कालाई सुदृढ बनाउँछन्।",
+      "bt": "Well-being and other outcomes strengthen one another.",
+      "type": "general",
+      "terms": [
+        "T274"
+      ],
+      "flags": [],
+      "note": "Wellbeing is unqualified in the source and is not expanded to psychosocial well-being."
+    },
+    {
+      "id": "SLD-11-0032",
+      "page": "102",
+      "loc": "slide-body",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "e.g. nutrition & maternal distress, participation & decision making in shelter",
+      "ne": "उदाहरणका लागि, पोषण र आमाहरूको व्यथा, आश्रयमा सहभागिता र निर्णय लिने प्रक्रिया",
+      "bt": "For example, nutrition and mothers' distress, participation in shelter and the decision-making process",
+      "type": "safety",
+      "terms": [
+        "T030",
+        "T300",
+        "T461"
+      ],
+      "flags": [],
+      "note": "The fragment preserves the example pairings without equating maternal distress with stress or a diagnosis."
+    }
+  ]
+}

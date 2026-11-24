@@ -1,0 +1,424 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-24",
+  "unit_title": "Treasure Hunt Handout",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "81-82",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:04:46+05:45",
+  "coverage": {
+    "source_words": 370,
+    "row_words": 369,
+    "skipped": [
+      "Page 81: running-footer: Annexes · MSP Workshop Facilitator Manual · 77",
+      "Page 82: running-footer: 78 · MSP Workshop Facilitator Manual · Annexes"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-24-0001",
+      "page": "81",
+      "loc": "heading",
+      "section": "Treasure Hunt Handout",
+      "en": "Annex 5",
+      "ne": "परिशिष्ट 5",
+      "bt": "Appendix 5",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0002",
+      "page": "81",
+      "loc": "heading",
+      "section": "Treasure Hunt Handout",
+      "en": "Treasure Hunt Handout",
+      "ne": "खजाना खोजको वितरण सामग्री",
+      "bt": "Treasure hunt handout",
+      "type": "general",
+      "terms": [
+        "T373",
+        "T440"
+      ],
+      "flags": [],
+      "note": "The Nepali adds 'exercise', which is absent from the source title. Removed that addition."
+    },
+    {
+      "id": "FAC-24-0003",
+      "page": "81",
+      "loc": "para",
+      "section": "Treasure Hunt Handout",
+      "en": "Using the online or PDF version of the MHPSS Minimum Service Package, answer the following questions.",
+      "ne": "MHPSS न्यूनतम सेवा प्याकेजको अनलाइन वा PDF संस्करण प्रयोग गरी निम्न प्रश्नहरूको उत्तर दिनुहोस्।",
+      "bt": "Answer the following questions using the online or PDF version of the MHPSS Minimum Service Package.",
+      "type": "general",
+      "terms": [
+        "T002"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0004",
+      "page": "81",
+      "loc": "table-head",
+      "section": "Treasure Hunt Handout",
+      "en": "1. How many MHPSS activities is the Health sector well placed to deliver?",
+      "ne": "1. स्वास्थ्य क्षेत्र कति MHPSS गतिविधिहरू सञ्चालन गर्न उपयुक्त स्थितिमा छ?",
+      "bt": "1. How many MHPSS activities is the health sector suitably positioned to carry out?",
+      "type": "check",
+      "terms": [
+        "T027",
+        "T296",
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0005",
+      "page": "81",
+      "loc": "table-head",
+      "section": "Treasure Hunt Handout",
+      "en": "2 point",
+      "ne": "2 अङ्क",
+      "bt": "2 marks",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0006",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "2. How many MHPSS activities is the Camp Coordination & Camp Management (CCCM) sector well placed to contribute to?",
+      "ne": "2. शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM) क्षेत्र कति MHPSS गतिविधिहरूमा योगदान दिन उपयुक्त स्थितिमा छ?",
+      "bt": "2. How many MHPSS activities is the Camp Coordination and Camp Management (CCCM) sector suitably positioned to contribute to?",
+      "type": "check",
+      "terms": [
+        "T200",
+        "T296",
+        "T158",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0007",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "1 point",
+      "ne": "1 अङ्क",
+      "bt": "1 mark",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0008",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "3. Name one core action for Activity 2.3 Care for staff and volunteers providing MHPSS.",
+      "ne": "3. गतिविधि 2.3 «MHPSS प्रदान गर्ने कर्मचारी र स्वयंसेवकको हेरचाह गर्ने» अन्तर्गतको एउटा मुख्य कार्य उल्लेख गर्नुहोस्।",
+      "bt": "3. Mention one key action under activity 2.3 «Caring for staff and volunteers who provide MHPSS».",
+      "type": "check",
+      "terms": [
+        "T096",
+        "T350"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: add a reviewed entry for the recurring MSP label 'core action'."
+    },
+    {
+      "id": "FAC-24-0009",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "1point",
+      "ne": "1 अङ्क",
+      "bt": "1 mark",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0010",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "4. What is the key consideration relevant to Activity 3.5 (Provide early childhood development activities to support young children and their caregivers)?",
+      "ne": "4. गतिविधि 3.5 (साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास गतिविधि प्रदान गर्ने) सँग सम्बन्धित मुख्य विचारणीय पक्ष के हो?",
+      "bt": "4. What is the key consideration related to activity 3.5 (Providing early childhood development activities to support young children and their caregivers)?",
+      "type": "check",
+      "terms": [
+        "T006",
+        "T037",
+        "T252"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied activity 3.5 wording without adding ECD, which is absent from this source row."
+    },
+    {
+      "id": "FAC-24-0011",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "1 point",
+      "ne": "1 अङ्क",
+      "bt": "1 mark",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0012",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "5. What is a tool you could use to support group-based community MHPSS activities?",
+      "ne": "5. समूहमा आधारित सामुदायिक MHPSS गतिविधिहरूलाई सहयोग गर्न तपाईंले प्रयोग गर्न सक्ने एउटा साधन के हो?",
+      "bt": "5. What is one tool you can use to support group-based community MHPSS activities?",
+      "type": "check",
+      "terms": [
+        "T079",
+        "T158",
+        "T437"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0013",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "1point",
+      "ne": "1 अङ्क",
+      "bt": "1 mark",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0014",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "6. What is a training topic that could be included in a training for frontline workers or community leaders supporting people who are experiencing stress?",
+      "ne": "6. तनाव अनुभव गरिरहेका मानिसहरूलाई सहयोग गर्ने अग्रपंक्तिका कार्यकर्ता वा सामुदायिक अगुवाका लागि दिइने तालिममा समावेश गर्न सकिने एउटा विषय के हो।",
+      "bt": "6. What is one topic that can be included in training provided for frontline workers or community leaders who help people experiencing stress.",
+      "type": "safety",
+      "terms": [
+        "T013",
+        "T069"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Stress is drafted as तनाव; no matching frozen glossary entry is supplied, and this wording remains unvalidated."
+    },
+    {
+      "id": "FAC-24-0015",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "1 point",
+      "ne": "1 अङ्क",
+      "bt": "1 mark",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0016",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "7. Where in the MSP can you find a summary of how to integrate MHPSS in Child Protection?",
+      "ne": "7. बाल संरक्षणमा MHPSS कसरी एकीकृत गर्ने भन्ने सारांश MSP को कुन भागमा पाउन सकिन्छ?",
+      "bt": "7. In which part of the MSP can a summary of how to integrate MHPSS into child protection be found?",
+      "type": "check",
+      "terms": [
+        "T036",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0017",
+      "page": "81",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "1 point",
+      "ne": "1 अङ्क",
+      "bt": "1 mark",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0018",
+      "page": "82",
+      "loc": "table-head",
+      "section": "Treasure Hunt Handout",
+      "en": "8. You are developing a funding proposal and you want to consider effective ways to reach atrisk groups and to make MHPSS services accessible, inclusive and appropriate. Where in the MSP can you find an overview of these topics?",
+      "ne": "8. तपाईं वित्तपोषणका लागि प्रस्ताव तयार गर्दै हुनुहुन्छ र जोखिममा रहेका समूहहरूसम्म पुग्ने तथा MHPSS सेवाहरूलाई पहुँचयोग्य, समावेशी र उपयुक्त बनाउने प्रभावकारी उपायहरूबारे विचार गर्न चाहनुहुन्छ। यी विषयहरूको झलक MSP को कुन भागमा पाउन सकिन्छ?",
+      "bt": "8. You are preparing a proposal for funding and want to consider effective ways to reach at-risk groups and make MHPSS services accessible, inclusive and appropriate. In which part of the MSP can an overview of these topics be found?",
+      "type": "check",
+      "terms": [
+        "T231",
+        "T078",
+        "T016",
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: add reviewed entries for 'at-risk groups' and 'inclusive' as service-access terminology. The source spelling 'atrisk' is interpreted as 'at-risk'."
+    },
+    {
+      "id": "FAC-24-0019",
+      "page": "82",
+      "loc": "table-head",
+      "section": "Treasure Hunt Handout",
+      "en": "2 points",
+      "ne": "2 अङ्क",
+      "bt": "2 marks",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0020",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "9. Sam is working in a context where Protection actors are reporting high rates of sexual violence against boys. He wants to find resources to help them design appropriate MHPSS activities. Where in the MSP can Sam find relevant information?",
+      "ne": "9. Sam यस्तो सन्दर्भमा काम गरिरहेका छन् जहाँ संरक्षण क्षेत्रमा कार्यरत पक्षहरूले बालकहरूविरुद्ध हुने यौन हिंसाको उच्च दरबारे जानकारी दिइरहेका छन्। उनी उनीहरूलाई उपयुक्त MHPSS गतिविधिहरूको रूपरेखा तयार गर्न मद्दत गर्ने स्रोत सामग्री खोज्न चाहन्छन्। Sam ले सान्दर्भिक जानकारी MSP को कुन भागमा पाउन सक्छन्?",
+      "bt": "9. Sam is working in a context where actors working in the protection sector are reporting a high rate of sexual violence against boys. He wants to find resource materials to help them prepare an outline of appropriate MHPSS activities. In which part of the MSP can Sam find relevant information?",
+      "type": "safety",
+      "terms": [
+        "T168",
+        "T299",
+        "T158",
+        "T163"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Safety-related scenario drafted for review; no safeguarding declaration or clinical intervention wording has been added. The Nepali explicitly resolves 'them' as 'those actors', whereas the source uses a pronoun whose referent is not explicit. The revision retains the pronoun rather than choosing its referent; source clarification remains pending. The back-translation narrows helping actors design appropriate MHPSS activities to helping them prepare an outline of those activities."
+    },
+    {
+      "id": "FAC-24-0021",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "4 points",
+      "ne": "4 अङ्क",
+      "bt": "4 marks",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0022",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "10. In an emergency response after an earthquake, you learn that an NGO is offering single sessions of psychological debriefing to people who witnessed the death of a family member. You know that the evidence suggests that such one-time-sessions are not effective and can be harmful for some people. What part of the MSP can you use to advocate that they change their approach?",
+      "ne": "10. भूकम्पपछिको आपत्कालीन प्रतिकार्यमा, परिवारका एक सदस्यको मृत्यु प्रत्यक्ष देखेका मानिसहरूलाई एउटा NGO ले एकपटक मात्र गरिने [psychological debriefing] का सत्रहरू उपलब्ध गराइरहेको छ भन्ने तपाईंलाई थाहा हुन्छ। प्रमाणले यस्ता एकपटक मात्र हुने सत्रहरू प्रभावकारी हुँदैनन् र केही मानिसहरूका लागि हानिकारक हुन सक्छन् भन्ने सङ्केत गर्छ भन्ने तपाईंलाई थाहा छ। उनीहरूले आफ्नो दृष्टिकोण परिवर्तन गरून् भनी पैरवी गर्नुका लागि तपाईं MSP को कुन भाग प्रयोग गर्न सक्नुहुन्छ।",
+      "bt": "10. In the emergency response after an earthquake, you learn that an NGO is providing one-time-only [psychological debriefing] sessions to people who directly witnessed the death of a family member. You know that evidence indicates that such one-time-only sessions are not effective and may be harmful for some people. Which part of the MSP can you use to advocate for them to change their approach.",
+      "type": "safety",
+      "terms": [
+        "T132",
+        "T163",
+        "T174",
+        "T332",
+        "T424"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Psychological debriefing is retained in exact source English as a named intervention without a supplied Nepali glossary form; the draft preserves suggestive evidence, lack of effectiveness, and possible harm to some people."
+    },
+    {
+      "id": "FAC-24-0023",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "1 point",
+      "ne": "1 अङ्क",
+      "bt": "1 mark",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0024",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "11. You are working in a public health emergency responding to a new infectious disease outbreak. Infection prevention control measures mean that face-to-face contact must be limited. Your TWG members are asking for guidance on how to adapt their activities to this setting. Where in the MSP can you find information to guide your work?",
+      "ne": "11. तपाईं नयाँ सरुवा रोगको प्रकोपको प्रतिकार्य गर्दै जनस्वास्थ्य आपत्कालमा काम गरिरहनुभएको छ। सङ्क्रमण रोकथाम तथा नियन्त्रणका उपायहरूका कारण आमनेसामने सम्पर्क सीमित गर्नैपर्छ। तपाईंको TWG का सदस्यहरूले यस परिस्थितिअनुसार आफ्ना गतिविधिहरू कसरी अनुकूल बनाउने भन्ने मार्गदर्शन मागिरहेका छन्। आफ्नो कामलाई दिशा दिने जानकारी तपाईं MSP मा कहाँ पाउन सक्नुहुन्छ।",
+      "bt": "11. You are working in a public health emergency, responding to an outbreak of a new communicable disease. Face-to-face contact must be limited because of infection prevention and control measures. Members of your TWG are asking for guidance on how to adapt their activities to this situation. Where in the MSP can you find information to guide your work.",
+      "type": "safety",
+      "terms": [
+        "T163",
+        "T170",
+        "T174",
+        "T383"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Infection prevention and control wording is drafted without a matching frozen glossary entry; TWG is retained without inventing an expansion, and limiting face-to-face contact remains mandatory."
+    },
+    {
+      "id": "FAC-24-0025",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "2 points",
+      "ne": "2 अङ्क",
+      "bt": "2 marks",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-24-0026",
+      "page": "82",
+      "loc": "table-cell",
+      "section": "Treasure Hunt Handout",
+      "en": "Total score: (Add points)",
+      "ne": "कुल अङ्क: (अङ्कहरू जोड्नुहोस्।)",
+      "bt": "Total marks: (Add the marks.)",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

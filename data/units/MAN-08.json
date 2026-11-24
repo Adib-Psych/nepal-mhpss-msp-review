@@ -1,0 +1,704 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-08",
+  "unit_title": "SUMMARY OF MHPSS MSP ACTIVITIES",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "29-29",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:37:30+05:45",
+  "coverage": {
+    "source_words": 431,
+    "row_words": 430,
+    "skipped": []
+  },
+  "rows": [
+    {
+      "id": "MAN-08-0001",
+      "page": "29",
+      "loc": "heading",
+      "section": "Introduction",
+      "en": "SUMMARY OF MHPSS MSP ACTIVITIES",
+      "ne": "MHPSS MSP अन्तर्गतका गतिविधिहरूको सारांश",
+      "bt": "Summary of activities under the MHPSS MSP",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0002",
+      "page": "29",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "The MHPSS MSP goal: Reduced suffering and improved mental health and psychosocial well-being among populations affected by humanitarian crises.",
+      "ne": "MHPSS MSP को लक्ष्य: मानवीय सङ्कटबाट प्रभावित जनसमुदायमा पीडा कम हुनु तथा मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सुधार हुनु।",
+      "bt": "Goal of the MHPSS MSP: Reduced suffering and improved mental health and psychosocial well-being among communities affected by humanitarian crises.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed candidates T157 and T005."
+    },
+    {
+      "id": "MAN-08-0003",
+      "page": "29",
+      "loc": "table-head",
+      "section": "Introduction",
+      "en": "Sectors or AoRs typically well placed to deliver the activities",
+      "ne": "गतिविधिहरू सञ्चालन गर्न सामान्यतया उपयुक्त स्थितिमा रहेका क्षेत्रहरू वा जिम्मेवारीका कार्यक्षेत्रहरू (AoRs)",
+      "bt": "Sectors or areas of responsibility (AoRs) generally in a suitable position to carry out activities",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoRs is retained. Proposed terminology for the recurring responsibility-area label is supplied separately for review."
+    },
+    {
+      "id": "MAN-08-0004",
+      "page": "29",
+      "loc": "table-head",
+      "section": "Introduction",
+      "en": "Sectors or AoRs typically well placed to contribute to implementation of activities",
+      "ne": "गतिविधिहरूको कार्यान्वयनमा योगदान दिन सामान्यतया उपयुक्त स्थितिमा रहेका क्षेत्रहरू वा जिम्मेवारीका कार्यक्षेत्रहरू (AoRs)",
+      "bt": "Sectors or areas of responsibility (AoRs) generally in a suitable position to contribute to the implementation of activities",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T380"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The proposed AoRs wording is consistent with the preceding table heading and does not amend the frozen glossary."
+    },
+    {
+      "id": "MAN-08-0005",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "Section 1: Inter-Agency Coordination and Assessment",
+      "ne": "खण्ड 1: अन्तरनिकाय समन्वय र लेखाजोखा",
+      "bt": "Section 1: Inter-agency coordination and assessment",
+      "type": "activity",
+      "terms": [
+        "T152",
+        "T004",
+        "T349",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0006",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "The humanitarian MHPSS response is well coordinated and responsive to the context, needs and gaps",
+      "ne": "मानवीय MHPSS प्रतिकार्य राम्रोसँग समन्वय गरिएको हुन्छ र यसले सन्दर्भ, आवश्यकता तथा विद्यमान कमीहरूलाई सम्बोधन गर्छ।",
+      "bt": "The humanitarian MHPSS response is well coordinated and addresses the context, needs and existing gaps.",
+      "type": "general",
+      "terms": [
+        "T148",
+        "T161",
+        "T174",
+        "T232"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0007",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "1.1 Coordinate MHPSS within and across sectors",
+      "ne": "1.1 क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने।",
+      "bt": "1.1 Coordinate MHPSS within and between sectors.",
+      "type": "activity",
+      "terms": [
+        "T092",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0008",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "1.2 Assess MHPSS needs and resources to guide programming",
+      "ne": "1.2 कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने।",
+      "bt": "1.2 Assess MHPSS needs and resources to guide the programme.",
+      "type": "activity",
+      "terms": [
+        "T093",
+        "T004"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0009",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "Section 2: Essential components of all MHPSS programmes",
+      "ne": "खण्ड 2: सबै MHPSS कार्यक्रमका आवश्यक अङ्गहरू",
+      "bt": "Section 2: Essential components of all MHPSS programs",
+      "type": "activity",
+      "terms": [
+        "T160",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "The back-translation renders essential as mandatory. Replaced [Nepali wording recorded in terminology evidence] with [Nepali wording recorded in terminology evidence] to avoid adding an explicit obligation."
+    },
+    {
+      "id": "MAN-08-0010",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "2.1 Design, plan and coordinate MHPSS Programmes",
+      "ne": "2.1 MHPSS कार्यक्रमको डिजाइन, योजना र समन्वय गर्ने।",
+      "bt": "2.1 Design, plan and coordinate the MHPSS programme.",
+      "type": "safety",
+      "terms": [
+        "T094",
+        "T160",
+        "T409"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied ambiguity concerns an unresolved difference between this overview label and other activity labels; the local source wording is retained."
+    },
+    {
+      "id": "MAN-08-0011",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "MHPSS programs are well designed, monitored and evaluated and workers are supported",
+      "ne": "MHPSS कार्यक्रमको डिजाइन, अनुगमन तथा मूल्याङ्कन राम्रोसँग गरिएको हुन्छ र कार्यकर्तालाई सहयोग प्रदान गरिएको हुन्छ।",
+      "bt": "The MHPSS programme is well designed, monitored and evaluated, and workers are provided with support.",
+      "type": "general",
+      "terms": [
+        "T160"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0012",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "2.2 Develop and Implement an M&E System",
+      "ne": "2.2 अनुगमन तथा मूल्याङ्कन (M&E) प्रणाली विकास र कार्यान्वयन गर्ने।",
+      "bt": "2.2 Develop and implement a monitoring and evaluation (M&E) system.",
+      "type": "safety",
+      "terms": [
+        "T095",
+        "T156",
+        "T394"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied ambiguity concerns an unresolved difference between this overview label and other activity labels; the local source wording is retained."
+    },
+    {
+      "id": "MAN-08-0013",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "2.3 Care for staff and volunteers providing MHPSS",
+      "ne": "2.3 MHPSS प्रदान गर्ने कर्मचारी र स्वयंसेवकको हेरचाह गर्ने।",
+      "bt": "2.3 Care for staff and volunteers providing MHPSS.",
+      "type": "activity",
+      "terms": [
+        "T096"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0014",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "2.4 Support MHPSS competencies of staff and volunteers",
+      "ne": "2.4 कर्मचारी र स्वयंसेवकको MHPSS सक्षमतामा सहयोग गर्ने।",
+      "bt": "2.4 Support the MHPSS competencies of staff and volunteers.",
+      "type": "activity",
+      "terms": [
+        "T097",
+        "T209"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0015",
+      "page": "29",
+      "loc": "heading",
+      "section": "Introduction",
+      "en": "Section 3: MHPSS programme activities",
+      "ne": "खण्ड 3: MHPSS कार्यक्रमगत गतिविधिहरू",
+      "bt": "Section 3: MHPSS programmatic activities",
+      "type": "activity",
+      "terms": [
+        "T167",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0016",
+      "page": "29",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Orient humanitarian actors and community members on MHPSS",
+      "ne": "मानवीय कार्यमा संलग्न पक्षहरू र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने।",
+      "bt": "Orient parties involved in humanitarian work and community members on MHPSS.",
+      "type": "general",
+      "terms": [
+        "T147",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0017",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "ne": "3.1 मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने र MHPSS सम्बन्धी विचारणीय पक्ष तथा कार्यका लागि पैरवी गर्ने।",
+      "bt": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS-related considerations and action.",
+      "type": "activity",
+      "terms": [
+        "T098",
+        "T344"
+      ],
+      "flags": [],
+      "note": "The exact supplied activity candidate is retained, including its actor wording."
+    },
+    {
+      "id": "MAN-08-0018",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "Humanitarian actors and community members are oriented on MHPSS and equipped with basic psychosocial support skills",
+      "ne": "मानवीय कार्यमा संलग्न पक्षहरू र समुदायका सदस्यहरूले MHPSS सम्बन्धी अभिमुखीकरण पाएका हुन्छन् र आधारभूत मनोसामाजिक सहयोग सीप हासिल गरेका हुन्छन्।",
+      "bt": "Parties involved in humanitarian work and community members have received orientation on MHPSS and have acquired basic psychosocial support skills.",
+      "type": "general",
+      "terms": [
+        "T147",
+        "T196",
+        "T284",
+        "T344",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The basic psychosocial support skills wording is reused from the unreviewed activity candidate T099, cited to MAN PDF p29 and PRIOR-SUM-29OCT2026 p.2 row 90."
+    },
+    {
+      "id": "MAN-08-0019",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills",
+      "ne": "3.2 अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवालाई आधारभूत मनोसामाजिक सहयोग सीपमा अभिमुखीकरण गर्ने।",
+      "bt": "3.2 Orient frontline workers and community leaders in basic psychosocial support skills.",
+      "type": "activity",
+      "terms": [
+        "T099",
+        "T013",
+        "T069",
+        "T196",
+        "T284",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0020",
+      "page": "29",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Strengthen self-help and provide support to communities",
+      "ne": "स्वसहयोग सुदृढ गर्ने र समुदायहरूलाई सहयोग प्रदान गर्ने।",
+      "bt": "Strengthen self-help and provide support to communities.",
+      "type": "general",
+      "terms": [
+        "T423"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0021",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.3 Disseminate key messages to promote mental health and psychosocial well-being",
+      "ne": "3.3 मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्न मुख्य सन्देशहरू प्रसार गर्ने।",
+      "bt": "3.3 Disseminate key messages to promote mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T100",
+        "T157",
+        "T005",
+        "T253",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0022",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.4 Support new and pre-existing group-based community MHPSS activities",
+      "ne": "3.4 नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने।",
+      "bt": "3.4 Support new and already ongoing group-based community MHPSS activities.",
+      "type": "safety",
+      "terms": [
+        "T101"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T101 describes pre-existing activities as already operating, adding an operational-status condition that the source does not impose. bt-divergence: Frozen T101 renders pre-existing activities as already operating, adding an operational-status condition absent from the source. Frozen wording retained."
+    },
+    {
+      "id": "MAN-08-0023",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers",
+      "ne": "3.5 साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास (ECD) गतिविधि प्रदान गर्ने।",
+      "bt": "3.5 Provide early childhood development (ECD) activities to support young children and their caregivers.",
+      "type": "activity",
+      "terms": [
+        "T102",
+        "T006",
+        "T037"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0024",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "Affected communities have access to information and activities to promote their mental health and psychosocial well-being",
+      "ne": "प्रभावित समुदायहरूको आफ्नो मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने सूचना र गतिविधिहरूमा पहुँच हुन्छ।",
+      "bt": "Affected communities have access to information and activities that promote their mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0025",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.6 Provide group activities for children’s mental health and psychosocial well-being",
+      "ne": "3.6 बालबालिकाको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका लागि सामूहिक गतिविधि प्रदान गर्ने।",
+      "bt": "3.6 Provide group activities for children's mental health and psychosocial well-being.",
+      "type": "activity",
+      "terms": [
+        "T103",
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0026",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.7 Promote caregivers’ mental health and psychosocial well-being and strengthen their capacity to support children",
+      "ne": "3.7 हेरचाहकर्ताको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.7 Promote caregivers' mental health and psychosocial well-being and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T104",
+        "T006",
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0027",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.8 Promote the mental health and psychosocial well-being of education personnel and strengthen their capacity to support children",
+      "ne": "3.8 शिक्षा क्षेत्रका कर्मचारीको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने र बालबालिकालाई सहयोग गर्ने उनीहरूको क्षमता सुदृढ गर्ने।",
+      "bt": "3.8 Promote the mental health and psychosocial well-being of education-sector staff and strengthen their capacity to support children.",
+      "type": "activity",
+      "terms": [
+        "T105",
+        "T070",
+        "T028",
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0028",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.9 Provide MHPSS through women and girls safe spaces",
+      "ne": "3.9 महिला तथा किशोरीका लागि सुरक्षित स्थलमार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.9 Provide MHPSS through safe spaces for women and adolescent girls.",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T106"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T054 and T106 narrow girls to adolescent girls, whereas the source does not exclude younger girls. bt-divergence: Frozen T054 and T106 narrow girls to adolescent girls, excluding younger girls whom the source does not exclude. Frozen wording retained."
+    },
+    {
+      "id": "MAN-08-0029",
+      "page": "29",
+      "loc": "para",
+      "section": "Introduction",
+      "en": "Provide focused support for people impaired by distress or mental health conditions",
+      "ne": "तनाव वा मानसिक स्वास्थ्य अवस्थाका कारण दैनिक कार्यमा असर परेका व्यक्तिलाई केन्द्रित सहयोग प्रदान गर्नुहोस्।",
+      "bt": "Provide focused support to individuals whose daily activities have been affected by stress or mental health conditions.",
+      "type": "safety",
+      "terms": [
+        "T008",
+        "T027",
+        "T157",
+        "T466"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T008 substitutes stress for distress and explicitly locates impairment in daily functioning, while the source does not specify that functional domain. bt-divergence: Frozen T008 substitutes stress for distress and restricts the impairment to daily functioning, a domain not specified in the source. Frozen wording retained."
+    },
+    {
+      "id": "MAN-08-0030",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.10 Provide mental health care as part of general health services",
+      "ne": "3.10 सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने।",
+      "bt": "3.10 Provide mental health services as part of general health services.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T107",
+        "T157"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T107 renders mental health care as mental health services, potentially including services that do not provide care. bt-divergence: Frozen T107 renders mental health care as mental health services, broadening the activity beyond care to potentially include other services. Frozen wording retained."
+    },
+    {
+      "id": "MAN-08-0031",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.11 Provide MHPSS as part of clinical care for survivors of sexual violence and intimate partner violence",
+      "ne": "3.11 यौन हिंसा तथा घनिष्ठ साथीद्वारा हुने हिंसाबाट प्रभावितहरूको क्लिनिकल हेरचाहको अङ्गका रूपमा MHPSS प्रदान गर्ने।",
+      "bt": "3.11 Provide MHPSS as part of the clinical care of those affected by sexual violence and violence by an intimate partner.",
+      "type": "safety",
+      "terms": [
+        "T009",
+        "T055",
+        "T108",
+        "T299"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T009 and T108 describe those affected rather than survivors, potentially including indirectly affected people outside the source population. bt-divergence: Frozen T009 and T108 render survivors as those affected, potentially including indirectly affected people outside the source population. Frozen wording retained."
+    },
+    {
+      "id": "MAN-08-0032",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "Persons impaired by distress or mental health conditions have access to care, protection and support",
+      "ne": "तनाव वा मानसिक स्वास्थ्य अवस्थाका कारण दैनिक कार्यमा असर परेका व्यक्तिहरूलाई हेरचाह, संरक्षण र सहयोगमा पहुँच छ।",
+      "bt": "Individuals whose daily activities have been affected by stress or mental health conditions have access to care, protection and support.",
+      "type": "safety",
+      "terms": [
+        "T008",
+        "T027",
+        "T029",
+        "T157"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T008 substitutes stress for distress and explicitly locates impairment in daily functioning, while the source does not specify that functional domain. bt-divergence: Frozen T008 substitutes stress for distress and restricts the impairment to daily functioning, a domain not specified in the source. Frozen wording retained."
+    },
+    {
+      "id": "MAN-08-0033",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.12 Initiate or strengthen the provision of psychological interventions",
+      "ne": "3.12 मनोवैज्ञानिक हस्तक्षेपहरूको व्यवस्था सुरु गर्ने वा सुदृढ गर्ने।",
+      "bt": "3.12 Start or strengthen arrangements for psychological interventions.",
+      "type": "activity",
+      "terms": [
+        "T109"
+      ],
+      "flags": [],
+      "note": "Reuses the cited unreviewed activity-label candidate; clinical wording is not validated."
+    },
+    {
+      "id": "MAN-08-0034",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.13 Provide MHPSS through case management services",
+      "ne": "3.13 केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.13 Provide MHPSS through case management services.",
+      "type": "activity",
+      "terms": [
+        "T110",
+        "T118"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0035",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "ne": "3.14 मानसिक अस्पताल तथा अन्य संस्थामा रहेका व्यक्तिहरूको संरक्षण र हेरचाह गर्ने।",
+      "bt": "3.14 Protect and care for people in mental hospitals and other institutions.",
+      "type": "activity",
+      "terms": [
+        "T111",
+        "T015"
+      ],
+      "flags": [],
+      "note": "Reuses the cited unreviewed activity-label candidate, including its institutional terminology."
+    },
+    {
+      "id": "MAN-08-0036",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "Section 4: Activities and considerations for specific settings",
+      "ne": "खण्ड 4: विशिष्ट परिवेशका लागि गतिविधि र विचारणीय पक्षहरू",
+      "bt": "Section 4: Activities and considerations for specific settings",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": "Section heading rather than an activity instruction."
+    },
+    {
+      "id": "MAN-08-0037",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "4.1 Integrate MHPSS considerations and support into clinical case management for infectious diseases",
+      "ne": "4.1 सरुवा रोगको क्लिनिकल केस व्यवस्थापनमा MHPSS सम्बन्धी विचारणीय पक्ष र सहयोग एकीकृत गर्ने।",
+      "bt": "4.1 Integrate MHPSS-related considerations and support into the clinical case management of communicable diseases.",
+      "type": "safety",
+      "terms": [
+        "T112",
+        "T118",
+        "T242"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T112 and T242 specify communicable diseases, which are not necessarily coextensive with the source category of infectious diseases. bt-divergence: Frozen T112 and T242 render infectious diseases as communicable diseases, potentially excluding infectious diseases that are not transmissible. Frozen wording retained."
+    },
+    {
+      "id": "MAN-08-0038",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "MHPSS considerations and activities are appropriately integrated in specific types of emergency situations",
+      "ne": "MHPSS सम्बन्धी विचारणीय पक्ष र गतिविधिहरू विशेष प्रकारका आपत्कालीन परिस्थितिहरूमा उपयुक्त रूपमा एकीकृत गरिन्छन्।",
+      "bt": "Considerations and activities related to MHPSS are appropriately integrated into specific types of emergency situations.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-08-0039",
+      "page": "29",
+      "loc": "table-cell",
+      "section": "Introduction",
+      "en": "4.2 Provide mental health and psychosocial support to persons deprived of their liberty",
+      "ne": "4.2 स्वतन्त्रताबाट वञ्चित व्यक्तिहरूलाई मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग प्रदान गर्ने।",
+      "bt": "4.2 Provide mental health and psychosocial support to persons deprived of liberty.",
+      "type": "safety",
+      "terms": [
+        "T001",
+        "T027",
+        "T113",
+        "T157",
+        "T410"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied ambiguity identifies an unresolved discrepancy between this overview label and the contents or activity heading; the local source wording is retained."
+    }
+  ]
+}

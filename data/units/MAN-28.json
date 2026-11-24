@@ -1,0 +1,571 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-28",
+  "unit_title": "Protect and care for people in psychiatric hospitals and other institutions",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "84-86",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:08:51+05:45",
+  "coverage": {
+    "source_words": 768,
+    "row_words": 768,
+    "skipped": [
+      "PDF p.84: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 79",
+      "PDF p.85: running footer/page number removed: 80 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.86: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 81"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-28-0001",
+      "page": "84",
+      "loc": "heading",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "ne": "3.14 मानसिक अस्पताल तथा अन्य संस्थामा रहेका व्यक्तिहरूको संरक्षण र हेरचाह गर्ने",
+      "bt": "3.14 Protect and care for people in mental hospitals and other institutions",
+      "type": "activity",
+      "terms": [
+        "T111"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate verbatim."
+    },
+    {
+      "id": "MAN-28-0002",
+      "page": "84",
+      "loc": "para",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "During humanitarian crises, people with mental, neurological and substance use (MNS) conditions or with intellectual, developmental and psychosocial disabilities or cognitive impairments who are living in psychiatric hospitals and institutions are at high risk of human rights violations such as physical and sexual abuse; punishment; neglect; abandonment; and lack of shelter, food or medical care.",
+      "ne": "मानवीय सङ्कटहरूका बेला मानसिक, स्नायुसम्बन्धी तथा पदार्थ प्रयोगसम्बन्धी (MNS) अवस्था भएका वा बौद्धिक, विकासात्मक तथा मनोसामाजिक अपाङ्गता वा संज्ञानात्मक क्षमतामा कमी भएका र मानसिक अस्पताल तथा संस्थाहरूमा बसिरहेका व्यक्तिहरू शारीरिक तथा यौन दुर्व्यवहार; सजाय; उपेक्षा; परित्याग; र आश्रय, खाना वा चिकित्सकीय हेरचाहको अभावजस्ता मानव अधिकार उल्लङ्घनको उच्च जोखिममा हुन्छन्।",
+      "bt": "During humanitarian crises, people who have mental, neurological and substance use-related (MNS) conditions or intellectual, developmental and psychosocial disabilities or reduced cognitive capacity and who are living in mental hospitals and institutions are at high risk of human rights violations such as physical and sexual abuse; punishment; neglect; abandonment; and lack of shelter, food or medical care.",
+      "type": "safety",
+      "terms": [
+        "T015",
+        "T239",
+        "T300",
+        "T378",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; MNS remains a grouped category rather than a named diagnosis."
+    },
+    {
+      "id": "MAN-28-0003",
+      "page": "84",
+      "loc": "para",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Although community-based mental health care is recommended, many countries affected by humanitarian crises rely mainly on institutional care (e.g. psychiatric hospitals, social care homes, residential homes, substance use rehabilitation clinics).",
+      "ne": "समुदायमा आधारित मानसिक स्वास्थ्य हेरचाहको सिफारिस गरिए पनि मानवीय सङ्कटहरूबाट प्रभावित धेरै देशहरू मुख्यतः संस्थागत हेरचाहमा निर्भर छन् (जस्तै, मानसिक अस्पताल, सामाजिक हेरचाह गृह, आवासीय गृह, पदार्थ प्रयोगसम्बन्धी पुनर्स्थापना क्लिनिकहरू)।",
+      "bt": "Although community-based mental health care is recommended, many countries affected by humanitarian crises mainly depend on institutional care (for example, mental hospitals, social care homes, residential homes, substance use-related rehabilitation clinics).",
+      "type": "safety",
+      "terms": [
+        "T015",
+        "T027",
+        "T157",
+        "T344",
+        "T378",
+        "T500"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; the rehabilitation clinics are a general service category, not a named intervention."
+    },
+    {
+      "id": "MAN-28-0004",
+      "page": "84",
+      "loc": "para",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "These institutions are typically limited to main cities and are often not accessible to crisis-affected populations.",
+      "ne": "यी संस्थाहरू सामान्यतया प्रमुख सहरहरूमा मात्र सीमित हुन्छन् र सङ्कटबाट प्रभावित जनसङ्ख्याका लागि प्रायः पहुँचयोग्य हुँदैनन्।",
+      "bt": "These institutions are generally limited to major cities only and are often not accessible to the population affected by the crisis.",
+      "type": "general",
+      "terms": [
+        "T078"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-28-0005",
+      "page": "84",
+      "loc": "para",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "The care in such institutions is often grossly inadequate even before the onset of a crisis.",
+      "ne": "यस्ता संस्थाहरूमा प्रदान गरिने हेरचाह सङ्कट सुरु हुनुअघि नै पनि प्रायः अत्यन्त अपर्याप्त हुन्छ।",
+      "bt": "The care provided in such institutions is often extremely inadequate even before the crisis begins.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-28-0006",
+      "page": "84",
+      "loc": "para",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Humanitarian emergencies can damage physical structures and diminish staff numbers.",
+      "ne": "मानवीय आपत्कालीन अवस्थाले भौतिक संरचनामा क्षति पुर्‍याउन र कर्मचारीको सङ्ख्या घटाउन सक्छ।",
+      "bt": "Humanitarian emergencies can damage physical infrastructure and reduce the number of staff.",
+      "type": "general",
+      "terms": [
+        "T131",
+        "T433"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-28-0007",
+      "page": "84",
+      "loc": "para",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "People in psychiatric hospitals and institutions may be abandoned by staff and left unprotected from the effects of natural disaster or armed conflict.",
+      "ne": "मानसिक अस्पताल र संस्थाहरूमा रहेका व्यक्तिहरूलाई कर्मचारीले त्यागेर जान सक्छन् र उनीहरू प्राकृतिक विपद् वा सशस्त्र द्वन्द्वका प्रभावबाट असुरक्षित रहन सक्छन्।",
+      "bt": "People in mental hospitals and institutions may be abandoned by staff and may remain unprotected from the effects of natural disasters or armed conflict.",
+      "type": "safety",
+      "terms": [
+        "T015"
+      ],
+      "flags": [],
+      "note": "General safety draft; review pending. Reuses the supplied unreviewed institutional term."
+    },
+    {
+      "id": "MAN-28-0008",
+      "page": "84",
+      "loc": "para",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Living in an institution also isolates people from potential family protection and support, which may be essential for survival in emergencies.",
+      "ne": "संस्थामा बस्दा व्यक्तिहरू परिवारबाट प्राप्त हुन सक्ने संरक्षण र सहयोगबाट पनि अलग हुन्छन्, जुन आपत्कालीन अवस्थामा जीवित रहन अत्यावश्यक हुन सक्छ।",
+      "bt": "When living in institutions, people are also separated from the protection and support that could be received from family, which may be essential for survival in an emergency.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T131"
+      ],
+      "flags": [],
+      "note": "General safety draft; review pending."
+    },
+    {
+      "id": "MAN-28-0009",
+      "page": "84",
+      "loc": "para",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Furthermore, sudden discontinuation of psychotropic medications can be harmful and even life-threatening.",
+      "ne": "यसबाहेक, मनोप्रभावी औषधिहरूको सेवन अचानक बन्द गर्नु हानिकारक र ज्यानलाई समेत जोखिममा पार्ने हुन सक्छ।",
+      "bt": "In addition, suddenly stopping the taking of psychotropic medicines can be harmful and even life-threatening.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "Unvalidated draft; the possibility of harm and life-threatening effects is retained."
+    },
+    {
+      "id": "MAN-28-0010",
+      "page": "85",
+      "loc": "heading",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-28-0011",
+      "page": "85",
+      "loc": "heading",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Protect and care for people in psychiatric hospitals and other institutions",
+      "ne": "मानसिक अस्पताल तथा अन्य संस्थामा रहेका व्यक्तिहरूको संरक्षण र हेरचाह गर्ने",
+      "bt": "Protect and care for people in mental hospitals and other institutions",
+      "type": "activity",
+      "terms": [
+        "T111"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate verbatim."
+    },
+    {
+      "id": "MAN-28-0012",
+      "page": "85",
+      "loc": "heading",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Main actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-28-0013",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Visit psychiatric hospitals and other institutions on a regular basis from the beginning of the crisis to assess needs (in coordination with relevant government authorities such as ministries of health and social affairs).",
+      "ne": "आवश्यकताको लेखाजोखा गर्न सङ्कटको सुरुदेखि नै मानसिक अस्पताल तथा अन्य संस्थाहरूमा नियमित रूपमा भ्रमण गर्नुहोस् (स्वास्थ्य तथा सामाजिक मामिला मन्त्रालयजस्ता सम्बन्धित सरकारी निकायहरूसँग समन्वय गरेर)।",
+      "bt": "Visit mental hospitals and other institutions regularly from the beginning of the crisis to assess needs (in coordination with relevant government bodies such as the ministries of health and social affairs).",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T015",
+        "T027",
+        "T349"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed term for psychiatric hospitals."
+    },
+    {
+      "id": "MAN-28-0014",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Support efforts to ensure the physical security of persons in institutions and staff as needed (e.g. protection of civilians and health facilities as per international humanitarian law, protection from infectious disease outbreaks or diseases endemic in the country).",
+      "ne": "आवश्यकताअनुसार संस्थाहरूमा रहेका व्यक्ति र कर्मचारीको भौतिक सुरक्षा सुनिश्चित गर्ने प्रयासमा सहयोग गर्नुहोस् (जस्तै, अन्तर्राष्ट्रिय मानवीय कानुनअनुसार नागरिक र स्वास्थ्य संस्थाको संरक्षण, सरुवा रोगको प्रकोप वा देशमा स्थानीय रूपमा कायम रहेका रोगहरूबाट संरक्षण)।",
+      "bt": "Support efforts to ensure the physical safety of people and staff in institutions as needed (e.g., protection of civilians and health institutions in accordance with international humanitarian law, protection from outbreaks of communicable diseases or diseases locally established in the country).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T029",
+        "T383"
+      ],
+      "flags": [],
+      "note": "General safety draft; review pending. Endemic diseases are described in ordinary wording rather than assigned a new clinical label."
+    },
+    {
+      "id": "MAN-28-0015",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Implement or strengthen human rights monitoring and surveillance by external review bodies (if available), human rights organizations or protection specialists.",
+      "ne": "बाह्य समीक्षा निकायहरू (उपलब्ध भएमा), मानव अधिकारसम्बन्धी संस्था वा संरक्षण विशेषज्ञहरूद्वारा मानव अधिकारको अनुगमन र निगरानी कार्यान्वयन गर्नुहोस् वा सुदृढ बनाउनुहोस्।",
+      "bt": "Implement or strengthen human rights monitoring and surveillance by external review bodies (if available), human rights organizations or protection experts.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T239",
+        "T271",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety draft; review pending. Proposes [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for the recurring term human rights; the frozen glossary is unchanged."
+    },
+    {
+      "id": "MAN-28-0016",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Address protection concerns of men, women and children in institutions (e.g. protection from neglect, abuse, GBV or coercive treatment by others, including by staff or other institutionalized persons). Facilitate links to additional supports and service providers as needed (e.g. GBV specialists).",
+      "ne": "संस्थाहरूमा रहेका पुरुष, महिला र बालबालिकाका संरक्षणसम्बन्धी सरोकारहरू सम्बोधन गर्नुहोस् (जस्तै, कर्मचारी वा संस्थामा बस्ने अन्य व्यक्तिहरूलगायत अरूबाट हुने उपेक्षा, दुर्व्यवहार, GBV वा जबर्जस्ती गरिने उपचारबाट संरक्षण)। आवश्यकताअनुसार थप सहयोग र सेवा प्रदायकहरूसँग सम्पर्क स्थापित गर्न सहजीकरण गर्नुहोस् (जस्तै, GBV विशेषज्ञहरू)।",
+      "bt": "Address the protection-related concerns of men, women and children in institutions (for example, protection from neglect, abuse, GBV or forced treatment by others, including staff or other people living in the institution). Facilitate establishing contact with additional support and service providers as needed (for example, GBV specialists).",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T364"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; GBV retains its source capitalization, and staff and other institutional residents remain explicit potential actors."
+    },
+    {
+      "id": "MAN-28-0017",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Ensure that the basic physical needs of people in institutions are met in coordination with other sectors (e.g. potable water, adequate food, shelter, clothing and sanitation), as well as their physical health needs (e.g. access to treatment for physical disease and injury).",
+      "ne": "अन्य क्षेत्रहरूसँग समन्वय गरी संस्थाहरूमा रहेका व्यक्तिहरूका आधारभूत भौतिक आवश्यकता (जस्तै, पिउनयोग्य पानी, पर्याप्त खाना, आश्रय, लत्ताकपडा र सरसफाइ) का साथै शारीरिक स्वास्थ्यसम्बन्धी आवश्यकता (जस्तै, शारीरिक रोग र चोटपटकको उपचारमा पहुँच) पूरा भएको सुनिश्चित गर्नुहोस्।",
+      "bt": "In coordination with other sectors, ensure that the basic physical needs of people in institutions (e.g., drinking water, adequate food, shelter, clothing and sanitation), as well as physical health needs (e.g., access to treatment for physical illnesses and injuries), are met.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T296",
+        "T300",
+        "T349"
+      ],
+      "flags": [],
+      "note": "Human translation required. Preserve the exact clinical or consent meaning, including every condition, actor, qualification and number; do not adapt the guidance. Reclassified as general safety guidance on basic needs and access to physical health services, not a clinical treatment instruction. Review pending."
+    },
+    {
+      "id": "MAN-28-0018",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Facilitate family tracing and communication with families for people living in institutions.",
+      "ne": "संस्थाहरूमा बस्ने व्यक्तिहरूका परिवार पत्ता लगाउन र परिवारसँग सञ्चार गर्न सहजीकरण गर्नुहोस्।",
+      "bt": "Facilitate locating the families of people living in institutions and communicating with the families.",
+      "type": "general",
+      "terms": [
+        "T364"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-28-0019",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Support authorities in ensuring that proper evacuation, disaster response and emergency plans are in place (e.g. drafted, disseminated and tested).",
+      "ne": "सुरक्षित स्थानमा सार्ने, विपद् प्रतिकार्य गर्ने र आपत्कालीन अवस्थाका लागि उचित योजनाहरू तयार अवस्थामा रहेको सुनिश्चित गर्न सम्बन्धित निकायहरूलाई सहयोग गर्नुहोस् (जस्तै, मस्यौदा तयार गरिएका, प्रसार गरिएका र परीक्षण गरिएका योजनाहरू)।",
+      "bt": "Support the relevant bodies to ensure that appropriate plans for moving to a safe place, responding to disasters and emergencies are in place (e.g., plans that have been drafted, disseminated and tested).",
+      "type": "safety",
+      "terms": [
+        "T174",
+        "T131"
+      ],
+      "flags": [],
+      "note": "General safety draft; review pending. Retains evacuation, disaster response and emergency planning, including drafting, dissemination and testing."
+    },
+    {
+      "id": "MAN-28-0020",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Ensure the provision of basic mental health care throughout the emergency (i.e. essential psychotropic medications and psychosocial support).",
+      "ne": "आपत्कालभरि आधारभूत मानसिक स्वास्थ्य हेरचाहको व्यवस्था सुनिश्चित गर्नुहोस् (अर्थात्, अत्यावश्यक मनोप्रभावी औषधिहरू र मनोसामाजिक सहयोग)।",
+      "bt": "Ensure the provision of basic mental health care throughout the emergency (that is, essential psychotropic medicines and psychosocial support).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; provision throughout the emergency remains an explicit requirement."
+    },
+    {
+      "id": "MAN-28-0021",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Facilitate discharge whenever possible (e.g. if there is availability of family support, community-based mental health care and access to basic needs including shelter, food and physical health care).",
+      "ne": "सम्भव भएसम्म संस्थाबाट बिदा गर्न सहजीकरण गर्नुहोस् (जस्तै, पारिवारिक सहयोग, समुदायमा आधारित मानसिक स्वास्थ्य हेरचाह र आश्रय, खाना तथा शारीरिक स्वास्थ्य हेरचाहसहित आधारभूत आवश्यकताहरूमा पहुँच उपलब्ध भएमा)।",
+      "bt": "Facilitate discharge from the institution as far as possible (for example, if family support, community-based mental health care and access to basic needs, including shelter, food and physical health care, are available).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T300",
+        "T344",
+        "T364"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; the availability conditions remain examples, not an added mandatory discharge checklist."
+    },
+    {
+      "id": "MAN-28-0022",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Provide an uninterrupted supply of psychotropic medications and other essential medical supplies and equipment (based on a needs assessment of the facility), if needed.",
+      "ne": "आवश्यक भएमा, संस्थाका आवश्यकताहरूको लेखाजोखाका आधारमा मनोप्रभावी औषधिहरू तथा अन्य अत्यावश्यक चिकित्सकीय सामग्री र उपकरणहरूको निर्बाध आपूर्ति गर्नुहोस्।",
+      "bt": "If necessary, provide an uninterrupted supply of psychotropic medicines and other essential medical supplies and equipment based on an assessment of the institution's needs.",
+      "type": "safety",
+      "terms": [
+        "T004"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; both the needs-assessment basis and the conditional requirement are retained."
+    },
+    {
+      "id": "MAN-28-0023",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "If the crisis creates staff shortages, mobilize trusted human resources from the family, the community and the health system to assist with care (e.g. helping ensure adequate provision of food and other basic needs).",
+      "ne": "सङ्कटका कारण कर्मचारीको अभाव भएमा, हेरचाहमा सहयोग गर्न परिवार, समुदाय र स्वास्थ्य प्रणालीबाट भरपर्दो मानव संसाधन (Human resources) परिचालन गर्नुहोस् (जस्तै, खाना र अन्य आधारभूत आवश्यकताको पर्याप्त व्यवस्था सुनिश्चित गर्न मद्दत गर्ने)।",
+      "bt": "If there is a shortage of staff because of the crisis, mobilize reliable human resources (Human resources) from families, the community and the health system to assist with care (e.g., helping to ensure adequate provision of food and other basic necessities).",
+      "type": "general",
+      "terms": [
+        "T042",
+        "T027",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-28-0024",
+      "page": "85",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Support authorities in providing basic training and continued support and supervision to staff as needed (e.g. human rights in mental health; managing crises without using coercive practices such as physical, mechanical or chemical restraints and seclusion; ongoing care and ways to improve patients’ self-management; staff self-care). Include service provider staff (e.g. doctors, nurses) as well as other relevant staff (e.g. security).",
+      "ne": "आवश्यकताअनुसार कर्मचारीहरूलाई आधारभूत तालिम तथा निरन्तर सहयोग र सुपरिवेक्षण उपलब्ध गराउन जिम्मेवार निकायहरूलाई सहयोग गर्नुहोस् (जस्तै, मानसिक स्वास्थ्यको क्षेत्रमा मानव अधिकार; [physical, mechanical or chemical restraints and seclusion] जस्ता जबर्जस्तीका अभ्यासहरू प्रयोग नगरी सङ्कट व्यवस्थापन गर्ने; निरन्तर हेरचाह र बिरामीहरूले आफ्नो अवस्थाको व्यवस्थापन आफैँ गर्ने क्षमता सुधार्ने उपायहरू; कर्मचारीहरूको स्वहेरचाह)। सेवा प्रदान गर्ने कर्मचारीहरू (जस्तै, चिकित्सक, नर्स) का साथै अन्य सम्बन्धित कर्मचारीहरू (जस्तै, सुरक्षा कर्मचारी) लाई पनि समावेश गर्नुहोस्।",
+      "bt": "Support the responsible bodies in providing staff with basic training and ongoing support and supervision as needed (for example, human rights in the field of mental health; managing crises without using coercive practices such as [physical, mechanical or chemical restraints and seclusion]; measures to improve ongoing care and patients’ ability to manage their condition themselves; staff self-care). Include staff who provide services (for example, doctors, nurses) as well as other relevant staff (for example, security staff).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T239",
+        "T309"
+      ],
+      "flags": [
+        "prior-draft-changed",
+        "bt-divergence"
+      ],
+      "note": "Retained the candidate wording except for replacing the translated coercive intervention labels with their exact source English in square brackets, without adding an explanatory gloss. The back-translation extends “measures to improve” to ongoing care as well as patients’ self-management ability; the English lists ongoing care separately and applies improvement only to patients’ self-management."
+    },
+    {
+      "id": "MAN-28-0025",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूका आधारमा)",
+      "bt": "Additional actions given for consideration (depending on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-28-0026",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Conduct a more comprehensive assessment of the facility, involving various stakeholders including service users (e.g. using the WHO QualityRights assessment and transformation toolkit).",
+      "ne": "सेवाग्राहीलगायत विभिन्न सरोकारवालाहरूलाई सहभागी गराई संस्थाको थप विस्तृत लेखाजोखा गर्नुहोस् (जस्तै, WHO QualityRights assessment and transformation toolkit प्रयोग गरेर)।",
+      "bt": "Carry out a more detailed assessment of the institution with the participation of various stakeholders, including service users (e.g., using the WHO QualityRights assessment and transformation toolkit).",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T182"
+      ],
+      "flags": [],
+      "note": "Retains the English toolkit name for identification; this is not an instrument-item translation."
+    },
+    {
+      "id": "MAN-28-0027",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Engage in community awareness-raising and education to reduce discrimination and stigma and promote community support, social inclusion and human rights (while actively involving people with lived experience of mental health conditions).",
+      "ne": "भेदभाव र लाञ्छना घटाउन तथा समुदायको सहयोग, सामाजिक समावेशीकरण र मानव अधिकार प्रवर्द्धन गर्न समुदायमा सचेतना अभिवृद्धि र शिक्षामा संलग्न हुनुहोस् (यस क्रममा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको प्रत्यक्ष व्यक्तिगत अनुभव भएका व्यक्तिहरूलाई सक्रिय रूपमा सहभागी गराउनुहोस्)।",
+      "bt": "Engage in awareness-raising and education in the community to reduce discrimination and stigma and to promote community support, social inclusion and human rights (actively involve people with direct personal experience of mental health-related conditions in this process).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T028",
+        "T157",
+        "T239",
+        "T344",
+        "T478"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; lived experience remains personal experience of mental health conditions, and stigma is not expanded to stigmatization."
+    },
+    {
+      "id": "MAN-28-0028",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Support the development of individualized person-centred recovery plans, involving multidisciplinary teams.",
+      "ne": "बहुविषयगत टोलीहरूलाई सहभागी गराउँदै प्रत्येक व्यक्तिअनुसार तयार गरिने व्यक्तिकेन्द्रित स्वास्थ्यलाभ योजनाहरूको विकासमा सहयोग गर्नुहोस्।",
+      "bt": "Support the development of person-centred recovery plans prepared for each individual, involving multidisciplinary teams.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T280"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; individual tailoring and person-centred planning are both retained."
+    },
+    {
+      "id": "MAN-28-0029",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Support and ensure access for residents to a wide range of services and supports (e.g. rehabilitation, recreation and spiritual services).",
+      "ne": "संस्थामा बस्ने व्यक्तिहरूलाई विविध सेवा र सहयोगहरूमा पहुँच प्राप्त गर्न सहयोग गर्नुहोस् र त्यो पहुँच सुनिश्चित गर्नुहोस् (जस्तै, पुनर्स्थापना, मनोरञ्जन र आध्यात्मिक सेवाहरू)।",
+      "bt": "Help people living in the institution gain access to various services and supports and ensure that access (for example, rehabilitation, recreational and spiritual services).",
+      "type": "safety",
+      "terms": [
+        "T500"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; rehabilitation remains a general service category, and access is both supported and ensured."
+    },
+    {
+      "id": "MAN-28-0030",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Provide additional training and supervision to staff (based on a training needs assessment).",
+      "ne": "कर्मचारीलाई थप तालिम र सुपरिवेक्षण प्रदान गर्नुहोस् (तालिमका आवश्यकताको लेखाजोखाका आधारमा)।",
+      "bt": "Provide additional training and supervision to staff (based on an assessment of training needs).",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposes [Nepali wording recorded in terminology evidence] for the recurring technical term supervision; the frozen glossary is unchanged. Review pending."
+    },
+    {
+      "id": "MAN-28-0031",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Support steps towards deinstitutionalization processes and the replacement of long-stay residential institutions (for children and adults) and psychiatric hospitals with human rights-oriented and community-based services (e.g. acute psychiatric units in general hospitals, provision of clinical mental health care as part of general health facilities, case management, community support and social inclusion). Consult with and meaningfully involve persons with lived experience of mental health conditions during this process.",
+      "ne": "विसंस्थाकरण (deinstitutionalization) प्रक्रियातर्फका कदमहरू र लामो समय बसोबास गराउने आवासीय संस्थाहरू (बालबालिका र वयस्कहरूका लागि) तथा मानसिक अस्पतालहरूको स्थानमा मानव अधिकार उन्मुख र समुदायमा आधारित सेवाहरू स्थापना गर्न सहयोग गर्नुहोस् (जस्तै, सामान्य अस्पतालहरूमा तीव्र मानसिक अवस्थाहरूको उपचारका लागि मनोचिकित्सा एकाइहरू, सामान्य स्वास्थ्य संस्थाहरूको सेवाअन्तर्गत मानसिक स्वास्थ्यको चिकित्सकीय हेरचाहको व्यवस्था, केस व्यवस्थापन, समुदायको सहयोग र सामाजिक समावेशीकरण)। यस प्रक्रियामा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको प्रत्यक्ष व्यक्तिगत अनुभव भएका व्यक्तिहरूसँग परामर्श गर्नुहोस् र उनीहरूलाई अर्थपूर्ण रूपमा सहभागी गराउनुहोस्।",
+      "bt": "Support steps towards the deinstitutionalization (deinstitutionalization) process and the establishment of human rights-oriented and community-based services in place of long-stay residential institutions (for children and adults) and mental hospitals (for example, psychiatric units for the treatment of acute mental conditions in general hospitals, provision of clinical mental health care within the services of general health facilities, case management, community support and social inclusion). In this process, consult people with direct personal experience of mental health-related conditions and involve them meaningfully.",
+      "type": "safety",
+      "terms": [
+        "T015",
+        "T027",
+        "T118",
+        "T157",
+        "T237",
+        "T239",
+        "T344",
+        "T478"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; replacement covers both long-stay residential institutions and psychiatric hospitals, while consultation and meaningful involvement remain explicit."
+    },
+    {
+      "id": "MAN-28-0032",
+      "page": "86",
+      "loc": "heading",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-28-0033",
+      "page": "86",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.14 Protect and care for people in psychiatric hospitals and other institutions",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणमा पहुँच प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to gain access to the relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

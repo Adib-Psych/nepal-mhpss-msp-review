@@ -1,0 +1,912 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-05",
+  "unit_title": "Navigating the MSP",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "27-28",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:59:08+05:45",
+  "coverage": {
+    "source_words": 717,
+    "row_words": 717,
+    "skipped": [
+      "Page 27: running-footer: Module 2 · MSP Workshop Facilitator Manual · 23",
+      "Page 27: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 28: running-footer: 24 · MSP Workshop Facilitator Manual · Module 2",
+      "Page 28: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 28: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 28: image-content-unverified: Exact embedded text, if present, is not transcribed."
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-05-0001",
+      "page": "27",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "2.2 Navigating the MSP",
+      "ne": "2.2 MSP मा सामग्री खोज्ने र पृष्ठहरूमा जाने तरिका",
+      "bt": "2.2 How to find content and go to pages in the MSP",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0002",
+      "page": "27",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Navigating the MSP website",
+      "ne": "MSP वेबसाइटमा सामग्री खोज्ने र पृष्ठहरूमा जाने तरिका",
+      "bt": "How to find content and go to pages on the MSP website",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T443"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0003",
+      "page": "27",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Prepare",
+      "ne": "तयारी गर्नुहोस्।",
+      "bt": "Prepare.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0004",
+      "page": "27",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Duration label, not a check or instrument item."
+    },
+    {
+      "id": "FAC-05-0005",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Internet access",
+      "ne": "• इन्टरनेट पहुँच",
+      "bt": "• Internet access",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0006",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• MSP Online Platform (https://www.mhpssmsp.org/en)",
+      "ne": "• MSP अनलाइन मञ्च (https://www.mhpssmsp.org/en)",
+      "bt": "• MSP online platform (https://www.mhpssmsp.org/en)",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T404"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring term absent from G-0.3: online platform. Proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-05-0007",
+      "page": "27",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Display",
+      "ne": "देखाउनुहोस्।",
+      "bt": "Show.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0008",
+      "page": "27",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "the MSP online platform and show participants the features of each page: MSP guide; All Activities, Gap Analysis, Download and Helpdesk.",
+      "ne": "MSP को अनलाइन मञ्च देखाउनुहोस् र सहभागीहरूलाई प्रत्येक पृष्ठका विशेषताहरू देखाउनुहोस्: MSP मार्गदर्शिका; सबै गतिविधि, अन्तर विश्लेषण, डाउनलोड र सहायता कक्ष।",
+      "bt": "Show the MSP online platform and show participants the features of each page: MSP guide; all activities, gap analysis, downloads and help desk.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T144",
+        "T146",
+        "T370",
+        "T404",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring terms absent from G-0.3: online platform and gap analysis. Proposed renderings: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. T137 denotes the tool, not the page or analysis alone."
+    },
+    {
+      "id": "FAC-05-0009",
+      "page": "27",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "Click through each page and show participants the relevant features/content:",
+      "ne": "प्रत्येक पृष्ठमा क्लिक गर्दै जानुहोस् र सहभागीहरूलाई सम्बन्धित विशेषताहरू तथा सामग्री देखाउनुहोस्।",
+      "bt": "Go through each page by clicking and show participants the relevant features and content.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0010",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Website languages available",
+      "ne": "• वेबसाइट उपलब्ध भएका भाषाहरू",
+      "bt": "• Languages in which the website is available",
+      "type": "general",
+      "terms": [
+        "T443"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0011",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• MSP Guide page",
+      "ne": "• MSP मार्गदर्शिका पृष्ठ",
+      "bt": "• MSP guide page",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T144"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0012",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "» Introduction to the MSP (go through the different sections), general principles and considerations, Gap Analysis, Costing Tool, orientation videos, Reference Lists (show List of Key Considerations)",
+      "ne": "» MSP को परिचय (विभिन्न खण्डहरू क्रमशः हेर्नुहोस्), सामान्य सिद्धान्त तथा विचारणीय पक्षहरू, अन्तर विश्लेषण, लागत आकलन उपकरण, अभिमुखीकरणका भिडियोहरू, सन्दर्भ सूचीहरू (मुख्य विचारणीय पक्षहरूको सूची देखाउनुहोस्)।",
+      "bt": "» Introduction to the MSP (look through the different sections in sequence), general principles and considerations, gap analysis, cost estimation tool, orientation videos, reference lists (show the list of key considerations).",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T014",
+        "T154",
+        "T370",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring term absent from G-0.3: gap analysis. Proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-05-0013",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "» All Activities page",
+      "ne": "» सबै गतिविधि पृष्ठ",
+      "bt": "» All activities page",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0014",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "» Filter function, search bar,",
+      "ne": "» छनोटका आधारमा नतिजा छान्ने सुविधा, खोज पट्टी,",
+      "bt": "» Facility for filtering results based on selections, search bar,",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0015",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "» Walk through 1-2 example activities (introduction, checklists of core actions, additional actions for consideration, relevant guidelines standards and tools, key considerations, list of recommended training topics).",
+      "ne": "» उदाहरणका रूपमा 1-2 गतिविधि क्रमशः देखाउँदै बुझाउनुहोस् (परिचय, मुख्य कार्यहरू समेटिएका जाँचसूचीहरू, विचार गर्नका लागि दिइएका थप कार्यहरू, सम्बन्धित निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू, मुख्य विचारणीय पक्षहरू, सिफारिस गरिएका तालिमका विषयहरू समेटिएको सूची)।",
+      "bt": "» Explain by showing 1-2 activities step by step as examples (introduction, checklists containing key actions, additional actions provided for consideration, related guidelines, standards and tools, key considerations, a list containing recommended training topics).",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T121",
+        "T115",
+        "T086",
+        "T087",
+        "T154",
+        "T088",
+        "T350"
+      ],
+      "flags": [],
+      "note": "Facilitation instruction referring to checklists, not a validated checklist item."
+    },
+    {
+      "id": "FAC-05-0016",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "» Additional guidance for using the MSP in the public health emergency response to infectious disease outbreaks",
+      "ne": "» सरुवा रोगको प्रकोपसम्बन्धी जनस्वास्थ्य आपत्कालको प्रतिकार्यमा MSP प्रयोग गर्नका लागि थप मार्गदर्शन",
+      "bt": "» Further guidance for using MSP in the response to a public health emergency related to an outbreak of communicable disease",
+      "type": "safety",
+      "terms": [
+        "T163",
+        "T170",
+        "T174",
+        "T383"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen label सरुवा रोगको प्रकोप denotes a communicable disease outbreak, whereas the source says infectious disease outbreaks, which can include infections not transmitted between people. bt-divergence: The frozen form सरुवा रोगको प्रकोप means a communicable disease outbreak, which is narrower than infectious disease outbreaks: not all infectious diseases are communicable. The frozen form is retained; this conflict cannot be repaired without changing it."
+    },
+    {
+      "id": "FAC-05-0017",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "» Resources on MHPSS for at-risk groups",
+      "ne": "» जोखिममा रहेका समूहका लागि MHPSS सम्बन्धी स्रोतसामग्री",
+      "bt": "» Resources related to MHPSS for groups at risk",
+      "type": "general",
+      "terms": [
+        "T334",
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring terms absent from G-0.3: at-risk groups and resources. Proposed renderings: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence]. MHPSS is retained unchanged."
+    },
+    {
+      "id": "FAC-05-0018",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Gap analysis page.",
+      "ne": "• अन्तर विश्लेषण पृष्ठ।",
+      "bt": "• Gap analysis page.",
+      "type": "general",
+      "terms": [
+        "T370"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring term absent from G-0.3: gap analysis. Proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-05-0019",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Downloads page",
+      "ne": "• डाउनलोड पृष्ठ",
+      "bt": "• Downloads page",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0020",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "» IASC MSP PDF download in available languages, other downloadable guidance",
+      "ne": "» उपलब्ध भाषाहरूमा IASC MSP को PDF डाउनलोड, डाउनलोड गर्न सकिने अन्य मार्गदर्शन",
+      "bt": "» IASC MSP PDF download in available languages, other guidance that can be downloaded",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0021",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Helpdesk",
+      "ne": "• सहायता कक्ष",
+      "bt": "• Help desk",
+      "type": "general",
+      "terms": [
+        "T146"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0022",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "» Types of help available, email addresses for helpdesk",
+      "ne": "» उपलब्ध सहायताका प्रकारहरू, सहायता कक्षका इमेल ठेगानाहरू",
+      "bt": "» Types of assistance available, help desk email addresses",
+      "type": "general",
+      "terms": [
+        "T146"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0023",
+      "page": "27",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "Explain to participants that will need to create an account and if they wish to check off actions under the activities to keep note of progress, as well as use the gap analysis tool available online.",
+      "ne": "सहभागीहरूलाई खाता बनाउनुपर्नेछ र, उनीहरूले चाहेमा, प्रगतिको अभिलेख राख्न गतिविधिहरूअन्तर्गतका कार्यहरूमा पूरा भएको चिन्ह लगाउन तथा अनलाइन उपलब्ध अन्तर विश्लेषण उपकरण प्रयोग गर्न सक्नेछन् भनी व्याख्या गर्नुहोस्।",
+      "bt": "Explain that participants will have to create an account and, if they wish, will be able to mark tasks under the activities as completed to keep a record of progress and use the gap analysis tool available online.",
+      "type": "safety",
+      "terms": [
+        "T137",
+        "T406"
+      ],
+      "flags": [
+        "unclear-english",
+        "bt-divergence"
+      ],
+      "note": "The source omits the subject after 'that' and leaves the scope of 'and if they wish' unresolved; this draft takes participants as the subject, account creation as required, and progress tracking and tool use as optional. The source's malformed 'and if they wish' leaves the condition's scope unresolved. Nepali and BT make account creation unconditional and progress tracking and online tool use optional. This reading cannot be confirmed from the exact source; no repair is made because choosing another scope would also require an assumption."
+    },
+    {
+      "id": "FAC-05-0024",
+      "page": "27",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Distribute",
+      "ne": "वितरण गर्नुहोस्।",
+      "bt": "Distribute.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0025",
+      "page": "27",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "copies of the PDF version, if available, and explain that it was designed to be print-friendly, so it includes links to some of the content that is on the online platform, e.g., lists of resources, standards, and guidelines.",
+      "ne": "उपलब्ध भएमा PDF संस्करणका प्रतिहरू वितरण गर्नुहोस् र यो मुद्रण गर्न सहज हुने गरी तयार गरिएको हुनाले यसमा अनलाइन मञ्चमा भएका केही सामग्रीका लिङ्कहरू समावेश छन् भन्ने कुरा स्पष्ट पार्नुहोस्; उदाहरणका लागि, स्रोतसामग्री, मापदण्डहरू र निर्देशिकाहरूका सूचीहरू।",
+      "bt": "Distribute copies of the PDF version if available and make clear that, because it has been prepared to be easy to print, it includes links to some materials on the online platform; for example, lists of resources, standards and guidelines.",
+      "type": "general",
+      "terms": [
+        "T087",
+        "T086",
+        "T404",
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring terms absent from G-0.3: online platform and resources. Proposed renderings: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-05-0026",
+      "page": "27",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "The online platform has these lists, as well as additional resources such as guidance on using the MSP in public health emergencies, resources for at-risk groups and some videos like a virtual tour of the platform and an introductory webinar.",
+      "ne": "अनलाइन मञ्चमा यी सूचीहरूका साथै थप स्रोतसामग्री पनि छन्, जस्तै जनस्वास्थ्य आपत्कालमा MSP प्रयोग गर्नेबारे मार्गदर्शन, जोखिममा रहेका समूहका लागि स्रोतसामग्री र मञ्चको भर्चुअल भ्रमण तथा परिचयात्मक वेबिनारजस्ता केही भिडियोहरू।",
+      "bt": "The online platform also has additional resources along with these lists, such as guidance on using the MSP in public health emergencies, resources for groups at risk and some videos such as a virtual tour of the platform and an introductory webinar.",
+      "type": "general",
+      "terms": [
+        "T170",
+        "T163",
+        "T334",
+        "T404",
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring terms absent from G-0.3: online platform, resources and at-risk groups. Proposed renderings: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence], [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-05-0027",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Section 2 does not have any icons next to it because these activities relate to internal organizational processes and don’t require inter-sectoral coordination. These activities are here to guide organizations internal work and systems as they are crucial for the planning and implementation of a safe and effective MHPSS response.",
+      "ne": "• खण्ड 2 को छेउमा कुनै चिह्नहरू छैनन् किनभने यी गतिविधिहरू संस्थाका आन्तरिक प्रक्रियासँग सम्बन्धित छन् र यिनका लागि अन्तरक्षेत्रीय समन्वय आवश्यक पर्दैन। यी गतिविधिहरू संस्थाहरूको आन्तरिक काम र प्रणालीलाई मार्गदर्शन गर्न यहाँ राखिएका हुन्, किनकि सुरक्षित र प्रभावकारी MHPSS प्रतिकार्यको योजना र कार्यान्वयनका लागि ती अत्यन्त महत्त्वपूर्ण छन्।",
+      "bt": "• There are no symbols beside Section 2 because these activities relate to an organization's internal processes and do not require intersectoral coordination. These activities have been placed here to guide organizations' internal work and systems, because they are extremely important for planning and implementing a safe and effective MHPSS response.",
+      "type": "safety",
+      "terms": [
+        "T150",
+        "T161",
+        "T174",
+        "T349",
+        "T380",
+        "T385",
+        "T422"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The supplied source note reports that this passage lies outside the visible page boundary, so its inclusion and placement remain unconfirmed."
+    },
+    {
+      "id": "FAC-05-0028",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "» Underscore that organizations must have sound systems for program design, for coordination, for M&E, for caring for staff & volunteers and for building the MHPSS competencies of staff & volunteers. Section 2 refers to the activities that any organizations engaging in any type of MHPSS activity should be doing.",
+      "ne": "» कार्यक्रमको रूपरेखा तयार गर्न, समन्वय गर्न, अनुगमन तथा मूल्याङ्कन (M&E) गर्न, कर्मचारी तथा स्वयंसेवकहरूको हेरचाह गर्न र कर्मचारी तथा स्वयंसेवकहरूको MHPSS सम्बन्धी सक्षमता विकास गर्न संस्थाहरूसँग सुदृढ प्रणालीहरू हुनैपर्छ भन्ने कुरामा जोड दिनुहोस्। खण्ड 2 ले कुनै पनि प्रकारको MHPSS गतिविधिमा संलग्न कुनै पनि संस्थाले गर्नुपर्ने अपेक्षा गरिएका गतिविधिहरू जनाउँछ।",
+      "bt": "» Emphasize that organizations must have strong systems to prepare the programme outline, coordinate, carry out monitoring and evaluation (M&E), care for staff and volunteers, and develop staff and volunteers' MHPSS-related competence. Section 2 indicates the activities that any organization involved in any type of MHPSS activity is expected to carry out.",
+      "type": "safety",
+      "terms": [
+        "T159",
+        "T209",
+        "T349",
+        "T394",
+        "T422"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied source note reports that this passage lies outside the visible page boundary; the draft distinguishes mandatory systems from activities organizations are expected to undertake."
+    },
+    {
+      "id": "FAC-05-0029",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Move to Sections 3 and 4 and show that different sectors are tagged in different activities, as shown in the example provided before.",
+      "ne": "• खण्ड 3 र 4 मा जानुहोस् र पहिले दिइएको उदाहरणमा देखाइएझैँ, फरक-फरक गतिविधिमा फरक-फरक क्षेत्रलाई चिह्नित गरिएको छ भनी देखाउनुहोस्।",
+      "bt": "• Go to Sections 3 and 4 and show that different sectors are marked for different activities, as shown in the example given earlier.",
+      "type": "safety",
+      "terms": [
+        "T296",
+        "T422"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied source note reports that this instruction lies outside the visible page boundary; its placement and the reference to the earlier example remain unconfirmed."
+    },
+    {
+      "id": "FAC-05-0030",
+      "page": "27",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Note again that icons are not intended to prescribe roles for sectors, but rather to indicate which sectors are in principle best placed to implement or contribute to activities and thus facilitate coordination.",
+      "ne": "• चिह्नहरूको उद्देश्य क्षेत्रहरूका भूमिका तोक्नु होइन, बरु सैद्धान्तिक रूपमा कुन-कुन क्षेत्र गतिविधिहरू कार्यान्वयन गर्न वा तिनमा योगदान दिन सबैभन्दा उपयुक्त स्थितिमा छन् भन्ने जनाउनु र यसरी समन्वयको सहजीकरण गर्नु हो भन्ने कुरा फेरि उल्लेख गर्नुहोस्।",
+      "bt": "• Mention again that the purpose of the symbols is not to assign roles to sectors, but rather to indicate which sectors are, in principle, best placed to implement activities or contribute to them, and thus to facilitate coordination.",
+      "type": "safety",
+      "terms": [
+        "T150",
+        "T296",
+        "T349",
+        "T364",
+        "T380"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied source note reports that this passage lies outside the visible page boundary, so its inclusion and placement remain unconfirmed."
+    },
+    {
+      "id": "FAC-05-0031",
+      "page": "27",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Distribute",
+      "ne": "वितरण गर्नुहोस्।",
+      "bt": "Distribute.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied source note reports that this heading lies outside the visible page boundary; its attachment to the following flyer item remains unconfirmed."
+    },
+    {
+      "id": "FAC-05-0032",
+      "page": "27",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "MSP General Flyer (two-page summary)",
+      "ne": "MSP को सामान्य जानकारीपत्र (दुई पृष्ठको सारांश)",
+      "bt": "MSP general information sheet (two-page summary)",
+      "type": "safety",
+      "terms": [
+        "T163"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied source note reports that this flyer item lies outside the visible page boundary; its inclusion under the preceding distribution heading remains unconfirmed."
+    },
+    {
+      "id": "FAC-05-0033",
+      "page": "28",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Treasure hunt activity",
+      "ne": "खजाना खोज गतिविधि",
+      "bt": "Treasure hunt activity",
+      "type": "general",
+      "terms": [
+        "T440"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring activity label: treasure hunt = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-05-0034",
+      "page": "28",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Prepare",
+      "ne": "तयारी गर्नुहोस्।",
+      "bt": "Prepare.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0035",
+      "page": "28",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "50 min",
+      "ne": "50 मिनेट",
+      "bt": "50 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0036",
+      "page": "28",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Treasure Hunt handout",
+      "ne": "• खजाना खोजको वितरण सामग्री",
+      "bt": "• Treasure hunt handout",
+      "type": "general",
+      "terms": [
+        "T373",
+        "T440"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed terms for treasure hunt and handout; glossary review pending."
+    },
+    {
+      "id": "FAC-05-0037",
+      "page": "28",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Participant laptops/mobile devices",
+      "ne": "• सहभागीहरूका ल्यापटप वा मोबाइल उपकरणहरू",
+      "bt": "• Participants’ laptops or mobile devices",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0038",
+      "page": "28",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Internet access for participants",
+      "ne": "• सहभागीहरूका लागि इन्टरनेट पहुँच",
+      "bt": "• Internet access for participants",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0039",
+      "page": "28",
+      "loc": "bullet",
+      "section": "Navigating the MSP",
+      "en": "• Printed copies of the MSP pdf Optional: You may wish to provide a small ‘prize’ such as a box of chocolates to foster some friendly competition and add a sense of fun to the activity.",
+      "ne": "• MSP को pdf का मुद्रित प्रतिहरू\nवैकल्पिक: मैत्रीपूर्ण प्रतिस्पर्धालाई प्रोत्साहन गर्न र गतिविधिलाई रमाइलो बनाउन तपाईंले चकलेटको बट्टाजस्तो सानो ‘पुरस्कार’ दिन सक्नुहुन्छ।",
+      "bt": "• Printed copies of the MSP pdf\nOptional: To encourage friendly competition and make the activity enjoyable, you can give a small ‘prize’ such as a box of chocolates.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0040",
+      "page": "28",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Divide",
+      "ne": "विभाजन गर्नुहोस्।",
+      "bt": "Divide.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The instruction continues in the following row."
+    },
+    {
+      "id": "FAC-05-0041",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "participants into small groups, ensuring that each group has at least one person with a laptop or mobile device connected to the internet.",
+      "ne": "सहभागीहरूलाई साना समूहमा विभाजन गर्नुहोस् र प्रत्येक समूहमा इन्टरनेटमा जडान भएको ल्यापटप वा मोबाइल उपकरण भएको कम्तीमा एक जना व्यक्ति रहेको सुनिश्चित गर्नुहोस्।",
+      "bt": "Divide participants into small groups and ensure that each group has at least one person with a laptop or mobile device connected to the internet.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": "The preceding heading's verb is repeated to make its continuation a complete Nepali instruction."
+    },
+    {
+      "id": "FAC-05-0042",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "Distribute the MSP Treasure Hunt handout.",
+      "ne": "MSP खजाना खोजको वितरण सामग्री वितरण गर्नुहोस्।",
+      "bt": "Distribute the MSP treasure hunt handout.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T373",
+        "T440"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed terms for treasure hunt and handout; glossary review pending."
+    },
+    {
+      "id": "FAC-05-0043",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "Give the groups 30 minutes to complete the treasure hunt, using either the PDF or the online platform.",
+      "ne": "PDF वा अनलाइन मञ्चमध्ये कुनै एक प्रयोग गरी खजाना खोज पूरा गर्न समूहहरूलाई 30 मिनेट दिनुहोस्।",
+      "bt": "Give the groups 30 minutes to complete the treasure hunt using either the PDF or the online platform.",
+      "type": "check",
+      "terms": [
+        "T404",
+        "T440"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed terms for treasure hunt and online platform; glossary review pending."
+    },
+    {
+      "id": "FAC-05-0044",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "Emphasize that the purpose of this exercise is getting familiar with the MSP and learning how to navigate it so more tech savvy participants can help less tech savvy participants to learn to navigate the platform if needed.",
+      "ne": "यस अभ्यासको उद्देश्य MSP सँग परिचित हुनु र यसमा आवश्यक जानकारी कसरी खोज्ने तथा विभिन्न भागमा कसरी जाने भन्ने सिक्नु हो भन्ने कुरामा जोड दिनुहोस्, ताकि आवश्यक परेमा प्रविधि प्रयोगमा बढी दक्ष सहभागीहरूले कम दक्ष सहभागीहरूलाई मञ्चमा आवश्यक जानकारी कसरी खोज्ने तथा विभिन्न भागमा कसरी जाने भन्ने सिक्न सहयोग गर्न सकून्।",
+      "bt": "Emphasize that the purpose of this exercise is to become familiar with MSP and to learn how to find the necessary information in it and how to go to different sections, so that, if necessary, participants who are more proficient in using technology can help less proficient participants learn how to find the necessary information on the platform and how to go to different sections.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses [Nepali wording recorded in terminology evidence] as a contextual shortened form of the proposed term for online platform; glossary review pending. The final clause broadens learning to navigate the platform into learning to use it generally. The revision restores the specific navigation focus of the assistance."
+    },
+    {
+      "id": "FAC-05-0045",
+      "page": "28",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Review",
+      "ne": "समीक्षा गर्नुहोस्।",
+      "bt": "Review.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The instruction continues in the following row."
+    },
+    {
+      "id": "FAC-05-0046",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "the answers in plenary and make sure groups score their answers.",
+      "ne": "सबै सहभागीहरू सम्मिलित सत्रमा उत्तरहरूको समीक्षा गर्नुहोस् र समूहहरूले आफ्ना उत्तरहरूलाई अङ्क दिएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Review the answers in a session including all participants and ensure that the groups have scored their own answers.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The preceding heading's verb is repeated to make its continuation a complete Nepali instruction."
+    },
+    {
+      "id": "FAC-05-0047",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "Demonstrate where to find each answer through the use of the slides, as well as the website and PDF when needed.",
+      "ne": "स्लाइडहरू प्रयोग गरी र आवश्यक पर्दा वेबसाइट तथा PDF पनि प्रयोग गरी प्रत्येक उत्तर कहाँ फेला पर्छ भनेर देखाउनुहोस्।",
+      "bt": "Show where each answer is found using the slides and, when needed, also using the website and PDF.",
+      "type": "general",
+      "terms": [
+        "T427",
+        "T443"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0048",
+      "page": "28",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Give",
+      "ne": "समय दिनुहोस्।",
+      "bt": "Give time.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The object of 'Give' is supplied by the following row; the heading refers to allowing time."
+    },
+    {
+      "id": "FAC-05-0049",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "the groups a minute to count up the final score.",
+      "ne": "अन्तिम अङ्क जोड्न समूहहरूलाई एक मिनेट दिनुहोस्।",
+      "bt": "Give the groups one minute to add up the final scores.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The preceding heading's verb is repeated to make its continuation a complete Nepali instruction."
+    },
+    {
+      "id": "FAC-05-0050",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "Celebrate the winning team and everyone´s work.",
+      "ne": "विजयी टोलीको जित र सबैले गरेको कामको खुसी मनाउनुहोस्।",
+      "bt": "Celebrate the winning team’s victory and the work everyone has done.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0051",
+      "page": "28",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Ask",
+      "ne": "उदाहरण दिन भन्नुहोस्।",
+      "bt": "Ask for examples.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The following row establishes that 'Ask' means requesting examples rather than posing a question."
+    },
+    {
+      "id": "FAC-05-0052",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "participants to give some examples from their own context of both positive and negative interactions (e.g., how being part of a religious community may positively impact a person’s feelings, how being exposed to racism or misogyny may negatively impact a person’s feelings).",
+      "ne": "सहभागीहरूलाई आफ्नै सन्दर्भबाट सकारात्मक र नकारात्मक दुवै किसिमका अन्तरक्रियाका केही उदाहरण दिन भन्नुहोस् (जस्तै, धार्मिक समुदायको हिस्सा हुँदा व्यक्तिको भावनामा कसरी सकारात्मक प्रभाव पर्न सक्छ, नस्लवाद वा महिलाप्रति द्वेषको सामना गर्नुपर्दा व्यक्तिको भावनामा कसरी नकारात्मक प्रभाव पर्न सक्छ)।",
+      "bt": "Ask participants to give some examples of both positive and negative kinds of interactions from their own contexts (for example, how being part of a religious community can have a positive effect on a person’s feelings, how having to face racism or hatred toward women can have a negative effect on a person’s feelings).",
+      "type": "general",
+      "terms": [
+        "T344",
+        "T406"
+      ],
+      "flags": [],
+      "note": "The preceding heading's request is repeated to make its continuation a complete Nepali instruction. Feelings and interactions are used here in their ordinary, nonclinical senses."
+    },
+    {
+      "id": "FAC-05-0053",
+      "page": "28",
+      "loc": "heading",
+      "section": "Navigating the MSP",
+      "en": "Online facilitation",
+      "ne": "अनलाइन सहजीकरण",
+      "bt": "Online facilitation",
+      "type": "general",
+      "terms": [
+        "T365",
+        "T403"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-05-0054",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "It is likely that participants will primarily use the online platform.",
+      "ne": "सहभागीहरूले मुख्य रूपमा अनलाइन मञ्च प्रयोग गर्ने सम्भावना छ।",
+      "bt": "Participants are likely to mainly use the online platform.",
+      "type": "general",
+      "terms": [
+        "T404",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed term for online platform; glossary review pending."
+    },
+    {
+      "id": "FAC-05-0055",
+      "page": "28",
+      "loc": "para",
+      "section": "Navigating the MSP",
+      "en": "Encourage participants to also use the PDF so they also become familiar with it.",
+      "ne": "सहभागीहरूलाई PDF सँग पनि परिचित हुनका लागि त्यसको समेत प्रयोग गर्न प्रोत्साहन गर्नुहोस्।",
+      "bt": "Encourage participants to use the PDF as well so that they also become familiar with it.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

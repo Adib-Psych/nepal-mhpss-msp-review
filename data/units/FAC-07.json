@@ -1,0 +1,916 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-07",
+  "unit_title": "MHPSS Needs Assessment",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "34-36",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:03:26+05:45",
+  "coverage": {
+    "source_words": 826,
+    "row_words": 826,
+    "skipped": [
+      "Page 34: running-footer: 30 · MSP Workshop Facilitator Manual · Module 3",
+      "Page 34: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 34: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 34: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 34: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 34: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 35: running-footer: Module 3 · MSP Workshop Facilitator Manual · 31",
+      "Page 35: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 35: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 36: running-footer: 32 · MSP Workshop Facilitator Manual"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-07-0001",
+      "page": "34",
+      "loc": "heading",
+      "section": "MHPSS Needs Assessment",
+      "en": "3.2 MHPSS Needs Assessment",
+      "ne": "3.2 MHPSS आवश्यकताको लेखाजोखा",
+      "bt": "3.2 Assessment of MHPSS needs",
+      "type": "activity",
+      "terms": [
+        "T068"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0002",
+      "page": "34",
+      "loc": "heading",
+      "section": "MHPSS Needs Assessment",
+      "en": "MHPSS Needs Assessment Scenarios",
+      "ne": "MHPSS आवश्यकताको लेखाजोखाका परिदृश्यहरू",
+      "bt": "Scenarios for assessing MHPSS needs",
+      "type": "activity",
+      "terms": [
+        "T068",
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0003",
+      "page": "34",
+      "loc": "heading",
+      "section": "MHPSS Needs Assessment",
+      "en": "Present",
+      "ne": "प्रस्तुत गर्नुहोस्।",
+      "bt": "Present.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0004",
+      "page": "34",
+      "loc": "heading",
+      "section": "MHPSS Needs Assessment",
+      "en": "25 min",
+      "ne": "25 मिनेट",
+      "bt": "25 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0005",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Activity 1.2 Assess MHPSS needs and resources to guide programming, on the screen.",
+      "ne": "गतिविधि 1.2 ‘कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने’ स्क्रिनमा देखाउनुहोस्।",
+      "bt": "Show Activity 1.2 ‘Assessing MHPSS needs and resources to guide the programme’ on the screen.",
+      "type": "check",
+      "terms": [
+        "T093"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0006",
+      "page": "34",
+      "loc": "heading",
+      "section": "MHPSS Needs Assessment",
+      "en": "Option 1 - MHPSS Needs Assessment Case Study",
+      "ne": "विकल्प 1 - MHPSS सम्बन्धी आवश्यकताको लेखाजोखाको प्रकरण अध्ययन (case study)",
+      "bt": "Option 1 - Case study of an assessment of MHPSS-related needs (case study)",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T068"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft wording for case study has no supplied glossary candidate and remains unvalidated."
+    },
+    {
+      "id": "FAC-07-0007",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Divide participants into small groups.",
+      "ne": "सहभागीहरूलाई साना समूहमा विभाजन गर्नुहोस्।",
+      "bt": "Divide participants into small groups.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0008",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "If possible, the groups should be organized by sector.",
+      "ne": "सम्भव भएमा, क्षेत्रअनुसार समूहहरू गठन गर्नुहोस्।",
+      "bt": "If possible, form groups by sector.",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0009",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Show the case study in the slide, along with the following instructions: In this handout you will find a brief description of an emergency situation.",
+      "ne": "स्लाइडमा प्रकरण अध्ययनसँगै निम्न निर्देशन देखाउनुहोस्: यस वितरण सामग्रीमा तपाईंले आपत्कालीन परिस्थितिको संक्षिप्त विवरण पाउनुहुनेछ।",
+      "bt": "Display the following instruction along with the case study on the slide: In this handout, you will find a brief description of an emergency situation.",
+      "type": "safety",
+      "terms": [
+        "T373",
+        "T427"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft wording for case study has no supplied glossary candidate and remains unvalidated."
+    },
+    {
+      "id": "FAC-07-0010",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "To ensure the design of an effective and safe program, it is necessary to gather information about the context, the needs and the resources of the affected population.",
+      "ne": "प्रभावकारी र सुरक्षित कार्यक्रमको डिजाइन सुनिश्चित गर्न प्रभावित जनसङ्ख्याको सन्दर्भ, आवश्यकता र स्रोतहरूबारे जानकारी सङ्कलन गर्नु आवश्यक छ।",
+      "bt": "To ensure effective and safe programme design, it is necessary to collect information about the context, needs and resources of the affected population.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0011",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Your role is to try to define the steps that need to be taken.",
+      "ne": "चाल्नुपर्ने कदमहरू निर्धारण गर्ने प्रयास गर्नु तपाईंको भूमिका हो।",
+      "bt": "Your role is to try to determine the steps that need to be taken.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0012",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "You can consult the MSP for guidance.",
+      "ne": "मार्गदर्शनका लागि तपाईंले MSP हेर्न सक्नुहुन्छ।",
+      "bt": "You can consult the MSP for guidance.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0013",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "The groups have 15 min to complete the task.",
+      "ne": "कार्य पूरा गर्न समूहहरूसँग 15 मिनेट समय छ।",
+      "bt": "The groups have 15 minutes to complete the task.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0014",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Note to facilitator: This exercise gives participants the opportunity to see how they can use the MSP in practice, in this case for planning a needs assessment.",
+      "ne": "सहजकर्ताका लागि टिप्पणी: यस अभ्यासले सहभागीहरूलाई MSP व्यवहारमा कसरी प्रयोग गर्न सकिन्छ भन्ने हेर्ने अवसर दिन्छ; यस सन्दर्भमा आवश्यकताको लेखाजोखाको योजना बनाउन यसको प्रयोग गरिन्छ।",
+      "bt": "Note for the facilitator: This exercise gives participants an opportunity to see how the MSP can be used in practice; in this context, it is used to plan a needs assessment.",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T163",
+        "T068",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0015",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Their work should reflect the core actions from Activity 1.2. Ideally, participants will use the checklist of core actions to outline the steps.",
+      "ne": "उनीहरूको काममा गतिविधि 1.2 का मुख्य कार्यहरू प्रतिबिम्बित हुने अपेक्षा गरिन्छ। आदर्श रूपमा, सहभागीहरूले कदमहरूको रूपरेखा तयार गर्न मुख्य कार्यहरूको जाँचसूची प्रयोग गर्नेछन्।",
+      "bt": "Their work is expected to reflect the main tasks of Activity 1.2. Ideally, participants will use the checklist of main tasks to prepare an outline of the steps.",
+      "type": "check",
+      "terms": [
+        "T129",
+        "T121",
+        "T350",
+        "T406"
+      ],
+      "flags": [],
+      "note": "The translation strengthens “should reflect” into a requirement and changes “Ideally, participants will use” into an instruction to use the checklist as far as possible. The revision restores expectation and the ideal outcome without imposing a checklist requirement."
+    },
+    {
+      "id": "FAC-07-0016",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Some groups may need more support to understand that they can find this information in the MSP.",
+      "ne": "यो जानकारी MSP मा पाउन सकिन्छ भन्ने बुझ्न केही समूहलाई थप सहयोग आवश्यक पर्न सक्छ।",
+      "bt": "Some groups may need additional support to understand that this information can be found in the MSP.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0017",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Helping them to see that the MSP activities can be used in such a way is an important part of this exercise.",
+      "ne": "MSP गतिविधिहरू यसरी प्रयोग गर्न सकिन्छ भन्ने बुझ्न उनीहरूलाई मद्दत गर्नु यस अभ्यासको महत्त्वपूर्ण भाग हो।",
+      "bt": "Helping them understand that MSP activities can be used in this way is an important part of this exercise.",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0018",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Bring the group back to plenary and use the following questions as a guide for discussion:",
+      "ne": "समूहलाई पुनः पूर्ण सत्रमा ल्याउनुहोस् र छलफललाई दिशा दिन निम्न प्रश्नहरू प्रयोग गर्नुहोस्।",
+      "bt": "Bring the group back into the plenary session and use the following questions to guide the discussion.",
+      "type": "general",
+      "terms": [
+        "T407"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0019",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• How useful was the MSP in determining the steps you should take to carry out a needs assessment?",
+      "ne": "• आवश्यकताको लेखाजोखा गर्न तपाईंले चाल्नुपर्ने कदमहरू निर्धारण गर्न MSP कत्तिको उपयोगी भयो?",
+      "bt": "• How useful was the MSP in determining the steps you need to take to conduct a needs assessment?",
+      "type": "general",
+      "terms": [
+        "T068",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0020",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Is it becoming clear how you can use the MSP in your work?",
+      "ne": "• आफ्नो काममा MSP कसरी प्रयोग गर्न सकिन्छ भन्ने तपाईंलाई स्पष्ट हुँदै गएको छ?",
+      "bt": "• Is it becoming clearer to you how the MSP can be used in your work?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0021",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Why is Activity 1.2 Assess MHPSS needs and resources included in the MSP?",
+      "ne": "• गतिविधि 1.2 ‘MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने’ MSP मा किन समावेश गरिएको छ?",
+      "bt": "• Why is Activity 1.2 ‘Assessing MHPSS needs and resources’ included in the MSP?",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The activity label is abbreviated in the supplied English; the omitted programming clause has not been added."
+    },
+    {
+      "id": "FAC-07-0022",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• What happens if we plan our programmes without being guided by MHPSS needs assessments and situational analysis?",
+      "ne": "• MHPSS सम्बन्धी आवश्यकताको लेखाजोखा र परिस्थितिको विश्लेषणबाट मार्गदर्शन नलिई हामीले हाम्रा कार्यक्रमहरूको योजना बनायौँ भने के हुन्छ?",
+      "bt": "• What happens if we plan our programmes without taking guidance from an assessment of MHPSS-related needs and an analysis of the situation?",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T068",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft wording for situational analysis has no supplied glossary candidate; the condition of planning without guidance is retained."
+    },
+    {
+      "id": "FAC-07-0023",
+      "page": "34",
+      "loc": "heading",
+      "section": "MHPSS Needs Assessment",
+      "en": "Option 2 – Assessing needs and resources",
+      "ne": "विकल्प 2 – आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने",
+      "bt": "Option 2 – Assessing needs and resources",
+      "type": "check",
+      "terms": [
+        "T004"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0024",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Ask participants the following questions and allow them to share their ideas and examples, in between each of the questions:",
+      "ne": "सहभागीहरूलाई निम्न प्रश्नहरू सोध्नुहोस् र प्रत्येक प्रश्नपछि अर्को प्रश्न सोध्नुअघि उनीहरूलाई आफ्ना विचार र उदाहरणहरू प्रस्तुत गर्न दिनुहोस्।",
+      "bt": "Ask participants the following questions and, after each question, let them present their thoughts and examples before asking the next question.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0025",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Why is Activity 1.2 Assess MHPSS needs and resources included in the MSP?",
+      "ne": "• गतिविधि 1.2 ‘MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने’ MSP मा किन समावेश गरिएको छ?",
+      "bt": "• Why is Activity 1.2 ‘Assessing MHPSS needs and resources’ included in the MSP?",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The activity label is abbreviated in the supplied English; the omitted programming clause has not been added."
+    },
+    {
+      "id": "FAC-07-0026",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• What happens if we plan our programmes without being guided by MHPSS needs assessments and situational analysis?",
+      "ne": "• MHPSS सम्बन्धी आवश्यकताको लेखाजोखा र परिस्थितिको विश्लेषणबाट मार्गदर्शन नलिई हामीले हाम्रा कार्यक्रमहरूको योजना बनायौँ भने के हुन्छ?",
+      "bt": "• What happens if we plan our programmes without taking guidance from an assessment of MHPSS-related needs and an analysis of the situation?",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T068",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft wording for situational analysis has no supplied glossary candidate; the condition of planning without guidance is retained."
+    },
+    {
+      "id": "FAC-07-0027",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• How would you approach doing an MHPSS needs assessment?",
+      "ne": "• MHPSS आवश्यकताको लेखाजोखा गर्न तपाईंले कस्तो तरिका अपनाउनुहुन्थ्यो?",
+      "bt": "• What approach would you adopt to assess MHPSS needs?",
+      "type": "general",
+      "terms": [
+        "T068"
+      ],
+      "flags": [],
+      "note": "The source asks hypothetically how participants “would” approach the assessment; the translation asks what approach they “will” adopt. The revision restores the hypothetical question."
+    },
+    {
+      "id": "FAC-07-0028",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "If participants don’t identify the core actions under Activity 1.2, remind them that the MSP provides guidance on how to conduct MHPSS needs assessment.",
+      "ne": "सहभागीहरूले गतिविधि 1.2 अन्तर्गतका मुख्य कार्यहरू पहिचान नगरेमा, MHPSS आवश्यकताको लेखाजोखा कसरी गर्ने भन्नेबारे MSP ले मार्गदर्शन दिन्छ भनेर उनीहरूलाई सम्झाउनुहोस्।",
+      "bt": "If participants do not identify the key actions under Activity 1.2, remind them that the MSP provides guidance on how to assess MHPSS needs.",
+      "type": "check",
+      "terms": [
+        "T129",
+        "T068",
+        "T163",
+        "T350",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0029",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Briefly review the core actions from the online platform on the screen.",
+      "ne": "अनलाइन प्लेटफर्ममा रहेका मुख्य कार्यहरू स्क्रिनमा देखाएर संक्षिप्त समीक्षा गर्नुहोस्।",
+      "bt": "Show the key actions on the online platform on the screen and briefly review them.",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0030",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Highlight that Activity 2.1 Design, plan and coordinate MHPSS Programs also includes core actions that underscore the importance of assessment and informed programming:",
+      "ne": "‘MHPSS कार्यक्रमहरूको रूपरेखा तयार गर्ने, योजना बनाउने र समन्वय गर्ने’ गतिविधि 2.1 मा लेखाजोखाको महत्त्व र जानकारीमा आधारित कार्यक्रम तर्जुमा तथा कार्यान्वयनको महत्त्वलाई जोड दिने मुख्य कार्यहरू पनि समावेश छन् भन्ने कुरा विशेष रूपमा औँल्याउनुहोस्।",
+      "bt": "Specifically point out that activity 2.1, ‘Preparing the outline of, planning and coordinating MHPSS programmes’, also includes key actions that emphasize the importance of assessment and the importance of information-based programme formulation and implementation.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T129",
+        "T282",
+        "T409"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied provenance note places this text outside the visible page boundary, so its inclusion and exact wording remain unverified. The BT makes assessment and information joint bases for programming. The source instead emphasizes assessment itself and informed programming. The repair makes these two objects of emphasis explicit."
+    },
+    {
+      "id": "FAC-07-0031",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Select programme activities based on community needs, capacities and priorities identified during assessments; on identified gaps in the humanitarian MHPSS response (e.g. see MSP activity 1.1); and on human resources (HR) available, including the availability of appropriately qualified and experienced staff to provide technical oversight of MHPSS activities.",
+      "ne": "• लेखाजोखाका क्रममा पहिचान गरिएका समुदायका आवश्यकता, क्षमता र प्राथमिकताहरू; मानवीय MHPSS प्रतिकार्यमा पहिचान गरिएका कमीहरू (उदाहरणका लागि, MSP गतिविधि 1.1 हेर्नुहोस्); र MHPSS गतिविधिहरूको प्राविधिक निगरानी गर्न उपयुक्त योग्यता र अनुभव भएका कर्मचारीहरूको उपलब्धतासहित उपलब्ध मानव संसाधन (HR) का आधारमा कार्यक्रमगत गतिविधिहरू चयन गर्नुहोस्।",
+      "bt": "• Select programme activities on the basis of the community's needs, capacities and priorities identified during the assessment; gaps identified in the humanitarian MHPSS response (for example, see MSP activity 1.1); and available human resources (HR), including the availability of staff with appropriate qualifications and experience to carry out technical monitoring of MHPSS activities.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T042",
+        "T091",
+        "T148",
+        "T158",
+        "T161",
+        "T163",
+        "T167",
+        "T174",
+        "T232",
+        "T318",
+        "T344",
+        "T409"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied provenance note places this text outside the visible page boundary, so its inclusion and exact wording remain unverified."
+    },
+    {
+      "id": "FAC-07-0032",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Identify how different teams/sectors within the organization can contribute and collaborate to holistically address MHPSS needs.",
+      "ne": "MHPSS सम्बन्धी आवश्यकताहरूलाई समग्र रूपमा सम्बोधन गर्न संस्थाभित्रका विभिन्न टोलीहरू वा क्षेत्रहरूले कसरी योगदान दिन र सहकार्य गर्न सक्छन् भन्ने पहिचान गर्नुहोस्।",
+      "bt": "Identify how different teams or sectors within the organization can contribute and collaborate to address MHPSS-related needs as a whole.",
+      "type": "safety",
+      "terms": [
+        "T296"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied provenance note places this text outside the visible page boundary, so its inclusion and exact wording remain unverified."
+    },
+    {
+      "id": "FAC-07-0033",
+      "page": "34",
+      "loc": "heading",
+      "section": "MHPSS Needs Assessment",
+      "en": "Ask",
+      "ne": "अनुरोध गर्नुहोस्।",
+      "bt": "Make a request.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "This isolated heading introduces the following fragment, and the supplied provenance note places it outside the visible page boundary."
+    },
+    {
+      "id": "FAC-07-0034",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "a volunteer to read the scenario aloud for the group and ask participants to discuss and answer.",
+      "ne": "एक स्वयंसेवकलाई समूहका लागि परिदृश्य ठूलो स्वरमा पढ्न अनुरोध गर्नुहोस् र सहभागीहरूलाई छलफल गरेर उत्तर दिन भन्नुहोस्।",
+      "bt": "Ask a volunteer to read the scenario aloud for the group and tell the participants to discuss and answer.",
+      "type": "safety",
+      "terms": [
+        "T406",
+        "T419"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "This fragment is read with the preceding Ask heading and retains a request to a volunteer; the supplied provenance note places it outside the visible page boundary."
+    },
+    {
+      "id": "FAC-07-0035",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Highlight the key consideration from the MSP explaining that prevalence estimates of mental health conditions in humanitarian settings are not essential to initiate services (next slide).",
+      "ne": "मानवीय सहायताका परिवेशहरूमा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको व्याप्तिका अनुमानहरू सेवा सुरु गर्न अत्यावश्यक छैनन् भन्ने व्याख्या गर्ने MSP को मुख्य विचारणीय पक्षलाई विशेष रूपमा औँल्याउनुहोस् (अर्को स्लाइड)।",
+      "bt": "Specifically point out the MSP's key consideration explaining that estimates of the prevalence of mental health conditions in humanitarian assistance settings are not essential to start services (next slide).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T163",
+        "T252",
+        "T408",
+        "T427",
+        "T476",
+        "T478"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied provenance note places this text outside the visible page boundary; the draft retains that prevalence estimates are not essential to initiate services."
+    },
+    {
+      "id": "FAC-07-0036",
+      "page": "34",
+      "loc": "heading",
+      "section": "MHPSS Needs Assessment",
+      "en": "Make sure",
+      "ne": "सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "This heading introduces the following fragment, and the supplied provenance note places it outside the visible page boundary."
+    },
+    {
+      "id": "FAC-07-0037",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "the following points are clear for participants:",
+      "ne": "निम्न बुँदाहरू सहभागीहरूलाई स्पष्ट छन् भन्ने कुरा सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure that the following points are clear to the participants.",
+      "type": "safety",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "This fragment completes the preceding Make sure heading; the supplied provenance note places both outside the visible page boundary."
+    },
+    {
+      "id": "FAC-07-0038",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• An in-depth needs assessment is not required to justify the initiation of MHPSS services and activities.",
+      "ne": "• MHPSS सेवाहरू तथा गतिविधिहरू सुरु गर्नुको औचित्य पुष्टि गर्न आवश्यकताहरूको गहन लेखाजोखा आवश्यक पर्दैन।",
+      "bt": "• An in-depth assessment of needs is not required to justify starting MHPSS services and activities.",
+      "type": "safety",
+      "terms": [
+        "T004"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "The source is outside the visible page boundary; source review of the statement that an in-depth assessment is not required remains pending."
+    },
+    {
+      "id": "FAC-07-0039",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Nonetheless, it is important to assess MHPSS needs and resources to guide planning of more detailed and context-specific programme activities.",
+      "ne": "• तथापि, अझ विस्तृत र सन्दर्भविशिष्ट कार्यक्रमगत गतिविधिहरूको योजना बनाउन मार्गदर्शन गर्न MHPSS सम्बन्धी आवश्यकता र स्रोतहरूको लेखाजोखा गर्नु महत्त्वपूर्ण छ।",
+      "bt": "• However, it is important to assess MHPSS-related needs and resources to guide the planning of more detailed and context-specific programmatic activities.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T167"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source is outside the visible page boundary and requires source review; resources is rendered broadly rather than narrowed to reference materials."
+    },
+    {
+      "id": "FAC-07-0040",
+      "page": "34",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Points that may also come up in the discussion:",
+      "ne": "छलफलमा उठ्न सक्ने थप बुँदाहरू:",
+      "bt": "Additional points that may arise in the discussion:",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The discussion prompt is outside the visible page boundary, and source review remains pending."
+    },
+    {
+      "id": "FAC-07-0041",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Training of data collectors, including language",
+      "ne": "• तथ्याङ्क सङ्कलकहरूको तालिम, भाषासमेत",
+      "bt": "• Training of data collectors, including language",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous",
+        "unclear-english",
+        "glossary-missing"
+      ],
+      "note": "The source does not specify whether language refers to the training language or language-related training content; the fragment preserves that ambiguity, and its location outside the visible page boundary also requires source review."
+    },
+    {
+      "id": "FAC-07-0042",
+      "page": "34",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Inability to distinguish between acute stress and MH conditions in acute phase of the crisis",
+      "ne": "• संकटको तीव्र चरणमा तीव्र तनाव र मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू (MH) बीच भिन्नता छुट्याउन नसक्नु",
+      "bt": "• Inability to distinguish between acute stress and mental health-related conditions (MH) in the acute phase of a crisis",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T478"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source is outside the visible page boundary and requires source review; both uses of acute and the acronym MH are retained."
+    },
+    {
+      "id": "FAC-07-0043",
+      "page": "35",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Highlight that Activity 2.1 Design, plan and coordinate MHPSS Programs also includes core actions that underscore the importance of assessment and informed programming:",
+      "ne": "गतिविधि 2.1 ‘MHPSS कार्यक्रमको डिजाइन, योजना र समन्वय गर्ने’ मा पनि लेखाजोखा र जानकारीमा आधारित कार्यक्रम तर्जुमा तथा कार्यान्वयनको महत्त्वमा जोड दिने मुख्य कार्यहरू समावेश छन् भन्ने कुरा स्पष्ट पार्नुहोस्।",
+      "bt": "Clarify that Activity 2.1, ‘Designing, planning and coordinating an MHPSS programme’, also includes key actions that emphasize the importance of assessment and information-based programme formulation and implementation.",
+      "type": "check",
+      "terms": [
+        "T094",
+        "T004",
+        "T282",
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0044",
+      "page": "35",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Select programme activities based on community needs, capacities and priorities identified during assessments; on identified gaps in the humanitarian MHPSS response (e.g. see MSP activity 1.1); and on human resources (HR) available, including the availability of appropriately qualified and experienced staff to provide technical oversight of MHPSS activities. Identify how different teams/sectors within the organization can contribute and collaborate to holistically address MHPSS needs.",
+      "ne": "• लेखाजोखा गर्दा पहिचान गरिएका समुदायका आवश्यकता, क्षमता र प्राथमिकता; मानवीय MHPSS प्रतिकार्यमा पहिचान गरिएका कमीहरू (जस्तै, MSP गतिविधि 1.1 हेर्नुहोस्); र MHPSS गतिविधिहरूको प्राविधिक निगरानी गर्न उपयुक्त योग्यता र अनुभव भएका कर्मचारीको उपलब्धतासहित उपलब्ध मानव संसाधन (HR) का आधारमा कार्यक्रमगत गतिविधिहरू छनोट गर्नुहोस्। MHPSS आवश्यकताहरूलाई समग्र रूपमा सम्बोधन गर्न संस्थाभित्रका विभिन्न टोलीहरू/क्षेत्रहरूले कसरी योगदान र सहकार्य गर्न सक्छन् भन्ने पहिचान गर्नुहोस्।",
+      "bt": "• Select programme activities based on the community needs, capacities and priorities identified during the assessment; identified gaps in the humanitarian MHPSS response (for example, see MSP Activity 1.1); and available human resources (HR), including the availability of staff with suitable qualifications and experience to provide technical oversight of MHPSS activities. Identify how different teams/sectors within the organization can contribute and collaborate to address MHPSS needs as a whole.",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T148",
+        "T232",
+        "T091",
+        "T163",
+        "T158",
+        "T318",
+        "T042",
+        "T167",
+        "T296",
+        "T344",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0045",
+      "page": "35",
+      "loc": "heading",
+      "section": "MHPSS Needs Assessment",
+      "en": "Ask",
+      "ne": "अनुरोध गर्नुहोस्।",
+      "bt": "Make a request.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0046",
+      "page": "35",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "a volunteer to read the scenario aloud for the group and ask participants to discuss and answer.",
+      "ne": "एक स्वयंसेवकलाई समूहका लागि परिदृश्य ठूलो स्वरमा पढ्न अनुरोध गर्नुहोस् र सहभागीहरूलाई छलफल गरी उत्तर दिन भन्नुहोस्।",
+      "bt": "Ask a volunteer to read the scenario aloud for the group and tell the participants to discuss and answer.",
+      "type": "general",
+      "terms": [
+        "T406",
+        "T419"
+      ],
+      "flags": [],
+      "note": "With the preceding 'Ask' heading, the source asks a volunteer to read. The existing Nepali says to have the volunteer read; the revision restores the explicit request without changing the instruction to participants."
+    },
+    {
+      "id": "FAC-07-0047",
+      "page": "35",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "Highlight the key consideration from the MSP explaining that prevalence estimates of mental health conditions in humanitarian settings are not essential to initiate services (next slide).",
+      "ne": "मानवीय सहायताका परिवेशहरूमा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको व्याप्तिका अनुमानहरू सेवाहरू सुरु गर्न अत्यावश्यक छैनन् भनी स्पष्ट पार्ने MSP को मुख्य विचारणीय पक्षलाई जोड दिनुहोस् (अर्को स्लाइड)।",
+      "bt": "Emphasize the key consideration of the MSP that clarifies that estimates of the prevalence of mental health-related conditions in humanitarian assistance settings are not essential for starting services (next slide).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T163",
+        "T252",
+        "T408",
+        "T427",
+        "T478"
+      ],
+      "flags": [],
+      "note": "The draft preserves the statement that prevalence estimates are not essential to initiate services and retains the next-slide reference."
+    },
+    {
+      "id": "FAC-07-0048",
+      "page": "35",
+      "loc": "heading",
+      "section": "MHPSS Needs Assessment",
+      "en": "Make sure",
+      "ne": "सुनिश्चित गर्नुहोस्।",
+      "bt": "Ensure.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0049",
+      "page": "35",
+      "loc": "para",
+      "section": "MHPSS Needs Assessment",
+      "en": "the following points are clear for participants:",
+      "ne": "सहभागीहरूलाई निम्न बुँदाहरू स्पष्ट छन् भन्ने कुरा:",
+      "bt": "That the following points are clear to participants:",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": "Completes the preceding heading."
+    },
+    {
+      "id": "FAC-07-0050",
+      "page": "35",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• An in-depth needs assessment is not required to justify the initiation of MHPSS services and activities.",
+      "ne": "• MHPSS सेवा तथा गतिविधि सुरु गर्नुको औचित्य पुष्टि गर्न आवश्यकताको गहन लेखाजोखा आवश्यक पर्दैन।",
+      "bt": "• An in-depth assessment of needs is not required to justify starting MHPSS services and activities.",
+      "type": "general",
+      "terms": [
+        "T004"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal for the recurring term needs assessment: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. This proposal does not amend G-0.3."
+    },
+    {
+      "id": "FAC-07-0051",
+      "page": "35",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Nonetheless, it is important to assess MHPSS needs and resources to guide planning of more detailed and context-specific programme activities. Points that may also come up in the discussion:",
+      "ne": "• तथापि, थप विस्तृत र सन्दर्भअनुरूपका कार्यक्रमगत गतिविधिहरूको योजना बनाउन दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्नु महत्त्वपूर्ण छ। छलफलमा उठ्न सक्ने अन्य बुँदाहरू:",
+      "bt": "• However, it is important to assess MHPSS needs and resources to guide the planning of more detailed and context-appropriate programme activities. Other points that may arise in the discussion:",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T004",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-07-0052",
+      "page": "35",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Training of data collectors, including language",
+      "ne": "• तथ्याङ्क सङ्कलकहरूको तालिम, भाषासमेत",
+      "bt": "• Training of data collectors, including language",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "unclear-english",
+        "glossary-missing"
+      ],
+      "note": "The source does not specify whether language refers to the training language or language-related training content; the fragment preserves that ambiguity pending source clarification."
+    },
+    {
+      "id": "FAC-07-0053",
+      "page": "35",
+      "loc": "bullet",
+      "section": "MHPSS Needs Assessment",
+      "en": "• Inability to distinguish between acute stress and MH conditions in acute phase of the crisis",
+      "ne": "• संकटको तीव्र चरणमा तीव्र तनाव र मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू (MH) बीच भिन्नता छुट्याउन नसक्नु",
+      "bt": "• Inability to distinguish between acute stress and mental health-related conditions (MH) in the acute phase of a crisis",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T478"
+      ],
+      "flags": [],
+      "note": "Both uses of acute and the acronym MH are retained without treating acute stress as a named diagnosis."
+    }
+  ]
+}

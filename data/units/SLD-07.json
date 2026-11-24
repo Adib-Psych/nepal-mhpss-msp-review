@@ -1,0 +1,357 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-07",
+  "unit_title": "MHPSS Needs Assessment",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "75-80",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:09:10+05:45",
+  "coverage": {
+    "source_words": 254,
+    "row_words": 254,
+    "skipped": [
+      "Slide 75: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 76: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 76: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 76: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 79: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-07-0001",
+      "page": "75",
+      "loc": "slide-title",
+      "section": "MHPSS Needs Assessment",
+      "en": "1.2 Assess MHPSS needs and resources to guide programming",
+      "ne": "1.2 कार्यक्रमलाई दिशा दिन MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने",
+      "bt": "1.2 Assess MHPSS needs and resources to guide the programme",
+      "type": "activity",
+      "terms": [
+        "T093"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate verbatim."
+    },
+    {
+      "id": "SLD-07-0002",
+      "page": "76",
+      "loc": "slide-title",
+      "section": "MHPSS Needs Assessment",
+      "en": "Group work – MHPSS Needs Assessment Case Study",
+      "ne": "समूह कार्य – MHPSS आवश्यकताको लेखाजोखासम्बन्धी घटना अध्ययन",
+      "bt": "Group work – Case study on the assessment of MHPSS needs",
+      "type": "activity",
+      "terms": [
+        "T068"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-07-0003",
+      "page": "76",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "After a sudden increase in violence in a neighbouring area, large numbers of people are travelling to your region.",
+      "ne": "छिमेकी क्षेत्रमा हिंसा अचानक बढेपछि ठूलो सङ्ख्यामा मानिसहरू तपाईंको क्षेत्रमा आइरहेका छन्।",
+      "bt": "After a sudden increase in violence in a neighbouring area, large numbers of people are coming into your area.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Reclassified as general: this is scenario background, not safety guidance."
+    },
+    {
+      "id": "SLD-07-0004",
+      "page": "76",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "The population is mainly women and children, and many of the new arrivals appear to be distressed.",
+      "ne": "जनसङ्ख्यामा मुख्यतः महिला र बालबालिका छन्, र नयाँ आएका धेरै जना व्यथामा रहेका देखिन्छन्।",
+      "bt": "The population consists mainly of women and children, and many of those newly arrived appear to be in distress.",
+      "type": "safety",
+      "terms": [
+        "T461"
+      ],
+      "flags": [],
+      "note": "Uses the frozen distress candidate and preserves the observational qualification without adding a diagnosis or impaired functioning."
+    },
+    {
+      "id": "SLD-07-0005",
+      "page": "76",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "Your organization’s programme manager wants to establish some MHPSS activities to support the new arrivals.",
+      "ne": "तपाईंको संस्थाका कार्यक्रम व्यवस्थापक नयाँ आएका मानिसहरूलाई सहयोग गर्न केही MHPSS गतिविधिहरू सुरु गर्न चाहन्छन्।",
+      "bt": "Your organisation's programme manager wants to start some MHPSS activities to help the newly arrived people.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring standalone term 'programme' is not supplied in the glossary; proposed nonclinical wording: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-07-0006",
+      "page": "76",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "Instruction: To ensure you design an effective programme, you want to understand the needs, resources and priorities of the people who are arriving to the area.",
+      "ne": "निर्देशन: तपाईंले प्रभावकारी कार्यक्रम तर्जुमा गर्ने कुरा सुनिश्चित गर्न यस क्षेत्रमा आइरहेका मानिसहरूका आवश्यकता, स्रोत र प्राथमिकताहरू बुझ्न चाहनुहुन्छ।",
+      "bt": "Instructions: You want to understand the needs, resources and priorities of the people coming into this area to ensure that you design an effective program.",
+      "type": "general",
+      "terms": [
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical wording [Nepali wording recorded in terminology evidence] for the recurring standalone term 'programme'; the glossary remains unchanged. The existing wording expresses enabling preparation of an outline rather than ensuring the design of an effective programme. The revision restores the assurance and programme-design meaning."
+    },
+    {
+      "id": "SLD-07-0007",
+      "page": "76",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "What steps would you take to assess the MHPSS needs and resources of this population?",
+      "ne": "यस जनसमूहका MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्न तपाईं के-कस्ता कदम चाल्नुहुन्छ?",
+      "bt": "What steps would you take to assess the MHPSS needs and resources of this population?",
+      "type": "check",
+      "terms": [
+        "T004"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-07-0008",
+      "page": "76",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "15 min",
+      "ne": "15 मिनेट",
+      "bt": "15 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Reclassified as general: this specifies a duration, not a check."
+    },
+    {
+      "id": "SLD-07-0009",
+      "page": "77",
+      "loc": "slide-title",
+      "section": "MHPSS Needs Assessment",
+      "en": "MHPSS Assessment",
+      "ne": "MHPSS लेखाजोखा",
+      "bt": "MHPSS assessment",
+      "type": "general",
+      "terms": [
+        "T004"
+      ],
+      "flags": [],
+      "note": "Reclassified as general: this is a topic heading rather than an activity instruction."
+    },
+    {
+      "id": "SLD-07-0010",
+      "page": "77",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "Why is Activity 1.2 Assess MHPSS needs and resources included in the MSP?",
+      "ne": "MHPSS आवश्यकता र स्रोतहरूको लेखाजोखा गर्ने गतिविधि 1.2 लाई MSP मा किन समावेश गरिएको छ?",
+      "bt": "Why is activity 1.2, assessing MHPSS needs and resources, included in the MSP?",
+      "type": "check",
+      "terms": [
+        "T004",
+        "T163"
+      ],
+      "flags": [],
+      "note": "Preserves the source's shortened activity wording without adding the omitted purpose clause from the full activity label."
+    },
+    {
+      "id": "SLD-07-0011",
+      "page": "77",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "What happens if we plan our programmes without being guided by MHPSS needs assessments or situational analysis?",
+      "ne": "MHPSS आवश्यकताको लेखाजोखा वा परिस्थितिको विश्लेषणबाट मार्गदर्शन नलिई हामीले आफ्ना कार्यक्रमहरूको योजना बनायौँ भने के हुन्छ?",
+      "bt": "What happens if we plan our programmes without taking guidance from an assessment of MHPSS needs or an analysis of the situation?",
+      "type": "check",
+      "terms": [
+        "T068",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical wording [Nepali wording recorded in terminology evidence] for the recurring standalone term 'programme'; the glossary remains unchanged."
+    },
+    {
+      "id": "SLD-07-0012",
+      "page": "77",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "How would you approach doing an MHPSS needs assessment?",
+      "ne": "MHPSS आवश्यकताको लेखाजोखा गर्न तपाईं कस्तो प्रक्रिया अपनाउनुहुन्छ?",
+      "bt": "What process do you follow to assess MHPSS needs?",
+      "type": "check",
+      "terms": [
+        "T068"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-07-0013",
+      "page": "78",
+      "loc": "slide-title",
+      "section": "MHPSS Needs Assessment",
+      "en": "Prevalence assessment scenario",
+      "ne": "व्याप्तिको लेखाजोखासम्बन्धी परिदृश्य",
+      "bt": "Scenario concerning the assessment of prevalence",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T408",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the frozen candidates; the statistical specificity of the prevalence wording remains unvalidated."
+    },
+    {
+      "id": "SLD-07-0014",
+      "page": "78",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "During a meeting of the MHPSS TWG, a representative from Hope University (located in California, USA) raises their hand.",
+      "ne": "MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) को बैठकका क्रममा California, USA मा रहेको Hope University का एक प्रतिनिधिले हात उठाउँछन्।",
+      "bt": "During a meeting of the MHPSS Technical Working Group (MHPSS TWG), a representative of Hope University, located in California, USA, raises a hand.",
+      "type": "general",
+      "terms": [
+        "T268"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-07-0015",
+      "page": "78",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "They plan to conduct an assessment on the prevalence of PTSD and depression among the displaced population (sample of 1,000), starting next week.",
+      "ne": "उनीहरूले अर्को हप्तादेखि विस्थापित जनसङ्ख्यामा (1,000 को नमुना) [PTSD] र [depression] को व्याप्तिको लेखाजोखा गर्ने योजना बनाएका छन्।",
+      "bt": "They have planned to assess the prevalence of [PTSD] and [depression] in the displaced population (a sample of 1,000) starting next week.",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T408"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains PTSD and depression in exact source English and preserves the planned timing, displaced population and sample size."
+    },
+    {
+      "id": "SLD-07-0016",
+      "page": "78",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "They are recognized experts on PTSD, already obtained funding and are ready to go.",
+      "ne": "उनीहरू PTSD का विशेषज्ञका रूपमा मानिएका छन्, उनीहरूले वित्तपोषण प्राप्त गरिसकेका छन् र काम थाल्न तयार छन्।",
+      "bt": "They are regarded as experts in PTSD, they have already received funding and are ready to start work.",
+      "type": "general",
+      "terms": [
+        "T231"
+      ],
+      "flags": [],
+      "note": "PTSD is retained unchanged; only the surrounding nonclinical wording is drafted. [Nepali wording recorded in terminology evidence] can imply formal accreditation or authorization, which 'recognized experts' does not establish. The revision preserves recognition of expertise without adding credentialing."
+    },
+    {
+      "id": "SLD-07-0017",
+      "page": "78",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "As MHPSS TWG co-chair, what questions would you ask and what advice would you give?",
+      "ne": "MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) को सह-अध्यक्षका रूपमा तपाईं के-कस्ता प्रश्न सोध्नुहुन्छ र के सल्लाह दिनुहुन्छ?",
+      "bt": "As co-chair of the MHPSS Technical Working Group (MHPSS TWG), what questions would you ask and what advice would you give?",
+      "type": "check",
+      "terms": [
+        "T268"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-07-0018",
+      "page": "79",
+      "loc": "slide-title",
+      "section": "MHPSS Needs Assessment",
+      "en": "MHPSS in Needs Assessments",
+      "ne": "आवश्यकताको लेखाजोखामा MHPSS",
+      "bt": "MHPSS in needs assessment",
+      "type": "general",
+      "terms": [
+        "T068"
+      ],
+      "flags": [],
+      "note": "Reclassified as general: this is a topic heading rather than an activity instruction."
+    },
+    {
+      "id": "SLD-07-0019",
+      "page": "80",
+      "loc": "slide-title",
+      "section": "MHPSS Needs Assessment",
+      "en": "Review: Module Learning Objectives",
+      "ne": "पुनरावलोकन: मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Review: Learning objectives of the module",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-07-0020",
+      "page": "80",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "Describe the role of humanitarian actors in supporting MHPSS coordination",
+      "ne": "MHPSS समन्वयमा सहयोग गर्न मानवीय कार्यमा संलग्न पक्षहरूको भूमिका वर्णन गर्नुहोस्।",
+      "bt": "Describe the role of actors involved in humanitarian work in supporting MHPSS coordination.",
+      "type": "general",
+      "terms": [
+        "T147",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-07-0021",
+      "page": "80",
+      "loc": "slide-body",
+      "section": "MHPSS Needs Assessment",
+      "en": "Explain the importance of MHPSS needs assessment in programme planning",
+      "ne": "कार्यक्रमको योजना बनाउँदा MHPSS आवश्यकताको लेखाजोखाको महत्त्व स्पष्ट पार्नुहोस्।",
+      "bt": "Explain the importance of assessing MHPSS needs when planning a programme.",
+      "type": "general",
+      "terms": [
+        "T068",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical wording [Nepali wording recorded in terminology evidence] for the recurring standalone term 'programme'; the glossary remains unchanged."
+    }
+  ]
+}

@@ -1,0 +1,1277 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-09",
+  "unit_title": "Coordinate MHPSS within and across sectors",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "30-34",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:40:09+05:45",
+  "coverage": {
+    "source_words": 1636,
+    "row_words": 1636,
+    "skipped": [
+      "PDF p.30: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 25",
+      "PDF p.31: running footer/page number removed: 26 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.32: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 27",
+      "PDF p.33: running footer/page number removed: 28 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.34: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 29"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-09-0001",
+      "page": "30",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "SECTION 1",
+      "ne": "खण्ड 1",
+      "bt": "Section 1",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0002",
+      "page": "30",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "INTER-AGENCY COORDINATION AND ASSESSMENT FOR THE MHPSS RESPONSE",
+      "ne": "MHPSS प्रतिकार्यका लागि अन्तरनिकाय समन्वय र लेखाजोखा",
+      "bt": "Inter-agency coordination and assessment for the MHPSS response",
+      "type": "general",
+      "terms": [
+        "T161",
+        "T152",
+        "T004",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0003",
+      "page": "31",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "1.1 Coordinate MHPSS within and across sectors",
+      "ne": "1.1 क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने",
+      "bt": "1.1 Coordinate MHPSS within and across sectors",
+      "type": "activity",
+      "terms": [
+        "T092",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0004",
+      "page": "31",
+      "loc": "para",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Effective MHPSS programming requires close coordination among diverse actors across multiple sectors.25",
+      "ne": "प्रभावकारी MHPSS कार्यक्रम सञ्चालनका लागि विभिन्न क्षेत्रका विविध सम्बद्ध पक्षहरूबीच घनिष्ठ समन्वय आवश्यक हुन्छ।25",
+      "bt": "Close coordination among diverse stakeholders from different sectors is necessary to run effective MHPSS programmes.25",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T296",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0005",
+      "page": "31",
+      "loc": "para",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "A multi-sectoral MHPSS coordination mechanism, adequate to the context and number of agencies implementing MHPSS should be established.",
+      "ne": "सन्दर्भ र MHPSS कार्यान्वयन गर्ने निकायहरूको सङ्ख्याअनुरूप पर्याप्त हुने बहुक्षेत्रीय MHPSS समन्वय संयन्त्र स्थापना गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate to establish a multisectoral MHPSS coordination mechanism that is adequate for the context and the number of agencies implementing MHPSS.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T349"
+      ],
+      "flags": [],
+      "note": "The source recommends establishment with 'should'; the back-translation makes establishment mandatory with 'must'. The revision restores recommendation strength."
+    },
+    {
+      "id": "MAN-09-0006",
+      "page": "31",
+      "loc": "para",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Especially in larger emergencies where there are multiple MHPSS actors, this should be a single cross-sectoral MHPSS Technical Working Group (MHPSS TWG) which should be established early in the emergency response.",
+      "ne": "विशेषगरी एकभन्दा बढी MHPSS सम्बद्ध पक्षहरू रहेका ठूला आपत्कालीन अवस्थामा यस्तो संयन्त्र एउटै अन्तरक्षेत्रीय MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) हुनु उचित हुन्छ, जसलाई आपत्कालीन प्रतिकार्यको प्रारम्भिक चरणमा स्थापना गर्नु उचित हुन्छ।",
+      "bt": "Especially in large emergencies where there is more than one MHPSS stakeholder, it is appropriate for such a mechanism to be a single intersectoral MHPSS technical working group (MHPSS TWG), which it is appropriate to establish in the early phase of the emergency response.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T131",
+        "T050",
+        "T132",
+        "T215",
+        "T266",
+        "T268",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Cross-sectoral recurs in this batch but has no frozen glossary entry; [Nepali wording recorded in terminology evidence] is proposed for review. Both instances of 'should' become 'must'; 'early' becomes 'at the very beginning', and 'multiple' becomes 'many'. The revision restores recommendation strength, early-phase timing and multiplicity without requiring many actors. The cross-sectoral terminology remains pending technical review."
+    },
+    {
+      "id": "MAN-09-0007",
+      "page": "31",
+      "loc": "para",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "This group may be co-led by a health and a protection humanitarian organization and/or a governmental organization when feasible.26,27",
+      "ne": "सम्भव भएमा, स्वास्थ्य क्षेत्रको एक मानवीय संस्था र संरक्षण क्षेत्रको एक मानवीय संस्था र/वा सरकारी संस्थाले यस समूहको संयुक्त नेतृत्व गर्न सक्छन्।26,27",
+      "bt": "Where possible, one humanitarian organization from the health sector and one humanitarian organization from the protection sector and/or a government institution can jointly lead this group.26,27",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0008",
+      "page": "31",
+      "loc": "para",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "The MHPSS TWG should promote the coordination of MHPSS activities across both national actors (e.g. CBOs, government) and international actors (e.g. INGOs, UN agencies), provide technical input, and help to ensure consistent standards and quality within MHPSS work.",
+      "ne": "MHPSS TWG ले राष्ट्रिय सम्बद्ध पक्षहरू (जस्तै CBOs, सरकार) र अन्तर्राष्ट्रिय सम्बद्ध पक्षहरू (जस्तै INGOs, UN निकायहरू) दुवैबीच MHPSS गतिविधिहरूको समन्वय प्रवर्द्धन गर्नु, प्राविधिक योगदान दिनु र MHPSS कार्यमा मापदण्डहरू तथा गुणस्तर एकरूप राख्न मद्दत गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate for the MHPSS TWG to promote coordination of MHPSS activities among both national stakeholders (e.g. CBOs, government) and international stakeholders (e.g. INGOs, UN agencies), provide technical input and help keep standards and quality consistent in MHPSS work.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T158",
+        "T087",
+        "T349"
+      ],
+      "flags": [],
+      "note": "The recommendation becomes a mandatory duty in the back-translation. 'Technical input' is also narrowed to technical advice. The revision restores recommendation strength and the broader contribution meaning."
+    },
+    {
+      "id": "MAN-09-0009",
+      "page": "31",
+      "loc": "para",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Coordination helps to ensure that the full range of complementary MHPSS activities and services is provided in line with global guidelines.",
+      "ne": "समन्वयले विश्वव्यापी निर्देशिकाहरूअनुरूप एकअर्काका पूरक सबै प्रकारका MHPSS गतिविधिहरू र सेवाहरू उपलब्ध गराउन मद्दत गर्छ।",
+      "bt": "Coordination helps provide all types of mutually complementary MHPSS activities and services in accordance with global guidelines.",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T158",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0010",
+      "page": "31",
+      "loc": "para",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Poor MHPSS coordination (e.g. separate coordination groups for mental health and for psychosocial support, or linking MHPSS only to one sector or cluster) is associated with ineffective, inefficient, duplicative, inappropriate and potentially harmful programming.",
+      "ne": "कमजोर MHPSS समन्वय (जस्तै मानसिक स्वास्थ्य र मनोसामाजिक सहयोगका लागि छुट्टाछुट्टै समन्वय समूहहरू हुनु वा MHPSS लाई एउटा क्षेत्र वा क्लस्टरसँग मात्र जोड्नु) प्रभावहीन, स्रोतसाधनको अकुशल उपयोग हुने, दोहोरिने, अनुपयुक्त र सम्भावित रूपमा हानिकारक कार्यक्रम सञ्चालनसँग सम्बन्धित हुन्छ।",
+      "bt": "Weak MHPSS coordination (e.g. having separate coordination groups for mental health and psychosocial support or linking MHPSS to only one sector or cluster) is associated with running programmes that are ineffective, use resources inefficiently, are duplicative, inappropriate and potentially harmful.",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T128",
+        "T123",
+        "T296",
+        "T349",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the supplied unreviewed T001 and T099 candidates, not introduced as a validated standalone clinical term. General safety draft; review pending."
+    },
+    {
+      "id": "MAN-09-0011",
+      "page": "31",
+      "loc": "para",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "It may also result in specific MHPSS issues and/or geographical areas being left out.",
+      "ne": "यसका कारण MHPSS का विशिष्ट विषयहरू र/वा भौगोलिक क्षेत्रहरू पनि छुट्न सक्छन्।",
+      "bt": "This can also result in specific MHPSS topics and/or geographical areas being left out.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0012",
+      "page": "31",
+      "loc": "footnote",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "25 The IASC Handbook of MHPSS Coordination aims to establish a consensus-based approach to guiding the work of MHPSS TWGs working at country level. The handbook includes several functions for MHPSS coordination, including 1. (Re)establishing and maintaining a technical working group, 2. Information management, 3. Establishing links between stakeholders, 4. Building capacity, knowledge exchange and peer support, 5. Monitoring and evaluation, 6. Promoting long-term sustainability, 7. MHPSS advocacy.",
+      "ne": "25 IASC Handbook of MHPSS Coordination को उद्देश्य देशस्तरमा कार्यरत MHPSS TWGs को कामलाई दिशा दिन सहमतिमा आधारित दृष्टिकोण स्थापित गर्नु हो। यस पुस्तिकामा MHPSS समन्वयका विभिन्न कार्यहरू समावेश छन्: 1. प्राविधिक कार्यसमूह स्थापना वा पुनःस्थापना गर्ने र त्यसलाई कायम राख्ने, 2. सूचना व्यवस्थापन, 3. सरोकारवालाहरूबीच सम्बन्ध स्थापित गर्ने, 4. क्षमता विकास, ज्ञान आदानप्रदान र सहकर्मी सहयोग, 5. अनुगमन तथा मूल्याङ्कन (M&E), 6. दीर्घकालीन दिगोपन प्रवर्द्धन गर्ने, 7. MHPSS का लागि पैरवी गर्ने।",
+      "bt": "25 The purpose of the IASC Handbook of MHPSS Coordination is to establish a consensus-based approach to guide the work of MHPSS TWGs working at country level. This handbook includes various functions of MHPSS coordination: 1. Establishing or re-establishing and maintaining a technical working group, 2. Information management, 3. Establishing relationships among stakeholders, 4. Capacity development, knowledge exchange and peer support, 5. Monitoring and evaluation (M&E), 6. Promoting long-term sustainability, 7. Advocating for MHPSS.",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T182",
+        "T046",
+        "T191",
+        "T243",
+        "T271",
+        "T279",
+        "T349",
+        "T372"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The publication title is retained in English. Information management, capacity building and peer support recur without frozen glossary entries; proposed forms are listed for review."
+    },
+    {
+      "id": "MAN-09-0013",
+      "page": "31",
+      "loc": "footnote",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "26 Sphere (2018). The Sphere Handbook.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the citation exactly: 26 Sphere (2018). The Sphere Handbook."
+    },
+    {
+      "id": "MAN-09-0014",
+      "page": "31",
+      "loc": "footnote",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "27 Summary Record, IASC Principals meeting, 5 December 2019.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the citation exactly: 27 Summary Record, IASC Principals meeting, 5 December 2019."
+    },
+    {
+      "id": "MAN-09-0015",
+      "page": "32",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0016",
+      "page": "32",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Coordinate MHPSS within and across sectors",
+      "ne": "क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS समन्वय गर्ने",
+      "bt": "Coordinate MHPSS within and across sectors",
+      "type": "activity",
+      "terms": [
+        "T092",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0017",
+      "page": "32",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key tasks",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0018",
+      "page": "32",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "1. (Re)establishing and maintaining a technical working group28",
+      "ne": "1. प्राविधिक कार्यसमूह स्थापना वा पुनःस्थापना गर्ने र त्यसलाई कायम राख्ने28",
+      "bt": "1. Establishing or re-establishing and maintaining a technical working group28",
+      "type": "general",
+      "terms": [
+        "T050"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0019",
+      "page": "32",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Establish a single cross-sectoral MHPSS Technical Working Group (TWG) and, if needed, subnational TWGs.29",
+      "ne": "एउटै अन्तरक्षेत्रीय MHPSS प्राविधिक कार्यसमूह (TWG) स्थापना गर्नुहोस् र आवश्यक भएमा राष्ट्रिय स्तरभन्दा तलका TWGs पनि स्थापना गर्नुहोस्।29",
+      "bt": "Establish a single intersectoral MHPSS technical working group (TWG) and, if necessary, also establish TWGs below the national level.29",
+      "type": "check",
+      "terms": [
+        "T050",
+        "T215",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Cross-sectoral has no frozen glossary entry; [Nepali wording recorded in terminology evidence] is proposed for review. Both the single cross-sectoral group and the conditional subnational groups are retained."
+    },
+    {
+      "id": "MAN-09-0020",
+      "page": "32",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Facilitate coordination between different actors to avoid duplication, address obstacles and fill gaps in the response based on the MHPSS MSP and relevant assessments.",
+      "ne": "MHPSS MSP र सान्दर्भिक लेखाजोखाका आधारमा प्रतिकार्यमा दोहोरोपनबाट बच्न, अवरोधहरू सम्बोधन गर्न र अपुग पक्षहरू पूरा गर्न विभिन्न सम्बद्ध पक्षहरूबीच समन्वय सहजीकरण गर्नुहोस्।",
+      "bt": "Facilitate coordination among different stakeholders to avoid duplication in the response, address barriers and fill gaps based on the MHPSS MSP and relevant assessments.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T004",
+        "T174",
+        "T114",
+        "T349",
+        "T360",
+        "T364"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0021",
+      "page": "32",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Facilitate a dialogue between government and humanitarian actors to establish MHPSS-specific roles and responsibilities in the emergency response (e.g. government, INGOs, NGOs, CBOs and other key partners in Health, Protection, Education, Nutrition, CCCM, Shelter and other sectors).",
+      "ne": "आपत्कालीन प्रतिकार्यमा MHPSS सम्बन्धी विशिष्ट भूमिका र जिम्मेवारीहरू निर्धारण गर्न सरकार र मानवीय कार्यमा संलग्न पक्षहरूबीच संवाद सहजीकरण गर्नुहोस् (जस्तै स्वास्थ्य, संरक्षण, शिक्षा, पोषण, CCCM, आश्रय र अन्य क्षेत्रहरूमा सरकार, INGOs, NGOs, CBOs र अन्य प्रमुख साझेदारहरू)।",
+      "bt": "Facilitate dialogue between the government and actors involved in humanitarian work to determine specific roles and responsibilities concerning MHPSS in the emergency response (e.g. government, INGOs, NGOs, CBOs and other key partners in health, protection, education, nutrition, CCCM, shelter and other sectors).",
+      "type": "general",
+      "terms": [
+        "T132",
+        "T147",
+        "T027",
+        "T029",
+        "T028",
+        "T030",
+        "T296",
+        "T300",
+        "T364"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0022",
+      "page": "32",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "2. Information management",
+      "ne": "2. सूचना व्यवस्थापन",
+      "bt": "2. Information management",
+      "type": "general",
+      "terms": [
+        "T243"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Information management recurs without a frozen glossary entry; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is proposed for review."
+    },
+    {
+      "id": "MAN-09-0023",
+      "page": "32",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Support MHPSS needs assessments and the inclusion of MHPSS in the needs assessments and ongoing monitoring of relevant sectors to inform response planning (e.g. Humanitarian Needs Overviews, Humanitarian and Refugee Response Plans). Maintain a joint depository of existing needs assessments or studies related to the country and/or affected population.",
+      "ne": "प्रतिकार्यको योजना बनाउन जानकारी उपलब्ध गराउन MHPSS सम्बन्धी आवश्यकताको लेखाजोखा गर्न तथा सान्दर्भिक क्षेत्रहरूको आवश्यकताको लेखाजोखा र नियमित रूपमा भइरहेको अनुगमनमा MHPSS समावेश गर्न सहयोग गर्नुहोस् (जस्तै मानवीय आवश्यकताका समग्र विवरणहरू, मानवीय प्रतिकार्य र शरणार्थी प्रतिकार्यका योजनाहरू)। देश र/वा प्रभावित जनसङ्ख्यासँग सम्बन्धित विद्यमान आवश्यकताको लेखाजोखा वा अध्ययनहरूको साझा भण्डार कायम राख्नुहोस्।",
+      "bt": "Support the assessment of MHPSS-related needs and the inclusion of MHPSS in needs assessments and ongoing regular monitoring in relevant sectors to provide information for planning the response (e.g. humanitarian needs overviews, humanitarian response and refugee response plans). Maintain a shared repository of existing needs assessments or studies relating to the country and/or affected population.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T068",
+        "T271",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0024",
+      "page": "32",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Conduct, maintain and distribute a comprehensive mapping of MHPSS actors, services and activities (e.g. 4Ws MHPSS service mapping, MSP Gap Analyses). Review gaps in services at regular intervals to inform planning.",
+      "ne": "MHPSS सम्बद्ध पक्षहरू, सेवाहरू र गतिविधिहरू सबै समेट्ने नक्साङ्कन गर्नुहोस्, त्यसलाई अद्यावधिक राख्नुहोस् र वितरण गर्नुहोस् (जस्तै 4Ws MHPSS सेवा नक्साङ्कन, MSP Gap Analyses)। योजना बनाउन जानकारी उपलब्ध गराउन सेवाहरूमा अपुग पक्षहरूको नियमित अन्तरालमा समीक्षा गर्नुहोस्।",
+      "bt": "Conduct mapping that includes all MHPSS stakeholders, services and activities, keep it updated and distribute it (e.g. 4Ws MHPSS service mapping, MSP Gap Analyses). Review gaps in services at regular intervals to provide information for planning.",
+      "type": "check",
+      "terms": [
+        "T114",
+        "T163",
+        "T260",
+        "T266"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Mapping recurs within this row without a frozen glossary entry; [Nepali wording recorded in terminology evidence] is proposed for review. The identifiers 4Ws and MSP are retained. 'Detailed' does not preserve the coverage requirement in 'comprehensive'. 'MSP Gap Analyses' is recast as analysis of gaps in the MSP itself. The revision restores comprehensive coverage and retains the English technical label without interpreting its scope; that label remains pending technical review."
+    },
+    {
+      "id": "MAN-09-0025",
+      "page": "32",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Regularly share information among humanitarian MHPSS and other actors (e.g. assessment reports, service directories and collated information in designated groups on mhpss.net).",
+      "ne": "मानवीय कार्यमा संलग्न MHPSS सम्बन्धी र अन्य सम्बद्ध पक्षहरूबीच नियमित रूपमा जानकारी आदानप्रदान गर्नुहोस् (जस्तै लेखाजोखा प्रतिवेदनहरू, सेवाहरूका निर्देशिकाहरू र mhpss.net का तोकिएका समूहहरूमा सङ्कलित जानकारी)।",
+      "bt": "Regularly exchange information among MHPSS-related and other stakeholders involved in humanitarian work (e.g. assessment reports, directories of services and information collected in designated groups on mhpss.net).",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T004"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0026",
+      "page": "32",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Develop, strengthen, update and implement joint referral pathways (e.g. a directory of services and referral information, common referral forms and pathways, standard operating procedures; SOPs) to facilitate access to the full range of MHPSS services and activities and to additional support as needed (e.g. protection including CP and GBV, health, education, food security and livelihoods, and community-based support). Referral pathways should support a survivor-centred approach and, where a child is concerned, the best interest of the child.",
+      "ne": "MHPSS का सम्पूर्ण सेवा तथा गतिविधिहरू र आवश्यकताअनुसार थप सहयोगमा पहुँच सहज बनाउन संयुक्त सेवा प्रेषण मार्गहरू तयार गर्नुहोस्, सुदृढ बनाउनुहोस्, अद्यावधिक गर्नुहोस् र कार्यान्वयन गर्नुहोस् (जस्तै सेवाहरूको निर्देशिका र सेवा प्रेषणसम्बन्धी जानकारी, सेवा प्रेषणका साझा फारामहरू र मार्गहरू, मानक कार्यसञ्चालन प्रक्रियाहरू; SOPs)। थप सहयोगमा, उदाहरणका लागि, CP र GBV सहितको संरक्षण, स्वास्थ्य, शिक्षा, खाद्य सुरक्षा तथा जीविकोपार्जन, र समुदायमा आधारित सहयोग पर्छन्। सेवा प्रेषण मार्गहरूले हिंसाबाट प्रभावित व्यक्तिलाई केन्द्रमा राख्ने दृष्टिकोणलाई र कुनै बालक वा बालिकासँग सरोकार भएको अवस्थामा सम्बन्धित बालबालिकाको सर्वोत्तम हितलाई समर्थन गर्नु उचित हुन्छ।",
+      "bt": "Prepare, strengthen, update and implement joint service referral pathways to facilitate access to all MHPSS services and activities and to additional support as needed (for example, a directory of services and information on service referral, shared service referral forms and pathways, standard operating procedures; SOPs). Additional support includes, for example, protection including CP and GBV, health, education, food security and livelihoods, and community-based support. It is appropriate for service referral pathways to support an approach that places the person affected by violence at the centre and, where a boy or girl is concerned, the best interests of the children concerned.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T028",
+        "T029",
+        "T034",
+        "T049",
+        "T063",
+        "T197",
+        "T315",
+        "T344",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor-centred candidate explicitly centres a person affected by violence, whereas the source does not restrict survivors to violence; the recommendation strength and reference to the particular child are retained. bt-divergence: The frozen survivor-centred form specifies a person affected by violence, whereas the source does not restrict survivors to violence. 'Affected' can also include indirectly affected people rather than only people who directly experienced and survived the event. The frozen form is retained."
+    },
+    {
+      "id": "MAN-09-0027",
+      "page": "32",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "3. Establishing links between stakeholders",
+      "ne": "3. सरोकारवालाहरूबीच सम्बन्ध स्थापित गर्ने",
+      "bt": "3. Establishing relationships among stakeholders",
+      "type": "general",
+      "terms": [
+        "T182"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0028",
+      "page": "32",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Coordinate with all relevant sectors, clusters and coordination groups (e.g. Health, Education, CCCM, Shelter, WASH, Nutrition, Protection including AORs (e.g. CP, GBV, Mine Action, Housing, Land and Property (HLP), and the disabilities TWG); with civil society (e.g. CBOs, CSOs); with faith-based actors or spiritual leaders; and with government actors (e.g. ministries of health, social welfare, education). This includes ensuring mutual representation, participation, and contribution at coordination meetings.",
+      "ne": "सबै सान्दर्भिक क्षेत्र, क्लस्टर र समन्वय समूहहरूसँग (जस्तै स्वास्थ्य, शिक्षा, CCCM, आश्रय, खानेपानी, सरसफाइ तथा स्वच्छता (WASH), पोषण, AORs सहितको संरक्षण (जस्तै CP, GBV, बारुदी सुरुङ सम्बन्धी कार्य, आवास, भूमि तथा सम्पत्ति (HLP), र अपाङ्गतासम्बन्धी TWG); नागरिक समाजसँग (जस्तै CBOs, CSOs); आस्थामा आधारित सम्बद्ध पक्षहरू वा आध्यात्मिक नेतृत्वकर्ताहरूसँग; र सरकारी सम्बद्ध पक्षहरूसँग (जस्तै स्वास्थ्य, समाज कल्याण र शिक्षा मन्त्रालयहरू) समन्वय गर्नुहोस्। यसमा समन्वय बैठकहरूमा पारस्परिक प्रतिनिधित्व, सहभागिता र योगदान सुनिश्चित गर्ने कार्य समावेश हुन्छ।",
+      "bt": "Coordinate with all relevant sectors, clusters and coordination groups (for example, health, education, CCCM, shelter, water, sanitation and hygiene (WASH), nutrition, protection including AORs (for example, CP, GBV, work related to landmines, housing, land and property (HLP), and the disability-related TWG); with civil society (for example, CBOs, CSOs); with faith-based stakeholders or spiritual leaders; and with government stakeholders (for example, ministries of health, social welfare and education). This includes ensuring mutual representation, participation and contribution in coordination meetings.",
+      "type": "safety",
+      "terms": [
+        "T011",
+        "T027",
+        "T028",
+        "T029",
+        "T030",
+        "T035",
+        "T056",
+        "T066",
+        "T114",
+        "T124",
+        "T128",
+        "T186",
+        "T296",
+        "T300",
+        "T349"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source has unbalanced parentheses and leaves the grouping of the AOR examples and the disabilities TWG unresolved; the draft retains that unresolved grouping rather than independently determining membership."
+    },
+    {
+      "id": "MAN-09-0029",
+      "page": "32",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "4. Building capacity, knowledge exchange and peer support",
+      "ne": "4. क्षमता विकास, ज्ञान आदानप्रदान र सहकर्मी सहयोग",
+      "bt": "4. Capacity development, knowledge exchange and peer support",
+      "type": "general",
+      "terms": [
+        "T279"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Capacity building and peer support recur without frozen glossary entries; [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] are proposed for review."
+    },
+    {
+      "id": "MAN-09-0030",
+      "page": "32",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Disseminate and adapt MHPSS guidance (e.g. IASC resources) and conduct rapid orientations on this guidance for coordination groups and for agencies funding, planning or implementing MHPSS activities across sectors.",
+      "ne": "MHPSS सम्बन्धी मार्गदर्शन (जस्तै IASC स्रोतसामग्री) प्रसार गर्नुहोस् र सन्दर्भअनुकूल बनाउनुहोस् तथा विभिन्न क्षेत्रहरूमा MHPSS गतिविधिहरूका लागि आर्थिक स्रोत उपलब्ध गराउने, योजना बनाउने वा कार्यान्वयन गर्ने निकायहरू र समन्वय समूहहरूका लागि यस मार्गदर्शनबारे छोटो अवधिको अभिमुखीकरण सञ्चालन गर्नुहोस्।",
+      "bt": "Disseminate and adapt MHPSS-related guidance (e.g. IASC resource materials) to the context, and conduct short orientations on this guidance for agencies and coordination groups that provide financial resources for, plan or implement MHPSS activities in different sectors.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T128",
+        "T014",
+        "T296",
+        "T349",
+        "T416"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0031",
+      "page": "32",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "5. Monitoring and evaluation",
+      "ne": "5. अनुगमन तथा मूल्याङ्कन (M&E)",
+      "bt": "5. Monitoring and evaluation (M&E)",
+      "type": "general",
+      "terms": [
+        "T046",
+        "T271"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0032",
+      "page": "32",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Support the reporting of MHPSS activities and indicators. This includes defining MHPSS M&E indicators for humanitarian information systems (e.g. inter-agency/cluster reporting systems) and orienting agencies on how to use these systems.",
+      "ne": "MHPSS गतिविधिहरू र सूचकहरूको प्रतिवेदन तयार गर्न सहयोग गर्नुहोस्। यसमा मानवीय सूचना प्रणालीहरूका लागि MHPSS अनुगमन तथा मूल्याङ्कन (M&E) सूचकहरू परिभाषित गर्ने (जस्तै अन्तरनिकाय/क्लस्टर प्रतिवेदन प्रणालीहरू) र यी प्रणालीहरू कसरी प्रयोग गर्ने भन्नेबारे निकायहरूलाई अभिमुखीकरण गर्ने कार्य समावेश हुन्छ।",
+      "bt": "Support the preparation of reports on MHPSS activities and indicators. This includes defining MHPSS monitoring and evaluation (M&E) indicators for humanitarian information systems (e.g. inter-agency/cluster reporting systems) and orienting agencies on how to use these systems.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T046",
+        "T123",
+        "T014",
+        "T394"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0033",
+      "page": "32",
+      "loc": "footnote",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "28 These subheadings correspond to the coordination functions of MHPSS TWGs outlined in the Handbook of MHPSS Coordination.",
+      "ne": "28 यी उपशीर्षकहरू Handbook of MHPSS Coordination मा उल्लेख गरिएका MHPSS का प्राविधिक कार्यसमूह (TWGs) का समन्वयसम्बन्धी कार्यहरूसँग मेल खान्छन्।",
+      "bt": "28 These subheadings correspond to the coordination-related tasks of MHPSS technical working groups (TWGs) mentioned in the Handbook of MHPSS Coordination.",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T349"
+      ],
+      "flags": [],
+      "note": "The handbook title is retained in English as a bibliographic identifier."
+    },
+    {
+      "id": "MAN-09-0034",
+      "page": "32",
+      "loc": "footnote",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "29 To avoid fragmentation and duplication, it is important that only one MHPSS coordination group is operational. Where separate coordination groups exist (e.g. a “mental health” coordination group and a “psychosocial support” coordination group), they should be joined or merged into one overarching group to coordinate the MHPSS response as a whole. See the IASC (2007). Guidelines on MHPSS in Emergency Settings; Summary Record, IASC Principals meeting, 5 December 2019; Sphere (2018). The Sphere Handbook 2018; and Global Protection Cluster (2020). MHPSS and protection outcomes.",
+      "ne": "29 खण्डीकरण र दोहोरोपन हुन नदिन MHPSS को एउटा मात्र समन्वय समूह सञ्चालनमा हुनु महत्त्वपूर्ण छ। छुट्टाछुट्टै समन्वय समूहहरू रहेका ठाउँमा (जस्तै, एउटा “मानसिक स्वास्थ्य” समन्वय समूह र एउटा “मनोसामाजिक सहयोग” समन्वय समूह), समग्र MHPSS प्रतिकार्यको समन्वय गर्न तिनलाई जोडेर वा गाभेर एउटै समग्र समूह बनाउनु उचित हुन्छ। हेर्नुहोस्: IASC (2007). Guidelines on MHPSS in Emergency Settings; Summary Record, IASC Principals meeting, 5 December 2019; Sphere (2018). The Sphere Handbook 2018; र Global Protection Cluster (2020). MHPSS and protection outcomes।",
+      "bt": "29 It is important for only one MHPSS coordination group to be operating to prevent fragmentation and duplication. Where separate coordination groups exist (for example, one “mental health” coordination group and one “psychosocial support” coordination group), it is appropriate to link or merge them to form a single overall group to coordinate the overall MHPSS response. See: IASC (2007). Guidelines on MHPSS in Emergency Settings; Summary Record, IASC Principals meeting, 5 December 2019; Sphere (2018). The Sphere Handbook 2018; and Global Protection Cluster (2020). MHPSS and protection outcomes.",
+      "type": "general",
+      "terms": [
+        "T127",
+        "T128",
+        "T157",
+        "T161",
+        "T349",
+        "T360",
+        "T410"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Bibliographic references are retained in English. The psychosocial-support wording is reused from the supplied unreviewed activity 3.2 candidate. The source recommends that separate groups should be joined or merged; the translation strengthens this to must. It also restricts fragmentation and duplication to tasks, whereas the source leaves their scope unrestricted. The recommendation that separate coordination groups should be joined or merged is weakened to saying that doing so is appropriate."
+    },
+    {
+      "id": "MAN-09-0035",
+      "page": "33",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "6. Promoting long-term sustainability",
+      "ne": "6. दीर्घकालीन दिगोपन प्रवर्द्धन गर्ने",
+      "bt": "6. Promoting long-term sustainability",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0036",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Support the development of sustainable mental health, social care, education, livelihoods support and protection systems as part of early recovery planning and during protracted crises. Link MHPSS emergency activities with comprehensive and complementary development activities in coordination with donors and government actors (e.g. supporting long-term planning with government and national actors, workforce development activities, demonstration projects showing system reform across a geographical area).",
+      "ne": "प्रारम्भिक पुनर्लाभको योजना बनाउँदा र लम्बिँदै गएका सङ्कटको समयमा मानसिक स्वास्थ्य, सामाजिक हेरचाह, शिक्षा, जीविकोपार्जन सहयोग र संरक्षणका दिगो प्रणाली विकास गर्न सहयोग गर्नुहोस्। दातृ निकाय र सरकारी सम्बद्ध पक्षहरूसँग समन्वय गरी MHPSS का आपत्कालीन गतिविधिहरूलाई व्यापक र एकअर्काका पूरक विकास गतिविधिहरूसँग जोड्नुहोस् (जस्तै, सरकार र राष्ट्रिय सम्बद्ध पक्षहरूसँग दीर्घकालीन योजना बनाउन सहयोग गर्ने, जनशक्ति विकासका गतिविधिहरू सञ्चालन गर्ने, कुनै भौगोलिक क्षेत्रभरि प्रणाली सुधार देखाउने प्रदर्शन परियोजनाहरू सञ्चालन गर्ने)।",
+      "bt": "Support the development of sustainable systems for mental health, social care, education, livelihood support and protection when planning early recovery and during prolonged crises. Coordinate with donor agencies and government counterparts to link emergency MHPSS activities with broader and mutually complementary development activities (for example, supporting long-term planning with government and national counterparts, conducting workforce development activities, conducting demonstration projects showing system improvements throughout a geographical area).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T028",
+        "T155",
+        "T029",
+        "T023",
+        "T114",
+        "T349"
+      ],
+      "flags": [],
+      "note": "Recovery refers to humanitarian recovery planning, not clinical recovery."
+    },
+    {
+      "id": "MAN-09-0037",
+      "page": "33",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "7. MHPSS advocacy",
+      "ne": "7. MHPSS का लागि पैरवी",
+      "bt": "7. Advocacy for MHPSS",
+      "type": "general",
+      "terms": [
+        "T191"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical term: advocacy = [Nepali wording recorded in terminology evidence]; the frozen glossary is unchanged."
+    },
+    {
+      "id": "MAN-09-0038",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Support and coordinate the development and dissemination of MHPSS advocacy materials and key messages (see MSP activities 3.1 and 3.3).",
+      "ne": "MHPSS का लागि पैरवी सामग्री र मुख्य सन्देशहरू तयार गर्न तथा प्रसार गर्न सहयोग र समन्वय गर्नुहोस् (MSP गतिविधि 3.1 र 3.3 हेर्नुहोस्)।",
+      "bt": "Support and coordinate the preparation and dissemination of advocacy materials and key messages for MHPSS (see MSP activities 3.1 and 3.3).",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T191",
+        "T253"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term [Nepali wording recorded in terminology evidence] for advocacy."
+    },
+    {
+      "id": "MAN-09-0039",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Advocate for the inclusion of MHPSS in funding and resource allocation across multiple sectors (e.g. targeting donors, funding mechanisms).",
+      "ne": "विभिन्न क्षेत्रहरूमा वित्तीय सहयोग र स्रोत विनियोजन गर्दा MHPSS समावेश गर्न पैरवी गर्नुहोस् (जस्तै, दातृ निकाय र वित्तीय सहयोगका संयन्त्रहरूलाई लक्षित गरेर)।",
+      "bt": "Advocate for the inclusion of MHPSS when allocating financial support and resources across different sectors (for example, by targeting donor agencies and financial support mechanisms).",
+      "type": "general",
+      "terms": [
+        "T023",
+        "T296",
+        "T332"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term [Nepali wording recorded in terminology evidence] for advocacy; both funding and resource allocation are retained."
+    },
+    {
+      "id": "MAN-09-0040",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Advocate for MHPSS considerations for adults and children in different sectors and by different actors (e.g. delivering humanitarian aid in a way that reduces distress and promotes dignity, including MHPSS in referral pathways developed by other sectors; see MSP activity 3.1).",
+      "ne": "विभिन्न क्षेत्रहरूमा र विभिन्न सम्बद्ध पक्षहरूद्वारा वयस्क तथा बालबालिकाका लागि MHPSS सम्बन्धी पक्षहरू विचार गरियोस् भनी पैरवी गर्नुहोस् (जस्तै व्यथा घटाउने र मर्यादा प्रवर्द्धन गर्ने तरिकाले मानवीय सहायता प्रदान गर्ने, अन्य क्षेत्रहरूले विकास गरेका सेवा प्रेषण मार्गहरूमा MHPSS समावेश गर्ने; MSP गतिविधि 3.1 हेर्नुहोस्)।",
+      "bt": "Advocate for MHPSS-related aspects for adults and children to be considered across different sectors and by different stakeholders (for example, providing humanitarian assistance in ways that reduce distress and promote dignity, including MHPSS in service referral pathways developed by other sectors; see MSP activity 3.1).",
+      "type": "safety",
+      "terms": [
+        "T063",
+        "T091",
+        "T114",
+        "T163",
+        "T296",
+        "T332",
+        "T376",
+        "T461"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft retains advocacy for both adults and children and uses the supplied distress candidate without treating distress as a diagnosis."
+    },
+    {
+      "id": "MAN-09-0041",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Make MHPSS a recurring agenda item at inter-agency meetings (e.g. UN country meetings, inter-agency coordination meetings and multisector refugee coordination meetings) and forums to help ensure an intersectoral response and support for MHPSS priorities.",
+      "ne": "क्षेत्रहरूबीच समन्वित प्रतिकार्य र MHPSS का प्राथमिकताहरूका लागि सहयोग सुनिश्चित गर्न मद्दत पुर्‍याउन अन्तरनिकाय बैठकहरू (जस्तै, UN का देशस्तरीय बैठकहरू, अन्तरनिकाय समन्वय बैठकहरू र शरणार्थीसम्बन्धी बहुक्षेत्रीय समन्वय बैठकहरू) तथा मञ्चहरूमा MHPSS लाई नियमित कार्यसूचीको विषय बनाउनुहोस्।",
+      "bt": "Make MHPSS a regular agenda item in inter-agency meetings (for example, UN country-level meetings, inter-agency coordination meetings and multisectoral coordination meetings concerning refugees) and forums to help ensure a coordinated response across sectors and support for MHPSS priorities.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T152",
+        "T066",
+        "T296",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0042",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूमा निर्भर रहने)",
+      "bt": "Additional tasks provided for consideration (depending on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0043",
+      "page": "33",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "1. (Re)establishing and maintaining a technical working group",
+      "ne": "1. प्राविधिक कार्यसमूह स्थापना वा पुनःस्थापना गर्ने र कायम राख्ने",
+      "bt": "1. Establishing or re-establishing and maintaining a technical working group",
+      "type": "general",
+      "terms": [
+        "T050"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0044",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Establish (further) subnational MHPSS TWGs if needed (e.g. when the humanitarian response spans multiple regions/districts).",
+      "ne": "आवश्यक भएमा राष्ट्रिय तहभन्दा तल्लो तहमा (थप) MHPSS TWGs स्थापना गर्नुहोस् (जस्तै, मानवीय प्रतिकार्य एकाधिक क्षेत्र/जिल्लाहरूमा फैलिएको अवस्थामा)।",
+      "bt": "If necessary, establish (additional) MHPSS TWGs at levels below the national level (for example, when the humanitarian response extends across multiple regions/districts).",
+      "type": "general",
+      "terms": [
+        "T003"
+      ],
+      "flags": [],
+      "note": "Subnational is expressed without introducing country-specific administrative structures. The source says multiple regions/districts, not necessarily many. The revision removes the implication that a large number of regions/districts is involved."
+    },
+    {
+      "id": "MAN-09-0045",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Establish multidisciplinary taskforces to work on urgent context-specific issues that are not being addressed elsewhere (e.g. addressing an upsurge in suicide, MHPSS for older people, MHPSS for children associated with armed forces and groups, perinatal mental health, etc.).",
+      "ne": "अन्यत्र सम्बोधन नभइरहेका, सन्दर्भविशेषका तत्काल ध्यान दिनुपर्ने विषयहरूमा काम गर्न बहुविषयक कार्यदलहरू स्थापना गर्नुहोस् (जस्तै आत्महत्याका घटनामा तीव्र वृद्धिलाई सम्बोधन गर्ने, ज्येष्ठ व्यक्तिहरूका लागि MHPSS, सशस्त्र बल तथा समूहहरूसँग सम्बद्ध बालबालिकाका लागि MHPSS, प्रसवअघिपछिको मानसिक स्वास्थ्य आदि)।",
+      "bt": "Establish multidisciplinary working groups to work on context-specific issues requiring immediate attention that are not being addressed elsewhere (for example, addressing a sharp increase in incidents of suicide, MHPSS for older people, MHPSS for children associated with armed forces and groups, mental health before and after childbirth, etc.).",
+      "type": "safety",
+      "terms": [
+        "T074",
+        "T157"
+      ],
+      "flags": [],
+      "note": "The draft retains the restriction to urgent context-specific issues not addressed elsewhere and translates suicide and perinatal mental health as clinical concepts rather than named diagnoses."
+    },
+    {
+      "id": "MAN-09-0046",
+      "page": "33",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "3. Establishing links between stakeholders",
+      "ne": "3. सरोकारवालाहरूबीच सम्बन्ध स्थापित गर्ने",
+      "bt": "3. Establishing relationships among stakeholders",
+      "type": "general",
+      "terms": [
+        "T182"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0047",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Develop joint workplans for MHPSS within MHPSS TWGs, linking and supporting collaboration in activities within and across sectors and organizations.",
+      "ne": "क्षेत्र तथा संस्थाभित्र र तिनका बीचका गतिविधिहरूलाई आपसमा जोड्दै र ती गतिविधिहरूमा सहकार्यलाई सहयोग गर्दै MHPSS TWGs भित्र MHPSS का लागि संयुक्त कार्ययोजनाहरू तयार गर्नुहोस्।",
+      "bt": "Prepare joint action plans for MHPSS within MHPSS TWGs, linking activities within and between sectors and organizations and supporting collaboration in those activities.",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": "The back-translation substitutes emphasizing collaboration for linking activities and supporting collaboration. The revision makes the connections between activities explicit and ties them to development of the joint workplans."
+    },
+    {
+      "id": "MAN-09-0048",
+      "page": "33",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "4. Building capacity, knowledge exchange and peer support",
+      "ne": "4. क्षमता विकास, ज्ञान आदानप्रदान र समकक्षी सहयोग",
+      "bt": "4. Capacity development, knowledge exchange and peer support",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0049",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Orient additional coordination groups across diverse sectors or AoRs to identify how their respective sectors contribute to MHPSS outcomes and how MHPSS activities can contribute to outcomes in other sectors, and to identify opportunities for effective integrated programming.",
+      "ne": "विभिन्न क्षेत्र वा AoRs का थप समन्वय समूहहरूलाई अभिमुखीकरण गर्नुहोस्, ताकि तिनले आ-आफ्ना क्षेत्रले MHPSS का नतिजामा कसरी योगदान गर्छन् र MHPSS गतिविधिहरूले अन्य क्षेत्रका नतिजामा कसरी योगदान गर्न सक्छन् भन्ने पहिचान गर्न सकून्, साथै प्रभावकारी एकीकृत कार्यक्रम सञ्चालनका अवसरहरू पहिचान गर्न सकून्।",
+      "bt": "Orient additional coordination groups from different sectors or AoRs so that they can identify how their respective sectors contribute to MHPSS outcomes and how MHPSS activities can contribute to the outcomes of other sectors, as well as identify opportunities for carrying out effective integrated programmes.",
+      "type": "general",
+      "terms": [
+        "T128",
+        "T158",
+        "T296",
+        "T349"
+      ],
+      "flags": [],
+      "note": "AoRs is retained without an unsupported expansion."
+    },
+    {
+      "id": "MAN-09-0050",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Develop and maintain a register of national expert trainers and supervisors for MHPSS curricula (e.g. basic psychosocial skills, mhGAP-HIG, psychological interventions, social and emotional learning (SEL), positive parenting packages).",
+      "ne": "MHPSS का पाठ्यक्रमहरूका लागि राष्ट्रिय विज्ञ प्रशिक्षकहरू र सुपरिवेक्षकहरूको दर्ता अभिलेख तयार गरी कायम राख्नुहोस् (जस्तै आधारभूत मनोसामाजिक सीपहरू, [mhGAP-HIG], मनोवैज्ञानिक हस्तक्षेप, सामाजिक तथा भावनात्मक सिकाइ (SEL), सकारात्मक अभिभावकत्वसम्बन्धी प्याकेजहरू)।",
+      "bt": "Prepare and maintain a register of national expert trainers and supervisors for MHPSS courses (for example, basic psychosocial skills, [mhGAP-HIG], psychological interventions, social and emotional learning (SEL), packages related to positive parenting).",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T303",
+        "T310",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The source mhGAP acronym is retained exactly in brackets, and basic psychosocial skills is not expanded to basic psychosocial support skills."
+    },
+    {
+      "id": "MAN-09-0051",
+      "page": "33",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "6. Promoting long-term sustainability",
+      "ne": "6. दीर्घकालीन दिगोपन प्रवर्द्धन गर्ने",
+      "bt": "6. Promoting long-term sustainability",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0052",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Advocate for local and national policies and interventions to reflect international good practice guidelines for MHPSS, and support government actors in designing, implementing or strengthening services.",
+      "ne": "स्थानीय र राष्ट्रिय नीति तथा हस्तक्षेपहरूमा MHPSS सम्बन्धी असल अभ्यासका अन्तर्राष्ट्रिय निर्देशिकाहरू प्रतिबिम्बित गराउन पैरवी गर्नुहोस् र सेवाहरूको डिजाइन, कार्यान्वयन वा सुदृढीकरण गर्न सरकारी सम्बद्ध पक्षहरूलाई सहयोग गर्नुहोस्।",
+      "bt": "Advocate for international guidelines on good practice relating to MHPSS to be reflected in local and national policies and interventions, and support government counterparts in designing, implementing or strengthening services.",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T114",
+        "T332"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term [Nepali wording recorded in terminology evidence] for advocacy. Interventions here are general policy and service interventions, not a named clinical treatment."
+    },
+    {
+      "id": "MAN-09-0053",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Support the building of national-level capacity for the continuation of coordination by supporting or developing sustainable coordination structures, including government and civil society stakeholders.",
+      "ne": "सरकार र नागरिक समाजका सरोकारवालाहरूलाई समेत समेट्ने दिगो समन्वय संरचनालाई सहयोग गरेर वा त्यस्ता संरचना विकास गरेर समन्वयलाई निरन्तरता दिन राष्ट्रिय तहको क्षमता विकासमा सहयोग गर्नुहोस्।",
+      "bt": "Support capacity development at the national level to continue coordination by supporting or developing sustainable coordination structures that also include stakeholders from government and civil society.",
+      "type": "general",
+      "terms": [
+        "T035",
+        "T182",
+        "T213",
+        "T349",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical term: coordination structures = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; the frozen glossary is unchanged."
+    },
+    {
+      "id": "MAN-09-0054",
+      "page": "33",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0055",
+      "page": "33",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0056",
+      "page": "34",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Key contacts for technical support:",
+      "ne": "प्राविधिक सहयोगका लागि प्रमुख सम्पर्कहरू:",
+      "bt": "Key contacts for technical support:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0057",
+      "page": "34",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "The Inter-Agency Standing Committee (IASC) MHPSS Reference Group offers technical support, mentoring and training to country-level MHPSS working groups on topics such as establishing an MHPSS TWG, conducting needs assessments, linking with cluster/sectoral groups, conducting situational analysis, referral guidance and service mapping, and M&E. Requests must be inter-agency and can be submitted by email to mhpss.refgroup@gmail.com.",
+      "ne": "अन्तर-निकाय स्थायी समिति (IASC) को MHPSS सन्दर्भ समूहले देशस्तरीय MHPSS कार्यसमूहहरूलाई MHPSS प्राविधिक कार्यसमूह (TWG) स्थापना गर्ने, आवश्यकताको लेखाजोखा गर्ने, क्लस्टर/क्षेत्रगत समूहहरूसँग सम्बन्ध स्थापित गर्ने, परिस्थितिको विश्लेषण गर्ने, सम्बन्धित सेवामा पठाउने कार्यसम्बन्धी मार्गदर्शन र सेवाहरूको नक्साङ्कन गर्ने तथा अनुगमन तथा मूल्याङ्कन (M&E) जस्ता विषयमा प्राविधिक सहयोग, मार्गदर्शन (mentoring) र प्रशिक्षण उपलब्ध गराउँछ। अनुरोधहरू अन्तरनिकाय हुनुपर्छ र mhpss.refgroup@gmail.com मा इमेलमार्फत पठाउन सकिन्छ।",
+      "bt": "The MHPSS Reference Group of the Inter-Agency Standing Committee (IASC) provides technical support, mentoring and training to country-level MHPSS working groups on topics such as establishing an MHPSS Technical Working Group (TWG), assessing needs, establishing links with clusters/sectoral groups, analyzing the situation, mapping guidance on referral to relevant services and services, and monitoring and evaluation (M&E). Requests must be inter-agency and can be sent by email to mhpss.refgroup@gmail.com.",
+      "type": "general",
+      "terms": [
+        "T044",
+        "T171",
+        "T050",
+        "T068",
+        "T123",
+        "T172",
+        "T260",
+        "T296",
+        "T394"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "This is an institutional support description, not a consent or safeguarding declaration. The inter-agency requirement and email address are preserved. Mentoring is reduced to generic guidance in the back-translation. The source term is retained as a qualifier to distinguish this support function; its Nepali technical terminology remains pending review. The back-translation makes referral guidance an object of mapping, whereas the source lists referral guidance and service mapping as distinct support topics."
+    },
+    {
+      "id": "MAN-09-0058",
+      "page": "34",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Surge support mechanisms increasingly deploy MHPSS experts to support in establishing coordination structures to strengthen MHPSS capacity. Experts are deployed through standby partnerships with UN agencies such as WHO, IOM, UNHCR and UNICEF. The MHPSS surge support mechanism, which is implemented in collaboration with the IASC MHPSS Reference Group, has a specific focus on the deployment of MHPSS experts (contact: mhpss@rvo.nl).",
+      "ne": "थप सहयोग उपलब्ध गराउने संयन्त्रहरू (surge support mechanisms) ले MHPSS क्षमता सुदृढ गर्न समन्वय संरचना स्थापना गर्ने कार्यमा सहयोग पुर्‍याउन MHPSS विशेषज्ञहरूलाई परिचालन गर्ने क्रम बढ्दो छ। WHO, IOM, UNHCR र UNICEF जस्ता UN निकायहरूसँगका आवश्यक पर्दा परिचालन गर्न तयार राखिने साझेदारीमार्फत विशेषज्ञहरू परिचालन गरिन्छन्। IASC को MHPSS सन्दर्भ समूहसँगको सहकार्यमा कार्यान्वयन गरिने MHPSS surge support mechanism ले विशेष रूपमा MHPSS विशेषज्ञहरूको परिचालनमा ध्यान दिन्छ (सम्पर्क: mhpss@rvo.nl)।",
+      "bt": "Mechanisms providing additional support (surge support mechanisms) are increasingly deploying MHPSS specialists to help establish coordination structures to strengthen MHPSS capacity. Specialists are deployed through partnerships kept ready for deployment when needed with UN agencies such as WHO, IOM, UNHCR and UNICEF. The MHPSS surge support mechanism implemented in collaboration with the IASC MHPSS Reference Group focuses specifically on the deployment of MHPSS specialists (contact: mhpss@rvo.nl).",
+      "type": "general",
+      "terms": [
+        "T171",
+        "T213",
+        "T349",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for coordination structures. Surge support mechanisms and standby partnerships are explained as operational arrangements, with the named MHPSS mechanism retained in English. The translation adds an explicit trigger, when needs increase, which the source does not state. That condition is removed. Nepali terminology for surge support mechanisms and standby partnerships remains pending technical review."
+    },
+    {
+      "id": "MAN-09-0059",
+      "page": "34",
+      "loc": "heading",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "Key consideration 14: What to do if referral options for mental health services are not accessible?",
+      "ne": "मुख्य विचारणीय पक्ष 14: मानसिक स्वास्थ्य सेवाका लागि सम्बन्धित सेवामा पठाउने कार्यका विकल्पहरू पहुँचयोग्य छैनन् भने के गर्ने?",
+      "bt": "Key consideration 14: What to do if options for referral to relevant services for mental health services are not accessible?",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T172",
+        "T078",
+        "T252",
+        "T263"
+      ],
+      "flags": [],
+      "note": "Mental-health service wording reuses the supplied unreviewed activity 3.10 candidate. This safety heading remains pending review."
+    },
+    {
+      "id": "MAN-09-0060",
+      "page": "34",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "In a range of humanitarian settings, mental health services may not be available or sufficiently accessible (e.g. due to geographical distance or costs). In these situations, it can be helpful to work with MHPSS TWGs and relevant coordination groups (e.g. health cluster/sector) to:",
+      "ne": "विभिन्न मानवीय परिस्थितिहरूमा मानसिक स्वास्थ्य सेवा उपलब्ध नहुन सक्छन् वा पर्याप्त रूपमा पहुँचयोग्य नहुन सक्छन् (जस्तै, भौगोलिक दूरी वा लागतका कारण)। यस्ता अवस्थामा निम्न कार्य गर्न MHPSS TWGs र सान्दर्भिक समन्वय समूहहरूसँग (जस्तै, स्वास्थ्य क्लस्टर/क्षेत्र) मिलेर काम गर्नु उपयोगी हुन सक्छ:",
+      "bt": "In various humanitarian situations, mental health services may be unavailable or may not be sufficiently accessible (for example, because of geographical distance or cost). In such circumstances, it may be useful to work together with MHPSS TWGs and relevant coordination groups (for example, the health cluster/sector) to do the following:",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T078",
+        "T128",
+        "T027",
+        "T123",
+        "T263",
+        "T296",
+        "T349"
+      ],
+      "flags": [],
+      "note": "Mental-health service wording reuses the supplied unreviewed activity 3.10 candidate; both unavailability and insufficient accessibility are retained."
+    },
+    {
+      "id": "MAN-09-0061",
+      "page": "34",
+      "loc": "bullet",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "▶ Work with local actors to identify existing facilities and systems in which to integrate mental health services.",
+      "ne": "▶ मानसिक स्वास्थ्य सेवा एकीकृत गर्न सकिने विद्यमान सेवा केन्द्र र प्रणालीहरू पहिचान गर्न स्थानीय सम्बद्ध पक्षहरूसँग मिलेर काम गर्नुहोस्।",
+      "bt": "▶ Work together with local counterparts to identify existing service centres and systems into which mental health services can be integrated.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T114",
+        "T263"
+      ],
+      "flags": [],
+      "note": "Mental-health service wording reuses the supplied unreviewed activity 3.10 candidate. Facilities are understood as service facilities."
+    },
+    {
+      "id": "MAN-09-0062",
+      "page": "34",
+      "loc": "bullet",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "▶ Advocate to government actors and external funders for the needed mobilization of funds and resources to fill service gaps;",
+      "ne": "▶ सेवामा रहेका कमी पूरा गर्न आवश्यक रकम तथा स्रोतहरूको परिचालनका लागि सरकारी सम्बद्ध पक्षहरू र बाह्य वित्तीय सहयोगदातासमक्ष पैरवी गर्नुहोस्।",
+      "bt": "▶ Advocate with government stakeholders and external financial donors for the mobilization of the funds and resources needed to fill gaps in services.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T332"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term [Nepali wording recorded in terminology evidence] for advocacy; government actors and external funders remain distinct. The source calls for mobilization of both funds and resources. The translation instead requests financial support alongside resource mobilization; the revision explicitly applies mobilization to both."
+    },
+    {
+      "id": "MAN-09-0063",
+      "page": "34",
+      "loc": "bullet",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "▶ Discuss which actors may be able to support needs in the short-term;",
+      "ne": "▶ अल्पकालमा आवश्यकताहरू पूरा गर्न कुन सम्बद्ध पक्षहरू सहयोग गर्न सक्षम हुन सक्छन् भन्नेबारे छलफल गर्नुहोस्।",
+      "bt": "▶ Discuss which stakeholders may be able to help meet needs in the short term.",
+      "type": "general",
+      "terms": [
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-09-0064",
+      "page": "34",
+      "loc": "bullet",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "▶ Work with actors to improve access to any existing mental health services, if applicable (e.g. covering financial costs, facilitating transport);",
+      "ne": "▶ लागू हुने अवस्थामा, विद्यमान कुनै पनि मानसिक स्वास्थ्य सेवामा पहुँच सुधार गर्न सम्बद्ध पक्षहरूसँग काम गर्नुहोस् (जस्तै, आर्थिक खर्च बेहोर्ने, यातायातको व्यवस्था सहज बनाउने)।",
+      "bt": "▶ Where applicable, work with stakeholders to improve access to any existing mental health services (e.g., covering financial costs, facilitating transport arrangements).",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T114",
+        "T263"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'mental health services' has no dedicated glossary entry. Its Nepali wording reuses the exact phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] supplied in activity candidate T107; this remains an unreviewed candidate."
+    },
+    {
+      "id": "MAN-09-0065",
+      "page": "34",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "If a coordination group does not exist, one should be established in collaboration with other MHPSS actors (see MSP activity 1.1).",
+      "ne": "समन्वय समूह नभएमा, अन्य MHPSS सम्बद्ध पक्षहरूसँगको सहकार्यमा त्यस्तो समूह स्थापना गर्नु उचित हुन्छ (MSP गतिविधि 1.1 हेर्नुहोस्)।",
+      "bt": "If there is no coordination group, it is appropriate to establish such a group in collaboration with other MHPSS stakeholders (see MSP Activity 1.1).",
+      "type": "check",
+      "terms": [
+        "T127",
+        "T114",
+        "T091",
+        "T163",
+        "T266",
+        "T349"
+      ],
+      "flags": [],
+      "note": "The translation strengthens 'should be established' to 'must be established'. The revision restores recommendation rather than mandatory obligation."
+    },
+    {
+      "id": "MAN-09-0066",
+      "page": "34",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "When strengthening existing or establishing new mental health services:",
+      "ne": "विद्यमान मानसिक स्वास्थ्य सेवा सुदृढ गर्दा वा नयाँ मानसिक स्वास्थ्य सेवा स्थापना गर्दा:",
+      "bt": "When strengthening an existing mental health service or establishing a new mental health service:",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T263"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the supplied unreviewed activity candidate T107. A dedicated glossary entry for the recurring term 'mental health services' is proposed."
+    },
+    {
+      "id": "MAN-09-0067",
+      "page": "34",
+      "loc": "bullet",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "▶ Aim to shift the locus of care away from psychiatric hospitals towards community-based mental health services. This not only involves strengthening mental health care in primary health care but also making sure that specialized care is accessible through for example, district general hospitals, community mental health teams or community mental health centers. Long-stay psychiatric hospitals should be closed once there are adequate alternatives;",
+      "ne": "▶ हेरचाहको केन्द्र मानसिक अस्पतालबाट समुदायमा आधारित मानसिक स्वास्थ्य सेवातर्फ सार्ने लक्ष्य राख्नुहोस्। यसमा प्राथमिक स्वास्थ्य हेरचाहमा मानसिक स्वास्थ्य हेरचाह सुदृढ बनाउने कार्य मात्र होइन, उदाहरणका लागि जिल्लाका सामान्य अस्पतालहरू, समुदायमा आधारित मानसिक स्वास्थ्य टोलीहरू वा समुदायमा आधारित मानसिक स्वास्थ्य केन्द्रहरूमार्फत विशिष्टीकृत हेरचाह पहुँचयोग्य भएको सुनिश्चित गर्ने कार्य पनि पर्छ। पर्याप्त विकल्पहरू उपलब्ध भएपछि लामो अवधिसम्म बसाएर हेरचाह गर्ने मानसिक अस्पतालहरू बन्द गरिनु उचित हुन्छ।",
+      "bt": "▶ Aim to shift the centre of care from mental hospitals towards community-based mental health services. This includes not only strengthening mental health care in primary health care, but also ensuring that specialized care is accessible, for example through district general hospitals, community-based mental health teams or community-based mental health centres. Once adequate alternatives are available, it is appropriate for mental hospitals that provide care through long-term stays to be closed.",
+      "type": "safety",
+      "terms": [
+        "T015",
+        "T027",
+        "T078",
+        "T157",
+        "T263",
+        "T344"
+      ],
+      "flags": [],
+      "note": "The draft retains the aim rather than asserting an achieved shift, includes access to specialized care, and makes recommended hospital closure conditional on adequate alternatives."
+    },
+    {
+      "id": "MAN-09-0068",
+      "page": "34",
+      "loc": "bullet",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "▶ Avoid setting up parallel systems if possible and aim to integrate services into existing health and social care systems (e.g. mental health care as part of general health services);",
+      "ne": "▶ सम्भव भएमा समानान्तर प्रणालीहरू स्थापना नगर्नुहोस् र सेवाहरूलाई विद्यमान स्वास्थ्य तथा सामाजिक हेरचाह प्रणालीहरूमा एकीकृत गर्ने लक्ष्य राख्नुहोस् (जस्तै सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य हेरचाह)।",
+      "bt": "▶ Where possible, do not establish parallel systems and aim to integrate services into existing health and social care systems (for example, mental health care as a part of general health services).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft preserves the feasibility condition, the aim of integration, and mental health care as part of general health services without replacing care with services."
+    },
+    {
+      "id": "MAN-09-0069",
+      "page": "34",
+      "loc": "bullet",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "▶ Promote effective collaboration between formal and informal care providers and across different sectors (e.g. referral pathways).",
+      "ne": "▶ औपचारिक र अनौपचारिक हेरचाह प्रदायकहरूबीच तथा विभिन्न क्षेत्रहरूबीच प्रभावकारी सहकार्य प्रवर्द्धन गर्नुहोस् (जस्तै, सेवा प्रेषण मार्गहरू)।",
+      "bt": "▶ Promote effective collaboration between formal and informal care providers and between different sectors (e.g., service referral pathways).",
+      "type": "safety",
+      "terms": [
+        "T063",
+        "T296"
+      ],
+      "flags": [],
+      "note": "General service-coordination safety guidance drafted for review; no automatic transfer or additional consent procedure is implied."
+    },
+    {
+      "id": "MAN-09-0070",
+      "page": "34",
+      "loc": "table-cell",
+      "section": "Section 1 > 1.1 Coordinate MHPSS within and across sectors",
+      "en": "See MSP activities 3.10 and 3.12 for more information and relevant guidelines.",
+      "ne": "थप जानकारी तथा सान्दर्भिक निर्देशिकाहरूका लागि MSP गतिविधि 3.10 र 3.12 हेर्नुहोस्।",
+      "bt": "For further information and relevant guidelines, see MSP activities 3.10 and 3.12.",
+      "type": "check",
+      "terms": [
+        "T086",
+        "T091",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

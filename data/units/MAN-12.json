@@ -1,0 +1,624 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-12",
+  "unit_title": "Develop and implement a monitoring and evaluation (M&E) system",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "42-43",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:41:32+05:45",
+  "coverage": {
+    "source_words": 912,
+    "row_words": 912,
+    "skipped": [
+      "PDF p.42: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 37",
+      "PDF p.43: running footer/page number removed: 38 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-12-0001",
+      "page": "42",
+      "loc": "heading",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "ne": "2.2 अनुगमन तथा मूल्याङ्कन (M&E) प्रणाली विकास र कार्यान्वयन गर्ने।",
+      "bt": "2.2 Develop and implement a monitoring and evaluation (M&E) system.",
+      "type": "activity",
+      "terms": [
+        "T046",
+        "T095",
+        "T271",
+        "T394"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-12-0002",
+      "page": "42",
+      "loc": "para",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "An M&E framework for MHPSS programming should be developed as part of the initial programme design.",
+      "ne": "कार्यक्रमको प्रारम्भिक डिजाइनको अङ्गका रूपमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) कार्यक्रम सञ्चालनका लागि अनुगमन तथा मूल्याङ्कन (M&E) रूपरेखा विकास गर्न सिफारिस गरिन्छ।",
+      "bt": "It is recommended to develop a monitoring and evaluation (M&E) framework for implementing the mental health and psychosocial support (MHPSS) programme as part of the programme's initial design.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T046",
+        "T394",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposal for recurring framework: [Nepali wording recorded in terminology evidence]. T001 is reused as an unreviewed candidate from MAN PDF p6 and PRIOR-SUM-29OCT2026 p.1 row 1. The BT strengthens 'should be developed' to 'must be developed'. The revision expresses a recommendation rather than a requirement."
+    },
+    {
+      "id": "MAN-12-0003",
+      "page": "42",
+      "loc": "para",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Where MHPSS is being incorporated into existing programme activities, M&E plans and frameworks should be updated to include MHPSS components.",
+      "ne": "विद्यमान कार्यक्रमगत गतिविधिहरूमा MHPSS समावेश गरिँदै छ भने, MHPSS का अङ्गहरू समेट्न M&E योजना र रूपरेखाहरू अद्यावधिक गर्न सिफारिस गरिन्छ।",
+      "bt": "If MHPSS is being incorporated into existing programme activities, it is recommended to update M&E plans and frameworks to include MHPSS components.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposal for recurring framework: [Nepali wording recorded in terminology evidence]. The BT strengthens 'should be updated' to 'must be updated'. The revision preserves the condition and expresses a recommendation."
+    },
+    {
+      "id": "MAN-12-0004",
+      "page": "42",
+      "loc": "para",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "The IASC Common Monitoring and Evaluation Framework for MHPSS in Emergency Settings33 provides broad guidance and suggests appropriate means of verification (MoV) for collecting data on relevant indicators.",
+      "ne": "आपत्कालीन परिस्थितिमा MHPSS का लागि IASC को साझा अनुगमन तथा मूल्याङ्कन रूपरेखा33 ले व्यापक मार्गदर्शन प्रदान गर्छ र सान्दर्भिक सूचकहरूबारे तथ्याङ्क सङ्कलन गर्न उपयुक्त पुष्ट्याइँका आधारहरू (MoV) सुझाउँछ।",
+      "bt": "The IASC Common Monitoring and Evaluation Framework for MHPSS in Emergency Settings33 provides comprehensive guidance and suggests appropriate means of verification (MoV) for collecting data on relevant indicators.",
+      "type": "general",
+      "terms": [
+        "T046",
+        "T047",
+        "T224",
+        "T271"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposals for recurring terms: framework = [Nepali wording recorded in terminology evidence]; indicators = [Nepali wording recorded in terminology evidence]; data collection = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Reference marker 33 is retained."
+    },
+    {
+      "id": "MAN-12-0005",
+      "page": "42",
+      "loc": "para",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "The MSP M&E Indicator Guide provides example indicators for monitoring and evaluating each MSP activity.",
+      "ne": "MSP को M&E सूचक मार्गदर्शिकाले प्रत्येक MSP गतिविधिको अनुगमन र मूल्याङ्कन गर्न सूचकहरूका उदाहरण प्रदान गर्छ।",
+      "bt": "The MSP M&E indicator guide provides examples of indicators for monitoring and evaluating each MSP activity.",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T091",
+        "T163",
+        "T271"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposal for recurring indicator: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-12-0006",
+      "page": "42",
+      "loc": "para",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "The following domains of mental health and psychosocial wellbeing may be measured to assess progress toward achieving the overall goal of reduced suffering and improved mental health and psychosocial well-being:",
+      "ne": "पीडा घटाउने र मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सुधार ल्याउने समग्र लक्ष्य हासिल गर्नेतर्फको प्रगतिको लेखाजोखा गर्न मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणका निम्न पक्षहरू मापन गर्न सकिन्छ:",
+      "bt": "The following aspects of mental health and psychosocial well-being can be measured to assess progress towards achieving the overall goal of reducing suffering and improving mental health and psychosocial well-being:",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T004",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed candidates T157 and T005; this does not validate the measurement domains."
+    },
+    {
+      "id": "MAN-12-0007",
+      "page": "42",
+      "loc": "bullet",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "▶ functioning;",
+      "ne": "▶ कार्यशीलता;",
+      "bt": "▶ Functioning;",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "Unvalidated draft of functioning as a measurement domain."
+    },
+    {
+      "id": "MAN-12-0008",
+      "page": "42",
+      "loc": "bullet",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "▶ subjective well-being;",
+      "ne": "▶ व्यक्तिले अनुभूत गर्ने सुस्वास्थ्य;",
+      "bt": "▶ Well-being experienced by the individual;",
+      "type": "safety",
+      "terms": [
+        "T514"
+      ],
+      "flags": [],
+      "note": "The frozen candidate for subjective well-being is retained without substituting psychosocial well-being."
+    },
+    {
+      "id": "MAN-12-0009",
+      "page": "42",
+      "loc": "bullet",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "▶ social behaviour;",
+      "ne": "▶ सामाजिक व्यवहार;",
+      "bt": "▶ Social behaviour;",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary descriptive domain label, not a validated instrument item."
+    },
+    {
+      "id": "MAN-12-0010",
+      "page": "42",
+      "loc": "bullet",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "▶ social connectedness;",
+      "ne": "▶ सामाजिक आबद्धता;",
+      "bt": "▶ Social connectedness;",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "Unvalidated wording for social connectedness, not merely the existence of social ties."
+    },
+    {
+      "id": "MAN-12-0011",
+      "page": "42",
+      "loc": "bullet",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "▶ ability of people with mental health and psychosocial problems to cope with problems;",
+      "ne": "▶ मानसिक स्वास्थ्यसम्बन्धी तथा मनोसामाजिक समस्याहरू भएका मानिसहरूको समस्याहरूको सामना गर्ने क्षमता;",
+      "bt": "▶ The capacity of people with mental health-related and psychosocial problems to cope with problems;",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T498"
+      ],
+      "flags": [],
+      "note": "The population description and its ability to cope with problems are retained."
+    },
+    {
+      "id": "MAN-12-0012",
+      "page": "42",
+      "loc": "bullet",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "▶ disabling distress and/or presence of MNS disorder (or symptoms thereof).",
+      "ne": "▶ अशक्त बनाउने व्यथा र/वा MNS विकारको उपस्थिति (वा त्यसका लक्षणहरूको उपस्थिति)।",
+      "bt": "▶ The presence of disabling distress and/or an MNS disorder (or the presence of its symptoms).",
+      "type": "safety",
+      "terms": [
+        "T461"
+      ],
+      "flags": [],
+      "note": "The disabling qualification, and/or relationship, MNS acronym and alternative reference to symptoms are retained."
+    },
+    {
+      "id": "MAN-12-0013",
+      "page": "42",
+      "loc": "heading",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-12-0014",
+      "page": "42",
+      "loc": "heading",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Develop and implement a monitoring and evaluation (M&E) system",
+      "ne": "अनुगमन तथा मूल्याङ्कन (M&E) प्रणाली विकास र कार्यान्वयन गर्ने।",
+      "bt": "Develop and implement a monitoring and evaluation (M&E) system.",
+      "type": "activity",
+      "terms": [
+        "T046",
+        "T095",
+        "T271",
+        "T394"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-12-0015",
+      "page": "42",
+      "loc": "heading",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Main tasks",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-12-0016",
+      "page": "42",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Select appropriate indicators and measurement tools (known as means of verification or MoV) that align with the objectives of each activity.34",
+      "ne": "प्रत्येक गतिविधिका उद्देश्यहरूसँग मेल खाने उपयुक्त सूचकहरू र मापन उपकरणहरू छान्नुहोस्; यी उपकरणहरूलाई पुष्ट्याइँका आधारहरू वा MoV भनिन्छ।34",
+      "bt": "Select appropriate indicators and measurement tools that match the objectives of each activity; these tools are called means of verification or MoV.34",
+      "type": "check",
+      "terms": [
+        "T047"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposal for recurring indicator: [Nepali wording recorded in terminology evidence]. Reference marker 34 is retained. The BT narrows each activity's plural 'objectives' to a singular 'objective'. The revision makes the plurality explicit."
+    },
+    {
+      "id": "MAN-12-0017",
+      "page": "42",
+      "loc": "footnote",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "33 IASC (2021). Common Monitoring and Evaluation Framework for MHPSS in Emergency Settings: Version 2.0 with Means of Verification. See also the associated MoV toolkit on MHPSS.net. The IASC MHPSS Reference Group hosts an MHPSS M&E help desk to support use of the Common M&E Framework for MHPSS (contact: mhpssmande@gmail.com).",
+      "ne": "33 IASC (2021). Common Monitoring and Evaluation Framework for MHPSS in Emergency Settings: Version 2.0 with Means of Verification. MHPSS.net मा उपलब्ध यससँग सम्बन्धित MoV उपकरण सङ्ग्रह पनि हेर्नुहोस्। IASC MHPSS सन्दर्भ समूहले MHPSS का लागि साझा M&E रूपरेखाको प्रयोगमा सहयोग गर्न MHPSS M&E सहायता कक्ष सञ्चालन गर्छ (सम्पर्क: mhpssmande@gmail.com)।",
+      "bt": "33 IASC (2021). Common Monitoring and Evaluation Framework for MHPSS in Emergency Settings: Version 2.0 with Means of Verification. Also see the related MoV toolkit available on MHPSS.net. The IASC MHPSS Reference Group operates an MHPSS M&E help desk to support the use of the common M&E framework for MHPSS (contact: mhpssmande@gmail.com).",
+      "type": "general",
+      "terms": [
+        "T171"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The bibliographic citation, title, version, website and email are retained exactly; the accompanying guidance is translated. Proposal for recurring framework: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-12-0018",
+      "page": "42",
+      "loc": "footnote",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "34 In some circumstances it may be necessary to begin delivering urgent services before M&E tools and systems are fully established.",
+      "ne": "34 केही परिस्थितिमा M&E उपकरण र प्रणालीहरू पूर्ण रूपमा स्थापित हुनुअघि नै तत्काल आवश्यक सेवाहरू प्रदान गर्न सुरु गर्नुपर्ने हुन सक्छ।",
+      "bt": "34 In some circumstances, it may be necessary to begin providing urgently needed services before M&E tools and systems are fully established.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The BT renders 'urgent services' as 'essential services', losing time urgency. The revision explicitly preserves immediate need."
+    },
+    {
+      "id": "MAN-12-0019",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Develop/select adapt and translate M&E tools to assess programme reach and changes35 in knowledge, skills, attitudes, mental health and psychosocial well-being over the course of an activity. Tools must be appropriate to the age, gender and capacities of participants, considering disability and other forms of diversity. Data collection must allow for disaggregation by age, gender and disability.",
+      "ne": "कार्यक्रमको पहुँच तथा कुनै गतिविधि सञ्चालन भइरहँदा ज्ञान, सीप, मनोवृत्ति, मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा आउने परिवर्तनहरू35 को आकलन गर्न अनुगमन तथा मूल्याङ्कन (M&E) का साधनहरू विकास गर्नुहोस्/छान्नुहोस्, अनुकूलन गर्नुहोस् र अनुवाद गर्नुहोस्। अपाङ्गता तथा विविधताका अन्य स्वरूपहरूलाई ध्यानमा राख्दै साधनहरू सहभागीहरूको उमेर, लैङ्गिक पक्ष र क्षमताअनुसार उपयुक्त हुनुपर्छ। तथ्याङ्क सङ्कलन गर्दा उमेर, लैङ्गिक पक्ष र अपाङ्गताअनुसार तथ्याङ्क छुट्याउन मिल्ने हुनुपर्छ।",
+      "bt": "Develop/select, adapt and translate monitoring and evaluation (M&E) tools to assess the programme's reach and changes35 in knowledge, skills, attitudes, mental health and psychosocial well-being while an activity is being conducted. Taking disability and other forms of diversity into account, the tools must be appropriate to participants' age, gender aspects and abilities. When collecting data, it must be possible to separate the data by age, gender aspects and disability.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T157",
+        "T233",
+        "T394",
+        "T406",
+        "T409",
+        "T438"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The source lacks a separator in 'Develop/select adapt and translate'; the draft reads this as develop or select, then adapt and translate, but that relationship remains unresolved."
+    },
+    {
+      "id": "MAN-12-0020",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Analyse the potential for unintended harm36 that may be caused by data collection processes and actively prevent or mitigate these risks e.g. by training enumerators and M&E staff in basic psychosocial support skills (see MSP activity 3.2); ensuring that particularly sensitive data are collected by appropriately trained workers; and informing participants that providing information (e.g. in focus groups, interviews or surveys) is voluntary and can be stopped at any time without affecting their access to services.",
+      "ne": "तथ्याङ्क सङ्कलन प्रक्रियाबाट अनपेक्षित हानि36 हुन सक्ने सम्भावनाको विश्लेषण गर्नुहोस् र यी जोखिमहरू रोक्न वा घटाउन सक्रिय रूपमा काम गर्नुहोस्। उदाहरणका लागि, गणकहरू र M&E कर्मचारीलाई आधारभूत मनोसामाजिक सहयोग सीपमा तालिम दिनुहोस् (MSP गतिविधि 3.2 हेर्नुहोस्); विशेष रूपमा संवेदनशील तथ्याङ्क उपयुक्त तालिम पाएका कार्यकर्ताले सङ्कलन गर्ने सुनिश्चित गर्नुहोस्; र जानकारी दिनु (जस्तै, केन्द्रित समूह छलफल, अन्तर्वार्ता वा सर्वेक्षणमा) स्वैच्छिक हो तथा सेवामा आफ्नो पहुँचलाई असर नपर्ने गरी जुनसुकै बेला रोक्न सकिन्छ भन्ने कुरा सहभागीहरूलाई जानकारी दिनुहोस्।",
+      "bt": "Analyse the possibility of unintended harm36 from the data collection process and work actively to prevent or reduce these risks. For example, train enumerators and M&E staff in basic psychosocial support skills (see MSP activity 3.2); ensure that particularly sensitive data are collected by appropriately trained workers; and inform participants that providing information (for example, in focus group discussions, interviews or surveys) is voluntary and can be stopped at any time without affecting their access to services.",
+      "type": "safety",
+      "terms": [
+        "T091",
+        "T163",
+        "T196",
+        "T284",
+        "T406",
+        "T410",
+        "T434"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety guidance, not a verbatim consent declaration; review pending. The phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from supplied activity candidate T099, not newly coined clinical wording. Proposal for recurring data collection: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Reference marker 36 is retained."
+    },
+    {
+      "id": "MAN-12-0021",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Share anonymized data on relevant key indicators with MHPSS TWGs (see MSP activity 1.1) and inter-agency information management teams as needed (e.g. information management systems led by clusters, AoRs or the Office for the Coordination of Humanitarian Affairs (OCHA); see also the related additional actions below).",
+      "ne": "आवश्यकताअनुसार सान्दर्भिक प्रमुख सूचकहरूबारे कसैको पहिचान गर्न नसकिने बनाइएका तथ्याङ्क MHPSS TWGs (MSP गतिविधि 1.1 हेर्नुहोस्) र अन्तरनिकाय सूचना व्यवस्थापन टोलीहरूसँग साझा गर्नुहोस् (जस्तै, क्लस्टर, AoRs वा मानवीय मामिला समन्वय कार्यालय (OCHA) ले नेतृत्व गरेका सूचना व्यवस्थापन प्रणालीहरू; तलका सम्बन्धित थप कार्यहरू पनि हेर्नुहोस्)।",
+      "bt": "As needed, share data on relevant key indicators that have been made such that no one can be identified with MHPSS TWGs (see MSP activity 1.1) and inter-agency information management teams (e.g., information management systems led by clusters, AoRs or the Office for the Coordination of Humanitarian Affairs (OCHA); also see the related additional actions below).",
+      "type": "safety",
+      "terms": [
+        "T091",
+        "T163",
+        "T124",
+        "T053",
+        "T243",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General information-sharing safety guidance; review pending. Proposals for recurring terms: indicator = [Nepali wording recorded in terminology evidence]; technical working group = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. TWGs and AoRs remain unchanged. Removing identifying details does not necessarily make data anonymous. The revision preserves the source's stronger requirement that the shared data be anonymized, rather than merely have identifying details removed."
+    },
+    {
+      "id": "MAN-12-0022",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Work with a representative cross-section of community members to develop a feedback and complaints mechanism that is accessible and sensitive to cultural, gender, disability, diversity, and age considerations (including ease of use by children and older adults). Distribute information widely on how to use this mechanism and ensure that programme participants and other community members understand it and know how to use it.",
+      "ne": "समुदायका विविध सदस्यहरूको प्रतिनिधित्व हुने गरी उनीहरूसँग मिलेर पहुँचयोग्य र सांस्कृतिक पक्ष, लैङ्गिकता, अपाङ्गता, विविधता तथा उमेरसम्बन्धी विचारणीय पक्षप्रति संवेदनशील पृष्ठपोषण तथा गुनासो संयन्त्र विकास गर्नुहोस्; यसमा बालबालिका र ज्येष्ठ वयस्कहरूले सजिलै प्रयोग गर्न सक्ने पक्ष पनि समावेश हुनुपर्छ। यो संयन्त्र कसरी प्रयोग गर्ने भन्ने जानकारी व्यापक रूपमा वितरण गर्नुहोस् र कार्यक्रमका सहभागी तथा समुदायका अन्य सदस्यहरूले यसलाई बुझेका छन् र यसको प्रयोग गर्ने तरिका जानेका छन् भन्ने सुनिश्चित गर्नुहोस्।",
+      "bt": "Together with members of the community, ensuring representation of its diverse members, develop an accessible feedback and complaint mechanism that is sensitive to considerations relating to culture, gender, disability, diversity and age; this must also include ease of use by children and older adults. Distribute information widely on how to use this mechanism and ensure that programme participants and other community members understand it and know how to use it.",
+      "type": "general",
+      "terms": [
+        "T078",
+        "T074",
+        "T233",
+        "T344",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-12-0023",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Engage representative programme participants and workers in ongoing programme M&E to identify changing needs, assess MHPSS outcomes and assess service user satisfaction.",
+      "ne": "बदलिँदा आवश्यकताहरू पहिचान गर्न, MHPSS का परिणामहरूको लेखाजोखा गर्न र सेवा प्रयोगकर्ताहरूको सन्तुष्टिको लेखाजोखा गर्न कार्यक्रमको निरन्तर M&E मा कार्यक्रमका सहभागी र कार्यकर्ताहरूको प्रतिनिधित्व हुने गरी उनीहरूलाई संलग्न गराउनुहोस्।",
+      "bt": "Involve programme participants and workers, ensuring their representation, in the programme's ongoing M&E to identify changing needs, assess MHPSS outcomes and assess service users' satisfaction.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T274",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposal for recurring outcomes: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-12-0024",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Conduct regular participatory programme reviews of M&E data to generate lessons learned and inform ongoing programme improvements.",
+      "ne": "सिकाइहरू निकाल्न र कार्यक्रमको निरन्तर सुधारलाई दिशा दिन M&E तथ्याङ्कका आधारमा नियमित रूपमा कार्यक्रमको सहभागितामूलक समीक्षा गर्नुहोस्।",
+      "bt": "Regularly conduct participatory reviews of the programme based on M&E data to draw out learning and guide the programme's continuous improvement.",
+      "type": "general",
+      "terms": [
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-12-0025",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Discuss the findings of assessments and evaluations with community representatives (e.g. programme participants, government officials and relevant coordination groups) to better understand programme impacts and inform ongoing programme improvements (e.g. to explore any unintended positive and negative impacts, identify whether any groups may have been missed, learn how to improve reach etc.). Information must be shared in a conflict-sensitive manner, consistent with local information-sharing protocols. Data that could cause harm or compromise impartiality should not be shared (e.g. in contexts of conflict or civil unrest).",
+      "ne": "कार्यक्रमका प्रभावहरू अझ राम्ररी बुझ्न र कार्यक्रमको निरन्तर सुधारलाई दिशा दिन लेखाजोखा र मूल्याङ्कनबाट प्राप्त निष्कर्षहरूबारे समुदायका प्रतिनिधिहरूसँग (जस्तै, कार्यक्रमका सहभागी, सरकारी अधिकारी र सान्दर्भिक समन्वय समूहहरू) छलफल गर्नुहोस्; उदाहरणका लागि, कुनै अनपेक्षित सकारात्मक र नकारात्मक प्रभावहरू केलाउन, कुनै समूह छुटेका हुन सक्छन् कि भनेर पहिचान गर्न र पहुँच कसरी सुधार गर्ने भन्ने सिक्न। स्थानीय सूचना आदानप्रदानसम्बन्धी प्रक्रियाअनुरूप, द्वन्द्वप्रति संवेदनशील तरिकाले जानकारी साझा गर्नुपर्छ। हानि पुर्‍याउन वा निष्पक्षतामा आँच पुर्‍याउन सक्ने तथ्याङ्क साझा नगर्न सिफारिस गरिन्छ (जस्तै, द्वन्द्व वा नागरिक अशान्तिको परिस्थितिमा)।",
+      "bt": "Discuss findings from assessments and evaluations with community representatives (e.g., programme participants, government officials and relevant coordination groups) to better understand the programme's effects and guide continuous improvement of the programme; for example, to examine any unexpected positive and negative effects, identify whether any groups may have been left out and learn how to improve access. Information must be shared in a conflict-sensitive manner, in accordance with local information-sharing procedures. It is recommended not to share data that could cause harm or compromise impartiality (e.g., in situations of conflict or civil unrest).",
+      "type": "safety",
+      "terms": [
+        "T004",
+        "T128",
+        "T344",
+        "T349",
+        "T409"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "General safety guidance on conflict-sensitive information sharing; review pending. The BT strengthens 'should not be shared' to 'must not be shared'. The revision retains the negative recommendation while preserving the separate mandatory requirement for conflict-sensitive sharing consistent with local protocols. The BT changes 'unintended' impacts to 'unexpected' effects and improving programme 'reach' to improving 'access', shifting the focus from intention to expectation and from whom the programme reaches to accessibility."
+    },
+    {
+      "id": "MAN-12-0026",
+      "page": "43",
+      "loc": "footnote",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Note: Organizations that do not deliver direct MHPSS services (e.g. those delivering orientations on basic psychosocial support; see MSP activity 3.2) should measure relevant outcomes (i.e. changes in knowledge/competency) but may not need to implement all the actions in the M&E checklist.",
+      "ne": "टिप्पणी: प्रत्यक्ष MHPSS सेवा प्रदान नगर्ने संस्थाहरूलाई (जस्तै, आधारभूत मनोसामाजिक सहयोगबारे अभिमुखीकरण प्रदान गर्ने संस्थाहरू; MSP गतिविधि 3.2 हेर्नुहोस्) सान्दर्भिक परिणामहरू (अर्थात्, ज्ञान/सक्षमतामा आएका परिवर्तनहरू) मापन गर्न सिफारिस गरिन्छ, तर ती संस्थाहरूलाई M&E जाँचसूचीका सबै कार्यहरू कार्यान्वयन गर्न आवश्यक नहुन सक्छ।",
+      "bt": "Note: Organizations that do not provide direct MHPSS services (e.g., organizations that provide orientation on basic psychosocial support; see MSP activity 3.2) are recommended to measure relevant outcomes (i.e., changes in knowledge/competence), but those organizations may not need to implement all the actions in the M&E checklist.",
+      "type": "check",
+      "terms": [
+        "T014",
+        "T091",
+        "T163",
+        "T121",
+        "T274",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from supplied activity candidate T099 as unreviewed wording. Proposal for recurring outcomes: [Nepali wording recorded in terminology evidence]. The BT strengthens 'should measure' to 'must measure'. The revision expresses a recommendation and retains the possibility that not all checklist actions are needed."
+    },
+    {
+      "id": "MAN-12-0027",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूमा निर्भर)",
+      "bt": "Additional tasks for consideration (depending on context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-12-0028",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Share comprehensive information on the impact of programmes, lessons learned, programme indicators and MoVs at MHPSS TWG meetings and through reports to improve learning and accountability within the response as a whole. Advocate for the use of common data collection tools and templates to facilitate easy data aggregation across different systems.",
+      "ne": "समग्र प्रतिकार्यमा सिकाइ र जवाफदेहिता सुधार गर्न कार्यक्रमका प्रभाव, हासिल भएका सिकाइ, कार्यक्रमका सूचकहरू र पुष्ट्याइँका आधारहरू (MoVs) बारे सबै पक्ष समेट्ने जानकारी MHPSS TWG का बैठकहरूमा र प्रतिवेदनमार्फत साझा गर्नुहोस्। विभिन्न प्रणालीका तथ्याङ्क सजिलै एकत्रित गर्न साझा तथ्याङ्क सङ्कलन उपकरण र नमुना ढाँचाहरूको प्रयोगका लागि पैरवी गर्नुहोस्।",
+      "bt": "To improve learning and accountability in the overall response, share information covering all aspects of the programme's effects, lessons learned, programme indicators and means of verification (MoVs) at MHPSS TWG meetings and through reports. Advocate for the use of common data collection tools and templates to easily combine data from different systems.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T047",
+        "T332",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Proposals for recurring terms: indicator = [Nepali wording recorded in terminology evidence]; data collection = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; technical working group = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Source forms TWG and MoVs are retained. The BT substitutes 'detailed' for 'comprehensive', losing coverage, and 'formats' for reusable 'templates'. The revision makes comprehensive coverage and template use explicit. The BT refers to the effects of a single programme ('the programme's effects') rather than the source's plural 'impact of programmes'."
+    },
+    {
+      "id": "MAN-12-0029",
+      "page": "43",
+      "loc": "heading",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-12-0030",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-12-0031",
+      "page": "43",
+      "loc": "heading",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "Key consideration 19: Design secure systems for information management",
+      "ne": "मुख्य विचारणीय पक्ष 19: सूचना व्यवस्थापनका लागि सुरक्षित प्रणालीहरूको डिजाइन गर्नुहोस्।",
+      "bt": "Key consideration 19: Design safe systems for information management.",
+      "type": "check",
+      "terms": [
+        "T243",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-12-0032",
+      "page": "43",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "It is essential to develop secure systems, protocols, and tools for the safe documentation and management of personal data. Access to personal information must be strictly controlled in accordance with national data protection laws and organizational policies, and granted only to those for whom the information is absolutely necessary to perform their work. See the relevant guidelines, standards and tools on the MHPSS MSP web platform for guidance on information sharing, data processing and the development of data protection protocols.",
+      "ne": "व्यक्तिगत डेटा सुरक्षित रूपमा अभिलेखीकरण र व्यवस्थापन गर्न सुरक्षित प्रणाली, कार्यविधि र उपकरण विकास गर्नु आवश्यक छ। राष्ट्रिय डेटा संरक्षणसम्बन्धी कानुन र संस्थागत नीतिअनुसार व्यक्तिगत सूचनामा पहुँच कडाइका साथ नियन्त्रित गरिनुपर्छ र आफ्नो काम गर्न उक्त सूचना अपरिहार्य हुने व्यक्तिहरूलाई मात्र पहुँच दिइनुपर्छ। सूचना आदानप्रदानबारे, डेटा प्रशोधनबारे र डेटा संरक्षणसम्बन्धी कार्यविधिको विकासबारे मार्गदर्शनका लागि MHPSS MSP वेब प्लेटफर्ममा उपलब्ध सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण हेर्नुहोस्।",
+      "bt": "It is necessary to develop secure systems, procedures and tools to securely archive and manage personal data. Access to personal information must be strictly controlled in accordance with national data protection laws and institutional policies, and access must be given only to people for whom that information is indispensable for doing their work. For guidance on information sharing, data processing and the development of procedures related to data protection, see the relevant guidelines, standards and tools available on the MHPSS MSP web platform.",
+      "type": "safety",
+      "terms": [
+        "T019",
+        "T029",
+        "T067",
+        "T163",
+        "T189",
+        "T216"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "General data-safety guidance drafted; legal and data-protection review pending. The recurring term 'data protection' is absent as a complete glossary entry; a nonclinical proposal is supplied. The back-translation extends 'development of protocols' to information sharing and data processing; the source applies it only to data protection. The revision explicitly separates the three guidance topics. Legal and data-protection terminology review remains pending. The back-translation narrows safe documentation of personal data to secure archiving, shifting the activity from recording information to storing or preserving records."
+    },
+    {
+      "id": "MAN-12-0033",
+      "page": "43",
+      "loc": "footnote",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "35 Indicators to measure reach are often known as ‘output indicators’. Indicators to measure change are often known as outcome or impact indicators. See the MSP M&E Indicator Guide for detailed guidance.",
+      "ne": "35 समेटिएको दायरा मापन गर्ने सूचकहरूलाई प्रायः ‘प्रतिफल सूचकहरू’ भनिन्छ। परिवर्तन मापन गर्ने सूचकहरूलाई प्रायः परिणाम वा प्रभाव सूचकहरू भनिन्छ। विस्तृत मार्गदर्शनका लागि MSP M&E Indicator Guide (सूचक मार्गदर्शिका) हेर्नुहोस्।",
+      "bt": "35 Indicators that measure the extent of coverage are often called ‘output indicators’. Indicators that measure change are often called outcome or impact indicators. For detailed guidance, see the MSP M&E Indicator Guide (indicator guide).",
+      "type": "general",
+      "terms": [
+        "T144",
+        "T163",
+        "T240",
+        "T275"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The guide title and acronyms are retained. Output, outcome and impact indicator terminology is proposed for review, not added to the frozen glossary. The back-translation renders 'reach' as 'access', which changes what the indicators measure. The revision expresses the extent covered rather than access. Output, outcome and impact indicator terminology remains pending technical review."
+    },
+    {
+      "id": "MAN-12-0034",
+      "page": "43",
+      "loc": "footnote",
+      "section": "Section 2 > 2.2 Develop and implement a monitoring and evaluation (M&E) system",
+      "en": "36 Harmful outcomes could include increasing distress by pressuring children or adults to discuss a difficult experience, increasing stigma by using harmful language, data collectors disclosing sensitive information to others or changing power balances within a family or a community by selecting some individuals and families to participate over others.",
+      "ne": "36 हानिकारक परिणामहरूमा बालबालिका वा वयस्कहरूलाई कुनै कठिन अनुभवबारे छलफल गर्न दबाब दिएर व्यथा बढाउनु, हानिकारक भाषा प्रयोग गरेर लाञ्छना बढाउनु, तथ्याङ्क सङ्कलकहरूले संवेदनशील जानकारी अरूलाई खुलासा गर्नु वा अरूको सट्टा केही व्यक्ति र परिवारहरूलाई सहभागी हुन छानेर परिवार वा समुदायभित्रको शक्ति सन्तुलन बदल्नु पर्न सक्छन्।",
+      "bt": "36 Harmful consequences may include increasing distress by pressuring children or adults to discuss a difficult experience, increasing stigma by using harmful language, data collectors disclosing sensitive information to others, or changing the balance of power within a family or community by selecting some individuals and families to participate instead of others.",
+      "type": "safety",
+      "terms": [
+        "T274",
+        "T344",
+        "T461"
+      ],
+      "flags": [],
+      "note": "Possible harms and the actors responsible are retained; only the stigma component of the combined stigma/stigmatization glossary entry is used."
+    }
+  ]
+}

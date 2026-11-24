@@ -1,0 +1,1569 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-02",
+  "unit_title": "Mental Health and Psychosocial Wellbeing",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "11-15",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:01:15+05:45",
+  "coverage": {
+    "source_words": 1607,
+    "row_words": 1607,
+    "skipped": [
+      "Page 11: running-footer: Module 1 · MSP Workshop Facilitator Manual · 7",
+      "Page 12: running-footer: 8 · MSP Workshop Facilitator Manual · Module 1",
+      "Page 12: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 12: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 13: running-footer: Module 1 · MSP Workshop Facilitator Manual · 9",
+      "Page 13: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 13: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 14: running-footer: 10 · MSP Workshop Facilitator Manual · Module 1",
+      "Page 14: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 14: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 14: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 15: running-footer: Module 1 · MSP Workshop Facilitator Manual · 11",
+      "Page 15: image-content-unverified: Exact embedded text, if present, is not transcribed."
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-02-0001",
+      "page": "11",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Module 1:",
+      "ne": "मोड्युल 1:",
+      "bt": "Module 1:",
+      "type": "activity",
+      "terms": [
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: module = [Nepali wording recorded in terminology evidence]; not added to the frozen glossary."
+    },
+    {
+      "id": "FAC-02-0002",
+      "page": "11",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Overview of Mental Health and Psychosocial Support",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगको झलक",
+      "bt": "An overview of mental health and psychosocial support",
+      "type": "activity",
+      "terms": [
+        "T001",
+        "T016",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T001 is reused from the cited unreviewed candidate."
+    },
+    {
+      "id": "FAC-02-0003",
+      "page": "11",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "By the end of this module, participants will be able to:",
+      "ne": "यस मोड्युलको अन्त्यसम्ममा सहभागीहरू निम्न कार्य गर्न सक्षम हुनेछन्:",
+      "bt": "By the end of this module, participants will be able to do the following:",
+      "type": "general",
+      "terms": [
+        "T399",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term [Nepali wording recorded in terminology evidence] for module."
+    },
+    {
+      "id": "FAC-02-0004",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› Define mental health and psychosocial wellbeing",
+      "ne": "› मानसिक स्वास्थ्य र मनोसामाजिक कल्याणको परिभाषा दिने।",
+      "bt": "› Define mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T005 is reused from the cited unreviewed candidate."
+    },
+    {
+      "id": "FAC-02-0005",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› Understand the determinants of mental health and psychosocial well-being",
+      "ne": "› मानसिक स्वास्थ्य र मनोसामाजिक कल्याणका निर्धारकहरू बुझ्ने।",
+      "bt": "› Understand the determinants of mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0006",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› Describe how humanitarian crises impact mental health and psychosocial wellbeing",
+      "ne": "› मानवीय सङ्कटहरूले मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा कसरी प्रभाव पार्छन् भन्ने वर्णन गर्ने।",
+      "bt": "› Describe how humanitarian crises affect mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T378",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: humanitarian crises = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; not added to the frozen glossary."
+    },
+    {
+      "id": "FAC-02-0007",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› Define mental health and psychosocial support (MHPSS)",
+      "ne": "› मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) को परिभाषा दिने।",
+      "bt": "› Define mental health and psychosocial support (MHPSS).",
+      "type": "check",
+      "terms": [
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0008",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› Understand the humanitarian cluster system",
+      "ne": "› मानवीय क्लस्टर प्रणाली बुझ्ने।",
+      "bt": "› Understand the humanitarian cluster system.",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T377"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0009",
+      "page": "11",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "1.1 Mental health and psychosocial wellbeing",
+      "ne": "1.1 मानसिक स्वास्थ्य र मनोसामाजिक कल्याण",
+      "bt": "1.1 Mental health and psychosocial well-being",
+      "type": "activity",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0010",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› Defining mental health and psychoscocial wellbeing",
+      "ne": "› मानसिक स्वास्थ्य र मनोसामाजिक सुस्वास्थ्यको परिभाषा दिने",
+      "bt": "› To define mental health and psychosocial well-being",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T410"
+      ],
+      "flags": [
+        "unclear-english"
+      ],
+      "note": "The source spelling 'psychoscocial' is interpreted as 'psychosocial'; source confirmation remains pending."
+    },
+    {
+      "id": "FAC-02-0011",
+      "page": "11",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "15 min",
+      "ne": "15 मिनेट",
+      "bt": "15 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0012",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› Social ecological model",
+      "ne": "› सामाजिक पारिस्थितिक नमुना",
+      "bt": "› Social ecological model",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed technical term: social ecological model = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; terminology review pending."
+    },
+    {
+      "id": "FAC-02-0013",
+      "page": "11",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "15 min",
+      "ne": "15 मिनेट",
+      "bt": "15 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0014",
+      "page": "11",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "1.2 Mental health and psychosocial support in humanitarian crises",
+      "ne": "1.2 मानवीय सङ्कटहरूमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग",
+      "bt": "1.2 Mental health and psychosocial support in humanitarian crises",
+      "type": "activity",
+      "terms": [
+        "T001",
+        "T378",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] for humanitarian crises."
+    },
+    {
+      "id": "FAC-02-0015",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› How humanitarian crises impact mental health and psychosocial wellbeing 10 min",
+      "ne": "› मानवीय सङ्कटहरूले मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा कसरी प्रभाव पार्छन् 10 मिनेट",
+      "bt": "› How humanitarian crises affect mental health and psychosocial well-being 10 minutes",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T378",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed recurring term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; the duration remains in this row."
+    },
+    {
+      "id": "FAC-02-0016",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› Impact of humanitarian crises learning activity",
+      "ne": "› मानवीय सङ्कटहरूको प्रभावसम्बन्धी सिकाइ गतिविधि",
+      "bt": "› Learning activity on the effects of humanitarian crises",
+      "type": "activity",
+      "terms": [
+        "T378",
+        "T390"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses an inflected form of the proposed recurring term [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-02-0017",
+      "page": "11",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "25 min",
+      "ne": "25 मिनेट",
+      "bt": "25 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0018",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› What is MHPSS?",
+      "ne": "› MHPSS भनेको के हो?",
+      "bt": "› What is MHPSS?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0019",
+      "page": "11",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "15 min",
+      "ne": "15 मिनेट",
+      "bt": "15 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0020",
+      "page": "11",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "› The humanitarian cluster system",
+      "ne": "› मानवीय क्लस्टर प्रणाली",
+      "bt": "› Humanitarian cluster system",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T377"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0021",
+      "page": "11",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0022",
+      "page": "12",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "1.1 Mental Health and Psychosocial Wellbeing",
+      "ne": "1.1 मानसिक स्वास्थ्य र मनोसामाजिक कल्याण",
+      "bt": "1.1 Mental health and psychosocial well-being",
+      "type": "activity",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0023",
+      "page": "12",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Defining mental health and psychosocial wellbeing",
+      "ne": "मानसिक स्वास्थ्य र मनोसामाजिक कल्याणको परिभाषा दिने",
+      "bt": "Define mental health and psychosocial well-being",
+      "type": "activity",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0024",
+      "page": "12",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0025",
+      "page": "12",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "15 min",
+      "ne": "15 मिनेट",
+      "bt": "15 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0026",
+      "page": "12",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "How do you define mental health and psychosocial wellbeing?",
+      "ne": "तपाईं मानसिक स्वास्थ्य र मनोसामाजिक कल्याणलाई कसरी परिभाषित गर्नुहुन्छ?",
+      "bt": "How do you define mental health and psychosocial well-being?",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0027",
+      "page": "12",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Review",
+      "ne": "समीक्षा गर्नुहोस्।",
+      "bt": "Review.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0028",
+      "page": "12",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "the definition emphasizing that mental health is not merely the absence of a mental health condition, just as health is not the absence of disease.",
+      "ne": "परिभाषाको समीक्षा गर्नुहोस् र जसरी स्वास्थ्य भनेको रोग नहुनु मात्र होइन, त्यसरी नै मानसिक स्वास्थ्य भनेको मानसिक स्वास्थ्यसम्बन्धी अवस्था नहुनु मात्र होइन भन्ने कुरामा जोड दिनुहोस्।",
+      "bt": "Review the definition and emphasize that, just as health is not merely the absence of disease, mental health is not merely the absence of mental health conditions.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T476"
+      ],
+      "flags": [],
+      "note": "The supplied context identifies this fragment as a continuation of 'Review'; the distinction between health and the absence of a condition is retained."
+    },
+    {
+      "id": "FAC-02-0029",
+      "page": "12",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Point to the figure to illustrate that there are different elements to mental health and psychosocial wellbeing.",
+      "ne": "मानसिक स्वास्थ्य र मनोसामाजिक कल्याणका विभिन्न पक्षहरू हुन्छन् भन्ने देखाउन चित्रतर्फ सङ्केत गर्नुहोस्।",
+      "bt": "Point to the picture to show that mental health and psychosocial well-being have various aspects.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0030",
+      "page": "12",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Review",
+      "ne": "समीक्षा गर्नुहोस्।",
+      "bt": "Review.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0031",
+      "page": "12",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "the definitions and explain that we use the composite term ‘MHPSS’ because mental wellbeing cannot be separated from psychosocial wellbeing.",
+      "ne": "परिभाषाहरूको समीक्षा गर्नुहोस् र मानसिक सुस्वास्थ्यलाई मनोसामाजिक सुस्वास्थ्यबाट अलग गर्न नसकिने भएकाले हामी ‘MHPSS’ भन्ने संयुक्त शब्द प्रयोग गर्छौं भनेर व्याख्या गर्नुहोस्।",
+      "bt": "Review the definitions and explain that we use the combined term ‘MHPSS’ because mental well-being cannot be separated from psychosocial well-being.",
+      "type": "safety",
+      "terms": [
+        "T410"
+      ],
+      "flags": [],
+      "note": "The supplied context identifies this fragment as a continuation of 'Review'; mental wellbeing remains distinct from mental health and psychosocial wellbeing."
+    },
+    {
+      "id": "FAC-02-0032",
+      "page": "12",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "The field of MHPSS brings together a broad range of actors from different fields who work in this area.",
+      "ne": "MHPSS को क्षेत्रले विभिन्न क्षेत्रबाट आएका र यस क्षेत्रमा काम गर्ने विविध सम्बद्ध पक्षहरूलाई एकसाथ ल्याउँछ।",
+      "bt": "The field of MHPSS brings together diverse stakeholders who come from various fields and work in this field.",
+      "type": "general",
+      "terms": [
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0033",
+      "page": "12",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "It is crucial for anyone working in the field to understand the interdependence of psychological and social processes.",
+      "ne": "यस क्षेत्रमा काम गर्ने हरेक व्यक्तिले मनोवैज्ञानिक र सामाजिक प्रक्रियाहरूको पारस्परिक निर्भरता बुझ्नु अत्यन्त महत्त्वपूर्ण छ।",
+      "bt": "It is extremely important for every person working in this field to understand the interdependence of psychological and social processes.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Describes the relationship between ordinary psychological and social processes; no diagnostic terminology is introduced."
+    },
+    {
+      "id": "FAC-02-0034",
+      "page": "12",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0035",
+      "page": "12",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "The term “psychosocial” refers to the interaction between the social and psychological aspects of our lives.1",
+      "ne": "“मनोसामाजिक” शब्दले हाम्रो जीवनका सामाजिक र मनोवैज्ञानिक पक्षहरूबीचको अन्तरक्रियालाई जनाउँछ।1",
+      "bt": "The term “psychosocial” refers to the interaction between the social and psychological aspects of our lives.1",
+      "type": "check",
+      "terms": [
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The standalone term psychosocial is absent from the frozen glossary; a proposal is provided for this conceptual definition. Footnote marker 1 is retained."
+    },
+    {
+      "id": "FAC-02-0036",
+      "page": "12",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• Social aspects include things like our relationships and connections, the resources we have available to us, social norms, values, and roles, our community, our spiritual and religious lives.",
+      "ne": "• सामाजिक पक्षहरूमा हाम्रा सम्बन्ध र सम्पर्क, हामीलाई उपलब्ध स्रोतहरू, सामाजिक मान्यता, मूल्य र भूमिका, हाम्रो समुदाय तथा हाम्रो आध्यात्मिक र धार्मिक जीवनजस्ता विषय समावेश हुन्छन्।",
+      "bt": "• Social aspects include matters such as our relationships and contacts, the resources available to us, social norms, values and roles, our community, and our spiritual and religious life.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0037",
+      "page": "12",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• Psychological aspects include things like our emotions, our thoughts, our behavior, our coping strategies, and other aspects of our inner experience.",
+      "ne": "• मनोवैज्ञानिक पक्षहरूमा हाम्रा भावना, विचार, व्यवहार, परिस्थितिको सामना गर्ने रणनीतिहरू र हाम्रो आन्तरिक अनुभवका अन्य पक्षजस्ता विषय समावेश हुन्छन्।",
+      "bt": "• Psychological aspects include matters such as our feelings, thoughts, behavior, strategies for coping with situations, and other aspects of our internal experience.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Coping strategies is rendered as ordinary ways of facing circumstances, not as a named clinical intervention. Related coping terminology recurs in row FAC-02-0060; proposals are provided."
+    },
+    {
+      "id": "FAC-02-0038",
+      "page": "12",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• The term “psychosocial” recognizes that our inner and outer experiences interact and influence each other. Our psychosocial wellbeing reflects those interactions.",
+      "ne": "• “मनोसामाजिक” शब्दले हाम्रा आन्तरिक र बाह्य अनुभवबीच अन्तरक्रिया हुन्छ र तिनले एकअर्कालाई प्रभाव पार्छन् भन्ने मान्यता राख्छ। हाम्रो मनोसामाजिक कल्याणमा ती अन्तरक्रियाहरू प्रतिबिम्बित हुन्छन्।",
+      "bt": "• The term “psychosocial” recognizes that there is interaction between our internal and external experiences and that they influence one another. Those interactions are reflected in our psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T005",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the supplied unreviewed candidate for psychosocial well-being. The standalone psychosocial label requires glossary review."
+    },
+    {
+      "id": "FAC-02-0039",
+      "page": "12",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0040",
+      "page": "12",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "participants to give some examples from their own context of both positive and negative interactions (e.g., how being part of a religious community may positively impact a person’s feelings, how being exposed to racism or misogyny may negatively impact a person’s feelings).",
+      "ne": "सहभागीहरूलाई आफ्नै सन्दर्भबाट सकारात्मक र नकारात्मक दुवै किसिमका अन्तरक्रियाका केही उदाहरण दिन भन्नुहोस् (जस्तै, धार्मिक समुदायको सदस्य हुनुले व्यक्तिका भावनामा कसरी सकारात्मक प्रभाव पार्न सक्छ र नस्लवाद वा महिलाप्रतिको द्वेषको सामना गर्नुपर्दा व्यक्तिका भावनामा कसरी नकारात्मक प्रभाव पर्न सक्छ)।",
+      "bt": "Ask participants to give some examples of both positive and negative kinds of interaction from their own context (for example, how being a member of a religious community can positively affect a person's feelings and how having to face racism or hatred toward women can negatively affect a person's feelings).",
+      "type": "general",
+      "terms": [
+        "T344",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0041",
+      "page": "12",
+      "loc": "footnote",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "1 IASC (2010). Mental Health and Psychosocial Support in Humanitarian Emergencies: What Should Humanitarian Health Actors Know? Geneva.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the English bibliographic citation unchanged, including 1, IASC, (2010), the complete publication title, and Geneva."
+    },
+    {
+      "id": "FAC-02-0042",
+      "page": "13",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0043",
+      "page": "13",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "The terms “mental health problems” or “psychosocial problems” refer to a wide range of issues that people experience from social problems, emotional distress, or mental health conditions.",
+      "ne": "“मानसिक स्वास्थ्यसम्बन्धी समस्याहरू” वा “मनोसामाजिक समस्याहरू” भन्ने शब्दहरूले सामाजिक समस्याहरू, भावनात्मक व्यथा वा मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूबाट मानिसहरूले अनुभव गर्ने विविध समस्याहरूलाई जनाउँछन्।",
+      "bt": "The terms “mental health problems” or “psychosocial problems” refer to the various problems that people experience from social problems, emotional distress or mental health conditions.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T410",
+        "T461",
+        "T476",
+        "T478",
+        "T498"
+      ],
+      "flags": [],
+      "note": "The broad problem categories and their relationship to social problems, emotional distress and mental health conditions are retained."
+    },
+    {
+      "id": "FAC-02-0044",
+      "page": "13",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Common mental health conditions include depression, and anxiety and other mental health include psychosis, problematic use of alcohol or drugs, and psychosocial disabilities, which are defined as “a disability that arises when someone with a long-term mental impairment interacts with various barriers that may hinder their full and effective participation in society on an equal basis with others.",
+      "ne": "सामान्य मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूमा [depression], र [anxiety] समावेश छन् र अन्य मानसिक स्वास्थ्यमा [psychosis], मदिरा वा लागूऔषधको समस्याजनक प्रयोग, र मनोसामाजिक अपाङ्गताहरू समावेश छन्, जसलाई “यस्तो अपाङ्गता, जुन मानसिक कार्यक्षमतामा दीर्घकालीन ह्रास भएको व्यक्तिले विभिन्न अवरोधहरूसँग अन्तरक्रिया गर्दा उत्पन्न हुन्छ, र ती अवरोधहरूले अरूसरह समान आधारमा समाजमा उनीहरूको पूर्ण र प्रभावकारी सहभागितामा बाधा पुर्‍याउन सक्छन् भनेर परिभाषित गरिएको छ।",
+      "bt": "Common mental health conditions include [depression], and [anxiety], and other mental health includes [psychosis], problematic use of alcohol or drugs, and psychosocial disabilities, which are defined as “a disability that arises when a person with a long-term impairment in mental functioning interacts with various barriers, and those barriers may hinder their full and effective participation in society on an equal basis with others.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T410",
+        "T476",
+        "T478"
+      ],
+      "flags": [
+        "unclear-english"
+      ],
+      "note": "The phrase 'and other mental health include' is incomplete, so its clinical grouping remains unresolved; the definition's closing quotation is reported to occur in the following row."
+    },
+    {
+      "id": "FAC-02-0045",
+      "page": "13",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Examples of such barriers are discrimination, stigma, and exclusion.”2",
+      "ne": "यस्ता अवरोधका उदाहरण भेदभाव, कलङ्क र बहिष्करण हुन्।”2",
+      "bt": "Examples of such barriers are discrimination, stigma and exclusion.”2",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary descriptions of social barriers are translated. The closing quotation and footnote marker 2 continue the preceding protected definition."
+    },
+    {
+      "id": "FAC-02-0046",
+      "page": "13",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0047",
+      "page": "13",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Our mental health changes at different moments and times in our lives.",
+      "ne": "हाम्रो जीवनका विभिन्न क्षण र समयमा हाम्रो मानसिक स्वास्थ्य परिवर्तन हुन्छ।",
+      "bt": "Our mental health changes at different moments and times in our lives.",
+      "type": "check",
+      "terms": [
+        "T157"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0048",
+      "page": "13",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Invite participants to privately think about where their ‘needle’ might be on the meter right now?",
+      "ne": "सहभागीहरूलाई अहिले मापनयन्त्रमा आफ्नो ‘सुई’ कहाँ हुन सक्छ भन्नेबारे मनमनै सोच्न आमन्त्रण गर्नुहोस्।",
+      "bt": "Invite participants to think silently about where their ‘needle’ might be on the gauge right now.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": "Preserves the meter-and-needle metaphor and private reflection; it does not request disclosure or introduce a validated instrument item."
+    },
+    {
+      "id": "FAC-02-0049",
+      "page": "13",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Invite them to think about other times in their lives when the needle would have been pointing to red and when it would have been pointing to green.",
+      "ne": "उनीहरूलाई आफ्नो जीवनका अन्य समयमा सुईले कहिले रातो र कहिले हरियो रङतर्फ सङ्केत गरेको हुन्थ्यो भन्नेबारे सोच्न आमन्त्रण गर्नुहोस्।",
+      "bt": "Invite them to think about when, at other times in their lives, the needle would have pointed toward red and when toward green.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0050",
+      "page": "13",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Emphasize that everyone experiences times when their mental health is better and worse.",
+      "ne": "सबैले आफ्नो मानसिक स्वास्थ्य तुलनात्मक रूपमा राम्रो हुने र तुलनात्मक रूपमा खराब हुने समय अनुभव गर्छन् भन्ने कुरामा जोड दिनुहोस्।",
+      "bt": "Emphasize that everyone experiences times when their own mental health is relatively good and times when it is relatively bad.",
+      "type": "check",
+      "terms": [
+        "T157"
+      ],
+      "flags": [],
+      "note": "The source describes comparatively better and worse mental health, whereas the translation and back-translation describe good and poor states without preserving the comparison."
+    },
+    {
+      "id": "FAC-02-0051",
+      "page": "13",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Social ecological model",
+      "ne": "सामाजिक–पारिस्थितिक नमुना",
+      "bt": "Social–ecological model",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring model name is absent from the frozen glossary; a proposal is provided."
+    },
+    {
+      "id": "FAC-02-0052",
+      "page": "13",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0053",
+      "page": "13",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "15 min",
+      "ne": "15 मिनेट",
+      "bt": "15 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "A duration label rather than clinical or instrument content; Latin digits are retained."
+    },
+    {
+      "id": "FAC-02-0054",
+      "page": "13",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "What do you think influences our mental health and psychosocial wellbeing?",
+      "ne": "तपाईंहरूको विचारमा हाम्रो मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा के कुराले प्रभाव पार्छ?",
+      "bt": "In your opinion, what influences our mental health and psychosocial well-being?",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "An open discussion question, not an identified validated instrument item; the supplied unreviewed well-being candidate is reused."
+    },
+    {
+      "id": "FAC-02-0055",
+      "page": "13",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Review",
+      "ne": "समीक्षा गर्नुहोस्।",
+      "bt": "Review.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0056",
+      "page": "13",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "the social ecological model with participants, explaining each layer:",
+      "ne": "सहभागीहरूसँग सामाजिक–पारिस्थितिक नमुनाको प्रत्येक तहको व्याख्या गर्दै त्यसको समीक्षा गर्नुहोस्।",
+      "bt": "Review the social–ecological model with participants, explaining each of its levels.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The source fragment is made into a complete instruction using its preceding Review heading. The recurring model name remains a glossary proposal."
+    },
+    {
+      "id": "FAC-02-0057",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• The social ecological model recognizes that our mental health and psychosocial well-being is affected by factors at different levels.",
+      "ne": "• सामाजिक–पारिस्थितिक नमुनाले हाम्रो मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा विभिन्न तहका कारकहरूले प्रभाव पार्छन् भन्ने मान्यता राख्छ।",
+      "bt": "• The social–ecological model recognizes that factors at different levels influence our mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains the model's multilevel influence claim; the proposed model label is not an amendment to the frozen glossary."
+    },
+    {
+      "id": "FAC-02-0058",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• Walk participants through each layer and through some of the examples provided under each.",
+      "ne": "• सहभागीहरूलाई प्रत्येक तह र त्यसअन्तर्गत दिइएका केही उदाहरणहरू क्रमशः बुझाउनुहोस्।",
+      "bt": "• Explain each level and some of the examples given under it to participants in sequence.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0059",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• Some of these factors can positively influence our mental health and psychosocial wellbeing - we call these protective factors. Some of these factors can negatively influence our mental health and psychosocial wellbeing - we call these risk factors.",
+      "ne": "• यीमध्ये केही कारकले हाम्रो मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सकारात्मक प्रभाव पार्न सक्छन्—हामी यिनलाई संरक्षणकारी कारकहरू भन्छौँ। यीमध्ये केही कारकले हाम्रो मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा नकारात्मक प्रभाव पार्न सक्छन्—हामी यिनलाई जोखिमका कारक भन्छौँ।",
+      "bt": "• Some of these factors can positively influence our mental health and psychosocial well-being—we call these protective factors. Some of these factors can negatively influence our mental health and psychosocial well-being—we call these risk factors.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T283",
+        "T292",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Preserves the possibility of positive or negative influence and uses the exact supplied labels for protective and risk factors."
+    },
+    {
+      "id": "FAC-02-0060",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• Individual level: At the center, we have ourselves as individuals. We are influenced by our individual make-up, our genetics, biology, our personal characteristics, coping skills, our identities such as gender, ethnicity, religion, ability status. These factors are not sufficient however for understanding our mental health and psychosocial wellbeing. They interact with other layers.",
+      "ne": "• व्यक्तिगत तह: केन्द्रमा हामी स्वयं व्यक्तिका रूपमा हुन्छौँ। हाम्रो वैयक्तिक बनोट, आनुवंशिकता, जैविक पक्ष, व्यक्तिगत विशेषता, परिस्थितिको सामना गर्ने सीप तथा लैङ्गिक, जातीय र धार्मिक पहिचान एवं क्षमतासम्बन्धी अवस्थाजस्ता हाम्रा पहिचानले हामीलाई प्रभाव पार्छन्। तर हाम्रो मानसिक स्वास्थ्य र मनोसामाजिक कल्याण बुझ्न यी कारक मात्र पर्याप्त हुँदैनन्। यी कारकहरूको अन्य तहहरूसँग अन्तरक्रिया हुन्छ।",
+      "bt": "• Individual level: At the center are we ourselves as individuals. We are influenced by our individual makeup, heredity, biological aspects, personal characteristics, skills for coping with situations, and our identities, such as gender, ethnic and religious identity and ability-related status. But these factors alone are not sufficient to understand our mental health and psychosocial well-being. These factors interact with other levels.",
+      "type": "check",
+      "terms": [
+        "T233",
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Coping skills is drafted as an ordinary capacity to face circumstances, not a clinical treatment skill. All listed individual influences and the limitation of individual-level explanation are retained."
+    },
+    {
+      "id": "FAC-02-0061",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• Relationship level: Our mental health and psychosocial wellbeing is influenced by and influences our close relationships, the people we have direct contact with, which of course changes across our lifespan and is again impacted by our gender, gender identity, sexual orientation, and culture.",
+      "ne": "• सम्बन्धको तह: हाम्रो मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा हाम्रा निकट सम्बन्धहरू, अर्थात् हामी प्रत्यक्ष सम्पर्कमा रहने व्यक्तिहरूसँगका सम्बन्धले प्रभाव पार्छन्, र हाम्रो मानसिक स्वास्थ्य र मनोसामाजिक कल्याणले पनि ती सम्बन्धलाई प्रभाव पार्छन्। यी सम्बन्धहरू स्वाभाविक रूपमा हाम्रो जीवनकालभरि बदलिन्छन् र तिनमा हाम्रो लैङ्गिक अवस्था, लैङ्गिक पहिचान, यौन अभिमुखता र संस्कृतिले पनि प्रभाव पार्छन्।",
+      "bt": "• Relationship level: Our mental health and psychosocial well-being are influenced by our close relationships, that is, relationships with people with whom we are in direct contact, and our mental health and psychosocial well-being also influence those relationships. These relationships naturally change throughout our lifetime and are also influenced by our gender status, gender identity, sexual orientation and culture.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T233",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Retains reciprocal influence, changes across the lifespan, and the separate references to gender, gender identity, sexual orientation, and culture. [Nepali wording recorded in terminology evidence] is used with a supporting noun because the frozen candidate is adjectival."
+    },
+    {
+      "id": "FAC-02-0062",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "» For children, this will include caregivers, people at school, in their neighborhood, and religious community.",
+      "ne": "» बालबालिकाका हकमा यसमा हेरचाहकर्ता, विद्यालयका व्यक्ति, छरछिमेकका व्यक्ति र धार्मिक समुदायका व्यक्ति समावेश हुन्छन्।",
+      "bt": "» For children, this includes caregivers, people at school, people in the neighborhood and people in the religious community.",
+      "type": "general",
+      "terms": [
+        "T006",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0063",
+      "page": "13",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "» For adults, this will include intimate relationships, friendships, relationships in our workplaces, neighborhoods, religious communities and other communities we are part of.",
+      "ne": "» वयस्कका हकमा यसमा घनिष्ठ सम्बन्ध, मित्रता तथा हाम्रो कार्यस्थल, छरछिमेक, धार्मिक समुदाय र हामी आबद्ध अन्य समुदायहरूमा रहेका सम्बन्ध समावेश हुन्छन्।",
+      "bt": "» For adults, this includes intimate relationships, friendships, and relationships in our workplace, neighborhood, religious community and other communities to which we belong.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0064",
+      "page": "13",
+      "loc": "footnote",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "2 Note that the term psychosocial disability overlaps with the term mental health condition. These are complementary terms and concepts that reflect different lenses to describe lived experiences. Participants with expertise in disability may prefer the former term while those with expertise in mental health may prefer the latter. Facilitators should highlight the overlap between the terms and avoid being drawn into a debate should tensions around terminology arise. See World mental health report: transforming mental health for all. Geneva: World Health Organization; 2022. Licence: CC BY-NC-SA 3.0 IGO.",
+      "ne": "2 मनोसामाजिक अपाङ्गता भन्ने शब्दको अर्थगत दायरा मानसिक स्वास्थ्यसम्बन्धी अवस्था भन्ने शब्दको अर्थगत दायरासँग आंशिक रूपमा खप्टिन्छ भन्ने कुरामा ध्यान दिनुहोस्। यी शब्द र अवधारणाहरू एकअर्काका पूरक हुन् र जीवनमा भोगिएका अनुभवहरू वर्णन गर्ने फरक दृष्टिकोणहरू प्रतिबिम्बित गर्छन्। अपाङ्गताका विषयमा विशेषज्ञता भएका सहभागीहरूले पहिलो शब्द रुचाउन सक्छन् भने मानसिक स्वास्थ्यका विषयमा विशेषज्ञता भएकाहरूले पछिल्लो शब्द रुचाउन सक्छन्। सहजीकरणकर्ताले यी शब्दहरूको अर्थगत दायरा आंशिक रूपमा एकअर्कासँग खप्टिने कुरा उजागर गर्नुपर्छ र शब्दावलीका विषयमा तनाव उत्पन्न भएमा बहसमा तानिनबाट जोगिनुपर्छ। यो सन्दर्भ हेर्नुहोस्। World mental health report: transforming mental health for all. Geneva: World Health Organization; 2022. Licence: CC BY-NC-SA 3.0 IGO.",
+      "bt": "2 Note that the semantic scope of the term psychosocial disability partially overlaps with the semantic scope of the term mental health condition. These terms and concepts complement each other and reflect different perspectives for describing experiences lived through in life. Participants with expertise in disability may prefer the first term, while those with expertise in mental health may prefer the latter term. The facilitator should highlight that the semantic scopes of these terms partially overlap with each other and should avoid being drawn into debate if tensions arise over terminology. See this reference. World mental health report: transforming mental health for all. Geneva: World Health Organization; 2022. Licence: CC BY-NC-SA 3.0 IGO.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T230",
+        "T406",
+        "T410",
+        "T476"
+      ],
+      "flags": [],
+      "note": "The terminology guidance is drafted, and the supplied bibliographic reference is preserved exactly. Both occurrences of conceptual overlap were rendered as similarity in meaning. Similarity does not necessarily establish overlapping scope; the repair explicitly retains overlap in both the explanation and the facilitator guidance."
+    },
+    {
+      "id": "FAC-02-0065",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "» Across our lifespan, the quality and quantity of our relationships is a significant predictor of our wellbeing. Positive relationships can help us manage stress, cope with adversity, feel a sense of belonging and connection, learn how to manage our emotions, and feel supported.",
+      "ne": "» हाम्रो जीवनकालभरि हाम्रा सम्बन्धहरूको गुणस्तर र सङ्ख्या हाम्रो कल्याणको पूर्वानुमान गर्ने महत्त्वपूर्ण आधार हुन्। सकारात्मक सम्बन्धहरूले हामीलाई तनाव व्यवस्थापन गर्न, प्रतिकूलताको सामना गर्न, अपनत्व र जोडिएको अनुभूति गर्न, आफ्ना भावनाहरू व्यवस्थापन गर्न सिक्न र सहयोग पाएको महसुस गर्न मद्दत गर्न सक्छन्।",
+      "bt": "» Throughout our lifetime, the quality and number of our relationships are important bases for predicting our well-being. Positive relationships can help us manage stress, face adversity, feel belonging and connection, learn to manage our emotions, and feel supported.",
+      "type": "general",
+      "terms": [
+        "T328"
+      ],
+      "flags": [],
+      "note": "Stress and emotions are described in an everyday, non-diagnostic sense."
+    },
+    {
+      "id": "FAC-02-0066",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "» Even these relationships, however, are not sufficient to understand our wellbeing.",
+      "ne": "» तथापि, हाम्रो कल्याण बुझ्न यी सम्बन्धहरू मात्र पनि पर्याप्त हुँदैनन्।",
+      "bt": "» However, these relationships alone are not sufficient to understand our well-being.",
+      "type": "general",
+      "terms": [
+        "T328"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0067",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• Community level: The community we are part of, for example places that provide support (e.g. places of worship, community centers) or community problems such as violence or discrimination.",
+      "ne": "• समुदायको तह: हामी आबद्ध भएको समुदाय, उदाहरणका लागि सहयोग उपलब्ध गराउने स्थानहरू (जस्तै, उपासनास्थल, सामुदायिक केन्द्र) वा हिंसा वा भेदभावजस्ता सामुदायिक समस्याहरू।",
+      "bt": "• Community level: The community to which we belong, for example, places that provide support (such as places of worship, community centers) or community problems such as violence or discrimination.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": "Reclassified as general: this describes community conditions rather than giving safety instructions."
+    },
+    {
+      "id": "FAC-02-0068",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• Services level: The services and the support that we have access to also influence our mental health and psychosocial wellbeing. For example, parents with good social support and reliable livelihoods are in a better position to provide supportive care to their children. So as children, it’s not just who our parents are, it is what they are going through that impacts us.",
+      "ne": "• सेवाको तह: हाम्रो पहुँचमा रहेका सेवा र सहयोगले पनि हाम्रो मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा प्रभाव पार्छन्। उदाहरणका लागि, राम्रो सामाजिक सहयोग र भरपर्दो जीविकोपार्जन भएका आमाबाबु आफ्ना बालबालिकालाई सहयोगपूर्ण हेरचाह प्रदान गर्न अझ सक्षम अवस्थामा हुन्छन्। त्यसैले बालबालिकाका रूपमा हामीलाई हाम्रा आमाबाबु को हुन् भन्ने कुराले मात्र होइन, उनीहरू कस्तो परिस्थितिबाट गुज्रिरहेका छन् भन्ने कुराले पनि प्रभाव पार्छ।",
+      "bt": "• Service level: The services and support within our reach also affect our mental health and psychosocial well-being. For example, parents with good social support and reliable livelihoods are in a better position to provide supportive care to their children. Therefore, as children, we are affected not only by who our parents are but also by what circumstances they are going through.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T155",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reclassified as general explanatory content. T005 is reused only as the supplied unreviewed candidate; supportive care is ordinary caregiving here."
+    },
+    {
+      "id": "FAC-02-0069",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• Society level: These interactions continue beyond specific interactions to the broader social context in which we live. This includes systems, social norms, attitudes, social conditions, cultural norms, gender norms, and other aspects of our social context that influence all the other layers of this model.",
+      "ne": "• समाजको तह: यी अन्तरक्रियाहरू विशिष्ट अन्तरक्रियामा मात्र सीमित नभई हामी बस्ने व्यापक सामाजिक सन्दर्भसम्म फैलिन्छन्। यसमा प्रणालीहरू, सामाजिक मान्यताहरू, दृष्टिकोणहरू, सामाजिक अवस्थाहरू, सांस्कृतिक मान्यताहरू, लैङ्गिक मान्यताहरू र हाम्रो सामाजिक सन्दर्भका अन्य पक्षहरू समावेश हुन्छन्, जसले यस ढाँचाका अरू सबै तहलाई प्रभाव पार्छन्।",
+      "bt": "• Society level: These interactions are not limited to specific interactions but extend to the broader social context in which we live. This includes systems, social norms, attitudes, social conditions, cultural norms, gender norms, and other aspects of our social context, which affect all the other levels of this framework.",
+      "type": "general",
+      "terms": [
+        "T233"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0070",
+      "page": "14",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Note",
+      "ne": "टिप्पणी",
+      "bt": "Comment",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0071",
+      "page": "14",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Some of these factors can positively influence our mental health and psychosocial wellbeing - we call these protective factors.",
+      "ne": "यीमध्ये केही कारकहरूले हाम्रो मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सकारात्मक प्रभाव पार्न सक्छन्—हामी यिनलाई संरक्षणकारी कारकहरू भन्छौँ।",
+      "bt": "Some of these factors can have a positive effect on our mental health and psychosocial well-being—we call these protective factors.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T283",
+        "T410"
+      ],
+      "flags": [],
+      "note": "General explanation using the supplied terminology. T005 remains an unreviewed candidate."
+    },
+    {
+      "id": "FAC-02-0072",
+      "page": "14",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Some of these factors can negatively influence our mental health and psychosocial wellbeing - we call these risk factors.",
+      "ne": "यीमध्ये केही कारकहरूले हाम्रो मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा नकारात्मक प्रभाव पार्न सक्छन्—हामी यिनलाई जोखिमका कारक भन्छौँ।",
+      "bt": "Some of these factors can have a negative effect on our mental health and psychosocial well-being—we call these risk factors.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T292",
+        "T410"
+      ],
+      "flags": [],
+      "note": "General explanation using the supplied terminology. T005 remains an unreviewed candidate."
+    },
+    {
+      "id": "FAC-02-0073",
+      "page": "14",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Ask",
+      "ne": "सोध्नुहोस्।",
+      "bt": "Ask.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0074",
+      "page": "14",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "participants to give additional examples of risk and protective factors for the different layers of the social ecological model relevant to their context.",
+      "ne": "सहभागीहरूलाई सामाजिक–पारिस्थितिक ढाँचा अन्तर्गतका विभिन्न तहमा आफ्नो सन्दर्भसँग सान्दर्भिक जोखिमका कारक र संरक्षणकारी कारकहरूका थप उदाहरणहरू दिन भन्नुहोस्।",
+      "bt": "Ask participants to give further examples of risk factors and protective factors relevant to their context at different levels within the socio-ecological framework.",
+      "type": "safety",
+      "terms": [
+        "T283",
+        "T292",
+        "T406",
+        "T428"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied context identifies this fragment as an instruction to ask participants for additional examples; the relevant frozen glossary forms are available."
+    },
+    {
+      "id": "FAC-02-0075",
+      "page": "14",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Note for facilitators",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी",
+      "bt": "Comment for the facilitator",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0076",
+      "page": "14",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "The social ecological model illustration is meant to give participants an overview of examples of risk and protective factors at different layers.",
+      "ne": "सामाजिक–पारिस्थितिक ढाँचा देखाउने चित्रको उद्देश्य सहभागीहरूलाई विभिन्न तहमा रहेका जोखिमका कारक र संरक्षणकारी कारकहरूका उदाहरणहरूको झलक दिनु हो।",
+      "bt": "The purpose of the picture showing the socio-ecological framework is to give participants a glimpse of examples of risk factors and protective factors at different levels.",
+      "type": "safety",
+      "terms": [
+        "T016",
+        "T283",
+        "T292",
+        "T406",
+        "T428"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The illustration's intended overview function is retained, using the supplied frozen glossary forms."
+    },
+    {
+      "id": "FAC-02-0077",
+      "page": "14",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "You can explain that the illustration includes examples but that there are many other factors that could be added.",
+      "ne": "तपाईंले चित्रमा केही उदाहरणहरू समावेश गरिएका छन् तर थप्न सकिने अरू धेरै कारकहरू पनि छन् भनेर व्याख्या गर्न सक्नुहुन्छ।",
+      "bt": "You can explain that some examples have been included in the diagram, but there are also many other factors that could be added.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0078",
+      "page": "14",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "You can start by presenting the layers (text in blue) and then move to the specific examples at each layer.",
+      "ne": "तपाईंले सुरुमा तहहरू (नीलो रङमा लेखिएको पाठ) प्रस्तुत गर्न सक्नुहुन्छ र त्यसपछि प्रत्येक तहका विशिष्ट उदाहरणहरूमा जान सक्नुहुन्छ।",
+      "bt": "You can first present the levels (the text written in blue) and then move on to specific examples at each level.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0079",
+      "page": "14",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "As you move through the layers, it is helpful to connect specific examples to the context, e.g., at the society layer, policies on refugees impact their legal status in the country, which in turn impacts their access to services, how they are treated by police, whether they can access employment, and the level of uncertainty about their future that they experience day-to-day.",
+      "ne": "तहहरू प्रस्तुत गर्दै जाँदा विशिष्ट उदाहरणहरूलाई सन्दर्भसँग जोड्नु उपयोगी हुन्छ। उदाहरणका लागि, समाजको तहमा शरणार्थीसम्बन्धी नीतिहरूले देशभित्र उनीहरूको कानुनी हैसियतमा प्रभाव पार्छन्। त्यसले फेरि सेवामा उनीहरूको पहुँच, प्रहरीले उनीहरूप्रति गर्ने व्यवहार, उनीहरूले रोजगारी पाउन सक्छन् कि सक्दैनन् भन्ने कुरा र आफ्नो भविष्यबारे उनीहरूले दिनहुँ अनुभव गर्ने अनिश्चितताको स्तरमा प्रभाव पार्छ।",
+      "bt": "As you present the levels, it is useful to connect specific examples to the context. For example, at the society level, policies concerning refugees affect their legal status within the country. That in turn affects their access to services, how the police treat them, whether or not they can get employment, and the level of uncertainty they experience daily about their future.",
+      "type": "general",
+      "terms": [
+        "T287"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0080",
+      "page": "14",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "These factors then can positively or negatively impact wellbeing.",
+      "ne": "त्यसपछि यी कारकहरूले कल्याणमा सकारात्मक वा नकारात्मक प्रभाव पार्न सक्छन्।",
+      "bt": "These factors can then have a positive or negative effect on well-being.",
+      "type": "general",
+      "terms": [
+        "T328"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0081",
+      "page": "14",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "Explain",
+      "ne": "बुझाउनुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0082",
+      "page": "14",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "to participants that, in humanitarian crises:",
+      "ne": "सहभागीहरूलाई मानवीय सङ्कटका बेला हुने निम्न अवस्थाबारे बुझाउनुहोस्।",
+      "bt": "Explain to participants the following situations that occur during humanitarian crises.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": "Rendered as a complete facilitator instruction introducing the following bullets."
+    },
+    {
+      "id": "FAC-02-0083",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• Pre-existing risk factors (e.g. poverty, shortage of mental health workers) can be exacerbated and new risk factors can emerge (e.g. separation from or loss of loved ones, food insecurity, loss of livelihoods, illnesses, etc.).",
+      "ne": "• पहिलेदेखि रहेका जोखिमका कारक (जस्तै, गरिबी, मानसिक स्वास्थ्य क्षेत्रमा काम गर्ने जनशक्तिको अभाव) अझ गम्भीर हुन सक्छन् र नयाँ जोखिमका कारक देखा पर्न सक्छन् (जस्तै, प्रियजनबाट अलग हुनु वा उनीहरूलाई गुमाउनु, खाद्य असुरक्षा, जीविकोपार्जन गुम्नु, रोगहरू आदि)।",
+      "bt": "• Pre-existing risk factors (such as poverty, a shortage of personnel working in the mental health sector) can become more severe, and new risk factors can emerge (such as separation from or loss of loved ones, food insecurity, loss of livelihood, diseases, etc.).",
+      "type": "general",
+      "terms": [
+        "T292",
+        "T157",
+        "T155"
+      ],
+      "flags": [],
+      "note": "Reclassified as general: the examples describe crisis conditions and workforce shortages, not clinical assessment or treatment."
+    },
+    {
+      "id": "FAC-02-0084",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• At the same time, protective factors can diminish (e.g. separation from support networks).",
+      "ne": "• यसै समयमा संरक्षणकारी कारकहरू कमजोर हुन सक्छन् (जस्तै, सहयोगका सञ्जालबाट अलग हुनु)।",
+      "bt": "• At the same time, protective factors can weaken (such as separation from support networks).",
+      "type": "general",
+      "terms": [
+        "T283"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0085",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• The more the risk factors outweigh the protective factors, the greater the risk of poor mental health and psychosocial well-being.",
+      "ne": "• संरक्षणकारी कारकहरूको तुलनामा जोखिमका कारक जति बढी हावी हुन्छन्, मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण कमजोर अवस्थामा हुने जोखिम त्यति नै बढी हुन्छ।",
+      "bt": "The more risk factors predominate compared with protective factors, the greater the risk of mental health and psychosocial well-being being in a poor state.",
+      "type": "general",
+      "terms": [
+        "T283",
+        "T292",
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "General description of the relationship between risk and protective factors. T005 is reused as an unreviewed candidate, not a validated clinical formulation. The source concerns the risk of poor mental health and psychosocial well-being, not specifically the risk of their weakening from a previous level. The revision expresses a poor state rather than a change."
+    },
+    {
+      "id": "FAC-02-0086",
+      "page": "14",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "MHPSS activities",
+      "ne": "MHPSS गतिविधिहरू",
+      "bt": "MHPSS activities",
+      "type": "safety",
+      "terms": [
+        "T158"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "This heading is reported to lie outside the visible page boundary; its placement and inclusion remain unverified."
+    },
+    {
+      "id": "FAC-02-0087",
+      "page": "14",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "take these factors into account by:",
+      "ne": "निम्न तरिकाले यी कारकहरूलाई ध्यानमा राख्छन्:",
+      "bt": "take these factors into account in the following ways:",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "This continuation is reported to lie outside the visible page boundary and takes its subject from the preceding MHPSS activities heading."
+    },
+    {
+      "id": "FAC-02-0088",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• promoting protective factors (e.g. promoting positive coping strategies; strengthening social connections)",
+      "ne": "• संरक्षणकारी कारकहरूलाई प्रवर्द्धन गरेर (जस्तै: कठिनाइको सामना गर्ने सकारात्मक रणनीतिहरूलाई प्रवर्द्धन गर्ने; सामाजिक सम्बन्धहरू सुदृढ बनाउने)",
+      "bt": "• By promoting protective factors (for example: promoting positive strategies for coping with difficulties; strengthening social relationships)",
+      "type": "safety",
+      "terms": [
+        "T283"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "This bullet is reported to lie outside the visible page boundary; the wording places 'positive' directly with strategies while retaining coping and both examples."
+    },
+    {
+      "id": "FAC-02-0089",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• reducing/ mitigating risk factors (e.g. reducing harmful parenting practices through support for caregivers)",
+      "ne": "• जोखिमका कारक घटाएर/न्यूनीकरण गरेर (जस्तै: हेरचाहकर्तालाई सहयोग गरेर बालबालिका हुर्काउने अभ्यासहरूमध्ये हानिकारक अभ्यासहरू घटाउने)",
+      "bt": "• By reducing/minimizing risk factors (for example: reducing harmful practices among child-rearing practices by supporting caregivers)",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T292",
+        "T405"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "This bullet is reported to lie outside the visible page boundary; caregiver support remains the means of reducing harmful parenting practices."
+    },
+    {
+      "id": "FAC-02-0090",
+      "page": "14",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• building individuals’ resilience and strengthening their protective environments: the ability to overcome adversity and positively adapt after challenging or difficult experiences. An individual´s resilience relates not only to their innate strengths and coping capacities but also to a pattern of risk and protective factors in their social and cultural environments.3",
+      "ne": "• व्यक्तिहरूको उत्थानशीलता विकास गर्ने र उनीहरूलाई संरक्षण दिने वातावरणलाई सुदृढ बनाउने: प्रतिकूलतालाई पार गर्ने र चुनौतीपूर्ण वा कठिन अनुभवहरूपछि सकारात्मक रूपमा अनुकूलन गर्ने क्षमता। व्यक्तिको उत्थानशीलता उसका जन्मजात सबल पक्षहरू र कठिनाइको सामना गर्ने क्षमतासँग मात्र नभई उसको सामाजिक तथा सांस्कृतिक वातावरणमा रहेका जोखिमका कारक र संरक्षणकारी कारकहरू मिलेर बनेको ढाँचासँग पनि सम्बन्धित हुन्छ।3",
+      "bt": "• Developing individuals’ resilience and strengthening the environment that gives them protection: the ability to overcome adversity and adapt positively after challenging or difficult experiences. An individual’s resilience is related not only to their innate strengths and ability to face difficulties but also to the pattern formed by risk factors and protective factors in their social and cultural environment.3",
+      "type": "safety",
+      "terms": [
+        "T503",
+        "T283"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing"
+      ],
+      "note": "Unvalidated practitioner draft using the supplied frozen candidates; the source text is reported to lie outside the visible page boundary and requires source review, and footnote marker 3 is retained."
+    },
+    {
+      "id": "FAC-02-0091",
+      "page": "14",
+      "loc": "footnote",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "3 United Nations Children’s Fund, ‘Growing Up in Conflict: The impact on children’s mental health and psychosocial well-being; Report on the symposium, 26–28 May 2015, New Babylon Meeting Center, The Hague’, UNICEF, New York, 2015, p. 15.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "Keep the complete English bibliographic citation unchanged, including footnote number 3, UNICEF, 26–28 May 2015, New York, 2015, and p. 15. This text lies outside the visible page boundary in the source and is preserved for source review."
+    },
+    {
+      "id": "FAC-02-0092",
+      "page": "15",
+      "loc": "heading",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "MHPSS activities",
+      "ne": "MHPSS गतिविधिहरू",
+      "bt": "MHPSS activities",
+      "type": "activity",
+      "terms": [
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-02-0093",
+      "page": "15",
+      "loc": "para",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "take these factors into account by:",
+      "ne": "निम्न तरिकाले यी कारकहरूलाई ध्यानमा राख्छन्।",
+      "bt": "take these factors into account in the following ways.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Continues the preceding MHPSS activities heading."
+    },
+    {
+      "id": "FAC-02-0094",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• promoting protective factors (e.g. promoting positive coping strategies; strengthening social connections)",
+      "ne": "• संरक्षणकारी कारकहरू प्रवर्द्धन गरेर (जस्तै, कठिनाइको सामना गर्ने सकारात्मक उपायहरू प्रवर्द्धन गरेर; सामाजिक सम्बन्धहरू सुदृढ गरेर)।",
+      "bt": "• By promoting protective factors (such as by promoting positive ways of facing difficulties; by strengthening social relationships).",
+      "type": "general",
+      "terms": [
+        "T283"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Coping strategies is rendered as ordinary ways of dealing with difficulties, not a named clinical technique; the proposed term requires review."
+    },
+    {
+      "id": "FAC-02-0095",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• reducing/ mitigating risk factors (e.g. reducing harmful parenting practices through support for caregivers)",
+      "ne": "• जोखिमका कारक घटाएर वा तिनको प्रभाव कम गरेर (जस्तै, हेरचाहकर्तालाई सहयोग गरेर बालबालिका हुर्काउने हानिकारक अभ्यासहरू घटाएर)।",
+      "bt": "• By reducing risk factors or lessening their effects (such as by reducing harmful child-rearing practices by supporting caregivers).",
+      "type": "general",
+      "terms": [
+        "T292",
+        "T006"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical rendering of parenting practices; the glossary remains unchanged."
+    },
+    {
+      "id": "FAC-02-0096",
+      "page": "15",
+      "loc": "bullet",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "• building individuals’ resilience and strengthening their protective environments: the ability to overcome adversity and positively adapt after challenging or difficult experiences. An individual´s resilience relates not only to their innate strengths and coping capacities but also to a pattern of risk and protective factors in their social and cultural environments.3",
+      "ne": "• व्यक्तिहरूको उत्थानशीलता विकास गर्ने र उनीहरूलाई संरक्षण दिने वातावरणलाई सुदृढ बनाउने: प्रतिकूलतालाई पार गर्ने र चुनौतीपूर्ण वा कठिन अनुभवहरूपछि सकारात्मक रूपमा अनुकूलन गर्ने क्षमता। व्यक्तिको उत्थानशीलता उसका जन्मजात सबल पक्षहरू र कठिनाइको सामना गर्ने क्षमतासँग मात्र नभई उसको सामाजिक तथा सांस्कृतिक वातावरणमा रहेका जोखिमका कारक र संरक्षणकारी कारकहरू मिलेर बनेको ढाँचासँग पनि सम्बन्धित हुन्छ।3",
+      "bt": "• Developing individuals’ resilience and strengthening the environment that gives them protection: the ability to overcome adversity and adapt positively after challenging or difficult experiences. An individual’s resilience is related not only to their innate strengths and ability to face difficulties but also to the pattern formed by risk factors and protective factors in their social and cultural environment.3",
+      "type": "safety",
+      "terms": [
+        "T503",
+        "T283"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated practitioner draft using the supplied frozen candidates; the relationship to both individual capacities and social and cultural environments is retained, along with footnote marker 3."
+    },
+    {
+      "id": "FAC-02-0097",
+      "page": "15",
+      "loc": "footnote",
+      "section": "Mental Health and Psychosocial Wellbeing",
+      "en": "3 United Nations Children’s Fund, ‘Growing Up in Conflict: The impact on children’s mental health and psychosocial well-being; Report on the symposium, 26–28 May 2015, New Babylon Meeting Center, The Hague’, UNICEF, New York, 2015, p. 15.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Bibliographic citation retained in the English source, including footnote number 3, the full title, symposium dates and venue, publisher, publication year and page reference."
+    }
+  ]
+}

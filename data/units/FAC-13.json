@@ -1,0 +1,964 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-13",
+  "unit_title": "Additional MSP Tools",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "57-60",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:03:09+05:45",
+  "coverage": {
+    "source_words": 817,
+    "row_words": 817,
+    "skipped": [
+      "Page 57: running-footer: Module 7 · MSP Workshop Facilitator Manual · 53",
+      "Page 58: running-footer: 54 · MSP Workshop Facilitator Manual · Module 7",
+      "Page 58: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 58: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 58: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 59: running-footer: Module 7 · MSP Workshop Facilitator Manual · 55",
+      "Page 59: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 59: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 59: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 59: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 60: running-footer: 56 · MSP Workshop Facilitator Manual"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-13-0001",
+      "page": "57",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "Module 7:",
+      "ne": "मोड्युल 7:",
+      "bt": "Module 7:",
+      "type": "activity",
+      "terms": [
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0002",
+      "page": "57",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "Additional MSP tools",
+      "ne": "थप MSP उपकरणहरू",
+      "bt": "Additional MSP tools",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0003",
+      "page": "57",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "By the end of this module, participants will be able to:",
+      "ne": "यस मोड्युलको अन्त्यसम्ममा सहभागीहरू निम्न कार्य गर्न सक्षम हुनेछन्:",
+      "bt": "By the end of this module, participants will be able to do the following:",
+      "type": "safety",
+      "terms": [
+        "T399",
+        "T406"
+      ],
+      "flags": [
+        "unclear-english"
+      ],
+      "note": "The source introduces participant abilities, but the following three bullets name topics without specifying actions; those intended actions remain unspecified."
+    },
+    {
+      "id": "FAC-13-0004",
+      "page": "57",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "› The purpose and functioning of the MSP costing tool",
+      "ne": "› MSP लागत अनुमान उपकरणको उद्देश्य र कार्यप्रणाली",
+      "bt": "› The purpose and working method of the MSP cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0005",
+      "page": "57",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "› The purpose and functioning of the MSP Gap Analysis tool",
+      "ne": "› MSP कमी विश्लेषण उपकरणको उद्देश्य र कार्यप्रणाली",
+      "bt": "› The purpose and working method of the MSP gap analysis tool",
+      "type": "general",
+      "terms": [
+        "T038"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0006",
+      "page": "57",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "› The purpose and functioning of the MSP M&E Indicator Bank",
+      "ne": "› MSP अनुगमन तथा मूल्याङ्कन (M&E) सूचक भण्डारको उद्देश्य र कार्यप्रणाली",
+      "bt": "› The purpose and working method of the MSP monitoring and evaluation (M&E) indicator repository",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T382",
+        "T394",
+        "T396"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "M&E Indicator Bank is absent from the supplied glossary. Proposed nonclinical rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (M&E) [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0007",
+      "page": "57",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "7.1 Additional MSP Tools",
+      "ne": "7.1 थप MSP उपकरणहरू",
+      "bt": "7.1 Additional MSP tools",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0008",
+      "page": "57",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "› Introducing additional MSP tools",
+      "ne": "› थप MSP उपकरणहरूको परिचय",
+      "bt": "› Introduction to additional MSP tools",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0009",
+      "page": "57",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "25 min",
+      "ne": "25 मिनेट",
+      "bt": "25 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Timing label, not a check item."
+    },
+    {
+      "id": "FAC-13-0010",
+      "page": "58",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "7.1 Additional MSP Tools",
+      "ne": "7.1 थप MSP उपकरणहरू",
+      "bt": "7.1 Additional MSP tools",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0011",
+      "page": "58",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "Introducing additional MSP tools",
+      "ne": "थप MSP उपकरणहरूको परिचय",
+      "bt": "Introduction to additional MSP tools",
+      "type": "activity",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0012",
+      "page": "58",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "Introduce",
+      "ne": "परिचय दिनुहोस्।",
+      "bt": "Introduce.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0013",
+      "page": "58",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "25 min",
+      "ne": "25 मिनेट",
+      "bt": "25 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Timing label, not a check item."
+    },
+    {
+      "id": "FAC-13-0014",
+      "page": "58",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "the three planning tools: Gap Analysis, Costing tool (and budget tables), and M&E Indicator Bank.",
+      "ne": "योजना बनाउने तीन उपकरणहरू: अन्तर विश्लेषण, लागत अनुमान उपकरण (र बजेट तालिकाहरू), तथा अनुगमन तथा मूल्याङ्कन (M&E) सूचक भण्डार।",
+      "bt": "Three planning tools: gap analysis, the cost estimation tool (and budget tables), and the monitoring and evaluation (M&E) indicator repository.",
+      "type": "general",
+      "terms": [
+        "T340",
+        "T351",
+        "T370",
+        "T382",
+        "T394",
+        "T396"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Completes the object of the preceding introduction instruction. M&E Indicator Bank is absent from the supplied glossary; proposed rendering: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (M&E) [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0015",
+      "page": "58",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0016",
+      "page": "58",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "The Gap Analysis is a tool is for use of MHPSS Technical Working Groups (MHPSS TWGs) to assess and map current MSP MHPSS implementation and to identify gaps and prioritize activities.",
+      "ne": "अन्तर विश्लेषण यस्तो उपकरण हो, जसलाई MHPSS सम्बन्धी प्राविधिक कार्यसमूह (MHPSS TWGs) ले MSP अन्तर्गत हाल भइरहेको MHPSS कार्यान्वयनको लेखाजोखा र नक्साङ्कन गर्न, कमीहरू पहिचान गर्न तथा गतिविधिहरूको प्राथमिकता निर्धारण गर्न प्रयोग गर्छन्।",
+      "bt": "Gap analysis is a tool that technical working groups related to MHPSS (MHPSS TWGs) use to take stock of and map current MHPSS implementation under the MSP, identify gaps, and prioritize activities.",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T163",
+        "T232",
+        "T370",
+        "T380"
+      ],
+      "flags": [],
+      "note": "The duplicated source wording 'is a tool is' is rendered as a single grammatical statement."
+    },
+    {
+      "id": "FAC-13-0017",
+      "page": "58",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "Emphasize that the results of the gap analysis can be used by members of the MHPSS TWG, other coordination groups, donors and individual program planners to plan and prioritize programming.",
+      "ne": "अन्तर विश्लेषणका नतिजाहरू MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) का सदस्यहरू, अन्य समन्वय समूहहरू, दातृ निकाय र व्यक्तिगत रूपमा कार्यक्रम योजना बनाउने व्यक्तिहरूले कार्यक्रम तर्जुमा तथा कार्यान्वयनको योजना बनाउन र प्राथमिकता निर्धारण गर्न प्रयोग गर्न सक्छन् भन्ने कुरामा जोड दिनुहोस्।",
+      "bt": "Emphasize that members of the MHPSS technical working group (MHPSS TWG), other coordination groups, donor agencies, and individuals who plan programs can use the results of the gap analysis to plan and prioritize program design and implementation.",
+      "type": "general",
+      "terms": [
+        "T268",
+        "T128",
+        "T023",
+        "T282",
+        "T349",
+        "T370"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0018",
+      "page": "58",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "Describe that often one of the challenges is that organizations don’t use the same language (e.g. they might name activities differently) and how this makes communication among actors difficult, hampering efforts to identify which activities are being implemented and address gaps.",
+      "ne": "संस्थाहरूले एउटै शब्दावली प्रयोग नगर्नु प्रायः एउटा चुनौती हुने कुरा वर्णन गर्नुहोस् (उदाहरणका लागि, उनीहरूले गतिविधिहरूलाई फरक नाम दिन सक्छन्)। यसले सम्बद्ध पक्षहरूबीच सञ्चार कसरी कठिन बनाउँछ र कुन गतिविधिहरू कार्यान्वयन भइरहेका छन् भन्ने पहिचान गर्न तथा कमीहरू सम्बोधन गर्न गरिने प्रयासमा कसरी बाधा पुर्‍याउँछ भन्ने पनि वर्णन गर्नुहोस्।",
+      "bt": "Describe how organizations not using the same terminology is often a challenge (for example, they may give activities different names). Also describe how this makes communication between stakeholders difficult and hinders efforts to identify which activities are being implemented and to address gaps.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T232"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0019",
+      "page": "58",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "Explain that doing the Gap Analysis is a good start to guide actors in using the same language, based on the MHPSS Programme activities in Sections 3 and 4.",
+      "ne": "खण्ड 3 र 4 मा रहेका MHPSS कार्यक्रमगत गतिविधिहरूका आधारमा सम्बद्ध पक्षहरूलाई एउटै शब्दावली प्रयोग गर्न मार्गदर्शन दिन अन्तर विश्लेषण गर्नु राम्रो सुरुआत हो भन्ने व्याख्या गर्नुहोस्।",
+      "bt": "Explain that conducting a gap analysis is a good start for guiding stakeholders to use the same terminology based on the MHPSS programmatic activities in Sections 3 and 4.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T114",
+        "T370",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Facilitation instruction, not a check item."
+    },
+    {
+      "id": "FAC-13-0020",
+      "page": "58",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "End by",
+      "ne": "अन्त्यमा",
+      "bt": "Finally",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Lead-in completed by the following row."
+    },
+    {
+      "id": "FAC-13-0021",
+      "page": "58",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "describing the benefits of conducting a Gap Analysis:",
+      "ne": "अन्तर विश्लेषण गर्नुका फाइदाहरू वर्णन गर्नुहोस्।",
+      "bt": "Describe the benefits of conducting a gap analysis.",
+      "type": "general",
+      "terms": [
+        "T370"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0022",
+      "page": "58",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Assess the robustness of a response, identify gaps in activities, geographic or demographic coverage, and areas of overlap or overemphasis.",
+      "ne": "• प्रतिकार्यको सुदृढता लेखाजोखा गर्ने, गतिविधिहरू तथा भौगोलिक वा जनसांख्यिकीय पहुँचमा रहेका कमीहरू र एकअर्कासँग खप्टिएका वा अत्यधिक जोड दिइएका पक्षहरू पहिचान गर्ने।",
+      "bt": "• Assess the robustness of the response, identify gaps in activities and geographical or demographic reach, and aspects that overlap with one another or have been given excessive emphasis.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T232"
+      ],
+      "flags": [],
+      "note": "The original Nepali and BT narrow 'overlap' to duplicated work. Overlapping activities or coverage need not be duplicate work; the revision retains overlap without that restriction."
+    },
+    {
+      "id": "FAC-13-0023",
+      "page": "58",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Planning and prioritizing at the TWG, sector/cluster/AOR and organization level.",
+      "ne": "• TWG, क्षेत्र/क्लस्टर/AOR र संस्थाको स्तरमा योजना बनाउने र प्राथमिकता निर्धारण गर्ने।",
+      "bt": "• Plan and set priorities at the TWG, sector/cluster/AOR, and organizational levels.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T123"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0024",
+      "page": "58",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Better understand challenges and barriers to integrating MHPSS so these can be addressed.",
+      "ne": "• MHPSS एकीकृत गर्ने क्रममा आउने चुनौती र अवरोधहरूलाई अझ राम्ररी बुझ्ने, ताकि तिनलाई सम्बोधन गर्न सकियोस्।",
+      "bt": "• Better understand the challenges and barriers that arise when integrating MHPSS, so that they can be addressed.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0025",
+      "page": "58",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Advocate to donors and others to help fill identified gaps",
+      "ne": "• पहिचान गरिएका कमीहरू पूरा गर्न सहयोग जुटाउन दातृ निकाय र अन्य पक्षहरूसमक्ष पैरवी गर्ने।",
+      "bt": "• Advocate with donor agencies and other parties to mobilize support to fill the identified gaps.",
+      "type": "general",
+      "terms": [
+        "T232",
+        "T023",
+        "T191"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0026",
+      "page": "58",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Coordinate organizations and sectors/AoRs implementing or supporting the same MSP activities",
+      "ne": "• एउटै MSP गतिविधिहरू कार्यान्वयन गर्ने वा तिनलाई सहयोग गर्ने संस्थाहरू र क्षेत्रहरू/AoRs बीच समन्वय गर्ने।",
+      "bt": "• Coordinate between organizations and sectors/AoRs that implement or support the same MSP activities.",
+      "type": "general",
+      "terms": [
+        "T272",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0027",
+      "page": "58",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Repeating a Gap Analysis can show changes over time (e.g. whether more activities are being covered or whether demographic / geographic coverage has improved). Remind participants that the Gap analysis tools is available on the MSP website through the main navigation bar.",
+      "ne": "• अन्तर विश्लेषण दोहोर्‍याउँदा समयसँगै भएका परिवर्तनहरू देखिन सक्छन् (उदाहरणका लागि, थप गतिविधिहरू समेटिएका छन् कि छैनन् वा जनसांख्यिकीय / भौगोलिक पहुँचमा सुधार भएको छ कि छैन)। अन्तर विश्लेषण उपकरण MSP वेबसाइटको मुख्य नेभिगेसन बारमार्फत उपलब्ध छ भन्ने कुरा सहभागीहरूलाई सम्झाउनुहोस्।",
+      "bt": "• Repeating the gap analysis can show changes over time (for example, whether additional activities have been covered or whether demographic / geographical reach has improved). Remind participants that the gap analysis tool is available through the main navigation bar of the MSP website.",
+      "type": "general",
+      "terms": [
+        "T137",
+        "T163",
+        "T370",
+        "T406",
+        "T443"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0028",
+      "page": "59",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "Move",
+      "ne": "अगाडि बढ्नुहोस्।",
+      "bt": "Move forward.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0029",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "to the Costing tool and explain that it is designed to support coordinators, donors, and program managers with costing MSP activities, allocation of funding, program planning and advocacy.",
+      "ne": "लागत अनुमान उपकरणतर्फ जानुहोस् र यो समन्वयकर्ताहरू, दातृ निकाय र कार्यक्रम व्यवस्थापकहरूलाई MSP गतिविधिहरूको लागत अनुमान गर्न, वित्तपोषण बाँडफाँट गर्न, कार्यक्रमको योजना बनाउन र पैरवी गर्न सहयोग पुर्‍याउने गरी तयार गरिएको हो भन्ने व्याख्या गर्नुहोस्।",
+      "bt": "Move to the cost estimation tool and explain that it is designed to help coordinators, donor agencies, and program managers estimate the costs of MSP activities, allocate funding, plan programs, and advocate.",
+      "type": "general",
+      "terms": [
+        "T214",
+        "T023",
+        "T272",
+        "T231",
+        "T191",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0030",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "It can also be used by individual actors and organizations to guide budgeting of specific activities.",
+      "ne": "छुट्टाछुट्टै सम्बद्ध पक्षहरू र संस्थाहरूले पनि निश्चित गतिविधिहरूका लागि बजेट तयार गर्न मार्गदर्शनका रूपमा यसलाई प्रयोग गर्न सक्छन्।",
+      "bt": "Individual stakeholders and organizations can also use it as guidance to prepare budgets for specific activities.",
+      "type": "general",
+      "terms": [
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0031",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "In the tool you can select which MSP activities you want to include in the costing.",
+      "ne": "यस उपकरणमा तपाईंले लागत अनुमानमा कुन MSP गतिविधिहरू समावेश गर्ने भन्ने छनोट गर्न सक्नुहुन्छ।",
+      "bt": "In this tool, you can choose which MSP activities to include in the cost estimate.",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0032",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "Basic information must be entered, for example, the country, the size of the affected population, number of health facilities, and it will give you an estimate of how much each of the activities cost and how much all of the activities cost together.",
+      "ne": "आधारभूत जानकारी प्रविष्ट गर्नुपर्छ, उदाहरणका लागि देश, प्रभावित जनसङ्ख्याको आकार र स्वास्थ्य संस्थाहरूको सङ्ख्या। त्यसपछि यसले प्रत्येक गतिविधिको लागत कति हुन्छ र सबै गतिविधिहरूको कुल लागत कति हुन्छ भन्ने अनुमान दिन्छ।",
+      "bt": "Basic information must be entered, for example the country, the size of the affected population, and the number of health facilities. It then gives an estimate of how much each activity costs and how much the total cost of all activities is.",
+      "type": "general",
+      "terms": [
+        "T237"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0033",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "It bases calculations on default values, which you can also change to improve accuracy.",
+      "ne": "यसले पूर्वनिर्धारित मानका आधारमा गणना गर्छ, र गणनाको शुद्धता बढाउन तपाईंले ती मान परिवर्तन पनि गर्न सक्नुहुन्छ।",
+      "bt": "It calculates based on default values, and you can also change those values to increase the accuracy of the calculation.",
+      "type": "general",
+      "terms": [
+        "T356"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0034",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "For example, you can change default unit costs and select whether you plan to engage international staff or national staff for different roles, and adjust the estimates accordingly.",
+      "ne": "उदाहरणका लागि, तपाईंले पूर्वनिर्धारित प्रतिएकाइ लागत परिवर्तन गर्न, विभिन्न भूमिकाका लागि अन्तर्राष्ट्रिय कर्मचारी वा राष्ट्रिय कर्मचारीमध्ये कसलाई संलग्न गराउने योजना छ भन्ने छनोट गर्न र सोहीअनुसार अनुमान समायोजन गर्न सक्नुहुन्छ।",
+      "bt": "For example, you can change the default per-unit cost, choose whether you plan to engage international staff or national staff for different roles, and adjust the estimate accordingly.",
+      "type": "general",
+      "terms": [
+        "T356"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0035",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "Note that the tool calculates overall costs, including overheads.",
+      "ne": "यस उपकरणले प्रशासनिक तथा अन्य अप्रत्यक्ष खर्चसहितको समग्र लागत गणना गर्छ भन्ने कुरा ध्यानमा राख्नुहोस्।",
+      "bt": "Keep in mind that this tool calculates the overall cost, including administrative and other indirect expenses.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Overheads is rendered as administrative and other indirect expenses."
+    },
+    {
+      "id": "FAC-13-0036",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "Remind participants that the Costing tool is available on the MSP website under the MSP Guide, along with a User Guide.",
+      "ne": "MSP वेबसाइटमा MSP मार्गदर्शिकाअन्तर्गत प्रयोगकर्ता मार्गदर्शिकासहित MSP लागत अनुमान उपकरण उपलब्ध छ भन्ने कुरा सहभागीहरूलाई सम्झाउनुहोस्।",
+      "bt": "Remind participants that the MSP cost estimation tool, together with a user guide, is available under the MSP guide on the MSP website.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T144",
+        "T020",
+        "T351",
+        "T406",
+        "T443"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0037",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "The MSP costing tool provides estimates of the cost of MSP activities based on the budget tables.",
+      "ne": "MSP लागत अनुमान उपकरणले बजेट तालिकाहरूका आधारमा MSP गतिविधिहरूको लागत अनुमान प्रदान गर्छ।",
+      "bt": "The MSP cost estimation tool provides cost estimates for MSP activities based on the budget tables.",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T272",
+        "T340",
+        "T351"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Budget tables is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0038",
+      "page": "59",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "Introduce",
+      "ne": "परिचय गराउनुहोस्।",
+      "bt": "Introduce.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The source heading introduces the instruction continued in the next row."
+    },
+    {
+      "id": "FAC-13-0039",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "participants to the Budget Tables activity.",
+      "ne": "सहभागीहरूलाई ‘बजेट तालिकाहरू’ गतिविधिको परिचय गराउनुहोस्।",
+      "bt": "Introduce the ‘Budget Tables’ activity to the participants.",
+      "type": "general",
+      "terms": [
+        "T340",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The source fragment continues the preceding heading; the verb is repeated to make this row a natural Nepali instruction. Budget Tables is absent from G-0.3; proposed base wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The source identifies the Budget Tables activity; the translation instead describes an activity related to budget tables. Preserve the activity name. The repeated introductory verb completes the instruction continued from the preceding heading."
+    },
+    {
+      "id": "FAC-13-0040",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "Explain that The budget tables serve as a memory aid for planning and budgeting.",
+      "ne": "योजना र बजेट तयार गर्दा आवश्यक कुरा सम्झन बजेट तालिकाहरूले सहयोग गर्छन् भनी व्याख्या गर्नुहोस्।",
+      "bt": "Explain that the budget tables help people remember what is needed when preparing plans and budgets.",
+      "type": "general",
+      "terms": [
+        "T340"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Budget tables is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0041",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "Participants will find a table of budget items for each MSP programme activity, listing staff they might need to hire, materials and equipment, and other costs like translations and so on they might need to consider.",
+      "ne": "सहभागीहरूले प्रत्येक MSP कार्यक्रम गतिविधिका लागि बजेटका शीर्षकहरूको तालिका पाउनेछन्, जसमा उनीहरूले नियुक्त गर्नुपर्ने हुन सक्ने कर्मचारी, सामग्री तथा उपकरण र विचार गर्नुपर्ने हुन सक्ने अनुवादलगायतका अन्य खर्चहरू सूचीबद्ध छन्।",
+      "bt": "Participants will receive a table of budget headings for each MSP programme activity, listing staff they may need to hire, materials and equipment, and other expenses, including translation, that they may need to consider.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T339",
+        "T406",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Budget items is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0042",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "This tool can also help donors understand budgetary needs.",
+      "ne": "यस उपकरणले दातृ निकायलाई बजेटसम्बन्धी आवश्यकताहरू बुझ्न पनि मद्दत गर्न सक्छ।",
+      "bt": "This tool can also help donor agencies understand budget-related needs.",
+      "type": "general",
+      "terms": [
+        "T023"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0043",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "Participants will work in small groups or individually.",
+      "ne": "सहभागीहरूले साना समूहमा वा व्यक्तिगत रूपमा काम गर्नेछन्।",
+      "bt": "Participants will work in small groups or individually.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0044",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "They may go back to the groups they worked on for activities 5.2. Participants will select one of the activities they are implementing and review the budget items for that activity.",
+      "ne": "उनीहरू 5.2 का गतिविधिहरूका लागि काम गरेका समूहहरूमा फर्कन सक्छन्। सहभागीहरूले आफूले कार्यान्वयन गरिरहेका गतिविधिहरूमध्ये एउटा छनोट गर्नेछन् र त्यस गतिविधिका बजेटका शीर्षकहरूको समीक्षा गर्नेछन्।",
+      "bt": "They can return to the groups in which they worked for the activities in 5.2. Participants will choose one of the activities they are implementing and review the budget headings for that activity.",
+      "type": "general",
+      "terms": [
+        "T339",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Reclassified as ordinary workshop guidance. The source's plural activities and reference 5.2 are retained. Budget items is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0045",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "Review the instructions for the activity:",
+      "ne": "गतिविधिका निर्देशनहरूको समीक्षा गर्नुहोस्।",
+      "bt": "Review the activity instructions.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0046",
+      "page": "59",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Choose one of the activities you are implementing.",
+      "ne": "• आफूले कार्यान्वयन गरिरहेका गतिविधिहरूमध्ये एउटा छनोट गर्नुहोस्।",
+      "bt": "• Choose one of the activities you are implementing.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0047",
+      "page": "59",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Review the budget items for that activity (Help participants navigate to the handout and download a copy.) Give the participants 10min. Bring participants back to plenary to discuss the following:",
+      "ne": "• त्यस गतिविधिका बजेटका शीर्षकहरूको समीक्षा गर्नुहोस्। (सहभागीहरूलाई वितरण सामग्री रहेको स्थानमा पुग्न र त्यसको एक प्रति डाउनलोड गर्न मद्दत गर्नुहोस्।) सहभागीहरूलाई 10 मिनेट समय दिनुहोस्। निम्न विषयमा छलफल गर्न सहभागीहरूलाई पुनः पूर्ण सत्रमा भेला गराउनुहोस्।",
+      "bt": "• Review the budget headings for that activity. (Help participants reach the location where the handout is available and download a copy of it.) Give participants 10 minutes. Bring participants back together in the full session to discuss the following topics.",
+      "type": "general",
+      "terms": [
+        "T339",
+        "T373",
+        "T406",
+        "T407"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Reclassified as ordinary workshop guidance. Budget items is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0048",
+      "page": "59",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Were there any budget items that surprised you?",
+      "ne": "• के बजेटका कुनै शीर्षकले तपाईंलाई आश्चर्यमा पारे?",
+      "bt": "• Did any budget headings surprise you?",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Budget items is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0049",
+      "page": "59",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Were there any budget items you would add or are not needed in your context?",
+      "ne": "• के बजेटका कुनै शीर्षक तपाईं थप्न चाहनुहुन्छ वा तपाईंको सन्दर्भमा आवश्यक छैनन्?",
+      "bt": "• Are there any budget headings you would like to add or that are not needed in your context?",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Budget items is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0050",
+      "page": "59",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• When could you use the budget tables in your work?",
+      "ne": "• तपाईंले आफ्नो काममा बजेट तालिकाहरू कहिले प्रयोग गर्न सक्नुहुन्छ?",
+      "bt": "• When could you use the budget tables in your work?",
+      "type": "general",
+      "terms": [
+        "T340"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Budget tables is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0051",
+      "page": "59",
+      "loc": "heading",
+      "section": "Additional MSP Tools",
+      "en": "Explain",
+      "ne": "व्याख्या गर्नुहोस्।",
+      "bt": "Explain.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0052",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "The M&E indicator bank includes suggested indicators for each of the MSP activities.",
+      "ne": "अनुगमन तथा मूल्याङ्कन (M&E) सूचक भण्डारमा प्रत्येक MSP गतिविधिका लागि सुझाव दिइएका सूचकहरू समावेश छन्।",
+      "bt": "The monitoring and evaluation (M&E) indicator repository contains suggested indicators for each MSP activity.",
+      "type": "general",
+      "terms": [
+        "T046",
+        "T163",
+        "T382",
+        "T394",
+        "T396"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Indicator bank is absent from G-0.3; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-13-0053",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "It can be used to:",
+      "ne": "यसलाई निम्न प्रयोजनका लागि प्रयोग गर्न सकिन्छ।",
+      "bt": "It can be used for the following purposes.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0054",
+      "page": "59",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Write proposals for funding of MHPSS activities",
+      "ne": "• MHPSS गतिविधिहरूको वित्तपोषणका लागि प्रस्ताव लेख्न।",
+      "bt": "• To write proposals for funding MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T231"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0055",
+      "page": "59",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Strengthen M&E of existing MHPSS activities",
+      "ne": "• विद्यमान MHPSS गतिविधिहरूको अनुगमन तथा मूल्याङ्कन (M&E) सुदृढ गर्न।",
+      "bt": "• To strengthen monitoring and evaluation (M&E) of existing MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T046",
+        "T394"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0056",
+      "page": "59",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Review MHPSS plans and proposals of other agencies",
+      "ne": "• अन्य संस्थाका MHPSS योजना र प्रस्तावहरूको समीक्षा गर्न।",
+      "bt": "• To review the MHPSS plans and proposals of other organizations.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-13-0057",
+      "page": "59",
+      "loc": "bullet",
+      "section": "Additional MSP Tools",
+      "en": "• Agree or recommend common MHPSS indicators for use by different actors across the humanitarian response, to allow data to be compiled for inter-agency reporting and planning (e.g. by MHPSS TWGs and other coordination groups).",
+      "ne": "• मानवीय प्रतिकार्यभरि विभिन्न सम्बद्ध पक्षहरूले प्रयोग गर्ने साझा MHPSS सूचकहरूमा सहमति जनाउन वा तिनको सिफारिस गर्न, ताकि संस्थाहरूबीचको प्रतिवेदन तयारी र योजनाका लागि तथ्याङ्क एकत्रित गर्न सकियोस् (जस्तै, MHPSS TWGs र अन्य समन्वय समूहहरूद्वारा)।",
+      "bt": "• To agree on or recommend common MHPSS indicators used by different stakeholders throughout the humanitarian response, so that data can be aggregated for inter-organizational reporting and planning (for example, by MHPSS TWGs and other coordination groups).",
+      "type": "general",
+      "terms": [
+        "T003",
+        "T114",
+        "T247",
+        "T128",
+        "T333",
+        "T349"
+      ],
+      "flags": [],
+      "note": "MHPSS TWGs is retained exactly as supplied; the singular glossary label is not substituted for it."
+    },
+    {
+      "id": "FAC-13-0058",
+      "page": "59",
+      "loc": "para",
+      "section": "Additional MSP Tools",
+      "en": "It is consistent with the IASC Common Monitoring and Evaluation Framework for Mental Health and Psychosocial Support in Emergency Settings.",
+      "ne": "यो आपत्कालीन परिस्थितिमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगका लागि IASC को साझा अनुगमन तथा मूल्याङ्कन ढाँचासँग सुसङ्गत छ।",
+      "bt": "This is consistent with the IASC common monitoring and evaluation framework for mental health and psychosocial support in emergency settings.",
+      "type": "general",
+      "terms": [
+        "T224",
+        "T001",
+        "T046",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reclassified as an ordinary statement of consistency with a named framework, not an instrument item. The clinical composite uses the exact unreviewed T001 candidate cited to MAN PDF p6 and PRIOR-SUM-29OCT2026 p.1 row 1; no clinical validation is claimed."
+    }
+  ]
+}

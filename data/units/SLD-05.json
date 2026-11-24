@@ -1,0 +1,2171 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-05",
+  "unit_title": "Navigating the MSP",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "34-64",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:11:03+05:45",
+  "coverage": {
+    "source_words": 1594,
+    "row_words": 1594,
+    "skipped": [
+      "Slide 34: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 34: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 34: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 34: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 34: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 34: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 34: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 35: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 36: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 36: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 36: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 37: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 37: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 37: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 37: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 38: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 38: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 38: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 38: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 39: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 39: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 39: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 40: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 41: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 41: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 41: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 41: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 42: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 43: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 43: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 43: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 43: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 44: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 45: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 46: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 47: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 47: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 48: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 49: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 50: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 51: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 51: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 52: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 53: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 53: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 54: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 54: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 55: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 55: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 56: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 56: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 57: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 57: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 58: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 58: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 58: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 58: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 59: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 60: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 61: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 62: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 62: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 62: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 62: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 63: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 63: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-05-0001",
+      "page": "34",
+      "loc": "slide-title",
+      "section": "Navigating the MSP",
+      "en": "Navigating the MSP",
+      "ne": "MSP मा मार्ग पहिल्याउने तरिका",
+      "bt": "How to find the way in MSP",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": "The translation narrows navigating the MSP to finding content. The revision retains the broader navigation meaning."
+    },
+    {
+      "id": "SLD-05-0002",
+      "page": "34",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Each sector/cluster/AOR has an icon",
+      "ne": "प्रत्येक क्षेत्र/क्लस्टर/AOR को एउटा प्रतीक छ।",
+      "bt": "Each sector/cluster/AOR has a symbol.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T123",
+        "T149"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AOR is absent from the supplied glossary. Proposed addition: area of responsibility; preserve the source acronym."
+    },
+    {
+      "id": "SLD-05-0003",
+      "page": "34",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "SHELTER",
+      "ne": "आश्रय",
+      "bt": "Shelter",
+      "type": "general",
+      "terms": [
+        "T300"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0004",
+      "page": "34",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "FSL",
+      "ne": "FSL",
+      "bt": "FSL",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Sector acronym retained exactly."
+    },
+    {
+      "id": "SLD-05-0005",
+      "page": "34",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "WASH",
+      "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH)",
+      "bt": "Drinking water, sanitation and hygiene (WASH)",
+      "type": "safety",
+      "terms": [
+        "T186"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen WASH form specifies drinking water, which is narrower than the sector's broader water component. bt-divergence: The frozen WASH form specifies drinking water, narrowing the sector's broader water component. The frozen form is retained."
+    },
+    {
+      "id": "SLD-05-0006",
+      "page": "34",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "CCCM",
+      "ne": "CCCM",
+      "bt": "CCCM",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Sector acronym retained exactly."
+    },
+    {
+      "id": "SLD-05-0007",
+      "page": "34",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "MINE ACTION",
+      "ne": "बारुदी सुरुङ सम्बन्धी कार्य",
+      "bt": "Work related to landmines",
+      "type": "safety",
+      "terms": [
+        "T011"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen form describes landmine-related work, whereas Mine Action can also encompass other explosive ordnance. bt-divergence: The frozen form limits MINE ACTION to landmine-related work, whereas the source sector also encompasses other explosive ordnance. The frozen form is retained."
+    },
+    {
+      "id": "SLD-05-0008",
+      "page": "34",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "NUTRITION",
+      "ne": "पोषण",
+      "bt": "Nutrition",
+      "type": "general",
+      "terms": [
+        "T030"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0009",
+      "page": "34",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "The MSP includes a range of sectors/AORs as you can see on the slide, including:​",
+      "ne": "स्लाइडमा देखिएअनुसार MSP मा विभिन्न क्षेत्र/AORs समावेश छन्, जसमा निम्न पर्छन्:",
+      "bt": "As shown on the slide, various sectors/AORs are included in the MSP, including the following:",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T296",
+        "T427"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AORs is absent from the supplied glossary. Proposed addition: area of responsibility; preserve the source acronym and plural form."
+    },
+    {
+      "id": "SLD-05-0010",
+      "page": "34",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Health, Education, Protection, (CP, GBV, MA), Nutrition, Camp Coordination and Camp Management (CCCM), Shelter & Settlements, WASH and Food Security and Livelihoods​",
+      "ne": "स्वास्थ्य, शिक्षा, संरक्षण, (CP, GBV, MA), पोषण, शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM), आश्रय तथा बस्ती, खानेपानी, सरसफाइ तथा स्वच्छता (WASH) र खाद्य सुरक्षा तथा जीविकोपार्जन",
+      "bt": "Health, education, protection, (CP, GBV, MA), nutrition, camp coordination and camp management (CCCM), shelter and settlements, drinking water, sanitation and hygiene (WASH) and food security and livelihoods",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T028",
+        "T029",
+        "T030",
+        "T031",
+        "T034",
+        "T135",
+        "T155",
+        "T186",
+        "T300",
+        "T301",
+        "T349"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen WASH form narrows water to drinking water; the source acronyms and sector-list relationships are retained. bt-divergence: The frozen WASH form specifies drinking water rather than the sector's broader water component. All listed sectors and acronyms are otherwise retained. The frozen form is retained."
+    },
+    {
+      "id": "SLD-05-0011",
+      "page": "34",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "For ease of reference, icons are provided alongside each MSP activity to indicate sectors, clusters or AoRs that are typically well placed to deliver or contribute to it.",
+      "ne": "सन्दर्भ हेर्न सजिलो होस् भनेर प्रत्येक MSP गतिविधि सँगै चिह्नहरू राखिएका छन्। यी चिह्नहरूले उक्त गतिविधि सञ्चालन गर्न वा त्यसमा योगदान दिन सामान्यतया उपयुक्त स्थितिमा रहेका क्षेत्र, क्लस्टर वा AoRs जनाउँछन्।",
+      "bt": "Symbols have been placed alongside each MSP activity to make reference easy. These symbols indicate the sectors, clusters or AoRs generally in a suitable position to conduct or contribute to that activity.",
+      "type": "general",
+      "terms": [
+        "T091",
+        "T150",
+        "T296",
+        "T124"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoRs is absent from the supplied glossary. Proposed addition: area of responsibility; preserve the source acronym and plural form."
+    },
+    {
+      "id": "SLD-05-0012",
+      "page": "34",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Let´s look at an example and see what this mean",
+      "ne": "एउटा उदाहरण हेरौँ र यसको अर्थ बुझौँ।",
+      "bt": "Let us look at an example and understand its meaning.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0013",
+      "page": "35",
+      "loc": "slide-title",
+      "section": "Navigating the MSP",
+      "en": "Sector/AoR icons",
+      "ne": "क्षेत्र/AoR का चिह्नहरू",
+      "bt": "Sector/AoR symbols",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T150"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoR is absent from the supplied glossary. Proposed addition: area of responsibility; preserve the source acronym."
+    },
+    {
+      "id": "SLD-05-0014",
+      "page": "35",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Colourful icons/icons: sectors well-placed to deliver that activity",
+      "ne": "रङ्गीन चिह्नहरू/चिह्नहरू: उक्त गतिविधि सञ्चालन गर्न उपयुक्त स्थितिमा रहेका क्षेत्र",
+      "bt": "Colored symbols/symbols: sectors in a suitable position to conduct that activity",
+      "type": "general",
+      "terms": [
+        "T150",
+        "T296"
+      ],
+      "flags": [],
+      "note": "The source repetition 'icons/icons' is retained."
+    },
+    {
+      "id": "SLD-05-0015",
+      "page": "35",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Dark blue icons/icons: sectors well-placed to contribute to the implementation of that activity",
+      "ne": "गाढा नीलो चिह्नहरू/चिह्नहरू: उक्त गतिविधिको कार्यान्वयनमा योगदान दिन उपयुक्त स्थितिमा रहेका क्षेत्र",
+      "bt": "Dark blue symbols/symbols: sectors in a suitable position to contribute to the implementation of that activity",
+      "type": "general",
+      "terms": [
+        "T150",
+        "T296",
+        "T380"
+      ],
+      "flags": [],
+      "note": "The source repetition 'icons/icons' is retained."
+    },
+    {
+      "id": "SLD-05-0016",
+      "page": "35",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Well placed to deliver",
+      "ne": "सञ्चालन गर्न उपयुक्त स्थितिमा",
+      "bt": "In a suitable position to conduct",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0017",
+      "page": "35",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Well placed to contribute to implementation",
+      "ne": "कार्यान्वयनमा योगदान दिन उपयुक्त स्थितिमा",
+      "bt": "In a suitable position to contribute to implementation",
+      "type": "general",
+      "terms": [
+        "T380"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0018",
+      "page": "35",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "AS you can see here, section 1 activities on Assessment and coordination are relevant to everyone, so lots of sectors are listed",
+      "ne": "यहाँ देखिएअनुसार खण्ड 1 मा रहेका लेखाजोखा र समन्वयसम्बन्धी गतिविधिहरू सबैका लागि सान्दर्भिक छन्, त्यसैले धेरै क्षेत्र सूचीकृत छन्।",
+      "bt": "As shown here, the activities related to assessment and coordination in Section 1 are relevant to everyone, so many sectors are listed.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T296",
+        "T349",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Ordinary explanatory content, not a check item."
+    },
+    {
+      "id": "SLD-05-0019",
+      "page": "36",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Education & Child Protection: typically well placed to provide the activity",
+      "ne": "शिक्षा र बाल संरक्षण: उक्त गतिविधि सञ्चालन गर्न सामान्यतया उपयुक्त स्थितिमा",
+      "bt": "Education and child protection: generally in a suitable position to conduct that activity",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0020",
+      "page": "36",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Shelter, CCCM, WASH: typically well placed to contribute to the activity",
+      "ne": "आश्रय, CCCM र खानेपानी, सरसफाइ तथा स्वच्छता (WASH): सामान्यतया यस क्रियाकलापमा योगदान दिन उपयुक्त स्थितिमा हुन्छन्।",
+      "bt": "Shelter, CCCM and drinking water, sanitation and hygiene (WASH): are generally in a suitable position to contribute to this activity.",
+      "type": "safety",
+      "terms": [
+        "T186",
+        "T300"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen WASH form narrows water to drinking water; the contributing actors and the qualifier typically are retained. bt-divergence: The frozen WASH form narrows water to drinking water. The actors, contribution and qualifier typically are otherwise preserved. The frozen form is retained."
+    },
+    {
+      "id": "SLD-05-0021",
+      "page": "36",
+      "loc": "slide-title",
+      "section": "Navigating the MSP",
+      "en": "Sector/AoR icons",
+      "ne": "क्षेत्र/AoR का चिह्नहरू",
+      "bt": "Sector/AoR symbols",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T150"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoR is absent from the supplied glossary. Proposed addition: area of responsibility; preserve the source acronym."
+    },
+    {
+      "id": "SLD-05-0022",
+      "page": "36",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Not intended to be prescriptive, but a guide to who typically does what",
+      "ne": "कसले के गर्नैपर्छ भनेर तोक्नका लागि नभई सामान्यतया कसले के गर्छ भन्ने विषयमा मार्गदर्शन दिनका लागि हो।",
+      "bt": "It is to provide guidance on who generally does what, not to specify who must do what.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0023",
+      "page": "36",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Let´s look at an example.",
+      "ne": "एउटा उदाहरण हेरौँ।",
+      "bt": "Let us look at an example.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0024",
+      "page": "36",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Here we have activity 3.6. As you can see :​",
+      "ne": "यहाँ गतिविधि 3.6 प्रस्तुत गरिएको छ। यहाँ देखिएअनुसार:",
+      "bt": "Activity 3.6 is presented here. As shown here:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary introduction to an example, not a check item."
+    },
+    {
+      "id": "SLD-05-0025",
+      "page": "36",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Child Protection (represented by the green icon) and/or Education (represented by the red icon) actors will provide group activities for children. ​",
+      "ne": "बाल संरक्षण (हरियो प्रतीकले जनाइएको) र/वा शिक्षा (रातो प्रतीकले जनाइएको) का सम्बद्ध पक्षहरू बालबालिकाका लागि सामूहिक गतिविधिहरू सञ्चालन गर्नेछन्।",
+      "bt": "Actors associated with child protection (indicated by the green symbol) and/or education (indicated by the red symbol) will conduct group activities for children.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T149",
+        "T028",
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0026",
+      "page": "36",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Whereas Shelter, CCCM and WASH can contribute to the activity. ​",
+      "ne": "जबकि आश्रय, CCCM र खानेपानी, सरसफाइ तथा स्वच्छता (WASH) ले यस क्रियाकलापमा योगदान दिन सक्छन्।",
+      "bt": "Whereas shelter, CCCM and drinking water, sanitation and hygiene (WASH) can contribute to this activity.",
+      "type": "safety",
+      "terms": [
+        "T186",
+        "T300"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen WASH form narrows water to drinking water; the contrast and possibility of contributing are retained. bt-divergence: The frozen WASH form narrows water to drinking water. The contrast, actors and possibility of contributing are otherwise preserved. The frozen form is retained."
+    },
+    {
+      "id": "SLD-05-0027",
+      "page": "36",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "What does contribute or support the activity mean?​",
+      "ne": "उक्त गतिविधिमा योगदान दिनु वा सहयोग गर्नुको अर्थ के हो?",
+      "bt": "What does contributing to or supporting that activity mean?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0028",
+      "page": "36",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "For example, in this instance, Shelter and/or CCCM actors might facilitate this activity by providing the space for it to take place.",
+      "ne": "उदाहरणका लागि, यस अवस्थामा आश्रय क्षेत्रका सम्बद्ध पक्षहरू र/वा CCCM सम्बद्ध पक्षले उक्त गतिविधि सञ्चालन गर्न स्थान उपलब्ध गराएर सहजीकरण गर्न सक्छन्।",
+      "bt": "For example, in this situation, actors associated with the shelter sector and/or an actor associated with CCCM can facilitate the conduct of that activity by providing a space.",
+      "type": "general",
+      "terms": [
+        "T300",
+        "T296",
+        "T114",
+        "T120"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0029",
+      "page": "36",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "In addition, Shelter, CCCM and WASH may contribute to activity 3.6 by notifying the community about when and where these activities are happening. ​",
+      "ne": "यसका अतिरिक्त, आश्रय, CCCM र खानेपानी, सरसफाइ तथा स्वच्छता (WASH) ले यी क्रियाकलापहरू कहिले र कहाँ भइरहेका छन् भन्नेबारे समुदायलाई जानकारी दिएर क्रियाकलाप 3.6 मा योगदान दिन सक्छन्।",
+      "bt": "In addition, shelter, CCCM and drinking water, sanitation and hygiene (WASH) can contribute to activity 3.6 by informing the community about when and where these activities are taking place.",
+      "type": "safety",
+      "terms": [
+        "T186",
+        "T300",
+        "T344"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen WASH form narrows water to drinking water; the possible contribution to activity 3.6 and notification of both time and place are retained. bt-divergence: The frozen WASH form narrows water to drinking water. The possible contribution to activity 3.6 through notifying the community of both time and place is otherwise preserved. The frozen form is retained."
+    },
+    {
+      "id": "SLD-05-0030",
+      "page": "36",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "It is important to note that the icons are not intended to be prescriptive, but a guide to who typically does what.",
+      "ne": "यी चिह्नहरू कसले के गर्नैपर्छ भनेर तोक्नका लागि नभई सामान्यतया कसले के गर्छ भन्ने विषयमा मार्गदर्शन दिनका लागि हुन् भन्ने कुरा ध्यानमा राख्नु महत्त्वपूर्ण छ।",
+      "bt": "It is important to keep in mind that these symbols are to provide guidance on who generally does what, not to specify who must do what.",
+      "type": "general",
+      "terms": [
+        "T150"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0031",
+      "page": "37",
+      "loc": "slide-title",
+      "section": "Navigating the MSP",
+      "en": "MHPSS MSP Activities",
+      "ne": "MHPSS MSP गतिविधिहरू",
+      "bt": "MHPSS MSP activities",
+      "type": "activity",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0032",
+      "page": "37",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Now let’s look again at the list of MHPSS activities in the MSP but now with its associated icons.",
+      "ne": "अब MSP मा रहेका MHPSS गतिविधिहरूको सूची फेरि हेरौँ, तर यस पटक तिनसँग सम्बन्धित चिह्नहरू सहित।",
+      "bt": "Now let us look again at the list of MHPSS activities in the MSP, but this time with their associated symbols.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T158",
+        "T150"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0033",
+      "page": "37",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "As you can see, all sectors are tagged in Section 1 as their contribution is fundamental in coordination efforts and also to promote a coordinated approach to the assessment of an emergency and to the prioritization of the needs.",
+      "ne": "तपाईंहरूले देख्नुभएझैँ, खण्ड 1 मा सबै क्षेत्रलाई चिन्हित गरिएको छ, किनकि समन्वयका प्रयासहरूमा र आपत्कालीन अवस्थाको लेखाजोखा तथा आवश्यकताहरूको प्राथमिकीकरणका लागि समन्वित दृष्टिकोण प्रवर्द्धन गर्न तिनको योगदान आधारभूत हुन्छ।",
+      "bt": "As you have seen, all sectors are marked in Section 1, because their contribution is fundamental to coordination efforts and to promoting a coordinated approach to assessing the emergency situation and prioritizing needs.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T004",
+        "T349",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Coordination is a recurring technical term absent from the supplied glossary; proposed wording: [Nepali wording recorded in terminology evidence]. The back-translation makes coordination efforts another object of promoting a coordinated approach. The source distinguishes contributing to coordination efforts from promoting a coordinated approach to emergency assessment and needs prioritization."
+    },
+    {
+      "id": "SLD-05-0034",
+      "page": "37",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Section 2 does not have any icons next to it because these activities relate to internal organizational processes and don’t require inter-sectoral coordination",
+      "ne": "खण्ड 2 को छेउमा कुनै चिह्नहरू छैनन्, किनकि यी गतिविधिहरू संस्थाका आन्तरिक प्रक्रियासँग सम्बन्धित छन् र यिनका लागि अन्तरक्षेत्रीय समन्वय आवश्यक पर्दैन।",
+      "bt": "There are no marks beside Section 2, because these activities relate to the organization's internal processes and do not require intersectoral coordination.",
+      "type": "general",
+      "terms": [
+        "T150",
+        "T349",
+        "T385",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Inter-sectoral coordination is absent from the supplied glossary; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-05-0035",
+      "page": "37",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "These activities are here to guide organizations internal work and systems as they are crucial for the planning and implementation of a safe and effective MHPSS response.",
+      "ne": "यी गतिविधिहरू संस्थाहरूका आन्तरिक कार्य र प्रणालीलाई दिशा दिन यहाँ समावेश गरिएका छन्, किनकि सुरक्षित र प्रभावकारी MHPSS प्रतिकार्यको योजना तथा कार्यान्वयनका लागि यी अत्यन्त महत्त्वपूर्ण छन्।",
+      "bt": "These activities are included here to guide organizations' internal work and systems, because they are extremely important for planning and implementing a safe and effective MHPSS response.",
+      "type": "general",
+      "terms": [
+        "T161",
+        "T380"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0036",
+      "page": "37",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Organizations must have sound systems for program design, for coordination, for M&E, for caring for staff & volunteers and for building the MHPSS competencies of staff & volunteers.",
+      "ne": "संस्थाहरूमा कार्यक्रमको रूपरेखा तयार गर्न, समन्वय गर्न, अनुगमन तथा मूल्याङ्कन (M&E) गर्न, कर्मचारी र स्वयंसेवकको हेरचाह गर्न तथा कर्मचारी र स्वयंसेवकको MHPSS सम्बन्धी सक्षमता विकास गर्न सुदृढ प्रणालीहरू हुनैपर्छ।",
+      "bt": "Organizations must have strong systems to design programmes, coordinate, carry out monitoring and evaluation (M&E), care for staff and volunteers, and develop staff and volunteers' MHPSS-related competencies.",
+      "type": "general",
+      "terms": [
+        "T159",
+        "T349",
+        "T394"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed standalone glossary entries: coordination = [Nepali wording recorded in terminology evidence]; monitoring and evaluation (M&E) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (M&E). The latter wording is already supplied within activity 2.2, but no standalone entry is supplied."
+    },
+    {
+      "id": "SLD-05-0037",
+      "page": "37",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Remember, Section 2 refers to the activities that any organizations engaging in any type of MHPSS activity should be doing.",
+      "ne": "याद राख्नुहोस्, खण्ड 2 मा जुनसुकै प्रकारको MHPSS गतिविधिमा संलग्न जुनसुकै संस्थाले गर्नु उचित हुने गतिविधिहरू उल्लेख गरिएका छन्।",
+      "bt": "Remember, Section 2 lists activities that it would be appropriate for any organization involved in any type of MHPSS activity to carry out.",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation strengthens 'should be doing' to 'must carry out.' The revision preserves advisory rather than mandatory force. The back-translation weakens the explicit expectation that organizations should perform these activities to a statement that performing them would be appropriate."
+    },
+    {
+      "id": "SLD-05-0038",
+      "page": "37",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "In Sections 3 & 4, we see different sectors tagged in different activities, just like we saw in the example provided before.",
+      "ne": "खण्ड 3 र 4 मा विभिन्न गतिविधिहरूमा विभिन्न क्षेत्रलाई चिन्हित गरिएको देखिन्छ, जसरी हामीले यसअघि दिइएको उदाहरणमा देखेका थियौँ।",
+      "bt": "In Sections 3 and 4, different sectors are seen marked for different activities, as we saw in the example given earlier.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0039",
+      "page": "37",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Again, this is not intended to prescribe roles for sectors, but rather to indicate which sectors are in principle best placed to implement or contribute to activities and thus facilitate coordination.",
+      "ne": "फेरि पनि, यसको उद्देश्य क्षेत्रहरूका भूमिका तोक्नु होइन, बरु सैद्धान्तिक रूपमा कुन क्षेत्र गतिविधिहरू कार्यान्वयन गर्न वा तिनमा योगदान दिन सबैभन्दा उपयुक्त स्थितिमा छन् भन्ने सङ्केत गर्नु र यसरी समन्वयलाई सहज बनाउनु हो।",
+      "bt": "Again, its purpose is not to assign roles to sectors, but rather to indicate which sectors are, in principle, best positioned to implement activities or contribute to them, and thus to facilitate coordination.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Coordination is absent from the supplied glossary; proposed wording: [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-05-0040",
+      "page": "38",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "mhpssmsp.org",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain mhpssmsp.org unchanged."
+    },
+    {
+      "id": "SLD-05-0041",
+      "page": "38",
+      "loc": "slide-title",
+      "section": "Navigating the MSP",
+      "en": "Navigating the online platform",
+      "ne": "अनलाइन मञ्चमा बाटो पहिल्याउने तरिका",
+      "bt": "How to find your way around the online platform",
+      "type": "general",
+      "terms": [
+        "T404"
+      ],
+      "flags": [],
+      "note": "'Use of the online platform' broadens the title beyond navigating it. The revision restores finding one's way around the platform."
+    },
+    {
+      "id": "SLD-05-0042",
+      "page": "39",
+      "loc": "slide-title",
+      "section": "Navigating the MSP",
+      "en": "Treasure hunt",
+      "ne": "खजाना खोज",
+      "bt": "Treasure hunt",
+      "type": "activity",
+      "terms": [
+        "T440"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0043",
+      "page": "39",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "30 min",
+      "ne": "30 मिनेट",
+      "bt": "30 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0044",
+      "page": "40",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "1.",
+      "ne": "1.",
+      "bt": "1.",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numbering retained unchanged."
+    },
+    {
+      "id": "SLD-05-0045",
+      "page": "40",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "How many MHPSS activities is the Health sector well placed to deliver?",
+      "ne": "स्वास्थ्य क्षेत्र कति वटा MHPSS गतिविधिहरू सञ्चालन गर्न उपयुक्त स्थितिमा छ?",
+      "bt": "How many MHPSS activities is the health sector well positioned to carry out?",
+      "type": "check",
+      "terms": [
+        "T027",
+        "T296",
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0046",
+      "page": "40",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "We’re going to have an honour system, so you can give yourself 1 point for each correct answer – there are a few bonus points in some questions, and I’ll let you know as we go along.",
+      "ne": "हामी इमानदारीमा आधारित व्यवस्था अपनाउनेछौँ, त्यसैले प्रत्येक सही उत्तरका लागि तपाईंले आफूलाई 1 अङ्क दिन सक्नुहुन्छ। केही प्रश्नमा केही अतिरिक्त अङ्क पनि छन्, र अघि बढ्दै जाँदा म तपाईंहरूलाई त्यसबारे जानकारी दिनेछु।",
+      "bt": "We will adopt a system based on honesty, so you can give yourself 1 point for each correct answer. There are also some extra points in some questions, and I will let you know about them as we go along.",
+      "type": "activity",
+      "terms": [
+        "T375"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring facilitation term honour system is absent from the supplied glossary; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-05-0047",
+      "page": "40",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Ok Group 1 – how many….?",
+      "ne": "ल त, समूह 1 — कति वटा…?",
+      "bt": "All right, Group 1 — how many…?",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0048",
+      "page": "40",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer: 14 + all 4 activities from section 2 (which everyone implementing MHPSS should do)",
+      "ne": "उत्तर: 14 + खण्ड 2 का सबै 4 गतिविधिहरू (जुन MHPSS कार्यान्वयन गर्ने सबैले गर्नु उचित हुन्छ)",
+      "bt": "Answer: 14 + all 4 activities in Section 2 (which it would be appropriate for everyone implementing MHPSS to carry out)",
+      "type": "check",
+      "terms": [
+        "T422"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation strengthens 'should do' to 'must carry out.' The revision retains the source's advisory force and all numbers. The back-translation weakens the explicit recommendation that everyone implementing MHPSS should perform all four Section 2 activities to a statement that doing so would be appropriate."
+    },
+    {
+      "id": "SLD-05-0049",
+      "page": "40",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "There is also one activity that they are well placed to support, so this may need to be explained if some groups say 15.",
+      "ne": "स्वास्थ्य क्षेत्र सहयोग गर्न उपयुक्त स्थितिमा रहेको अर्को एउटा गतिविधि पनि छ, त्यसैले केही समूहले 15 भनेमा यो कुरा स्पष्ट पार्नुपर्ने हुन सक्छ।",
+      "bt": "There is also one other activity that the health sector is well positioned to assist with, so this may need to be clarified if some groups say 15.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T296"
+      ],
+      "flags": [],
+      "note": "The pronoun they refers to the Health sector in the preceding question."
+    },
+    {
+      "id": "SLD-05-0050",
+      "page": "41",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Group 1 – how many….?",
+      "ne": "समूह 1 — कति वटा…?",
+      "bt": "Group 1 — how many…?",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0051",
+      "page": "41",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer: 14 + all 4 activities from section 2 (which everyone implementing MHPSS should do)",
+      "ne": "उत्तर: 14 + खण्ड 2 का सबै 4 गतिविधिहरू (जुन MHPSS कार्यान्वयन गर्ने सबैले गर्नु उचित हुन्छ)",
+      "bt": "Answer: 14 + all 4 activities in Section 2 (which it would be appropriate for everyone implementing MHPSS to carry out)",
+      "type": "check",
+      "terms": [
+        "T422"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation strengthens 'should do' to 'must carry out.' The revision retains the source's advisory force and all numbers. The back-translation weakens the explicit recommendation that everyone implementing MHPSS should perform all four Section 2 activities to a statement that doing so would be appropriate."
+    },
+    {
+      "id": "SLD-05-0052",
+      "page": "41",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "There is also one activity that they are well placed to support, so this may need to be explained if some groups say 15.",
+      "ne": "स्वास्थ्य क्षेत्र सहयोग गर्न उपयुक्त स्थितिमा रहेको अर्को एउटा गतिविधि पनि छ, त्यसैले केही समूहले 15 भनेमा यो कुरा स्पष्ट पार्नुपर्ने हुन सक्छ।",
+      "bt": "There is also one other activity that the health sector is well positioned to assist with, so this may need to be clarified if some groups say 15.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T296"
+      ],
+      "flags": [],
+      "note": "The pronoun they refers to the Health sector in the preceding question sequence."
+    },
+    {
+      "id": "SLD-05-0053",
+      "page": "42",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "2.",
+      "ne": "2.",
+      "bt": "2.",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numbering retained unchanged."
+    },
+    {
+      "id": "SLD-05-0054",
+      "page": "42",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "How many MHPSS activities is the Camp Coordination & Camp Management (CCCM) sector well placed to contribute to?",
+      "ne": "शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM) क्षेत्र कति वटा MHPSS गतिविधिहरूमा योगदान दिन उपयुक्त स्थितिमा छ?",
+      "bt": "How many MHPSS activities is the Camp Coordination and Camp Management (CCCM) sector well positioned to contribute to?",
+      "type": "check",
+      "terms": [
+        "T200",
+        "T296",
+        "T158",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0055",
+      "page": "42",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "We’re going to have an honour system, so you can give yourself 1 point for each correct answer – there are a few bonus points in some questions, and I’ll let you know as we go along.",
+      "ne": "हामी इमानदारीमा आधारित व्यवस्था अपनाउनेछौँ, त्यसैले प्रत्येक सही उत्तरका लागि तपाईंले आफूलाई 1 अङ्क दिन सक्नुहुन्छ। केही प्रश्नमा केही अतिरिक्त अङ्क पनि छन्, र अघि बढ्दै जाँदा म तपाईंहरूलाई त्यसबारे जानकारी दिनेछु।",
+      "bt": "We will adopt a system based on honesty, so you can give yourself 1 point for each correct answer. There are also some extra points in some questions, and I will let you know about them as we go along.",
+      "type": "activity",
+      "terms": [
+        "T375"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring facilitation term honour system is absent from the supplied glossary; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-05-0056",
+      "page": "42",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Ok Group 1 – how many….?",
+      "ne": "ल त, समूह 1 — कति वटा…?",
+      "bt": "All right, Group 1 — how many…?",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0057",
+      "page": "42",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer: 14 + all 4 activities from section 2 (which everyone implementing MHPSS should do)",
+      "ne": "उत्तर: 14 + खण्ड 2 का सबै 4 गतिविधिहरू (जुन MHPSS कार्यान्वयन गर्ने सबैले गर्नु उचित हुन्छ)",
+      "bt": "Answer: 14 + all 4 activities in Section 2 (which it would be appropriate for everyone implementing MHPSS to carry out)",
+      "type": "check",
+      "terms": [
+        "T422"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "bt-divergence"
+      ],
+      "note": "The supplied answer is preserved. It appears inconsistent with the CCCM question and the subsequent answer of 6. The back-translation strengthens 'should do' to 'must carry out'; the revision restores advisory force. Source review remains pending: '14 + all 4' appears inconsistent with the CCCM question and the subsequent answer of 6. The supplied numbers are preserved, not validated. The back-translation weakens the explicit recommendation that everyone implementing MHPSS should perform all four Section 2 activities to a statement that doing so would be appropriate."
+    },
+    {
+      "id": "SLD-05-0058",
+      "page": "42",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "There is also one activity that they are well placed to support, so this may need to be explained if some groups say 15.",
+      "ne": "उनीहरू एउटा क्रियाकलापमा सहयोग गर्न पनि उपयुक्त स्थितिमा छन्, त्यसैले केही समूहले 15 भनेमा यो कुरा स्पष्ट पार्नुपर्ने हुन सक्छ।",
+      "bt": "They are also in a suitable position to help with one activity, so if some groups say 15, this may need to be clarified.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The supplied context identifies a repeated Health-sector explanation under a CCCM question, leaving the referent of they and the applicability of 15 unresolved."
+    },
+    {
+      "id": "SLD-05-0059",
+      "page": "43",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer: 6",
+      "ne": "उत्तर: 6",
+      "bt": "Answer: 6",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0060",
+      "page": "44",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "3.",
+      "ne": "3.",
+      "bt": "3.",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numbering retained unchanged."
+    },
+    {
+      "id": "SLD-05-0061",
+      "page": "44",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Name one core action for Activity 2.3 Care for staff and volunteers providing MHPSS.",
+      "ne": "गतिविधि 2.3 “MHPSS प्रदान गर्ने कर्मचारी र स्वयंसेवकको हेरचाह गर्ने” का लागि एउटा मुख्य कार्य बताउनुहोस्।",
+      "bt": "Name one key action for Activity 2.3, “Caring for staff and volunteers who provide MHPSS.”",
+      "type": "activity",
+      "terms": [
+        "T096",
+        "T350"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The activity label reuses supplied candidate T096 verbatim. Core action is absent from the supplied glossary; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-05-0062",
+      "page": "44",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "We’re going to have an honour system, so you can give yourself 1 point for each correct answer – there are a few bonus points in some questions, and I’ll let you know as we go along.",
+      "ne": "हामी इमानदारीमा आधारित व्यवस्था अपनाउनेछौँ, त्यसैले प्रत्येक सही उत्तरका लागि तपाईंले आफूलाई 1 अङ्क दिन सक्नुहुन्छ। केही प्रश्नमा केही अतिरिक्त अङ्क पनि छन्, र अघि बढ्दै जाँदा म तपाईंहरूलाई त्यसबारे जानकारी दिनेछु।",
+      "bt": "We will adopt a system based on honesty, so you can give yourself 1 point for each correct answer. There are also some extra points in some questions, and I will let you know about them as we go along.",
+      "type": "activity",
+      "terms": [
+        "T375"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring facilitation term honour system is absent from the supplied glossary; proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "SLD-05-0063",
+      "page": "44",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Ok Group 1 – how many….?",
+      "ne": "ठीक छ, समूह 1 – कति….?",
+      "bt": "All right, group 1 – how many….?",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The quantity prompt conflicts with the supplied contextual description of a slide asking for one core action; the incomplete quantity question is retained."
+    },
+    {
+      "id": "SLD-05-0064",
+      "page": "44",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer: 14 + all 4 activities from section 2 (which everyone implementing MHPSS should do)",
+      "ne": "उत्तर: 14 + खण्ड 2 का सबै 4 गतिविधिहरू (जुन MHPSS कार्यान्वयन गर्ने सबैले गर्नु उचित हुन्छ)",
+      "bt": "Answer: 14 + all 4 activities in Section 2 (which it would be appropriate for everyone implementing MHPSS to carry out)",
+      "type": "check",
+      "terms": [
+        "T422"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "bt-divergence"
+      ],
+      "note": "The supplied answer is preserved, although it does not answer the slide's request to name one core action for activity 2.3. The back-translation strengthens 'should do' to 'must carry out'; the revision restores advisory force. Source review remains pending: this numerical answer does not answer the request to name one core action for Activity 2.3. The supplied answer is preserved, not validated. The back-translation weakens the explicit recommendation that everyone implementing MHPSS should perform all four Section 2 activities to a statement that doing so would be appropriate."
+    },
+    {
+      "id": "SLD-05-0065",
+      "page": "44",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "There is also one activity that they are well placed to support, so this may need to be explained if some groups say 15.",
+      "ne": "उनीहरू एउटा क्रियाकलापमा सहयोग गर्न पनि उपयुक्त स्थितिमा छन्, त्यसैले केही समूहले 15 भनेमा यो कुरा स्पष्ट पार्नुपर्ने हुन सक्छ।",
+      "bt": "They are also in a suitable position to help with one activity, so if some groups say 15, this may need to be clarified.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The antecedent of they is unspecified; no actor has been supplied or substituted."
+    },
+    {
+      "id": "SLD-05-0066",
+      "page": "46",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "4.",
+      "ne": "4.",
+      "bt": "4.",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0067",
+      "page": "46",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "What is the key consideration relevant to Activity 3.5 (Provide early childhood development activities to support young children and their caregivers)?",
+      "ne": "गतिविधि 3.5 (साना बालबालिका र तिनका हेरचाहकर्तालाई सहयोग गर्न प्रारम्भिक बाल विकास गतिविधि प्रदान गर्ने) सँग सम्बन्धित मुख्य विचारणीय पक्ष के हो?",
+      "bt": "What is the main consideration related to activity 3.5 (providing early childhood development activities to support young children and their caregivers)?",
+      "type": "check",
+      "terms": [
+        "T006",
+        "T037",
+        "T252"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0068",
+      "page": "46",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "We’re going to have an honour system, so you can give yourself 1 point for each correct answer – there are a few bonus points in some questions, and I’ll let you know as we go along.",
+      "ne": "हामी आफ्नै इमानदारीका आधारमा अङ्क दिने व्यवस्था अपनाउनेछौँ, त्यसैले प्रत्येक सही उत्तरका लागि आफूलाई 1 अङ्क दिन सक्नुहुन्छ। केही प्रश्नमा थोरै थप अङ्क पनि छन्, र अघि बढ्दै जाँदा म त्यसबारे जानकारी दिनेछु।",
+      "bt": "We will adopt a scoring system based on our own honesty, so you can give yourself 1 point for each correct answer. Some questions also have a few extra points, and I will provide information about that as we move ahead.",
+      "type": "activity",
+      "terms": [],
+      "flags": [],
+      "note": "The translation omits 'a few', which limits the quantity of bonus points; the revision restores that qualification."
+    },
+    {
+      "id": "SLD-05-0069",
+      "page": "46",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Ok Group 1 – how many….?",
+      "ne": "ठीक छ, समूह 1 – कति….?",
+      "bt": "All right, group 1 – how many….?",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source does not identify what is being counted; the incomplete question is retained."
+    },
+    {
+      "id": "SLD-05-0070",
+      "page": "46",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer: 14 + all 4 activities from section 2 (which everyone implementing MHPSS should do)",
+      "ne": "उत्तर: 14 + खण्ड 2 का सबै 4 गतिविधि (जुन MHPSS कार्यान्वयन गर्ने सबैले गर्नु उचित हुन्छ)।",
+      "bt": "Answer: 14 + all 4 activities in Section 2 (which it is appropriate for everyone implementing MHPSS to do).",
+      "type": "check",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": "The back-translation renders 'should do' as 'must do'. The revision makes this a recommendation rather than an obligation, retaining 14, all 4 activities, section 2 and everyone implementing MHPSS."
+    },
+    {
+      "id": "SLD-05-0071",
+      "page": "46",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "There is also one activity that they are well placed to support, so this may need to be explained if some groups say 15.",
+      "ne": "उनीहरू एउटा क्रियाकलापमा सहयोग गर्न पनि उपयुक्त स्थितिमा छन्, त्यसैले केही समूहले 15 भनेमा यो कुरा स्पष्ट पार्नुपर्ने हुन सक्छ।",
+      "bt": "They are also in a suitable position to help with one activity, so if some groups say 15, this may need to be clarified.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The antecedent of they is unspecified; no actor has been supplied or substituted."
+    },
+    {
+      "id": "SLD-05-0072",
+      "page": "47",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Integrating early childhood development activities into nutrition programmes;",
+      "ne": "पोषण कार्यक्रमहरूमा प्रारम्भिक बाल विकास गतिविधिहरू एकीकृत गर्ने।",
+      "bt": "Integrating early childhood development activities into nutrition programmes.",
+      "type": "general",
+      "terms": [
+        "T030",
+        "T037",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0073",
+      "page": "47",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "PDF p 56",
+      "ne": "PDF p 56",
+      "bt": "PDF p 56",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0074",
+      "page": "48",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "5.",
+      "ne": "5.",
+      "bt": "5.",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0075",
+      "page": "48",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "What is a tool you could use to support group-based community MHPSS activities?",
+      "ne": "समूहमा आधारित सामुदायिक MHPSS गतिविधिहरूलाई सहयोग गर्न तपाईंले प्रयोग गर्न सक्ने एउटा साधन के हो?",
+      "bt": "What is one tool you can use to support group-based community MHPSS activities?",
+      "type": "check",
+      "terms": [
+        "T079",
+        "T437"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed '[Nepali wording recorded in terminology evidence]' for the recurring implementation term 'tool'; not added to the frozen glossary."
+    },
+    {
+      "id": "SLD-05-0076",
+      "page": "49",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "See list of tools here https://mhpssmsp.org/en/activity/relevant-guidelines-standards-and-tools-support-implementation-8#page-1",
+      "ne": "साधनहरूको सूची यहाँ हेर्नुहोस्: https://mhpssmsp.org/en/activity/relevant-guidelines-standards-and-tools-support-implementation-8#page-1 ।",
+      "bt": "See the list of tools here: https://mhpssmsp.org/en/activity/relevant-guidelines-standards-and-tools-support-implementation-8#page-1 .",
+      "type": "general",
+      "terms": [
+        "T437",
+        "T438"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed '[Nepali wording recorded in terminology evidence]' for 'tool'; the URL is unchanged."
+    },
+    {
+      "id": "SLD-05-0077",
+      "page": "50",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "6.",
+      "ne": "6.",
+      "bt": "6.",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0078",
+      "page": "50",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "What is a training topic that could be included in a training for frontline workers or community leaders supporting people who are experiencing stress?",
+      "ne": "तनाव अनुभव गरिरहेका व्यक्तिहरूलाई सहयोग गर्ने अग्रपंक्तिका कार्यकर्ता वा सामुदायिक अगुवाका लागि दिइने तालिममा समावेश गर्न सकिने एउटा विषय के हो?",
+      "bt": "What is one topic that can be included in training given to frontline workers or community leaders who support people experiencing stress?",
+      "type": "check",
+      "terms": [
+        "T013",
+        "T069"
+      ],
+      "flags": [],
+      "note": "Stress is used in its ordinary, non-diagnostic sense; this is a question about training content, not a clinical instruction."
+    },
+    {
+      "id": "SLD-05-0079",
+      "page": "51",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "See list of training topics here: https://www.mhpssmsp.org/en/activity/recommended-training-topics-basic-psychosocial-support-skills-frontline-workers-and#page-1",
+      "ne": "तालिमका विषयहरूको सूची यहाँ हेर्नुहोस्: https://www.mhpssmsp.org/en/activity/recommended-training-topics-basic-psychosocial-support-skills-frontline-workers-and#page-1 ।",
+      "bt": "See the list of training topics here: https://www.mhpssmsp.org/en/activity/recommended-training-topics-basic-psychosocial-support-skills-frontline-workers-and#page-1 .",
+      "type": "general",
+      "terms": [
+        "T088"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0080",
+      "page": "52",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "7.",
+      "ne": "7.",
+      "bt": "7.",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0081",
+      "page": "52",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Where in the MSP can you find a summary of how to integrate MHPSS in Child Protection?",
+      "ne": "बाल संरक्षणमा MHPSS कसरी एकीकृत गर्ने भन्ने सारांश MSP मा कहाँ पाउन सकिन्छ?",
+      "bt": "Where in the MSP can a summary of how to integrate MHPSS into child protection be found?",
+      "type": "check",
+      "terms": [
+        "T036",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0082",
+      "page": "52",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "We’re going to have an honour system, so you can give yourself 1 point for each correct answer – there are a few bonus points in some questions, and I’ll let you know as we go along.",
+      "ne": "हामी आफ्नै इमानदारीका आधारमा अङ्क दिने व्यवस्था अपनाउनेछौँ, त्यसैले प्रत्येक सही उत्तरका लागि आफूलाई 1 अङ्क दिन सक्नुहुन्छ। केही प्रश्नमा थोरै थप अङ्क पनि छन्, र अघि बढ्दै जाँदा म त्यसबारे जानकारी दिनेछु।",
+      "bt": "We will adopt a scoring system based on our own honesty, so you can give yourself 1 point for each correct answer. Some questions also have a few extra points, and I will provide information about that as we move ahead.",
+      "type": "activity",
+      "terms": [],
+      "flags": [],
+      "note": "The translation omits 'a few', which limits the quantity of bonus points; the revision restores that qualification."
+    },
+    {
+      "id": "SLD-05-0083",
+      "page": "52",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Ok Group 1 – how many….?",
+      "ne": "ठीक छ, समूह 1 – कति….?",
+      "bt": "All right, group 1 – how many….?",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source does not identify what is being counted; the incomplete question is retained."
+    },
+    {
+      "id": "SLD-05-0084",
+      "page": "52",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer: 14 + all 4 activities from section 2 (which everyone implementing MHPSS should do)",
+      "ne": "उत्तर: 14 + खण्ड 2 का सबै 4 गतिविधि (जुन MHPSS कार्यान्वयन गर्ने सबैले गर्नु उचित हुन्छ)।",
+      "bt": "Answer: 14 + all 4 activities in Section 2 (which it is appropriate for everyone implementing MHPSS to do).",
+      "type": "check",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": "The back-translation renders 'should do' as 'must do'. The revision makes this a recommendation rather than an obligation, retaining 14, all 4 activities, section 2 and everyone implementing MHPSS."
+    },
+    {
+      "id": "SLD-05-0085",
+      "page": "52",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "There is also one activity that they are well placed to support, so this may need to be explained if some groups say 15.",
+      "ne": "सहयोग पुर्‍याउन तिनीहरूको स्थिति अनुकूल हुने एउटा क्रियाकलाप पनि छ, त्यसैले केही समूहले 15 भनेमा यो कुरा स्पष्ट पार्नुपर्ने हुन सक्छ।",
+      "bt": "There is also an activity for which their position is favorable for providing support, so if some groups say 15, this may need to be clarified.",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The antecedent of 'they' is unspecified; the draft retains an unspecified actor and the conditional possibility that an explanation may be needed."
+    },
+    {
+      "id": "SLD-05-0086",
+      "page": "53",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "MSP Guide: How can MHPSS be integrated into programming across different sectors and areas of work",
+      "ne": "MSP मार्गदर्शिका: विभिन्न क्षेत्र तथा कार्यक्षेत्रमा कार्यक्रम तर्जुमा तथा कार्यान्वयन गर्दा MHPSS कसरी एकीकृत गर्न सकिन्छ",
+      "bt": "MSP guide: How MHPSS can be integrated when formulating and implementing programmes in different sectors and areas of work",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T144",
+        "T296",
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0087",
+      "page": "53",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "https://www.mhpssmsp.org/en/lesson/key-considerations-examples-how-mhpss-can-be-integrated-programming-across-different-sectors#page-1",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "URL-only row; retain the source URL unchanged."
+    },
+    {
+      "id": "SLD-05-0088",
+      "page": "54",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "8.",
+      "ne": "8.",
+      "bt": "8.",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0089",
+      "page": "54",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "You are developing a funding proposal and you want to consider effective ways to reach at-risk groups and to make MHPSS services accessible, inclusive and appropriate.",
+      "ne": "तपाईं वित्तपोषणका लागि प्रस्ताव तयार गर्दै हुनुहुन्छ र जोखिममा रहेका समूहसम्म पुग्ने तथा MHPSS सेवाहरूलाई पहुँचयोग्य, समावेशी र उपयुक्त बनाउने प्रभावकारी तरिकाहरू विचार गर्न चाहनुहुन्छ।",
+      "bt": "You are preparing a proposal for funding and want to consider effective ways to reach groups at risk and make MHPSS services accessible, inclusive and appropriate.",
+      "type": "general",
+      "terms": [
+        "T231",
+        "T195",
+        "T078",
+        "T334"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0090",
+      "page": "54",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Where in the MSP can you find an overview of these topics?",
+      "ne": "यी विषयहरूको झलक MSP मा कहाँ पाउन सकिन्छ?",
+      "bt": "Where in the MSP can an overview of these topics be found?",
+      "type": "check",
+      "terms": [
+        "T016",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0091",
+      "page": "54",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "BONUS",
+      "ne": "थप अङ्क",
+      "bt": "Additional points",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Rendered as a bonus-points heading in the quiz context."
+    },
+    {
+      "id": "SLD-05-0092",
+      "page": "55",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer:",
+      "ne": "उत्तर:",
+      "bt": "Answer:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0093",
+      "page": "55",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "MSP Guide https://www.mhpssmsp.org/en/lesson/how-can-groups-and-persons-increased-risk-be-prioritized-and-reached-mhpss-msp-activities?hl=accessible%2C%20inclusive#page-1 (p18 in PDF)",
+      "ne": "MSP मार्गदर्शिका https://www.mhpssmsp.org/en/lesson/how-can-groups-and-persons-increased-risk-be-prioritized-and-reached-mhpss-msp-activities?hl=accessible%2C%20inclusive#page-1 (PDF मा पृष्ठ 18)",
+      "bt": "MSP guide https://www.mhpssmsp.org/en/lesson/how-can-groups-and-persons-increased-risk-be-prioritized-and-reached-mhpss-msp-activities?hl=accessible%2C%20inclusive#page-1 (page 18 in the PDF)",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T144"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0094",
+      "page": "55",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "At risk groups (https://www.mhpssmsp.org/en/activity/resources-mhpss-risk-groups#page-1)",
+      "ne": "जोखिममा रहेका समूह (https://www.mhpssmsp.org/en/activity/resources-mhpss-risk-groups#page-1)",
+      "bt": "Groups at risk (https://www.mhpssmsp.org/en/activity/resources-mhpss-risk-groups#page-1)",
+      "type": "general",
+      "terms": [
+        "T195"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0095",
+      "page": "56",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Bonus points – List of resources for at-risk groups",
+      "ne": "थप अङ्क — जोखिममा रहेका समूहका लागि स्रोतहरूको सूची",
+      "bt": "Additional points — list of resources for groups at risk",
+      "type": "general",
+      "terms": [
+        "T195",
+        "T334"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0096",
+      "page": "57",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "9.",
+      "ne": "9.",
+      "bt": "9.",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0097",
+      "page": "57",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Sam is working in a context where Protection actors are reporting high rates of sexual violence against boys.",
+      "ne": "Sam यस्तो सन्दर्भमा काम गरिरहेका छन् जहाँ संरक्षण क्षेत्रमा कार्यरत पक्षहरू बालकहरूविरुद्ध यौन हिंसाका उच्च दरहरू रहेको जानकारी दिइरहेका छन्।",
+      "bt": "Sam is working in a context where actors working in the protection sector are reporting high rates of sexual violence against boys.",
+      "type": "safety",
+      "terms": [
+        "T168",
+        "T299"
+      ],
+      "flags": [],
+      "note": "General protection-context wording; safety review pending."
+    },
+    {
+      "id": "SLD-05-0098",
+      "page": "57",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "He wants to find resources to help him design appropriate MHPSS activities.",
+      "ne": "उनी उपयुक्त MHPSS गतिविधिहरू तयार गर्न मद्दत गर्ने स्रोतहरू खोज्न चाहन्छन्।",
+      "bt": "He wants to find resources to help prepare appropriate MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0099",
+      "page": "57",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Where in the MSP can Sam find a list of relevant resources?",
+      "ne": "Sam ले सान्दर्भिक स्रोतहरूको सूची MSP को कुन भागमा पाउन सक्छन्?",
+      "bt": "In which part of the MSP can Sam find a list of relevant resources?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0100",
+      "page": "57",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "4",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numeric table label or time range retained exactly in the English source; no lexical text to translate."
+    },
+    {
+      "id": "SLD-05-0101",
+      "page": "57",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "We’re going to have an honour system, so you can give yourself 1 point for each correct answer – there are a few bonus points in some questions, and I’ll let you know as we go along.",
+      "ne": "हामी आफ्नै इमानदारीमा आधारित प्रणाली अपनाउनेछौँ, त्यसैले प्रत्येक सही उत्तरका लागि तपाईंले आफूलाई 1 अङ्क दिन सक्नुहुन्छ—केही प्रश्नमा थोरै थप अङ्क पनि छन्, र अगाडि बढ्दै जाँदा म तपाईंहरूलाई त्यसबारे जानकारी दिनेछु।",
+      "bt": "We will adopt a system based on our own honesty, so you can give yourself 1 point for each correct answer—some questions also have a few extra points, and I will inform you about that as we go along.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": "The translation omitted the small quantity expressed by 'a few' bonus points."
+    },
+    {
+      "id": "SLD-05-0102",
+      "page": "57",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Ok Group 1 – how many….?",
+      "ne": "ठीक छ, समूह 1—कति…?",
+      "bt": "All right, group 1—how many…?",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": "The unfinished question is retained."
+    },
+    {
+      "id": "SLD-05-0103",
+      "page": "57",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer: 14 + all 4 activities from section 2 (which everyone implementing MHPSS should do)",
+      "ne": "उत्तर: 14 + खण्ड 2 का सबै 4 गतिविधिहरू (MHPSS कार्यान्वयन गर्ने सबैले यी गतिविधिहरू गर्नु उचित हुन्छ)।",
+      "bt": "Answer: 14 + all 4 activities in Section 2 (it is appropriate for everyone implementing MHPSS to do these activities).",
+      "type": "check",
+      "terms": [
+        "T422"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation makes the activities mandatory ('must do'), whereas the source says 'should do'. The back-translation weakens the recommendation that everyone implementing MHPSS should do the activities to a statement that doing them is appropriate."
+    },
+    {
+      "id": "SLD-05-0104",
+      "page": "57",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "There is also one activity that they are well placed to support, so this may need to be explained if some groups say 15.",
+      "ne": "उनीहरूले सहयोग गर्न उपयुक्त स्थितिमा रहेको अर्को एउटा गतिविधि पनि छ, त्यसैले केही समूहले 15 भनेमा यसबारे स्पष्ट पार्नुपर्ने हुन सक्छ।",
+      "bt": "There is also one other activity that they are in a suitable position to support, so if some groups say 15, this may need to be clarified.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0105",
+      "page": "58",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer – one point each",
+      "ne": "उत्तर—प्रत्येकका लागि एक अङ्क",
+      "bt": "Answer—one point for each",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0106",
+      "page": "58",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Resources on MHPSS for at-risk groups https://www.mhpssmsp.org/en/activity/resources-mhpss-risk-groups#page-1 > under heading Male Survivors of Sexual Violence",
+      "ne": "जोखिममा रहेका समूहका लागि MHPSS सम्बन्धी स्रोतसामग्री https://www.mhpssmsp.org/en/activity/resources-mhpss-risk-groups#page-1 > यौन हिंसाबाट प्रभावित पुरुष तथा बालक शीर्षकअन्तर्गत",
+      "bt": "Resource materials related to MHPSS for at-risk groups https://www.mhpssmsp.org/en/activity/resources-mhpss-risk-groups#page-1 > under the heading Men and boys affected by sexual violence",
+      "type": "safety",
+      "terms": [
+        "T257",
+        "T299",
+        "T334",
+        "T416"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T257 explicitly labels men and boys as affected by sexual violence, whereas the source identifies male survivors; affected status does not necessarily preserve direct experience and survival. bt-divergence: Frozen T257 denotes men and boys affected by sexual violence, whereas the source identifies male survivors. Being affected does not necessarily entail direct experience and survival. The frozen form is retained."
+    },
+    {
+      "id": "SLD-05-0107",
+      "page": "58",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Key Consideration on Male Survivors of sexual violence (within Activity 3.9 SSWG) https://mhpssmsp.org/en/activity/key-consideration-13-male-survivors-sexual-violence#section-1",
+      "ne": "यौन हिंसाबाट प्रभावित पुरुष तथा बालकसम्बन्धी मुख्य विचारणीय पक्ष (क्रियाकलाप 3.9 SSWG भित्र) https://mhpssmsp.org/en/activity/key-consideration-13-male-survivors-sexual-violence#section-1",
+      "bt": "Key considerations concerning men and boys affected by sexual violence (within activity 3.9 SSWG) https://mhpssmsp.org/en/activity/key-consideration-13-male-survivors-sexual-violence#section-1",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T257",
+        "T299"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T257 explicitly labels men and boys as affected by sexual violence, whereas the source identifies male survivors; affected status does not necessarily preserve direct experience and survival. bt-divergence: Frozen T257 denotes men and boys affected by sexual violence, whereas the source identifies male survivors. Being affected does not necessarily entail direct experience and survival. The frozen form is retained. The Nepali मुख्य विचारणीय पक्ष preserves the source's singular consideration despite the plural in the supplied BT."
+    },
+    {
+      "id": "SLD-05-0108",
+      "page": "58",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Key consideration on Child and adolescent survivors of sexual violence (within 3.13 on MHPSS through case management) https://www.mhpssmsp.org/en/activity/key-consideration-child-and-adolescent-survivors-sexual-violence#page-1",
+      "ne": "बालबालिका तथा किशोरकिशोरीमध्ये यौन हिंसाबाट प्रभावित व्यक्तिहरूसम्बन्धी मुख्य विचारणीय पक्ष (केस व्यवस्थापनमार्फत MHPSS सम्बन्धी 3.13 भित्र) https://www.mhpssmsp.org/en/activity/key-consideration-child-and-adolescent-survivors-sexual-violence#page-1",
+      "bt": "Key considerations concerning persons among children and adolescents who have been affected by sexual violence (within 3.13 concerning MHPSS through case management) https://www.mhpssmsp.org/en/activity/key-consideration-child-and-adolescent-survivors-sexual-violence#page-1",
+      "type": "safety",
+      "terms": [
+        "T118",
+        "T252",
+        "T299",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Frozen T317 denotes affected persons rather than survivors and can include indirectly affected people; the source specifically identifies children and adolescents who directly experienced and survived sexual violence. bt-divergence: Frozen T317 denotes affected persons and can include indirectly affected people, whereas the source identifies children and adolescents who directly experienced and survived sexual violence. The frozen form is retained."
+    },
+    {
+      "id": "SLD-05-0109",
+      "page": "59",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "10.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numeric table label or time range retained exactly in the English source; no lexical text to translate."
+    },
+    {
+      "id": "SLD-05-0110",
+      "page": "59",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "In an emergency response after an earthquake, you learn that an NGO is offering single sessions of psychological debriefing to people who witnessed the death of a family member.",
+      "ne": "भूकम्पपछिको आपत्कालीन प्रतिकार्यका क्रममा, परिवारका कुनै सदस्यको मृत्यु प्रत्यक्ष देखेका व्यक्तिहरूलाई एउटा NGO ले [psychological debriefing] को एकल सत्र उपलब्ध गराइरहेको छ भन्ने तपाईंलाई थाहा हुन्छ।",
+      "bt": "During the emergency response after an earthquake, you learn that an NGO is providing a single session of [psychological debriefing] to people who directly witnessed the death of a family member.",
+      "type": "safety",
+      "terms": [
+        "T132",
+        "T424"
+      ],
+      "flags": [],
+      "note": "The named intervention remains in exact source English; the draft preserves the NGO actor, single-session format and condition of witnessing a family member's death."
+    },
+    {
+      "id": "SLD-05-0111",
+      "page": "59",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "You know that the evidence suggests that such one-time-sessions are not effective and can be harmful for some people.",
+      "ne": "यस्ता एकपटक मात्र गरिने सत्रहरू प्रभावकारी हुँदैनन् र केही व्यक्तिहरूका लागि हानिकारक हुन सक्छन् भन्ने प्रमाणले सङ्केत गर्छ भन्ने तपाईंलाई थाहा छ।",
+      "bt": "You know that the evidence indicates that such one-time sessions are not effective and may be harmful for some people.",
+      "type": "safety",
+      "terms": [
+        "T424"
+      ],
+      "flags": [],
+      "note": "Ordinary wording is drafted without introducing a Nepali clinical intervention name. Preserves the qualified evidence statement and possible harm to some people; review pending."
+    },
+    {
+      "id": "SLD-05-0112",
+      "page": "59",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "What part of the MSP can you use to advocate that they change their approach?",
+      "ne": "उनीहरूले आफ्नो पद्धति परिवर्तन गरून् भनेर पैरवी गर्न तपाईंले MSP को कुन भाग प्रयोग गर्न सक्नुहुन्छ?",
+      "bt": "Which part of the MSP can you use to advocate for them to change their approach?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0113",
+      "page": "60",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Answer:",
+      "ne": "उत्तर:",
+      "bt": "Answer:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0114",
+      "page": "60",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Key consideration: Do not offer psychological debriefing (within activity 3.12)",
+      "ne": "मुख्य विचारणीय पक्ष: [psychological debriefing] प्रदान नगर्नुहोस् (क्रियाकलाप 3.12 भित्र)।",
+      "bt": "Key consideration: Do not provide [psychological debriefing] (within activity 3.12).",
+      "type": "safety",
+      "terms": [
+        "T252"
+      ],
+      "flags": [],
+      "note": "The named intervention remains in exact source English, and the explicit prohibition and activity code 3.12 are retained."
+    },
+    {
+      "id": "SLD-05-0115",
+      "page": "60",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "https://www.mhpssmsp.org/en/activity/key-consideration-do-not-offer-psychological-debriefing?hl=psychological%20debriefing#page-1",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the source URL unchanged."
+    },
+    {
+      "id": "SLD-05-0116",
+      "page": "61",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "11.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numeric table label or time range retained exactly in the English source; no lexical text to translate."
+    },
+    {
+      "id": "SLD-05-0117",
+      "page": "61",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "You are working in a public health emergency responding to a new infectious disease outbreak.",
+      "ne": "तपाईं नयाँ सरुवा रोगको प्रकोपप्रति प्रतिकार्य गर्दै जनस्वास्थ्य आपत्कालमा काम गरिरहनुभएको छ।",
+      "bt": "You are working in a public health emergency, responding to an outbreak of a new communicable disease.",
+      "type": "safety",
+      "terms": [
+        "T170",
+        "T174",
+        "T383"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence",
+        "source-ambiguous"
+      ],
+      "note": "Frozen T383 uses communicable disease where the source says infectious disease, categories that are not necessarily coextensive; the source also leaves unclear whether 'new' modifies the disease or the outbreak. bt-divergence: Frozen T383 denotes a communicable disease outbreak, whereas the source says infectious disease outbreak; infectious diseases are not necessarily communicable. The frozen form is retained. The source does not resolve whether new modifies the disease or the outbreak."
+    },
+    {
+      "id": "SLD-05-0118",
+      "page": "61",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Infection prevention control measures mean that face-to-face contact must be limited.",
+      "ne": "संक्रमण रोकथाम तथा नियन्त्रणका उपायहरूका कारण आमनेसामने हुने सम्पर्क सीमित गर्नुपर्छ।",
+      "bt": "Face-to-face contact must be limited because of infection prevention and control measures.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "General infection-prevention guidance, not clinical treatment terminology; safety review pending. The translation narrows 'face-to-face contact' to meetings. The restriction must cover face-to-face contact generally, while retaining 'must'."
+    },
+    {
+      "id": "SLD-05-0119",
+      "page": "61",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "You need to adapt the MSP activities to this setting.",
+      "ne": "तपाईंले MSP गतिविधिहरू यस परिस्थितिअनुसार समायोजन गर्नुपर्छ।",
+      "bt": "You must adapt the MSP activities to this situation.",
+      "type": "general",
+      "terms": [
+        "T272",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0120",
+      "page": "61",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Where in the MSP can you find information to guide your work?",
+      "ne": "तपाईंले आफ्नो कामलाई दिशा दिने जानकारी MSP को कुन भागमा पाउन सक्नुहुन्छ?",
+      "bt": "In which part of the MSP can you find information to guide your work?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0121",
+      "page": "62",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "3",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numeric table label or time range retained exactly in the English source; no lexical text to translate."
+    },
+    {
+      "id": "SLD-05-0122",
+      "page": "62",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "1point each",
+      "ne": "प्रत्येकका लागि 1 अङ्क",
+      "bt": "1 point for each",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0123",
+      "page": "62",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Guidance for using the MHPSS MSP in the public health emergency response to infectious disease outbreaks",
+      "ne": "सरुवा रोगको प्रकोपहरूप्रति गरिने जनस्वास्थ्य आपत्कालसम्बन्धी प्रतिकार्यमा MHPSS MSP प्रयोग गर्नका लागि मार्गदर्शन",
+      "bt": "Guidance for using MHPSS MSP in public health emergency response to outbreaks of communicable disease",
+      "type": "safety",
+      "terms": [
+        "T163",
+        "T170",
+        "T174",
+        "T383"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Frozen T383 uses communicable disease where the source says infectious disease, categories that are not necessarily coextensive; the draft explicitly retains that the response is to the outbreaks. The repair explicitly restores the source's plural outbreaks, rendered as a singular outbreak in the supplied BT. bt-divergence remains: frozen T383 denotes a communicable disease outbreak rather than an infectious disease outbreak; those categories are not necessarily coextensive. The frozen form is retained. “Communicable disease” replaces “infectious disease,” narrowing the scope to transmissible diseases rather than infectious diseases generally."
+    },
+    {
+      "id": "SLD-05-0124",
+      "page": "62",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "https://www.mhpssmsp.org/en/activity/guidance-using-mhpss-msp-public-health-emergency-response-infectious-disease-outbreaks#page-1",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the source URL unchanged."
+    },
+    {
+      "id": "SLD-05-0125",
+      "page": "62",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Key consideration: Implementing MHPSS activities remotely (within activity 2.1) PDF p 36",
+      "ne": "मुख्य विचारणीय पक्ष: दूरबाट MHPSS गतिविधिहरू कार्यान्वयन गर्ने (गतिविधि 2.1 अन्तर्गत), PDF पृष्ठ 36",
+      "bt": "Key consideration: Implementing MHPSS activities remotely (under Activity 2.1), PDF page 36",
+      "type": "check",
+      "terms": [
+        "T252",
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0126",
+      "page": "62",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "https://www.mhpssmsp.org/en/activity/key-consideration-implementing-mhpss-activities-remotely#page-1",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the source URL unchanged."
+    },
+    {
+      "id": "SLD-05-0127",
+      "page": "62",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Key consideration: MHPSS as part of the public health emergency response https://www.mhpssmsp.org/en/activity/key-consideration-18-mhpss-part-public-health-emergency-response-infectious-diseases#page-1",
+      "ne": "मुख्य विचारणीय पक्ष: जनस्वास्थ्य आपत्कालमा गरिने प्रतिकार्यको अङ्गका रूपमा MHPSS https://www.mhpssmsp.org/en/activity/key-consideration-18-mhpss-part-public-health-emergency-response-infectious-diseases#page-1",
+      "bt": "Key consideration: MHPSS as part of the response to public health emergencies https://www.mhpssmsp.org/en/activity/key-consideration-18-mhpss-part-public-health-emergency-response-infectious-diseases#page-1",
+      "type": "check",
+      "terms": [
+        "T252",
+        "T170",
+        "T174"
+      ],
+      "flags": [],
+      "note": "URL retained unchanged."
+    },
+    {
+      "id": "SLD-05-0128",
+      "page": "62",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "PDF page 85",
+      "ne": "PDF पृष्ठ 85",
+      "bt": "PDF page 85",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0129",
+      "page": "63",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Final Scores!",
+      "ne": "अन्तिम प्राप्ताङ्कहरू!",
+      "bt": "Final scores!",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The source uses plural “Scores”; the back-translation is singular. Make the plural explicit."
+    },
+    {
+      "id": "SLD-05-0130",
+      "page": "63",
+      "loc": "slide-notes",
+      "section": "Navigating the MSP",
+      "en": "Ok – take a minute to count up your final score",
+      "ne": "ठीक छ—आफ्नो अन्तिम प्राप्ताङ्क जोडेर निकाल्न एक मिनेट लिनुहोस्।",
+      "bt": "All right—take a minute to add up your final score.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0131",
+      "page": "64",
+      "loc": "slide-title",
+      "section": "Navigating the MSP",
+      "en": "Review: Module Learning Objectives",
+      "ne": "समीक्षा: मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Review: Module learning objectives",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0132",
+      "page": "64",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Describe the structure of the MSP",
+      "ne": "MSP को संरचना वर्णन गर्ने।",
+      "bt": "Describe the structure of MSP.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T433"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0133",
+      "page": "64",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Differentiate the sections of the MSP",
+      "ne": "MSP का खण्डहरूबीच भिन्नता छुट्याउने।",
+      "bt": "Distinguish between the sections of MSP.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-05-0134",
+      "page": "64",
+      "loc": "slide-body",
+      "section": "Navigating the MSP",
+      "en": "Navigate through the MSP website",
+      "ne": "MSP को वेबसाइटमा विभिन्न भागमा जाने।",
+      "bt": "Go to different parts of the MSP website.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T443"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

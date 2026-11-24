@@ -1,0 +1,2707 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-01",
+  "unit_title": "Overview of the Facilitator Manual",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "1-10",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:02:32+05:45",
+  "coverage": {
+    "source_words": 2485,
+    "row_words": 2485,
+    "skipped": [
+      "Page 2: blank-page: No native text in full-page extraction.",
+      "Page 4: running-footer: ii · MSP Workshop Facilitator Manual",
+      "Page 5: running-footer: Overview of the Facilitator Manual · MSP Workshop Facilitator Manual · 1",
+      "Page 6: running-footer: 2 · MSP Workshop Facilitator Manual · Overview of the Facilitator Manual",
+      "Page 7: running-footer: Overview of the Facilitator Manual · MSP Workshop Facilitator Manual · 3",
+      "Page 8: running-footer: 4 · MSP Workshop Facilitator Manual · Overview of the Facilitator Manual",
+      "Page 8: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 9: running-footer: Overview of the Facilitator Manual · MSP Workshop Facilitator Manual · 5",
+      "Page 9: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 9: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 10: running-footer: 6 · MSP Workshop Facilitator Manual · Overview of the Facilitator Manual"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-01-0001",
+      "page": "1",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Strengthening MHPSS in Humanitarian Programming: Using the MHPSS Minimum Service Package (MSP)",
+      "ne": "मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS सुदृढीकरण: MHPSS न्यूनतम सेवा प्याकेज (MSP) को प्रयोग",
+      "bt": "Strengthening MHPSS in humanitarian programme planning and implementation: Use of the MHPSS Minimum Service Package (MSP)",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T002",
+        "T163"
+      ],
+      "flags": [],
+      "note": "Reclassified as a document title rather than an activity instruction."
+    },
+    {
+      "id": "FAC-01-0002",
+      "page": "1",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Workshop Facilitator Manual",
+      "ne": "कार्यशाला सहजकर्ता पुस्तिका",
+      "bt": "Workshop facilitator manual",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T259",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: workshop = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-01-0003",
+      "page": "3",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Strengthening MHPSS in Humanitarian Programming: Using the MHPSS Minimum Service Package (MSP)",
+      "ne": "मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS सुदृढीकरण: MHPSS न्यूनतम सेवा प्याकेज (MSP) को प्रयोग",
+      "bt": "Strengthening MHPSS in humanitarian programme planning and implementation: Use of the MHPSS Minimum Service Package (MSP)",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T002",
+        "T163"
+      ],
+      "flags": [],
+      "note": "Reclassified as a document title rather than an activity instruction."
+    },
+    {
+      "id": "FAC-01-0004",
+      "page": "3",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Workshop Facilitator Manual",
+      "ne": "कार्यशाला सहजकर्ता पुस्तिका",
+      "bt": "Workshop facilitator manual",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T259",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: workshop = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-01-0005",
+      "page": "3",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "This work is licensed under CC BY-NC-SA 4.0.",
+      "ne": "यो कृति CC BY-NC-SA 4.0 अन्तर्गत इजाजतप्राप्त छ।",
+      "bt": "This work is licensed under CC BY-NC-SA 4.0.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": "The license identifier is preserved exactly; legal wording remains subject to review."
+    },
+    {
+      "id": "FAC-01-0006",
+      "page": "3",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ne": "यस इजाजतपत्रको प्रतिलिपि हेर्न https://creativecommons.org/licenses/by-nc-sa/4.0/ मा जानुहोस्।",
+      "bt": "To view a copy of this licence, go to https://creativecommons.org/licenses/by-nc-sa/4.0/.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The URL is preserved exactly."
+    },
+    {
+      "id": "FAC-01-0007",
+      "page": "4",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Contents",
+      "ne": "विषयसूची",
+      "bt": "Table of contents",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0008",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Overview of the facilitator manual ................................................................................................................................ 1",
+      "ne": "सहजकर्ता पुस्तिकाको झलक ................................................................ 1",
+      "bt": "Overview of the facilitator manual ................................................................ 1",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T259",
+        "T016"
+      ],
+      "flags": [],
+      "note": "Ordinary contents entry; the page number is preserved."
+    },
+    {
+      "id": "FAC-01-0009",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Module 1: Overview of Mental Health and Psychosocial Support ........................................................................ 7 1.1 Mental Health and Psychosocial Wellbeing ..................................................................................................... 8 1.2 Mental Health and Psychosocial Support in Humanitarian Crises ............................................................ 12",
+      "ne": "मोड्युल 1: मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगको झलक ................................ 7\n1.1 मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण ................................ 8\n1.2 मानवीय सङ्कटहरूमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग ................................ 12",
+      "bt": "Module 1: Overview of mental health and psychosocial support ................................ 7\n1.1 Mental health and psychosocial well-being ................................ 8\n1.2 Mental health and psychosocial support in humanitarian crises ................................ 12",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T016",
+        "T157",
+        "T005",
+        "T378",
+        "T399",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]. Clinical labels reuse only supplied unreviewed candidates. These are contents headings, not clinical instructions."
+    },
+    {
+      "id": "FAC-01-0010",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Module 2: Overview of the MHPSS Minimum Service Package ........................................................................... 17 2.1 The MSP structure and content ........................................................................................................................ 18 2.2 Navigating the MSP ............................................................................................................................................. 23",
+      "ne": "मोड्युल 2: MHPSS न्यूनतम सेवा प्याकेजको झलक ................................ 17\n2.1 MSP को संरचना र विषयवस्तु ................................ 18\n2.2 MSP मा आवश्यक जानकारी खोज्ने तरिका ................................ 23",
+      "bt": "Module 2: Overview of the MHPSS Minimum Service Package ................................ 17\n2.1 Structure and content of the MSP ................................ 18\n2.2 How to find the information needed in the MSP ................................ 23",
+      "type": "general",
+      "terms": [
+        "T002",
+        "T016",
+        "T163",
+        "T348",
+        "T399",
+        "T433"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]. Navigating refers to finding one's way through the MSP resource."
+    },
+    {
+      "id": "FAC-01-0011",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Module 3: Interagency coordination and assessment ........................................................................................... 25 3.1 MHPSS coordination .......................................................................................................................................... 26 3.2 MHPSS needs assessment ................................................................................................................................ 30",
+      "ne": "मोड्युल 3: अन्तरनिकाय समन्वय र लेखाजोखा ................................ 25\n3.1 MHPSS समन्वय ................................ 26\n3.2 MHPSS आवश्यकताको लेखाजोखा ................................ 30",
+      "bt": "Module 3: Inter-agency coordination and assessment ................................ 25\n3.1 MHPSS coordination ................................ 26\n3.2 Assessment of MHPSS needs ................................ 30",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T349",
+        "T386",
+        "T387",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposals: module = [Nepali wording recorded in terminology evidence]; coordination = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-01-0012",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Module 4: Essential components of MHPSS programmes ................................................................................... 33 4.1 Essential components of all MHPSS programmes ....................................................................................... 34",
+      "ne": "मोड्युल 4: MHPSS कार्यक्रमका अत्यावश्यक घटकहरू ................................ 33\n4.1 सबै MHPSS कार्यक्रमका अत्यावश्यक घटकहरू ................................ 34",
+      "bt": "Module 4: Essential components of MHPSS programmes ................................ 33\n4.1 Essential components of all MHPSS programmes ................................ 34",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T399",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-01-0013",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Module 5: Understanding MHPSS MSP programme activities ............................................................................ 37 5.1 MHPSS activities .................................................................................................................................................. 38 5.2 Matching MHPSS activities to the MSP ............................................................................................................ 41",
+      "ne": "मोड्युल 5: MHPSS MSP का कार्यक्रमगत गतिविधिहरू बुझ्ने ................................ 37\n5.1 MHPSS गतिविधिहरू ................................ 38\n5.2 MHPSS गतिविधिहरूलाई MSP सँग मिलाउने ................................ 41",
+      "bt": "Module 5: Understanding the programmatic activities of the MHPSS MSP ................................ 37\n5.1 MHPSS activities ................................ 38\n5.2 Matching MHPSS activities with the MSP ................................ 41",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T167",
+        "T158",
+        "T399",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-01-0014",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Module 6: Integrating MHPSS into programming across different areas of work ........................................ 47 6.1 Integrating MHPSS across sectors/clusters/AoRs ......................................................................................... 48 6.2 Promoting mental health and psychosocial wellbeing ............................................................................... 51",
+      "ne": "मोड्युल 6: विभिन्न कार्यक्षेत्रमा कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने ................................ 47\n6.1 क्षेत्र/क्लस्टर/जिम्मेवारी क्षेत्र (AoRs) मा MHPSS एकीकृत गर्ने ................................ 48\n6.2 मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण प्रवर्द्धन गर्ने ................................ 51",
+      "bt": "Module 6: Integrating MHPSS into programme planning and implementation in different areas of work ................................ 47\n6.1 Integrating MHPSS into sectors/clusters/areas of responsibility (AoRs) ................................ 48\n6.2 Promoting mental health and psychosocial well-being ................................ 51",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T296",
+        "T124",
+        "T012",
+        "T157",
+        "T005",
+        "T399",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]. AoRs is preserved exactly. Clinical labels reuse supplied unreviewed candidates T157 and T005."
+    },
+    {
+      "id": "FAC-01-0015",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Module 7: Additional MSP tools .................................................................................................................................... 53 7.1 Additional MSP Tools ......................................................................................................................................... 54",
+      "ne": "मोड्युल 7: MSP का थप उपकरणहरू ................................ 53\n7.1 MSP का थप उपकरणहरू ................................ 54",
+      "bt": "Module 7: Additional MSP tools ................................ 53\n7.1 Additional MSP tools ................................ 54",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-01-0016",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Module 8: Using the MSP ................................................................................................................................................. 57 8.1 Uses of the MSP ................................................................................................................................................... 58 8.2 MSP scenario challenges ................................................................................................................................... 59 8.3 Next steps for participants ................................................................................................................................ 62",
+      "ne": "मोड्युल 8: MSP को प्रयोग ................................ 57\n8.1 MSP का उपयोगहरू ................................ 58\n8.2 MSP का परिदृश्यमा आधारित चुनौतीहरू ................................ 59\n8.3 सहभागीहरूका आगामी कदमहरू ................................ 62",
+      "bt": "Module 8: Use of the MSP ................................ 57\n8.1 Uses of the MSP ................................ 58\n8.2 MSP scenario-based challenges ................................ 59\n8.3 Participants' next steps ................................ 62",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T399",
+        "T402",
+        "T406",
+        "T419",
+        "T420",
+        "T421"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposals: module = [Nepali wording recorded in terminology evidence]; scenario challenge = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; participants = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-01-0017",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Module 9: The MSP Costing Tool (optional) .............................................................................................................. 63 9.1 The MSP Costing Tool ........................................................................................................................................ 64 9.2 Costing Tool practice exercises ........................................................................................................................ 66",
+      "ne": "मोड्युल 9: MSP लागत अनुमान उपकरण (ऐच्छिक) ................................ 63\n9.1 MSP लागत अनुमान उपकरण ................................ 64\n9.2 लागत अनुमान उपकरण प्रयोगका अभ्यासहरू ................................ 66",
+      "bt": "Module 9: MSP cost estimation tool (optional) ................................ 63\n9.1 MSP cost estimation tool ................................ 64\n9.2 Exercises in using the cost estimation tool ................................ 66",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T351",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]. The optional status applies to Module 9 as in the source."
+    },
+    {
+      "id": "FAC-01-0018",
+      "page": "4",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Annexes ................................................................................................................................................................................ 67 Annex 1 - Delivery Modalities of the Workshop ....................................................................................................... 68 Annex 2 - Sample Agenda for 3-Day Workshop ....................................................................................................... 69 Annex 3 - Workshop Surveys ....................................................................................................................................... 71 Annex 4 - Workshop Evaluation Form ....................................................................................................................... 75 Annex 5 - Treasure Hunt Handout .............................................................................................................................. 77 Annex 6 - The Puzzle Story Handout ......................................................................................................................... 79 Annex 7 - Activity Example Cards ................................................................................................................................ 81 Annex 8 - MSP Scenario Challenges .......................................................................................................................... 83 Scenario Challenge 1. Using the MSP to Find Resources (10 min) ........................................................................ 83 Scenario Challenge 2. Using the MSP to Select and/or strengthen MHPSS Activities (20 min) ........................ 84 Scenario Challenge 3. Using the MSP to Advocate for MHPSS (10 min) ................................................................. 87 Annex 9 - Next Steps with the MSP ............................................................................................................................ 88 Annex 10 - Costing Tool Practice Exercises ............................................................................................................... 93",
+      "ne": "अनुसूचीहरू ................................ 67\nअनुसूची 1 - कार्यशाला सञ्चालनका विधिहरू ................................ 68\nअनुसूची 2 - 3-दिने कार्यशालाका लागि नमुना कार्यसूची ................................ 69\nअनुसूची 3 - कार्यशालासम्बन्धी सर्वेक्षणहरू ................................ 71\nअनुसूची 4 - कार्यशाला मूल्याङ्कन फाराम ................................ 75\nअनुसूची 5 - खजाना खोजको वितरण सामग्री ................................ 77\nअनुसूची 6 - पजल कथाको वितरण सामग्री ................................ 79\nअनुसूची 7 - गतिविधिका उदाहरण कार्डहरू ................................ 81\nअनुसूची 8 - MSP का परिदृश्यमा आधारित चुनौतीहरू ................................ 83\nपरिदृश्यमा आधारित चुनौती 1. स्रोतहरू खोज्न MSP को प्रयोग (10 मिनेट) ................................ 83\nपरिदृश्यमा आधारित चुनौती 2. MHPSS गतिविधिहरू छनोट गर्न र/वा सुदृढ गर्न MSP को प्रयोग (20 मिनेट) ................................ 84\nपरिदृश्यमा आधारित चुनौती 3. MHPSS का लागि पैरवी गर्न MSP को प्रयोग (10 मिनेट) ................................ 87\nअनुसूची 9 - MSP प्रयोगका आगामी कदमहरू ................................ 88\nअनुसूची 10 - लागत अनुमान उपकरण प्रयोगका अभ्यासहरू ................................ 93",
+      "bt": "Annexes ................................ 67\nAnnex 1 - Methods for conducting the workshop ................................ 68\nAnnex 2 - Sample agenda for a 3-day workshop ................................ 69\nAnnex 3 - Workshop-related surveys ................................ 71\nAnnex 4 - Workshop evaluation form ................................ 75\nAnnex 5 - Treasure hunt handout ................................ 77\nAnnex 6 - Puzzle story handout ................................ 79\nAnnex 7 - Activity example cards ................................ 81\nAnnex 8 - MSP scenario-based challenges ................................ 83\nScenario-based challenge 1. Use of the MSP to find resources (10 minutes) ................................ 83\nScenario-based challenge 2. Use of the MSP to select and/or strengthen MHPSS activities (20 minutes) ................................ 84\nScenario-based challenge 3. Use of the MSP to advocate for MHPSS (10 minutes) ................................ 87\nAnnex 9 - Next steps for using the MSP ................................ 88\nAnnex 10 - Exercises in using the cost estimation tool ................................ 93",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T158",
+        "T191",
+        "T351",
+        "T373",
+        "T402",
+        "T411",
+        "T419",
+        "T420",
+        "T421",
+        "T434",
+        "T440",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposals: workshop = [Nepali wording recorded in terminology evidence]; scenario challenge = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. These are annex titles, not survey items or response options. All annex numbers, page numbers and durations are retained."
+    },
+    {
+      "id": "FAC-01-0019",
+      "page": "5",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Overview of the Facilitator Manual",
+      "ne": "सहजकर्ता पुस्तिकाको झलक",
+      "bt": "Overview of the facilitator manual",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T259",
+        "T016"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0020",
+      "page": "5",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Learning objectives",
+      "ne": "सिकाइका उद्देश्यहरू",
+      "bt": "Learning objectives",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: learning objectives = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-01-0021",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "This manual includes the material needed to deliver a workshop or series of workshops on using the Mental Health and Psychosocial Support (MHPSS) Minimum Service Package (MSP) to strengthen MHPSS in humanitarian programming.",
+      "ne": "मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS सुदृढ गर्न मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) न्यूनतम सेवा प्याकेज (MSP) को प्रयोगबारे कार्यशाला वा कार्यशालाहरूको शृङ्खला सञ्चालन गर्न आवश्यक सामग्री यस पुस्तिकामा समावेश छ।",
+      "bt": "This manual includes the materials needed to conduct a workshop or a series of workshops on the use of the mental health and psychosocial support (MHPSS) Minimum Service Package (MSP) to strengthen MHPSS in humanitarian programme planning and implementation.",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T001",
+        "T002",
+        "T163",
+        "T259",
+        "T410",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: workshop = [Nepali wording recorded in terminology evidence]. T001 is reused verbatim as a supplied unreviewed candidate; this is a description of workshop materials."
+    },
+    {
+      "id": "FAC-01-0022",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "The modules included in this manual are designed to strengthen the capacity of humanitarian actors to integrate MHPSS into programming across different sectors and areas of work.",
+      "ne": "यस पुस्तिकामा समावेश मोड्युलहरू विभिन्न क्षेत्र र कार्यक्षेत्रमा कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्न मानवीय कार्यमा संलग्न पक्षहरूको क्षमता सुदृढ गर्ने गरी तयार गरिएका छन्।",
+      "bt": "The modules included in this manual have been prepared to strengthen the capacity of actors involved in humanitarian work to integrate MHPSS into programme planning and implementation in different sectors and areas of work.",
+      "type": "general",
+      "terms": [
+        "T259",
+        "T296",
+        "T282",
+        "T147",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-01-0023",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "The workshop provides participants with the opportunity to build the knowledge, attitudes, and skills needed to be able to use the MSP to:",
+      "ne": "कार्यशालाले सहभागीहरूलाई MSP प्रयोग गरी निम्न कार्य गर्न आवश्यक ज्ञान, दृष्टिकोण र सीप विकास गर्ने अवसर प्रदान गर्दछ।",
+      "bt": "The workshop provides participants with an opportunity to develop the knowledge, attitudes and skills needed to do the following using the MSP.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T406",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposals: workshop = [Nepali wording recorded in terminology evidence]; participants = [Nepali wording recorded in terminology evidence]. The sentence introduces the following four bullets."
+    },
+    {
+      "id": "FAC-01-0024",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Improve coordination of MHPSS within and between sectors",
+      "ne": "• क्षेत्रभित्र र क्षेत्रहरूबीच MHPSS को समन्वयमा सुधार गर्ने।",
+      "bt": "• Improve coordination of MHPSS within and between sectors.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: coordination = [Nepali wording recorded in terminology evidence]. This learning objective is not the exact activity-list title."
+    },
+    {
+      "id": "FAC-01-0025",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Strengthen advocacy for MHPSS",
+      "ne": "• MHPSS का लागि पैरवी सुदृढ गर्ने।",
+      "bt": "• Strengthen advocacy for MHPSS.",
+      "type": "general",
+      "terms": [
+        "T191"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0026",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Design high-quality MHPSS programmes or improve existing programming",
+      "ne": "• उच्च गुणस्तरका MHPSS कार्यक्रमको डिजाइन गर्ने वा विद्यमान कार्यक्रम तर्जुमा तथा कार्यान्वयनमा सुधार गर्ने।",
+      "bt": "• Design high-quality MHPSS programmes or improve existing programme planning and implementation.",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T282",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0027",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Effectively plan and budget for MHPSS activities.",
+      "ne": "• MHPSS गतिविधिहरूका लागि प्रभावकारी रूपमा योजना र बजेट तयार गर्ने।",
+      "bt": "• Effectively prepare plans and budgets for MHPSS activities.",
+      "type": "general",
+      "terms": [
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0028",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "The learning objectives and corresponding modules should be tailored to the specific context and needs of targeted participants.",
+      "ne": "सिकाइका उद्देश्यहरू र तिनसँग सम्बन्धित मोड्युलहरू लक्षित सहभागीहरूको विशिष्ट सन्दर्भ र आवश्यकताअनुसार अनुकूलित गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate to adapt the learning objectives and their related modules according to the specific context and needs of the target participants.",
+      "type": "general",
+      "terms": [
+        "T399",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposals: learning objectives = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; module = [Nepali wording recorded in terminology evidence]; participants = [Nepali wording recorded in terminology evidence]. The back-translation strengthens the source recommendation 'should be tailored' to the requirement 'must be adapted'. The revision restores recommendation strength while retaining the specific context and needs of targeted participants."
+    },
+    {
+      "id": "FAC-01-0029",
+      "page": "5",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Participants",
+      "ne": "सहभागीहरू",
+      "bt": "Participants",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: participants = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-01-0030",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "The workshop is designed for humanitarian actors engaged in MHPSS programming in any sector/cluster/area of responsibility (AoR).",
+      "ne": "यो कार्यशाला कुनै पनि क्षेत्र/क्लस्टर/जिम्मेवारी क्षेत्र (AoR) मा MHPSS सम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनमा संलग्न मानवीय कार्यमा संलग्न पक्षहरूका लागि तयार गरिएको हो।",
+      "bt": "This workshop has been prepared for actors involved in humanitarian work who are involved in MHPSS-related programme planning and implementation in any sector/cluster/area of responsibility (AoR).",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T123",
+        "T012",
+        "T282",
+        "T147",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: workshop = [Nepali wording recorded in terminology evidence]. AoR is preserved exactly."
+    },
+    {
+      "id": "FAC-01-0031",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "The content is not intended as a foundational training on MHPSS and does not equip participants to implement a specific MHPSS activity or intervention.",
+      "ne": "यो विषयवस्तु MHPSS सम्बन्धी आधारभूत तालिमका रूपमा तयार गरिएको होइन र यसले सहभागीहरूलाई कुनै निश्चित MHPSS गतिविधि वा हस्तक्षेप कार्यान्वयन गर्न सक्षम बनाउँदैन।",
+      "bt": "This content has not been prepared as basic training on MHPSS and does not enable participants to implement any specific MHPSS activity or intervention.",
+      "type": "check",
+      "terms": [
+        "T348",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: participants = [Nepali wording recorded in terminology evidence]. Intervention is used here in the general programme sense; no specific clinical intervention or clinical wording is introduced. The limitation on participant competence is retained."
+    },
+    {
+      "id": "FAC-01-0032",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Although the first module provides a brief overview of the field of MHPSS, the focus of this manual is on equipping users to navigate and use the MSP.",
+      "ne": "पहिलो मोड्युलले MHPSS क्षेत्रको संक्षिप्त झलक दिए पनि यस पुस्तिकाको मुख्य जोड प्रयोगकर्ताहरूलाई MSP मा आवश्यक जानकारी खोज्न र MSP प्रयोग गर्न सक्षम बनाउनु हो।",
+      "bt": "Although the first module gives a brief overview of the MHPSS field, the main emphasis of this manual is to enable users to find the information needed in the MSP and to use the MSP.",
+      "type": "general",
+      "terms": [
+        "T016",
+        "T259",
+        "T163",
+        "T296",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: module = [Nepali wording recorded in terminology evidence]. Navigating refers to locating information within the MSP, not implementing a clinical intervention."
+    },
+    {
+      "id": "FAC-01-0033",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Participants are therefore assumed to have a basic understanding of the field of MHPSS, but they do not need to have extensive technical expertise in MHPSS to benefit from the workshop.",
+      "ne": "त्यसैले सहभागीहरूलाई MHPSS कार्यक्षेत्रको आधारभूत बुझाइ भएको मानिन्छ, तर कार्यशालाबाट लाभ लिन उनीहरूसँग MHPSS सम्बन्धी व्यापक प्राविधिक विशेषज्ञता हुनु आवश्यक छैन।",
+      "bt": "Therefore, participants are assumed to have a basic understanding of the MHPSS field of work, but they do not need to have extensive technical expertise in MHPSS to benefit from the workshop.",
+      "type": "general",
+      "terms": [
+        "T193",
+        "T406",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0034",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "The workshop modules may be delivered to a multi-sectoral audience, bringing together actors from multiple sectors, or to participants from a single area of work (e.g. a particular sector, cluster, or AOR).",
+      "ne": "कार्यशालाका मोड्युलहरू विभिन्न क्षेत्रका सम्बद्ध पक्षहरूलाई एकसाथ सहभागी गराएर बहुक्षेत्रीय सहभागी समूहका लागि वा एउटै कार्यक्षेत्रका सहभागीहरूका लागि (जस्तै, कुनै निश्चित क्षेत्र, क्लस्टर वा AOR) सञ्चालन गर्न सकिन्छ।",
+      "bt": "The workshop modules can be conducted for a multisectoral participant group by bringing together stakeholders from different sectors, or for participants from the same field of work (for example, a particular sector, cluster or AOR).",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T193",
+        "T296",
+        "T123",
+        "T399",
+        "T406",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'module' is absent from G-0.3; proposed wording is listed separately. AOR is retained without expansion."
+    },
+    {
+      "id": "FAC-01-0035",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "If the participants are drawn from a common area of work, the facilitator should adapt the materials accordingly (for example, by using sector-specific examples and case scenarios) while still emphasizing the importance of coordinating across sectors/clusters/AORs.",
+      "ne": "यदि सहभागीहरू एउटै कार्यक्षेत्रबाट आएका छन् भने सहजकर्ताले क्षेत्र/क्लस्टर/AORs बीच समन्वय गर्नुको महत्त्वमा जोड दिँदै सामग्रीलाई तदनुसार अनुकूलन गर्नु उचित हुन्छ (उदाहरणका लागि, क्षेत्रविशेषका उदाहरण र घटनामा आधारित परिदृश्यहरू प्रयोग गरेर)।",
+      "bt": "If participants come from the same sector of work, it would be appropriate for the facilitator to adapt the material accordingly, emphasizing the importance of coordination among sectors/clusters/AORs (for example, by using sector-specific examples and incident-based scenarios).",
+      "type": "general",
+      "terms": [
+        "T193",
+        "T229",
+        "T296",
+        "T124",
+        "T406",
+        "T419"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The source form AORs is retained exactly. The translation strengthens 'should adapt' to 'must adapt'; the revision restores a recommendation while retaining the condition and cross-sector coordination emphasis. The back-translation narrows a common area of work to the same sector of work and changes case scenarios to incident-based scenarios."
+    },
+    {
+      "id": "FAC-01-0036",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Workshops on the MSP should ideally be organized through an MHPSS Technical Working Group (TWG) where one exists.",
+      "ne": "जहाँ MHPSS प्राविधिक कार्यसमूह (TWG) छ, त्यहाँ आदर्श रूपमा MSP सम्बन्धी कार्यशालाहरू सोही कार्यसमूहमार्फत आयोजना गर्नु उचित हुन्छ।",
+      "bt": "Where there is an MHPSS Technical Working Group (TWG), ideally it would be appropriate to organize workshops on MSP through that same working group.",
+      "type": "general",
+      "terms": [
+        "T050",
+        "T163",
+        "T444"
+      ],
+      "flags": [],
+      "note": "The source expresses an ideal recommendation, not a requirement qualified by feasibility. The revision restores 'should ideally' and retains the condition that a TWG exists."
+    },
+    {
+      "id": "FAC-01-0037",
+      "page": "5",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Facilitators",
+      "ne": "सहजीकरणकर्ता",
+      "bt": "Facilitator",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0038",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Facilitators should have MHPSS technical expertise, including experience in integrating MHPSS within one or more sectors/ clusters/AoRs.",
+      "ne": "सहजीकरणकर्तासँग एक वा बढी क्षेत्र/क्लस्टर/AoRs भित्र MHPSS एकीकृत गरेको अनुभवसहित MHPSS सम्बन्धी प्राविधिक विशेषज्ञता हुनु उचित हुन्छ।",
+      "bt": "It would be appropriate for the facilitator to have technical expertise in MHPSS, including experience integrating MHPSS within one or more sectors/clusters/AoRs.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T296",
+        "T124"
+      ],
+      "flags": [],
+      "note": "The source form AoRs is retained exactly. The translation strengthens 'should have' to 'must have'; the revision restores the source's recommendation."
+    },
+    {
+      "id": "FAC-01-0039",
+      "page": "5",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "They should be competent users of the MSP, having thoroughly read and understood all sections of the MSP such that they are able to:",
+      "ne": "MSP का सबै खण्ड राम्ररी पढेर बुझेका उनीहरू MSP का सक्षम प्रयोगकर्ता हुनु उचित हुन्छ, ताकि उनीहरूले निम्न कार्य गर्न सकून्:",
+      "bt": "It would be appropriate for them to be competent users of MSP, having thoroughly read and understood all sections of MSP, so that they can do the following:",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T422"
+      ],
+      "flags": [],
+      "note": "The translation turns 'should' into two mandatory requirements. The revision restores the recommendation and preserves thorough reading and understanding of every section as the basis for the listed abilities."
+    },
+    {
+      "id": "FAC-01-0040",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Differentiate between sections of the MSP",
+      "ne": "• MSP का खण्डहरूबीचको भिन्नता छुट्याउने।",
+      "bt": "• Distinguish between the sections of the MSP.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0041",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Name and give examples of specific MSP activities",
+      "ne": "• निश्चित MSP गतिविधिहरूको नाम बताउने र उदाहरण दिने।",
+      "bt": "• Name specific MSP activities and give examples.",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0042",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Explain the value of the checklists of actions",
+      "ne": "• गर्नुपर्ने कार्यहरूका जाँचसूचीको महत्त्व व्याख्या गर्ने।",
+      "bt": "• Explain the importance of checklists of tasks to be done.",
+      "type": "general",
+      "terms": [
+        "T121"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0043",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Find and explain key considerations",
+      "ne": "• मुख्य विचारणीय पक्षहरू खोज्ने र तिनको व्याख्या गर्ने।",
+      "bt": "• Find the main aspects to be considered and explain them.",
+      "type": "general",
+      "terms": [
+        "T154"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0044",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Be familiar with the MSP Gap Analysis and MSP Costing Tool",
+      "ne": "• MSP Gap Analysis र MSP लागत अनुमान उपकरणसँग परिचित हुने।",
+      "bt": "• Become familiar with the MSP Gap Analysis and the MSP cost estimation tool.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T020",
+        "T351"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "MSP Gap Analysis has no supplied glossary entry. Its English title is retained alongside proposed Nepali wording for review. The added Nepali gloss interprets MSP Gap Analysis as analysis of gaps within the MSP itself, which the source title does not establish. The revision retains the exact English title without that interpretation; its technical meaning and Nepali terminology remain pending review. The back-translation changes being familiar with the tools, an existing competency, to becoming familiar with them, a process of acquiring that competency."
+    },
+    {
+      "id": "FAC-01-0045",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Find and explain the at-risk groups section",
+      "ne": "• जोखिममा रहेका समूहहरूसम्बन्धी खण्ड खोज्ने र त्यसको व्याख्या गर्ने।",
+      "bt": "• Find the section concerning groups at risk and explain it.",
+      "type": "general",
+      "terms": [
+        "T334",
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0046",
+      "page": "5",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Find and explain the infectious diseases section",
+      "ne": "• सरुवा रोगसम्बन्धी खण्ड खोज्नुहोस् र त्यसको व्याख्या गर्नुहोस्।",
+      "bt": "• Find the section on communicable diseases and explain it.",
+      "type": "safety",
+      "terms": [
+        "T242",
+        "T422"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen form सरुवा रोग denotes communicable diseases and may exclude infectious diseases that are not transmissible between hosts, so it may narrow the source scope and requires terminology review. bt-divergence: Frozen T242 denotes communicable diseases, potentially excluding infectious diseases that are not transmissible between hosts. The frozen form is retained unchanged; the source scope conflict remains unresolved."
+    },
+    {
+      "id": "FAC-01-0047",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Facilitators should be proficient in navigating the online MSP platform, including being able to:",
+      "ne": "सहजीकरणकर्ता अनलाइन MSP मञ्चका विभिन्न भागमा जान दक्ष हुनु उचित हुन्छ, जसमा निम्न कार्य गर्न सक्ने क्षमता समावेश छ:",
+      "bt": "It would be appropriate for the facilitator to be skilled at navigating the different parts of the online MSP platform, including the ability to do the following:",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T163"
+      ],
+      "flags": [],
+      "note": "The translation strengthens 'should' to 'must' and substitutes finding and using necessary materials and features for navigating the platform. The revision restores the recommendation and the navigation focus."
+    },
+    {
+      "id": "FAC-01-0048",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Filter activities by sector",
+      "ne": "• क्षेत्रअनुसार गतिविधिहरू छानेर देखाउने।",
+      "bt": "• Select and display activities by sector.",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0049",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Use the search function",
+      "ne": "• खोजी सुविधा प्रयोग गर्ने।",
+      "bt": "• Use the search feature.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0050",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Find relevant guidelines, standards, and tools for specific MSP activities",
+      "ne": "• निश्चित MSP गतिविधिहरूका लागि सान्दर्भिक निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू खोज्ने।",
+      "bt": "• Find relevant guidelines, standards and tools for specific MSP activities.",
+      "type": "general",
+      "terms": [
+        "T272",
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0051",
+      "page": "6",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Structure of the manual",
+      "ne": "पुस्तिकाको संरचना",
+      "bt": "Structure of the handbook",
+      "type": "general",
+      "terms": [
+        "T259",
+        "T433"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0052",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "This manual includes the slides, materials, and guidance for eight core modules (listed below), one additional module on the MSP Costing Tool, Annex 3 - Workshop Surveys and Annex 4 - Workshop Evaluation Form for the core modules.",
+      "ne": "यस पुस्तिकामा आठ मुख्य मोड्युल (तल सूचीबद्ध) का लागि स्लाइड, सामग्री र मार्गदर्शन, MSP लागत अनुमान उपकरणसम्बन्धी एक अतिरिक्त मोड्युल, तथा मुख्य मोड्युलहरूका लागि अनुसूची 3 - कार्यशाला सर्वेक्षणहरू र अनुसूची 4 - कार्यशाला मूल्याङ्कन फाराम समावेश छन्।",
+      "bt": "This handbook includes slides, materials and guidance for eight main modules (listed below), one additional module on the MSP cost estimation tool, and Annex 3 - Workshop Surveys and Annex 4 - Workshop Evaluation Form for the main modules.",
+      "type": "general",
+      "terms": [
+        "T259",
+        "T020",
+        "T351",
+        "T399",
+        "T427",
+        "T434",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "This describes manual contents and instrument titles, not validated instrument items or response options. The recurring term 'module' is absent from G-0.3; proposed wording is listed separately."
+    },
+    {
+      "id": "FAC-01-0053",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Overview of Mental Health and Psychosocial Support",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगको झलक",
+      "bt": "An overview of mental health and psychosocial support",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T016",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The clinical composite phrase is reused verbatim from the supplied unreviewed T001 candidate."
+    },
+    {
+      "id": "FAC-01-0054",
+      "page": "6",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "1",
+      "ne": "1",
+      "bt": "1",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numeric module label retained exactly."
+    },
+    {
+      "id": "FAC-01-0055",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Mental Health and Psychosocial Wellbeing",
+      "ne": "• मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण",
+      "bt": "• Mental health and psychosocial well-being",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The clinical phrase for psychosocial well-being is reused verbatim from the supplied unreviewed T005 candidate."
+    },
+    {
+      "id": "FAC-01-0056",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Mental Health and Psychosocial Support in Humanitarian Crises",
+      "ne": "• मानवीय सङ्कटका अवस्थामा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग",
+      "bt": "• Mental health and psychosocial support in situations of humanitarian crisis",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The clinical composite phrase is reused verbatim from the supplied unreviewed T001 candidate."
+    },
+    {
+      "id": "FAC-01-0057",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Overview of the MHPSS Minimum Service Package",
+      "ne": "MHPSS न्यूनतम सेवा प्याकेजको झलक",
+      "bt": "An overview of the MHPSS Minimum Service Package",
+      "type": "general",
+      "terms": [
+        "T002",
+        "T016"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0058",
+      "page": "6",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "2",
+      "ne": "2",
+      "bt": "2",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numeric module label retained exactly."
+    },
+    {
+      "id": "FAC-01-0059",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• The MSP Structure and Content",
+      "ne": "• MSP को संरचना र विषयवस्तु",
+      "bt": "• Structure and content of the MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T348",
+        "T433"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0060",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Navigating the MSP",
+      "ne": "• MSP का विभिन्न भागमा जाने तरिका",
+      "bt": "• How to navigate the different parts of MSP",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": "The translation narrows navigating the MSP to finding necessary information. The revision restores movement among its different parts without limiting navigation to information retrieval."
+    },
+    {
+      "id": "FAC-01-0061",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Interagency Coordination and Assessment",
+      "ne": "निकायहरूबीच समन्वय र लेखाजोखा",
+      "bt": "Coordination between agencies and assessment",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0062",
+      "page": "6",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "3",
+      "ne": "3",
+      "bt": "3",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Numeric module label retained exactly."
+    },
+    {
+      "id": "FAC-01-0063",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• MHPSS Coordination",
+      "ne": "• MHPSS समन्वय",
+      "bt": "• MHPSS coordination",
+      "type": "general",
+      "terms": [
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0064",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• MHPSS Needs Assessment",
+      "ne": "• MHPSS आवश्यकताहरूको लेखाजोखा",
+      "bt": "• Assessment of MHPSS needs",
+      "type": "general",
+      "terms": [
+        "T004"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0065",
+      "page": "6",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "4",
+      "ne": "4",
+      "bt": "4",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0066",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Essential Components of MHPSS Programmes",
+      "ne": "MHPSS कार्यक्रमका अत्यावश्यक घटकहरू",
+      "bt": "Essential components of MHPSS programmes",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0067",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Essential Components of All MHPSS Programmes",
+      "ne": "• सबै MHPSS कार्यक्रमका अत्यावश्यक घटकहरू",
+      "bt": "• Essential components of all MHPSS programmes",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T345",
+        "T363",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0068",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Understanding MSP Programme Activities",
+      "ne": "MSP कार्यक्रमगत गतिविधिहरूको बुझाइ",
+      "bt": "Understanding MSP programmatic activities",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T167",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0069",
+      "page": "6",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "5",
+      "ne": "5",
+      "bt": "5",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0070",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• MSP Activities",
+      "ne": "• MSP गतिविधिहरू",
+      "bt": "• MSP activities",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0071",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Matching MHPSS Activities to the MSP",
+      "ne": "• MHPSS गतिविधिहरूको MSP सँग मिलान",
+      "bt": "• Alignment of MHPSS activities with the MSP",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0072",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Integrating MHPSS into programming across different areas of work",
+      "ne": "कामका विभिन्न क्षेत्रमा कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS को एकीकरण",
+      "bt": "Integration of MHPSS into programme planning and implementation in various areas of work",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0073",
+      "page": "6",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "6",
+      "ne": "6",
+      "bt": "6",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0074",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Integrating MHPSS across sectors/clusters/AoRs",
+      "ne": "• विभिन्न क्षेत्र/क्लस्टर/AoRs मा MHPSS को एकीकरण",
+      "bt": "• Integration of MHPSS into various sectors/clusters/AoRs",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T124"
+      ],
+      "flags": [],
+      "note": "AoRs is retained without expansion, as in the source."
+    },
+    {
+      "id": "FAC-01-0075",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Promoting mental health and psychosocial wellbeing",
+      "ne": "• मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणको प्रवर्द्धन",
+      "bt": "• Promotion of mental health and psychosocial well-being",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the unreviewed T005 candidate cited to PRIOR-SUM-29OCT2026 p.1 row 58; no clinical validation is implied."
+    },
+    {
+      "id": "FAC-01-0076",
+      "page": "6",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "7",
+      "ne": "7",
+      "bt": "7",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0077",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Additional MSP Tools",
+      "ne": "थप MSP उपकरणहरू",
+      "bt": "Additional MSP tools",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0078",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Additional MSP Tools",
+      "ne": "• थप MSP उपकरणहरू",
+      "bt": "• Additional MSP tools",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0079",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Using the MSP",
+      "ne": "MSP को प्रयोग",
+      "bt": "Use of the MSP",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0080",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Uses of the MSP",
+      "ne": "• MSP का उपयोगहरू",
+      "bt": "• Uses of the MSP",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0081",
+      "page": "6",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "8",
+      "ne": "8",
+      "bt": "8",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0082",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• MSP Scenario Challneges",
+      "ne": "• MSP परिदृश्यका चुनौतीहरू",
+      "bt": "• Challenges of the MSP scenario",
+      "type": "safety",
+      "terms": [
+        "T163",
+        "T419"
+      ],
+      "flags": [
+        "unclear-english",
+        "source-ambiguous"
+      ],
+      "note": "The source spelling 'Challneges' is interpreted as 'Challenges'; confirm whether the heading means challenges within MSP scenarios or names scenario-based challenge exercises."
+    },
+    {
+      "id": "FAC-01-0083",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Next Steps for Participants",
+      "ne": "• सहभागीहरूका लागि आगामी कदमहरू",
+      "bt": "• Next steps for participants",
+      "type": "general",
+      "terms": [
+        "T402",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0084",
+      "page": "6",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Module 9: The MSP Costing Tool (optional)",
+      "ne": "मोड्युल 9: MSP लागत अनुमान उपकरण (ऐच्छिक)",
+      "bt": "Module 9: MSP cost estimation tool (optional)",
+      "type": "activity",
+      "terms": [
+        "T020",
+        "T351",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'module' is absent from G-0.3; a proposal is listed separately."
+    },
+    {
+      "id": "FAC-01-0085",
+      "page": "6",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "9",
+      "ne": "9",
+      "bt": "9",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0086",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• The MSP Costing Tool",
+      "ne": "• MSP लागत अनुमान उपकरण",
+      "bt": "• MSP cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0087",
+      "page": "6",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Costing Tool practice exercises",
+      "ne": "• लागत अनुमान उपकरण प्रयोग गर्ने अभ्यासहरू",
+      "bt": "• Exercises using the cost estimation tool",
+      "type": "general",
+      "terms": [
+        "T351"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0088",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Facilitators should select modules, and adapt the content and exercises within the modules, according to the training needs and experience of participants.",
+      "ne": "सहजीकरणकर्ताले सहभागीहरूको तालिमसम्बन्धी आवश्यकता र अनुभवअनुसार मोड्युलहरू छनोट गर्नु र ती मोड्युलभित्रका विषयवस्तु तथा अभ्यासहरू अनुकूलन गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate for the facilitator to select modules according to the participants' training-related needs and experience and to adapt the content and exercises within those modules.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T348",
+        "T399",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the separate proposal for the recurring term 'module'. The source recommends both actions with 'should'; the Nepali and back-translation strengthen both to 'must'. The revision expresses a recommendation rather than a requirement."
+    },
+    {
+      "id": "FAC-01-0089",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "For instance, Modules 1 and 2, which provide a basic overview of MHPSS, may be important for participants with little or no technical background in MHPSS, but may not be necessary for an audience of MHPSS technical specialists.",
+      "ne": "उदाहरणका लागि, MHPSS को आधारभूत झलक प्रस्तुत गर्ने मोड्युल 1 र 2, MHPSS मा प्राविधिक पृष्ठभूमि थोरै भएका वा हुँदै नभएका सहभागीहरूका लागि महत्त्वपूर्ण हुन सक्छन्, तर MHPSS का प्राविधिक विशेषज्ञहरूका लागि आवश्यक नहुन सक्छन्।",
+      "bt": "For example, modules 1 and 2, which present a basic overview of MHPSS, may be important for participants with little or no technical background in MHPSS, but may not be necessary for technical experts in MHPSS.",
+      "type": "general",
+      "terms": [
+        "T016",
+        "T399",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the separate proposal for the recurring term 'module'; this is ordinary training guidance rather than clinical content."
+    },
+    {
+      "id": "FAC-01-0090",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Annex 1- Delivery Modalities of the Workshop provides direction on how to select modules for different audiences.",
+      "ne": "अनुसूची 1- कार्यशाला सञ्चालनका विधिहरूले विभिन्न सहभागी समूहका लागि मोड्युलहरू कसरी छनोट गर्ने भन्ने मार्गदर्शन दिन्छ।",
+      "bt": "Annex 1 - Methods for conducting workshops provides guidance on how to select modules for different participant groups.",
+      "type": "general",
+      "terms": [
+        "T399",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the separate proposal for the recurring term 'module'."
+    },
+    {
+      "id": "FAC-01-0091",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "To deliver the eight core modules as laid out in this manual, it is recommended to plan for a three-day workshop.",
+      "ne": "यस पुस्तिकामा उल्लेख गरिएअनुसार आठ मुख्य मोड्युल सञ्चालन गर्न तीन दिने कार्यशालाको योजना बनाउन सिफारिस गरिन्छ।",
+      "bt": "It is recommended to plan a three-day workshop to conduct the eight main modules as described in this manual.",
+      "type": "general",
+      "terms": [
+        "T259",
+        "T399",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the separate proposal for the recurring term 'module'."
+    },
+    {
+      "id": "FAC-01-0092",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "A sample agenda for a three-day workshop is included in Annex 2 - Sample Agenda for a 3-Day Workshop.",
+      "ne": "तीन दिने कार्यशालाको नमुना कार्यसूची अनुसूची 2 - 3 दिने कार्यशालाको नमुना कार्यसूचीमा समावेश गरिएको छ।",
+      "bt": "A sample agenda for a three-day workshop is included in Annex 2 - Sample agenda for a 3-day workshop.",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0093",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Certain modules, and exercises within the modules, may be used for stand-alone sessions.",
+      "ne": "केही मोड्युल र ती मोड्युलभित्रका अभ्यासहरू छुट्टै सत्रका लागि प्रयोग गर्न सकिन्छ।",
+      "bt": "Some modules and the exercises within those modules can be used for separate sessions.",
+      "type": "general",
+      "terms": [
+        "T399",
+        "T424"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the separate proposal for the recurring term 'module'."
+    },
+    {
+      "id": "FAC-01-0094",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "For example, facilitators can use the workshop as an opportunity to support an MSP Gap Analysis exercise by facilitating Module 6 on MHPSS Programme Activities, followed by an MSP Gap Analysis exercise.",
+      "ne": "उदाहरणका लागि, सहजीकरणकर्ताले MHPSS कार्यक्रमगत गतिविधिहरूसम्बन्धी मोड्युल 6 को सहजीकरण गरेपछि MSP सम्बन्धी कमीको विश्लेषण गर्ने अभ्यास सञ्चालन गरेर उक्त अभ्यासमा सहयोग पुर्‍याउने अवसरका रूपमा कार्यशालालाई प्रयोग गर्न सक्छन्।",
+      "bt": "For example, after facilitating module 6 on MHPSS programmatic activities, the facilitator can conduct an exercise to analyse gaps related to the MSP and use the workshop as an opportunity to support that exercise.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T167",
+        "T163",
+        "T399",
+        "T409",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The sequence is retained: Module 6 first, then the MSP Gap Analysis exercise. Proposals for 'module' and 'MSP Gap Analysis' are listed separately."
+    },
+    {
+      "id": "FAC-01-0095",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "The additional module on the MSP Costing Tool can be delivered following the three-day workshop, as part of a refresher training or a webinar following the standard MSP workshop.",
+      "ne": "MSP लागत अनुमान उपकरणसम्बन्धी थप मोड्युल तीन दिने कार्यशालापछि, मानक MSP कार्यशालापछि हुने पुनर्ताजगी तालिम वा वेबिनारको अङ्गका रूपमा सञ्चालन गर्न सकिन्छ।",
+      "bt": "The additional module concerning the MSP cost estimation tool can be conducted after the three-day workshop, as part of refresher training or a webinar that takes place after the standard MSP workshop.",
+      "type": "general",
+      "terms": [
+        "T020",
+        "T163",
+        "T351",
+        "T399",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the separate proposal for the recurring term 'module'. The source specifies the 'standard MSP workshop'; [Nepali wording recorded in terminology evidence] and the back-translation 'regular' can instead imply a routine or recurring workshop. Replaced [Nepali wording recorded in terminology evidence] with [Nepali wording recorded in terminology evidence] to preserve 'standard'."
+    },
+    {
+      "id": "FAC-01-0096",
+      "page": "7",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Adaptation to context and participants",
+      "ne": "सन्दर्भ र सहभागीहरूअनुसार अनुकूलन",
+      "bt": "Adaptation according to the context and participants",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0097",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "The exercises, discussions, questions, and points throughout the manual are designed to provide guidance to the facilitators.",
+      "ne": "यस पुस्तिकाभरि रहेका अभ्यास, छलफल, प्रश्न र बुँदाहरू सहजीकरणकर्तालाई मार्गदर्शन प्रदान गर्ने उद्देश्यले तयार गरिएका छन्।",
+      "bt": "The exercises, discussions, questions and points throughout this manual have been prepared with the aim of providing guidance to the facilitator.",
+      "type": "general",
+      "terms": [
+        "T259",
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0098",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Facilitators are encouraged to use their own language and examples to support the learning objectives in each module, rather than following the text as a verbatim script.",
+      "ne": "सहजीकरणकर्तालाई पाठलाई शब्दशः पढेर सुनाउने पटकथाका रूपमा प्रयोग गर्नुको सट्टा प्रत्येक मोड्युलका सिकाइ उद्देश्य हासिल गर्न सहयोग पुग्ने गरी आफ्नै भाषा र उदाहरणहरू प्रयोग गर्न प्रोत्साहित गरिन्छ।",
+      "bt": "The facilitator is encouraged to use their own language and examples in a way that helps achieve the learning objectives of each module, rather than using the text as a script to read aloud word for word.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring terms 'module' and 'learning objectives' are absent from G-0.3; proposed renderings are listed for review."
+    },
+    {
+      "id": "FAC-01-0099",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "In particular, facilitators are encouraged to contextualize the workshop to the specific setting and participants by using examples and scenarios relevant to the context wherever possible, and by taking into account local knowledge, experience, and practices as much as possible.",
+      "ne": "विशेष गरी, सहजीकरणकर्तालाई सम्भव भएसम्म सन्दर्भसँग सम्बन्धित उदाहरण र परिस्थितिहरू प्रयोग गरेर तथा स्थानीय ज्ञान, अनुभव र अभ्यासलाई सकेसम्म ध्यानमा राखेर कार्यशालालाई विशिष्ट परिवेश र सहभागीहरूअनुकूल बनाउन प्रोत्साहित गरिन्छ।",
+      "bt": "In particular, the facilitator is encouraged to adapt the workshop to the specific setting and participants by using context-related examples and situations wherever possible and taking local knowledge, experience and practices into account as much as possible.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T406",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0100",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "It is important to review and adapt activities and case scenarios in advance to ensure they are appropriate to the context.",
+      "ne": "गतिविधि र घटनामा आधारित परिस्थितिहरू सन्दर्भअनुकूल छन् भन्ने सुनिश्चित गर्न तिनको अग्रिम समीक्षा र अनुकूलन गर्नु महत्त्वपूर्ण छ।",
+      "bt": "It is important to review and adapt the activities and event-based situations in advance to ensure that they are appropriate to the context.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "General guidance on reviewing contextual suitability; safety review pending."
+    },
+    {
+      "id": "FAC-01-0101",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Given varying conflict-related, cultural, and political sensitivities from location to location, a scenario that is appropriate in one context may create risks or tensions between participants in another.",
+      "ne": "द्वन्द्वसम्बन्धी, सांस्कृतिक र राजनीतिक संवेदनशीलता स्थानअनुसार फरक हुने भएकाले एउटा सन्दर्भमा उपयुक्त हुने परिस्थितिले अर्को सन्दर्भमा सहभागीहरूबीच जोखिम वा तनाव उत्पन्न गर्न सक्छ।",
+      "bt": "Because conflict-related, cultural and political sensitivities vary by location, a situation that is appropriate in one context may create risks or tensions among participants in another context.",
+      "type": "safety",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": "Describes context-dependent risks and tensions between participants, not clinical symptoms; safety review pending."
+    },
+    {
+      "id": "FAC-01-0102",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Careful review and adaptation by a local facilitator is therefore critical.",
+      "ne": "त्यसैले स्थानीय सहजकर्ताले सावधानीपूर्वक समीक्षा र अनुकूलन गर्नु अत्यावश्यक छ।",
+      "bt": "Therefore, careful review and adaptation by a local facilitator are essential.",
+      "type": "safety",
+      "terms": [
+        "T229"
+      ],
+      "flags": [],
+      "note": "General guidance on local review and adaptation; safety review pending."
+    },
+    {
+      "id": "FAC-01-0103",
+      "page": "7",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Online facilitation",
+      "ne": "अनलाइन सहजीकरण (Online facilitation)",
+      "bt": "Online facilitation (Online facilitation)",
+      "type": "general",
+      "terms": [
+        "T365",
+        "T403"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'online facilitation' is absent from G-0.3; a proposed rendering is listed for review."
+    },
+    {
+      "id": "FAC-01-0104",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Throughout this manual, you will find adaptations of learning activities for online facilitation, as illustrated in the box below.",
+      "ne": "तलको बाकसमा देखाइएझैँ, यस पुस्तिकाभरि अनलाइन सहजीकरणका लागि अनुकूलित सिकाइ गतिविधिहरू दिइएका छन्।",
+      "bt": "Learning activities adapted for online facilitation are provided throughout this manual, as shown in the box below.",
+      "type": "general",
+      "terms": [
+        "T259",
+        "T365",
+        "T403"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of 'online facilitation', which is absent from G-0.3."
+    },
+    {
+      "id": "FAC-01-0105",
+      "page": "7",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Online facilitation",
+      "ne": "अनलाइन सहजीकरण",
+      "bt": "Online facilitation",
+      "type": "general",
+      "terms": [
+        "T365",
+        "T403"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of 'online facilitation', which is absent from G-0.3."
+    },
+    {
+      "id": "FAC-01-0106",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Consider sending participants to virtual ‘breakout rooms’ to discuss the questions.",
+      "ne": "प्रश्नहरूबारे छलफल गर्न सहभागीहरूलाई भर्चुअल ‘ब्रेकआउट कक्ष’ (breakout rooms) मा पठाउनेबारे विचार गर्नुहोस्।",
+      "bt": "Consider sending participants to virtual ‘breakout rooms’ (breakout rooms) to discuss the questions.",
+      "type": "general",
+      "terms": [
+        "T336",
+        "T337",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'breakout rooms' is absent from G-0.3; a proposed rendering is listed for review."
+    },
+    {
+      "id": "FAC-01-0107",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Return to ‘room’ to discuss key points in plenary and ensure that the key concepts and definitions for each question are covered with the whole group.",
+      "ne": "मुख्य बुँदाहरूमा पूर्ण सत्रमा छलफल गर्न ‘कक्ष’ मा फर्कनुहोस् र प्रत्येक प्रश्नसँग सम्बन्धित मुख्य अवधारणा र परिभाषाहरू सम्पूर्ण समूहसँग छलफल गरिएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Return to the ‘room’ to discuss the main points in a plenary session and ensure that the main concepts and definitions related to each question have been discussed with the whole group.",
+      "type": "general",
+      "terms": [
+        "T407"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'plenary' is absent from G-0.3; a proposed rendering is listed for review."
+    },
+    {
+      "id": "FAC-01-0108",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Learning activities that do not include an online facilitation box can be delivered in the same way as in-person training.",
+      "ne": "अनलाइन सहजीकरणसम्बन्धी बाकस समावेश नभएका सिकाइ गतिविधिहरू प्रत्यक्ष उपस्थितिमा गरिने तालिममा जस्तै सञ्चालन गर्न सकिन्छ।",
+      "bt": "Learning activities that do not include a box on online facilitation can be conducted as in in-person training.",
+      "type": "general",
+      "terms": [
+        "T365",
+        "T403"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of 'online facilitation', which is absent from G-0.3."
+    },
+    {
+      "id": "FAC-01-0109",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "To avoid participants becoming fatigued, it is recommended that online workshops be spread across multiple half-days, rather than delivered over full days.",
+      "ne": "सहभागीहरूलाई थकित हुनबाट जोगाउन अनलाइन कार्यशालाहरू पूरा दिनभरि सञ्चालन गर्नुको सट्टा धेरै दिनमा आधा-आधा दिन गरी सञ्चालन गर्न सिफारिस गरिन्छ।",
+      "bt": "To prevent participants from becoming tired, it is recommended that online workshops be conducted in half-day sessions over several days rather than for a full day.",
+      "type": "general",
+      "terms": [
+        "T406",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0110",
+      "page": "7",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Given that the workshop methodology is based on participatory exercises and discussions, which entail many instances where breakout rooms are needed, it is highly recommended to:",
+      "ne": "कार्यशालाको विधि सहभागितामूलक अभ्यास र छलफलमा आधारित हुने र यस क्रममा धेरै पटक ब्रेकआउट कक्ष आवश्यक पर्ने भएकाले निम्न कार्य गर्न जोड दिएर सिफारिस गरिन्छ:",
+      "bt": "As the workshop method will be based on participatory exercises and discussion, and breakout rooms will be needed many times during this process, it is strongly recommended to do the following:",
+      "type": "general",
+      "terms": [
+        "T336",
+        "T337",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of 'breakout rooms', which is absent from G-0.3. The back-translation says 'particularly recommended', which does not explicitly retain the strength of 'highly recommended'. The revision makes the emphasis on recommendation explicit."
+    },
+    {
+      "id": "FAC-01-0111",
+      "page": "7",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Use an online platform that allows ‘breakout rooms’, ‘broadcast communication’ to allow communication with all breakout rooms simultaneously, and a ‘virtual white board’.",
+      "ne": "• ‘ब्रेकआउट कक्ष’, सबै ब्रेकआउट कक्षसँग एकैसाथ सञ्चार गर्न मिल्ने ‘प्रसारण सञ्चार’ (broadcast communication) र ‘भर्चुअल ह्वाइटबोर्ड’ (virtual white board) को सुविधा भएको अनलाइन मञ्च प्रयोग गर्नुहोस्।",
+      "bt": "• Use an online platform with facilities for ‘breakout rooms’, ‘broadcast communication’ (broadcast communication) that allows communication with all breakout rooms at once, and a ‘virtual whiteboard’ (virtual white board).",
+      "type": "general",
+      "terms": [
+        "T336",
+        "T337",
+        "T404"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of 'breakout rooms', which is absent from G-0.3. English interface terms are retained to clarify the required platform functions."
+    },
+    {
+      "id": "FAC-01-0112",
+      "page": "7",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Have no more than 25 people per online workshop.",
+      "ne": "• प्रत्येक अनलाइन कार्यशालामा 25 जनाभन्दा बढी नराख्नुहोस्।",
+      "bt": "• Do not have more than 25 people in each online workshop.",
+      "type": "check",
+      "terms": [
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0113",
+      "page": "8",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Have a co-facilitator who can support with creating breakout rooms, sharing links to handouts, and checking in with participants while they are in breakout rooms to answer their questions and ensure they have understood the instructions of the learning activity.",
+      "ne": "• ब्रेकआउट कक्ष बनाउने, वितरण सामग्रीका लिङ्क साझा गर्ने र सहभागीहरू ब्रेकआउट कक्षमा हुँदा उनीहरूसँग सम्पर्क गरी उनीहरूका प्रश्नको उत्तर दिने तथा उनीहरूले सिकाइ गतिविधिका निर्देशन बुझेको सुनिश्चित गर्ने काममा सहयोग गर्न सक्ने सह-सहजकर्ता राख्नुहोस्।",
+      "bt": "• Have a co-facilitator who can help with creating breakout rooms, sharing links to handouts, and contacting participants while they are in breakout rooms to answer their questions and ensure that they have understood the instructions for the learning activities.",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T336",
+        "T337",
+        "T343",
+        "T373",
+        "T390",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed renderings of 'breakout rooms' and 'co-facilitator', which are absent from G-0.3. The supplied facilitator form is retained within the compound."
+    },
+    {
+      "id": "FAC-01-0114",
+      "page": "8",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• When creating the groups, ask them to choose a spokesperson, a person facilitating the discussion and a person taking notes. If you observe that it tends to be the same people presenting each time, assign different participants to that role in the next exercises.",
+      "ne": "• समूहहरू बनाउँदा उनीहरूलाई एक जना प्रवक्ता, एक जना छलफल सहजीकरण गर्ने व्यक्ति र एक जना टिपोट गर्ने व्यक्ति छान्न लगाउनुहोस्। हरेक पटक उही व्यक्तिहरूले प्रस्तुति दिने प्रवृत्ति देख्नुभयो भने त्यसपछिका अभ्यासमा उक्त भूमिकाका लागि फरक सहभागीहरू तोक्नुहोस्।",
+      "bt": "• When forming groups, have them choose one spokesperson, one person to facilitate the discussion and one person to take notes. If you notice a tendency for the same people to present every time, assign different participants to that role in subsequent exercises.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0115",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "For hybrid workshops, e.g., where participants will be together in-person, but the main facilitator will be presenting remotely via video-conferencing, a co-facilitator who will be physically present with participants should be identified in advance.",
+      "ne": "मिश्रित ढाँचाका कार्यशालाहरूका लागि, उदाहरणका लागि सहभागीहरू एकै ठाउँमा प्रत्यक्ष उपस्थित हुने तर मुख्य सहजकर्ताले भिडियो कन्फरेन्सिङमार्फत टाढाबाट प्रस्तुति दिने अवस्थामा, सहभागीहरूसँग भौतिक रूपमा उपस्थित रहने सह-सहजकर्ता पहिल्यै पहिचान गर्न सिफारिस गरिन्छ।",
+      "bt": "For mixed-format workshops, for example, when participants are present in person in one place but the main facilitator gives a presentation remotely through video conferencing, it is recommended to identify in advance a co-facilitator who will be physically present with the participants.",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T343",
+        "T406",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of 'co-facilitator', which is absent from G-0.3. The back-translation strengthens 'should be identified' to 'must be identified'. The revision expresses a recommendation while retaining advance identification and physical presence with participants."
+    },
+    {
+      "id": "FAC-01-0116",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "The co-facilitator should be briefed on the different exercises so they can support with co-facilitation of the workshop.",
+      "ne": "सह-सहजकर्ताले कार्यशालाको सह-सहजीकरणमा सहयोग गर्न सकून् भनेर उनलाई विभिन्न अभ्यासबारे संक्षिप्त जानकारी दिन सिफारिस गरिन्छ।",
+      "bt": "It is recommended to give the co-facilitator brief information about the various exercises so that they can help with co-facilitating the workshop.",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T343",
+        "T365",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of 'co-facilitator', which is absent from G-0.3. The back-translation strengthens 'should be briefed' to 'must be given brief information'. The revision restores recommendation rather than obligation."
+    },
+    {
+      "id": "FAC-01-0117",
+      "page": "8",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Learning methodology and activities",
+      "ne": "सिकाइ विधि र गतिविधिहरू",
+      "bt": "Learning methods and activities",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0118",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "The manual outlines a training approach that is participatory and inclusive.",
+      "ne": "यस पुस्तिकाले सहभागितामूलक र समावेशी तालिम पद्धतिको रूपरेखा प्रस्तुत गर्छ।",
+      "bt": "This manual presents an outline of a participatory and inclusive training approach.",
+      "type": "general",
+      "terms": [
+        "T259"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0119",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "It includes presentations, group work, individual work, and practice exercises designed to build on the capacity and experience of the participants.",
+      "ne": "यसमा सहभागीहरूको विद्यमान क्षमता र अनुभवलाई आधार बनाएर थप विकास गर्ने उद्देश्यले तयार गरिएका प्रस्तुति, समूहगत कार्य, व्यक्तिगत कार्य र अभ्यासहरू समावेश छन्।",
+      "bt": "It includes presentations, group work, individual work and exercises prepared with the aim of building on and further developing participants’ existing abilities and experience.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0120",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Facilitators should approach training in a flexible manner, adapting to the participants needs and capacities, and ensuring an interactive, participatory approach.",
+      "ne": "सहजीकरणकर्ताले सहभागीहरूको आवश्यकता र क्षमताअनुसार अनुकूलन गर्दै तथा अन्तरक्रियात्मक र सहभागितामूलक पद्धति सुनिश्चित गर्दै लचिलो ढङ्गले तालिम सञ्चालन गर्न सिफारिस गरिन्छ।",
+      "bt": "It is recommended that the facilitator conduct the training flexibly, adapting according to the participants' needs and abilities and ensuring an interactive and participatory approach.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T406"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation strengthens 'should approach training' to 'must conduct the training'. The revision restores recommendation and retains flexibility, adaptation to participants, and the interactive, participatory approach. The source refers to facilitators in the plural, whereas the back-translation refers to a singular facilitator."
+    },
+    {
+      "id": "FAC-01-0121",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Training should be culturally appropriate, age- and gender-sensitive, and inclusive of people living with disabilities.",
+      "ne": "तालिमलाई सांस्कृतिक रूपमा उपयुक्त, उमेर र लैङ्गिक पक्षप्रति संवेदनशील तथा अपाङ्गता भएका व्यक्तिहरूलाई समावेश गर्ने बनाउन सिफारिस गरिन्छ।",
+      "bt": "It is recommended to make the training culturally appropriate, sensitive to age and gender aspects, and inclusive of persons with disabilities.",
+      "type": "general",
+      "terms": [
+        "T233"
+      ],
+      "flags": [],
+      "note": "The back-translation strengthens 'should be' to 'must be'. The revision expresses recommendation while retaining cultural appropriateness, age and gender sensitivity, and disability inclusion."
+    },
+    {
+      "id": "FAC-01-0122",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "This manual includes different learning methodologies, identified by boxes with different colors and icons.",
+      "ne": "यस पुस्तिकामा विभिन्न सिकाइ विधिहरू समावेश छन्, जसलाई फरक रङ र चिह्नहरू भएका बाकसद्वारा चिनाइएको छ।",
+      "bt": "This manual includes various learning methods, which are marked by boxes with different colours and symbols.",
+      "type": "general",
+      "terms": [
+        "T259",
+        "T150"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0123",
+      "page": "8",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These boxes contain the learning objectives that are expected to be achieved during the module.",
+      "ne": "यी बाकसहरूमा मोड्युलका क्रममा हासिल हुने अपेक्षा गरिएका सिकाइ उद्देश्यहरू समावेश छन्।",
+      "bt": "These boxes contain the learning objectives expected to be achieved during the module.",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed renderings of 'module' and 'learning objectives', which are absent from G-0.3."
+    },
+    {
+      "id": "FAC-01-0124",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "It is recommended that facilitators present the module learning objectives on a slide or flip chart at the beginning of the module and review them again at the end of the module.",
+      "ne": "सहजीकरणकर्ताले मोड्युलको सुरुमा त्यसका सिकाइ उद्देश्यहरू स्लाइड वा फ्लिप चार्टमा प्रस्तुत गर्न र मोड्युलको अन्त्यमा तिनको पुनः समीक्षा गर्न सिफारिस गरिन्छ।",
+      "bt": "It is recommended that the facilitator present the module’s learning objectives on slides or a flip chart at the beginning of the module and review them again at the end of the module.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T391",
+        "T399",
+        "T427"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed renderings of 'module' and 'learning objectives', which are absent from G-0.3."
+    },
+    {
+      "id": "FAC-01-0125",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Presenting the learning objectives in this manner helps participants to have a clear understanding of what they can expect to learn during the module and allows facilitators and participants to check whether those objectives have been achieved at the end of the module.",
+      "ne": "यसरी सिकाइ उद्देश्यहरू प्रस्तुत गर्दा सहभागीहरूलाई मोड्युलका क्रममा के सिक्ने अपेक्षा गर्न सकिन्छ भन्ने स्पष्ट रूपमा बुझ्न मद्दत पुग्छ र सहजीकरणकर्ता तथा सहभागीहरूले मोड्युलको अन्त्यमा ती उद्देश्यहरू हासिल भए वा भएनन् भनी जाँच गर्न सक्छन्।",
+      "bt": "Presenting the learning objectives in this way helps participants clearly understand what they can expect to learn during the module, and the facilitator and participants can check at the end of the module whether or not those objectives have been achieved.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T391",
+        "T399",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed renderings of 'module' and 'learning objectives', which are absent from G-0.3."
+    },
+    {
+      "id": "FAC-01-0126",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Facilitators can use the review of learning objectives at the end of each module to identify topics that need more attention during the workshop.",
+      "ne": "सहजीकरणकर्ताले प्रत्येक मोड्युलको अन्त्यमा सिकाइ उद्देश्यहरूको समीक्षा गरेर कार्यशालाका क्रममा थप ध्यान दिनुपर्ने विषयहरू पहिचान गर्न सक्छन्।",
+      "bt": "By reviewing the learning objectives at the end of each module, the facilitator can identify topics that need further attention during the workshop.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T391",
+        "T399",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed renderings of 'module' and 'learning objectives', which are absent from G-0.3."
+    },
+    {
+      "id": "FAC-01-0127",
+      "page": "8",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Plenary discussion",
+      "ne": "पूर्ण सत्रमा छलफल",
+      "bt": "Discussion in a plenary session",
+      "type": "general",
+      "terms": [
+        "T407"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of 'plenary', which is absent from G-0.3."
+    },
+    {
+      "id": "FAC-01-0128",
+      "page": "8",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These sections include guidance on facilitating group discussions and presenting workshop material in plenary sessions.",
+      "ne": "यी खण्डहरूमा समूहगत छलफल सहजीकरण गर्ने र पूर्ण सत्रहरूमा कार्यशालाका सामग्री प्रस्तुत गर्नेबारे मार्गदर्शन समावेश छ।",
+      "bt": "These sections contain guidance on facilitating group discussions and presenting workshop materials in plenary sessions.",
+      "type": "general",
+      "terms": [
+        "T407",
+        "T422",
+        "T424",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed rendering of 'plenary', which is absent from G-0.3."
+    },
+    {
+      "id": "FAC-01-0129",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These entries include questions facilitators can ask the group to prompt discussion.",
+      "ne": "यी प्रविष्टिहरूमा छलफल अघि बढाउन सहजीकरणकर्ताले समूहलाई सोध्न सक्ने प्रश्नहरू समावेश छन्।",
+      "bt": "These entries include questions that the facilitator can ask the group to move the discussion forward.",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0130",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These are thumbnail versions of slides that trainers can use to communicate the points in the cell on the right-hand side.",
+      "ne": "यी स्लाइडका लघुचित्रहरू हुन्, जसलाई प्रशिक्षकहरूले दायाँपट्टिको कोष्ठमा भएका बुँदाहरू प्रस्तुत गर्न प्रयोग गर्न सक्छन्।",
+      "bt": "These are thumbnails of slides, which trainers can use to present the points in the cell on the right.",
+      "type": "general",
+      "terms": [
+        "T427",
+        "T436"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: thumbnail = [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0131",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These entries include definitions, key concepts, and knowledge to guide the discussion.",
+      "ne": "यी प्रविष्टिहरूमा छलफललाई दिशा दिन परिभाषा, मुख्य अवधारणा र जानकारी समावेश छन्।",
+      "bt": "These entries include definitions, key concepts and information to guide the discussion.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0132",
+      "page": "8",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Facilitators should familiarize themselves with these and ensure that the main points are covered, checking that they are raised by participants in discussions or presenting the points themselves.",
+      "ne": "सहजीकरणकर्ताले यी विषयहरूसँग परिचित हुनु र छलफलमा सहभागीहरूले मुख्य बुँदाहरू उठाएका छन् कि छैनन् भनी जाँच गरेर वा आफैँ ती बुँदाहरू प्रस्तुत गरेर मुख्य बुँदाहरू समेटिएको सुनिश्चित गर्नु उचित हुन्छ।",
+      "bt": "It is appropriate for the facilitator to be familiar with these topics and to ensure that the main points are covered by checking whether participants have raised the main points in the discussion or by presenting those points themselves.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T406"
+      ],
+      "flags": [],
+      "note": "The back-translation makes both recommendations mandatory ('must'), whereas the source uses 'should'. The revision expresses recommendation rather than obligation."
+    },
+    {
+      "id": "FAC-01-0133",
+      "page": "9",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Group learning activity",
+      "ne": "समूहमा गरिने सिकाइ गतिविधि",
+      "bt": "Learning activity done in a group",
+      "type": "general",
+      "terms": [
+        "T390"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0134",
+      "page": "9",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These sections include guidance on facilitating learning activities in small groups or pairs.",
+      "ne": "यी खण्डहरूमा साना समूह वा जोडीमा सिकाइ गतिविधिहरूको सहजीकरण गर्नेबारे मार्गदर्शन समावेश छ।",
+      "bt": "These sections include guidance on facilitating learning activities in small groups or pairs.",
+      "type": "general",
+      "terms": [
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring terms: learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; facilitation = [Nepali wording recorded in terminology evidence]. Glossary review pending."
+    },
+    {
+      "id": "FAC-01-0135",
+      "page": "9",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These entries provide a list of the materials needed to facilitate the learning activity.",
+      "ne": "यी प्रविष्टिहरूमा सिकाइ गतिविधिको सहजीकरण गर्न आवश्यक सामग्रीहरूको सूची दिइएको छ।",
+      "bt": "These entries provide a list of materials needed to facilitate the learning activity.",
+      "type": "general",
+      "terms": [
+        "T390"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0136",
+      "page": "9",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These entries include guidance on how to facilitate the learning activity.",
+      "ne": "यी प्रविष्टिहरूमा सिकाइ गतिविधिको सहजीकरण कसरी गर्ने भन्ने मार्गदर्शन समावेश छ।",
+      "bt": "These entries include guidance on how to facilitate the learning activity.",
+      "type": "general",
+      "terms": [
+        "T390"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0137",
+      "page": "9",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These thumbnails include instructions on the activity for participants.",
+      "ne": "यी लघुचित्रहरूमा सहभागीहरूका लागि गतिविधिसम्बन्धी निर्देशनहरू समावेश छन्।",
+      "bt": "These thumbnails include activity-related instructions for participants.",
+      "type": "general",
+      "terms": [
+        "T406",
+        "T436"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring term thumbnail = [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0138",
+      "page": "9",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These thumbnails include guidance on group discussions following the activity.",
+      "ne": "यी लघुचित्रहरूमा गतिविधिपछि हुने समूहगत छलफलबारे मार्गदर्शन समावेश छ।",
+      "bt": "These thumbnails include guidance on the group discussion that takes place after the activity.",
+      "type": "general",
+      "terms": [
+        "T436"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring term thumbnail = [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0139",
+      "page": "9",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Note for facilitators",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी",
+      "bt": "Note for the facilitator",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0140",
+      "page": "9",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These boxes include additional guidance and tips on facilitation.",
+      "ne": "यी बाकसहरूमा सहजीकरणसम्बन्धी थप मार्गदर्शन र सुझावहरू समावेश छन्।",
+      "bt": "These boxes include additional guidance and suggestions related to facilitation.",
+      "type": "general",
+      "terms": [
+        "T365"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring term facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0141",
+      "page": "9",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Online facilitation",
+      "ne": "अनलाइन सहजीकरण",
+      "bt": "Online facilitation",
+      "type": "general",
+      "terms": [
+        "T365",
+        "T403"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: online facilitation = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0142",
+      "page": "9",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These boxes contain adaptations of learning activities for online facilitation.",
+      "ne": "यी बाकसहरूमा अनलाइन सहजीकरणका लागि अनुकूलित सिकाइ गतिविधिहरू समावेश छन्।",
+      "bt": "These boxes include learning activities adapted for online facilitation.",
+      "type": "general",
+      "terms": [
+        "T365",
+        "T403"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms online facilitation = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0143",
+      "page": "9",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These entries provide a list of the materials needed to facilitate the learning activity online.",
+      "ne": "यी प्रविष्टिहरूमा अनलाइन माध्यमबाट सिकाइ गतिविधिको सहजीकरण गर्न आवश्यक सामग्रीहरूको सूची दिइएको छ।",
+      "bt": "These entries provide a list of materials needed to facilitate the learning activity through an online medium.",
+      "type": "general",
+      "terms": [
+        "T390"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0144",
+      "page": "9",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "These entries include guidance on how to facilitate the learning activity online.",
+      "ne": "यी प्रविष्टिहरूमा अनलाइन माध्यमबाट सिकाइ गतिविधिको सहजीकरण कसरी गर्ने भन्ने मार्गदर्शन समावेश छ।",
+      "bt": "These entries include guidance on how to facilitate the learning activity through an online medium.",
+      "type": "general",
+      "terms": [
+        "T390"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0145",
+      "page": "9",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Each module also includes a table with a list of topics and corresponding learning activities.",
+      "ne": "प्रत्येक मोड्युलमा विषयहरू र तिनसँग सम्बन्धित सिकाइ गतिविधिहरूको सूची भएको तालिका पनि समावेश छ।",
+      "bt": "Each module also includes a table containing a list of topics and their related learning activities.",
+      "type": "general",
+      "terms": [
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: module = [Nepali wording recorded in terminology evidence]. Also uses proposed learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0146",
+      "page": "9",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "In preparing for a workshop, facilitators should choose which topics and which learning activities they will facilitate, considering participants´ training needs and time available for the workshop.",
+      "ne": "कार्यशालाको तयारी गर्दा सहजीकरणकर्ताले सहभागीहरूको तालिम आवश्यकता र कार्यशालाका लागि उपलब्ध समयलाई ध्यानमा राखी आफूले कुन विषयहरू र कुन सिकाइ गतिविधिहरूको सहजीकरण गर्ने हो भन्ने छनोट गर्नु उचित हुन्छ।",
+      "bt": "When preparing for the workshop, it is appropriate for the facilitator to select which topics and which learning activities they will facilitate, taking into account the participants' training needs and the time available for the workshop.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T406",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring terms learning activity = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] and facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending. The back-translation changes 'should choose' to 'must select'. The revision retains the recommendation and both considerations: participants' training needs and available workshop time."
+    },
+    {
+      "id": "FAC-01-0147",
+      "page": "10",
+      "loc": "heading",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Key messages",
+      "ne": "मुख्य सन्देशहरू",
+      "bt": "Key messages",
+      "type": "general",
+      "terms": [
+        "T253"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0148",
+      "page": "10",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Repetition of content in different forms such as through exercises and discussions can contribute to participant learning.",
+      "ne": "अभ्यास र छलफलजस्ता विभिन्न माध्यमबाट विषयवस्तु दोहोर्‍याउँदा सहभागीहरूको सिकाइमा योगदान पुग्न सक्छ।",
+      "bt": "Repeating the subject matter through various means, such as exercises and discussions, can contribute to participants' learning.",
+      "type": "general",
+      "terms": [
+        "T348"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0149",
+      "page": "10",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "This is reflected in learning objectives that in some cases span multiple modules.",
+      "ne": "यो कुरा सिकाइ उद्देश्यहरूमा प्रतिबिम्बित हुन्छ, जुन केही अवस्थामा एकभन्दा बढी मोड्युलमा समेटिएका हुन्छन्।",
+      "bt": "This is reflected in the learning objectives, which in some cases are covered in more than one module.",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses proposed recurring term module = [Nepali wording recorded in terminology evidence]; glossary review pending."
+    },
+    {
+      "id": "FAC-01-0150",
+      "page": "10",
+      "loc": "para",
+      "section": "Overview of the Facilitator Manual",
+      "en": "Facilitators can further integrate repetition into workshops by weaving the key messages below into plenary discussions and discussions following exercises where appropriate.",
+      "ne": "सहजीकरणकर्ताले उपयुक्त अवस्थामा तलका मुख्य सन्देशहरूलाई सबै सहभागी सम्मिलित छलफलमा र अभ्यासपछि हुने छलफलमा समेटेर कार्यशालामा विषयवस्तुको पुनरावृत्तिलाई अझ समावेश गर्न सक्छन्।",
+      "bt": "The facilitator can further incorporate repetition of the subject matter into the workshop by including the following key messages, where appropriate, in discussions involving all participants and in discussions after exercises.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T253",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0151",
+      "page": "10",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• Coordination across sectors and organizations is essential. Organizations implementing MHPSS have a responsibility to participate in MHPSS coordination efforts whether this is done through an MHPSS Technical Working Group or another form of coordination.",
+      "ne": "• क्षेत्रहरू र संस्थाहरूबीच समन्वय अत्यावश्यक छ। मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) कार्यान्वयन गर्ने संस्थाहरूको जिम्मेवारी MHPSS समन्वय प्रयासहरूमा सहभागी हुनु हो, चाहे यो समन्वय MHPSS प्राविधिक कार्यसमूह (Technical Working Group) मार्फत गरिएको होस् वा अन्य कुनै स्वरूपमा गरिएको होस्।",
+      "bt": "• Coordination between sectors and organizations is essential. It is the responsibility of organizations implementing mental health and psychosocial support (MHPSS) to participate in MHPSS coordination efforts, whether this coordination is carried out through an MHPSS Technical Working Group or in any other form.",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T050",
+        "T296",
+        "T349"
+      ],
+      "flags": [],
+      "note": "The clinical composite label is reused verbatim from the supplied unreviewed T001 candidate; no clinical validation is implied. The source describes coordination as 'essential'; the Nepali and back-translation make it 'mandatory'. The revision preserves necessity without adding a mandatory requirement. Organizations' responsibility to participate remains unchanged."
+    },
+    {
+      "id": "FAC-01-0152",
+      "page": "10",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• MHPSS activities are those activities that have a specific aim of improving the mental health and psychosocial wellbeing of the target population. Activities and services that do not have a specific aim of improving mental health and psychosocial wellbeing are not considered MHPSS activities, even if the impact of the service is positive (e.g., cash assistance may alleviate stress but is not an MHPSS activity unless it has been designed with an MHPSS-focused component). Nonetheless, activities that are not MHPSS-specific can be delivered in such a way that they include MHPSS considerations (see MSP Activity 3.1). Cash assistance and livelihood programs, for example, could take steps to ensure inclusion of and access for persons with mental health conditions.",
+      "ne": "• लक्षित जनसङ्ख्याको मानसिक स्वास्थ्य र मनोसामाजिक सुस्वास्थ्यमा सुधार ल्याउने विशिष्ट उद्देश्य भएका गतिविधिहरू नै MHPSS गतिविधिहरू हुन्। मानसिक स्वास्थ्य र मनोसामाजिक सुस्वास्थ्यमा सुधार ल्याउने विशिष्ट उद्देश्य नभएका गतिविधि तथा सेवाहरूलाई MHPSS गतिविधिहरू मानिँदैन, सेवाको प्रभाव सकारात्मक भए पनि (उदाहरणका लागि, नगद सहायताले तनाव कम गर्न सक्छ, तर MHPSS मा केन्द्रित घटक समावेश गरेर तयार गरिएको नभएसम्म यो MHPSS गतिविधि होइन)। तैपनि, MHPSS का लागि विशिष्ट नभएका गतिविधिहरू पनि MHPSS सम्बन्धी पक्षहरू समेटिने गरी सञ्चालन गर्न सकिन्छ (MSP गतिविधि 3.1 हेर्नुहोस्।)। उदाहरणका लागि, नगद सहायता र जीविकोपार्जनका कार्यक्रमहरूले मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू भएका व्यक्तिहरूको समावेशिता र तिनको पहुँच सुनिश्चित गर्न कदम चाल्न सक्छन्।",
+      "bt": "• MHPSS activities are those activities that have the specific objective of improving the mental health and psychosocial well-being of the target population. Activities and services that do not have the specific objective of improving mental health and psychosocial well-being are not considered MHPSS activities, even if the effect of the service is positive (for example, cash assistance can reduce stress, but unless it is designed to include a component focused on MHPSS, it is not an MHPSS activity). Nevertheless, activities that are not specific to MHPSS can also be carried out in a way that incorporates aspects related to MHPSS (see MSP activity 3.1). For example, cash assistance and livelihood programmes can take steps to ensure the inclusion of persons with mental health conditions and their access.",
+      "type": "safety",
+      "terms": [
+        "T157",
+        "T158",
+        "T163",
+        "T345",
+        "T410",
+        "T091",
+        "T478"
+      ],
+      "flags": [],
+      "note": "Unvalidated practitioner draft preserving the specific-aim requirement, the exclusion despite positive effects, the cash-assistance condition and the possibility of inclusive programme delivery."
+    },
+    {
+      "id": "FAC-01-0153",
+      "page": "10",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• MHPSS includes a broad range of activities, not limited to specialized services provided by psychiatrists or psychologists. There are insufficient numbers of mental health specialists to be able to rely on specialists alone. Training and supervising non—specialists is therefore needed. Integration of MHPSS, including MHPSS activities delivered by trained and supervised non-specialists such as general health staff or community workers, is necessary to be able to scale up services to larger numbers of people.",
+      "ne": "• MHPSS ले गतिविधिहरूको फराकिलो दायरा समेट्छ र यो मनोचिकित्सकहरू वा मनोवैज्ञानिकहरूबाट प्रदान गरिने विशेषीकृत सेवाहरूमा मात्र सीमित छैन। विशेषज्ञहरूमा मात्र भर पर्न सकिने गरी पर्याप्त सङ्ख्यामा मानसिक स्वास्थ्य विशेषज्ञहरू छैनन्। त्यसैले गैर-विशेषज्ञहरूलाई तालिम दिनु र तिनको सुपरिवेक्षण गर्नु आवश्यक छ। अझ धेरै मानिसहरूसम्म सेवाहरू विस्तार गर्ने क्षमता हासिल गर्न, सामान्य स्वास्थ्यकर्मी वा समुदायका कार्यकर्ता जस्ता तालिमप्राप्त तथा सुपरिवेक्षणमा रहेका गैर-विशेषज्ञहरूले सञ्चालन गर्ने MHPSS गतिविधिहरू समेत समेटेर MHPSS को एकीकरण गर्नु आवश्यक छ।",
+      "bt": "• MHPSS encompasses a broad range of activities and is not limited only to specialized services provided by psychiatrists or psychologists. There are not enough mental health specialists to be able to rely only on specialists. Therefore, it is necessary to train non-specialists and supervise them. To gain the capacity to extend services to more people, it is necessary to integrate MHPSS, including MHPSS activities carried out by trained and supervised non-specialists such as general health workers or community workers.",
+      "type": "safety",
+      "terms": [
+        "T158",
+        "T178",
+        "T264",
+        "T344",
+        "T384",
+        "T418",
+        "T491",
+        "T497"
+      ],
+      "flags": [],
+      "note": "Unvalidated practitioner draft preserving the distinction between professional groups, the insufficiency of specialist numbers and the stated necessity of training, supervision and integration for service expansion. Term annotations omit general health and mental health labels occurring only within more specific expressions; the Nepali wording is unchanged."
+    },
+    {
+      "id": "FAC-01-0154",
+      "page": "10",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• All sectors can contribute to integrating and strengthening MHPSS in a humanitarian response as part of their mandate. MHPSS does not “belong” to any one sector.",
+      "ne": "• सबै क्षेत्रले आफ्नो कार्यादेशअन्तर्गत मानवीय प्रतिकार्यमा MHPSS एकीकृत गर्न र सुदृढ बनाउन योगदान दिन सक्छन्। MHPSS कुनै एक क्षेत्रको मात्र होइन।",
+      "bt": "• All sectors can contribute to integrating and strengthening MHPSS in humanitarian response within their mandates. MHPSS does not belong to only one sector.",
+      "type": "general",
+      "terms": [
+        "T003",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-01-0155",
+      "page": "10",
+      "loc": "bullet",
+      "section": "Overview of the Facilitator Manual",
+      "en": "• The MSP operationalizes existing MHPSS activities. It is not a new MHPSS approach but rather a package designed to facilitate the work of actors to integrate or strengthen MHPSS in their sectors. It is designed to make it easier for actors to do this work.",
+      "ne": "• MSP ले विद्यमान MHPSS गतिविधिहरूलाई कार्यान्वयनयोग्य बनाउँछ। यो MHPSS को नयाँ पद्धति होइन, बरु सम्बद्ध पक्षहरूका लागि आआफ्ना क्षेत्रमा MHPSS एकीकृत गर्ने वा सुदृढ बनाउने काममा सहजीकरण गर्न तयार गरिएको प्याकेज हो। सम्बद्ध पक्षहरूलाई यो काम गर्न सजिलो होस् भनेर यसको तर्जुमा गरिएको हो।",
+      "bt": "• The MSP makes existing MHPSS activities implementable. It is not a new approach to MHPSS, but rather a package prepared to facilitate the work of relevant parties in integrating or strengthening MHPSS in their respective sectors. It has been designed to make it easier for relevant parties to do this work.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T158",
+        "T163",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Uses proposed recurring term facilitation = [Nepali wording recorded in terminology evidence]; glossary review pending. The original Nepali and back-translation suggest that MSP itself puts activities into implementation. The revision preserves the enabling sense of 'operationalizes' without assigning implementation to the package itself. The technical rendering of 'operationalizes' remains pending review. The back-translation changes the MSP's role from operationalizing existing MHPSS activities to making them implementable, expressing implementation readiness rather than making the activities operational."
+    }
+  ]
+}

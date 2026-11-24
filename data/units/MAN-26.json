@@ -1,0 +1,753 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-26",
+  "unit_title": "Initiate or strengthen the provision of psychological interventions",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "78-80",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:08:04+05:45",
+  "coverage": {
+    "source_words": 771,
+    "row_words": 769,
+    "skipped": [
+      "PDF p.78: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 73",
+      "PDF p.79: running footer/page number removed: 74 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.80: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 75"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-26-0001",
+      "page": "78",
+      "loc": "heading",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "3.12 Initiate or strengthen the provision of psychological interventions",
+      "ne": "3.12 मनोवैज्ञानिक हस्तक्षेपहरूको व्यवस्था सुरु गर्ने वा सुदृढ गर्ने",
+      "bt": "3.12 Initiate or strengthen the provision of psychological interventions",
+      "type": "activity",
+      "terms": [
+        "T109"
+      ],
+      "flags": [],
+      "note": "Exact supplied activity candidate retained; its clinical wording remains unreviewed."
+    },
+    {
+      "id": "MAN-26-0002",
+      "page": "78",
+      "loc": "para",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Prolonged psychological distress and mental health conditions (such as depression, anxiety and PTSD) are common in humanitarian settings.",
+      "ne": "लामो समयसम्म रहने मानसिक व्यथा र मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरू (जस्तै, [depression], [anxiety] र [PTSD]) मानवीय सहायताका परिवेशहरूमा सामान्य रूपमा देखिन्छन्।",
+      "bt": "Long-lasting mental distress and mental health-related conditions (such as [depression], [anxiety] and [PTSD]) are commonly seen in humanitarian assistance settings.",
+      "type": "safety",
+      "terms": [
+        "T490",
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The diagnoses remain in exact source English, and the statement retains prolonged distress and the humanitarian setting."
+    },
+    {
+      "id": "MAN-26-0003",
+      "page": "78",
+      "loc": "para",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Mental health conditions impair day-to-day functioning and the ability to access needed services and supports.",
+      "ne": "मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूले दैनिक कामकाज गर्न र आवश्यक सेवा तथा सहयोगमा पहुँच प्राप्त गर्न सक्ने क्षमतामा बाधा पुर्‍याउँछन्।",
+      "bt": "Mental health-related conditions hinder the ability to carry out daily activities and obtain access to necessary services and support.",
+      "type": "safety",
+      "terms": [
+        "T478"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft retains impairment of both everyday functioning and the ability to access needed services and supports."
+    },
+    {
+      "id": "MAN-26-0004",
+      "page": "78",
+      "loc": "para",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "People without a professional licence or qualification in mental health care (sometimes known as para-professionals or non-specialized staff) can deliver scalable psychological interventions73 to address these problems if they are well trained, supervised and supported.",
+      "ne": "मानसिक स्वास्थ्य सेवासम्बन्धी पेशागत इजाजतपत्र वा योग्यता नभएका व्यक्तिहरूले पनि (जसलाई कहिलेकाहीँ अर्ध-पेशाकर्मी वा गैरविशेषज्ञ कर्मचारी भनिन्छ) राम्ररी तालिम, सुपरिवेक्षण र सहयोग पाएका छन् भने यी समस्यालाई सम्बोधन गर्न विस्तार गर्न सकिने मनोवैज्ञानिक हस्तक्षेप73 प्रदान गर्न सक्छन्।",
+      "bt": "People who do not have a professional license or qualifications related to mental health services (who are sometimes called paraprofessionals or non-specialist staff) can also provide scalable psychological interventions73 to address these problems if they have received proper training, supervision and support.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T007",
+        "T295"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserves the conditional permission, both licensing and qualification, and marker 73. Mental health care wording is drawn from the supplied unreviewed activity 3.10 candidate; T007 is also unreviewed. Proposed technical additions: scalable = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; supervision = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-26-0005",
+      "page": "78",
+      "loc": "para",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "For example, staff in health, social, nutrition and other sectors can be trained in structured scalable evidence-based psychological interventions (see key consideration 31).",
+      "ne": "उदाहरणका लागि, स्वास्थ्य, सामाजिक, पोषण तथा अन्य क्षेत्रमा कार्यरत कर्मचारीलाई संरचित, विस्तार गर्न सकिने र प्रमाणमा आधारित मनोवैज्ञानिक हस्तक्षेपसम्बन्धी तालिम दिन सकिन्छ (मुख्य विचारणीय पक्ष 31 हेर्नुहोस्)।",
+      "bt": "For example, staff working in health, social, nutrition and other sectors can be trained in structured, scalable and evidence-based psychological interventions (see Key Consideration 31).",
+      "type": "check",
+      "terms": [
+        "T027",
+        "T030",
+        "T007",
+        "T228",
+        "T252",
+        "T295",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains all sectors, all three intervention qualifiers and reference 31. The clinical base phrase is the unreviewed T007 candidate. Proposed technical additions: scalable = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; evidence-based = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-26-0006",
+      "page": "78",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Workforce development and systems strengthening for delivery of psychological interventions is a longer-term process but should be initiated and planned from the beginning.",
+      "ne": "मनोवैज्ञानिक हस्तक्षेप प्रदान गर्नका लागि जनशक्ति विकास र प्रणाली सुदृढीकरण तुलनात्मक रूपमा लामो समय लाग्ने प्रक्रिया हो, तर यसको थालनी र योजना सुरुदेखि नै गर्नु उचित हुन्छ।",
+      "bt": "Developing the workforce and strengthening the system to provide psychological interventions is a process that takes a comparatively long time, but it is advisable to initiate and plan it from the outset.",
+      "type": "general",
+      "terms": [
+        "T007"
+      ],
+      "flags": [],
+      "note": "Administrative workforce and systems guidance translated using the existing unreviewed T007 phrase; retains the requirement to begin and plan from the outset. The BT strengthens 'should' to 'must' and renders 'longer-term' as 'long-term'. The revision restores advisory strength and the comparative duration."
+    },
+    {
+      "id": "MAN-26-0007",
+      "page": "78",
+      "loc": "footnote",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "73 Scalable psychological interventions are typically characterized by reduced reliance on specialists (e.g. non-specialized staff can be trained and supervised), include interventions that address multiple problems, may not require diagnostic assessment and focus on skills for self-management.",
+      "ne": "73 विस्तार गर्न सकिने मनोवैज्ञानिक हस्तक्षेपहरू सामान्यतया विशेषज्ञहरूमाथि कम निर्भर हुन्छन् (जस्तै, गैरविशेषज्ञ कर्मचारीहरूलाई तालिम दिन र उनीहरूको पर्यवेक्षण गर्न सकिन्छ)। यस्ता हस्तक्षेपमा एकभन्दा बढी समस्यालाई सम्बोधन गर्ने हस्तक्षेपहरू समावेश हुन्छन्, निदानसम्बन्धी लेखाजोखा आवश्यक नपर्न सक्छ र स्व-व्यवस्थापनका सीपहरूमा जोड दिइन्छ।",
+      "bt": "73 Psychological interventions that can be scaled up generally depend less on specialists (for example, non-specialist staff can be trained and supervised). Such interventions include interventions that address more than one problem, diagnostic assessment may not be required, and emphasis is placed on self-management skills.",
+      "type": "safety",
+      "terms": [
+        "T295",
+        "T007",
+        "T004"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The draft retains 73, typical rather than universal characteristics, possible training and supervision, and the possibility that diagnostic assessment is unnecessary."
+    },
+    {
+      "id": "MAN-26-0008",
+      "page": "79",
+      "loc": "heading",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-26-0009",
+      "page": "79",
+      "loc": "heading",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Initiate or strengthen the provision of psychological interventions",
+      "ne": "मनोवैज्ञानिक हस्तक्षेपहरूको व्यवस्था सुरु गर्ने वा सुदृढ गर्ने",
+      "bt": "Initiate or strengthen the provision of psychological interventions",
+      "type": "activity",
+      "terms": [
+        "T109"
+      ],
+      "flags": [],
+      "note": "Supplied activity label retained verbatim without adding an activity code absent from this row."
+    },
+    {
+      "id": "MAN-26-0010",
+      "page": "79",
+      "loc": "heading",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-26-0011",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Decide which platform or setting (e.g. general health services, SRH services, rehabilitation centres, social services, protection services or settings such as safe spaces, education, or nutrition services) and which providers will be engaged to deliver psychological interventions.",
+      "ne": "मनोवैज्ञानिक हस्तक्षेप प्रदान गर्न कुन माध्यम वा परिवेश (जस्तै, सामान्य स्वास्थ्य सेवाहरू, SRH सेवाहरू, पुनर्स्थापना केन्द्रहरू, सामाजिक सेवाहरू, संरक्षण सेवाहरू वा सुरक्षित स्थलहरू जस्ता परिवेशहरू, शिक्षा वा पोषण सेवाहरू) प्रयोग गर्ने र कुन सेवा प्रदायकहरूलाई संलग्न गराउने भन्ने निर्णय गर्नुहोस्।",
+      "bt": "Decide which channel or setting (for example, general health services, SRH services, settings such as rehabilitation centres, social services, protection services or safe spaces, education or nutrition services) to use to provide psychological interventions and which service providers to involve.",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T027",
+        "T501",
+        "T029",
+        "T293",
+        "T028",
+        "T030"
+      ],
+      "flags": [],
+      "note": "The draft retains the decision about both delivery settings and providers, all listed examples, and SRH without expansion."
+    },
+    {
+      "id": "MAN-26-0012",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Facilitate access to appropriate space(s) for the delivery of psychological interventions (e.g. considering confidentiality and having a safe space for accompanying children).",
+      "ne": "मनोवैज्ञानिक हस्तक्षेप प्रदान गर्न उपयुक्त स्थानमा पहुँच सहज बनाउनुहोस् (जस्तै: गोपनीयतालाई ध्यानमा राख्ने र साथमा आएका बालबालिकाका लागि सुरक्षित स्थानको व्यवस्था गर्ने)।",
+      "bt": "Facilitate access to suitable locations for providing psychological interventions (for example, taking privacy into account and arranging a safe space for accompanying children).",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T211"
+      ],
+      "flags": [],
+      "note": "General safety guidance, not a verbatim safeguarding declaration. Confidentiality and a safe space for accompanying children are both retained; safety review remains pending."
+    },
+    {
+      "id": "MAN-26-0013",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Develop/select, adapt and translate evidence-based psychological intervention manuals and materials, if needed.",
+      "ne": "आवश्यक भएमा, प्रमाणमा आधारित मनोवैज्ञानिक हस्तक्षेपका पुस्तिका तथा सामग्री विकास वा छनोट गर्नुहोस्, सन्दर्भअनुकूल बनाउनुहोस् र अनुवाद गर्नुहोस्।",
+      "bt": "If necessary, develop or select manuals and materials for evidence-based psychological interventions, adapt them to the context and translate them.",
+      "type": "check",
+      "terms": [
+        "T007",
+        "T228",
+        "T259"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains the if-needed condition and development/selection, adaptation and translation tasks. T007 supplies the unreviewed clinical phrase. Proposed technical addition: evidence-based = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-26-0014",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Assess training needs and capacities, including supportive attitudes and beliefs, of potential training participants.",
+      "ne": "तालिमका सम्भावित सहभागीहरूको सहयोगपूर्ण मनोवृत्ति र विश्वाससमेत समेटेर उनीहरूको तालिमसम्बन्धी आवश्यकता र क्षमताको लेखाजोखा गर्नुहोस्।",
+      "bt": "Assess the training needs and capacities of potential training participants, including their supportive attitudes and beliefs.",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-26-0015",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Provide competency-based training and supervision in psychological interventions.",
+      "ne": "मनोवैज्ञानिक हस्तक्षेपसम्बन्धी सक्षमतामा आधारित तालिम र सुपरिवेक्षण प्रदान गर्नुहोस्।",
+      "bt": "Provide competency-based training and supervision on psychological interventions.",
+      "type": "check",
+      "terms": [
+        "T007",
+        "T210",
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Training and supervision instruction uses the existing unreviewed T007 phrase, without adding a treatment protocol. Proposed technical addition: supervision = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-26-0016",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Provide psychological interventions in the selected setting.",
+      "ne": "छनोट गरिएको परिवेशमा मनोवैज्ञानिक हस्तक्षेप प्रदान गर्नुहोस्।",
+      "bt": "Provide psychological interventions in the selected setting.",
+      "type": "check",
+      "terms": [
+        "T007"
+      ],
+      "flags": [],
+      "note": "Human translation required. Preserve the exact clinical or consent meaning, including every condition, actor, qualification and number; do not adapt the guidance. Reclassified from protected: the instruction needs only ordinary setting language and the exact existing unreviewed T007 clinical phrase."
+    },
+    {
+      "id": "MAN-26-0017",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Facilitate referrals to other services as needed (e.g. specialized mental health care providers, general health care providers, protection and education actors, livelihoods and community-based support).",
+      "ne": "आवश्यकताअनुसार अन्य सेवामा पहुँचका लागि सम्बन्धित सेवामा पठाउने कार्यलाई सहज बनाउनुहोस् (जस्तै: विशेषीकृत मानसिक स्वास्थ्य सेवा प्रदायक, सामान्य स्वास्थ्य सेवा प्रदायक, संरक्षण क्षेत्रमा कार्यरत पक्षहरू तथा शिक्षा क्षेत्रमा कार्यरत पक्षहरू, जीविकोपार्जन र समुदायमा आधारित सहयोग)।",
+      "bt": "Facilitate referral to relevant services for access to other services as needed (for example, specialized mental health service providers, general health service providers, actors working in the protection sector and actors working in the education sector, livelihoods and community-based support).",
+      "type": "safety",
+      "terms": [
+        "T172",
+        "T157",
+        "T027",
+        "T029",
+        "T130",
+        "T155",
+        "T236",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Retains the as-needed condition and every listed service or actor. Care wording draws on the supplied unreviewed activity 3.10 candidate. This is general referral guidance, not a clinical referral protocol; safety review remains pending."
+    },
+    {
+      "id": "MAN-26-0018",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Engage qualified MHPSS staff to provide ongoing follow-up, supervision and support to trained workers.",
+      "ne": "तालिमप्राप्त कार्यकर्ताको निरन्तर अनुवर्ती कार्य गर्न र उनीहरूलाई निरन्तर सुपरिवेक्षण र सहयोग प्रदान गर्न योग्य MHPSS कर्मचारी संलग्न गराउनुहोस्।",
+      "bt": "Engage qualified MHPSS personnel to carry out ongoing follow-up of trained workers and provide them with ongoing supervision and support.",
+      "type": "general",
+      "terms": [
+        "T309"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains qualified MHPSS staff, trained workers, and ongoing follow-up, supervision and support as distinct elements. Proposed technical addition: supervision = [Nepali wording recorded in terminology evidence]. The Nepali and BT attach 'ongoing' only to follow-up, leaving supervision and support without that continuity. The revision explicitly retains ongoing provision across all three elements."
+    },
+    {
+      "id": "MAN-26-0019",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूमा निर्भर)",
+      "bt": "Additional actions given for consideration (depending on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-26-0020",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Expand the availability of competent, supervised staff who can provide psychological interventions in additional settings and geographical areas.",
+      "ne": "थप परिवेश र भौगोलिक क्षेत्रमा मनोवैज्ञानिक हस्तक्षेप प्रदान गर्न सक्ने सक्षम र सुपरिवेक्षणमा रहेका कर्मचारीको उपलब्धता विस्तार गर्नुहोस्।",
+      "bt": "Expand the availability of competent and supervised staff who can provide psychological interventions in additional settings and geographical areas.",
+      "type": "general",
+      "terms": [
+        "T007"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Human translation required. Preserve the exact clinical or consent meaning, including every condition, actor, qualification and number; do not adapt the guidance. Reclassified from protected as workforce-expansion guidance using unreviewed T007. Both competence and supervision remain requirements. Proposed technical addition: supervision = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-26-0021",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Build longer-term capacity in delivering psychological interventions through academic institutions (e.g. diploma and degree programmes, continued professional education). This includes mapping existing educational programmes and curricula on psychotherapy, including at academic and professional national associations and licensing bodies (e.g. national cognitive behavioural therapy societies).",
+      "ne": "शैक्षिक संस्थाहरूमार्फत मनोवैज्ञानिक हस्तक्षेप प्रदान गर्ने दीर्घकालीन क्षमता विकास गर्नुहोस् (जस्तै, डिप्लोमा र उपाधिका कार्यक्रमहरू, निरन्तर पेसागत शिक्षा)। यसमा शैक्षिक तथा पेसागत राष्ट्रिय संघहरू र इजाजतपत्र दिने निकायहरूमा रहेका समेत [psychotherapy] सम्बन्धी विद्यमान शैक्षिक कार्यक्रमहरू र पाठ्यक्रमहरूको नक्साङ्कन गर्नु समावेश छ (जस्तै, [cognitive behavioural therapy] सम्बन्धी राष्ट्रिय संघहरू)।",
+      "bt": "Develop long-term capacity to provide psychological interventions through educational institutions (for example, diploma and degree programmes, continuing professional education). This includes mapping existing educational programmes and curricula related to [psychotherapy], including those in national academic and professional associations and licensing bodies (for example, national associations related to [cognitive behavioural therapy]).",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T409",
+        "T028",
+        "T260"
+      ],
+      "flags": [],
+      "note": "The therapy terms remain in exact source English, with institutional capacity development and curriculum mapping both retained."
+    },
+    {
+      "id": "MAN-26-0022",
+      "page": "79",
+      "loc": "heading",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": "Ordinary resource heading; no clinical wording requires protection."
+    },
+    {
+      "id": "MAN-26-0023",
+      "page": "79",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरणमा पहुँच प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to access relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-26-0024",
+      "page": "80",
+      "loc": "heading",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Key consideration 31: Evidence-based psychological interventions and delivery methods to manage prolonged psychological distress and common mental health conditions",
+      "ne": "मुख्य विचारणीय पक्ष 31: लामो समयसम्म रहने मानसिक व्यथा र सामान्य रूपमा देखिने मानसिक स्वास्थ्यसम्बन्धी अवस्थाहरूको व्यवस्थापनका लागि प्रमाणमा आधारित मनोवैज्ञानिक हस्तक्षेप र तिनलाई प्रदान गर्ने विधिहरू",
+      "bt": "Key consideration 31: Evidence-based psychological interventions and methods of providing them for the management of long-lasting mental distress and commonly seen mental health-related conditions",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T490",
+        "T478",
+        "T228",
+        "T007",
+        "T218"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The heading retains 31 and the management purpose without turning the broad condition category into a specific diagnosis."
+    },
+    {
+      "id": "MAN-26-0025",
+      "page": "80",
+      "loc": "heading",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Evidence-based approaches:*",
+      "ne": "प्रमाणमा आधारित पद्धतिहरू:*",
+      "bt": "Evidence-based approaches:*",
+      "type": "general",
+      "terms": [
+        "T228"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Retains the colon and asterisk. Proposed technical addition: evidence-based = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-26-0026",
+      "page": "80",
+      "loc": "bullet",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "▶ Cognitive behavioural therapy (CBT) in various forms, such as behavioural activation, cognitive processing therapy, exposure-based approaches (e.g. narrative exposure therapy) and third-wave approaches (e.g. acceptance and commitment therapy; ACT);",
+      "ne": "▶ विभिन्न स्वरूपमा [Cognitive behavioural therapy] (CBT), जस्तै [behavioural activation], [cognitive processing therapy], एक्सपोजरमा आधारित पद्धतिहरू (जस्तै, [narrative exposure therapy]) र तेस्रो लहरका पद्धतिहरू (जस्तै, [acceptance and commitment therapy]; ACT);",
+      "bt": "▶ [Cognitive behavioural therapy] (CBT) in various forms, such as [behavioural activation], [cognitive processing therapy], exposure-based approaches (such as [narrative exposure therapy]) and third-wave approaches (such as [acceptance and commitment therapy]; ACT);",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "Named therapies remain in exact source English; the broader approach categories are drafted in Nepali, with CBT, ACT and the final semicolon retained."
+    },
+    {
+      "id": "MAN-26-0027",
+      "page": "80",
+      "loc": "bullet",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "▶ Stress management/relaxation training;",
+      "ne": "▶ तनाव व्यवस्थापन/विश्रान्तिको प्रशिक्षण;",
+      "bt": "▶ Training in stress management/relaxation;",
+      "type": "safety",
+      "terms": [
+        "T513"
+      ],
+      "flags": [],
+      "note": "The audit finding is not accepted: stress management and relaxation training are general intervention categories, not named therapies requiring English brackets; the candidate wording, slash and final semicolon are retained."
+    },
+    {
+      "id": "MAN-26-0028",
+      "page": "80",
+      "loc": "bullet",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "▶ Problem-solving counselling/problem-solving therapy;",
+      "ne": "▶ [Problem-solving counselling]/[problem-solving therapy];",
+      "bt": "▶ [Problem-solving counselling]/[problem-solving therapy];",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The draft is unchanged because the source supplies only two intervention names and no explanatory gloss; requiring Devanagari conflicts with exact English name retention and the prohibition on invented glosses."
+    },
+    {
+      "id": "MAN-26-0029",
+      "page": "80",
+      "loc": "bullet",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "▶ Interpersonal therapy/interpersonal psychotherapy;",
+      "ne": "▶ [Interpersonal therapy]/[interpersonal psychotherapy];",
+      "bt": "▶ [Interpersonal therapy]/[interpersonal psychotherapy];",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The draft is unchanged because the source supplies only two therapy names and no explanatory gloss; requiring Devanagari conflicts with exact English name retention and the prohibition on invented glosses."
+    },
+    {
+      "id": "MAN-26-0030",
+      "page": "80",
+      "loc": "bullet",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "▶ Eye movement desensitization and reprocessing (EMDR).",
+      "ne": "▶ [Eye movement desensitization and reprocessing] (EMDR).",
+      "bt": "▶ [Eye movement desensitization and reprocessing] (EMDR).",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "The draft is unchanged because the source supplies only a therapy name and its acronym, with no explanatory gloss; requiring Devanagari conflicts with exact English name retention and the prohibition on invented glosses."
+    },
+    {
+      "id": "MAN-26-0031",
+      "page": "80",
+      "loc": "heading",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Delivery methods:",
+      "ne": "प्रदान गर्ने विधिहरू:",
+      "bt": "Methods of delivery:",
+      "type": "general",
+      "terms": [
+        "T218"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed technical addition: delivery methods = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-26-0032",
+      "page": "80",
+      "loc": "bullet",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "▶ Individual and group interventions;",
+      "ne": "▶ व्यक्तिगत तथा सामूहिक हस्तक्षेप;",
+      "bt": "▶ Individual and group interventions;",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary delivery-format descriptors translated without introducing a named therapy. Bullet and final semicolon retained."
+    },
+    {
+      "id": "MAN-26-0033",
+      "page": "80",
+      "loc": "bullet",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "▶ Guided and unguided self-help approaches;",
+      "ne": "▶ मार्गदर्शनसहित र मार्गदर्शनविनाका स्व-सहायता पद्धतिहरू;",
+      "bt": "▶ Self-help approaches with and without guidance;",
+      "type": "safety",
+      "terms": [
+        "T470"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The exact frozen candidate preserves both guided and unguided forms without introducing a named therapy."
+    },
+    {
+      "id": "MAN-26-0034",
+      "page": "80",
+      "loc": "bullet",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "▶ Digital and face-to-face methods.",
+      "ne": "▶ डिजिटल तथा प्रत्यक्ष भेटघाटका विधिहरू।",
+      "bt": "▶ Digital and face-to-face meeting methods.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Translated as ordinary wording describing delivery methods, not as a clinical intervention name."
+    },
+    {
+      "id": "MAN-26-0035",
+      "page": "80",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Examples of evidence-based psychological intervention manuals developed for humanitarian settings are listed in the relevant guidelines, standards and tools section on the MHPSS MSP web platform.",
+      "ne": "मानवीय सहायताका परिवेशका लागि विकास गरिएका प्रमाणमा आधारित मनोवैज्ञानिक हस्तक्षेप सम्बन्धी पुस्तिकाका उदाहरणहरू MHPSS MSP वेब प्लेटफर्ममा रहेको सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण खण्डमा सूचीबद्ध छन्।",
+      "bt": "Examples of manuals on evidence-based psychological interventions developed for humanitarian assistance settings are listed in the relevant guidelines, standards and tools section on the MHPSS MSP web platform.",
+      "type": "general",
+      "terms": [
+        "T007",
+        "T019",
+        "T163",
+        "T189",
+        "T228",
+        "T259",
+        "T422"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "T007 is reused verbatim as an unreviewed candidate cited to PRIOR-SUM-29OCT2026 p.2 row 102. The surrounding text is ordinary information about manuals and their location. Proposed recurring document term: manual → [Nepali wording recorded in terminology evidence]; the glossary remains unchanged."
+    },
+    {
+      "id": "MAN-26-0036",
+      "page": "80",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "* Please note that this is not an exhaustive list of psychological interventions; it is based on those recommended in the mhGAP Intervention Guide and other WHO guidelines. Please refer to national guidelines for information on other psychological treatments. Note that there are relatively few publicly available evidence-based manuals on psychological interventions and other focused MHPSS interventions for children, including adolescents, in humanitarian settings.74",
+      "ne": "* कृपया ध्यान दिनुहोस्, यो मनोवैज्ञानिक हस्तक्षेपहरूको पूर्ण सूची होइन; यो [mhGAP Intervention Guide] र WHO का अन्य निर्देशिकाहरूमा सिफारिस गरिएका हस्तक्षेपहरूमा आधारित छ। अन्य मनोवैज्ञानिक उपचारहरूबारे जानकारीका लागि कृपया राष्ट्रिय निर्देशिकाहरू हेर्नुहोस्। मानवीय सहायताको सन्दर्भमा किशोरकिशोरीसहितका बालबालिकाका लागि मनोवैज्ञानिक हस्तक्षेप र अन्य केन्द्रित mhpss हस्तक्षेपहरूबारे प्रमाणमा आधारित पुस्तिकाहरू सार्वजनिक रूपमा तुलनात्मक रूपमा थोरै मात्र उपलब्ध छन् भन्ने कुरा ध्यानमा राख्नुहोस्।74",
+      "bt": "* Please note, this is not a complete list of psychological interventions; it is based on interventions recommended in the [mhGAP Intervention Guide] and other WHO guidelines. For information about other psychological treatments, please see national guidelines. Keep in mind that comparatively few evidence-based manuals on psychological interventions and other focused mhpss interventions for children, including adolescents, in humanitarian assistance contexts are publicly available.74",
+      "type": "safety",
+      "terms": [
+        "T007",
+        "T086",
+        "T228",
+        "T259",
+        "T464",
+        "T494"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen label केन्द्रित mhpss हस्तक्षेपहरू uses lowercase mhpss, whereas the source uses uppercase MHPSS; the frozen form is retained despite this exact acronym-case conflict. bt-divergence: Source MHPSS is rendered as lowercase mhpss in the frozen form केन्द्रित mhpss हस्तक्षेपहरू. The frozen form is retained; exact source acronym case therefore remains unmatched. No other substantive difference identified."
+    },
+    {
+      "id": "MAN-26-0037",
+      "page": "80",
+      "loc": "heading",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Key consideration 32: Do not offer psychological debriefing",
+      "ne": "मुख्य विचारणीय पक्ष 32: [psychological debriefing] को प्रस्ताव नगर्नुहोस्।",
+      "bt": "Key consideration 32: Do not offer [psychological debriefing].",
+      "type": "safety",
+      "terms": [
+        "T252"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The named intervention is retained in exact source English because no Nepali glossary candidate is supplied for it."
+    },
+    {
+      "id": "MAN-26-0038",
+      "page": "80",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "Do not provide one-off, single-session psychological debriefing75 as an early intervention after exposure to an adverse, terrifying, or life-threatening event, including conflict or natural disaster.76 Evidence shows no effectiveness of psychological debriefing and suggests that it may be harmful to some people.77,78 Basic psychosocial support (e.g. PFA, see MSP activity 3.2), rather than psychological debriefing, should be offered to people in severe distress who have recently been exposed to an adverse event.79",
+      "ne": "द्वन्द्व वा प्राकृतिक विपत्तिलगायत कुनै प्रतिकूल, भयावह वा जीवनलाई खतरा हुने घटनाको सामना गरेपछि प्रारम्भिक हस्तक्षेपका रूपमा एकपटक मात्र, एउटै सत्रमा गरिने [psychological debriefing]75 प्रदान नगर्नुहोस्।76 प्रमाणले [psychological debriefing] को कुनै प्रभावकारिता नभएको देखाउँछ र यो केही व्यक्तिहरूका लागि हानिकारक हुन सक्ने सङ्केत गर्छ।77,78 हालै कुनै प्रतिकूल घटनाको सामना गरेका र तीव्र व्यथा भएका व्यक्तिहरूलाई [psychological debriefing] को सट्टा आधारभूत मनोसामाजिक सहयोगको प्रस्ताव गर्नुपर्छ (उदाहरणका लागि [PFA]; MSP गतिविधि 3.2 हेर्नुहोस्)।79",
+      "bt": "Do not provide one-time, single-session [psychological debriefing]75 as an early intervention after facing an adverse, terrifying or life-threatening event, including conflict or a natural disaster.76 Evidence shows that [psychological debriefing] has no effectiveness and indicates that it may be harmful for some individuals.77,78 Individuals who have recently faced an adverse event and have acute distress should be offered basic psychosocial support instead of [psychological debriefing] (for example, [PFA]; see MSP activity 3.2).79",
+      "type": "safety",
+      "terms": [
+        "T091",
+        "T163",
+        "T410",
+        "T424",
+        "T454",
+        "T461",
+        "T507"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The named intervention and PFA are retained in exact source English; no Nepali glossary candidate is supplied for psychological debriefing."
+    },
+    {
+      "id": "MAN-26-0039",
+      "page": "80",
+      "loc": "footnote",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "74 Global Protection Cluster (2020). Guidance for MHPSS Aspects of Child Protection in the HNO/NRP 2021.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Citation only. Retain the supplied English reference unchanged, including 74, Global Protection Cluster, 2020, MHPSS, Child Protection, HNO/NRP and 2021."
+    },
+    {
+      "id": "MAN-26-0040",
+      "page": "80",
+      "loc": "footnote",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "75 Psychological debriefing as an intervention typically consists of a single session only, and involves some form of emotional processing/ventilation, by encouraging recollection/reworking of the traumatic event, accompanied by normalisation of emotional reaction to the event.",
+      "ne": "75 हस्तक्षेपका रूपमा [Psychological debriefing] मा सामान्यतया एउटै सत्र मात्र हुन्छ र यसमा आघातपूर्ण घटनालाई पुनः सम्झन/पुनः केलाउन प्रोत्साहित गरेर कुनै न कुनै रूपमा भावनालाई प्रशोधन गर्ने/पोख्ने प्रक्रिया समावेश हुन्छ; यससँगै उक्त घटनाप्रतिको भावनात्मक प्रतिक्रियालाई सामान्य प्रतिक्रियाका रूपमा बुझाइन्छ।",
+      "bt": "75 As an intervention, [Psychological debriefing] generally consists of only a single session and includes a process of processing/venting emotions in some form by encouraging the recalling/re-examination of the traumatic event; alongside this, the emotional response to that event is explained as a normal response.",
+      "type": "safety",
+      "terms": [
+        "T424"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The named intervention is retained with its source capitalization; emotional processing/ventilation and recollection/reworking remain paired concepts in the draft."
+    },
+    {
+      "id": "MAN-26-0041",
+      "page": "80",
+      "loc": "footnote",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "76 Inter-Agency Standing Committee (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Citation only. Retain the supplied English reference unchanged, including 76, Inter-Agency Standing Committee, 2007 and the complete IASC publication title."
+    },
+    {
+      "id": "MAN-26-0042",
+      "page": "80",
+      "loc": "footnote",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "77 Rose SC, Bisson J, Churchill R, Wessely S. Psychological debriefing for preventing post traumatic stress disorder (PTSD). Cochrane Database Syst Rev.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Reclassified as a citation-only row. Retain the supplied English reference unchanged, including 77, Rose SC, Bisson J, Churchill R, Wessely S, the complete article title, PTSD and Cochrane Database Syst Rev. No clinical title translation is drafted."
+    },
+    {
+      "id": "MAN-26-0043",
+      "page": "80",
+      "loc": "footnote",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "78 World Health Organization (2011). Single-Session Psychological Debriefing: Not Recommended.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Citation only. Retain the supplied English reference unchanged, including 78, World Health Organization, 2011 and Single-Session Psychological Debriefing: Not Recommended."
+    },
+    {
+      "id": "MAN-26-0044",
+      "page": "80",
+      "loc": "footnote",
+      "section": "Section 3 > 3.12 Initiate or strengthen the provision of psychological interventions",
+      "en": "79 Inter-Agency Standing Committee (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Citation only. Retain the supplied English reference unchanged, including 79, Inter-Agency Standing Committee, 2007 and the complete IASC publication title."
+    }
+  ]
+}

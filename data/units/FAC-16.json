@@ -1,0 +1,233 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-16",
+  "unit_title": "Next Steps for Participants",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "66-66",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:03:09+05:45",
+  "coverage": {
+    "source_words": 183,
+    "row_words": 181,
+    "skipped": [
+      "Page 66: running-footer: 62 · MSP Workshop Facilitator Manual · Module 8"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-16-0001",
+      "page": "66",
+      "loc": "heading",
+      "section": "Next Steps for Participants",
+      "en": "8.3 Next Steps for Participants",
+      "ne": "8.3 सहभागीहरूका लागि आगामी कदमहरू",
+      "bt": "8.3 Next steps for participants",
+      "type": "general",
+      "terms": [
+        "T402",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring phrase 'next steps' is absent from G-0.3; a candidate is proposed."
+    },
+    {
+      "id": "FAC-16-0002",
+      "page": "66",
+      "loc": "heading",
+      "section": "Next Steps for Participants",
+      "en": "Next steps with the MSP",
+      "ne": "MSP सँगका आगामी कदमहरू",
+      "bt": "Next steps with MSP",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T402"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed candidate for the recurring phrase 'next steps'."
+    },
+    {
+      "id": "FAC-16-0003",
+      "page": "66",
+      "loc": "heading",
+      "section": "Next Steps for Participants",
+      "en": "Prepare",
+      "ne": "तयारी गर्नुहोस्।",
+      "bt": "Prepare.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-16-0004",
+      "page": "66",
+      "loc": "heading",
+      "section": "Next Steps for Participants",
+      "en": "30 min",
+      "ne": "30 मिनेट",
+      "bt": "30 minutes",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-16-0005",
+      "page": "66",
+      "loc": "bullet",
+      "section": "Next Steps for Participants",
+      "en": "• Next Steps with the MSP",
+      "ne": "• MSP सँगका आगामी कदमहरू",
+      "bt": "• Next steps with MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T402"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed candidate for the recurring phrase 'next steps'."
+    },
+    {
+      "id": "FAC-16-0006",
+      "page": "66",
+      "loc": "bullet",
+      "section": "Next Steps for Participants",
+      "en": "• Using the MSP: A step-by-step guide for different users of the MSP",
+      "ne": "• MSP को प्रयोग: MSP का विभिन्न प्रयोगकर्ताका लागि चरणबद्ध मार्गदर्शिका",
+      "bt": "• Use of MSP: A step-by-step guide for different users of MSP",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T183"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-16-0007",
+      "page": "66",
+      "loc": "heading",
+      "section": "Next Steps for Participants",
+      "en": "Guide",
+      "ne": "मार्गदर्शिका",
+      "bt": "Guide",
+      "type": "general",
+      "terms": [
+        "T144"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-16-0008",
+      "page": "66",
+      "loc": "para",
+      "section": "Next Steps for Participants",
+      "en": "This activity serves as a summary for the workshop and an opportunity for participants to set clear action points for how they will use the MSP to strengthen MHPSS going forward.",
+      "ne": "यस गतिविधिले कार्यशालाको सारांश प्रस्तुत गर्नुका साथै सहभागीहरूलाई आगामी दिनमा MHPSS सुदृढ बनाउन MSP कसरी प्रयोग गर्ने भन्नेबारे स्पष्ट कार्यबुँदाहरू तय गर्ने अवसर दिन्छ।",
+      "bt": "This activity summarizes the workshop and also gives participants an opportunity to decide on clear action points about how to use MSP to strengthen MHPSS in the coming days.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T406",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-16-0009",
+      "page": "66",
+      "loc": "para",
+      "section": "Next Steps for Participants",
+      "en": "Inform participants that they will be given some time to reflect on their learning and describe how they will use the MSP going forward.",
+      "ne": "सहभागीहरूलाई आफूले सिकेका कुराबारे मनन गर्न र आगामी दिनमा MSP कसरी प्रयोग गर्ने भन्ने वर्णन गर्न केही समय दिइनेछ भनी जानकारी दिनुहोस्।",
+      "bt": "Inform participants that they will be given some time to reflect on what they have learned and to describe how they will use MSP in the coming days.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-16-0010",
+      "page": "66",
+      "loc": "para",
+      "section": "Next Steps for Participants",
+      "en": "Distribute the two handouts on using the MSP to each participant (Using the MSP: A Stepby-step guide for different users of the MSP and Next Steps with the MSP).",
+      "ne": "प्रत्येक सहभागीलाई MSP को प्रयोगसम्बन्धी दुईवटा वितरण सामग्री दिनुहोस् (MSP को प्रयोग: MSP का विभिन्न प्रयोगकर्ताका लागि चरणबद्ध मार्गदर्शिका र MSP सँगका आगामी कदमहरू)।",
+      "bt": "Give each participant two handouts on the use of MSP (Use of MSP: A step-by-step guide for different users of MSP and Next steps with MSP).",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T183",
+        "T373",
+        "T402"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed candidate for the recurring phrase 'next steps'. The source's 'Stepby-step' is understood as 'step-by-step'."
+    },
+    {
+      "id": "FAC-16-0011",
+      "page": "66",
+      "loc": "para",
+      "section": "Next Steps for Participants",
+      "en": "Rather than dividing participants into groups, inform participants that this exercise is a realworld exercise.",
+      "ne": "सहभागीहरूलाई समूहमा विभाजन गर्नुको सट्टा, यो वास्तविक परिस्थितिमा गरिने अभ्यास हो भनी उनीहरूलाई जानकारी दिनुहोस्।",
+      "bt": "Instead of dividing participants into groups, inform them that this is an exercise done in a real situation.",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-16-0012",
+      "page": "66",
+      "loc": "para",
+      "section": "Next Steps for Participants",
+      "en": "There are many actors and sectors in the room and they should coordinate, collaborate, and make use of the knowledge and expertise in the room, including the facilitator’s knowledge and expertise.",
+      "ne": "कक्षमा धेरै सम्बद्ध पक्षहरू छन् र धेरै क्षेत्रको प्रतिनिधित्व छ; उनीहरूले समन्वय र सहकार्य गर्नु तथा सहजकर्ताको ज्ञान र विशेषज्ञतासहित कक्षमा उपलब्ध ज्ञान र विशेषज्ञताको उपयोग गर्नु उचित हुन्छ।",
+      "bt": "There are many stakeholders in the room, and many sectors are represented; it is appropriate for them to coordinate and collaborate and to use the knowledge and expertise available in the room, including the facilitator's knowledge and expertise.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T296",
+        "T229"
+      ],
+      "flags": [],
+      "note": "The source recommends coordination, collaboration and use of available expertise with 'should'; the back-translation renders these as 'must'. Revised the obligation wording to preserve recommendation rather than requirement."
+    },
+    {
+      "id": "FAC-16-0013",
+      "page": "66",
+      "loc": "para",
+      "section": "Next Steps for Participants",
+      "en": "Give participants 30 minutes to work on their plans and come back to the plenary to answer questions.",
+      "ne": "सहभागीहरूलाई आफ्ना योजनामा काम गर्न 30 मिनेट दिनुहोस् र प्रश्नहरूको उत्तर दिन पूर्ण सत्रमा फर्कन लगाउनुहोस्।",
+      "bt": "Give participants 30 minutes to work on their plans and have them return to the plenary session to answer questions.",
+      "type": "check",
+      "terms": [
+        "T406",
+        "T407"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

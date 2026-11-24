@@ -1,0 +1,822 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-14",
+  "unit_title": "Uses of the MSP",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "117-120",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:09:55+05:45",
+  "coverage": {
+    "source_words": 507,
+    "row_words": 507,
+    "skipped": [
+      "Slide 119: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 119: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 119: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 119: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 119: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 119: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 119: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 120: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 120: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 120: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-14-0001",
+      "page": "117",
+      "loc": "slide-title",
+      "section": "Uses of the MSP",
+      "en": "Module 8:",
+      "ne": "मोड्युल 8:",
+      "bt": "Module 8:",
+      "type": "general",
+      "terms": [
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0002",
+      "page": "117",
+      "loc": "slide-title",
+      "section": "Uses of the MSP",
+      "en": "Using the MSP",
+      "ne": "MSP को प्रयोग",
+      "bt": "Use of MSP",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0003",
+      "page": "118",
+      "loc": "slide-title",
+      "section": "Uses of the MSP",
+      "en": "Module Learning Objectives",
+      "ne": "मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Module learning objectives",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0004",
+      "page": "118",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Advocate for MHPSS in a variety of contexts",
+      "ne": "विभिन्न सन्दर्भमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) का लागि पैरवी गर्ने।",
+      "bt": "Advocate for mental health and psychosocial support (MHPSS) in various contexts.",
+      "type": "general",
+      "terms": [
+        "T001"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The clinical phrase is reused exactly from the cited unreviewed T001 candidate. Proposed terminology for recurring advocacy wording is listed separately; the glossary remains unchanged."
+    },
+    {
+      "id": "SLD-14-0005",
+      "page": "118",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Understand the different uses of the MSP",
+      "ne": "MSP का विभिन्न प्रयोगहरू बुझ्ने।",
+      "bt": "Understand the various uses of MSP.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0006",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "How will I use the MHPSS MSP?",
+      "ne": "मैले MHPSS MSP कसरी प्रयोग गर्नेछु?",
+      "bt": "How will I use the MHPSS MSP?",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0007",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Coordinate & collaborate",
+      "ne": "समन्वय र सहकार्य गर्ने।",
+      "bt": "Coordinate and collaborate.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0008",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Common language & approach",
+      "ne": "साझा भाषा र दृष्टिकोण",
+      "bt": "Shared language and approach",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "A proposal for the recurring term approach is listed separately; the glossary remains unchanged."
+    },
+    {
+      "id": "SLD-14-0009",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Who does what?",
+      "ne": "कसले के गर्छ?",
+      "bt": "Who does what?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0010",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Addressing gaps",
+      "ne": "कमीहरू सम्बोधन गर्ने।",
+      "bt": "Address gaps.",
+      "type": "general",
+      "terms": [
+        "T232"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0011",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Assessment",
+      "ne": "लेखाजोखा",
+      "bt": "Assessment",
+      "type": "general",
+      "terms": [
+        "T004"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0012",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Identify new activities",
+      "ne": "नयाँ गतिविधिहरू पहिचान गर्ने।",
+      "bt": "Identify new activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0013",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Strengthen existing activities",
+      "ne": "विद्यमान गतिविधिहरू सुदृढ गर्ने।",
+      "bt": "Strengthen existing activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0014",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Set priorities",
+      "ne": "प्राथमिकताहरू निर्धारण गर्ने।",
+      "bt": "Set priorities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0015",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Response Plans",
+      "ne": "प्रतिकार्य योजनाहरू",
+      "bt": "Response plans",
+      "type": "general",
+      "terms": [
+        "T174"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0016",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Funding proposals",
+      "ne": "वित्तपोषणका लागि प्रस्तावहरू",
+      "bt": "Proposals for funding",
+      "type": "general",
+      "terms": [
+        "T231"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0017",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Plan a response",
+      "ne": "प्रतिकार्यको योजना बनाउने।",
+      "bt": "Plan the response.",
+      "type": "general",
+      "terms": [
+        "T174"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0018",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Find guidance & materials",
+      "ne": "मार्गदर्शन र सामग्रीहरू खोज्ने।",
+      "bt": "Find guidance and materials.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0019",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Key messages",
+      "ne": "मुख्य सन्देशहरू",
+      "bt": "Key messages",
+      "type": "general",
+      "terms": [
+        "T253"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0020",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Training curricula",
+      "ne": "तालिमका पाठ्यक्रमहरू",
+      "bt": "Training curricula",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0021",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Best practices",
+      "ne": "उत्तम अभ्यासहरू",
+      "bt": "Best practices",
+      "type": "general",
+      "terms": [
+        "T335"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0022",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Specific groups",
+      "ne": "विशिष्ट समूहहरू",
+      "bt": "Specific groups",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0023",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Advocate for MHPSS",
+      "ne": "MHPSS का लागि पैरवी गर्ने।",
+      "bt": "Advocate for MHPSS.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "A proposal for the recurring advocacy wording is listed separately; the glossary remains unchanged."
+    },
+    {
+      "id": "SLD-14-0024",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Communicate needs and gaps to donors & decision-makers",
+      "ne": "दातृ निकाय र निर्णयकर्तालाई आवश्यकताहरू तथा कमीहरूबारे जानकारी दिने।",
+      "bt": "Inform donor agencies and decision-makers about needs and gaps.",
+      "type": "general",
+      "terms": [
+        "T023",
+        "T217",
+        "T232"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0025",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Promote MHPSS in different areas of work",
+      "ne": "कामका विभिन्न क्षेत्रमा MHPSS प्रवर्द्धन गर्ने।",
+      "bt": "Promote MHPSS in various areas of work.",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0026",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Design MHPSS programmes",
+      "ne": "MHPSS कार्यक्रमहरू डिजाइन गर्ने।",
+      "bt": "Design MHPSS programs.",
+      "type": "general",
+      "terms": [
+        "T160",
+        "T409"
+      ],
+      "flags": [],
+      "note": "The source refers to programmes in the plural; the back-translation specifies a single programme. The revision makes the source plurality explicit."
+    },
+    {
+      "id": "SLD-14-0027",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Set-up and management",
+      "ne": "स्थापना र व्यवस्थापन",
+      "bt": "Establishment and management",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0028",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Budget",
+      "ne": "बजेट",
+      "bt": "Budget",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0029",
+      "page": "119",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Main tasks",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0030",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "This is not exclusive, but some of the headline ways in which people find the MSP useful​​",
+      "ne": "मानिसहरूले MSP लाई उपयोगी ठान्ने केही प्रमुख तरिकाहरू यी हुन्, तर यो यिनमा मात्र सीमित छैन।",
+      "bt": "These are some of the main ways in which people consider MSP useful, but this is not limited to these.",
+      "type": "safety",
+      "terms": [
+        "T163"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source says 'not exclusive'; the draft provisionally interprets this as non-exhaustive, but whether the source means exclusivity or completeness requires clarification."
+    },
+    {
+      "id": "SLD-14-0031",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "To start with One of the main purposes of the MSP is to help harmonise approaches and provide a common language for MHPSS activities – a unifying framework to provide clarity around what counts as MHPSS and what it typically looks like in different sectors. ​This can help us in conversations between different sectors​.",
+      "ne": "सुरुमा, MSP को एउटा मुख्य उद्देश्य दृष्टिकोणहरूमा एकरूपता ल्याउन मद्दत गर्नु र MHPSS गतिविधिहरूका लागि साझा भाषा उपलब्ध गराउनु हो। यो MHPSS अन्तर्गत के पर्छ र विभिन्न क्षेत्रमा यो सामान्यतया कस्तो हुन्छ भन्ने स्पष्ट पार्ने एकीकृत ढाँचा हो। यसले विभिन्न क्षेत्रबीच हुने छलफलमा हामीलाई मद्दत गर्न सक्छ।",
+      "bt": "To begin with, one main purpose of MSP is to help bring consistency to approaches and provide a shared language for MHPSS activities. It is a unified framework that clarifies what falls under MHPSS and what it generally looks like in different sectors. It can help us in discussions between different sectors.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T158",
+        "T296"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "A proposal for the recurring term approach is listed separately; the glossary remains unchanged."
+    },
+    {
+      "id": "SLD-14-0032",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "It can be useful in understanding and communicating about who typically does what, while also outlining that many activities are actually delivered by multiple sectors – e.g. disseminating key messages on MHPSS can be done by many sectors, group activities for child wellbeing are often delivered within child protection or education, whereas Safe Spaces for Women and Girls are typically run by GBV actors specifically​​",
+      "ne": "सामान्यतया कसले के गर्छ भन्ने बुझ्न र त्यसबारे जानकारी आदानप्रदान गर्न यो उपयोगी हुन सक्छ। साथै, यसले धेरै गतिविधिहरू वास्तवमा एकभन्दा बढी क्षेत्रबाट सञ्चालन गरिन्छन् भन्ने पनि स्पष्ट पार्छ। उदाहरणका लागि, MHPSS सम्बन्धी मुख्य सन्देशहरू धेरै क्षेत्रबाट प्रसार गर्न सकिन्छ; बालबालिकाको कल्याणका लागि सामूहिक गतिविधिहरू प्रायः बाल संरक्षण वा शिक्षाअन्तर्गत सञ्चालन गरिन्छन्, जबकि महिला तथा बालिकाका लागि सुरक्षित स्थलहरू सामान्यतया विशेष रूपमा GBV क्षेत्रमा कार्यरत पक्षहरूबाट सञ्चालन गरिन्छन्।",
+      "bt": "It can be useful for understanding who generally does what and exchanging information about it. It also makes clear that many activities are actually carried out by more than one sector. For example, key messages related to MHPSS can be disseminated by many sectors; group activities for children's well-being are often carried out under child protection or education, while safe spaces for women and girls are generally run by actors working specifically in the GBV sector.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T253",
+        "T036",
+        "T028",
+        "T293",
+        "T138"
+      ],
+      "flags": [],
+      "note": "Child well-being is treated as ordinary nonclinical wording. Girls is rendered without restricting the source to adolescent girls."
+    },
+    {
+      "id": "SLD-14-0033",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "the msp can also be helpful for setting priorities.",
+      "ne": "प्राथमिकता निर्धारण गर्न पनि msp उपयोगी हुन सक्छ।",
+      "bt": "msp can also be useful for determining priorities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Source acronym casing retained."
+    },
+    {
+      "id": "SLD-14-0034",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "It provides a list of the high priority mhpss activities for emergencie.",
+      "ne": "यसले emergencie का लागि उच्च प्राथमिकतामा रहेका mhpss गतिविधिहरूको सूची उपलब्ध गराउँछ।",
+      "bt": "This provides a list of mhpss activities that are of high priority for emergencie.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "unclear-english"
+      ],
+      "note": "The incomplete source word 'emergencie' is interpreted as emergencies. Source acronym casing retained. The translation silently completes the source token 'emergencie' as emergencies. Retained the incomplete token literally rather than validating that interpretation; source clarification remains pending."
+    },
+    {
+      "id": "SLD-14-0035",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "So it allows orgs to identify activities that are not being implemented and should be initiated and to strengthen ongoing activities through the checklists of core actions ​",
+      "ne": "त्यसैले यसले संस्थाहरूलाई कार्यान्वयन नभइरहेका र सुरु गर्नुपर्ने गतिविधिहरू पहिचान गर्न तथा मुख्य कार्यहरू समेटिएका जाँचसूचीहरूका माध्यमबाट सञ्चालनमा रहेका गतिविधिहरू सुदृढ गर्न सक्षम बनाउँछ।",
+      "bt": "Therefore, it enables organizations to identify activities that are not being implemented and need to be started, and to strengthen ongoing activities through checklists that include key actions.",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T121",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0036",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "3. When planning an interagency response – when writing Hum Response Plans, Refugee Response Plans, often these have to be done very quickly, and most of the time the person tasked with drafting these are not MHPSS specialists but are expected to include MPHSS – The msp can be very helpful in quickly identifying which activities are typically included by different sectors and providing language that can be quickly taken from the MSP and included in the first draft (before specialist review & tailoring as needed)​​",
+      "ne": "3. अन्तरनिकाय प्रतिकार्यको योजना बनाउँदा—Hum Response Plans र शरणार्थी प्रतिकार्य योजना (Refugee Response Plans) लेख्दा, प्रायः यी योजना निकै छिटो तयार गर्नुपर्छ। अधिकांश अवस्थामा यी योजनाको मस्यौदा तयार गर्ने जिम्मेवारी पाएका व्यक्ति MHPSS विशेषज्ञ हुँदैनन्, तर उनीहरूले MPHSS समावेश गर्ने अपेक्षा गरिन्छ। विभिन्न क्षेत्रले सामान्यतया कुन गतिविधिहरू समावेश गर्छन् भन्ने छिटो पहिचान गर्न र MSP बाट छिटो लिएर पहिलो मस्यौदामा समावेश गर्न सकिने भाषा उपलब्ध गराउन msp निकै उपयोगी हुन सक्छ (विशेषज्ञबाट समीक्षा र आवश्यकताअनुसार परिमार्जन गर्नुअघि)।",
+      "bt": "3. When planning an inter-agency response—when writing Hum Response Plans and refugee response plans (Refugee Response Plans), these plans often have to be prepared very quickly. In most cases, the people given responsibility for drafting these plans are not MHPSS specialists, but they are expected to include MPHSS. msp can be very useful for quickly identifying which activities different sectors generally include and for providing language that can be quickly taken from MSP and included in the first draft (before review by a specialist and revision as needed).",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T296",
+        "T163",
+        "T386"
+      ],
+      "flags": [
+        "unclear-english"
+      ],
+      "note": "Reclassified as ordinary planning guidance, not a validated check item. MHPSS, MPHSS, msp and MSP are retained as supplied; MPHSS appears inconsistent with MHPSS. 'Hum Response Plans' is interpreted as Humanitarian Response Plans and retained alongside the Nepali wording. The translation expands 'Hum' without confirmation and turns the source's parenthetical timing into an affirmative statement that expert review and revision occur afterward. Removed the unconfirmed expansion and restored the parenthetical timing. 'Hum Response Plans' and 'MPHSS' remain exactly as supplied; their interpretation requires source review."
+    },
+    {
+      "id": "SLD-14-0037",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "​when actually designing programmes – the MSP maps out concrete actions and steps for strengthening existing activities and initiating activities that are missing.",
+      "ne": "वास्तवमै कार्यक्रमको डिजाइन गर्दा—विद्यमान गतिविधिहरू सुदृढ गर्न र नभएका गतिविधिहरू सुरु गर्नका लागि ठोस कार्य तथा चरणहरूको खाका MSP ले प्रस्तुत गर्छ।",
+      "bt": "When actually designing a programme—MSP presents an outline of concrete actions and steps for strengthening existing activities and starting activities that are absent.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T409"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "'[Nepali wording recorded in terminology evidence]' suggests activities that were left out; the source only says they are missing. Revised to express absence without implying prior omission. The back-translation changes the plural 'programmes' to the singular 'a programme'."
+    },
+    {
+      "id": "SLD-14-0038",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "Not just programmatic activities but also things like developing systems for Monitoring and evaluation and staff wellbeing – things that we know are critical, but are rarely mapped out concretely in proposals and therefore not always well resourced.​",
+      "ne": "कार्यक्रमगत गतिविधि मात्र नभई अनुगमन तथा मूल्याङ्कन (Monitoring and evaluation) र कर्मचारीको हितकल्याणका लागि प्रणाली विकास गर्ने जस्ता काम पनि यसमा समेटिन्छन्। यी काम अत्यन्त महत्त्वपूर्ण छन् भन्ने हामीलाई थाहा छ, तर प्रस्तावहरूमा यिनको ठोस खाका विरलै प्रस्तुत गरिन्छ र त्यसैले यिनका लागि सधैँ पर्याप्त स्रोत जुटाइएको हुँदैन।",
+      "bt": "This includes not only programmatic activities but also work such as developing systems for monitoring and evaluation (Monitoring and evaluation) and staff well-being. We know that this work is extremely important, but a concrete outline of it is rarely presented in proposals, and therefore sufficient resources are not always secured for it.",
+      "type": "general",
+      "terms": [
+        "T166",
+        "T046"
+      ],
+      "flags": [],
+      "note": "Staff well-being is rendered as ordinary workplace welfare, without introducing clinical terminology."
+    },
+    {
+      "id": "SLD-14-0039",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "In terms of advocacy, the MSP can help you communicate needs and gaps to donors & decisions makers as well as promote MHPSS in different areas of work.​",
+      "ne": "पैरवीका सन्दर्भमा, MSP ले तपाईंलाई आवश्यकता र कमीहरूबारे दातृ निकाय तथा निर्णयकर्तालाई जानकारी दिनका साथै कामका विभिन्न क्षेत्रमा MHPSS प्रवर्द्धन गर्न मद्दत गर्न सक्छ।",
+      "bt": "In the context of advocacy, the MSP can help you inform donor agencies and decision-makers about needs and gaps, as well as promote MHPSS in different areas of work.",
+      "type": "general",
+      "terms": [
+        "T191",
+        "T163",
+        "T232",
+        "T023",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0040",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "5. Finally, the MSP can help you to find resources and curricula on different MHPSS topics.",
+      "ne": "5. अन्तमा, MSP ले तपाईंलाई MHPSS का विभिन्न विषयमा स्रोतसामग्री र पाठ्यक्रमहरू खोज्न मद्दत गर्न सक्छ।",
+      "bt": "5. Finally, the MSP can help you find resource materials and curricula on various MHPSS topics.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Reclassified as ordinary explanatory text, not a validated check item. Proposed missing recurring term: resources, meaning reference and learning materials = [Nepali wording recorded in terminology evidence]. This is a drafting proposal, not a glossary amendment."
+    },
+    {
+      "id": "SLD-14-0041",
+      "page": "119",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "Resources for each activity, as well as resources on MHPSS for particular at-risk groups",
+      "ne": "प्रत्येक गतिविधिका लागि स्रोतसामग्रीका साथै जोखिममा रहेका विशिष्ट समूहहरूका लागि MHPSS सम्बन्धी स्रोतसामग्री",
+      "bt": "Resource materials for each activity, as well as resource materials on MHPSS for specific groups at risk",
+      "type": "general",
+      "terms": [
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed missing recurring term: resources, meaning reference and learning materials = [Nepali wording recorded in terminology evidence]. The source fragment is retained as a fragment; no specific risk or clinical condition is added."
+    },
+    {
+      "id": "SLD-14-0042",
+      "page": "120",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "MSP Helpdesk",
+      "ne": "MSP सहायता कक्ष",
+      "bt": "MSP help desk",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T146"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0043",
+      "page": "120",
+      "loc": "slide-body",
+      "section": "Uses of the MSP",
+      "en": "mhpssmsp@gmail.com",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the email address exactly as supplied."
+    },
+    {
+      "id": "SLD-14-0044",
+      "page": "120",
+      "loc": "slide-title",
+      "section": "Uses of the MSP",
+      "en": "Thank you!",
+      "ne": "धन्यवाद!",
+      "bt": "Thank you!",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0045",
+      "page": "120",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "Contact details:",
+      "ne": "सम्पर्क विवरण:",
+      "bt": "Contact details:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0046",
+      "page": "120",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "Caoimhe Nic a Bhaird",
+      "ne": "Caoimhe Nic a Bhaird",
+      "bt": "Caoimhe Nic a Bhaird",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Personal name retained exactly in Latin script."
+    },
+    {
+      "id": "SLD-14-0047",
+      "page": "120",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "cnic@unicef.org",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the email address exactly as supplied."
+    },
+    {
+      "id": "SLD-14-0048",
+      "page": "120",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "Inka Weissbecker",
+      "ne": "Inka Weissbecker",
+      "bt": "Inka Weissbecker",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Personal name retained exactly in Latin script."
+    },
+    {
+      "id": "SLD-14-0049",
+      "page": "120",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "weissbeckeri@who.int",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the email address exactly as supplied."
+    },
+    {
+      "id": "SLD-14-0050",
+      "page": "120",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "Vania Alves",
+      "ne": "Vania Alves",
+      "bt": "Vania Alves",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Personal name retained exactly in Latin script."
+    },
+    {
+      "id": "SLD-14-0051",
+      "page": "120",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "valves@unicef.org",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the email address exactly as supplied."
+    },
+    {
+      "id": "SLD-14-0052",
+      "page": "120",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "Helpdesk",
+      "ne": "सहायता कक्ष",
+      "bt": "Help desk",
+      "type": "general",
+      "terms": [
+        "T146"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-14-0053",
+      "page": "120",
+      "loc": "slide-notes",
+      "section": "Uses of the MSP",
+      "en": "mhpssmsp@gmail.com",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the email address exactly as supplied."
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-20",
+  "unit_title": "Delivery Modalities of the Workshop",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "72-72",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:04:04+05:45",
+  "coverage": {
+    "source_words": 289,
+    "row_words": 289,
+    "skipped": [
+      "Page 72: running-footer: 68 · MSP Workshop Facilitator Manual · Annexes"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-20-0001",
+      "page": "72",
+      "loc": "heading",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Annex 1",
+      "ne": "अनुसूची 1",
+      "bt": "Annex 1",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0002",
+      "page": "72",
+      "loc": "heading",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Delivery Modalities of the Workshop",
+      "ne": "कार्यशाला सञ्चालनका विधिहरू",
+      "bt": "Methods for conducting the workshop",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: delivery modalities, meaning the modes of conducting a workshop."
+    },
+    {
+      "id": "FAC-20-0003",
+      "page": "72",
+      "loc": "para",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "The MSP Workshop is designed to be adapted based on the following needs:",
+      "ne": "MSP कार्यशाला निम्न आवश्यकताहरूका आधारमा अनुकूलन गर्न सकिने गरी तयार गरिएको छ।",
+      "bt": "The MSP workshop has been prepared so that it can be adapted based on the following needs.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0004",
+      "page": "72",
+      "loc": "bullet",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "• MSP dissemination on a particular context",
+      "ne": "• कुनै निश्चित सन्दर्भमा MSP को प्रसार",
+      "bt": "• Dissemination of the MSP in a particular context",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: dissemination, meaning planned sharing and distribution of the MSP."
+    },
+    {
+      "id": "FAC-20-0005",
+      "page": "72",
+      "loc": "bullet",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "• Building capacity to use the MHPSS Minimum Service Package for MHPSS strengthening for different sectors and stakeholders depending on their role and capacities.",
+      "ne": "• विभिन्न क्षेत्र र सरोकारवालाहरूको भूमिका तथा क्षमताअनुसार MHPSS सुदृढ बनाउन MHPSS न्यूनतम सेवा प्याकेज प्रयोग गर्ने क्षमता विकास गर्ने।",
+      "bt": "• Develop the capacity to use the MHPSS Minimum Service Package to strengthen MHPSS according to the roles and capacities of different sectors and stakeholders.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T182",
+        "T002"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0006",
+      "page": "72",
+      "loc": "para",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Based on the audience, objectives and available time you can opt to facilitate all core modules in this manual or a selection of modules.",
+      "ne": "सहभागीहरू, उद्देश्यहरू र उपलब्ध समयका आधारमा तपाईंले यस पुस्तिकाका सबै मुख्य मोड्युलहरू वा छानिएका मोड्युलहरूको सहजीकरण गर्ने विकल्प रोज्न सक्नुहुन्छ।",
+      "bt": "Based on the participants, objectives and available time, you can choose the option of facilitating all the main modules or selected modules in this booklet.",
+      "type": "general",
+      "terms": [
+        "T259",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: module, meaning a distinct instructional unit within the workshop; core module denotes a principal unit. The Nepali adds 'a few', restricting the selected modules to a small number; the source allows a selection without that restriction."
+    },
+    {
+      "id": "FAC-20-0007",
+      "page": "72",
+      "loc": "para",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "The following table provides guidance on selecting the best modality for your audience.",
+      "ne": "तलको तालिकाले तपाईंका सहभागीहरूका लागि सबैभन्दा उपयुक्त सञ्चालन विधि छनोट गर्न मार्गदर्शन प्रदान गर्छ।",
+      "bt": "The table below provides guidance for selecting the most appropriate method of conducting the workshop for your participants.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed workshop delivery modality terminology introduced above."
+    },
+    {
+      "id": "FAC-20-0008",
+      "page": "72",
+      "loc": "table-head",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Aim of the Workshop",
+      "ne": "कार्यशालाको उद्देश्य",
+      "bt": "Objective of the workshop",
+      "type": "general",
+      "terms": [
+        "T444"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0009",
+      "page": "72",
+      "loc": "table-head",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Audience",
+      "ne": "सहभागीहरू",
+      "bt": "Participants",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0010",
+      "page": "72",
+      "loc": "table-head",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Length",
+      "ne": "अवधि",
+      "bt": "Duration",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0011",
+      "page": "72",
+      "loc": "table-head",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Modules to be selected",
+      "ne": "छनोट गर्नुपर्ने मोड्युलहरू",
+      "bt": "Modules to be selected",
+      "type": "general",
+      "terms": [
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed module terminology introduced above."
+    },
+    {
+      "id": "FAC-20-0012",
+      "page": "72",
+      "loc": "table-head",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Comments",
+      "ne": "टिप्पणीहरू",
+      "bt": "Comments",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0013",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Build capacity of actors to use the MSP to strengthen MHPSS programming",
+      "ne": "MHPSS कार्यक्रम तर्जुमा तथा कार्यान्वयन सुदृढ बनाउन MSP प्रयोग गर्ने सम्बद्ध पक्षहरूको क्षमता विकास गर्ने।",
+      "bt": "Develop the capacity of relevant actors to use the MSP to strengthen MHPSS programme planning and implementation.",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T163",
+        "T114"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0014",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Humanitarian actors implementing or intending to implement MHPSS activities who are not MHPSS experts",
+      "ne": "MHPSS गतिविधिहरू कार्यान्वयन गरिरहेका वा कार्यान्वयन गर्ने मनसाय भएका तर MHPSS का विशेषज्ञ नभएका मानवीय कार्यमा संलग्न पक्षहरू",
+      "bt": "Actors involved in humanitarian work who are implementing or intend to implement MHPSS activities but are not MHPSS specialists",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T147"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0015",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "3 days",
+      "ne": "3 दिन",
+      "bt": "3 days",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0016",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "1-8 9 optional",
+      "ne": "1-8; 9 ऐच्छिक",
+      "bt": "1-8; 9 optional",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0017",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "• In-person or online",
+      "ne": "• प्रत्यक्ष उपस्थितिमा वा अनलाइन",
+      "bt": "• In person or online",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0018",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Humanitarian actors in sectors/AoR supporting MHPSS activities (but not implementing MHPSS directly (e.g. shelter, WASH, CCCM, Mine Action, FSL).",
+      "ne": "MHPSS गतिविधिहरूलाई सहयोग गर्ने तर MHPSS प्रत्यक्ष रूपमा कार्यान्वयन नगर्ने, क्षेत्र/AoR (जस्तै: आश्रय, खानेपानी, सरसफाइ तथा स्वच्छता (WASH), CCCM, बारुदी सुरुङ सम्बन्धी कार्य, FSL) मा रहेका मानवीय कार्यमा संलग्न पक्षहरू।",
+      "bt": "Parties engaged in humanitarian work in sectors/AoR (such as: shelter, drinking water, sanitation and hygiene (WASH), CCCM, landmine-related work, FSL) that support MHPSS activities but do not directly implement MHPSS.",
+      "type": "safety",
+      "terms": [
+        "T011",
+        "T147",
+        "T158",
+        "T186",
+        "T296",
+        "T300"
+      ],
+      "flags": [
+        "unclear-english"
+      ],
+      "note": "The source has unbalanced parentheses, leaving the attachment of the examples formally unresolved; the draft treats them as examples of sectors/AoR and preserves the distinction between supporting MHPSS activities and directly implementing MHPSS."
+    },
+    {
+      "id": "FAC-20-0019",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "2 days",
+      "ne": "2 दिन",
+      "bt": "2 days",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0020",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "1-7, with 5 abridged",
+      "ne": "1-7, जसमध्ये 5 संक्षिप्त रूपमा",
+      "bt": "1-7, of which 5 in abbreviated form",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0021",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "• Module 5 can be abridged for this audience given that they don’t require the same level of understanding as the actors who implement MHPSS activities. Exercises to remove: Matching real activities to the MSP; reviewing one activity and its core actions. • In-person or online",
+      "ne": "• यी सहभागीहरूलाई MHPSS गतिविधिहरू कार्यान्वयन गर्ने सम्बद्ध पक्षहरूलाई जत्तिकै गहन बुझाइ आवश्यक नपर्ने भएकाले मोड्युल 5 संक्षिप्त बनाउन सकिन्छ। हटाउनुपर्ने अभ्यासहरू: वास्तविक गतिविधिहरूलाई MSP सँग मिलाउने; एउटा गतिविधि र त्यसका मुख्य कार्यहरू समीक्षा गर्ने। • प्रत्यक्ष उपस्थितिमा वा अनलाइन",
+      "bt": "• Module 5 can be shortened because these participants do not need as in-depth an understanding as the relevant actors who implement MHPSS activities. Exercises to be removed: matching actual activities with the MSP; reviewing one activity and its key actions. • In person or online",
+      "type": "check",
+      "terms": [
+        "T158",
+        "T114",
+        "T163",
+        "T129",
+        "T350",
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed module terminology introduced above."
+    },
+    {
+      "id": "FAC-20-0022",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "Build capacity of MHPSS actors to use the MSP to strengthen MHPSS programming.",
+      "ne": "MHPSS कार्यक्रम तर्जुमा तथा कार्यान्वयन सुदृढ बनाउन MSP प्रयोग गर्ने MHPSS सम्बद्ध पक्षहरूको क्षमता विकास गर्ने।",
+      "bt": "Develop the capacity of MHPSS-related actors to use the MSP to strengthen MHPSS programme planning and implementation.",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T163",
+        "T266"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0023",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "MHPSS actors e.g. MHPSS Technical Advisors, MHPSS TWG co-chairs, MHPSS Surge Roster members.",
+      "ne": "MHPSS सम्बद्ध पक्षहरू, जस्तै: MHPSS प्राविधिक सल्लाहकार, MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) का सह-अध्यक्षहरू, MHPSS Surge Roster का सदस्यहरू।",
+      "bt": "MHPSS-related actors, for example: MHPSS technical advisers, co-chairs of the MHPSS Technical Working Group (MHPSS TWG), members of the MHPSS Surge Roster.",
+      "type": "general",
+      "terms": [
+        "T266",
+        "T024",
+        "T268"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Glossary proposal: MHPSS Surge Roster, meaning a roster of personnel available for rapid deployment. The English label is retained pending agreement on terminology."
+    },
+    {
+      "id": "FAC-20-0024",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "3-4 days",
+      "ne": "3-4 दिन",
+      "bt": "3-4 days",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0025",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "2-8 9 optional",
+      "ne": "2-8; 9 ऐच्छिक",
+      "bt": "2-8; 9 optional",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-20-0026",
+      "page": "72",
+      "loc": "table-cell",
+      "section": "Delivery Modalities of the Workshop",
+      "en": "• Discuss how to adapt and disseminate each module and activity for the context • Consider adding a brief session on different ways to disseminate the MSP (including time to plan for dissemination) • Consider a follow-up session to guide participants on their dissemination plans/ adaptations to their context. • In-person or online",
+      "ne": "• प्रत्येक मोड्युल र गतिविधिलाई सन्दर्भअनुसार कसरी अनुकूलन र प्रसार गर्ने भन्नेबारे छलफल गर्नुहोस्। • MSP प्रसार गर्ने विभिन्न तरिकाबारे छोटो सत्र थप्ने विषयमा विचार गर्नुहोस् (प्रसारको योजना बनाउने समयसहित)। • सहभागीहरूलाई उनीहरूको प्रसार योजना/आफ्नो सन्दर्भअनुसार गर्ने अनुकूलनबारे मार्गदर्शन गर्न अनुवर्ती सत्र राख्ने विषयमा विचार गर्नुहोस्। • प्रत्यक्ष उपस्थितिमा वा अनलाइन",
+      "bt": "• Discuss how to adapt and disseminate each module and activity according to the context. • Consider adding a short session on different ways to disseminate MSP (including time to plan dissemination). • Consider holding a follow-up session to guide participants on their dissemination plan/adaptation to their own context. • In person or online",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T399",
+        "T406",
+        "T424"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed module and dissemination terminology introduced above. The Nepali makes including planning time a separate imperative. In the source, that time is part of the session whose addition is only to be considered; the revision keeps it within that scope."
+    }
+  ]
+}

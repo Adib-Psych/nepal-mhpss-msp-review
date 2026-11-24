@@ -1,0 +1,692 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-13",
+  "unit_title": "Care for staff and volunteers providing MHPSS",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "44-46",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:42:38+05:45",
+  "coverage": {
+    "source_words": 1112,
+    "row_words": 1111,
+    "skipped": [
+      "PDF p.44: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 39",
+      "PDF p.45: running footer/page number removed: 40 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.46: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 41"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-13-0001",
+      "page": "44",
+      "loc": "heading",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "2.3 Care for staff and volunteers providing MHPSS",
+      "ne": "2.3 MHPSS प्रदान गर्ने कर्मचारी र स्वयंसेवकको हेरचाह गर्ने",
+      "bt": "2.3 Caring for staff and volunteers who provide MHPSS",
+      "type": "activity",
+      "terms": [
+        "T096"
+      ],
+      "flags": [],
+      "note": "Exact supplied activity-label candidate retained; unreviewed."
+    },
+    {
+      "id": "MAN-13-0002",
+      "page": "44",
+      "loc": "para",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Humanitarian work often involves exposure to distressing events, widespread suffering, long working hours, overwhelming workloads and security threats.",
+      "ne": "मानवीय सहायता कार्यमा प्रायः पीडादायी घटनाको सामना गर्नुपर्ने, व्यापक दुःखकष्ट देख्नुपर्ने, लामो समय काम गर्नुपर्ने, धान्न कठिन हुने कार्यभार वहन गर्नुपर्ने र सुरक्षासम्बन्धी खतरा झेल्नुपर्ने हुन्छ।",
+      "bt": "Humanitarian assistance work often involves having to face distressing events, witness widespread suffering, work long hours, bear workloads that are difficult to manage, and face security threats.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Describes working conditions and distressing events in ordinary, non-diagnostic language."
+    },
+    {
+      "id": "MAN-13-0003",
+      "page": "44",
+      "loc": "para",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Local staff and volunteers may themselves be survivors of the crisis and often live and work in the affected communities.",
+      "ne": "स्थानीय कर्मचारी र स्वयंसेवक आफैँ पनि सङ्कटबाट बचेका व्यक्ति हुन सक्छन् र उनीहरू प्रायः प्रभावित समुदायमै बसोबास र काम गर्छन्।",
+      "bt": "Local staff and volunteers may themselves also be people who have survived the crisis, and they often live and work in the affected community itself.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0004",
+      "page": "44",
+      "loc": "para",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "They often have to juggle family and community responsibilities with heavy work-related demands.",
+      "ne": "उनीहरूले प्रायः कामका गहन मागहरू पूरा गर्दै पारिवारिक तथा सामुदायिक जिम्मेवारीहरू पनि सँगसँगै सम्हाल्नुपर्ने हुन्छ।",
+      "bt": "They often have to manage family and community responsibilities alongside meeting the intense demands of work.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0005",
+      "page": "44",
+      "loc": "para",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "If they are perceived to be working with stigmatized groups or parties to a conflict, they are sometimes subject to hostility and accusations from fellow community members.",
+      "ne": "यदि उनीहरूले कलङ्कित ठानिएका समूह वा द्वन्द्वका पक्षहरूसँग काम गरिरहेको मानिन्छ भने, कहिलेकाहीँ आफ्नै समुदायका अन्य सदस्यबाट उनीहरूप्रति वैरभाव देखाइन्छ र आरोप लगाइन्छ।",
+      "bt": "If they are considered to be working with groups regarded as stigmatized or with parties to a conflict, other members of their own community sometimes show hostility toward them and make accusations against them.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0006",
+      "page": "44",
+      "loc": "para",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "International staff can also face unique stressors such as being far from their support networks, living in compounds with restricted freedom, and administrative and logistical challenges associated with working in a new country.",
+      "ne": "अन्तर्राष्ट्रिय कर्मचारीले पनि आफूलाई सहयोग गर्ने सञ्जालबाट टाढा रहनुपर्ने, स्वतन्त्रतामा सीमा लगाइएका परिसरमा बस्नुपर्ने र नयाँ देशमा काम गर्दा आइपर्ने प्रशासनिक तथा बन्दोबस्तीसम्बन्धी चुनौतीहरू जस्ता विशिष्ट दबाबका कारकहरूको सामना गर्न सक्छन्।",
+      "bt": "International staff may also face specific stress factors, such as having to remain far from their support networks, having to live in compounds where freedom is restricted, and administrative and logistical challenges that arise when working in a new country.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical rendering: stressors = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. This proposal does not amend G-0.2."
+    },
+    {
+      "id": "MAN-13-0007",
+      "page": "44",
+      "loc": "para",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "In infectious disease outbreaks, frontline workers are sometimes stigmatized due to a perceived risk of contagion.",
+      "ne": "सरुवा रोगको प्रकोपका बेला अग्रपंक्तिका कार्यकर्ता बाट सङ्क्रमण सर्न सक्ने ठानिएकाले उनीहरूलाई कहिलेकाहीँ कलङ्कित गरिन्छ।",
+      "bt": "During outbreaks of communicable diseases, frontline workers are sometimes stigmatized because it is thought that infection could be transmitted from them.",
+      "type": "general",
+      "terms": [
+        "T013",
+        "T383"
+      ],
+      "flags": [],
+      "note": "Uses the supplied frontline-workers candidate; the statement concerns perceived transmission risk, not an asserted risk."
+    },
+    {
+      "id": "MAN-13-0008",
+      "page": "44",
+      "loc": "para",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Humanitarian organizations have a duty of care to protect the mental health, psychosocial well-being and safety of international and national workers, including paid staff, incentive-workers, and volunteers.",
+      "ne": "पारिश्रमिक पाउने कर्मचारी, प्रोत्साहन भत्ता पाउने कार्यकर्ता र स्वयंसेवकसहित अन्तर्राष्ट्रिय तथा राष्ट्रिय कार्यकर्ताको मानसिक स्वास्थ्य, मनोसामाजिक कल्याण र सुरक्षाको संरक्षण गर्न हेरचाहको दायित्व मानवीय सहायता संस्थाहरूमा हुन्छ।",
+      "bt": "Humanitarian assistance organizations have a duty of care to protect the mental health, psychosocial well-being and safety of international and national workers, including paid staff, workers receiving incentive allowances and volunteers.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being reuse the supplied unreviewed candidates."
+    },
+    {
+      "id": "MAN-13-0009",
+      "page": "44",
+      "loc": "para",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Interventions to protect and promote mental health and psychosocial well-being may be implemented before, during and after assignments, and can involve actions at individual, team, managerial and organization-wide levels.",
+      "ne": "मानसिक स्वास्थ्य र मनोसामाजिक कल्याणको संरक्षण तथा प्रवर्द्धन गर्ने उपायहरू कार्यजिम्मेवारी सुरु हुनुअघि, त्यस अवधिमा र सम्पन्न भएपछि कार्यान्वयन गर्न सकिन्छ, र तिनमा व्यक्तिगत, टोलीगत, व्यवस्थापकीय तथा संस्थाभरिका तहमा गरिने कार्यहरू समावेश हुन सक्छन्।",
+      "bt": "Measures to protect and promote mental health and psychosocial well-being can be implemented before work assignments begin, during them and after they are completed, and may include actions at individual, team, managerial and organization-wide levels.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The existing unreviewed clinical candidates are retained; interventions here is rendered as generic measures, not a named clinical intervention."
+    },
+    {
+      "id": "MAN-13-0010",
+      "page": "44",
+      "loc": "para",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "The support offered should be culturally appropriate and consistent with global MHPSS best practice guidelines.37",
+      "ne": "प्रदान गरिने सहयोग सांस्कृतिक रूपमा उपयुक्त र MHPSS का उत्तम अभ्याससम्बन्धी विश्वव्यापी निर्देशिकाहरूअनुरूप हुनु उचित हुन्छ।37",
+      "bt": "It is appropriate for the support provided to be culturally appropriate and in accordance with global guidelines on MHPSS best practices.37",
+      "type": "check",
+      "terms": [
+        "T086"
+      ],
+      "flags": [],
+      "note": "Footnote marker 37 retained. The back-translation strengthens the source recommendation 'should' to 'must'. The revision restores recommendation strength."
+    },
+    {
+      "id": "MAN-13-0011",
+      "page": "44",
+      "loc": "footnote",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "37 The MSP outlines activities and actions that are needed to implement MSP MHPSS activities safely and effectively. This section therefore focuses on the well-being of staff implementing MHPSS activities. Nonetheless, organizations should provide for the well-being of all staff, regardless of what type of programme they are involved in, and this checklist may be used as a guide for staff well-being systems more broadly.",
+      "ne": "37 MSP ले MSP अन्तर्गतका MHPSS गतिविधिहरू सुरक्षित र प्रभावकारी रूपमा कार्यान्वयन गर्न आवश्यक गतिविधि तथा कार्यहरूको रूपरेखा प्रस्तुत गर्छ। त्यसैले यो खण्ड MHPSS गतिविधिहरू कार्यान्वयन गर्ने कर्मचारीको कल्याणमा केन्द्रित छ। तथापि, कर्मचारी जुनसुकै प्रकारको कार्यक्रममा संलग्न भए पनि संस्थाहरूले सबै कर्मचारीको कल्याणका लागि व्यवस्था गर्नु उचित हुन्छ, र यो जाँचसूचीलाई अझ व्यापक रूपमा कर्मचारीको कल्याणसम्बन्धी प्रणालीहरूका लागि मार्गदर्शिकाका रूपमा प्रयोग गर्न सकिन्छ।",
+      "bt": "37 The MSP outlines the activities and tasks necessary to implement MHPSS activities under the MSP safely and effectively. Therefore, this section focuses on the well-being of staff implementing MHPSS activities. However, regardless of the type of programme in which staff are involved, it is appropriate for organizations to make arrangements for the well-being of all staff, and this checklist can be used more broadly as a guide for systems related to staff well-being.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T158",
+        "T180",
+        "T121",
+        "T144",
+        "T328",
+        "T409",
+        "T422"
+      ],
+      "flags": [],
+      "note": "The back-translation changes 'organizations should provide' to 'organizations must make provisions'. The revision restores recommendation strength without changing the all-staff scope."
+    },
+    {
+      "id": "MAN-13-0012",
+      "page": "45",
+      "loc": "heading",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0013",
+      "page": "45",
+      "loc": "heading",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Care for staff and volunteers providing MHPSS",
+      "ne": "MHPSS प्रदान गर्ने कर्मचारी र स्वयंसेवकको हेरचाह गर्ने",
+      "bt": "Caring for staff and volunteers who provide MHPSS",
+      "type": "activity",
+      "terms": [
+        "T096"
+      ],
+      "flags": [],
+      "note": "Exact supplied activity-label candidate retained; unreviewed."
+    },
+    {
+      "id": "MAN-13-0014",
+      "page": "45",
+      "loc": "heading",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0015",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Establish policies and concrete organizational mechanisms to protect and promote the mental health and psychological well-being of workers delivering MHPSS programmes.",
+      "ne": "MHPSS कार्यक्रम सञ्चालन गर्ने कामदारहरूको मानसिक स्वास्थ्य र मानसिक सुस्वास्थ्यको संरक्षण तथा प्रवर्धन गर्न नीतिहरू र ठोस संस्थागत संयन्त्रहरू स्थापना गर्नुहोस्।",
+      "bt": "Establish policies and concrete institutional mechanisms to protect and promote the mental health and mental well-being of workers who run MHPSS programmes.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T160",
+        "T409",
+        "T495"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; psychological well-being is kept distinct from psychosocial well-being."
+    },
+    {
+      "id": "MAN-13-0016",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Cite potential work-related stressors in recruitment postings and discuss these with candidates during the recruitment process to assess their suitability for the post.",
+      "ne": "भर्नासम्बन्धी विज्ञापनमा कामसँग सम्बन्धित सम्भावित दबाबका कारकहरू उल्लेख गर्नुहोस् र उम्मेदवारहरू उक्त पदका लागि उपयुक्त छन् कि छैनन् भन्ने आकलन गर्न भर्ना प्रक्रियाका क्रममा उनीहरूसँग यी विषयमा छलफल गर्नुहोस्।",
+      "bt": "Mention potential work-related stress factors in recruitment advertisements and discuss these issues with candidates during the recruitment process to assess whether they are suitable for the position.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical rendering: work-related stressors = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. This proposal does not amend G-0.2."
+    },
+    {
+      "id": "MAN-13-0017",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Provide workers with information on the support services available during onboarding induction, including MHPSS services (e.g. peer-to-peer support systems, self-care resources) and how to access support.",
+      "ne": "काममा प्रवेश गर्दाको परिचयात्मक अभिमुखीकरणमा कार्यकर्तालाई MHPSS सेवाहरू (जस्तै, सहकर्मीबीचको सहयोग प्रणाली र आफ्नो हेरचाहका लागि स्रोतसामग्री) सहित उपलब्ध सहयोग सेवाहरू तथा सहयोग कसरी प्राप्त गर्ने भन्नेबारे जानकारी दिनुहोस्।",
+      "bt": "During introductory orientation upon starting work, inform workers about available support services, including MHPSS services (e.g., peer support systems and resources for taking care of oneself), and how to obtain support.",
+      "type": "general",
+      "terms": [
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring ordinary support terms: self-care = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; peer-to-peer support = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. These are not names of clinical treatments and do not amend G-0.2. The draft lists support services and MHPSS services separately rather than explicitly identifying MHPSS services as included within available support services. The revision restores that relationship."
+    },
+    {
+      "id": "MAN-13-0018",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Define working hours, monitor overtime and provide for rest and recuperation for both national and international workers (e.g. by ensuring that staff have sufficient paid time off and promoting an expectation that workers will take sufficient breaks during the working day).",
+      "ne": "राष्ट्रिय तथा अन्तर्राष्ट्रिय दुवै कार्यकर्ताका लागि काम गर्ने समय निर्धारण गर्नुहोस्, अतिरिक्त कामको समय अनुगमन गर्नुहोस् र विश्राम तथा पुनःताजगीका लागि व्यवस्था गर्नुहोस् (जस्तै, कर्मचारीले पर्याप्त तलबसहितको बिदा पाउने सुनिश्चित गरेर र कार्यकर्ताले कार्यदिनमा पर्याप्त विश्राम लिनेछन् भन्ने अपेक्षालाई प्रोत्साहन गरेर)।",
+      "bt": "Set working hours for both national and international workers, monitor overtime and make arrangements for rest and refreshment (e.g., by ensuring that staff receive adequate paid leave and by encouraging the expectation that workers will take adequate breaks during the working day).",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The draft changes an expectation that workers will take sufficient breaks into an expectation that they must take them. The revision removes the added obligation."
+    },
+    {
+      "id": "MAN-13-0019",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Assess work for potential stressors and risks to mental health, including any specific requirements of workers with disabilities. Take action to address, mitigate or eliminate these risks. Monitor workforce wellbeing and evaluate progress at regular intervals, and in response to relevant changes in circumstances (e.g. increased insecurity); and ensure that data on workforce well-being are collected, stored and reported confidentially.",
+      "ne": "अपाङ्गता भएका कार्यकर्ताका कुनै विशेष आवश्यकतासमेत समेटेर काममा रहेका सम्भावित दबाबका कारकहरू र मानसिक स्वास्थ्यका जोखिमहरूको आकलन गर्नुहोस्। यी जोखिमहरूलाई सम्बोधन गर्न, कम गर्न वा हटाउन कार्य गर्नुहोस्। नियमित अन्तरालमा र परिस्थितिमा सान्दर्भिक परिवर्तन हुँदा (जस्तै, असुरक्षा बढ्दा) कार्यरत व्यक्तिहरूको कल्याणको अनुगमन र प्रगतिको मूल्याङ्कन गर्नुहोस्; साथै, उनीहरूको कल्याणसम्बन्धी तथ्याङ्क गोपनीय रूपमा सङ्कलन, भण्डारण र प्रतिवेदन गरिने सुनिश्चित गर्नुहोस्।",
+      "bt": "Assess potential stress factors and mental health risks at work, including any specific needs of workers with disabilities. Take action to address, reduce or remove these risks. Monitor the well-being of people working and evaluate progress at regular intervals and when relevant changes occur in the situation (for example, when insecurity increases); also ensure that data on their well-being are collected, stored and reported confidentially.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical rendering: stressors = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The confidentiality instruction is operational guidance, not a verbatim safeguarding declaration."
+    },
+    {
+      "id": "MAN-13-0020",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Train MHPSS workers (including frontline workers, managers and support staff) on self-care and basic psychosocial support skills to help them to look after their own mental health and psychosocial well-being and to interact with each other in a supportive way (see MSP activity 3.2).",
+      "ne": "MHPSS कार्यकर्तालाई (अग्रपंक्तिका कार्यकर्ता, व्यवस्थापक र सहयोगी कर्मचारीसहित) आफ्नो मानसिक स्वास्थ्य र मनोसामाजिक कल्याणको हेरचाह गर्न तथा एकअर्कासँग सहयोगी ढङ्गले व्यवहार गर्न मद्दत पुग्ने गरी आफ्नो हेरचाह र आधारभूत मनोसामाजिक सहयोग सीपमा तालिम दिनुहोस् (MSP गतिविधि 3.2 हेर्नुहोस्)।",
+      "bt": "Train MHPSS workers (including frontline workers, managers and support staff) in self-care and basic psychosocial support skills to help them care for their own mental health and psychosocial well-being and behave supportively toward one another (see MSP activity 3.2).",
+      "type": "check",
+      "terms": [
+        "T013",
+        "T157",
+        "T005",
+        "T091",
+        "T196",
+        "T284",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Basic psychosocial support skills reuses the exact wording [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] from supplied activity 3.2, T099, as an unreviewed candidate. Proposed recurring ordinary term: self-care = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; glossary unchanged."
+    },
+    {
+      "id": "MAN-13-0021",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Train all managers, team leaders and supervisors of MHPSS workers on their roles in monitoring and mitigating work-related stressors, and on how to respond to workers who are experiencing distress or have experienced or witnessed extremely distressing events (i.e. by using basic psychosocial support skills, guiding the staff member through reporting protocols and connecting them with available supports) (see MSP activity 2.1).",
+      "ne": "MHPSS कामदारहरूका सबै व्यवस्थापक, टोली प्रमुख र सुपरिवेक्षकहरूलाई कामसँग सम्बन्धित तनावका कारकहरूको अनुगमन गर्ने र तिनलाई कम गर्ने आफ्नो भूमिकाबारे प्रशिक्षण दिनुहोस्। साथै, व्यथा अनुभव गरिरहेका वा अत्यन्त व्यथा उत्पन्न गर्ने घटना भोगेका वा देखेका कामदारहरूलाई कसरी सहयोग गर्ने भन्नेबारे पनि प्रशिक्षण दिनुहोस् (अर्थात् आधारभूत मनोसामाजिक सहयोग सीप प्रयोग गरेर, घटनाको जानकारी दिने कार्यविधि पालना गर्न कर्मचारीलाई मार्गदर्शन गरेर र उपलब्ध सहयोगसँग जोडेर) (MSP गतिविधि 2.1 हेर्नुहोस्)।",
+      "bt": "Train all managers, team leaders and supervisors of MHPSS workers on their role in monitoring work-related stress factors and reducing them. Also train them on how to support workers who are experiencing distress or who have experienced or witnessed an extremely distressing event (that is, by using basic psychosocial support skills, guiding staff to follow procedures for reporting the event and connecting them with available support) (see MSP Activity 2.1).",
+      "type": "safety",
+      "terms": [
+        "T091",
+        "T163",
+        "T196",
+        "T271",
+        "T284",
+        "T310",
+        "T410",
+        "T454",
+        "T461"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft; no frozen glossary form is supplied for work-related stressors, and all three response actions are retained."
+    },
+    {
+      "id": "MAN-13-0022",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Develop an explicit HR protocol for reporting on and responding to highly adverse/distressing events (e.g. client suicide, sexual harassment, assaults, other security incidents), which should include offering basic psychosocial support immediately after the event (see MSP activity 3.2).38",
+      "ne": "अत्यन्त प्रतिकूल/व्यथा उत्पन्न गर्ने घटनाहरूको जानकारी दिन र तिनको प्रतिकार्य गर्न स्पष्ट HR कार्यविधि विकास गर्नुहोस् (जस्तै सेवा लिने व्यक्तिको आत्महत्या, यौन उत्पीडन, आक्रमण र सुरक्षासम्बन्धी अन्य घटनाहरू)। उक्त कार्यविधिमा घटनालगत्तै आधारभूत मनोसामाजिक सहयोगको प्रस्ताव गर्ने कुरा समावेश गर्नु उचित हुन्छ (MSP गतिविधि 3.2 हेर्नुहोस्)38।",
+      "bt": "Develop clear HR procedures for reporting and responding to extremely adverse/distress-causing incidents (such as the suicide of a person receiving services, sexual harassment, assault and other security-related incidents). It would be appropriate for the procedures to include offering basic psychosocial support immediately after the incident (see MSP activity 3.2)38.",
+      "type": "safety",
+      "terms": [
+        "T091",
+        "T163",
+        "T410",
+        "T454",
+        "T461"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Unvalidated draft; inclusion of an immediate offer of support remains a recommendation rather than a mandatory requirement, and footnote marker 38 is retained. The source specifies sexual harassment, whereas the supplied Nepali and back-translation convey sexual abuse. Replaced that example with sexual harassment; retained the recommendation to include an immediate offer of support. The recommendation is softened: English says the protocol 'should include' offering immediate basic psychosocial support; Nepali says it 'would be appropriate' to include this."
+    },
+    {
+      "id": "MAN-13-0023",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Provide a forum for workers to ask questions, express concerns about risks to themselves and their colleagues, and share ideas for improvement.",
+      "ne": "कार्यकर्ताले प्रश्न सोध्न, आफू र आफ्ना सहकर्मीका लागि रहेका जोखिमबारे चिन्ता व्यक्त गर्न र सुधारका विचारहरू आदानप्रदान गर्न सक्ने मञ्च उपलब्ध गराउनुहोस्।",
+      "bt": "Provide a forum where workers can ask questions, express concerns about risks to themselves and their colleagues, and exchange ideas for improvement.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0024",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Prevent and mitigate the effects of stress, including by providing easy, equitable and affordable access to culturally appropriate emotional support for all workers.39",
+      "ne": "सबै कार्यकर्ताका लागि सांस्कृतिक रूपमा उपयुक्त भावनात्मक सहयोगमा सहज, समतामूलक र खर्च धान्न सकिने पहुँच उपलब्ध गराउनेलगायतका उपायबाट दबाबका प्रभावहरू रोक्नुहोस् र कम गर्नुहोस्।39",
+      "bt": "Prevent and reduce the effects of stress through measures including providing easy, equitable and affordable access to culturally appropriate emotional support for all workers.39",
+      "type": "safety",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Drafted as general workplace safety guidance; review pending. Stress and emotional support are not presented as diagnoses or named treatments. Proposed recurring nonclinical rendering: workplace stress = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Footnote marker 39 retained; glossary unchanged."
+    },
+    {
+      "id": "MAN-13-0025",
+      "page": "45",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Where external providers are contracted to provide workforce support, ensure that their services are evidence-based, of high quality and consistent with global guidance.",
+      "ne": "कार्यरत व्यक्तिहरूलाई सहयोग प्रदान गर्न बाह्य सेवा प्रदायकसँग करार गरिएको अवस्थामा, उनीहरूका सेवाहरू प्रमाणमा आधारित, उच्च गुणस्तरका र विश्वव्यापी मार्गदर्शनअनुरूप भएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Where an external service provider has been contracted to provide support to people working, ensure that their services are evidence-based, of high quality and in accordance with global guidance.",
+      "type": "general",
+      "terms": [
+        "T228"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0026",
+      "page": "45",
+      "loc": "footnote",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "38 Do not offer psychological debriefing to staff who have experienced a distressing event (see key consideration 32).",
+      "ne": "38 व्यथा उत्पन्न गर्ने घटना भोगेका कर्मचारीहरूलाई [psychological debriefing] को प्रस्ताव नगर्नुहोस् (मुख्य विचारणीय पक्ष 32 हेर्नुहोस्)।",
+      "bt": "38 Do not offer [psychological debriefing] to staff who have experienced a distressing event (see Key Consideration 32).",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T461"
+      ],
+      "flags": [],
+      "note": "Unvalidated draft; the named intervention remains in exact source English, and the prohibition and both reference numbers are retained."
+    },
+    {
+      "id": "MAN-13-0027",
+      "page": "45",
+      "loc": "footnote",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "39 Support services may be in-house or provided by external contracted organizations. This coverage is sometimes extended to family members of workers.",
+      "ne": "39 सहयोग सेवाहरू संस्थाभित्रै उपलब्ध हुन सक्छन् वा करार गरिएका बाह्य संस्थाहरूले प्रदान गर्न सक्छन्। कहिलेकाहीँ यी सेवाको दायरा कार्यकर्ताका परिवारका सदस्यसम्म पनि विस्तार गरिन्छ।",
+      "bt": "39 Support services may be available within the organization itself or may be provided by contracted external organizations. Sometimes the scope of these services is also extended to workers' family members.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0028",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतसाधनअनुसार)",
+      "bt": "Additional actions given for consideration (depending on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0029",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Make support available before, during and after assignments and contracts (e.g. voluntary consultations with a therapist/psychologist; resources listing available professional and peer-support options).",
+      "ne": "कामको जिम्मेवारी र करार सुरु हुनुअघि, तिनको अवधिभर र समाप्त भएपछि सहयोग उपलब्ध गराउनुहोस् (जस्तै उपचारकर्ता/मनोवैज्ञानिकसँग स्वैच्छिक परामर्श; उपलब्ध पेशेवर सहयोग र सहकर्मी सहयोगका विकल्पहरूको सूची भएका स्रोतसामग्री)।",
+      "bt": "Make support available before work assignments and contracts begin, throughout their duration and after they end (such as voluntary consultation with a therapist/psychologist; resource materials containing a list of available professional support and peer support options).",
+      "type": "safety",
+      "terms": [
+        "T347",
+        "T416"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Unvalidated draft; no frozen forms are supplied for therapist or peer support, and the combined singular/plural psychologist glossary form does not occur literally."
+    },
+    {
+      "id": "MAN-13-0030",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Arrange for a mental health professional to contact workers who have survived an extremely distressing event between one and three months after the event to assess how they are functioning and feeling, and to offer referrals for those in need of further support or treatment.",
+      "ne": "अत्यन्त व्यथा उत्पन्न गर्ने घटनाबाट बाँचेका कामदारहरूले दैनिक जीवनका क्रियाकलाप कसरी गरिरहेका छन् र कस्तो महसुस गरिरहेका छन् भन्ने आकलन गर्न तथा थप सहयोग वा उपचार आवश्यक पर्नेहरूलाई सम्बन्धित सेवामा पठाउने कार्यको प्रस्ताव गर्न, मानसिक स्वास्थ्य पेशेवरले घटनाको एकदेखि तीन महिनाको बीचमा उनीहरूसँग सम्पर्क गर्ने व्यवस्था मिलाउनुहोस्।",
+      "bt": "Arrange for a mental health professional to contact workers who have survived an extremely distress-causing incident between one and three months after the incident to assess how they are carrying out activities of daily life and how they are feeling, and to offer referral to relevant services for those who need additional support or treatment.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T172",
+        "T461"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "Unvalidated draft; contact remains scheduled between one and three months after the event, with referrals offered to those needing further support or treatment. The supplied wording, reflected as carrying out their work in the back-translation, narrows functioning to work performance. Repaired it to encompass functioning in daily life while retaining feelings, timing, professional contact and the conditional offer of referrals. The assessment of 'how they are functioning' is narrowed to how they are carrying out daily-life activities, rather than functioning more broadly."
+    },
+    {
+      "id": "MAN-13-0031",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Hold workforce mental health and psychosocial well-being review meetings annually to review the organization’s workforce care experience and to ensure that national and international staff are offered similar support (ensuring that support is adapted to cultural considerations).",
+      "ne": "संस्थाले जनशक्तिको हेरचाह गर्दा हासिल गरेको अनुभवको समीक्षा गर्न र राष्ट्रिय तथा अन्तर्राष्ट्रिय कर्मचारीलाई समान किसिमको सहयोग उपलब्ध गराइने सुनिश्चित गर्न जनशक्तिको मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणसम्बन्धी समीक्षा बैठकहरू वार्षिक रूपमा आयोजना गर्नुहोस्। यस क्रममा सहयोगलाई सांस्कृतिक पक्षअनुसार अनुकूलित गरिएको सुनिश्चित गर्नुहोस्।",
+      "bt": "Organize annual review meetings on the mental health and psychosocial well-being of the workforce to review the organization's experience gained in caring for the workforce and to ensure that similar kinds of support are made available to national and international staff. In this process, ensure that the support is adapted according to cultural aspects.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "T005 reuses the unreviewed candidate cited to PRIOR-SUM-29OCT2026 p.1 row 58. Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-13-0032",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Conduct awareness-raising, stigma-reduction and other initiatives to promote workforce mental health and well-being and to cultivate a culture of mental health promotion among workers and managers.",
+      "ne": "जनशक्तिको मानसिक स्वास्थ्य र कल्याण प्रवर्द्धन गर्न तथा कर्मचारी र व्यवस्थापकहरूबीच मानसिक स्वास्थ्य प्रवर्द्धनको संस्कृति विकास गर्न सचेतना अभिवृद्धि गर्ने, लाञ्छना घटाउने र अन्य पहलहरू सञ्चालन गर्नुहोस्।",
+      "bt": "Carry out awareness-raising, stigma-reducing and other initiatives to promote the mental health and well-being of the workforce and to develop a culture of mental health promotion among staff and managers.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; here it occurs alongside mental health."
+    },
+    {
+      "id": "MAN-13-0033",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Provide for evacuations and time away from work on the basis of mental as well as physical illness.",
+      "ne": "शारीरिक रोगका साथै मानसिक रोगका आधारमा पनि सुरक्षित स्थानमा सार्ने र कामबाट समय निकाल्न दिने व्यवस्था गर्नुहोस्।",
+      "bt": "Make arrangements for moving to a safe place and allowing time off work on the basis of mental illness as well as physical illness.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "Unvalidated draft; mental illness is retained as an additional basis for evacuation and time away from work, not a condition requiring simultaneous physical illness."
+    },
+    {
+      "id": "MAN-13-0034",
+      "page": "46",
+      "loc": "heading",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "check",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0035",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण हेर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to see relevant guidelines, standards and tools.",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-13-0036",
+      "page": "46",
+      "loc": "heading",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Key consideration 20: Staff responsible for providing MHPSS to people affected by humanitarian emergencies should not also be responsible for workforce well-being",
+      "ne": "मुख्य विचारणीय पक्ष 20: मानवीय आपत्कालीन अवस्थाबाट प्रभावित व्यक्तिहरूलाई MHPSS प्रदान गर्न जिम्मेवार कर्मचारी जनशक्तिको कल्याणका लागि पनि जिम्मेवार हुनु उचित हुँदैन।",
+      "bt": "Key consideration 20: It is not appropriate for staff responsible for providing MHPSS to people affected by humanitarian emergencies to also be responsible for the well-being of the workforce.",
+      "type": "check",
+      "terms": [
+        "T131",
+        "T252",
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The back-translation strengthens 'should not' to 'must not' and changes being responsible into being assigned responsibility. The revision preserves the recommendation against holding both responsibilities."
+    },
+    {
+      "id": "MAN-13-0037",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Workforce mental health and well-being are the responsibility of management, HR departments and occupational health departments (where they exist). MHPSS workers employed to provide support to populations affected by humanitarian crises, should not be tasked with also providing support to their own colleagues.However, because of their knowledge and skills, MHPSS staff often receive requests for support from colleagues and requests to advise on workforce well-being initiatives.",
+      "ne": "जनशक्तिको मानसिक स्वास्थ्य र कल्याणको जिम्मेवारी व्यवस्थापन, मानव संसाधन (HR) विभाग र पेसागत स्वास्थ्य विभाग (त्यस्तो विभाग भएमा) को हुन्छ। मानवीय सङ्कटबाट प्रभावित जनसमुदायलाई सहयोग प्रदान गर्न नियुक्त गरिएका MHPSS कार्यकर्तालाई आफ्नै सहकर्मीहरूलाई पनि सहयोग प्रदान गर्ने जिम्मेवारी नदिनु उचित हुन्छ। तर, आफ्नो ज्ञान र सीपका कारण MHPSS कर्मचारीलाई सहकर्मीहरूबाट सहयोगका लागि र जनशक्तिको कल्याणसम्बन्धी पहलहरूमा सल्लाह दिनका लागि प्रायः अनुरोध आउने गर्छ।",
+      "bt": "Responsibility for the mental health and well-being of the workforce lies with management, the human resources (HR) department and the occupational health department (if such a department exists). It is appropriate not to give MHPSS workers appointed to provide support to communities affected by humanitarian crises the responsibility of also providing support to their own colleagues. However, because of their knowledge and skills, MHPSS staff often receive requests from colleagues for support and for advice on initiatives related to the well-being of the workforce.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T027",
+        "T328"
+      ],
+      "flags": [
+        "source-ambiguous",
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The source wording or spacing appears irregular and is preserved; please confirm the intended reading. The source joins 'colleagues.However'; these are treated as separate sentences. Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The back-translation strengthens 'should not be tasked' to 'must not be given responsibility'; the revision restores recommendation strength. The flagged source-spacing issue at 'colleagues.However' remains pending source review; the revision retains the two-sentence reading. The back-translation attributes both support requests and requests for advice on workforce well-being initiatives to colleagues, whereas the source specifies colleagues only as the source of support requests and leaves the requesters of advice unspecified."
+    },
+    {
+      "id": "MAN-13-0038",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "If MHPSS staff who are supporting programs for affected populations are asked to also provide mental health services or support to colleagues, problems can arise. Such a dual role can be ethically problematic and can put staff in a difficult position, potentially exposing them to conflicts of interest and making it difficult to maintain professional boundaries. This can also be an inappropriate use of staff time and donor funds if their roles are intended to benefit affected community members through programme activities.",
+      "ne": "प्रभावित जनसमुदायका लागि सञ्चालित कार्यक्रमहरूमा सहयोग गरिरहेका MHPSS कर्मचारीलाई सहकर्मीहरूलाई पनि मानसिक स्वास्थ्य सेवा वा सहयोग प्रदान गर्न भनिएमा समस्या उत्पन्न हुन सक्छन्। यस्तो दोहोरो भूमिका नैतिक दृष्टिले समस्याजनक हुन सक्छ र यसले कर्मचारीलाई कठिन अवस्थामा पार्न सक्छ, जसबाट उनीहरू स्वार्थको द्वन्द्वमा पर्न सक्ने र पेसागत सीमाहरू कायम राख्न कठिन हुने सम्भावना रहन्छ। यदि उनीहरूको भूमिकाको उद्देश्य कार्यक्रमगत गतिविधिहरूमार्फत प्रभावित समुदायका सदस्यहरूलाई लाभ पुर्‍याउनु हो भने, यो कर्मचारीको समय र दाताको रकमको अनुचित प्रयोग पनि हुन सक्छ।",
+      "bt": "Problems can arise if MHPSS staff supporting programmes run for affected populations are asked to also provide mental health services or support to colleagues. Such a dual role can be ethically problematic and can put staff in a difficult situation, in which they may face conflicts of interest and have difficulty maintaining professional boundaries. If the purpose of their role is to benefit members of affected communities through programme activities, this can also be an inappropriate use of staff time and donor funds.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T167",
+        "T263",
+        "T344",
+        "T409"
+      ],
+      "flags": [],
+      "note": "The reference to mental health services is an organizational service label; no clinical assessment or treatment wording is introduced."
+    },
+    {
+      "id": "MAN-13-0039",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "Organizations should therefore clearly delineate the roles of MHPSS workers engaged to deliver programming to affected populations and staff members responsible for workforce well-being (e.g. staff counsellors, HR teams).",
+      "ne": "त्यसैले संस्थाहरूले प्रभावित जनसमुदायका लागि कार्यक्रम सञ्चालन गर्न खटाइएका MHPSS कार्यकर्ता र जनशक्तिको कल्याणका लागि जिम्मेवार कर्मचारीहरू (जस्तै कर्मचारीका परामर्शदाताहरू र HR टोलीहरू) का भूमिका स्पष्ट रूपमा छुट्याउनु उचित हुन्छ।",
+      "bt": "Therefore, it is appropriate for organizations to clearly distinguish the roles of MHPSS workers assigned to run programmes for affected communities and staff responsible for the well-being of the workforce (such as staff counsellors and HR teams).",
+      "type": "general",
+      "terms": [
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Staff counsellors and HR teams are examples of personnel responsible for workforce well-being. The back-translation strengthens 'should' to 'must'; the revision restores recommendation strength and explicitly attaches staff counsellors and HR teams to personnel responsible for workforce well-being."
+    },
+    {
+      "id": "MAN-13-0040",
+      "page": "46",
+      "loc": "table-cell",
+      "section": "Section 2 > 2.3 Care for staff and volunteers providing MHPSS",
+      "en": "While all MHPSS workers may have useful insights to share on workforce well-being strategies, the suitability of support services and organizational plans, it is crucial that this remains primarily the responsibility of management and HR departments.",
+      "ne": "सबै MHPSS कार्यकर्ताले जनशक्तिको कल्याणसम्बन्धी रणनीतिहरू, सहयोग सेवाहरूको उपयुक्तता र संस्थागत योजनाहरूबारे उपयोगी दृष्टिकोण साझा गर्न सक्ने भए पनि, यी विषय मुख्यतः व्यवस्थापन र HR विभागहरूकै जिम्मेवारीमा रहनु अत्यावश्यक छ।",
+      "bt": "Although all MHPSS workers can share useful perspectives on strategies concerning the well-being of the workforce, the appropriateness of support services and organizational plans, it is essential that these matters remain primarily the responsibility of management and HR departments.",
+      "type": "general",
+      "terms": [
+        "T328"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring nonclinical term: workforce well-being → [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    }
+  ]
+}

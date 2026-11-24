@@ -1,0 +1,885 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-23",
+  "unit_title": "Provide MHPSS through women and girls safe spaces",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "69-71",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:50:49+05:45",
+  "coverage": {
+    "source_words": 1804,
+    "row_words": 1802,
+    "skipped": [
+      "PDF p.69: running footer/page number removed: 64 Mental Health and Psychosocial Support Minimum Service Package",
+      "PDF p.70: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 65",
+      "PDF p.71: running footer/page number removed: 66 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-23-0001",
+      "page": "69",
+      "loc": "heading",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "3.9 Provide MHPSS through women and girls safe spaces",
+      "ne": "3.9 महिला तथा किशोरीका लागि सुरक्षित स्थलमार्फत MHPSS प्रदान गर्ने।",
+      "bt": "3.9 Provide MHPSS through safe spaces for women and adolescent girls.",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T106"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label renders girls as adolescent girls, narrowing the source age scope. bt-divergence: The frozen activity label specifies adolescent girls, whereas the source says girls without an adolescent-only restriction. The frozen form is retained."
+    },
+    {
+      "id": "MAN-23-0002",
+      "page": "69",
+      "loc": "para",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Women and girls safe spaces (WGSS)58 in emergencies are places where support activities are implemented for all women and adolescent girls, including survivors of GBV.59,60",
+      "ne": "आपत्कालीन अवस्थामा महिला तथा किशोरीका लागि सुरक्षित स्थल (WGSS)58 भनेका सबै महिला र किशोरीका लागि सहयोगका गतिविधिहरू सञ्चालन गरिने स्थानहरू हुन्, जसमा GBV बाट प्रभावित व्यक्तिहरू पनि समावेश हुन्छन्।59,60",
+      "bt": "In emergencies, safe spaces for women and adolescent girls (WGSS)58 are places where support activities are conducted for all women and adolescent girls, including people affected by GBV.59,60",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T131",
+        "T139",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen safe-space label narrows girls to adolescent girls, although the source explicitly specifies adolescent girls in the service population; the frozen survivor wording means affected persons and can include people who did not directly experience GBV. bt-divergence: The frozen WGSS label specifies adolescent girls where the source label says girls; the separately stated service population of all women and adolescent girls is preserved. The frozen GBV survivor wording means people affected by GBV and can include indirectly affected people, unlike survivors. Both frozen forms are retained."
+    },
+    {
+      "id": "MAN-23-0003",
+      "page": "69",
+      "loc": "para",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "The objectives of WGSS are to:",
+      "ne": "WGSS का उद्देश्यहरू निम्नानुसार छन्:",
+      "bt": "The objectives of WGSS are as follows:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-23-0004",
+      "page": "69",
+      "loc": "bullet",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "▶ facilitate access for all women and adolescent girls to knowledge, skills and a range of relevant services;",
+      "ne": "▶ सबै महिला तथा किशोरीलाई ज्ञान, सीप र विभिन्न सान्दर्भिक सेवामा पहुँच प्राप्त गर्न सहजीकरण गर्ने।",
+      "bt": "▶ Facilitate all women and adolescent girls in gaining access to knowledge, skills and various relevant services.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-23-0005",
+      "page": "69",
+      "loc": "bullet",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "▶ Support the mental health and psychosocial well-being of women and adolescent girls and the creation of social networks;",
+      "ne": "▶ महिला तथा किशोरीको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणका साथै सामाजिक सञ्जालहरूको निर्माणमा सहयोग गर्ने।",
+      "bt": "▶ Support the mental health and psychosocial well-being of women and adolescent girls, as well as the building of social networks.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed mental health and psychosocial well-being candidates; no clinical validation is implied."
+    },
+    {
+      "id": "MAN-23-0006",
+      "page": "69",
+      "loc": "bullet",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "▶ Serve as a place where women and adolescent girls can organize and access information and resources to reduce risks of violence;",
+      "ne": "▶ महिला तथा किशोरीले सङ्गठित हुन र हिंसाका जोखिम कम गर्न सूचना तथा स्रोतमा पहुँच प्राप्त गर्न सक्ने स्थानका रूपमा काम गर्ने।",
+      "bt": "▶ Function as a place where women and adolescent girls can organize and gain access to information and resources to reduce risks of violence.",
+      "type": "safety",
+      "terms": [],
+      "flags": [],
+      "note": "General violence-risk reduction wording; safety review pending."
+    },
+    {
+      "id": "MAN-23-0007",
+      "page": "69",
+      "loc": "bullet",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "▶ Serve as a key entry point for specialized services for GBV survivors; and",
+      "ne": "▶ GBV बाट प्रभावित व्यक्तिहरूका लागि विशेषीकृत सेवाहरूमा पहुँचको प्रमुख प्रवेशबिन्दुको रूपमा काम गर्ने; र।",
+      "bt": "▶ Act as a main entry point for access to specialized services for people affected by GBV; and.",
+      "type": "safety",
+      "terms": [
+        "T139",
+        "T178",
+        "T317"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen wording for GBV survivors means people affected by GBV, potentially broadening the population beyond people who directly experienced and survived GBV. bt-divergence: The frozen wording means people affected by GBV, potentially including indirectly affected people, whereas the source specifies GBV survivors. The frozen form is retained."
+    },
+    {
+      "id": "MAN-23-0008",
+      "page": "69",
+      "loc": "bullet",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "▶ Provide a place where women and adolescent girls are safe and are encouraged to use their voice and collectively advocate for their rights and needs.",
+      "ne": "▶ महिला तथा किशोरी सुरक्षित रहने र आफ्ना कुरा व्यक्त गर्न तथा आफ्ना अधिकार र आवश्यकताका लागि सामूहिक रूपमा पैरवी गर्न प्रोत्साहन पाउने स्थान उपलब्ध गराउने।",
+      "bt": "▶ Provide a place where women and adolescent girls remain safe and receive encouragement to express themselves and collectively advocate for their rights and needs.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-23-0009",
+      "page": "69",
+      "loc": "para",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "WGSS may also host case management services and include MHPSS tailored to GBV survivors (which may be implemented by the organization running the WGSS, if the required training, competencies and technical oversight are in place, or implemented in collaboration with other service providers).",
+      "ne": "WGSS मा केस व्यवस्थापन सेवाहरू पनि सञ्चालन हुन सक्छन् र GBV बाट प्रभावित व्यक्तिहरूको आवश्यकताअनुसारको MHPSS समावेश हुन सक्छ (आवश्यक तालिम, सक्षमता र प्राविधिक निगरानीको व्यवस्था भएको अवस्थामा WGSS सञ्चालन गर्ने संस्थाले यो MHPSS कार्यान्वयन गर्न सक्छ; वा अन्य सेवा प्रदायकहरूसँग सहकार्यमा यसको कार्यान्वयन गर्न सकिन्छ)।",
+      "bt": "Case management services may also operate in WGSS, and MHPSS according to the needs of people affected by GBV may be included (the organization operating the WGSS may implement this MHPSS if arrangements for the necessary training, competence and technical oversight are in place; or it may be implemented in collaboration with other service providers).",
+      "type": "safety",
+      "terms": [
+        "T118",
+        "T139",
+        "T209",
+        "T317",
+        "T318",
+        "T380"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor wording is broader than direct survivors of GBV; the training, competencies and technical-oversight condition is attached only to implementation by the organization running WGSS. bt-divergence: The frozen wording broadens GBV survivors to people affected by GBV. The possibilities and alternatives are otherwise preserved, including the training, competencies and technical-oversight condition on implementation by the organization running WGSS. The frozen form is retained."
+    },
+    {
+      "id": "MAN-23-0010",
+      "page": "69",
+      "loc": "footnote",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "58 ’Safe spaces´ may be called different names (e.g. Safe spaces, women’s centre, women’s shelter, women’s and girls’ safe spaces, women-friendly spaces, adolescent girls’ safe spaces) across different countries and implementation locations as appropriate to the community.",
+      "ne": "58 ‘सुरक्षित स्थलहरू’ लाई विभिन्न देश र कार्यान्वयन स्थलहरूमा समुदायअनुकूल फरक नामले चिनाउन सकिन्छ (जस्तै: सुरक्षित स्थलहरू, महिला केन्द्र, महिला आश्रयस्थल, महिला तथा किशोरीका लागि सुरक्षित स्थल, महिलामैत्री स्थलहरू, किशोरीका लागि सुरक्षित स्थलहरू)।",
+      "bt": "58 ‘Safe spaces’ may be known by different community-appropriate names in different countries and implementation sites (for example: safe spaces, women's centre, women's shelter, safe space for women and adolescent girls, women-friendly spaces, safe spaces for adolescent girls).",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T293",
+        "T300",
+        "T344",
+        "T380"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen label for women’s and girls’ safe spaces narrows girls to adolescent girls, obscuring the source distinction from the separately listed adolescent girls’ safe spaces. bt-divergence: The frozen women’s and girls’ safe-space label specifies adolescent girls, narrowing girls and obscuring the source distinction from the separately listed adolescent girls’ safe spaces. The frozen form is retained."
+    },
+    {
+      "id": "MAN-23-0011",
+      "page": "69",
+      "loc": "footnote",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "59 GBV AoR, Global Protection Cluster (2019). The inter-agency minimum standards for Gender-Based Violence in Emergency Programming. See Standard 8: Women’s and Girls’ Safe Spaces.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the citation verbatim, including 59, GBV AoR, Global Protection Cluster, 2019, the publication title and the reference to Standard 8: Women’s and Girls’ Safe Spaces."
+    },
+    {
+      "id": "MAN-23-0012",
+      "page": "69",
+      "loc": "footnote",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "60 Gender-based violence (GBV) is an umbrella term for any harmful act that is perpetrated against a person’s will and that is based on socially ascribed (i.e. gender) differences between males and females. It includes acts that inflict physical, sexual, or mental harm or suffering, threats of such acts, coercion, and other deprivations of liberty (e.g. domestic violence - economic, psychological, physical and sexual violence; sexual harassment, exploitation and abuse; human trafficking; female genital mutilation; child marriage; femicide; and online or digital violence - cyberbullying, non-consensual sexting, doxing). These acts can occur in public or in private. The term GBV is most commonly used to underscore how systemic inequality between males and females acts as a unifying and foundational characteristic of most forms of violence perpetrated against women and girls. The term also includes sexual violence committed with the explicit purpose of reinforcing gender inequitable norms of masculinity and femininity (see Global Protection Cluster (2021) Gender-Based Violence and Child Protection Field Cooperation Framework (p. 6); UN Women, n.d. Frequently asked questions: Types of violence against women and girls.",
+      "ne": "60 लैङ्गिक हिंसा (GBV) व्यक्तिको इच्छाविपरीत गरिने र पुरुष तथा महिलाबीच समाजले निर्धारण गरेका भिन्नता (अर्थात् लैङ्गिक भिन्नता) मा आधारित जुनसुकै हानिकारक कार्यलाई समेट्ने व्यापक शब्द हो। यसमा शारीरिक, यौन वा मानसिक हानि वा पीडा पुर्‍याउने कार्यहरू, त्यस्ता कार्य गर्ने धम्की, जबरजस्ती र स्वतन्त्रताबाट वञ्चित गर्ने अन्य कार्यहरू पर्छन् (जस्तै: घरेलु हिंसा — आर्थिक, मनोवैज्ञानिक, शारीरिक र यौन हिंसा; यौन उत्पीडन, शोषण र दुर्व्यवहार; मानव बेचबिखन; स्त्री जननेन्द्रियको अङ्गभङ्ग; बालविवाह; महिला भएकै कारण गरिने हत्या; र अनलाइन वा डिजिटल हिंसा — अनलाइन हैरानी तथा धम्की (cyberbullying), सहमतिबिना यौनसम्बन्धी सन्देश वा सामग्री पठाउने कार्य (non-consensual sexting), अनुमतिबिना कसैको निजी पहिचान खुल्ने विवरण सार्वजनिक गर्ने कार्य (doxing))। यी कार्यहरू सार्वजनिक वा निजी स्थानमा हुन सक्छन्। महिला तथा बालिकाविरुद्ध गरिने हिंसाका अधिकांश रूपहरूमा पुरुष र महिलाबीचको प्रणालीगत असमानताले कसरी साझा र आधारभूत विशेषताको रूपमा काम गर्छ भन्ने कुरामा जोड दिन GBV शब्द सबैभन्दा बढी प्रयोग गरिन्छ। यस शब्दले पुरुषत्व र स्त्रीत्वसम्बन्धी लैङ्गिक असमान मान्यतालाई सुदृढ पार्ने स्पष्ट उद्देश्यले गरिने यौन हिंसालाई पनि समेट्छ (हेर्नुहोस्: Global Protection Cluster (2021), [Gender-Based Violence and Child Protection Field Cooperation Framework] (p. 6); UN Women, n.d., [Frequently asked questions: Types of violence against women and girls])।",
+      "bt": "60 Gender-based violence (GBV) is a broad term encompassing any harmful act done against a person's will and based on socially determined differences between men and women (that is, gender differences). It includes acts that cause physical, sexual or mental harm or suffering, threats to carry out such acts, coercion and other acts that deprive people of freedom (for example: domestic violence — economic, psychological, physical and sexual violence; sexual harassment, exploitation and abuse; human trafficking; female genital mutilation; child marriage; killing because of being a woman; and online or digital violence — online harassment and threats (cyberbullying), sending sexual messages or material without consent (non-consensual sexting), making public details revealing someone's private identity without permission (doxing)). These acts can occur in public or private places. The term GBV is most often used to emphasize how systemic inequality between men and women functions as a shared and fundamental characteristic in most forms of violence against women and girls. This term also encompasses sexual violence carried out with the explicit purpose of reinforcing gender-unequal beliefs concerning masculinity and femininity (see: Global Protection Cluster (2021), [Gender-Based Violence and Child Protection Field Cooperation Framework] (p. 6); UN Women, n.d., [Frequently asked questions: Types of violence against women and girls]).",
+      "type": "safety",
+      "terms": [
+        "T010",
+        "T143",
+        "T233",
+        "T261",
+        "T299"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The supplied glossary lacks equivalents for several technical violence terms, including female genital mutilation, femicide, cyberbullying, non-consensual sexting and doxing; their draft renderings require terminology review."
+    },
+    {
+      "id": "MAN-23-0013",
+      "page": "70",
+      "loc": "heading",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-23-0014",
+      "page": "70",
+      "loc": "heading",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Provide MHPSS through women and girls safe spaces",
+      "ne": "महिला तथा किशोरीका लागि सुरक्षित स्थलमार्फत MHPSS प्रदान गर्ने।",
+      "bt": "Provide MHPSS through safe spaces for women and adolescent girls.",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T106"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label renders girls as adolescent girls, narrowing the source age scope. bt-divergence: The frozen activity label specifies adolescent girls, whereas the source says girls without an adolescent-only restriction. The frozen form is retained."
+    },
+    {
+      "id": "MAN-23-0015",
+      "page": "70",
+      "loc": "heading",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Key actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-23-0016",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Establish and/or strengthen MHPSS activities in existing safe spaces for women and girls.",
+      "ne": "पहिलेदेखि रहेका महिला तथा किशोरीका लागि सुरक्षित स्थलहरूमा MHPSS गतिविधिहरू स्थापना गर्नुहोस् र/वा सुदृढ पार्नुहोस्।",
+      "bt": "Establish and/or strengthen MHPSS activities in existing safe spaces for women and adolescent girls.",
+      "type": "safety",
+      "terms": [
+        "T054",
+        "T158"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen safe-space label restricts girls to adolescent girls, while this source instruction states no adolescent-only restriction. bt-divergence: The frozen safe-space label restricts girls to adolescent girls, although the source instruction contains no adolescent-only restriction. The frozen form is retained."
+    },
+    {
+      "id": "MAN-23-0017",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Identify and promote community-based support and self-help strategies, including by working with women and girls to strengthen support networks and to facilitate support groups, social events and recreational activities (see MSP activity 3.4).",
+      "ne": "समुदायमा आधारित सहयोग र स्व-सहयोगका रणनीति पहिचान तथा प्रवर्द्धन गर्ने; यसअन्तर्गत महिला, बालिका तथा किशोरीसँग मिलेर सहयोगका सञ्जाल सुदृढ गर्ने र सहयोग समूह, सामाजिक कार्यक्रम तथा मनोरञ्जनात्मक गतिविधि सञ्चालनमा सहजीकरण गर्ने कार्य पनि समावेश गर्ने (MSP गतिविधि 3.4 हेर्नुहोस्)।",
+      "bt": "Identify and promote community-based support and self-help strategies; also include within this work to strengthen support networks together with women, girls and adolescent girls and to facilitate the running of support groups, social programmes and recreational activities (see MSP Activity 3.4).",
+      "type": "general",
+      "terms": [
+        "T081",
+        "T091",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Reclassified as ordinary community-support programming rather than clinical content. Proposed recurring glossary entries for review: self-help = [Nepali wording recorded in terminology evidence]-[Nepali wording recorded in terminology evidence]; support groups = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The frozen glossary is unchanged. 'Girls' was narrowed to adolescent girls in the instruction about whom to work with. The revision includes younger girls as well as adolescent girls. The source specifies social events, whereas the back-translation specifies social programmes, changing the type of activity to be facilitated."
+    },
+    {
+      "id": "MAN-23-0018",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Develop/select, adapt and translate structured activities for women and girls that promote their mental health and psychosocial well-being, based on needs identified in relevant participatory assessments and discussions with women and girls (see MSP activity 2.1).",
+      "ne": "सम्बन्धित सहभागितामूलक लेखाजोखा तथा महिला, बालिका र किशोरीसँगको छलफलबाट पहिचान भएका आवश्यकताका आधारमा महिला, बालिका तथा किशोरीका लागि उनीहरूको मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन गर्ने संरचित गतिविधिहरू विकास/छनोट गर्ने, अनुकूलन गर्ने र अनुवाद गर्ने (MSP गतिविधि 2.1 हेर्नुहोस्)।",
+      "bt": "Develop/select, adapt and translate structured activities for women, girls and adolescent girls that promote their mental health and psychosocial well-being, based on needs identified through relevant participatory assessments and discussions with women, girls and adolescent girls (see MSP Activity 2.1).",
+      "type": "general",
+      "terms": [
+        "T004",
+        "T157",
+        "T005",
+        "T091",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Reclassified as programme-development instructions. Uses supplied unreviewed clinical-domain candidates only for the named outcomes. Proposed recurring glossary entry for review: structured activities = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. 'Girls' was narrowed to adolescent girls. The revision preserves the broader age scope in both consultation and activity recipients and makes the source's explicit 'activities for women and girls' relationship explicit."
+    },
+    {
+      "id": "MAN-23-0019",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Train and support facilitators to deliver the selected structured activities.",
+      "ne": "छनोट गरिएका संरचित गतिविधिहरू सञ्चालन गर्न सहजकर्तालाई तालिम दिने र सहयोग गर्ने।",
+      "bt": "Train and support facilitators to conduct the selected structured activities.",
+      "type": "general",
+      "terms": [
+        "T229"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring glossary entry for review: structured activities = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. No structured intervention content has been added."
+    },
+    {
+      "id": "MAN-23-0020",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Orient all workers at WGSS (e.g. GBV workers, outreach teams) on basic psychosocial support, supporting survivors and managing disclosure, including how to recognize signs that women and girls may benefit from additional support (e.g. GBV case management, mental health services) and how to facilitate safe referrals (see the recommended training topics on basic psychosocial support skills for frontline workers and community leaders on the MHPSS MSP web platform).",
+      "ne": "WGSS का सबै कार्यकर्तालाई (जस्तै: GBV कार्यकर्ता, समुदायमा पुगेर काम गर्ने टोलीहरू) आधारभूत मनोसामाजिक सहयोग, प्रभावित व्यक्तिहरूलाई सहयोग गर्ने र हिंसाबारे गरिएको खुलासालाई सुरक्षित रूपमा सम्हाल्ने विषयमा अभिमुखीकरण गर्नुहोस्। यसमा महिला तथा बालिकाले थप सहयोगबाट लाभ लिन सक्ने सङ्केतहरू कसरी पहिचान गर्ने (जस्तै: GBV सम्बन्धी केस व्यवस्थापन, मानसिक स्वास्थ्य सेवा) र सुरक्षित सेवा प्रेषणलाई कसरी सहजीकरण गर्ने भन्ने कुरा पनि समावेश गर्नुहोस् (MHPSS MSP वेब प्लेटफर्ममा अग्रपंक्तिका कार्यकर्ता र सामुदायिक अगुवाका लागि आधारभूत मनोसामाजिक सहयोग सीपसम्बन्धी सिफारिस गरिएका तालिमका विषयहरू हेर्नुहोस्)।",
+      "bt": "Orient all WGSS workers (for example: GBV workers, teams working through outreach in the community) on basic psychosocial support, supporting affected people and safely handling disclosures about violence. Also include how to identify signs that women and girls could benefit from further support (for example: GBV case management, mental health services) and how to facilitate safe service referrals (see the recommended training topics on basic psychosocial support skills for frontline workers and community leaders on the MHPSS MSP web platform).",
+      "type": "safety",
+      "terms": [
+        "T013",
+        "T027",
+        "T069",
+        "T075",
+        "T077",
+        "T088",
+        "T118",
+        "T157",
+        "T163",
+        "T189",
+        "T196",
+        "T263",
+        "T284",
+        "T317",
+        "T344",
+        "T410",
+        "T454"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor wording means affected persons and is broader than people who directly experienced and survived the violence. bt-divergence: The frozen survivor wording means affected people and can include indirectly affected people, whereas the source specifies survivors. The orientation scope, possibility of benefiting from additional support and safe-referral instruction are otherwise preserved. The frozen form is retained."
+    },
+    {
+      "id": "MAN-23-0021",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Provide individual and/or group MHPSS activities61 (e.g. SEL, support groups, and recreational activities) that promote the mental health and psychosocial well-being of women and girls (e.g. that strengthen social supports, self-help, and coping).62",
+      "ne": "महिला, बालिका तथा किशोरीको मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन गर्ने व्यक्तिगत र/वा सामूहिक MHPSS गतिविधिहरू61 (जस्तै SEL, सहयोग समूह र मनोरञ्जनात्मक गतिविधि) उपलब्ध गराउने (जस्तै सामाजिक सहयोग, स्व-सहयोग र परिस्थितिको सामना गर्ने क्षमता बलियो बनाउने गतिविधिहरू)।62",
+      "bt": "Provide individual and/or group MHPSS activities61 (such as SEL, support groups and recreational activities) that promote the mental health and psychosocial well-being of women, girls and adolescent girls (such as activities that strengthen social support, self-help and the ability to cope with circumstances).62",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T158",
+        "T081",
+        "T307",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the supplied unreviewed mental health and psychosocial well-being candidates. Coping is expressed as an ordinary capacity, not a newly named clinical construct or treatment. SEL remains unexpanded as in the source. Proposed recurring glossary entries for review: support groups = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; self-help = [Nepali wording recorded in terminology evidence]-[Nepali wording recorded in terminology evidence]. 'Women and girls' became women and adolescent girls, excluding younger girls from the stated beneficiaries. The revision restores the source's broader age scope."
+    },
+    {
+      "id": "MAN-23-0022",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Engage regularly with women, girls, men and boys from the affected community to explain WGSS activities, facilitate community acceptance and address barriers to women’s and girls’ attendance.",
+      "ne": "WGSS का गतिविधिहरूबारे व्याख्या गर्न, समुदायमा स्वीकार्यता बढाउन सहजीकरण गर्न र महिला, बालिका तथा किशोरीलाई उपस्थित हुनबाट रोक्ने अवरोध सम्बोधन गर्न प्रभावित समुदायका महिला, बालिका तथा किशोरी, पुरुष र बालकसँग नियमित रूपमा संवाद तथा सहकार्य गर्ने।",
+      "bt": "Regularly engage in dialogue and collaboration with women, girls and adolescent girls, men and boys from the affected community to explain WGSS activities, facilitate increased acceptance in the community and address barriers that prevent women, girls and adolescent girls from attending.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": "'Girls' was narrowed to adolescent girls in both community engagement and attendance barriers. 'Attendance' also became the broader 'participation'. The revision restores the age scope and specifically addresses barriers to attendance."
+    },
+    {
+      "id": "MAN-23-0023",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Provide information on available services and supports and facilitate links and referrals to needed services e.g. GBV and child protection services such as case management (see MSP activity 3.13), mental health care and any other needed services and supports (e.g. MHPSS, legal, health, education, ECD, nutrition, livelihoods support).",
+      "ne": "उपलब्ध सेवा तथा सहयोगबारे जानकारी दिनुहोस् र आवश्यक सेवाहरूसँग सम्पर्क स्थापित गर्न तथा ती सेवामा पठाउन सहजीकरण गर्नुहोस्, जस्तै: केस व्यवस्थापनलगायतका GBV र बाल संरक्षण सेवाहरू (MSP गतिविधि 3.13 हेर्नुहोस्), मानसिक स्वास्थ्य हेरचाह तथा अन्य जुनसुकै आवश्यक सेवा र सहयोग (जस्तै: MHPSS, कानुनी सेवा, स्वास्थ्य, शिक्षा, ECD, पोषण र जीविकोपार्जनसम्बन्धी सहयोग)।",
+      "bt": "Provide information about available services and support, and facilitate establishing contact with necessary services and referral to those services, for example: GBV and child protection services including case management (see MSP activity 3.13), mental health care and any other necessary services and support (for example: MHPSS, legal services, health, education, ECD, nutrition and livelihood-related support).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T028",
+        "T029",
+        "T030",
+        "T036",
+        "T091",
+        "T118",
+        "T155",
+        "T157",
+        "T163",
+        "T364"
+      ],
+      "flags": [],
+      "note": "Mental health care is drafted as care rather than replaced with the narrower wording of a service label."
+    },
+    {
+      "id": "MAN-23-0024",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Engage staff with MHPSS and GBV expertise to provide ongoing technical support and oversight of activities in their areas of expertise. This technical support should be in addition to (and in coordination with) the sector-specific technical oversight required if individuals are referred to specific forms of case management (e.g. a GBV specialist overseeing GBV case management).",
+      "ne": "MHPSS र GBV सम्बन्धी विशेषज्ञता भएका कर्मचारीहरूलाई आआफ्नो विशेषज्ञताको क्षेत्रमा गतिविधिहरूका लागि निरन्तर प्राविधिक सहयोग र निगरानी प्रदान गर्न संलग्न गराउनुहोस्। व्यक्तिहरूलाई कुनै विशेष प्रकारको केस व्यवस्थापनका लागि सम्बन्धित सेवामा पठाइएमा आवश्यक पर्ने क्षेत्रविशेषको प्राविधिक निगरानीका अतिरिक्त र त्यससँग समन्वय गरेर यो प्राविधिक सहयोग प्रदान गर्नु उचित हुन्छ (जस्तै, GBV केस व्यवस्थापनको निगरानी गर्ने GBV विशेषज्ञ)।",
+      "bt": "Engage staff with expertise in MHPSS and GBV to provide ongoing technical support and monitoring for activities in their respective areas of expertise. It is appropriate to provide this technical support in addition to, and in coordination with, the sector-specific technical monitoring needed if individuals are referred to the relevant service for a particular type of case management (e.g., a GBV expert monitoring GBV case management).",
+      "type": "safety",
+      "terms": [
+        "T118",
+        "T296",
+        "T318",
+        "T349"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "General technical oversight and service-coordination guidance drafted as safety content; review pending. The back-translation strengthens 'should' to 'must'. The revision restores recommendation strength while retaining the referral condition and additional, coordinated technical support. The back-translation replaces the recommendation that support should be additional and coordinated with an appropriateness judgment and renders technical oversight as monitoring, which does not explicitly retain supervisory responsibility."
+    },
+    {
+      "id": "MAN-23-0025",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Where GBV staff are providing psychological interventions, ensure that they are trained in evidence-based MHPSS approaches and receive appropriate supervision (see MSP activity 3.12).",
+      "ne": "GBV सम्बन्धी काम गर्ने कर्मचारीहरूले मनोवैज्ञानिक हस्तक्षेप प्रदान गरिरहेका अवस्थामा, उनीहरूले प्रमाणमा आधारित MHPSS पद्धतिसम्बन्धी तालिम प्राप्त गरेका छन् र उपयुक्त सुपरिवेक्षण पाउँछन् भन्ने सुनिश्चित गर्नुहोस् (MSP गतिविधि 3.12 हेर्नुहोस्)।",
+      "bt": "When staff working on GBV are providing psychological interventions, ensure that they have received training in evidence-based MHPSS approaches and receive appropriate supervision (see MSP activity 3.12).",
+      "type": "check",
+      "terms": [
+        "T007",
+        "T091",
+        "T228",
+        "T309"
+      ],
+      "flags": [],
+      "note": "The clinical phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused exactly from the cited unreviewed candidate T007. Training and supervision wording is a draft requiring review. The source requires staff to receive appropriate supervision while providing interventions; 'have received' can imply that past supervision alone suffices. The revision retains trained status and makes receipt of supervision current."
+    },
+    {
+      "id": "MAN-23-0026",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतहरूमा निर्भर)",
+      "bt": "Additional actions for consideration (depending on the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-23-0027",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Provide additional structured skills- and knowledge-building opportunities for women and girls to improve their mental health and psychosocial well-being.",
+      "ne": "महिला तथा बालिकाहरूको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सुधार ल्याउन उनीहरूलाई सीप र ज्ञान विकासका थप संरचित अवसरहरू प्रदान गर्नुहोस्।",
+      "bt": "Provide women and girls with additional structured opportunities to develop skills and knowledge to improve their mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Mental health and psychosocial well-being wording reuses supplied unreviewed candidates; no clinical validation is claimed."
+    },
+    {
+      "id": "MAN-23-0028",
+      "page": "70",
+      "loc": "heading",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": "Reclassified as general because this is an ordinary resource heading, not a check instruction."
+    },
+    {
+      "id": "MAN-23-0029",
+      "page": "70",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "general",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": "Reclassified as general because this is an ordinary navigation instruction."
+    },
+    {
+      "id": "MAN-23-0030",
+      "page": "70",
+      "loc": "footnote",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "61 Please note that group-based interventions targeting only GBV survivors are not recommended. It is important to ensure that GBV survivors are safely integrated into any group-based intervention. This includes: inviting survivors of GBV to join supportive groups (e.g. focused on accomplishing a shared goal or learning a new skill) without compromising confidentiality; having all group participants agree to maintain confidentiality if and when survivors choose to freely talk about their experiences; preparing group facilitators to assist both the survivor and other group members should survivors wish to share their experiences, to ensure that negative emotions associated with either sharing or hearing the experience are addressed (see p-.42, UNFPA (2019). The inter-agency minimum standards for Gender-Based Violence in Emergency Programming).",
+      "ne": "61 कृपया ध्यान दिनुहोस्, GBV बाट प्रभावित व्यक्तिहरूलाई मात्र लक्षित गर्ने समूहमा आधारित हस्तक्षेप सिफारिस गरिँदैन। GBV बाट प्रभावित व्यक्तिहरूलाई समूहमा आधारित कुनै पनि हस्तक्षेपमा सुरक्षित रूपमा समावेश गरिएको सुनिश्चित गर्नु महत्त्वपूर्ण छ। यसमा निम्न कुरा समावेश छन्: गोपनीयतामा सम्झौता नगरी लैङ्गिक हिंसाबाट प्रभावित व्यक्तिलाई सहयोगी समूहहरूमा सहभागी हुन आमन्त्रण गर्ने (जस्तै, साझा लक्ष्य हासिल गर्ने वा नयाँ सीप सिक्ने कुरामा केन्द्रित समूहहरू); प्रभावित व्यक्तिहरूले आफ्ना अनुभवबारे स्वेच्छाले कुरा गर्ने निर्णय गरेमा र त्यसो गर्ने समयमा गोपनीयता कायम राख्न समूहका सबै सहभागीहरूलाई सहमत गराउने; प्रभावित व्यक्तिहरूले आफ्ना अनुभव साझा गर्न चाहेमा उनीहरू र समूहका अन्य सदस्यहरू दुवैलाई सहयोग गर्न समूह सहजकर्ताहरूलाई तयार पार्ने, ताकि अनुभव साझा गर्ने वा सुन्ने कुरासँग सम्बन्धित नकारात्मक भावनाहरू सम्बोधन भएको सुनिश्चित होस् (हेर्नुहोस् p-.42, UNFPA (2019). The inter-agency minimum standards for Gender-Based Violence in Emergency Programming)।",
+      "bt": "61 Please note that group-based interventions targeting only individuals affected by GBV are not recommended. It is important to ensure that individuals affected by GBV are safely included in any group-based intervention. This includes the following: inviting an individual affected by gender-based violence to participate in supportive groups without compromising confidentiality (e.g., groups focused on achieving a shared goal or learning a new skill); getting all participants in the group to agree to maintain confidentiality if and when affected individuals voluntarily decide to talk about their experiences; preparing group facilitators to support both affected individuals and other group members if the affected individuals wish to share their experiences, so that negative emotions associated with sharing or hearing experiences are addressed (see p-.42, UNFPA (2019). The inter-agency minimum standards for Gender-Based Violence in Emergency Programming).",
+      "type": "safety",
+      "terms": [
+        "T139",
+        "T184",
+        "T211",
+        "T229",
+        "T233",
+        "T235",
+        "T317",
+        "T333",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "General safety guidance, not a verbatim consent declaration. Group-based interventions here concern supportive group participation rather than a newly named clinical treatment. Review pending. Recurring terms absent from G-0.2: confidentiality and group-based interventions; proposals are listed separately. The source reference p-.42 is preserved exactly. The source requires ensuring that associated negative emotions are addressed, not merely that they can be addressed. 'Arising when' also narrows 'associated with'. Both are repaired. The ambiguous source reference 'p-.42' is preserved exactly and remains pending source review. The back-translation replaces GBV survivors with individuals affected by GBV, potentially broadening both the population covered by the group-targeting restriction and the recipients of the inclusion and confidentiality safeguards."
+    },
+    {
+      "id": "MAN-23-0031",
+      "page": "70",
+      "loc": "footnote",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "62 These MHPSS activities may also be appropriate for other survivors, such as LGBTIQ+ survivors. It is important to note that such activities may need to be provided in a different space. For example, providing support to other survivors in spaces for women and girls may make them less safe and acceptable for women and girls. Case management and MHPSS services for male survivors should not be provided at WGSS. The only exception to this is where it may be appropriate for very young male survivors of sexual violence (e.g. infants or pre-school aged boys) to receive support at WGSS, particularly if their mothers are survivors who are also accessing services at WGSS. Consultation with women from the community is crucial in deciding whether or not to provide services to boys at WGSS (see GBV AoR (n.d.) Guidance to Gender-Based Violence Coordinators Addressing the Needs of Male Survivors of Sexual Violence in GBV Coordination, p.9).",
+      "ne": "62 यी MHPSS गतिविधिहरू अन्य प्रभावित व्यक्तिहरूका लागि पनि उपयुक्त हुन सक्छन्, जस्तै LGBTIQ+ प्रभावित व्यक्तिहरू। यस्ता गतिविधिहरू फरक स्थानमा प्रदान गर्नुपर्ने हुन सक्छ भन्ने कुरा ध्यानमा राख्नु महत्त्वपूर्ण छ। उदाहरणका लागि, महिला तथा बालिकाका लागि छुट्याइएका स्थलहरूमा अन्य प्रभावित व्यक्तिहरूलाई सहयोग प्रदान गर्दा ती स्थलहरू महिला तथा बालिकाका लागि कम सुरक्षित र कम स्वीकार्य हुन सक्छन्। प्रभावित पुरुष तथा बालकहरूका लागि केस व्यवस्थापन र MHPSS सेवाहरू महिला तथा बालिकाका लागि सुरक्षित स्थल (WGSS) मा प्रदान गर्नु उचित हुँदैन। यसको एक मात्र अपवाद यौन हिंसाबाट प्रभावित अत्यन्त साना उमेरका बालकहरूलाई (जस्तै, शिशु वा विद्यालयपूर्व उमेरका बालकहरूलाई) WGSS मा सहयोग प्रदान गर्नु उपयुक्त हुन सक्ने अवस्था हो, विशेषगरी उनीहरूका आमाहरू पनि हिंसाबाट प्रभावित छन् र WGSS मा सेवा लिइरहेका छन् भने। WGSS मा बालकहरूलाई सेवा प्रदान गर्ने वा नगर्ने निर्णय गर्दा समुदायका महिलाहरूसँग परामर्श गर्नु अत्यावश्यक छ (हेर्नुहोस् GBV AoR (n.d.) Guidance to Gender-Based Violence Coordinators Addressing the Needs of Male Survivors of Sexual Violence in GBV Coordination, p.9)।",
+      "bt": "62 These MHPSS activities may also be appropriate for other affected individuals, such as LGBTIQ+ affected individuals. It is important to keep in mind that such activities may need to be provided in a different location. For example, providing support to other affected individuals in spaces designated for women and girls may make those spaces less safe and less acceptable for women and girls. It is not appropriate to provide case management and MHPSS services for affected men and boys in safe spaces for women and girls (WGSS). The only exception to this is a situation in which it may be appropriate to provide support in WGSS to very young boys affected by sexual violence (e.g., infants or preschool-aged boys), particularly if their mothers are also affected by violence and are receiving services at WGSS. It is essential to consult women in the community when deciding whether or not to provide services to boys in WGSS (see GBV AoR (n.d.) Guidance to Gender-Based Violence Coordinators Addressing the Needs of Male Survivors of Sexual Violence in GBV Coordination, p.9).",
+      "type": "safety",
+      "terms": [
+        "T158",
+        "T118",
+        "T299",
+        "T317",
+        "T344",
+        "T346"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "General safety guidance drafted; review pending. Women and girls safe spaces is absent as a standalone glossary entry. The proposed wording uses girls inclusively, not only adolescent girls. The restriction, sole exception, maternal-service condition and consultation requirement are retained. The back-translation strengthens 'should not' to 'must not' and renders 'male survivors' as affected men, potentially excluding boys from the general restriction. The revision explicitly includes men and boys and restores 'should not'; the sole exception and consultation requirement remain. The back-translation replaces survivors with affected individuals throughout, potentially broadening the populations covered by the guidance, and recasts the recommendation against providing male-survivor services at WGSS as a judgment that doing so is inappropriate."
+    },
+    {
+      "id": "MAN-23-0032",
+      "page": "71",
+      "loc": "heading",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Key consideration 28: Gender-based violence (GBV)",
+      "ne": "प्रमुख विचारणीय पक्ष 28: लैङ्गिक हिंसा (GBV)",
+      "bt": "Key consideration 28: Gender-based violence (GBV)",
+      "type": "safety",
+      "terms": [
+        "T143",
+        "T233"
+      ],
+      "flags": [],
+      "note": "Safety heading using the supplied unreviewed GBV candidate; review pending."
+    },
+    {
+      "id": "MAN-23-0033",
+      "page": "71",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Gender-based violence (GBV) is an umbrella term for any harmful act that is perpetrated against a person’s will and that is based on socially ascribed (i.e. gender) differences between males and females. It includes acts that inflict physical, sexual or mental harm or suffering, threats of such acts, coercion, and other deprivations of liberty. These acts can occur in public or in private.63 GBV is a manifestation of gender inequality. Discrimination and violence against women and girls have deep impacts on their mental health and psychosocial well-being.",
+      "ne": "लैङ्गिक हिंसा (GBV) भन्नाले कुनै व्यक्तिको इच्छाविरुद्ध गरिने र पुरुष तथा महिलाबीच सामाजिक रूपमा निर्धारित भिन्नता (अर्थात् लैङ्गिक भिन्नता) मा आधारित कुनै पनि हानिकारक कार्यलाई समेट्ने व्यापक शब्द बुझिन्छ। यसमा शारीरिक, यौन वा मानसिक हानि वा पीडा पुर्‍याउने कार्यहरू, त्यस्ता कार्य गर्ने धम्की, जबर्जस्ती र स्वतन्त्रताबाट वञ्चित गर्ने अन्य कार्यहरू समावेश छन्। यी कार्यहरू सार्वजनिक वा निजी स्थानमा हुन सक्छन्।63 GBV लैङ्गिक असमानताको एक अभिव्यक्ति हो। महिला तथा बालिकाविरुद्ध हुने भेदभाव र हिंसाले उनीहरूको मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा गहिरो प्रभाव पार्छन्।",
+      "bt": "Gender-based violence (GBV) is understood as a broad term encompassing any harmful act carried out against a person's will and based on socially determined differences between men and women (i.e., gender differences). This includes acts that cause physical, sexual or mental harm or suffering, threats to carry out such acts, coercion and other acts that deprive people of liberty. These acts can occur in public or private places.63 GBV is an expression of gender inequality. Discrimination and violence against women and girls have a profound impact on their mental health and psychosocial well-being.",
+      "type": "safety",
+      "terms": [
+        "T143",
+        "T157",
+        "T005",
+        "T233",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "General GBV definition and safety context drafted; review pending. Mental harm and suffering are descriptive wording here, not newly coined diagnostic terms."
+    },
+    {
+      "id": "MAN-23-0034",
+      "page": "71",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "In times of crisis, rates of GBV increase. Intimate partner violence, including against adolescent girls, is one of the most common forms of GBV in humanitarian settings. Groups of women and girls who may be at greater risk of GBV include: women and girls with disabilities; ethnic and religious minorities; older women; adolescent girls; women and girls living with HIV and AIDS; women and girls engaged in commercial sexual exploitation; and lesbian, bisexual and transgender women.64",
+      "ne": "सङ्कटका समयमा GBV का दरहरू बढ्छन्। घनिष्ठ साथीद्वारा हुने हिंसा (Intimate partner violence), जसमा किशोरीहरूविरुद्ध हुने यस्तो हिंसा पनि पर्छ, मानवीय सहायता सम्बन्धी परिवेशमा GBV का सबैभन्दा सामान्य स्वरूपहरूमध्ये एक हो। GBV को बढी जोखिममा हुन सक्ने महिला तथा बालिकाका समूहहरूमा निम्न पर्छन्: अपाङ्गता भएका महिला तथा बालिका; जातीय तथा धार्मिक अल्पसङ्ख्यकहरू; ज्येष्ठ महिलाहरू; किशोरीहरू; HIV र AIDS सँग बाँचिरहेका महिला तथा बालिका; व्यावसायिक यौन शोषणमा संलग्न महिला तथा बालिका; र समलिङ्गी, उभयलिङ्गी तथा ट्रान्सजेन्डर महिलाहरू।64",
+      "bt": "Rates of GBV increase during crises. Violence by an intimate partner (Intimate partner violence), which also includes such violence against adolescent girls, is one of the most common forms of GBV in humanitarian assistance settings. Groups of women and girls who may be at greater risk of GBV include the following: women and girls with disabilities; ethnic and religious minorities; older women; adolescent girls; women and girls living with HIV and AIDS; women and girls involved in commercial sexual exploitation; and lesbian, bisexual and transgender women.64",
+      "type": "safety",
+      "terms": [
+        "T055",
+        "T074"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "General risk-context guidance drafted; review pending. HIV and AIDS are retained without introducing clinical expansions. The supplied IPV candidate is accompanied by its English expansion. 'Situations where humanitarian assistance is provided' restricts humanitarian settings to places actually receiving assistance. The revision removes that condition and clarifies that the violence against adolescent girls in this sentence is intimate partner violence. The back-translation changes humanitarian settings to humanitarian assistance settings, potentially narrowing the context of the intimate-partner-violence prevalence claim."
+    },
+    {
+      "id": "MAN-23-0035",
+      "page": "71",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "All GBV-related MHPSS activities should be underpinned by rights-based, community-based, survivor-centred approaches based on safety, confidentiality, respect and non-discrimination.",
+      "ne": "GBV सम्बन्धी सबै MHPSS गतिविधिहरू सुरक्षा, गोपनीयता, सम्मान र भेदभावरहित व्यवहारमा आधारित, अधिकारमा आधारित, समुदायमा आधारित र GBV बाट प्रभावित व्यक्तिहरू केन्द्रित पद्धतिहरूमा अडिएको हुनु उचित हुन्छ।",
+      "bt": "It is appropriate for all MHPSS activities related to GBV to be grounded in rights-based, community-based and GBV-affected-person-centred approaches based on safety, confidentiality, respect and non-discriminatory treatment.",
+      "type": "safety",
+      "terms": [
+        "T158",
+        "T211",
+        "T344"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "General safety principles drafted; review pending. Confidentiality and survivor-centred approaches are recurring terms absent from G-0.2; proposals are listed separately. The back-translation strengthens 'should' to 'must'. The revision restores recommendation strength and uses the supplied GBV-survivor candidate to make the survivor-centred referent explicit. The back-translation replaces survivor-centred approaches with GBV-affected-person-centred approaches, potentially broadening the central population, and changes the recommendation that activities should follow these approaches into an appropriateness judgment."
+    },
+    {
+      "id": "MAN-23-0036",
+      "page": "71",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "For child survivors of GBV and sexual violence, the best interests of the child must be paramount (see key consideration 34).",
+      "ne": "GBV र यौन हिंसाबाट प्रभावित बालबालिकाका हकमा बालबालिकाको सर्वोत्तम हितलाई सर्वोपरि राख्नुपर्छ (प्रमुख विचारणीय पक्ष 34 हेर्नुहोस्)।",
+      "bt": "In the case of children affected by GBV and sexual violence, the best interests of children must be placed above all else (see key consideration 34).",
+      "type": "safety",
+      "terms": [
+        "T299"
+      ],
+      "flags": [],
+      "note": "General child-safety guidance drafted, not a verbatim safeguarding declaration; review pending."
+    },
+    {
+      "id": "MAN-23-0037",
+      "page": "71",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "GBV survivors may disclose their experiences to anyone; therefore, all actors (e.g. primary health care, child protection, education personnel) should have an understanding of these principles and should be trained in basic psychosocial support skills, including supporting survivors, managing disclosure65 and facilitating safe referrals. Developing referral pathways between relevant actors, including trained and supervised mental health care providers, GBV specialists and child protection actors is fundamental. Where GBV case management services are available, survivors should be offered this service to help ensure that they receive coordinated, holistic and survivor-centred care (see MSP activity 3.13). Where GBV case management services are not available, frontline actors should be trained on the GBV Pocket Guide: How to support survivors of gender-based violence when a GBV actor is not available in your area.",
+      "ne": "GBV बाट प्रभावित व्यक्तिहरूले आफ्ना अनुभव जोसुकैलाई बताउन सक्छन्; त्यसैले सबै सम्बद्ध पक्षहरूलाई (जस्तै: प्राथमिक स्वास्थ्य हेरचाह तथा बाल संरक्षणमा कार्यरत कर्मचारी र शिक्षा क्षेत्रका कर्मचारी) यी सिद्धान्तहरूको बुझाइ हुनुपर्छ र उनीहरूलाई आधारभूत मनोसामाजिक सहयोग सीपमा तालिम दिइनुपर्छ, जसमा प्रभावित व्यक्तिहरूलाई सहयोग गर्ने, हिंसाबारे गरिएको खुलासालाई सुरक्षित रूपमा सम्हाल्ने65 र सुरक्षित सेवा प्रेषणलाई सहजीकरण गर्ने कुरा समावेश हुन्छन्। तालिमप्राप्त र सुपरिवेक्षण प्राप्त गर्ने मानसिक स्वास्थ्य हेरचाह प्रदायक, GBV विशेषज्ञ तथा बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरूलगायत सम्बन्धित सम्बद्ध पक्षहरूबीच सेवा प्रेषण मार्गहरू विकास गर्नु आधारभूत कुरा हो। GBV सम्बन्धी केस व्यवस्थापन सेवाहरू उपलब्ध भएका ठाउँमा, प्रभावित व्यक्तिहरूले समन्वित, समग्र र प्रभावित व्यक्तिहरूलाई केन्द्रमा राखिएको हेरचाह पाउने कुरा सुनिश्चित गर्न मद्दतका लागि उनीहरूलाई यो सेवा प्रस्ताव गरिनुपर्छ (MSP गतिविधि 3.13 हेर्नुहोस्)। GBV सम्बन्धी केस व्यवस्थापन सेवाहरू उपलब्ध नभएका ठाउँमा, अग्रपंक्तिमा कार्यरत पक्षहरूलाई [GBV Pocket Guide: How to support survivors of gender-based violence when a GBV actor is not available in your area] सम्बन्धी तालिम दिइनुपर्छ।",
+      "bt": "People affected by GBV may tell anyone about their experiences; therefore, all relevant actors (for example: staff working in primary health care and child protection and staff in the education sector) should have an understanding of these principles and should be trained in basic psychosocial support skills, which include supporting affected people, safely handling disclosures about violence65 and facilitating safe service referrals. Developing referral pathways among relevant actors, including trained and supervised mental health care providers, GBV specialists and actors working in child protection, is fundamental. Where GBV case management services are available, affected people should be offered this service to help ensure that they receive coordinated, holistic care centred on affected people (see MSP activity 3.13). Where GBV case management services are not available, actors working on the front line should be trained on [GBV Pocket Guide: How to support survivors of gender-based violence when a GBV actor is not available in your area].",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T028",
+        "T029",
+        "T036",
+        "T063",
+        "T070",
+        "T075",
+        "T077",
+        "T091",
+        "T114",
+        "T118",
+        "T122",
+        "T139",
+        "T157",
+        "T163",
+        "T196",
+        "T284",
+        "T317",
+        "T410",
+        "T454"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen survivor wording means affected persons rather than direct survivors; the glossary has no dedicated candidate for survivor-centred care, which is drafted using that frozen population wording. bt-divergence: The frozen population wording broadens GBV survivors and survivors to affected people, including in survivor-centred care. This can include indirectly affected people rather than only those who directly experienced the violence. The service-availability conditions, actors and training obligations are otherwise preserved. The frozen forms are retained."
+    },
+    {
+      "id": "MAN-23-0038",
+      "page": "71",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Note: Men and boys who experience violence are generally not considered survivors of GBV because the violence they experience is not based on systemic gender inequality as it often is with women and girls. However, anyone can be a survivor of sexual violence (see key consideration 25).",
+      "ne": "टिप्पणी: हिंसा भोगेका पुरुष तथा बालकलाई सामान्यतया लैङ्गिक हिंसाबाट प्रभावित व्यक्ति (survivors of GBV) मानिँदैन, किनभने उनीहरूले भोग्ने हिंसा महिला तथा बालिकाले भोग्ने हिंसामा प्रायः हुने गरेजस्तो प्रणालीगत लैङ्गिक असमानतामा आधारित हुँदैन। तर, जोसुकै पनि यौन हिंसाबाट प्रभावित हुन सक्छन् (मुख्य विचारणीय पक्ष 25 हेर्नुहोस्)।",
+      "bt": "Note: Men and boys who have experienced violence are generally not considered people affected by gender-based violence (survivors of GBV), because the violence they experience is not based on systemic gender inequality in the way that violence experienced by women and girls often is. However, anyone can be affected by sexual violence (see Key Consideration 25).",
+      "type": "safety",
+      "terms": [
+        "T010",
+        "T184",
+        "T233",
+        "T252",
+        "T299"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General safety draft; review pending. Preserves the source's qualified distinction about systemic gender inequality without endorsing it as a universal rule. Proposed missing term: sexual violence = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-23-0039",
+      "page": "71",
+      "loc": "heading",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Key consideration 29: Male survivors of sexual violence",
+      "ne": "मुख्य विचारणीय पक्ष 29: यौन हिंसाबाट प्रभावित पुरुष तथा बालक",
+      "bt": "Key Consideration 29: Men and boys affected by sexual violence",
+      "type": "safety",
+      "terms": [
+        "T252",
+        "T257",
+        "T299"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Safety heading; review pending. Male survivors is rendered inclusively of men and boys, consistent with the following passage. Proposed missing term: male survivors of sexual violence = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "MAN-23-0040",
+      "page": "71",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Male survivors of sexual violence are frequently overlooked in emergencies. Although GBV programming focuses primarily on violence against women and girls, GBV programme actors should understand that additional services may be required to meet the needs of male survivors, including men and boys with disabilities; those with diverse sexual orientations or gender identities; and young and adolescent boys, particularly those who are unaccompanied, separated, engaged in child labour or in detention. It is important that GBV actors coordinate with health, protection (including child protection), LGBTIQ+, and disability actors to ensure access to lifesaving support.",
+      "ne": "आपत्कालीन अवस्थामा यौन हिंसाबाट प्रभावित पुरुष तथा बालकलाई प्रायः बेवास्ता गरिन्छ। GBV कार्यक्रमको मुख्य ध्यान महिला तथा बालिकामाथि हुने हिंसामा केन्द्रित भए पनि, GBV कार्यक्रमका सम्बद्ध पक्षहरूले यौन हिंसाबाट प्रभावित पुरुष तथा बालकका आवश्यकता पूरा गर्न थप सेवा आवश्यक पर्न सक्छन् भन्ने बुझ्नु उचित हुन्छ। यसमा अपाङ्गता भएका पुरुष तथा बालक; विविध यौन अभिमुखीकरण वा लैङ्गिक पहिचान भएका पुरुष तथा बालक; र साना बालक तथा किशोर, विशेष गरी साथमा कोही नभएका, परिवारबाट छुट्टिएका, बालश्रममा संलग्न वा थुनामा रहेका बालक तथा किशोर समावेश छन्। जीवनरक्षक सहयोगमा पहुँच सुनिश्चित गर्न GBV क्षेत्रमा कार्यरत पक्षहरूले स्वास्थ्य, संरक्षण (बाल संरक्षण सहित), LGBTIQ+ तथा अपाङ्गताका क्षेत्रमा कार्यरत पक्षहरूसँग समन्वय गर्नु महत्त्वपूर्ण छ।",
+      "bt": "Men and boys affected by sexual violence are often overlooked in emergencies. Although the main focus of GBV programmes is on violence against women and girls, it is appropriate for the relevant actors in GBV programmes to understand that additional services may be needed to meet the needs of men and boys affected by sexual violence. This includes men and boys with disabilities; men and boys with diverse sexual orientations or gender identities; and young boys and adolescents, especially boys and adolescents who are unaccompanied, separated from their families, involved in child labour or in detention. To ensure access to life-saving assistance, it is important for actors working in the GBV sector to coordinate with actors working in health, protection (including child protection), LGBTIQ+ and disability.",
+      "type": "safety",
+      "terms": [
+        "T131",
+        "T114",
+        "T138",
+        "T027",
+        "T029",
+        "T036",
+        "T233",
+        "T257",
+        "T299",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "General safety draft; review pending, including terminology for sexual orientation, gender identity and unaccompanied or separated children. Preserves all listed groups and coordination sectors. Recurring missing terms are proposed below. BT strengthens 'should understand' to 'must understand'; revised the obligation to a recommendation. Explicitly retained male survivors as the referent of those with diverse sexual orientations or gender identities. Technical equivalence of the existing unaccompanied/separated-child wording remains review pending. The BT weakens the recommendation that GBV programme actors 'should understand' the possible need for additional services to saying that such understanding 'is appropriate'."
+    },
+    {
+      "id": "MAN-23-0041",
+      "page": "71",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "Most services developed for women and girls will not be appropriate for male survivors (e.g. WGSS), and providing support for male survivors through such services may make them less safe and acceptable for women and girls. Male survivors of sexual violence require a range of entry points to services and staff with specialized skills. In each context, it is important to understand how and when men and boys tend to disclose their experiences of sexual violence, how they seek help and what their preferences are for service delivery. Entry points for men and boys include MHPSS services, protection services, health facilities, community centres, disability support centres, facilities with services offered to or run by LGBTIQ+ organizations and, for young and adolescent boys, child and youth protection services66,67 (see key consideration 34, and Resources on MHPSS for at-risk groups on the MHPSS MSP web platform).",
+      "ne": "महिला तथा बालिकाका लागि विकास गरिएका अधिकांश सेवा यौन हिंसाबाट प्रभावित पुरुष तथा बालकका लागि उपयुक्त हुँदैनन् (जस्तै, WGSS), र त्यस्ता सेवामार्फत पुरुष तथा बालकलाई सहयोग प्रदान गर्दा ती सेवा महिला तथा बालिकाका लागि कम सुरक्षित र कम स्वीकार्य हुन सक्छन्। यौन हिंसाबाट प्रभावित पुरुष तथा बालकका लागि सेवामा पहुँच सुरु गर्ने विभिन्न माध्यम र विशिष्ट सीप भएका कर्मचारी आवश्यक हुन्छन्। प्रत्येक सन्दर्भमा पुरुष तथा बालकले यौन हिंसाका आफ्ना अनुभव कसरी र कहिले खुलाउने गर्छन्, उनीहरूले कसरी सहयोग खोज्छन् र सेवा प्रदान गर्ने तरिकाबारे उनीहरूको रोजाइ के छ भन्ने बुझ्नु महत्त्वपूर्ण छ। पुरुष तथा बालकका लागि सेवामा पहुँच सुरु गर्ने माध्यममा MHPSS सेवा, संरक्षण सेवा, स्वास्थ्य संस्था, सामुदायिक केन्द्र, अपाङ्गता भएका व्यक्तिलाई सहयोग गर्ने केन्द्र, LGBTIQ+ संस्थाहरूलाई उपलब्ध गराइने वा ती संस्थाहरूले सञ्चालन गर्ने सेवा भएका केन्द्र र, साना बालक तथा किशोरका लागि, बाल तथा युवा संरक्षण सेवाहरू66,67 समावेश छन् (मुख्य विचारणीय पक्ष 34 र MHPSS MSP वेब प्लेटफर्ममा जोखिममा रहेका समूहका लागि MHPSS सम्बन्धी स्रोतहरू हेर्नुहोस्)।",
+      "bt": "Most services developed for women and girls are not suitable for men and boys affected by sexual violence (for example, WGSS), and providing support to men and boys through such services may make those services less safe and less acceptable for women and girls. Different means of initiating access to services and staff with specific skills are needed for men and boys affected by sexual violence. In each context, it is important to understand how and when men and boys disclose their experiences of sexual violence, how they seek support and what their preferences are regarding how services are provided. Means of initiating access to services for men and boys include MHPSS services, protection services, health facilities, community centres, centres that support persons with disabilities, centres with services made available to LGBTIQ+ organizations or operated by those organizations and, for young boys and adolescents, child and youth protection services66,67 (see Key Consideration 34 and resources on MHPSS for at-risk groups on the MHPSS MSP web platform).",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T027",
+        "T163",
+        "T189",
+        "T225",
+        "T252",
+        "T257",
+        "T299",
+        "T334"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "General safety draft; review pending. The reduced safety and acceptability refer to the services for women and girls. Preserves the source's wording about services offered to LGBTIQ+ organizations rather than silently changing the beneficiary. Proposed missing term: entry points to services = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. NE and BT attach 'run by LGBTIQ+ organizations' to the facilities rather than their services. Revised to facilities containing services offered to or run by those organizations. The unusual source wording 'services offered to ... organizations' is retained literally and remains pending source clarification, not validated. The BT requires staff with 'specific skills' rather than 'specialized skills', losing the explicit requirement for specialist expertise."
+    },
+    {
+      "id": "MAN-23-0042",
+      "page": "71",
+      "loc": "footnote",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "63 IASC (2018). Guidelines for Integrating Gender-Based Violence Interventions in Humanitarian Action.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the bibliographic citation exactly as supplied in English, including 63, IASC, 2018 and the publication title."
+    },
+    {
+      "id": "MAN-23-0043",
+      "page": "71",
+      "loc": "footnote",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "64 UNFPA (2019). The Inter-Agency Minimum Standards for GBV in Emergencies Programming. P.15.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the bibliographic citation exactly as supplied in English, including 64, UNFPA, 2019 and P.15."
+    },
+    {
+      "id": "MAN-23-0044",
+      "page": "71",
+      "loc": "footnote",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "65 See, for example, this video by the Shelter Cluster on managing disclosure of GBV.",
+      "ne": "65 उदाहरणका लागि, GBV को सन्दर्भमा हिंसाबारे गरिएको खुलासालाई सुरक्षित रूपमा सम्हाल्ने विषयमा Shelter Cluster को यो भिडियो हेर्नुहोस्।",
+      "bt": "65 For example, see this video from the Shelter Cluster on safely handling a disclosure about violence in the context of GBV.",
+      "type": "safety",
+      "terms": [
+        "T077"
+      ],
+      "flags": [],
+      "note": "General safety resource instruction; review pending. Reuses the supplied provisional managing-disclosure wording exactly and retains Shelter Cluster as the organization name."
+    },
+    {
+      "id": "MAN-23-0045",
+      "page": "71",
+      "loc": "footnote",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "66 UNFPA (2019). The Inter-Agency Minimum Standards for GBV in Emergencies Programming.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the bibliographic citation exactly as supplied in English, including 66, UNFPA, 2019 and the publication title."
+    },
+    {
+      "id": "MAN-23-0046",
+      "page": "71",
+      "loc": "footnote",
+      "section": "Section 3 > 3.9 Provide MHPSS through women and girls safe spaces",
+      "en": "67 GBV AoR (n.d.) Guidance to Gender-Based Violence Coordinators Addressing the Needs of Male Survivors of Sexual Violence in GBV Coordination.",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the bibliographic citation exactly as supplied in English, including 67, GBV AoR, n.d. and the guidance title."
+    }
+  ]
+}

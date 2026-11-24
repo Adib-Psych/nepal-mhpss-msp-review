@@ -1,0 +1,1308 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-11",
+  "unit_title": "Integrating MHPSS across sectors/clusters/AoRs",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "51-54",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:03:29+05:45",
+  "coverage": {
+    "source_words": 1176,
+    "row_words": 1176,
+    "skipped": [
+      "Page 51: running-footer: Module 6 · MSP Workshop Facilitator Manual · 47",
+      "Page 52: running-footer: 48 · MSP Workshop Facilitator Manual · Module 6",
+      "Page 52: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 53: running-footer: Module 6 · MSP Workshop Facilitator Manual · 49",
+      "Page 53: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 53: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 53: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 53: image-content-unverified: Exact embedded text, if present, is not transcribed.",
+      "Page 54: running-footer: 50 · MSP Workshop Facilitator Manual · Module 6"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-11-0001",
+      "page": "51",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Module 6:",
+      "ne": "मोड्युल 6:",
+      "bt": "Module 6:",
+      "type": "activity",
+      "terms": [
+        "T399"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Module is absent from G-0.3; proposed wording is listed separately."
+    },
+    {
+      "id": "FAC-11-0002",
+      "page": "51",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Integrating MHPSS into programming across different areas of work",
+      "ne": "कामका विभिन्न क्षेत्रमा कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS एकीकृत गर्ने",
+      "bt": "Integrating MHPSS into program planning and implementation in various areas of work",
+      "type": "activity",
+      "terms": [
+        "T282"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0003",
+      "page": "51",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "By the end of this module, participants will be able to:",
+      "ne": "यस मोड्युलको अन्त्यसम्ममा सहभागीहरू निम्न कार्य गर्न सक्षम हुनेछन्:",
+      "bt": "By the end of this module, participants will be able to do the following:",
+      "type": "general",
+      "terms": [
+        "T399",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed ordinary training term for module; glossary review is pending."
+    },
+    {
+      "id": "FAC-11-0004",
+      "page": "51",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "› Give examples of MHPSS activities integrated into programming across different sectors/clusters/ AORs",
+      "ne": "› विभिन्न क्षेत्र/क्लस्टर/AORs मा कार्यक्रम तर्जुमा तथा कार्यान्वयनमा एकीकृत गरिएका MHPSS गतिविधिहरूका उदाहरण दिने",
+      "bt": "› Give examples of MHPSS activities integrated into program planning and implementation in various sectors/clusters/AORs",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T124",
+        "T282",
+        "T158"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AORs is retained exactly as supplied; this recurring coordination label is absent from G-0.3."
+    },
+    {
+      "id": "FAC-11-0005",
+      "page": "51",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "› Justify the importance of integrating MHPSS activities into humanitarian programming",
+      "ne": "› मानवीय कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS गतिविधिहरू एकीकृत गर्नुको महत्त्वलाई तर्कसहित पुष्टि गर्ने",
+      "bt": "› Substantiate with reasoning the importance of integrating MHPSS activities into humanitarian program planning and implementation",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0006",
+      "page": "51",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "6.1 Integrating MHPSS across sectors/clusters/AoRs",
+      "ne": "6.1 क्षेत्र/क्लस्टर/AoRs मा MHPSS एकीकृत गर्ने",
+      "bt": "6.1 Integrating MHPSS into sectors/clusters/AoRs",
+      "type": "activity",
+      "terms": [
+        "T296",
+        "T124"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoRs is retained exactly as supplied; glossary wording is pending."
+    },
+    {
+      "id": "FAC-11-0007",
+      "page": "51",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "› How can I contribute to the MHPSS response?",
+      "ne": "› म MHPSS प्रतिकार्यमा कसरी योगदान दिन सक्छु?",
+      "bt": "› How can I contribute to the MHPSS response?",
+      "type": "general",
+      "terms": [
+        "T161"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0008",
+      "page": "51",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "60 min",
+      "ne": "60 मिनेट",
+      "bt": "60 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary duration label, not an assessment item."
+    },
+    {
+      "id": "FAC-11-0009",
+      "page": "51",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "6.2 Promoting mental health and psychosocial wellbeing",
+      "ne": "6.2 मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन गर्ने",
+      "bt": "6.2 Promoting mental health and psychosocial well-being",
+      "type": "activity",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical-domain wording is limited to the supplied unreviewed candidate for psychosocial well-being."
+    },
+    {
+      "id": "FAC-11-0010",
+      "page": "51",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "› Delivering humanitarian aid in ways that promote mental health and psychosocial wellbeing",
+      "ne": "› मानसिक स्वास्थ्य र मनोसामाजिक कल्याण प्रवर्द्धन हुने गरी मानवीय सहायता प्रदान गर्ने",
+      "bt": "› Provide humanitarian assistance in a way that promotes mental health and psychosocial well-being",
+      "type": "general",
+      "terms": [
+        "T157",
+        "T005",
+        "T376",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Ordinary programme description, not a validated instrument item. The psychosocial well-being wording is the supplied unreviewed candidate."
+    },
+    {
+      "id": "FAC-11-0011",
+      "page": "51",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "25 min",
+      "ne": "25 मिनेट",
+      "bt": "25 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary duration label, not an assessment item."
+    },
+    {
+      "id": "FAC-11-0012",
+      "page": "52",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "6.1 Integrating MHPSS across sectors/clusters/AoRs",
+      "ne": "6.1 क्षेत्र/क्लस्टर/AoRs मा MHPSS एकीकृत गर्ने",
+      "bt": "6.1 Integrating MHPSS into sectors/clusters/AoRs",
+      "type": "activity",
+      "terms": [
+        "T296",
+        "T124"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoRs is retained exactly as supplied; glossary wording is pending."
+    },
+    {
+      "id": "FAC-11-0013",
+      "page": "52",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "How can I contribute to the MHPSS response?",
+      "ne": "म MHPSS प्रतिकार्यमा कसरी योगदान दिन सक्छु?",
+      "bt": "How can I contribute to the MHPSS response?",
+      "type": "activity",
+      "terms": [
+        "T161"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0014",
+      "page": "52",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Prepare",
+      "ne": "तयारी गर्नुहोस्।",
+      "bt": "Prepare.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0015",
+      "page": "52",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "60 min",
+      "ne": "60 मिनेट",
+      "bt": "60 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary duration label, not an assessment item."
+    },
+    {
+      "id": "FAC-11-0016",
+      "page": "52",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• Flip chart paper and pens",
+      "ne": "• फ्लिपचार्ट कागज र कलमहरू",
+      "bt": "• Flipchart paper and pens",
+      "type": "general",
+      "terms": [
+        "T368"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Flip chart is a recurring materials term absent from G-0.3; proposed wording is listed separately."
+    },
+    {
+      "id": "FAC-11-0017",
+      "page": "52",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• Key Considerations from the MSP (printed from pp 9-15 of the PDF or refer participants to the relevant section on the online platform)",
+      "ne": "• MSP का मुख्य विचारणीय पक्षहरू (PDF का पृष्ठ 9-15 बाट मुद्रण गर्नुहोस् वा सहभागीहरूलाई अनलाइन प्लेटफर्मको सम्बन्धित खण्ड हेर्न लगाउनुहोस्।)",
+      "bt": "• Key considerations of the MSP (Print from pages 9-15 of the PDF or have participants look at the relevant section of the online platform.)",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T154",
+        "T406",
+        "T422"
+      ],
+      "flags": [],
+      "note": "Preparation instruction for reference materials, not a safeguarding declaration."
+    },
+    {
+      "id": "FAC-11-0018",
+      "page": "52",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Guide",
+      "ne": "मार्गदर्शिका",
+      "bt": "Guide",
+      "type": "general",
+      "terms": [
+        "T144"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0019",
+      "page": "52",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "As we saw earlier, the MSP indicates which clusters/sectors/AORs are typically well placed to implement or to facilitate the implementation of MHPSS activities.",
+      "ne": "हामीले अघि हेरेझैँ, कुन क्लस्टर/क्षेत्र/AORs सामान्यतया MHPSS गतिविधिहरू कार्यान्वयन गर्न वा तिनको कार्यान्वयनमा सहजीकरण गर्न उपयुक्त अवस्थामा छन् भन्ने कुरा MSP ले देखाउँछ।",
+      "bt": "As we saw earlier, the MSP shows which clusters/sectors/AORs are generally in a suitable position to implement MHPSS activities or facilitate their implementation.",
+      "type": "general",
+      "terms": [
+        "T124",
+        "T296",
+        "T158",
+        "T163",
+        "T380"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AORs is retained exactly as supplied; glossary wording is pending."
+    },
+    {
+      "id": "FAC-11-0020",
+      "page": "52",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Now that we are more familiar with the programme activities, we will have a closer look at how each cluster/sector/AOR can contribute to the MHPSS response.",
+      "ne": "अब हामी कार्यक्रमगत गतिविधिहरूसँग अझ परिचित भएकाले, प्रत्येक क्लस्टर/क्षेत्र/AOR ले MHPSS प्रतिकार्यमा कसरी योगदान दिन सक्छ भन्ने कुरा थप नजिकबाट हेर्नेछौँ।",
+      "bt": "Now that we are more familiar with the programmatic activities, we will look more closely at how each cluster/sector/AOR can contribute to the MHPSS response.",
+      "type": "general",
+      "terms": [
+        "T167",
+        "T123",
+        "T296",
+        "T161",
+        "T409"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AOR is retained exactly as supplied; glossary wording is pending."
+    },
+    {
+      "id": "FAC-11-0021",
+      "page": "52",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Divide participants into small groups and provide them with flip chart paper and pens.",
+      "ne": "सहभागीहरूलाई साना समूहमा विभाजन गर्नुहोस् र उनीहरूलाई फ्लिपचार्ट कागज र कलमहरू दिनुहोस्।",
+      "bt": "Divide participants into small groups and give them flipchart paper and pens.",
+      "type": "general",
+      "terms": [
+        "T368",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed ordinary materials term for flip chart; glossary review is pending."
+    },
+    {
+      "id": "FAC-11-0022",
+      "page": "52",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "If participants come from different sectors, group them according to their sectors (see Note for Facilitators below).",
+      "ne": "यदि सहभागीहरू विभिन्न क्षेत्रबाट आएका छन् भने, उनीहरूको क्षेत्रअनुसार समूह बनाउनुहोस् (तल सहजीकरणकर्ताका लागि दिइएको टिप्पणी हेर्नुहोस्)।",
+      "bt": "If participants come from different sectors, form groups according to their sectors (see the note for the facilitator below).",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T230",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0023",
+      "page": "52",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Assign each group a sector/cluster/AoR.",
+      "ne": "प्रत्येक समूहलाई एउटा क्षेत्र/क्लस्टर/AoR तोक्नुहोस्।",
+      "bt": "Assign one sector/cluster/AoR to each group.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T123"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AoR is retained exactly as supplied; glossary wording is pending."
+    },
+    {
+      "id": "FAC-11-0024",
+      "page": "52",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Explain that this is a three-part exercise:",
+      "ne": "यो अभ्यासका तीन भाग छन् भनेर स्पष्ट पार्नुहोस्।",
+      "bt": "Clarify that this exercise has three parts.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0025",
+      "page": "52",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• In the first part, participants will use the MSP to identify and list the activities the sector they have been assigned is well placed to implement and/or to facilitate (see table below for guidance). Participants will also identify which MHPSS activities can be done by actors who are not MHPSS specialists, such as psychologists or psychiatrists – with the understanding that these actors would be trained and supervised as needed.",
+      "ne": "• पहिलो भागमा सहभागीहरू आफूलाई तोकिएको क्षेत्र कुन-कुन गतिविधिहरू कार्यान्वयन गर्न र/वा तिनको सहजीकरण गर्न उपयुक्त स्थितिमा छ भन्ने पहिचान गर्न र ती गतिविधिहरूको सूची बनाउन MSP प्रयोग गर्नेछन् (मार्गदर्शनका लागि तलको तालिका हेर्नुहोस्)। सहभागीहरू मनोवैज्ञानिकहरू वा मनोचिकित्सकहरू जस्ता MHPSS विशेषज्ञ नभएका सम्बद्ध पक्षहरूबाट कुन-कुन MHPSS गतिविधिहरू गर्न सकिन्छ भन्ने पनि पहिचान गर्नेछन्; यसमा ती सम्बद्ध पक्षहरूलाई आवश्यकताअनुसार तालिम र सुपरिवेक्षण उपलब्ध गराइनेछ भन्ने बुझाइ रहनेछ।",
+      "bt": "• In the first part, participants will use the MSP to identify which activities their assigned sector is in a suitable position to implement and/or facilitate and to make a list of those activities (see the table below for guidance). Participants will also identify which MHPSS activities can be carried out by stakeholders who are not MHPSS specialists such as psychologists or psychiatrists; this will be with the understanding that those stakeholders will be provided with training and supervision as needed.",
+      "type": "safety",
+      "terms": [
+        "T114",
+        "T158",
+        "T163",
+        "T296",
+        "T406",
+        "T491",
+        "T497"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The placement of “such as psychologists or psychiatrists” leaves it unclear whether these professions exemplify specialists or non-specialist actors; the adjacent modifier in the draft does not resolve that source ambiguity."
+    },
+    {
+      "id": "FAC-11-0026",
+      "page": "52",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• In the second part, participants will be introduced to the key considerations on the integration of MHPSS in the different clusters/sectors/AORs. The key considerations provide a summary of key entry points for integrating MHPSS into sector programs. Direct participants to the key considerations in the MSP website or on the MSP PDF. Direct each group to the key consideration relative to the sector they are working on. Participants will review the MSP key consideration they have been given and compare it to the ideas discussed in part 1. Participants should add any additional activities they may have missed to the flipchart.",
+      "ne": "• दोस्रो भागमा, सहभागीहरूलाई विभिन्न क्लस्टर/क्षेत्र/AORs मा MHPSS एकीकृत गर्ने सम्बन्धी मुख्य विचारणीय पक्षहरूबारे परिचय दिइनेछ। मुख्य विचारणीय पक्षहरूले क्षेत्रगत कार्यक्रमहरूमा MHPSS एकीकृत गर्नका लागि प्रमुख प्रवेश बिन्दुहरूको सारांश दिन्छन्। सहभागीहरूलाई MSP वेबसाइट वा MSP PDF मा रहेका मुख्य विचारणीय पक्षहरू हेर्न लगाउनुहोस्। प्रत्येक समूहलाई आफूले काम गरिरहेको क्षेत्रसँग सम्बन्धित मुख्य विचारणीय पक्ष हेर्न लगाउनुहोस्। सहभागीहरूले आफूलाई दिइएको MSP को मुख्य विचारणीय पक्ष समीक्षा गर्नेछन् र त्यसलाई भाग 1 मा छलफल गरिएका विचारहरूसँग तुलना गर्नेछन्। सहभागीहरूले आफूबाट छुटेका हुन सक्ने कुनै पनि थप गतिविधिहरू फ्लिपचार्टमा थप्नु उचित हुन्छ।",
+      "bt": "• In the second part, participants will be introduced to the key considerations regarding integrating MHPSS into different clusters/sectors/AORs. The key considerations summarize the main entry points for integrating MHPSS into sectoral programmes. Have participants look at the key considerations on the MSP website or in the MSP PDF. Have each group look at the key consideration related to the sector in which they are working. Participants will review the key consideration in the MSP given to them and compare it with the ideas discussed in Part 1. It is appropriate for participants to add to the flipchart any additional activities they may have missed.",
+      "type": "general",
+      "terms": [
+        "T124",
+        "T296",
+        "T154",
+        "T163",
+        "T252",
+        "T369",
+        "T406",
+        "T443"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Ordinary facilitation instructions, not a validated instrument or clinical instruction. AORs is retained exactly; flip chart uses a proposed term pending glossary review. The original renders 'key entry points' as opportunities, omits the uncertainty in 'may have missed,' and uses [Nepali wording recorded in terminology evidence], which can strengthen 'should' to a requirement. The revision restores these distinctions. The technical wording for 'entry points' remains pending terminology review. The explicit recommendation that participants should add missed activities to the flipchart is weakened to a statement that doing so is appropriate."
+    },
+    {
+      "id": "FAC-11-0027",
+      "page": "52",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• In the third part, participants will review the activities listed on the flipchart and discuss how well these have been implemented in their context. They will circle the activities that have been implemented.",
+      "ne": "• तेस्रो भागमा, सहभागीहरूले फ्लिपचार्टमा सूचीकृत गतिविधिहरू समीक्षा गर्नेछन् र आफ्नो सन्दर्भमा ती कति राम्रोसँग कार्यान्वयन भएका छन् भन्नेबारे छलफल गर्नेछन्। उनीहरूले कार्यान्वयन भएका गतिविधिहरूलाई घेरा लगाउनेछन्।",
+      "bt": "• In the third part, participants will review the activities listed on the flipchart and discuss how well they have been implemented in their context. They will circle the activities that have been implemented.",
+      "type": "general",
+      "terms": [
+        "T369",
+        "T406"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed ordinary materials term for flip chart; glossary review is pending."
+    },
+    {
+      "id": "FAC-11-0028",
+      "page": "52",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Review",
+      "ne": "समीक्षा गर्नुहोस्।",
+      "bt": "Review.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0029",
+      "page": "52",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "the instructions for Part 1 for participants:",
+      "ne": "सहभागीहरूका लागि भाग 1 का निर्देशनहरू:",
+      "bt": "Instructions for Part 1 for participants:",
+      "type": "general",
+      "terms": [
+        "T406"
+      ],
+      "flags": [],
+      "note": "Retains the source fragment that completes the preceding review instruction; this is not an assessment item."
+    },
+    {
+      "id": "FAC-11-0030",
+      "page": "52",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• Use the MSP to identify and list the activities the sector you have been assigned is well placed to implement and/or to facilitate.",
+      "ne": "• तपाईंलाई तोकिएको क्षेत्रले कार्यान्वयन गर्न र/वा सहजीकरण गर्न उपयुक्त हुने गतिविधिहरू पहिचान गरी सूची बनाउन MSP प्रयोग गर्नुहोस्।",
+      "bt": "• Use the MSP to identify and list activities that would be suitable for your assigned sector to implement and/or facilitate.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0031",
+      "page": "52",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• What MHPSS activities can be carried out by actors who are not MHPSS specialists, such as psychologists or psychiatrists (e.g., CFS facilitators, teachers, nutrition officers, protection helpline staff, health workers, GBV officers, etc.). Summarize your answers on flipchart paper. Give the groups 20 minutes to complete Part 1 of the exercise.",
+      "ne": "• मनोवैज्ञानिकहरू वा मनोचिकित्सकहरू जस्ता MHPSS विशेषज्ञ नभएका सम्बद्ध पक्षहरूबाट कुन-कुन MHPSS गतिविधिहरू गर्न सकिन्छ (उदाहरणका लागि, CFS का सहजीकरणकर्ता, शिक्षकहरू, पोषण अधिकृतहरू, संरक्षणसम्बन्धी सहायता फोन सेवाका कर्मचारीहरू, स्वास्थ्यकर्मीहरू, GBV अधिकृतहरू आदि)? आफ्ना उत्तरहरूको सार फ्लिपचार्टको कागजमा लेख्नुहोस्। अभ्यासको भाग 1 पूरा गर्न समूहहरूलाई 20 मिनेट दिनुहोस्।",
+      "bt": "• Which MHPSS activities can be carried out by stakeholders who are not MHPSS specialists such as psychologists or psychiatrists (for example, CFS facilitators, teachers, nutrition officers, protection-related assistance telephone service staff, health workers, GBV officers, etc.)? Write a summary of your answers on flipchart paper. Give the groups 20 minutes to complete part 1 of the exercise.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T029",
+        "T030",
+        "T114",
+        "T158",
+        "T230",
+        "T369",
+        "T374",
+        "T491",
+        "T497"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The source ambiguously places psychologists and psychiatrists after non-specialist actors, while the parenthetical list supplies further actor examples; the draft retains that attachment uncertainty and preserves CFS, GBV, 20 and 1."
+    },
+    {
+      "id": "FAC-11-0032",
+      "page": "53",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "After 15 minutes, review",
+      "ne": "15 मिनेटपछि समीक्षा गर्नुहोस्।",
+      "bt": "Review after 15 minutes.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Ordinary timed facilitation instruction, not an assessment item."
+    },
+    {
+      "id": "FAC-11-0033",
+      "page": "53",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "the instructions for Part 2:",
+      "ne": "भाग 2 का लागि निर्देशनहरू:",
+      "bt": "Instructions for Part 2:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0034",
+      "page": "53",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• Review the MSP key consideration you have been given and compare it to the ideas discussed in part 1. Add any additional activities you may have missed to the flipchart. Give the groups 15 minutes to complete Part 2 of the exercise.",
+      "ne": "• तपाईंलाई दिइएको MSP को मुख्य विचारणीय पक्षको समीक्षा गर्नुहोस् र त्यसलाई भाग 1 मा छलफल गरिएका विचारहरूसँग तुलना गर्नुहोस्। छुटेका थप गतिविधिहरू भए फ्लिपचार्टमा थप्नुहोस्। अभ्यासको भाग 2 पूरा गर्न समूहहरूलाई 15 मिनेट दिनुहोस्।",
+      "bt": "• Review the main aspect for consideration of the MSP given to you and compare it with the ideas discussed in Part 1. If any additional activities have been missed, add them to the flipchart. Give the groups 15 minutes to complete Part 2 of the exercise.",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T252",
+        "T369"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: flipchart = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0035",
+      "page": "53",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "After 15 minutes, review",
+      "ne": "15 मिनेटपछि समीक्षा गर्नुहोस्।",
+      "bt": "Review after 15 minutes.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The object of the instruction appears in the following row."
+    },
+    {
+      "id": "FAC-11-0036",
+      "page": "53",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "the instructions for Part 3:",
+      "ne": "भाग 3 का लागि निर्देशनहरू:",
+      "bt": "Instructions for Part 3:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0037",
+      "page": "53",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• Review the activities listed on the flipchart and discuss how well these have been implemented in your context. Circle the activities that have been implemented. Give the groups 20 minutes to complete Part 3 of the exercise. It may be helpful for participants to consult the checklist of actions for the activities listed. Bring the groups back to plenary and ask each group to present.",
+      "ne": "• फ्लिपचार्टमा सूचीबद्ध गतिविधिहरूको समीक्षा गर्नुहोस् र तपाईंको सन्दर्भमा ती गतिविधिहरू कत्तिको राम्ररी कार्यान्वयन भएका छन् भन्नेबारे छलफल गर्नुहोस्। कार्यान्वयन भएका गतिविधिहरूलाई घेरा लगाउनुहोस्। अभ्यासको भाग 3 पूरा गर्न समूहहरूलाई 20 मिनेट दिनुहोस्। सूचीबद्ध गतिविधिहरूका लागि कार्यहरूको जाँचसूची हेर्नु सहभागीहरूका लागि उपयोगी हुन सक्छ। समूहहरूलाई पुनः पूर्ण सत्रमा भेला गराउनुहोस् र प्रत्येक समूहलाई प्रस्तुति दिन अनुरोध गर्नुहोस्।",
+      "bt": "• Review the activities listed on the flipchart and discuss how well those activities have been implemented in your context. Circle the activities that have been implemented. Give the groups 20 minutes to complete part 3 of the exercise. It may be useful for participants to look at the checklist of tasks for the listed activities. Bring the groups back together in the plenary session and request each group to give a presentation.",
+      "type": "activity",
+      "terms": [
+        "T018",
+        "T369",
+        "T406",
+        "T407"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring terms: flipchart = [Nepali wording recorded in terminology evidence]; plenary = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. The final instruction changes 'ask each group to present' into having each group present. The revision restores the request rather than a stronger directive."
+    },
+    {
+      "id": "FAC-11-0038",
+      "page": "53",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Summarize",
+      "ne": "सारांश प्रस्तुत गर्नुहोस्।",
+      "bt": "Present a summary.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0039",
+      "page": "53",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "the exercise by emphasizing the importance of integration:",
+      "ne": "अभ्यासको सारांश प्रस्तुत गर्दा एकीकरणको महत्त्वमा जोड दिनुहोस्।",
+      "bt": "Emphasize the importance of integration when presenting the summary of the exercise.",
+      "type": "general",
+      "terms": [
+        "T384"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The instruction continues from the preceding heading and is expressed as a complete Nepali sentence. Proposed recurring term: integration = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0040",
+      "page": "53",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• Integration is a fundamental principle of MHPSS programming. Activities that are integrated into wider systems (e.g. existing community support mechanisms, formal/non-formal school systems, general health services, social services, etc.) tend to reach more people, often are more sustainable, and tend to carry less stigma9.",
+      "ne": "• एकीकरण MHPSS कार्यक्रम तर्जुमा तथा कार्यान्वयनको आधारभूत सिद्धान्त हो। व्यापक प्रणालीहरूमा एकीकृत गरिएका गतिविधिहरू (जस्तै, समुदायमा विद्यमान सहयोग संयन्त्रहरू, औपचारिक/गैरऔपचारिक विद्यालय प्रणाली, सामान्य स्वास्थ्य सेवा, सामाजिक सेवा आदि) अझ धेरै मानिससम्म पुग्ने प्रवृत्ति हुन्छ, प्रायः अझ दिगो हुन्छन् र तिनीसँग जोडिने सामाजिक लाञ्छना पनि कम हुने प्रवृत्ति हुन्छ9।",
+      "bt": "• Integration is a fundamental principle of MHPSS programme planning and implementation. Activities integrated into broader systems (for example, existing support mechanisms in the community, formal/non-formal school systems, general health services, social services, etc.) tend to reach more people, are often more sustainable, and also tend to have less social stigma associated with them9.",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T312",
+        "T027",
+        "T344",
+        "T384"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: integration = [Nepali wording recorded in terminology evidence]. The phrase [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused from the supplied unreviewed activity 3.10 candidate; this does not constitute clinical validation. Stigma is rendered as an ordinary social concept, not a diagnosis. The comparative 'more people' became 'many people'. Also, 'non-formal' school systems became 'informal', a distinct educational category. Both differences are repaired; the existing clinical wording is unchanged."
+    },
+    {
+      "id": "FAC-11-0041",
+      "page": "53",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• Addressing the mental health and psychosocial needs of individuals affected by an emergency situation strengthens their ability to access and use services (in all sectors), participate in humanitarian programming, to take care of themselves and their families and community, and to advocate for themselves.",
+      "ne": "• आपत्कालीन परिस्थितिबाट प्रभावित व्यक्तिहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक आवश्यकताहरू सम्बोधन गर्दा सबै क्षेत्रका सेवाहरूमा पहुँच प्राप्त गर्न र तिनको उपयोग गर्न, मानवीय सहायतासम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनमा सहभागी हुन, आफ्नो, आफ्ना परिवार र समुदायको हेरचाह गर्न तथा आफ्ना लागि पैरवी गर्न सक्ने उनीहरूको क्षमता बलियो हुन्छ।",
+      "bt": "• Addressing the mental health and psychosocial needs of people affected by emergency situations strengthens their capacity to gain access to and use services in all sectors, to participate in humanitarian assistance programme planning and implementation, to care for themselves, their families and communities, and to advocate for themselves.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T282",
+        "T296",
+        "T344",
+        "T409",
+        "T410"
+      ],
+      "flags": [],
+      "note": "The draft retains all four capacities strengthened by addressing emergency-affected individuals’ needs, including access to services in all sectors and advocacy for themselves."
+    },
+    {
+      "id": "FAC-11-0042",
+      "page": "53",
+      "loc": "bullet",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "• Mental health and psychosocial well-being shapes how people behave and make decisions. When MHPSS activities are incorporated into wider programming, the MHPSS outcomes and wider outcomes can be mutually reinforcing. For example, when a mother is distressed, it can impact her ability to breastfeed her baby, and have a negative impact on the baby’s nutrition. Early childhood development programmes that incorporate efforts to improve maternal well-being are likely to have additional benefits for child nutrition and development. Given that both poor living conditions and a lack of agency can increase psychological distress, programmes that involve community members in decisions about shelter and camp management are likely to improve living conditions, mental health and psychosocial well-being.",
+      "ne": "• मानसिक स्वास्थ्य र मनोसामाजिक कल्याणले मानिसहरूले कसरी व्यवहार गर्छन् र निर्णय लिन्छन् भन्ने कुरालाई आकार दिन्छन्। व्यापक कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS गतिविधिहरू समावेश गर्दा MHPSS का परिणाम र व्यापक परिणामले एकअर्कालाई सुदृढ बनाउन सक्छन्। उदाहरणका लागि, आमा व्यथामा हुँदा त्यसले आफ्नो शिशुलाई स्तनपान गराउने उनको क्षमतामा असर पार्न सक्छ र शिशुको पोषणमा नकारात्मक प्रभाव पार्न सक्छ। आमाको कल्याण सुधार्ने प्रयासहरू समेटिएका प्रारम्भिक बाल विकासका कार्यक्रमहरूले बालबालिकाको पोषण र विकासमा थप लाभ पुर्‍याउने सम्भावना हुन्छ। बसोबासको कमजोर अवस्था र आफ्ना निर्णय लिन तथा तिनअनुसार काम गर्न सक्ने अवस्थाको अभाव दुवैले मानसिक व्यथा बढाउन सक्ने भएकाले, आश्रय र शिविर व्यवस्थापनसम्बन्धी निर्णयहरूमा समुदायका सदस्यहरूलाई सहभागी गराउने कार्यक्रमहरूले बसोबासको अवस्था, मानसिक स्वास्थ्य र मनोसामाजिक कल्याणमा सुधार ल्याउने सम्भावना हुन्छ।",
+      "bt": "• Mental health and psychosocial well-being shape how people behave and make decisions. When MHPSS activities are included in broader programme planning and implementation, MHPSS outcomes and broader outcomes can strengthen one another. For example, when a mother is in distress, this can affect her ability to breastfeed her infant and can negatively affect the infant's nutrition. Early childhood development programmes that include efforts to improve the mother's well-being are likely to bring additional benefits to children's nutrition and development. Because both poor living conditions and the lack of conditions in which people can make their own decisions and act on them can increase mental distress, programmes that involve community members in decisions concerning shelter and camp management are likely to improve living conditions, mental health and psychosocial well-being.",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T027",
+        "T030",
+        "T037",
+        "T157",
+        "T158",
+        "T274",
+        "T282",
+        "T300",
+        "T328",
+        "T344",
+        "T409",
+        "T410",
+        "T461",
+        "T492"
+      ],
+      "flags": [],
+      "note": "The draft preserves possible effects and likely benefits rather than making them certain, and renders lack of agency as lacking the ability to make decisions and act on them."
+    },
+    {
+      "id": "FAC-11-0043",
+      "page": "53",
+      "loc": "footnote",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "9 Inter-Agency Standing Committee (IASC) (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings. Geneva: IASC. Chapter 1. Introduction. pg.11",
+      "ne": "",
+      "bt": "",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Retain the supplied bibliographic citation unchanged, including 9, IASC, 2007, Chapter 1 and pg.11."
+    },
+    {
+      "id": "FAC-11-0044",
+      "page": "54",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Note for facilitators",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी",
+      "bt": "Note for the facilitator",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0045",
+      "page": "54",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "For workshops with multi sectoral participants, you can group participants from the same sector/cluster or AoR together, e.g., all Health actors in one group, all Child Protection actors in one group, etc..",
+      "ne": "विभिन्न क्षेत्रका सहभागीहरू सम्मिलित कार्यशालाहरूमा तपाईंले एउटै क्षेत्र/क्लस्टर वा AoR का सहभागीहरूलाई एउटै समूहमा राख्न सक्नुहुन्छ; उदाहरणका लागि, स्वास्थ्य क्षेत्रका सम्बद्ध पक्षहरू सबैलाई एउटा समूहमा, बाल संरक्षण क्षेत्रमा कार्यरत पक्षहरू सबैलाई एउटा समूहमा आदि।",
+      "bt": "In workshops involving participants from different sectors, you can put participants from the same sector/cluster or AoR in the same group; for example, all stakeholders from the health sector in one group, all parties working in the child protection sector in one group, etc.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T123",
+        "T145",
+        "T122",
+        "T406",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: workshop = [Nepali wording recorded in terminology evidence]. AoR is retained exactly as supplied."
+    },
+    {
+      "id": "FAC-11-0046",
+      "page": "54",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "For single-sector/cluster/AoR workshops, do Parts 1 and 2 in plenary, as a big group, or in small groups.",
+      "ne": "एउटै क्षेत्र/क्लस्टर/AoR का लागि आयोजित कार्यशालाहरूमा भाग 1 र 2 पूर्ण सत्रमा, ठूलो समूहका रूपमा वा साना समूहहरूमा गर्नुहोस्।",
+      "bt": "In workshops organized for a single sector/cluster/AoR, do Parts 1 and 2 in the plenary session, as a large group or in small groups.",
+      "type": "activity",
+      "terms": [
+        "T296",
+        "T123",
+        "T407",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring terms: workshop = [Nepali wording recorded in terminology evidence]; plenary = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0047",
+      "page": "54",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "For Part 3, review the activities listed as a big group or assign each group 1-2 activities.",
+      "ne": "भाग 3 का लागि ठूलो समूहका रूपमा सूचीबद्ध गतिविधिहरूको समीक्षा गर्नुहोस् वा प्रत्येक समूहलाई 1-2 गतिविधिहरू तोक्नुहोस्।",
+      "bt": "For Part 3, review the listed activities as a large group or assign 1-2 activities to each group.",
+      "type": "activity",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0048",
+      "page": "54",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Participants may consult the checklist of actions for the activities they will be focusing on.",
+      "ne": "सहभागीहरूले आफूले ध्यान केन्द्रित गर्ने गतिविधिहरूका लागि कार्यहरूको जाँचसूची हेर्न सक्छन्।",
+      "bt": "Participants can look at the checklist of actions for the activities they focus on.",
+      "type": "general",
+      "terms": [
+        "T018",
+        "T406"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0049",
+      "page": "54",
+      "loc": "table-head",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Sector/Cluster/AOR",
+      "ne": "क्षेत्र/क्लस्टर/AOR",
+      "bt": "Sector/cluster/AOR",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T123"
+      ],
+      "flags": [],
+      "note": "AOR capitalization is retained exactly as supplied."
+    },
+    {
+      "id": "FAC-11-0050",
+      "page": "54",
+      "loc": "table-head",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "MSP Activities",
+      "ne": "MSP गतिविधिहरू",
+      "bt": "MSP activities",
+      "type": "general",
+      "terms": [
+        "T272"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0051",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Health",
+      "ne": "स्वास्थ्य",
+      "bt": "Health",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0052",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Implement: 3.10 plus any of 3.1, 3.2, 3.3, 3.4, 3.5, 3.7, 3.11, 3.12, 3.14, 4.1, 4.2 Facilitate: 3.13",
+      "ne": "कार्यान्वयन गर्नुहोस्: 3.10 का साथै 3.1, 3.2, 3.3, 3.4, 3.5, 3.7, 3.11, 3.12, 3.14, 4.1, 4.2 मध्ये कुनै पनि गतिविधि।\nसहजीकरण गर्नुहोस्: 3.13।",
+      "bt": "Implement: 3.10 as well as any activity among 3.1, 3.2, 3.3, 3.4, 3.5, 3.7, 3.11, 3.12, 3.14, 4.1, 4.2.\nFacilitate: 3.13.",
+      "type": "activity",
+      "terms": [
+        "T364",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring action labels: implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; facilitate = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0053",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Education",
+      "ne": "शिक्षा",
+      "bt": "Education",
+      "type": "general",
+      "terms": [
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0054",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Implement: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8",
+      "ne": "कार्यान्वयन गर्नुहोस्: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8।",
+      "bt": "Implement: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8.",
+      "type": "activity",
+      "terms": [
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring action label: implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0055",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Protection",
+      "ne": "संरक्षण",
+      "bt": "Protection",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0056",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Implement: 3.1, 3.2, 3.3, 3.4, 3.12, 3.13, 3.14, 4.2 Facilitate: 3.7, 4.1",
+      "ne": "कार्यान्वयन गर्नुहोस्: 3.1, 3.2, 3.3, 3.4, 3.12, 3.13, 3.14, 4.2।\nसहजीकरण गर्नुहोस्: 3.7, 4.1।",
+      "bt": "Implement: 3.1, 3.2, 3.3, 3.4, 3.12, 3.13, 3.14, 4.2.\nFacilitate: 3.7, 4.1.",
+      "type": "activity",
+      "terms": [
+        "T364",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring action labels: implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; facilitate = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0057",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Child Protection",
+      "ne": "बाल संरक्षण",
+      "bt": "Child protection",
+      "type": "general",
+      "terms": [
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0058",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Implement: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.12, 3.13, 3.14, 4.2 Facilitate: 3.10, 4.1",
+      "ne": "कार्यान्वयन गर्नुहोस्: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.12, 3.13, 3.14, 4.2।\nसहजीकरण गर्नुहोस्: 3.10, 4.1।",
+      "bt": "Implement: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.12, 3.13, 3.14, 4.2.\nFacilitate: 3.10, 4.1.",
+      "type": "activity",
+      "terms": [
+        "T364",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring action labels: implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; facilitate = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0059",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Gender-based violence",
+      "ne": "लैङ्गिक हिंसा",
+      "bt": "Gender-based violence",
+      "type": "safety",
+      "terms": [
+        "T010"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed T010 candidate exactly; relevant domain review remains pending."
+    },
+    {
+      "id": "FAC-11-0060",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Implement: 3.1, 3.2, 3.3, 3.4, 3.7, 3.9, 3.11, 3.12, 3.13, 4.2 Facilitate: 3.14",
+      "ne": "कार्यान्वयन गर्नुहोस्: 3.1, 3.2, 3.3, 3.4, 3.7, 3.9, 3.11, 3.12, 3.13, 4.2।\nसहजीकरण गर्नुहोस्: 3.14।",
+      "bt": "Implement: 3.1, 3.2, 3.3, 3.4, 3.7, 3.9, 3.11, 3.12, 3.13, 4.2.\nFacilitate: 3.14.",
+      "type": "activity",
+      "terms": [
+        "T364",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring action labels: implement = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; facilitate = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0061",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Nutrition",
+      "ne": "पोषण",
+      "bt": "Nutrition",
+      "type": "general",
+      "terms": [
+        "T030"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0062",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Implement: 3.3, 3.5, 3.7 Facilitate: 3.1, 3.2, 3.10. 3.14",
+      "ne": "कार्यान्वयन गर्नुहोस्: 3.3, 3.5, 3.7 सहजीकरण गर्नुहोस्: 3.1, 3.2, 3.10. 3.14।",
+      "bt": "Implement: 3.3, 3.5, 3.7 Facilitate: 3.1, 3.2, 3.10. 3.14.",
+      "type": "safety",
+      "terms": [
+        "T364",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The source uses a period between 3.10 and 3.14 rather than the commas used elsewhere; this separator is retained without deciding its intended meaning."
+    },
+    {
+      "id": "FAC-11-0063",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Shelter & Settlements",
+      "ne": "आश्रय तथा बस्ती",
+      "bt": "Shelter and settlements",
+      "type": "general",
+      "terms": [
+        "T301"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0064",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Facilitate: 3.1, 3.2, 3.3, 3.4, 3.6",
+      "ne": "सहजीकरण गर्नुहोस्: 3.1, 3.2, 3.3, 3.4, 3.6।",
+      "bt": "Facilitate: 3.1, 3.2, 3.3, 3.4, 3.6.",
+      "type": "activity",
+      "terms": [
+        "T364"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring action label: facilitate = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0065",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "CCCM",
+      "ne": "CCCM",
+      "bt": "CCCM",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Acronym retained exactly as supplied; no expansion added."
+    },
+    {
+      "id": "FAC-11-0066",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Implement: 3.3, 3.4 Facilitate: 3.1, 3.2, 3.6, 3.9",
+      "ne": "कार्यान्वयन गर्नुहोस्: 3.3, 3.4। सहजीकरण गर्नुहोस्: 3.1, 3.2, 3.6, 3.9।",
+      "bt": "Implement: 3.3, 3.4. Facilitate: 3.1, 3.2, 3.6, 3.9.",
+      "type": "check",
+      "terms": [
+        "T364",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: facilitation = [Nepali wording recorded in terminology evidence]. The distinction between implementation and facilitation is retained."
+    },
+    {
+      "id": "FAC-11-0067",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "WASH",
+      "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH)",
+      "bt": "Drinking water, sanitation and hygiene (WASH)",
+      "type": "general",
+      "terms": [
+        "T186"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0068",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Facilitate: 3.1, 3.2, 3.3, 3.4, 3.6, 3.9, 3.14",
+      "ne": "सहजीकरण गर्नुहोस्: 3.1, 3.2, 3.3, 3.4, 3.6, 3.9, 3.14।",
+      "bt": "Facilitate: 3.1, 3.2, 3.3, 3.4, 3.6, 3.9, 3.14.",
+      "type": "check",
+      "terms": [
+        "T364"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: facilitation = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0069",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Mine Action",
+      "ne": "बारुदी सुरुङ सम्बन्धी कार्य",
+      "bt": "Landmine-related work",
+      "type": "general",
+      "terms": [
+        "T011"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0070",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Implement: 3.3, 3.4, 3.13 Facilitate: 3.1, 3.2, 3.9, 3.13",
+      "ne": "कार्यान्वयन गर्नुहोस्: 3.3, 3.4, 3.13। सहजीकरण गर्नुहोस्: 3.1, 3.2, 3.9, 3.13।",
+      "bt": "Implement: 3.3, 3.4, 3.13. Facilitate: 3.1, 3.2, 3.9, 3.13.",
+      "type": "check",
+      "terms": [
+        "T364",
+        "T379"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: facilitation = [Nepali wording recorded in terminology evidence]. Code 3.13 is retained under both actions, as supplied."
+    },
+    {
+      "id": "FAC-11-0071",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Food Security & Livelihoods",
+      "ne": "खाद्य सुरक्षा तथा जीविकोपार्जन",
+      "bt": "Food security and livelihoods",
+      "type": "general",
+      "terms": [
+        "T136"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0072",
+      "page": "54",
+      "loc": "table-cell",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Facilitate: 3.1, 3.2, 3.3, 3.14",
+      "ne": "सहजीकरण गर्नुहोस्: 3.1, 3.2, 3.3, 3.14।",
+      "bt": "Facilitate: 3.1, 3.2, 3.3, 3.14.",
+      "type": "check",
+      "terms": [
+        "T364"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: facilitation = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0073",
+      "page": "54",
+      "loc": "heading",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Online facilitation",
+      "ne": "अनलाइन सहजीकरण",
+      "bt": "Online facilitation",
+      "type": "general",
+      "terms": [
+        "T365",
+        "T403"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: facilitation = [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-11-0074",
+      "page": "54",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Explain that there are three steps to the exercise and you will be sharing information about each step in 15 minute intervals.",
+      "ne": "यस अभ्यासमा तीन चरण छन् र तपाईंले प्रत्येक चरणबारे 15 मिनेटको अन्तरालमा जानकारी दिनुहुनेछ भनी स्पष्ट पार्नुहोस्।",
+      "bt": "Clarify that this exercise has three stages and that you will provide information about each stage at 15-minute intervals.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-11-0075",
+      "page": "54",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "Split participants into breakout rooms and ask each group to prepare a short PowerPoint presentation (maximum 2 slides).",
+      "ne": "सहभागीहरूलाई छुट्टाछुट्टै समूह छलफल कक्ष (breakout rooms) मा विभाजन गर्नुहोस् र प्रत्येक समूहलाई छोटो PowerPoint प्रस्तुति (अधिकतम 2 स्लाइड) तयार गर्न भन्नुहोस्।",
+      "bt": "Divide the participants into separate group discussion rooms (breakout rooms) and ask each group to prepare a short PowerPoint presentation (a maximum of 2 slides).",
+      "type": "check",
+      "terms": [
+        "T406",
+        "T427"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: breakout rooms = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. English is retained at first occurrence to identify the platform feature."
+    },
+    {
+      "id": "FAC-11-0076",
+      "page": "54",
+      "loc": "para",
+      "section": "Integrating MHPSS across sectors/clusters/AoRs",
+      "en": "If your platform allows, you can use the broadcast function to share the instructions for steps 2 and 3 with the breakout rooms, and then join each breakout room to ensure they’ve understood the instructions.",
+      "ne": "तपाईंले प्रयोग गर्ने प्लेटफर्मले अनुमति दिएमा, चरण 2 र 3 का निर्देशनहरू छुट्टाछुट्टै समूह छलफल कक्षमा पठाउन प्रसारण सुविधा प्रयोग गर्न सक्नुहुन्छ र त्यसपछि प्रत्येक समूह छलफल कक्षमा प्रवेश गरी सहभागीहरूले निर्देशनहरू बुझेका छन् भन्ने सुनिश्चित गर्न सक्नुहुन्छ।",
+      "bt": "If the platform you use allows it, you can use the broadcast feature to send the instructions for stages 2 and 3 to the separate group discussion rooms and then enter each group discussion room to ensure that the participants have understood the instructions.",
+      "type": "check",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed recurring term: breakout rooms = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Both broadcasting instructions and subsequently joining each room remain conditional on platform capability."
+    }
+  ]
+}

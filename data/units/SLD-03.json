@@ -1,0 +1,1419 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "SLD",
+  "unit_id": "SLD-03",
+  "unit_title": "Mental Health and Psychosocial Support in Humanitarian Crises",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MHPSS MSP MultiSectoral Workshop 240906.pptx",
+  "source_sha256": "88af41ad1cc528d79d61958ff9a89d33d5963be5304ea9d9988a94acb7db81ef",
+  "pages": "12-19",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:07:53+05:45",
+  "coverage": {
+    "source_words": 351,
+    "row_words": 351,
+    "skipped": [
+      "Slide 12: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 12: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 12: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 12: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 13: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 14: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 15: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 15: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 16: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 17: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 17: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows.",
+      "Slide 18: image-content-unverified: Exact image text is not transcribed; OCR inventory is indicative only, not exact source rows."
+    ]
+  },
+  "rows": [
+    {
+      "id": "SLD-03-0001",
+      "page": "12",
+      "loc": "slide-title",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Small Group Discussion",
+      "ne": "सानो समूहमा छलफल",
+      "bt": "Discussion in a small group",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0002",
+      "page": "12",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "In your group, discuss and answer the following question.",
+      "ne": "आफ्नो समूहमा निम्न प्रश्नबारे छलफल गरी उत्तर दिनुहोस्।",
+      "bt": "Discuss the following question in your group and answer it.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0003",
+      "page": "12",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Make a brief presentation on your flip chart and select someone to present it.",
+      "ne": "आफ्नो फ्लिप चार्टमा छोटो प्रस्तुति तयार गर्नुहोस् र त्यसलाई प्रस्तुत गर्न एक जना छान्नुहोस्।",
+      "bt": "Prepare a short presentation on your flip chart and choose one person to present it.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0004",
+      "page": "12",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "What can people, organizations, and governments in different areas (health, education, social welfare, etc.) do at each layer of this model to help people with their mental health and psychosocial needs?",
+      "ne": "विभिन्न क्षेत्रका (स्वास्थ्य, शिक्षा, सामाजिक कल्याण आदि) व्यक्ति, संस्था र सरकारहरूले मानिसहरूको मानसिक स्वास्थ्य तथा मनोसामाजिक आवश्यकता पूरा गर्न सहयोग पुर्‍याउन यस ढाँचाको प्रत्येक तहमा के गर्न सक्छन्?",
+      "bt": "What can individuals, organizations and governments from various sectors (health, education, social welfare, etc.) do at each level of this framework to help meet people's mental health and psychosocial needs?",
+      "type": "check",
+      "terms": [
+        "T027",
+        "T028",
+        "T157",
+        "T410"
+      ],
+      "flags": [],
+      "note": "An ordinary group discussion question, not a validated assessment item. T157 is a supplied unreviewed candidate."
+    },
+    {
+      "id": "SLD-03-0005",
+      "page": "12",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "If possible, include examples from your own experience.",
+      "ne": "सम्भव भएमा, आफ्नै अनुभवका उदाहरणहरू समावेश गर्नुहोस्।",
+      "bt": "If possible, include examples from your own experience.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0006",
+      "page": "12",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "10 min",
+      "ne": "10 मिनेट",
+      "bt": "10 minutes",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0007",
+      "page": "13",
+      "loc": "slide-title",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Mental Health and Psychosocial Support",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग",
+      "bt": "Mental health and psychosocial support",
+      "type": "general",
+      "terms": [
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses T001 verbatim, cited to MAN PDF p6 and PRIOR-SUM-29OCT2026 p.1 row 1; an unreviewed candidate."
+    },
+    {
+      "id": "SLD-03-0008",
+      "page": "13",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Remember:",
+      "ne": "सम्झनुहोस्।",
+      "bt": "Remember.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0009",
+      "page": "13",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Composite term “any type of support that aims to protect or promote psychosocial well-being and/or prevent or treat mental disorders”",
+      "ne": "संयुक्त पद: “मनोसामाजिक कल्याणको संरक्षण वा प्रवर्धन गर्ने र/वा मानसिक विकारहरूको रोकथाम वा उपचार गर्ने उद्देश्य भएको जुनसुकै प्रकारको सहयोग”।",
+      "bt": "Combined term: “Any type of assistance that has the purpose of protecting or promoting psychosocial well-being and/or preventing or treating mental disorders.”",
+      "type": "safety",
+      "terms": [
+        "T005",
+        "T328",
+        "T410",
+        "T474"
+      ],
+      "flags": [],
+      "note": "Preserves any type of support, its intended aims, both alternatives within each aim, and the and/or relationship between the aims."
+    },
+    {
+      "id": "SLD-03-0010",
+      "page": "13",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "IASC (2007).",
+      "ne": "IASC (2007).",
+      "bt": "IASC (2007).",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0011",
+      "page": "13",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings",
+      "ne": "आपत्कालीन परिस्थितिमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगसम्बन्धी IASC निर्देशिकाहरू",
+      "bt": "IASC guidelines on mental health and psychosocial support in emergency situations",
+      "type": "general",
+      "terms": [
+        "T224",
+        "T001",
+        "T086",
+        "T410"
+      ],
+      "flags": [],
+      "note": "T001 reuses the supplied unreviewed prior candidate. This is a draft translation of the document title, not a verified official Nepali title."
+    },
+    {
+      "id": "SLD-03-0012",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Example of the MHPSS Intervention Pyramid",
+      "ne": "MHPSS हस्तक्षेप पिरामिडको उदाहरण",
+      "bt": "Example of the MHPSS intervention pyramid",
+      "type": "general",
+      "terms": [
+        "T153",
+        "T412"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0013",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Specialized services",
+      "ne": "विशेषीकृत सेवाहरू",
+      "bt": "Specialized services",
+      "type": "general",
+      "terms": [
+        "T178"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0014",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Focused non-specialized supports",
+      "ne": "केन्द्रित गैर-विशेषीकृत सहयोग",
+      "bt": "Focused non-specialized support",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Drafted as an organizational support-layer label, not a clinical intervention. Proposed glossary entry: focused non-specialized supports = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]-[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; terminology review pending."
+    },
+    {
+      "id": "SLD-03-0015",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Community and family supports",
+      "ne": "समुदाय र परिवारबाट प्राप्त हुने सहयोग",
+      "bt": "Support received from the community and family",
+      "type": "general",
+      "terms": [
+        "T126",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0016",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Social consideration in basic services and security",
+      "ne": "आधारभूत सेवा तथा सुरक्षामा सामाजिक पक्षको विचार",
+      "bt": "Consideration of social aspects in basic services and security",
+      "type": "general",
+      "terms": [
+        "T176"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0017",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Advocacy for basic services that are safe, socially appropriate and protect dignity.",
+      "ne": "सुरक्षित, सामाजिक रूपमा उपयुक्त र मर्यादाको संरक्षण गर्ने आधारभूत सेवाहरूका लागि पैरवी।",
+      "bt": "Advocacy for basic services that are safe, socially appropriate and protect dignity.",
+      "type": "general",
+      "terms": [
+        "T191"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0018",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Activating social networks.",
+      "ne": "सामाजिक सञ्जालहरूलाई सक्रिय बनाउने।",
+      "bt": "Activating social networks.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0019",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Supportive child-friendly spaces.",
+      "ne": "सहयोग प्रदान गर्ने बालमैत्री स्थलहरू।",
+      "bt": "Child-friendly spaces that provide support.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0020",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Communal traditional supports.",
+      "ne": "सामुदायिक परम्परागत सहयोग।",
+      "bt": "Traditional community support.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0021",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Basic mental health care by primary health care doctors.",
+      "ne": "प्राथमिक स्वास्थ्य सेवाका चिकित्सकहरूद्वारा प्रदान गरिने आधारभूत मानसिक स्वास्थ्य हेरचाह।",
+      "bt": "Basic mental health care provided by primary health care physicians.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157"
+      ],
+      "flags": [],
+      "note": "Preserves the basic level of care and primary health care doctors as the providers."
+    },
+    {
+      "id": "SLD-03-0022",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Basic emotional and practical support by community workers.",
+      "ne": "सामुदायिक कार्यकर्ताहरूले प्रदान गर्ने आधारभूत भावनात्मक तथा व्यावहारिक सहयोग।",
+      "bt": "Basic emotional and practical support provided by community workers.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Drafted as ordinary supportive assistance, not as a clinical treatment or named intervention."
+    },
+    {
+      "id": "SLD-03-0023",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Mental health care by mental health specialists (psychiatric nurses, psychologists, psychiatrists, etc.).",
+      "ne": "मानसिक स्वास्थ्य विशेषज्ञहरू (मनोचिकित्सकीय नर्सहरू, मनोवैज्ञानिकहरू, मनोचिकित्सकहरू आदि) द्वारा प्रदान गरिने मानसिक स्वास्थ्य हेरचाह।",
+      "bt": "Mental health care provided by mental health specialists (psychiatric nurses, psychologists, psychiatrists, etc.).",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T157",
+        "T264",
+        "T491",
+        "T497"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Preserves the distinct professional roles and the non-exhaustive list; no supplied glossary candidate covers psychiatric nurses."
+    },
+    {
+      "id": "SLD-03-0024",
+      "page": "14",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Examples:",
+      "ne": "उदाहरणहरू:",
+      "bt": "Examples:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0025",
+      "page": "15",
+      "loc": "slide-title",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Humanitarian Cluster System",
+      "ne": "मानवीय क्लस्टर प्रणाली",
+      "bt": "Humanitarian cluster system",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T377"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0026",
+      "page": "15",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Background – duplication, gaps, ineffective",
+      "ne": "पृष्ठभूमि – दोहोरोपन, कमीहरू, प्रभावहीनता",
+      "bt": "Background – duplication, gaps, ineffectiveness",
+      "type": "general",
+      "terms": [
+        "T232",
+        "T360"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0027",
+      "page": "15",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Humanitarian reform to:",
+      "ne": "निम्न उद्देश्यका लागि मानवीय सहायता कार्यमा सुधार:",
+      "bt": "Improvement in humanitarian assistance work for the following purposes:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0028",
+      "page": "15",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Improve coordination",
+      "ne": "समन्वय सुधार गर्ने।",
+      "bt": "Improving coordination.",
+      "type": "general",
+      "terms": [
+        "T349"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term coordination has no standalone entry in the supplied glossary. Proposed form: [Nepali wording recorded in terminology evidence], consistent with the supplied activity names; the frozen glossary is unchanged."
+    },
+    {
+      "id": "SLD-03-0029",
+      "page": "15",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Provide leadership",
+      "ne": "नेतृत्व प्रदान गर्ने।",
+      "bt": "Providing leadership.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0030",
+      "page": "15",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Improve accountability",
+      "ne": "जवाफदेहिता सुधार गर्ने।",
+      "bt": "Improving accountability.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0031",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Humanitarian Cluster System",
+      "ne": "मानवीय क्लस्टर प्रणाली",
+      "bt": "Humanitarian cluster system",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T377"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0032",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Shelter & settlements",
+      "ne": "आश्रय तथा बस्ती",
+      "bt": "Shelter and settlement",
+      "type": "general",
+      "terms": [
+        "T301"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0033",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "IFRC/UNHCR",
+      "ne": "IFRC/UNHCR",
+      "bt": "IFRC/UNHCR",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0034",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Protection",
+      "ne": "संरक्षण",
+      "bt": "Protection",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0035",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "UNHCR",
+      "ne": "UNHCR",
+      "bt": "UNHCR",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0036",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Nutrition",
+      "ne": "पोषण",
+      "bt": "Nutrition",
+      "type": "general",
+      "terms": [
+        "T030"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0037",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "UNICEF",
+      "ne": "UNICEF",
+      "bt": "UNICEF",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0038",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Child Protection",
+      "ne": "बाल संरक्षण",
+      "bt": "Child protection",
+      "type": "general",
+      "terms": [
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0039",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "UNICEF",
+      "ne": "UNICEF",
+      "bt": "UNICEF",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0040",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "GBV",
+      "ne": "GBV",
+      "bt": "GBV",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0041",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "UNFPA",
+      "ne": "UNFPA",
+      "bt": "UNFPA",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0042",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Mine action",
+      "ne": "बारुदी सुरुङ सम्बन्धी कार्य",
+      "bt": "Work related to landmines",
+      "type": "safety",
+      "terms": [
+        "T011"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen T011 form denotes work related to landmines, whereas Mine action can also encompass explosive remnants of war and associated activities; the narrower wording is retained unchanged. bt-divergence: Frozen T011 denotes work related to landmines, narrowing Mine action, which also encompasses explosive remnants of war and associated activities. The frozen form is retained unchanged."
+    },
+    {
+      "id": "SLD-03-0043",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "UNMAS",
+      "ne": "UNMAS",
+      "bt": "UNMAS",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0044",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Health",
+      "ne": "स्वास्थ्य",
+      "bt": "Health",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0045",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "WHO",
+      "ne": "WHO",
+      "bt": "WHO",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0046",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Food security & livelihoods",
+      "ne": "खाद्य सुरक्षा तथा जीविकोपार्जन",
+      "bt": "Food security and livelihoods",
+      "type": "general",
+      "terms": [
+        "T136"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0047",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "WFP & FAO",
+      "ne": "WFP & FAO",
+      "bt": "WFP & FAO",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0048",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Logistics",
+      "ne": "रसद व्यवस्थापन",
+      "bt": "Logistics management",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary candidate for Logistics: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Not added to the frozen glossary; terminology review pending."
+    },
+    {
+      "id": "SLD-03-0049",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "WFP",
+      "ne": "WFP",
+      "bt": "WFP",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0050",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Early Recovery",
+      "ne": "प्रारम्भिक पुनर्बहाली",
+      "bt": "Early recovery",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary candidate for Early Recovery: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Not added to the frozen glossary; terminology review pending."
+    },
+    {
+      "id": "SLD-03-0051",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "UNDP",
+      "ne": "UNDP",
+      "bt": "UNDP",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0052",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Education",
+      "ne": "शिक्षा",
+      "bt": "Education",
+      "type": "general",
+      "terms": [
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0053",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "UNICEF & Save the Children",
+      "ne": "UNICEF & Save the Children",
+      "bt": "UNICEF & Save the Children",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Organization names and the source separator are retained."
+    },
+    {
+      "id": "SLD-03-0054",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Emergency Telecommunications",
+      "ne": "आपत्कालीन दूरसञ्चार",
+      "bt": "Emergency telecommunications",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary candidate for Emergency Telecommunications: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Not added to the frozen glossary; terminology review pending."
+    },
+    {
+      "id": "SLD-03-0055",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "WFP",
+      "ne": "WFP",
+      "bt": "WFP",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0056",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "CCCM",
+      "ne": "CCCM",
+      "bt": "CCCM",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0057",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "IOM/UNHCR",
+      "ne": "IOM/UNHCR",
+      "bt": "IOM/UNHCR",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0058",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "WASH",
+      "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH)",
+      "bt": "Drinking water, sanitation and hygiene (WASH)",
+      "type": "general",
+      "terms": [
+        "T186"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0059",
+      "page": "16",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "UNICEF",
+      "ne": "UNICEF",
+      "bt": "UNICEF",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0060",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Humanitarian Cluster System",
+      "ne": "मानवीय क्लस्टर प्रणाली",
+      "bt": "Humanitarian cluster system",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T377"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0061",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Shelter & settlements",
+      "ne": "आश्रय तथा बस्ती",
+      "bt": "Shelter and settlements",
+      "type": "general",
+      "terms": [
+        "T301"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0062",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Protection",
+      "ne": "संरक्षण",
+      "bt": "Protection",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0063",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Nutrition",
+      "ne": "पोषण",
+      "bt": "Nutrition",
+      "type": "general",
+      "terms": [
+        "T030"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0064",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Child Protection",
+      "ne": "बाल संरक्षण",
+      "bt": "Child protection",
+      "type": "general",
+      "terms": [
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0065",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "GBV",
+      "ne": "GBV",
+      "bt": "GBV",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Source acronym retained unchanged."
+    },
+    {
+      "id": "SLD-03-0066",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Mine action",
+      "ne": "बारुदी सुरुङ सम्बन्धी कार्य",
+      "bt": "Work related to landmines",
+      "type": "safety",
+      "terms": [
+        "T011"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen T011 form denotes work related to landmines, whereas Mine action can also encompass explosive remnants of war and associated activities; the narrower wording is retained unchanged. bt-divergence: Frozen T011 denotes work related to landmines, narrowing Mine action, which also encompasses explosive remnants of war and associated activities. The frozen form is retained unchanged."
+    },
+    {
+      "id": "SLD-03-0067",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Health",
+      "ne": "स्वास्थ्य",
+      "bt": "Health",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0068",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Food security & livelihoods",
+      "ne": "खाद्य सुरक्षा तथा जीविकोपार्जन",
+      "bt": "Food security and livelihoods",
+      "type": "general",
+      "terms": [
+        "T136"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0069",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Logistics",
+      "ne": "रसद व्यवस्थापन",
+      "bt": "Logistics management",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary entry: Logistics = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Sector terminology review pending; frozen glossary unchanged."
+    },
+    {
+      "id": "SLD-03-0070",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Early Recovery",
+      "ne": "प्रारम्भिक पुनर्लाभ",
+      "bt": "Early recovery",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary entry: Early Recovery = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Sector terminology review pending; frozen glossary unchanged."
+    },
+    {
+      "id": "SLD-03-0071",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Education",
+      "ne": "शिक्षा",
+      "bt": "Education",
+      "type": "general",
+      "terms": [
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0072",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Emergency Telecommunications",
+      "ne": "आपत्कालीन दूरसञ्चार",
+      "bt": "Emergency telecommunications",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed glossary entry: Emergency Telecommunications = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]. Sector terminology review pending; frozen glossary unchanged."
+    },
+    {
+      "id": "SLD-03-0073",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "CCCM",
+      "ne": "CCCM",
+      "bt": "CCCM",
+      "type": "keep",
+      "terms": [],
+      "flags": [],
+      "note": "Source acronym retained unchanged."
+    },
+    {
+      "id": "SLD-03-0074",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "WASH",
+      "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH)",
+      "bt": "Drinking water, sanitation and hygiene (WASH)",
+      "type": "safety",
+      "terms": [
+        "T186"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen T186 expansion specifies drinking water, narrowing the water component of WASH; the required wording and acronym are retained unchanged. bt-divergence: Frozen T186 specifies drinking water, narrowing the water component of WASH. The frozen form and acronym are retained unchanged."
+    },
+    {
+      "id": "SLD-03-0075",
+      "page": "17",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Where does your work fit",
+      "ne": "तपाईंको काम कहाँ समावेश हुन्छ?",
+      "bt": "Where is your work included?",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0076",
+      "page": "18",
+      "loc": "slide-title",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "What clusters/sectors/AORs typically contribute to the MHPSS response?",
+      "ne": "सामान्यतया कुन-कुन क्लस्टर/क्षेत्र/AORs ले MHPSS प्रतिकार्यमा योगदान दिन्छन्?",
+      "bt": "Which clusters/sectors/AORs generally contribute to the MHPSS response?",
+      "type": "activity",
+      "terms": [
+        "T124",
+        "T296",
+        "T161"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "AORs retained as supplied. Proposed glossary entry: Areas of Responsibility (AORs) = [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] (AORs), subject to confirmation of the source expansion and terminology review; frozen glossary unchanged."
+    },
+    {
+      "id": "SLD-03-0077",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Health",
+      "ne": "स्वास्थ्य",
+      "bt": "Health",
+      "type": "general",
+      "terms": [
+        "T027"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0078",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Protection",
+      "ne": "संरक्षण",
+      "bt": "Protection",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0079",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Child Protection",
+      "ne": "बाल संरक्षण",
+      "bt": "Child protection",
+      "type": "general",
+      "terms": [
+        "T036"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0080",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Gender-Based Violence",
+      "ne": "लैङ्गिक हिंसा",
+      "bt": "Gender-based violence",
+      "type": "safety",
+      "terms": [
+        "T010"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed terminology candidate; safety terminology review pending."
+    },
+    {
+      "id": "SLD-03-0081",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Education",
+      "ne": "शिक्षा",
+      "bt": "Education",
+      "type": "general",
+      "terms": [
+        "T028"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0082",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Mine action",
+      "ne": "बारुदी सुरुङ सम्बन्धी कार्य",
+      "bt": "Work related to landmines",
+      "type": "safety",
+      "terms": [
+        "T011"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen T011 form denotes work related to landmines, whereas Mine action can also encompass explosive remnants of war and associated activities; the narrower wording is retained unchanged. bt-divergence: Frozen T011 denotes work related to landmines, narrowing Mine action, which also encompasses explosive remnants of war and associated activities. The frozen form is retained unchanged."
+    },
+    {
+      "id": "SLD-03-0083",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Nutrition",
+      "ne": "पोषण",
+      "bt": "Nutrition",
+      "type": "general",
+      "terms": [
+        "T030"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0084",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Camp Coordination & Camp Management (CCCM)",
+      "ne": "शिविर समन्वय तथा शिविर व्यवस्थापन (CCCM)",
+      "bt": "Camp coordination and camp management (CCCM)",
+      "type": "general",
+      "terms": [
+        "T200",
+        "T349"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0085",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Shelter & Settlements",
+      "ne": "आश्रय तथा बस्ती",
+      "bt": "Shelter and settlements",
+      "type": "general",
+      "terms": [
+        "T301"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0086",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Water, Sanitation & Hygiene (WASH)",
+      "ne": "खानेपानी, सरसफाइ तथा स्वच्छता (WASH)",
+      "bt": "Drinking water, sanitation and hygiene (WASH)",
+      "type": "safety",
+      "terms": [
+        "T186"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The source says Water, while the frozen T186 form specifies drinking water and therefore narrows that component; the required wording and acronym are retained unchanged. bt-divergence: The source specifies Water, whereas frozen T186 specifies drinking water, narrowing that component. The frozen form and acronym are retained unchanged."
+    },
+    {
+      "id": "SLD-03-0087",
+      "page": "18",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Food Security & Livelihoods (FSL)",
+      "ne": "खाद्य सुरक्षा तथा जीविकोपार्जन (FSL)",
+      "bt": "Food security and livelihoods (FSL)",
+      "type": "general",
+      "terms": [
+        "T136"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0088",
+      "page": "19",
+      "loc": "slide-title",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Review: Module Learning Objectives",
+      "ne": "पुनरावलोकन: मोड्युलका सिकाइ उद्देश्यहरू",
+      "bt": "Review: Learning objectives of the module",
+      "type": "general",
+      "terms": [
+        "T391",
+        "T399"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "SLD-03-0089",
+      "page": "19",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Define mental health and psychosocial wellbeing",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणको परिभाषा दिनुहोस्।",
+      "bt": "Define mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed candidates T157 and T005; terminology review pending."
+    },
+    {
+      "id": "SLD-03-0090",
+      "page": "19",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Understand the determinants of mental health and psychosocial well-being",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याण निर्धारण गर्ने कारकहरू बुझ्नुहोस्।",
+      "bt": "Understand the factors that determine mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed candidates T157 and T005. Determinants is rendered as ordinary explanatory wording, not a new clinical term."
+    },
+    {
+      "id": "SLD-03-0091",
+      "page": "19",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Describe how humanitarian crises impact mental health and psychosocial wellbeing",
+      "ne": "मानवीय सङ्कटहरूले मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा कसरी प्रभाव पार्छन् भन्ने वर्णन गर्नुहोस्।",
+      "bt": "Describe how humanitarian crises affect mental health and psychosocial well-being.",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T378",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed candidates T157 and T005; terminology review pending."
+    },
+    {
+      "id": "SLD-03-0092",
+      "page": "19",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Define mental health and psychosocial support (MHPSS)",
+      "ne": "मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) को परिभाषा दिनुहोस्।",
+      "bt": "Define mental health and psychosocial support (MHPSS).",
+      "type": "check",
+      "terms": [
+        "T001",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Reuses T001 verbatim from the supplied cited unreviewed candidate; terminology review pending."
+    },
+    {
+      "id": "SLD-03-0093",
+      "page": "19",
+      "loc": "slide-body",
+      "section": "Mental Health and Psychosocial Support in Humanitarian Crises",
+      "en": "Understand the humanitarian cluster system",
+      "ne": "मानवीय क्लस्टर प्रणाली बुझ्नुहोस्।",
+      "bt": "Understand the humanitarian cluster system.",
+      "type": "general",
+      "terms": [
+        "T123",
+        "T377"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

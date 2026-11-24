@@ -1,0 +1,433 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "MAN",
+  "unit_id": "MAN-15",
+  "unit_title": "Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+  "phase": "B",
+  "source_file": "01 Main MSP Manual/IASC MHPSS Minimum Service Package (English).pdf",
+  "source_sha256": "6af195f8e1bd9e412de13da3ccb450fc8643790db9096c921065ffff23e9b431",
+  "pages": "49-51",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T22:42:38+05:45",
+  "coverage": {
+    "source_words": 454,
+    "row_words": 454,
+    "skipped": [
+      "PDF p.50: running footer/page number removed: Mental Health and Psychosocial Support Minimum Service Package 45",
+      "PDF p.51: running footer/page number removed: 46 Mental Health and Psychosocial Support Minimum Service Package"
+    ]
+  },
+  "rows": [
+    {
+      "id": "MAN-15-0001",
+      "page": "49",
+      "loc": "heading",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "SECTION 3",
+      "ne": "खण्ड 3",
+      "bt": "Section 3",
+      "type": "activity",
+      "terms": [
+        "T422"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-15-0002",
+      "page": "49",
+      "loc": "heading",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "MHPSS PROGRAMME ACTIVITIES",
+      "ne": "MHPSS कार्यक्रमगत गतिविधिहरू",
+      "bt": "MHPSS programmatic activities",
+      "type": "activity",
+      "terms": [
+        "T167",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-15-0003",
+      "page": "50",
+      "loc": "heading",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Orient humanitarian actors and community members on MHPSS",
+      "ne": "मानवीय कार्यमा संलग्न पक्षहरू र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने।",
+      "bt": "Orient parties involved in humanitarian work and community members on MHPSS.",
+      "type": "general",
+      "terms": [
+        "T147",
+        "T014",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-15-0004",
+      "page": "50",
+      "loc": "heading",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "ne": "3.1 मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने र MHPSS सम्बन्धी विचारणीय पक्ष तथा कार्यका लागि पैरवी गर्ने।",
+      "bt": "3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS-related considerations and action.",
+      "type": "activity",
+      "terms": [
+        "T098",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate verbatim, with the source code and sentence-ending punctuation."
+    },
+    {
+      "id": "MAN-15-0005",
+      "page": "50",
+      "loc": "para",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "MHPSS orientation and advocacy can influence different humanitarian actors to take MHPSS considerations into account, thereby promoting and protecting mental health and psychosocial well-being.",
+      "ne": "MHPSS सम्बन्धी अभिमुखीकरण र पैरवीले मानवीय कार्यमा संलग्न विभिन्न पक्षहरूलाई MHPSS सम्बन्धी विचारणीय पक्षलाई ध्यानमा राख्न प्रभावित गर्न सक्छन्, जसबाट मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणको प्रवर्द्धन र संरक्षण हुन्छ।",
+      "bt": "MHPSS-related orientation and advocacy can influence various parties involved in humanitarian work to take MHPSS-related considerations into account, thereby promoting and protecting mental health and psychosocial well-being.",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T157",
+        "T005",
+        "T191",
+        "T328",
+        "T410"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Clinical phrases reuse the supplied unreviewed candidates T157 and T005. A standalone glossary entry for advocacy is missing; propose [Nepali wording recorded in terminology evidence], as already used within T098."
+    },
+    {
+      "id": "MAN-15-0006",
+      "page": "50",
+      "loc": "para",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "This includes delivering aid in a compassionate manner that promotes dignity, autonomy, safety, self-efficacy and social support while minimizing psychological distress.",
+      "ne": "यसमा मानसिक व्यथा न्यून गर्दै मर्यादा, स्वायत्तता, सुरक्षा, आत्म-प्रभावकारिता र सामाजिक सहयोगलाई प्रवर्धन गर्ने गरी सहानुभूतिपूर्ण ढङ्गले सहायता प्रदान गर्नु समावेश छ।",
+      "bt": "This includes providing assistance in a compassionate manner so as to minimize mental distress while promoting dignity, autonomy, safety, self-efficacy and social support.",
+      "type": "safety",
+      "terms": [
+        "T492"
+      ],
+      "flags": [],
+      "note": "Unvalidated Nepali draft; self-efficacy is retained as a distinct concept rather than equated with autonomy."
+    },
+    {
+      "id": "MAN-15-0007",
+      "page": "50",
+      "loc": "para",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Humanitarian actors and community members should be informed about the importance of integrating MHPSS into the emergency response activities of different sectors, along with expected outcomes and relevant considerations (see also “Who should implement MSP activities?”).",
+      "ne": "मानवीय कार्यमा संलग्न पक्षहरू र समुदायका सदस्यलाई विभिन्न क्षेत्रका आपत्कालीन प्रतिकार्यका गतिविधिहरूमा MHPSS एकीकृत गर्नुको महत्त्वका साथै अपेक्षित नतिजा र सान्दर्भिक विचारणीय पक्षबारे जानकारी दिनु उचित हुन्छ (“MSP गतिविधिहरू कसले कार्यान्वयन गर्नुपर्छ?” पनि हेर्नुहोस्)।",
+      "bt": "It is appropriate to inform actors involved in humanitarian work and community members about the importance of integrating MHPSS into emergency response activities across different sectors, as well as the expected outcomes and relevant considerations (see also “Who should implement MSP activities?”).",
+      "type": "general",
+      "terms": [
+        "T147",
+        "T132",
+        "T091",
+        "T272",
+        "T296",
+        "T344",
+        "T379"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation strengthens the main recommendation from 'should be informed' to 'must be informed'. The revision makes its advisory force explicit. The recommendation that actors and community members should be informed is weakened to a statement that informing them is appropriate."
+    },
+    {
+      "id": "MAN-15-0008",
+      "page": "50",
+      "loc": "para",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "MHPSS orientations and advocacy can help decision-makers to recognize the value of MHPSS and can lead to increased resources, including funding allocations.",
+      "ne": "MHPSS सम्बन्धी अभिमुखीकरण र पैरवीले निर्णयकर्तालाई MHPSS को महत्त्व बुझ्न मद्दत गर्न सक्छन् र यसबाट बजेट विनियोजनलगायत स्रोतहरूमा वृद्धि हुन सक्छ।",
+      "bt": "Orientation and advocacy related to MHPSS can help decision-makers understand the importance of MHPSS, and this may lead to an increase in resources, including budget allocations.",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T191",
+        "T217"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Standalone glossary entries are missing for advocacy and decision-makers; propose [Nepali wording recorded in terminology evidence] and [Nepali wording recorded in terminology evidence] respectively. The advocacy proposal follows the wording already supplied within T098. The original Nepali and back-translation present increased resources as a separate possibility rather than an outcome that orientation and advocacy can lead to. The revision restores that causal connection."
+    },
+    {
+      "id": "MAN-15-0009",
+      "page": "50",
+      "loc": "para",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Carefully planning and coordinating orientation and advocacy efforts can help to ensure consistent messaging and can amplify effectiveness (see MSP activity 1.1).",
+      "ne": "अभिमुखीकरण र पैरवीका प्रयासहरूको सावधानीपूर्वक योजना र समन्वय गर्नाले सन्देशहरूमा एकरूपता सुनिश्चित गर्न मद्दत पुग्न सक्छ र प्रभावकारिता बढ्न सक्छ (MSP गतिविधि 1.1 हेर्नुहोस्)।",
+      "bt": "Careful planning and coordination of orientation and advocacy efforts can help ensure consistency in messages and can increase effectiveness (see MSP activity 1.1).",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T091",
+        "T191"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "A standalone glossary entry for advocacy is missing; propose [Nepali wording recorded in terminology evidence], following T098."
+    },
+    {
+      "id": "MAN-15-0010",
+      "page": "51",
+      "loc": "heading",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "ACTIVITY",
+      "ne": "गतिविधि",
+      "bt": "Activity",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-15-0011",
+      "page": "51",
+      "loc": "heading",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "ne": "मानवीय कर्ता र समुदायका सदस्यलाई MHPSS बारे अभिमुखीकरण गर्ने र MHPSS सम्बन्धी विचारणीय पक्ष तथा कार्यका लागि पैरवी गर्ने।",
+      "bt": "Orient humanitarian actors and community members on MHPSS and advocate for MHPSS-related considerations and action.",
+      "type": "activity",
+      "terms": [
+        "T098",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Reuses the supplied unreviewed activity-label candidate verbatim, with sentence-ending punctuation."
+    },
+    {
+      "id": "MAN-15-0012",
+      "page": "51",
+      "loc": "heading",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Core actions",
+      "ne": "मुख्य कार्यहरू",
+      "bt": "Main actions",
+      "type": "general",
+      "terms": [
+        "T129",
+        "T350"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-15-0013",
+      "page": "51",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Develop a plan for orientation and advocacy workshops and discussions on MHPSS for targeted participants (e.g. humanitarian responders and decision-makers; government actors; service providers across sectors; community committees in different sectors; community leaders; CBOs/CSOs, including women-led organizations and organizations for persons with disabilities, youth advocates and caregivers, etc.).",
+      "ne": "लक्षित सहभागीहरू (जस्तै, मानवीय प्रतिकार्यमा संलग्न व्यक्तिहरू र निर्णयकर्ताहरू; सरकारका सम्बद्ध पक्षहरू; विभिन्न क्षेत्रका सेवा प्रदायकहरू; विभिन्न क्षेत्रका सामुदायिक समितिहरू; सामुदायिक अगुवाहरू; महिलाले नेतृत्व गरेका संस्थाहरू र अपाङ्गता भएका व्यक्तिहरूका लागि काम गर्ने संस्थाहरू सहितका CBOs/CSOs, युवा पैरवीकर्ता (youth advocates) र हेरचाहकर्ताहरू आदि) का लागि MHPSS सम्बन्धी अभिमुखीकरण तथा पैरवीका कार्यशाला र छलफलहरूको योजना तयार गर्नुहोस्।",
+      "bt": "Prepare a plan for MHPSS-related orientation and advocacy workshops and discussions for targeted participants (for example, people involved in humanitarian response and decision-makers; relevant government stakeholders; service providers from various sectors; community committees from various sectors; community leaders; CBOs/CSOs including women-led organizations and organizations working for persons with disabilities, youth advocates (youth advocates) and caregivers, etc.).",
+      "type": "safety",
+      "terms": [
+        "T006",
+        "T014",
+        "T069",
+        "T073",
+        "T114",
+        "T191",
+        "T217",
+        "T296",
+        "T406",
+        "T444"
+      ],
+      "flags": [
+        "glossary-missing",
+        "source-ambiguous"
+      ],
+      "note": "The source phrase 'youth advocates' may mean young advocates or people advocating for youth; the English is retained alongside the Nepali label to keep this unresolved distinction visible. Organizations for persons with disabilities are rendered as organizations serving those persons, not necessarily organizations constituted by them."
+    },
+    {
+      "id": "MAN-15-0014",
+      "page": "51",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Develop messages to be delivered (e.g. on available MHPSS services and supports and on the role of different actors and sectors in supporting and promoting mental health and psychosocial well-being; see MSP activity 3.3).",
+      "ne": "प्रवाह गरिने सन्देशहरू तयार गर्नुहोस् (जस्तै, उपलब्ध MHPSS सेवा र सहयोगबारे तथा मानसिक स्वास्थ्य तथा मनोसामाजिक कल्याणमा सहयोग पुर्‍याउन र तिनको प्रवर्द्धन गर्न विभिन्न सम्बद्ध पक्षहरू र क्षेत्रहरूको भूमिकाबारे; MSP गतिविधि 3.3 हेर्नुहोस्)।",
+      "bt": "Prepare the messages to be communicated (e.g., about available MHPSS services and support and about the roles of different relevant parties and sectors in supporting and promoting mental health and psychosocial well-being; see MSP activity 3.3).",
+      "type": "check",
+      "terms": [
+        "T157",
+        "T005",
+        "T114",
+        "T091",
+        "T296",
+        "T328",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Clinical phrases reuse the supplied unreviewed candidates T157 and T005."
+    },
+    {
+      "id": "MAN-15-0015",
+      "page": "51",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Organize and develop informational materials appropriate to the context and the affected populations, considering literacy; culture; access to technology (e.g. discussion sessions, radio broadcasts, videos, posters, information leaflets, PowerPoint presentations, handouts); diversity and the inclusion of persons of different ages and genders, persons with disabilities and other diverse characteristics, and sub-groups with specific needs (e.g. hard-to-reach populations).",
+      "ne": "साक्षरता; संस्कृति; प्रविधिमा पहुँच (जस्तै, छलफल सत्र, रेडियो प्रसारण, भिडियो, पोस्टर, सूचनापत्र, PowerPoint प्रस्तुति, वितरण गरिने सामग्री); विविधता तथा विभिन्न उमेर र लिङ्गका व्यक्ति, अपाङ्गता भएका व्यक्तिहरू, अन्य विविध विशेषता भएका व्यक्ति र विशेष आवश्यकता भएका उपसमूहको समावेशिता (जस्तै, सम्पर्कमा पुग्न कठिन जनसमूह) लाई ध्यानमा राखी सन्दर्भ र प्रभावित जनसमूहका लागि उपयुक्त सूचनामूलक सामग्री व्यवस्थित र विकास गर्नुहोस्।",
+      "bt": "Organize and develop informational materials appropriate for the context and the affected population, taking into account literacy; culture; access to technology (e.g., discussion sessions, radio broadcasts, videos, posters, information sheets, PowerPoint presentations, materials to be distributed); diversity and the inclusion of people of different ages and genders, persons with disabilities, people with other diverse characteristics, and subgroups with specific needs (e.g., populations that are difficult to reach).",
+      "type": "general",
+      "terms": [
+        "T073",
+        "T192",
+        "T414",
+        "T424"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-15-0016",
+      "page": "51",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Conduct orientations and meetings in appropriate, safe and accessible spaces.",
+      "ne": "उपयुक्त, सुरक्षित र पहुँचयोग्य स्थानमा अभिमुखीकरण र बैठक सञ्चालन गर्नुहोस्।",
+      "bt": "Conduct orientations and meetings in appropriate, safe and accessible locations.",
+      "type": "safety",
+      "terms": [
+        "T078",
+        "T014"
+      ],
+      "flags": [],
+      "note": "General safety guidance drafted for review; not a verbatim safeguarding declaration."
+    },
+    {
+      "id": "MAN-15-0017",
+      "page": "51",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Follow up to provide additional information as needed and support humanitarian actors and community members in integrating MHPSS activities and considerations.",
+      "ne": "आवश्यकताअनुसार थप जानकारी दिन अनुवर्ती सम्पर्क गर्नुहोस् र MHPSS गतिविधिहरू तथा सम्बन्धित विचारणीय पक्ष एकीकृत गर्न मानवीय कार्यमा संलग्न पक्षहरू र समुदायका सदस्यलाई सहयोग गर्नुहोस्।",
+      "bt": "Make follow-up contact to provide additional information as needed, and support parties involved in humanitarian work and community members in integrating MHPSS activities and related considerations.",
+      "type": "general",
+      "terms": [
+        "T158",
+        "T147",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-15-0018",
+      "page": "51",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Engage staff with MHPSS technical expertise and coordinate with MHPSS TWGs throughout to select advocacy target groups/actors, develop key messages to be delivered, organize meetings, and disseminate messages.",
+      "ne": "पैरवीका लागि लक्षित समूह/सम्बद्ध पक्षहरू छनोट गर्न, प्रवाह गरिने मुख्य सन्देश तयार गर्न, बैठक आयोजना गर्न र सन्देश प्रसार गर्न MHPSS सम्बन्धी प्राविधिक विशेषज्ञता भएका कर्मचारीलाई संलग्न गराउनुहोस् र सम्पूर्ण प्रक्रियाभरि MHPSS TWGs सँग समन्वय गर्नुहोस्।",
+      "bt": "Involve staff with technical expertise in MHPSS in selecting target groups/relevant parties for advocacy, preparing the key messages to be communicated, organizing meetings and disseminating messages, and coordinate with MHPSS TWGs throughout the entire process.",
+      "type": "general",
+      "terms": [
+        "T114",
+        "T191",
+        "T435"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "A standalone glossary entry for advocacy is missing; propose [Nepali wording recorded in terminology evidence], following T098. MHPSS TWGs is retained without adding an expansion absent from the source."
+    },
+    {
+      "id": "MAN-15-0019",
+      "page": "51",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Additional actions for consideration (depending on context and available resources)",
+      "ne": "विचार गर्नका लागि दिइएका थप कार्यहरू (सन्दर्भ र उपलब्ध स्रोतअनुसार)",
+      "bt": "Additional actions provided for consideration (according to the context and available resources)",
+      "type": "general",
+      "terms": [
+        "T115"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-15-0020",
+      "page": "51",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Organize larger meetings or workshops that bring multiple stakeholders together and mobilize longer-term efforts and resources for MHPSS services and activities (e.g. government actors from different ministries, donors).",
+      "ne": "धेरै सरोकारवालाहरूलाई एकै ठाउँमा ल्याउने र MHPSS सेवा तथा गतिविधिका लागि अझ लामो अवधिका प्रयास र स्रोत परिचालन गर्ने अझ ठूला बैठक वा कार्यशाला आयोजना गर्नुहोस् (जस्तै, विभिन्न मन्त्रालयका सरकारी सम्बद्ध पक्षहरू, दातृ निकाय)।",
+      "bt": "Organize larger meetings or workshops that bring many stakeholders together and mobilize longer-term efforts and resources for MHPSS services and activities (e.g., government actors from different ministries, donor agencies).",
+      "type": "general",
+      "terms": [
+        "T182",
+        "T114",
+        "T023",
+        "T444"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The comparatives 'larger' and 'longer-term' become absolute 'large' and 'long-term'. The revision restores both comparative meanings. The back-translation changes 'multiple stakeholders' to 'many stakeholders' and narrows 'donors' to 'donor agencies', excluding individual donors from the example."
+    },
+    {
+      "id": "MAN-15-0021",
+      "page": "51",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Work with local and national partners (e.g. government actors, CBOS/CSOs such as service user organizations, organizations for persons with disabilities) to build capacity (e.g. through orientations and seminars) for conducting MHPSS advocacy activities.",
+      "ne": "MHPSS सम्बन्धी पैरवीका गतिविधि सञ्चालन गर्ने क्षमता विकास गर्न (जस्तै, अभिमुखीकरण र गोष्ठीमार्फत) स्थानीय र राष्ट्रिय साझेदारसँग काम गर्नुहोस् (जस्तै, सरकारका सम्बद्ध पक्षहरू, सेवा प्रयोगकर्ताका संस्था र अपाङ्गता भएका व्यक्तिहरूका लागि काम गर्ने संस्थाजस्ता CBOS/CSOs)।",
+      "bt": "Work with local and national partners (e.g., government actors, CBOS/CSOs such as organizations of service users and organizations working for persons with disabilities) to develop the capacity to conduct advocacy activities related to MHPSS (e.g., through orientation and seminars).",
+      "type": "general",
+      "terms": [
+        "T014",
+        "T114",
+        "T073",
+        "T191"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "A standalone glossary entry for advocacy is missing; propose [Nepali wording recorded in terminology evidence], following T098. CBOS/CSOs is preserved exactly as supplied, without normalization. 'Organizations for persons with disabilities' becomes organizations of persons with disabilities. The revision restores the beneficiary relationship without asserting membership or leadership; CBOS/CSOs remains unchanged."
+    },
+    {
+      "id": "MAN-15-0022",
+      "page": "51",
+      "loc": "heading",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Guidelines, standards and tools",
+      "ne": "निर्देशिकाहरू, मापदण्डहरू र उपकरणहरू",
+      "bt": "Guidelines, standards and tools",
+      "type": "general",
+      "terms": [
+        "T086",
+        "T087"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "MAN-15-0023",
+      "page": "51",
+      "loc": "table-cell",
+      "section": "Section 3 > 3.1 Orient humanitarian actors and community members on MHPSS and advocate for MHPSS considerations and actions",
+      "en": "Click here to access relevant guidelines, standards and tools.",
+      "ne": "सान्दर्भिक निर्देशिका, मापदण्ड र उपकरण प्राप्त गर्न यहाँ क्लिक गर्नुहोस्।",
+      "bt": "Click here to obtain relevant guidelines, standards and tools.",
+      "type": "check",
+      "terms": [
+        "T019"
+      ],
+      "flags": [],
+      "note": ""
+    }
+  ]
+}

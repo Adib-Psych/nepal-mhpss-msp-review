@@ -1,0 +1,1678 @@
+{
+  "contract": "msp-unit/v1",
+  "doc_id": "FAC",
+  "unit_id": "FAC-27",
+  "unit_title": "MSP Scenario Challenges",
+  "phase": "C",
+  "source_file": "02 Core Workshop Package/MSP Facilitators Manual_241128 (2).pdf",
+  "source_sha256": "e764706b66dd003ada8d95ce912e8c0cdb919b834bda3dd0fbca25dc4137f752",
+  "pages": "87-91",
+  "glossary_version": "G-0.5",
+  "generated": "2026-11-23T23:08:00+05:45",
+  "coverage": {
+    "source_words": 1834,
+    "row_words": 1834,
+    "skipped": [
+      "Page 87: running-footer: Annexes · MSP Workshop Facilitator Manual · 83",
+      "Page 88: running-footer: 84 · MSP Workshop Facilitator Manual · Annexes",
+      "Page 89: running-footer: Annexes · MSP Workshop Facilitator Manual · 85",
+      "Page 90: running-footer: 86 · MSP Workshop Facilitator Manual · Annexes",
+      "Page 91: running-footer: Annexes · MSP Workshop Facilitator Manual · 87"
+    ]
+  },
+  "rows": [
+    {
+      "id": "FAC-27-0001",
+      "page": "87",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Annex 8",
+      "ne": "अनुसूची 8",
+      "bt": "Annex 8",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0002",
+      "page": "87",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "MSP Scenario Challenges",
+      "ne": "MSP परिदृश्यमा आधारित चुनौतीहरू",
+      "bt": "MSP scenario-based challenges",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T419",
+        "T420",
+        "T421"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Proposed terminology for recurring scenario and scenario challenge is listed for review; the glossary remains unchanged."
+    },
+    {
+      "id": "FAC-27-0003",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "For this activity, participants should be grouped according to their sector.",
+      "ne": "यस गतिविधिका लागि सहभागीहरूलाई उनीहरूको क्षेत्रअनुसार समूहमा विभाजन गर्नु उचित हुन्छ।",
+      "bt": "For this activity, it would be appropriate to divide participants into groups according to their sector.",
+      "type": "general",
+      "terms": [
+        "T296",
+        "T406"
+      ],
+      "flags": [],
+      "note": "The back-translation strengthens 'should be grouped' to 'must be divided into groups.' The revision expresses a recommendation rather than a mandatory requirement."
+    },
+    {
+      "id": "FAC-27-0004",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 1 is the same for all groups, while Scenarios 2 and 3 vary.",
+      "ne": "परिदृश्य 1 सबै समूहका लागि एउटै छ भने परिदृश्य 2 र 3 समूहअनुसार फरक छन्।",
+      "bt": "Scenario 1 is the same for all groups, while scenarios 2 and 3 differ by group.",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term for scenario. The existing wording can mean that Scenarios 2 and 3 differ from each other. The source contrast indicates that they vary across groups; the revision makes that relationship explicit."
+    },
+    {
+      "id": "FAC-27-0005",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The facilitator must prepare and print these scenarios in advance, depending on how many groups and which sectors will be represented.",
+      "ne": "कति समूह हुनेछन् र कुन क्षेत्रहरूको प्रतिनिधित्व हुनेछ भन्ने आधारमा सहजकर्ताले यी परिदृश्यहरू पहिल्यै तयार गरी छाप्नुपर्छ।",
+      "bt": "The facilitator must prepare and print these scenarios in advance based on how many groups there will be and which sectors will be represented.",
+      "type": "general",
+      "terms": [
+        "T229",
+        "T296",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term for scenario."
+    },
+    {
+      "id": "FAC-27-0006",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "It is important to review and adapt activities and case scenarios in advance to ensure they are appropriate to the context.",
+      "ne": "गतिविधिहरू र घटनामा आधारित परिदृश्यहरू सन्दर्भअनुकूल छन् भनी सुनिश्चित गर्न तिनको पहिल्यै समीक्षा गरी आवश्यक परिमार्जन गर्नु महत्त्वपूर्ण छ।",
+      "bt": "It is important to review the activities and event-based scenarios in advance and make necessary modifications to ensure that they are appropriate to the context.",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term for scenario; case scenarios refers here to exercise material, not clinical case management."
+    },
+    {
+      "id": "FAC-27-0007",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Given varying conflict-related, cultural, and political sensitivities from location to location, a scenario that is appropriate in one context may create risks or tensions between participants in another.",
+      "ne": "द्वन्द्वसम्बन्धी, सांस्कृतिक र राजनीतिक संवेदनशीलताहरू स्थानअनुसार फरक हुने भएकाले एउटा सन्दर्भमा उपयुक्त हुने परिदृश्यले अर्को सन्दर्भमा सहभागीहरूबीच जोखिम वा तनाव उत्पन्न गर्न सक्छ।",
+      "bt": "Since conflict-related, cultural and political sensitivities differ by location, a scenario that is appropriate in one context may create risks or tension among participants in another context.",
+      "type": "safety",
+      "terms": [
+        "T406",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "General guidance on exercise-related risks, pending review. Uses the proposed nonclinical term for scenario."
+    },
+    {
+      "id": "FAC-27-0008",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Careful review and adaptation by a local facilitator is therefore critical.",
+      "ne": "त्यसैले स्थानीय सहजकर्ताले सावधानीपूर्वक समीक्षा र आवश्यक परिमार्जन गर्नु अत्यावश्यक छ।",
+      "bt": "Therefore, careful review and necessary modifications by the local facilitator are essential.",
+      "type": "safety",
+      "terms": [
+        "T229"
+      ],
+      "flags": [],
+      "note": "General guidance on reviewing exercise material for contextual safety; review pending."
+    },
+    {
+      "id": "FAC-27-0009",
+      "page": "87",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario Challenge 1. Using the MSP to Find Resources (10 min)",
+      "ne": "परिदृश्यमा आधारित चुनौती 1. MSP प्रयोग गरी स्रोतहरू खोज्ने (10 मिनेट)",
+      "bt": "Scenario-based challenge 1. Finding resources using the MSP (10 minutes)",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T419",
+        "T420"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term for scenario challenge."
+    },
+    {
+      "id": "FAC-27-0010",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Note to facilitators: This scenario is the same for all groups.",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी: यो परिदृश्य सबै समूहका लागि एउटै छ।",
+      "bt": "Note for the facilitator: This scenario is the same for all groups.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term for scenario."
+    },
+    {
+      "id": "FAC-27-0011",
+      "page": "87",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 1.",
+      "ne": "परिदृश्य 1।",
+      "bt": "Scenario 1.",
+      "type": "general",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term for scenario."
+    },
+    {
+      "id": "FAC-27-0012",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The government of Buduland, where you are currently working, recently announced that they will be deporting refugees from neighboring countries as they believe they should return home.",
+      "ne": "तपाईं हाल काम गरिरहनुभएको Buduland को सरकारले छिमेकी देशहरूबाट आएका शरणार्थी आफ्नै देश फर्कनु उचित हुन्छ भन्ने आफ्नो धारणाका आधारमा उनीहरूलाई देशनिकाला गर्ने हालै घोषणा गरेको छ।",
+      "bt": "The government of Buduland, where you are currently working, has recently announced that it will deport refugees who have come from neighboring countries, based on its view that it is appropriate for them to return to their own country.",
+      "type": "general",
+      "terms": [
+        "T287"
+      ],
+      "flags": [],
+      "note": "The back-translation strengthens the government's belief that refugees 'should return home' to 'must return.' The revision preserves the government's attributed view without adding mandatory force."
+    },
+    {
+      "id": "FAC-27-0013",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The humanitarian community has been working hard to influence the government to increase protection for refugees but has been unsuccessful so far.",
+      "ne": "मानवीय सहायता समुदायले शरणार्थीका लागि संरक्षण बढाउन सरकारलाई प्रभाव पार्ने प्रयासमा कडा मेहनत गरिरहेको छ, तर अहिलेसम्म सफल हुन सकेको छैन।",
+      "bt": "The humanitarian aid community is working hard in an effort to influence the government to increase protection for refugees, but has not been able to succeed so far.",
+      "type": "general",
+      "terms": [
+        "T287",
+        "T029",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0014",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The announcement has led to widespread anxiety in the refugee community.",
+      "ne": "यस घोषणाले शरणार्थी समुदायमा व्यापक चिन्ता उत्पन्न गरेको छ।",
+      "bt": "This announcement has generated widespread concern in the refugee community.",
+      "type": "safety",
+      "terms": [
+        "T287",
+        "T344"
+      ],
+      "flags": [],
+      "note": "Anxiety is rendered as a general experience, without introducing a diagnosis."
+    },
+    {
+      "id": "FAC-27-0015",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Frontline workers across all sectors are reporting increasing numbers of refugees talking about suicide, which they don’t feel equipped to handle.",
+      "ne": "सबै क्षेत्रका अग्रपंक्तिका कार्यकर्ताहरूले आत्महत्याबारे कुरा गर्ने शरणार्थीहरूको सङ्ख्या बढिरहेको जानकारी दिइरहेका छन्, र यसलाई सम्हाल्न आफ्नो तयारी पर्याप्त भएको उनीहरूलाई लाग्दैन।",
+      "bt": "Frontline workers from all sectors are reporting that the number of refugees talking about suicide is increasing, and they do not feel that their preparation to handle this is adequate.",
+      "type": "safety",
+      "terms": [
+        "T013",
+        "T287",
+        "T296"
+      ],
+      "flags": [],
+      "note": "The workers' reported lack of preparedness is retained separately from the refugees' talk about suicide."
+    },
+    {
+      "id": "FAC-27-0016",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Your supervisor has asked you to find some guidance on supporting people who are at risk of suicide.",
+      "ne": "आत्महत्याको जोखिममा रहेका मानिसहरूलाई सहयोग गर्ने विषयमा केही मार्गदर्शन खोज्न तपाईंको सुपरिवेक्षकले तपाईंलाई भन्नुभएको छ।",
+      "bt": "Your supervisor has asked you to look for some guidance on supporting people at risk of suicide.",
+      "type": "safety",
+      "terms": [
+        "T195",
+        "T310"
+      ],
+      "flags": [],
+      "note": "The request remains a request to find guidance, not an instruction to assess suicide risk."
+    },
+    {
+      "id": "FAC-27-0017",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Search the MSP to find guidance that could help you in this situation.",
+      "ne": "यस परिस्थितिमा तपाईंलाई मद्दत गर्न सक्ने मार्गदर्शन खोज्न MSP मा खोजी गर्नुहोस्।",
+      "bt": "Search the MSP to find guidance that could help you in this situation.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0018",
+      "page": "87",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Use the space below to list the tools you find and explain why you think they would be helpful.",
+      "ne": "तपाईंले भेट्टाउनुभएका साधनहरूको सूची बनाउन र ती किन उपयोगी हुनेछन् भन्ने तपाईंलाई लाग्छ भनी व्याख्या गर्न तलको खाली ठाउँ प्रयोग गर्नुहोस्।",
+      "bt": "Use the blank space below to make a list of the tools you have found and explain why you think they will be useful.",
+      "type": "general",
+      "terms": [
+        "T437",
+        "T438"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0019",
+      "page": "88",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario Challenge 2. Using the MSP to Select and/or strengthen MHPSS Activities (20 min)",
+      "ne": "परिदृश्यमा आधारित चुनौती 2. MHPSS गतिविधिहरू छनोट गर्न र/वा सुदृढ गर्न MSP प्रयोग गर्ने (20 मिनेट)",
+      "bt": "Scenario-based challenge 2. Using the MSP to select and/or strengthen MHPSS activities (20 minutes)",
+      "type": "activity",
+      "terms": [
+        "T158",
+        "T163",
+        "T419",
+        "T420"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term for scenario challenge."
+    },
+    {
+      "id": "FAC-27-0020",
+      "page": "88",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Note to facilitators: Each group should receive the version of Challenge 2 that is most relevant to their sector.",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी: प्रत्येक समूहलाई उनीहरूको क्षेत्रसँग सबैभन्दा सान्दर्भिक चुनौती 2 को संस्करण दिनु उचित हुन्छ।",
+      "bt": "Note for the facilitator: It would be appropriate to give each group the version of challenge 2 most relevant to their sector.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T296"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The back-translation changes 'should receive' into 'must be given.' The revision restores recommendation strength while retaining the sector-specific selection criterion. The addressee changes from plural 'facilitators' to singular 'the facilitator'."
+    },
+    {
+      "id": "FAC-27-0021",
+      "page": "88",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 1. Gender / GBV",
+      "ne": "परिदृश्य 1. लैङ्गिक विषय / GBV",
+      "bt": "Scenario 1. Gender issues / GBV",
+      "type": "general",
+      "terms": [
+        "T233",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term for scenario. A supporting noun is used with the frozen adjectival form for gender."
+    },
+    {
+      "id": "FAC-27-0022",
+      "page": "88",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "SUPPORT4WOMEN Headquarters has informed the country team that there is a small funding opportunity for strengthening the integration of MHPSS into GBV programming.",
+      "ne": "SUPPORT4WOMEN को मुख्यालयले देशीय टोलीलाई GBV सम्बन्धी कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS को एकीकरण सुदृढ गर्न वित्तपोषणको सानो अवसर उपलब्ध भएको जानकारी दिएको छ।",
+      "bt": "SUPPORT4WOMEN's headquarters has informed the country team that a small funding opportunity has become available to strengthen the integration of MHPSS into GBV-related program planning and implementation.",
+      "type": "general",
+      "terms": [
+        "T282",
+        "T231",
+        "T352",
+        "T384"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term for country team."
+    },
+    {
+      "id": "FAC-27-0023",
+      "page": "88",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The country team approaches the MHPSS TWG to understand the needs and gaps in terms of MHPSS for women and girls, including GBV survivors.",
+      "ne": "GBV बाट प्रभावित व्यक्तिहरू समेत समेटिएका महिला तथा बालिकाका लागि MHPSS सम्बन्धी आवश्यकता र कमीहरू बुझ्न देशीय टोलीले MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) सँग सम्पर्क गर्छ।",
+      "bt": "The country team contacts the MHPSS Technical Working Group (MHPSS TWG) to understand the MHPSS-related needs and gaps for women and girls, including people affected by GBV.",
+      "type": "safety",
+      "terms": [
+        "T050",
+        "T139",
+        "T232",
+        "T268",
+        "T317",
+        "T352"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "The frozen label GBV बाट प्रभावित व्यक्तिहरू means people affected by GBV and can include indirectly affected people, whereas the source specifies GBV survivors within the population of women and girls. bt-divergence: Frozen T139, GBV बाट प्रभावित व्यक्तिहरू, means people affected by GBV and can include indirectly affected people; the source specifies GBV survivors among women and girls. The frozen form is retained."
+    },
+    {
+      "id": "FAC-27-0024",
+      "page": "88",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The MHPSS TWG co-chairs provide the following information: Through a recent assessment they have identified that:",
+      "ne": "MHPSS प्राविधिक कार्यसमूह (MHPSS TWG) का सह-अध्यक्षहरूले निम्न जानकारी दिन्छन्: हालैको लेखाजोखाबाट उनीहरूले निम्न कुरा पहिचान गरेका छन्:",
+      "bt": "The co-chairs of the MHPSS Technical Working Group (MHPSS TWG) provide the following information: From a recent assessment, they have identified the following:",
+      "type": "general",
+      "terms": [
+        "T268",
+        "T004"
+      ],
+      "flags": [],
+      "note": "The final colon introduces the findings in the following rows."
+    },
+    {
+      "id": "FAC-27-0025",
+      "page": "88",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• Activity 3.13 Provide MHPSS through case management services is fully implemented by all GBV partners doing GBV case management.",
+      "ne": "• GBV केस व्यवस्थापन गर्ने सबै GBV साझेदारहरूले गतिविधि 3.13 ‘केस व्यवस्थापन सेवामार्फत MHPSS प्रदान गर्ने’ पूर्ण रूपमा कार्यान्वयन गरेका छन्।",
+      "bt": "• All GBV partners carrying out GBV case management have fully implemented activity 3.13, ‘Providing MHPSS through case management services.’",
+      "type": "general",
+      "terms": [
+        "T118",
+        "T110"
+      ],
+      "flags": [],
+      "note": "Retains the supplied activity label verbatim."
+    },
+    {
+      "id": "FAC-27-0026",
+      "page": "88",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• Community members still have reservations about the provision of MHPSS services, which is a barrier for accessing services, including for women and girls.",
+      "ne": "• समुदायका सदस्यहरूमा MHPSS सेवा प्रदान गरिने विषयमा अझै पनि आशङ्का छन्, जसले महिला तथा बालिका लगायतलाई सेवामा पहुँच प्राप्त गर्न बाधा पुर्‍याउँछ।",
+      "bt": "• Community members still have apprehensions about the provision of MHPSS services, which hinder access to services for women and girls, among others.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0027",
+      "page": "88",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• There is a gap in the support to women-led organizations to build their capacity to integrate MHPSS into activities for women and girls.",
+      "ne": "• महिला तथा बालिकाका लागि गरिने गतिविधिहरूमा MHPSS एकीकृत गर्ने क्षमता विकास गर्न महिलाको नेतृत्वमा रहेका संस्थाहरूलाई दिइने सहयोग अपुग छ।",
+      "bt": "• Support given to women-led organizations to develop the capacity to integrate MHPSS into activities for women and girls is insufficient.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0028",
+      "page": "88",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• Women and girls accessing safe spaces for women and girls expressed the need for support to address the impact that displacement and recent security threats are having on their mental well-being. Which MSP programme activities would you consider for your organization to implement or strengthen? Remember, no single organization is expected to implement the whole MSP. Please select a maximum of 3 activities and explain your choices.",
+      "ne": "• महिला तथा बालिकाका लागि रहेका सुरक्षित स्थलहरूमा पहुँच पाइरहेका महिला तथा बालिकाले विस्थापन र हालैका सुरक्षा खतराहरूले आफ्नो मानसिक कल्याणमा पारिरहेको प्रभावलाई सम्बोधन गर्न सहयोग आवश्यक रहेको बताएका छन्। तपाईंको संस्थाले कार्यान्वयन गर्न वा सुदृढ पार्नका लागि तपाईं कुन MSP कार्यक्रमगत गतिविधिहरूबारे विचार गर्नुहुन्छ। सम्झनुहोस्, कुनै पनि एक संस्थाले सम्पूर्ण MSP कार्यान्वयन गर्ने अपेक्षा गरिएको छैन। कृपया बढीमा 3 गतिविधिहरू छान्नुहोस् र आफ्नो छनोटको कारण स्पष्ट पार्नुहोस्।",
+      "bt": "• Women and girls who are accessing safe spaces for women and girls have said that they need support to address the impact that displacement and recent security threats are having on their mental well-being. Which MSP programmatic activities would you consider for your organization to implement or strengthen? Remember, no single organization is expected to implement the entire MSP. Please choose at most 3 activities and explain the reason for your choice.",
+      "type": "safety",
+      "terms": [
+        "T163",
+        "T167",
+        "T293",
+        "T328",
+        "T358",
+        "T409"
+      ],
+      "flags": [],
+      "note": "The draft retains the impact on mental well-being, the absence of an expectation that one organization implement the whole MSP, and the maximum of 3 activities. The source asks you to consider activities for your organization to implement or strengthen. The draft makes the organization the grammatical actor of considering, as reflected in the BT. The repair distinguishes you as the person considering from the organization implementing or strengthening."
+    },
+    {
+      "id": "FAC-27-0029",
+      "page": "88",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 2. Health",
+      "ne": "परिदृश्य 2. स्वास्थ्य",
+      "bt": "Scenario 2. Health",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the proposed nonclinical term for scenario."
+    },
+    {
+      "id": "FAC-27-0030",
+      "page": "88",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Your organization MedHealth is supporting a community recovering from a violent conflict that lasted for 5 years, killing 50,000 people.",
+      "ne": "तपाईंको संस्था MedHealth ले 5 वर्षसम्म चलेको र 50,000 जनाको ज्यान लिएको हिंसात्मक द्वन्द्वबाट पुनःस्थापित हुँदै गरेको समुदायलाई सहयोग गरिरहेको छ।",
+      "bt": "Your organization MedHealth is supporting a community recovering from a violent conflict that lasted 5 years and took the lives of 50,000 people.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0031",
+      "page": "88",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "A peace deal in 2023 ended the fighting, and the community is beginning to rebuild damaged homes and infrastructure.",
+      "ne": "2023 मा भएको शान्ति सम्झौताले लडाइँ अन्त्य गर्‍यो, र समुदायले क्षतिग्रस्त घर तथा पूर्वाधारको पुनर्निर्माण सुरु गर्दै छ।",
+      "bt": "A peace agreement in 2023 ended the fighting, and the community is beginning to rebuild damaged houses and infrastructure.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0032",
+      "page": "88",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Severe ongoing challenges include lack of livelihoods, poverty, and lack of adequate shelter with many people still living in makeshift tents.",
+      "ne": "अझै कायम गम्भीर चुनौतीहरूमा जीविकोपार्जनको अभाव, गरिबी र पर्याप्त आश्रयको अभाव पर्छन्; धेरै मानिस अझै पनि अस्थायी रूपमा बनाइएका पालहरूमा बसिरहेका छन्।",
+      "bt": "Serious challenges that still persist include a lack of livelihoods, poverty and a lack of adequate shelter; many people are still living in makeshift tents.",
+      "type": "general",
+      "terms": [
+        "T155",
+        "T300"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0033",
+      "page": "88",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "To increase access to health services, your organization would like to rehabilitate and support all three primary health clinics in the Riva region, where many people have been displaced and want to include an MHPSS component.",
+      "ne": "स्वास्थ्य सेवामा पहुँच बढाउन तपाईंको संस्था Riva क्षेत्रका तीनवटै प्राथमिक स्वास्थ्य क्लिनिकहरूको पुनर्स्थापना गरी तिनलाई सहयोग गर्न चाहन्छ, जहाँ धेरै मानिस विस्थापित भएका छन्, र MHPSS को एउटा घटक समावेश गर्न चाहन्छ।",
+      "bt": "To increase access to health services, your organization wants to rehabilitate and support all three primary health clinics in the Riva area, where many people have been displaced, and wants to include an MHPSS component.",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T296",
+        "T329",
+        "T345"
+      ],
+      "flags": [
+        "source-ambiguous"
+      ],
+      "note": "The source leaves the actor of 'want to include an MHPSS component' ambiguous between the organization and the displaced people; this draft provisionally reads the organization as that actor."
+    },
+    {
+      "id": "FAC-27-0034",
+      "page": "88",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "You learn that:",
+      "ne": "तपाईंले निम्न कुरा थाहा पाउनुहुन्छ:",
+      "bt": "You learn the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0035",
+      "page": "88",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• The local organization Manta employs 6 local psychologists to provide general counseling at two small community centers. They note that they see many people with PTSD and depression.",
+      "ne": "• स्थानीय संस्था Manta ले दुईवटा साना सामुदायिक केन्द्रमा सामान्य परामर्श प्रदान गर्न 6 जना स्थानीय मनोवैज्ञानिकहरूलाई रोजगारी दिएको छ। उनीहरूले [PTSD] र [depression] भएका धेरै मानिसहरू भेट्ने गरेको उल्लेख गर्छन्।",
+      "bt": "• The local organization Manta has employed 6 local psychologists to provide general counselling in two small community centres. They mention that they encounter many people with [PTSD] and [depression].",
+      "type": "safety",
+      "terms": [
+        "T497"
+      ],
+      "flags": [],
+      "note": "PTSD and depression remain exact source names in brackets; general counseling is translated as ordinary clinical prose."
+    },
+    {
+      "id": "FAC-27-0036",
+      "page": "88",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• The international organization Global Health Concern employs one expat psychiatrist who is working in the hospital (2 hours away by public transport from Riva region)",
+      "ne": "• अन्तर्राष्ट्रिय संस्था Global Health Concern ले एक जना प्रवासी मनोचिकित्सकलाई रोजगारी दिएको छ, जो अस्पतालमा काम गरिरहेका छन् (Riva क्षेत्रबाट सार्वजनिक यातायातमा 2 घण्टा टाढा)।",
+      "bt": "• The international organization Global Health Concern has employed one expatriate psychiatrist, who is working at the hospital (2 hours away from the Riva area by public transport).",
+      "type": "safety",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": "The singular expatriate professional role and the hospital's travel distance from Riva region are retained."
+    },
+    {
+      "id": "FAC-27-0037",
+      "page": "88",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• There are 3 psychiatrists in the country who all work at the mental hospital in the capital city (2 hours away by plane) Which one or two MSP activities would you explore to possibly implement as part of supporting the three primary health clinics? What additional information would you seek out and what steps would you take?",
+      "ne": "• देशमा 3 जना मनोचिकित्सकहरू छन् र उनीहरू सबै राजधानीको मानसिक अस्पतालमा काम गर्छन् (हवाईजहाजबाट 2 घण्टा टाढा)। तीनवटा प्राथमिक स्वास्थ्य क्लिनिकहरूलाई सहयोग गर्ने कामको अङ्गका रूपमा सम्भवतः कार्यान्वयन गर्न सकिने कुन एक वा दुई MSP गतिविधिहरूबारे तपाईं थप खोजबिन गर्नुहुन्छ। तपाईं कुन थप जानकारी खोज्नुहुन्छ र के कदम चाल्नुहुन्छ।",
+      "bt": "• There are 3 psychiatrists in the country, and they all work at the mental hospital in the capital (2 hours away by airplane). Which one or two MSP activities that could possibly be implemented as part of supporting the three primary health clinics would you explore further? What additional information would you seek, and what steps would you take?",
+      "type": "safety",
+      "terms": [
+        "T027",
+        "T163",
+        "T272",
+        "T491"
+      ],
+      "flags": [],
+      "note": "Potential implementation remains exploratory, and the requested choice remains one or two activities."
+    },
+    {
+      "id": "FAC-27-0038",
+      "page": "89",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 3. Child Protection",
+      "ne": "परिदृश्य 3. बाल संरक्षण",
+      "bt": "Scenario 3. Child protection",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0039",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Your organization is working in the city of Teekin to support a community of 30,000 people displaced due to a nuclear accident in a neighbouring region.",
+      "ne": "तपाईंको संस्थाले छिमेकी क्षेत्रमा भएको आणविक दुर्घटनाका कारण विस्थापित भएका 30,000 मानिसको समुदायलाई सहयोग गर्न Teekin सहरमा काम गरिरहेको छ।",
+      "bt": "Your organization is working in the city of Teekin to support a community of 30,000 people displaced because of a nuclear accident in a neighboring area.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0040",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The accident killed 1500 people, injured 8000, and forced 30,000 to leave their homes.",
+      "ne": "उक्त दुर्घटनामा 1500 जनाको मृत्यु भयो, 8000 जना घाइते भए र 30,000 जना आफ्नो घर छाड्न बाध्य भए।",
+      "bt": "In that accident, 1500 people died, 8000 people were injured, and 30,000 people were forced to leave their homes.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0041",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Most of those displaced are being temporarily hosted in former hotels, community centres, sports halls, and emergency campsites). 5,000 are being hosted by local community members in their homes.",
+      "ne": "विस्थापित भएकामध्ये अधिकांशलाई पहिले होटलका रूपमा प्रयोग भएका भवन, सामुदायिक केन्द्र, खेलकुद हल र आपत्कालीन शिविरस्थलमा अस्थायी रूपमा बसोबासको व्यवस्था गरिएको छ। स्थानीय समुदायका सदस्यहरूले 5,000 जनालाई आफ्ना घरमा बसोबासको व्यवस्था गरेका छन्।",
+      "bt": "Most of those displaced have been provided with temporary accommodation in buildings previously used as hotels, community centers, sports halls, and emergency campsites. Members of the local community have provided accommodation for 5,000 people in their homes.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": "The unmatched closing parenthesis in the English has been omitted as a punctuation error."
+    },
+    {
+      "id": "FAC-27-0042",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Loss of income and disruption to protective family and community structures have left the affected population vulnerable to exploitation and violence, with women and girls particularly at risk.",
+      "ne": "आम्दानी गुम्नु र संरक्षण प्रदान गर्ने पारिवारिक तथा सामुदायिक संरचनामा अवरोध आउनुले प्रभावित जनसंख्यालाई शोषण तथा हिंसाको जोखिममा पारेको छ, जसमा महिला र बालिकाहरू विशेष रूपमा जोखिममा रहेका छन्।",
+      "bt": "Loss of income and disruption of protective family and community structures have put the affected population at risk of exploitation and violence, with women and girls particularly at risk.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T195",
+        "T433"
+      ],
+      "flags": [],
+      "note": "General protection-risk narrative drafted; safety and language review pending."
+    },
+    {
+      "id": "FAC-27-0043",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "You have been asked to deploy to Teekin for 3 months to support the integration of MHPSS activities in Child Protection programming for the displaced community.",
+      "ne": "विस्थापित समुदायका लागि बाल संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयनमा MHPSS गतिविधिहरू एकीकृत गर्न सहयोग पुर्‍याउन तपाईंलाई 3 महिनाका लागि Teekin मा खटिन भनिएको छ।",
+      "bt": "You have been asked to be deployed to Teekin for 3 months to help integrate MHPSS activities into the planning and implementation of a child protection program for the displaced community.",
+      "type": "general",
+      "terms": [
+        "T036",
+        "T282",
+        "T158",
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0044",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "When you arrive, you learn that 15 Child Friendly Spaces (CFS) have been established in community centres and sports halls, operated by 3 different NGOs.",
+      "ne": "त्यहाँ पुगेपछि तपाईंले सामुदायिक केन्द्र र खेलकुद हलमा 15 वटा बालमैत्री स्थलहरू (Child Friendly Spaces, CFS) स्थापना गरिएका छन् र तिनलाई 3 वटा फरक गैरसरकारी संस्था (NGOs) ले सञ्चालन गरिरहेका छन् भन्ने थाहा पाउनुहुन्छ।",
+      "bt": "After arriving there, you learn that 15 child-friendly spaces (Child Friendly Spaces, CFS) have been established in community centers and sports halls and are being run by 3 different nongovernmental organizations (NGOs).",
+      "type": "general",
+      "terms": [
+        "T341",
+        "T342"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Child Friendly Spaces is absent from the supplied glossary. Proposed label: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]; retain CFS."
+    },
+    {
+      "id": "FAC-27-0045",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Parents leave their children at the CFSs for 2-4 hours per day.",
+      "ne": "अभिभावकहरूले आफ्ना बालबालिकालाई प्रतिदिन 2-4 घण्टाका लागि CFSs मा छाड्छन्।",
+      "bt": "Parents leave their children at the CFSs for 2-4 hours per day.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "CFSs refers to Child Friendly Spaces, a recurring label absent from the supplied glossary. The source acronym form is retained."
+    },
+    {
+      "id": "FAC-27-0046",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Some mention that they are struggling to cope and need a break from caring for their children.",
+      "ne": "केही अभिभावकले आफूलाई परिस्थितिको सामना गर्न कठिन भइरहेको र बालबालिकाको हेरचाहबाट केही समय विश्राम चाहिएको बताउँछन्।",
+      "bt": "Some parents say that they are finding it difficult to cope with the situation and need some time off from caring for their children.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Coping is rendered as ordinary situational difficulty, without introducing a clinical condition."
+    },
+    {
+      "id": "FAC-27-0047",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The spaces have some toys that have been donated by host community members and are staffed by local volunteers who watch over the children as they play with the toys.",
+      "ne": "ती स्थलमा आश्रय दिने समुदायका सदस्यहरूले दान गरेका केही खेलौना छन् र त्यहाँ स्थानीय स्वयंसेवकहरू कार्यरत छन्, जसले बालबालिका खेलौनासँग खेल्दा उनीहरूको रेखदेख गर्छन्।",
+      "bt": "Those spaces have some toys donated by members of the host community, and local volunteers work there, watching over the children as they play with the toys.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0048",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The volunteers are reporting that some of the children are ‘disruptive’, hitting and biting other children.",
+      "ne": "स्वयंसेवकहरूले केही बालबालिका अरू बालबालिकालाई हिर्काउने र टोक्ने गरी ‘बाधा पुर्‍याउने’ व्यवहार गर्छन् भनी बताइरहेका छन्।",
+      "bt": "The volunteers are reporting that some children behave in a ‘disruptive’ way, hitting and biting other children.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "The quoted description remains attributed to the volunteers; it is not presented as a diagnosis."
+    },
+    {
+      "id": "FAC-27-0049",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "This makes it difficult to manage the group and facilitators report high levels of stress.",
+      "ne": "यसले समूह व्यवस्थापन गर्न कठिन बनाउँछ र सहजीकरणकर्ताले आफूहरूलाई धेरै तनाव भइरहेको बताउँछन्।",
+      "bt": "This makes managing the group difficult, and facilitators say that they are experiencing a lot of stress.",
+      "type": "general",
+      "terms": [
+        "T230"
+      ],
+      "flags": [],
+      "note": "Stress is used here as an ordinary report of pressure in managing the group, not as a diagnostic term. The back-translation changes plural facilitators to a singular facilitator and strengthens 'high levels of stress' to 'excessive stress.' The revision makes the plural reference explicit and removes the added excess judgment while retaining the glossary form [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-27-0050",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Other children are very quiet and withdrawn, and do not interact with each other while playing.",
+      "ne": "अरू बालबालिका भने निकै चुपचाप र अरूसँग घुलमिल नगरी बस्छन् तथा खेल्दा एकअर्कासँग अन्तरक्रिया गर्दैनन्।",
+      "bt": "Other children, however, remain very quiet and do not mingle with others, and they do not interact with one another while playing.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Observable behavior is described without introducing a clinical label."
+    },
+    {
+      "id": "FAC-27-0051",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Which MSP programme activities would you consider for your organization to implement or strengthen?",
+      "ne": "तपाईंको संस्थाले कार्यान्वयन गर्न वा सुदृढ गर्नका लागि MSP अन्तर्गतका कुन कार्यक्रमगत गतिविधिहरू विचार गर्नुहुन्छ।",
+      "bt": "Which programmatic activities under the MSP would you consider for your organization to implement or strengthen?",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T167",
+        "T409"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0052",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Remember, no single organization is expected to implement the whole MSP.",
+      "ne": "सम्झनुहोस्, कुनै पनि एउटा संस्थाले सम्पूर्ण MSP कार्यान्वयन गर्ने अपेक्षा गरिएको छैन।",
+      "bt": "Remember, no single organization is expected to implement the entire MSP.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0053",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Please select a maximum of 3 activities and explain your choices.",
+      "ne": "कृपया बढीमा 3 वटा गतिविधि छान्नुहोस् र आफ्नो छनोटको कारण स्पष्ट पार्नुहोस्।",
+      "bt": "Please choose at most 3 activities and explain the reasons for your choice.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0054",
+      "page": "89",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 4. Protection",
+      "ne": "परिदृश्य 4. संरक्षण",
+      "bt": "Scenario 4. Protection",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0055",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Your organization offers protection programming for urban and camp-based refugees in the region of Jelton.",
+      "ne": "तपाईंको संस्थाले Jelton क्षेत्रमा सहरी स्थान र शिविरमा बस्ने शरणार्थीका लागि संरक्षण कार्यक्रम तर्जुमा तथा कार्यान्वयन गर्छ।",
+      "bt": "Your organization plans and implements protection programs for refugees living in urban locations and camps in the Jelton area.",
+      "type": "general",
+      "terms": [
+        "T169",
+        "T287"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0056",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Your services include a protection helpline, legal protection services to assist refugees facing legal challenges, and general protection case management by social workers.",
+      "ne": "तपाईंका सेवामा संरक्षणसम्बन्धी सहायता फोन सेवा, कानुनी चुनौती सामना गरिरहेका शरणार्थीलाई सहयोग गर्ने कानुनी संरक्षण सेवाहरू र सामाजिक कार्यकर्ताले गर्ने सामान्य संरक्षणसम्बन्धी केस व्यवस्थापन समावेश छन्।",
+      "bt": "Your services include a protection-related telephone assistance service, legal protection services that assist refugees facing legal challenges, and general protection-related case management carried out by social workers.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T287",
+        "T118",
+        "T374"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Helpline is a recurring service term absent from the supplied glossary. Proposed wording: [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]."
+    },
+    {
+      "id": "FAC-27-0057",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Your team has been integrating MHPSS into protection services for many years.",
+      "ne": "तपाईंको टोलीले धेरै वर्षदेखि संरक्षण सेवामा MHPSS एकीकृत गर्दै आएको छ।",
+      "bt": "Your team has been integrating MHPSS into protection services for many years.",
+      "type": "general",
+      "terms": [
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0058",
+      "page": "89",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Specifically:",
+      "ne": "विशेष रूपमा:",
+      "bt": "Specifically:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0059",
+      "page": "89",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• There are posters and pamphlets with information on stress and coping in all offices and waiting rooms (Activity 3.3)",
+      "ne": "• सबै कार्यालय र प्रतीक्षाकक्षमा तनाव र त्यसको सामना गर्ने उपायबारे जानकारी भएका पोस्टर र पर्चाहरू छन् (गतिविधि 3.3)।",
+      "bt": "• All offices and waiting rooms have posters and leaflets with information about stress and ways to cope with it (Activity 3.3).",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Stress and coping are drafted as general informational wording, not diagnostic terminology or validated instrument content."
+    },
+    {
+      "id": "FAC-27-0060",
+      "page": "89",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• Helpline staff and protection case managers have been trained in communication and basic psychosocial support skills (Activities 3.2 and 3.13) You are informed that there is some budget to enhance MHPSS integration. One of the challenges that you want to address is the lack of referral options for refugees presenting with signs of anxiety and depression who need more focused support. Through the MHPSS Technical Working Group you learn that:",
+      "ne": "• सहायता फोन सेवाका कर्मचारीहरू र संरक्षणका केस व्यवस्थापकहरूलाई सञ्चार तथा आधारभूत मनोसामाजिक सहयोग सीपसम्बन्धी तालिम दिइएको छ (गतिविधिहरू 3.2 र 3.13)। MHPSS को एकीकरण बढाउन केही बजेट उपलब्ध रहेको जानकारी तपाईंले पाउनुभएको छ। तपाईंले सम्बोधन गर्न चाहेको चुनौतीमध्ये एउटा भनेको चिन्ता र [depression] का सङ्केत देखिएका र थप केन्द्रित सहयोग आवश्यक भएका शरणार्थीहरूका लागि सम्बन्धित सेवामा पठाउने कार्यका विकल्पहरूको अभाव हो। MHPSS प्राविधिक कार्यसमूह (Technical Working Group) मार्फत तपाईंले निम्न कुरा थाहा पाउनुहुन्छ:",
+      "bt": "• Helpline staff and protection case managers have been trained in communication and basic psychosocial support skills (activities 3.2 and 3.13). You have received information that some budget is available to increase the integration of MHPSS. One of the challenges you want to address is the lack of options for referral to relevant services for refugees who show signs of anxiety and [depression] and need more focused support. Through the MHPSS Technical Working Group (Technical Working Group), you learn the following:",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T050",
+        "T119",
+        "T172",
+        "T196",
+        "T284",
+        "T287",
+        "T374",
+        "T384",
+        "T410",
+        "T454",
+        "T466"
+      ],
+      "flags": [],
+      "note": "Depression remains an exact bracketed name, while anxiety is rendered without adding an anxiety-disorder diagnosis; the final colon retains the source's lead-in to further information."
+    },
+    {
+      "id": "FAC-27-0061",
+      "page": "89",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• An organization that specializes in MHPSS will be opening an office in Jelton. They have a team of staff trained in scalable psychological interventions who will be delivering group interventions.",
+      "ne": "• MHPSS मा विशेषज्ञता भएको एउटा संस्थाले Jelton मा कार्यालय खोल्नेछ। उक्त संस्थासँग विस्तार गर्न सकिने मनोवैज्ञानिक हस्तक्षेप प्रदान गर्ने तालिम पाएका कर्मचारीको टोली छ, जसले समूहमा मनोवैज्ञानिक हस्तक्षेप प्रदान गर्नेछ।",
+      "bt": "• An organization with expertise in MHPSS will open an office in Jelton. That organization has a team of staff trained to provide scalable psychological interventions, who will provide psychological interventions in groups.",
+      "type": "general",
+      "terms": [
+        "T295",
+        "T007"
+      ],
+      "flags": [],
+      "note": "[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence] is reused verbatim from T007, cited to MAN PDF p5 and PRIOR-SUM-29OCT2026 p.2 row 102, as an unreviewed candidate. Group delivery is expressed descriptively without minting a separate clinical term."
+    },
+    {
+      "id": "FAC-27-0062",
+      "page": "89",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• There is little work being done to support new and pre-existing group-based community MHPSS activities. While reviewing the core actions for Activity 3.13 and the MHPSS training topics for protection case workers, you also realize that your team has missed several important points. Staff are now reporting that they struggle to support individuals that are distressed. Which MSP programme activities would you consider for your organization to implement or strengthen? Remember, no single organization is expected to implement the whole MSP. Please select a maximum of 3 activities and explain your choices.",
+      "ne": "• नयाँ तथा पहिलेदेखि सञ्चालित समूहमा आधारित सामुदायिक MHPSS गतिविधिलाई सहयोग गर्ने काम थोरै मात्र भइरहेको छ। गतिविधि 3.13 का मुख्य कार्यहरू र संरक्षणका केस कार्यकर्ताका लागि MHPSS सम्बन्धी तालिमका विषयहरू समीक्षा गर्दा तपाईंको टोलीले केही महत्त्वपूर्ण बुँदाहरू छुटाएको पनि तपाईंले थाहा पाउनुहुन्छ। कर्मचारीहरूले अहिले व्यथामा रहेका व्यक्तिहरूलाई सहयोग गर्न कठिनाइ भइरहेको जानकारी दिइरहेका छन्। तपाईंको संस्थाले कार्यान्वयन गर्न वा सुदृढ पार्नका लागि तपाईं कुन MSP कार्यक्रमगत गतिविधिहरूबारे विचार गर्नुहुन्छ। सम्झनुहोस्, कुनै पनि एक संस्थाले सम्पूर्ण MSP कार्यान्वयन गर्ने अपेक्षा गरिएको छैन। कृपया बढीमा 3 गतिविधिहरू छान्नुहोस् र आफ्नो छनोटको कारण स्पष्ट पार्नुहोस्।",
+      "bt": "• Very little work is being done to support new and already operating group-based community MHPSS activities. When reviewing the main actions of Activity 3.13 and the topics of training related to MHPSS for protection case workers, you also find out that your team has missed some important points. Staff are now reporting difficulty in supporting people who are in distress. Which MSP programmatic activities would you consider for your organization to implement or strengthen? Remember, no single organization is expected to implement the entire MSP. Please choose at most 3 activities and explain the reason for your choice.",
+      "type": "safety",
+      "terms": [
+        "T029",
+        "T088",
+        "T101",
+        "T129",
+        "T163",
+        "T167",
+        "T202",
+        "T350",
+        "T409",
+        "T461"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The frozen activity label is retained, and distressed individuals are described without adding impairment or a diagnosis. The source asks you to consider activities for your organization to implement or strengthen. The draft makes the organization the grammatical actor of considering, as reflected in the BT. The repair distinguishes these actors. The Nepali already places the realization during the review; the BT's attachment of the review to the team's earlier omission does not require a Nepali repair. “Very little work” strengthens the source’s “little work.” “Some important points” is less quantitatively specific than “several important points.” “Already operating” implies ongoing operation, whereas “pre-existing” specifies prior existence without necessarily implying current operation."
+    },
+    {
+      "id": "FAC-27-0063",
+      "page": "90",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 5. Education",
+      "ne": "परिदृश्य 5. शिक्षा",
+      "bt": "Scenario 5. Education",
+      "type": "general",
+      "terms": [
+        "T028",
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0064",
+      "page": "90",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Your organization is working in the city of Jelton to support a community of 20,000 people that has been displaced due to an earthquake in a neighboring region.",
+      "ne": "तपाईंको संस्थाले छिमेकी क्षेत्रमा गएको भूकम्पका कारण विस्थापित भएका 20,000 मानिसको समुदायलाई सहयोग गर्न Jelton सहरमा काम गरिरहेको छ।",
+      "bt": "Your organization is working in the city of Jelton to support a community of 20,000 people displaced because of an earthquake in a neighboring area.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0065",
+      "page": "90",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The incident killed 879 people, injured 3000, and forced 20,000 to leave their homes.",
+      "ne": "उक्त घटनामा 879 जनाको मृत्यु भयो, 3000 जना घाइते भए र 20,000 जना आफ्नो घर छोड्न बाध्य भए।",
+      "bt": "In that incident, 879 people died, 3000 people were injured, and 20,000 people were forced to leave their homes.",
+      "type": "check",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0066",
+      "page": "90",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Children from displaced families have been integrated into local schools, but many are struggling to adapt.",
+      "ne": "विस्थापित परिवारका बालबालिकालाई स्थानीय विद्यालयमा समावेश गरिएको छ, तर धेरैलाई नयाँ परिवेशमा अनुकूल हुन कठिनाइ भइरहेको छ।",
+      "bt": "Children from displaced families have been included in local schools, but many are having difficulty adapting to the new environment.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0067",
+      "page": "90",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Teachers report that some children struggle to concentrate, some are withdrawn and some display challenging behaviour.",
+      "ne": "शिक्षकहरूका अनुसार केही बालबालिकालाई ध्यान केन्द्रित गर्न कठिनाइ हुन्छ, केही आफूमै सीमित रहन्छन् र केहीले सम्हाल्न कठिन हुने व्यवहार देखाउँछन्।",
+      "bt": "According to teachers, some children have difficulty concentrating, some keep to themselves, and some display behavior that is difficult to manage.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": "Rendered as ordinary observations of behaviour, not diagnostic terminology."
+    },
+    {
+      "id": "FAC-27-0068",
+      "page": "90",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "In some cases, there is tension between the newly arrived children and children from the host community.",
+      "ne": "केही अवस्थामा नयाँ आएका बालबालिका र आतिथ्य दिने समुदायका बालबालिकाबीच तनाव छ।",
+      "bt": "In some situations, there is tension between newly arrived children and children of the host community.",
+      "type": "general",
+      "terms": [
+        "T344"
+      ],
+      "flags": [],
+      "note": "The translation narrows the host community to a community providing shelter; the source does not specify shelter provision."
+    },
+    {
+      "id": "FAC-27-0069",
+      "page": "90",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "You are an MHPSS Technical Adviser deployed to Jelton to support the integration of MHPSS in schools.",
+      "ne": "तपाईं विद्यालयमा मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोग (MHPSS) एकीकृत गर्न सहयोग पुर्‍याउन Jelton मा खटिनुभएका MHPSS प्राविधिक सल्लाहकार हुनुहुन्छ।",
+      "bt": "You are an MHPSS technical adviser deployed to Jelton to help integrate mental health and psychosocial support (MHPSS) into schools.",
+      "type": "general",
+      "terms": [
+        "T001"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed T001 candidate."
+    },
+    {
+      "id": "FAC-27-0070",
+      "page": "90",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "The Education Coordinator has informed you that teachers have been trained to provide group activities for children and oriented on basic psychosocial support skills.",
+      "ne": "शिक्षकहरूलाई बालबालिकाका लागि सामूहिक गतिविधि सञ्चालन गर्ने तालिम र आधारभूत मनोसामाजिक सहयोग सीपसम्बन्धी अभिमुखीकरण दिइएको छ भनी शिक्षा संयोजकले तपाईंलाई जानकारी दिनुभएको छ।",
+      "bt": "The education coordinator has informed you that teachers have been given training in conducting group activities for children and an orientation on basic psychosocial support skills.",
+      "type": "check",
+      "terms": [
+        "T028",
+        "T196",
+        "T410"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0071",
+      "page": "90",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Through visits to the schools and exchanges with the staff you have learned that:",
+      "ne": "विद्यालयहरूको भ्रमण र कर्मचारीहरूसँगको छलफलबाट तपाईंले निम्न कुरा थाहा पाउनुभएको छ:",
+      "bt": "From visits to schools and discussions with staff, you have learned the following:",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0072",
+      "page": "90",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• schools offer group activities for children, that is traditional games and arts and crafts",
+      "ne": "• विद्यालयहरूले बालबालिकाका लागि सामूहिक गतिविधि, अर्थात् परम्परागत खेल तथा कला र हस्तकलाका गतिविधि सञ्चालन गर्छन्।",
+      "bt": "• Schools conduct group activities for children, namely traditional games and arts and crafts activities.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0073",
+      "page": "90",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• teachers have not received any training on structured group activities",
+      "ne": "• शिक्षकहरूले संरचित सामूहिक गतिविधिहरू सम्बन्धी कुनै तालिम पाएका छैनन्।",
+      "bt": "• Teachers have not received any training on structured group activities.",
+      "type": "general",
+      "terms": [
+        "T080"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0074",
+      "page": "90",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• teachers need more support to respond to the MHPSS needs of children",
+      "ne": "• बालबालिकाका MHPSS सम्बन्धी आवश्यकता सम्बोधन गर्न शिक्षकहरूलाई थप सहयोग चाहिन्छ।",
+      "bt": "• Teachers need additional support to address children's MHPSS-related needs.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0075",
+      "page": "90",
+      "loc": "bullet",
+      "section": "MSP Scenario Challenges",
+      "en": "• teachers report high levels of stress. Which MSP programme activities should be prioritized to respond to this situation? Remember, no single organization is expected to implement the whole MSP. Please select a maximum of 3 activities and explain your choices.",
+      "ne": "• शिक्षकहरूले आफूलाई धेरै तनाव भएको बताउँछन्। यस परिस्थितिलाई सम्बोधन गर्न MSP का कुन कार्यक्रमगत गतिविधिहरूलाई प्राथमिकता दिनुपर्छ? कुनै एक संस्थाले सम्पूर्ण MSP कार्यान्वयन गर्ने अपेक्षा गरिएको छैन भन्ने कुरा सम्झनुहोस्। कृपया बढीमा 3 गतिविधि छान्नुहोस् र आफ्नो छनोटको कारण स्पष्ट गर्नुहोस्।",
+      "bt": "• Teachers say they are very stressed. Which programmatic activities of the MSP should be prioritized to address this situation? Remember that no single organization is expected to implement the entire MSP. Please choose at most 3 activities and explain the reason for your choice.",
+      "type": "check",
+      "terms": [
+        "T163",
+        "T167",
+        "T409"
+      ],
+      "flags": [],
+      "note": "Stress is rendered as an ordinary, non-diagnostic description of teachers' experience. The translation describes stress as excessive, strengthening the source's description of high levels of stress."
+    },
+    {
+      "id": "FAC-27-0076",
+      "page": "91",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario Challenge 3. Using the MSP to Advocate for MHPSS (10 min)",
+      "ne": "परिदृश्यमा आधारित चुनौती 3. MHPSS का लागि पैरवी गर्न MSP को प्रयोग (10 मिनेट)",
+      "bt": "Scenario-based challenge 3. Using the MSP to advocate for MHPSS (10 minutes)",
+      "type": "activity",
+      "terms": [
+        "T163",
+        "T419",
+        "T420"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Recurring labels for scenario and advocacy lack standalone glossary entries; see proposals."
+    },
+    {
+      "id": "FAC-27-0077",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Note to facilitators: Use each of the scenarios below (one per group) or select the ones that are most relevant for the participants.",
+      "ne": "सहजीकरणकर्ताका लागि टिप्पणी: तलका प्रत्येक परिदृश्य प्रयोग गर्नुहोस् (प्रत्येक समूहलाई एउटा) वा सहभागीहरूका लागि सबैभन्दा सान्दर्भिक परिदृश्य छान्नुहोस्।",
+      "bt": "Note for the facilitator: Use each of the scenarios below (one for each group) or choose the scenario most relevant to the participants.",
+      "type": "general",
+      "terms": [
+        "T230",
+        "T406",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring scenario label lacks a standalone glossary entry; see proposal."
+    },
+    {
+      "id": "FAC-27-0078",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "If using Scenario 4, add an appropriate sector before printing.",
+      "ne": "परिदृश्य 4 प्रयोग गर्ने भए छाप्नुअघि उपयुक्त क्षेत्र थप्नुहोस्।",
+      "bt": "If using scenario 4, add the appropriate sector before printing.",
+      "type": "check",
+      "terms": [
+        "T296",
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring scenario label lacks a standalone glossary entry; see proposal."
+    },
+    {
+      "id": "FAC-27-0079",
+      "page": "91",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 1.",
+      "ne": "परिदृश्य 1.",
+      "bt": "Scenario 1.",
+      "type": "check",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring scenario label lacks a standalone glossary entry; see proposal."
+    },
+    {
+      "id": "FAC-27-0080",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Floods have led to widespread destruction of homes and caused many deaths.",
+      "ne": "बाढीका कारण घरहरूको व्यापक विनाश भएको छ र धेरै जनाको मृत्यु भएको छ।",
+      "bt": "The flood has caused widespread destruction of houses, and many people have died.",
+      "type": "general",
+      "terms": [],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The translation replaces widespread destruction with destruction of a large number of houses, losing the stated extent of destruction. The back-translation changes plural floods to a single flood."
+    },
+    {
+      "id": "FAC-27-0081",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "You are deployed as part of an emergency team providing support in temporary shelters.",
+      "ne": "तपाईं अस्थायी आश्रयमा सहयोग प्रदान गर्ने आपत्कालीन टोलीको सदस्यका रूपमा खटिनुभएको छ।",
+      "bt": "You have been deployed as a member of an emergency team providing assistance in temporary shelter.",
+      "type": "general",
+      "terms": [
+        "T300"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0082",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "You are speaking to a donor on a high-level visit.",
+      "ne": "तपाईं उच्चस्तरीय भ्रमणमा आएका एक दातासँग कुरा गर्दै हुनुहुन्छ।",
+      "bt": "You are speaking with a donor who has come on a high-level visit.",
+      "type": "general",
+      "terms": [],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0083",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "When you mention mental health and psychosocial support, the donor says that can wait, the priority is food and shelter.",
+      "ne": "तपाईंले मानसिक स्वास्थ्य तथा मनोसामाजिक सहयोगको कुरा उठाउँदा दाताले त्यसका लागि पर्खन सकिन्छ, प्राथमिकता खाना र आश्रय हो भन्छन्।",
+      "bt": "When you bring up mental health and psychosocial support, the donor says that it can wait; the priority is food and shelter.",
+      "type": "check",
+      "terms": [
+        "T001",
+        "T300",
+        "T410"
+      ],
+      "flags": [],
+      "note": "Uses the supplied unreviewed T001 candidate."
+    },
+    {
+      "id": "FAC-27-0084",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Use the MSP to develop some points on how you would advocate for including MHPSS in the response.",
+      "ne": "प्रतिकार्यमा MHPSS समावेश गर्न तपाईंले कसरी पैरवी गर्नुहुन्छ भन्नेबारे केही बुँदा तयार गर्न MSP प्रयोग गर्नुहोस्।",
+      "bt": "Use the MSP to prepare some points on how you would advocate for including MHPSS in the response.",
+      "type": "general",
+      "terms": [
+        "T174",
+        "T163",
+        "T332"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Advocacy lacks a standalone glossary entry; see proposal."
+    },
+    {
+      "id": "FAC-27-0085",
+      "page": "91",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 2.",
+      "ne": "परिदृश्य 2.",
+      "bt": "Scenario 2.",
+      "type": "check",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring scenario label lacks a standalone glossary entry; see proposal."
+    },
+    {
+      "id": "FAC-27-0086",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "You are speaking to colleagues in the Health Sector.",
+      "ne": "तपाईं स्वास्थ्य क्षेत्रका सहकर्मीहरूसँग कुरा गर्दै हुनुहुन्छ।",
+      "bt": "You are speaking with colleagues from the health sector.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T296"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0087",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "When the topic of MHPSS comes up, one of them says MHPSS falls only under Health, not Protection.",
+      "ne": "MHPSS को विषय उठ्दा उनीहरूमध्ये एक जनाले MHPSS स्वास्थ्यअन्तर्गत मात्र पर्छ, संरक्षणअन्तर्गत पर्दैन भन्छन्।",
+      "bt": "When the topic of MHPSS comes up, one of them says that MHPSS falls only under health, not under protection.",
+      "type": "general",
+      "terms": [
+        "T027",
+        "T029"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0088",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Use the MSP to develop some points on how you would advocate for MHPSS as a multi-sectoral area of work.",
+      "ne": "MHPSS बहुक्षेत्रीय कार्यक्षेत्र हो भन्ने पक्षमा तपाईंले कसरी पैरवी गर्नुहुन्छ भन्नेबारे केही बुँदा तयार गर्न MSP प्रयोग गर्नुहोस्।",
+      "bt": "Use the MSP to prepare some points about how you would advocate that MHPSS is a multisectoral field of work.",
+      "type": "general",
+      "terms": [
+        "T193",
+        "T163",
+        "T332"
+      ],
+      "flags": [
+        "glossary-missing",
+        "bt-divergence"
+      ],
+      "note": "Advocacy lacks a standalone glossary entry; see proposal. The translation adds establishing MHPSS as a multisectoral area of work; the source asks for advocacy for MHPSS as such an area, without an establishment requirement. The back-translation shifts advocacy for MHPSS as a multisectoral area of work to advocacy for the proposition that MHPSS is a multisectoral field of work."
+    },
+    {
+      "id": "FAC-27-0089",
+      "page": "91",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 3.",
+      "ne": "परिदृश्य 3.",
+      "bt": "Scenario 3.",
+      "type": "check",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring scenario label lacks a standalone glossary entry; see proposal."
+    },
+    {
+      "id": "FAC-27-0090",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "You overhear frontline workers from a Protection helpline talking about their work.",
+      "ne": "संरक्षणसम्बन्धी हेल्पलाइनका अग्रपंक्तिका कार्यकर्ता आफ्नो कामबारे कुरा गरिरहेको तपाईं संयोगवश सुन्नुहुन्छ।",
+      "bt": "You happen to overhear a frontline worker of a protection-related helpline talking about their work.",
+      "type": "general",
+      "terms": [
+        "T029",
+        "T013"
+      ],
+      "flags": [
+        "bt-divergence"
+      ],
+      "note": "The translation says only that you hear the workers, omitting the incidental hearing conveyed by overhear. The back-translation changes plural frontline workers to a single frontline worker."
+    },
+    {
+      "id": "FAC-27-0091",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "They mention how stressful it is to see people in so much pain and how there aren’t enough psychologists to support them.",
+      "ne": "उनीहरूले मानिसहरूलाई यति धेरै पीडामा देख्दा कति तनाव हुन्छ र ती मानिसहरूलाई सहयोग गर्न पर्याप्त मनोवैज्ञानिकहरू छैनन् भन्ने कुरा उल्लेख गर्छन्।",
+      "bt": "They mention how stressful it is to see people in so much pain and that there are not enough psychologists to support those people.",
+      "type": "safety",
+      "terms": [
+        "T497"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Pain remains unspecified, and the shortage concerns psychologists available to support the people in pain."
+    },
+    {
+      "id": "FAC-27-0092",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "They feel there is nothing they can do because they aren’t psychologists themselves.",
+      "ne": "आफूहरू नै मनोवैज्ञानिकहरू नभएकाले उनीहरूलाई आफूहरूले गर्न सक्ने केही छैन भन्ने लाग्छ।",
+      "bt": "Because they themselves are not psychologists, they feel that there is nothing they can do.",
+      "type": "safety",
+      "terms": [
+        "T497"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Uses the frozen candidate for psychologists; this draft is not native-language or domain validated."
+    },
+    {
+      "id": "FAC-27-0093",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Use the MSP to develop some points on how you would advocate that they can also contribute to MHPSS.",
+      "ne": "उनीहरूले पनि MHPSS मा योगदान दिन सक्छन् भन्ने पक्षमा तपाईंले कसरी पैरवी गर्नुहुन्छ भन्नेबारे केही बुँदा तयार गर्न MSP प्रयोग गर्नुहोस्।",
+      "bt": "Use the MSP to prepare some points on how you would advocate that they too can contribute to MHPSS.",
+      "type": "general",
+      "terms": [
+        "T163",
+        "T332"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Advocacy lacks a standalone glossary entry; see proposal."
+    },
+    {
+      "id": "FAC-27-0094",
+      "page": "91",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 4.",
+      "ne": "परिदृश्य 4.",
+      "bt": "Scenario 4.",
+      "type": "check",
+      "terms": [
+        "T419"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring scenario label lacks a standalone glossary entry; see proposal."
+    },
+    {
+      "id": "FAC-27-0095",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "In a [INSERT SECTOR] sector meeting, someone suggests adding MHPSS as a standing agenda item for discussion.",
+      "ne": "[INSERT SECTOR] क्षेत्रको बैठकमा कसैले छलफलका लागि MHPSS लाई कार्यसूचीको स्थायी विषयका रूपमा थप्ने सुझाव दिन्छन्।",
+      "bt": "At a meeting of the [INSERT SECTOR] sector, someone suggests adding MHPSS as a standing agenda item for discussion.",
+      "type": "general",
+      "terms": [
+        "T296"
+      ],
+      "flags": [],
+      "note": "The insertion placeholder is preserved exactly."
+    },
+    {
+      "id": "FAC-27-0096",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Some others disagree.",
+      "ne": "अरू केही व्यक्ति असहमत हुन्छन्।",
+      "bt": "Some other people disagree.",
+      "type": "general",
+      "terms": [
+        "T333",
+        "T357"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0097",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Use the MSP to develop some points on how you would advocate for including MHPSS on the agenda.",
+      "ne": "कार्यसूचीमा MHPSS समावेश गर्न तपाईंले कसरी पैरवी गर्ने भन्नेबारे MSP प्रयोग गरी केही बुँदा तयार गर्नुहोस्।",
+      "bt": "Using MSP, prepare some points on how you will advocate for including MHPSS in the agenda.",
+      "type": "general",
+      "terms": [
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'advocate' is absent from the supplied glossary; '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is proposed for review."
+    },
+    {
+      "id": "FAC-27-0098",
+      "page": "91",
+      "loc": "heading",
+      "section": "MSP Scenario Challenges",
+      "en": "Scenario 5.",
+      "ne": "परिदृश्य 5।",
+      "bt": "Scenario 5.",
+      "type": "check",
+      "terms": [
+        "T419"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0099",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "You include MHPSS activities in your humanitarian response planning.",
+      "ne": "तपाईं आफ्नो मानवीय प्रतिकार्यको योजना बनाउँदा MHPSS गतिविधिहरू समावेश गर्नुहुन्छ।",
+      "bt": "You include MHPSS activities when planning your humanitarian response.",
+      "type": "general",
+      "terms": [
+        "T003",
+        "T158"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0100",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Your supervisor sends the draft back to you saying this is not a priority.",
+      "ne": "यो प्राथमिकतामा पर्दैन भन्दै तपाईंका सुपरिवेक्षकले मस्यौदा तपाईंलाई फिर्ता पठाउनुहुन्छ।",
+      "bt": "Your supervisor sends the draft back to you, saying that this is not a priority.",
+      "type": "general",
+      "terms": [
+        "T310"
+      ],
+      "flags": [],
+      "note": ""
+    },
+    {
+      "id": "FAC-27-0101",
+      "page": "91",
+      "loc": "para",
+      "section": "MSP Scenario Challenges",
+      "en": "Use the MSP to develop some points on how you would advocate for including MHPSS activities in the humanitarian response plan.",
+      "ne": "मानवीय प्रतिकार्य योजनामा MHPSS गतिविधिहरू समावेश गर्न तपाईंले कसरी पैरवी गर्ने भन्नेबारे MSP प्रयोग गरी केही बुँदा तयार गर्नुहोस्।",
+      "bt": "Using MSP, prepare some points on how you will advocate for including MHPSS activities in the humanitarian response plan.",
+      "type": "general",
+      "terms": [
+        "T003",
+        "T158",
+        "T163"
+      ],
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "The recurring term 'advocate' is absent from the supplied glossary; '[Nepali wording recorded in terminology evidence] [Nepali wording recorded in terminology evidence]' is proposed for review."
+    }
+  ]
+}

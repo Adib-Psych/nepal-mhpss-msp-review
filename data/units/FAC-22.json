@@ -1265,12 +1265,14 @@
       "loc": "bullet",
       "section": "Workshop Surveys",
       "en": "b. Provide mental health care as part of general health services",
-      "ne": "",
-      "bt": "",
-      "type": "protected",
-      "terms": [],
+      "ne": "b. सामान्य स्वास्थ्य सेवाको अङ्गका रूपमा मानसिक स्वास्थ्य सेवा प्रदान गर्ने",
+      "bt": "b. Providing mental health services as part of general health services",
+      "type": "activity",
+      "terms": [
+        "T107"
+      ],
       "flags": [],
-      "note": "This workshop survey assessment answer option is protected because it is an instrument response option rather than a standalone practice instruction."
+      "note": "Drafted as an ordinary workshop quiz answer option, not a clinical instrument item. The activity label reuses T107, as in FAC-22-0190."
     },
     {
       "id": "FAC-22-0090",
@@ -1297,12 +1299,14 @@
       "loc": "bullet",
       "section": "Workshop Surveys",
       "en": "d. Provide psychological debriefing to first responders",
-      "ne": "",
-      "bt": "",
-      "type": "protected",
+      "ne": "d. प्रारम्भिक प्रतिकार्यमा खटिने व्यक्तिहरूलाई [psychological debriefing] प्रदान गर्ने",
+      "bt": "d. Provide [psychological debriefing] to people deployed in the initial response",
+      "type": "safety",
       "terms": [],
-      "flags": [],
-      "note": "This workshop survey assessment answer option is protected because it is an instrument response option, even though its named intervention could otherwise be retained in bracketed English."
+      "flags": [
+        "glossary-missing"
+      ],
+      "note": "Drafted as an ordinary workshop quiz answer option, matching FAC-22-0192. The intervention name stays in English in brackets; no Nepali term for it has been agreed yet."
     },
     {
       "id": "FAC-22-0092",

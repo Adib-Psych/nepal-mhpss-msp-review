@@ -290,14 +290,15 @@
       "loc": "cell",
       "section": "Pre & Post tests",
       "en": "A4. I can explain why MHPSS is a multisectoral repsonse.",
-      "ne": "",
-      "bt": "",
-      "type": "protected",
-      "terms": [],
-      "flags": [
-        "source-ambiguous"
+      "ne": "A4. MHPSS किन बहु-क्षेत्रगत प्रतिकार्य हो भन्ने कुरा म व्याख्या गर्न सक्छु।",
+      "bt": "A4. I can explain why MHPSS is a multisectoral response.",
+      "type": "check",
+      "terms": [
+        "T026",
+        "T174"
       ],
-      "note": "This first-person self-assessment item in the pre/post test is protected as assessment-instrument content; the source spelling 'repsonse' appears to mean 'response' but remains unconfirmed."
+      "flags": [],
+      "note": "Drafted as an ordinary workshop self-assessment statement, matching FAC-22-0033. The source spells 'repsonse'; read as 'response'."
     },
     {
       "id": "WSE-0020",
@@ -936,14 +937,14 @@
       "loc": "cell",
       "section": "Evaluations",
       "en": "C1. I have a beter understanding of the MSP.",
-      "ne": "",
-      "bt": "",
-      "type": "protected",
-      "terms": [],
-      "flags": [
-        "source-ambiguous"
+      "ne": "C1. MSP बारे मेरो बुझाइ अझ राम्रो भएको छ।",
+      "bt": "C1. My understanding of the MSP has become better.",
+      "type": "check",
+      "terms": [
+        "T163"
       ],
-      "note": "This first-person evaluation item assessing the respondent’s understanding is protected as assessment-instrument content; the source spelling 'beter' appears to mean 'better' but remains unconfirmed."
+      "flags": [],
+      "note": "Drafted as an ordinary workshop evaluation statement, matching FAC-23-0038. The source spells 'beter'; read as 'better'."
     },
     {
       "id": "WSE-0063",

@@ -164,6 +164,21 @@ footer p{margin:0}
 .mini{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:14px;font-size:13.5px}
 .mini a.secchip{display:inline-flex;gap:6px;align-items:center;text-decoration:none;color:var(--navy);font-family:var(--head);font-weight:600;font-size:12.5px;padding:5px 9px;border-radius:4px;background:var(--bg);border:1px solid var(--line)}
 .mini a.secchip i{width:9px;height:9px;border-radius:50%;background:var(--gc);flex:0 0 9px}
+/* review round */
+.rtab{width:100%;border-collapse:collapse;font-size:14px}
+.rtab th{font-family:var(--head);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-align:left;padding:8px 10px;border-bottom:2px solid var(--line2)}
+.rtab td{padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:middle;text-align:left}
+.rtab td.act{text-align:right;white-space:nowrap}
+.rtab td.act .btn+.btn{margin-left:6px}
+.st-cell{font-family:var(--head);font-size:12.5px;font-weight:600;padding:3px 8px;border-radius:4px;display:inline-block;white-space:nowrap}
+.st-free{background:var(--at);color:var(--teal)}.st-held{background:var(--gold);color:#6b4f00}.st-done{background:var(--okt);color:var(--ok)}.st-none{color:#9aa7ad;font-weight:400}.st-lapsed{background:#f1e8f2;color:var(--purple)}
+.stages3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.stages3>div{border:1px solid var(--line);border-radius:8px;padding:14px 16px;border-top:5px solid var(--sc)}
+.stages3 h4{margin:0 0 4px;color:var(--navy)}.stages3 p{margin:0;font-size:14px}
+.hold{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.hold .btn{margin-left:0}
+.toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);background:var(--navy);color:#fff;padding:10px 16px;border-radius:6px;font-size:14px;z-index:50;max-width:min(92vw,640px);text-align:left}
+.kp{display:flex;gap:10px;flex-wrap:wrap}.kp span{font-family:var(--head);font-size:13px;padding:6px 10px;border-radius:4px;background:var(--bg);border:1px solid var(--line)}.kp b{color:var(--navy)}
 /* entry */
 #gate{display:none}
 html:not(.entered) #gate{display:block}
@@ -210,6 +225,13 @@ html:not(.entered) #app{display:none}
  td.id .kind{margin-top:0}
  td.pr .btns{flex-direction:row}
  .prf .grid2{grid-template-columns:1fr}
+ .stages3{grid-template-columns:minmax(0,1fr)}
+ table.rtab thead{display:none}
+ table.rtab,table.rtab tbody,table.rtab tr,table.rtab td{display:block;width:100%}
+ table.rtab tr{border:1px solid var(--line);border-radius:10px;margin-bottom:8px;background:#fff;padding:4px 0}
+ table.rtab td{border-bottom:0;padding:4px 12px}
+ table.rtab td.act{text-align:left;white-space:normal}
+ table.rtab td[data-l]::before{content:attr(data-l) ' · ';font-family:var(--head);font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
 }
 </style>
 </head>
@@ -237,7 +259,126 @@ let SITE=null, PREV={}, UNITS={}, VIEW={filter:'all',q:''};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fmt=n=>Number(n).toLocaleString('en-GB');
 const ls={get(k,d){try{const v=JSON.parse(localStorage.getItem(k));return v??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
-const who=()=>ls.get('msp-who',null), mine=()=>ls.get('msp-checks',{});
+const who=()=>ls.get('msp-who',null), mine=()=>(ROUND_ON&&RB)?RB.ck:ls.get('msp-checks',{});
+
+/* ---- Review round (built 24 Nov 2026). The server rules enforce every limit; this page only shows them. ---- */
+const FB={pid:'mhpss-nepal-iec-review',key:'AIzaSyBN-sh64hOZeQClPi8Z8k-fXcVfBs2pxFQ'};
+const EMU=/^(localhost|127\.0\.0\.1)$/.test(location.hostname)&&new URLSearchParams(location.search).get('emu'); /* local tests only */
+const ROUND_ON=SEND_ENABLED||!!EMU;
+const FSN=EMU?'projects/demo-msp/databases/(default)/documents':`projects/${FB.pid}/databases/(default)/documents`;
+const FSB=(EMU?`http://${EMU}`:'https://firestore.googleapis.com')+'/v1/'+FSN, KQ=EMU?'':'key='+FB.key;
+const LOCK_MS=3*86400000, STAGES=['language','technical','clinical'];
+const STAGE={language:['Language','A professional Nepali translator checks that each row says the same thing in correct, clear written Nepali.','var(--teal)'],
+ technical:['MHPSS technical','A reviewer with an MHPSS background checks terms, activity names and technical meaning.','var(--purple)'],
+ clinical:['Clinical','Only for sections with safety messages: a clinical reviewer checks the safety rows.','var(--coral)']};
+let ME=null, RB=null;
+const myKey=()=>ls.get('msp-key',null);
+const fv=v=>typeof v==='boolean'?{booleanValue:v}:typeof v==='number'?{integerValue:String(v)}:{stringValue:String(v)};
+const fd=x=>!x?null:'stringValue'in x?x.stringValue:'booleanValue'in x?x.booleanValue:'integerValue'in x?+x.integerValue:'timestampValue'in x?x.timestampValue:'arrayValue'in x?(x.arrayValue.values||[]).map(fd):null;
+const fdoc=d=>{const o={_id:d.name.split('/').pop()};for(const[k,v]of Object.entries(d.fields||{}))o[k]=fd(v);return o};
+const fsu=(p,q)=>`${FSB}/${p}`+((q||KQ)?'?'+[q,KQ].filter(Boolean).join('&'):'');
+async function fsGet(p){const r=await fetch(fsu(p));if(!r.ok)throw new Error('read '+r.status);return fdoc(await r.json())}
+async function fsList(p){let out=[],t='';do{const r=await fetch(fsu(p,'pageSize=300'+(t?'&pageToken='+encodeURIComponent(t):'')));if(!r.ok)throw new Error('list '+r.status);const j=await r.json();out=out.concat((j.documents||[]).map(fdoc));t=j.nextPageToken||''}while(t);return out}
+async function fsCommit(writes){const r=await fetch(FSB+':commit'+(KQ?'?'+KQ:''),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({writes})});if(!r.ok)throw new Error((await r.text()).slice(0,200));return r.json()}
+const wSet=(p,o,ts)=>({update:{name:`${FSN}/${p}`,fields:Object.fromEntries(Object.entries(o).map(([k,v])=>[k,fv(v)]))},updateTransforms:(ts||[]).map(f=>({fieldPath:f,setToServerValue:'REQUEST_TIME'}))});
+const nonce=()=>{const a=new Uint8Array(16);crypto.getRandomValues(a);return[...a].map(b=>b.toString(16).padStart(2,'0')).join('')};
+const dd=t=>new Date(t).toLocaleDateString('en-GB',{day:'numeric',month:'short'});
+function toast(t){let e=document.getElementById('toast');if(!e){e=document.createElement('div');e.id='toast';e.className='toast';e.setAttribute('role','status');document.body.appendChild(e)}e.textContent=t;e.hidden=false;clearTimeout(toast.h);toast.h=setTimeout(()=>{e.hidden=true},6000)}
+async function loadRound(force){
+ const key=myKey(); if(!ROUND_ON||!key){ME=null;RB=null;return}
+ if(RB&&!force) return;
+ try{const r=await fsGet('mspReviewers/'+key); if(r.active!==true) throw 0; ME={key,rid:r.rid,roles:r.roles||[]}}catch(e){ME={bad:true};RB=null;return}
+ const [pk,cl,se,ck]=await Promise.all([fsList('mspPackages'),fsList('mspClaims'),fsList('mspSeats'),fsList(`mspWork/${key}/checks`)]);
+ const ix=a=>Object.fromEntries(a.map(x=>[x._id,x]));
+ RB={pk:ix(pk),cl:ix(cl),se:ix(se),ck:{}};
+ for(const c of ck) RB.ck[c.row]={v:c.verdict,text:c.text,note:c.note,stage:c.stage};
+}
+function cst(c){if(!c||c.released)return'free';if(c.done)return'done';return Date.parse(c.at)+LOCK_MS>Date.now()?'held':'lapsed'}
+function myHold(u){if(!RB||!ME||ME.bad)return null;for(const st of STAGES){const c=RB.cl[`${u}__${st}`];if(c&&c.rid===ME.rid&&cst(c)==='held')return st}return null}
+function unitDoc(u){return SITE.docs.find(d=>d.units.includes(u))}
+function inScope(r,u,st){if(!r.ne||r.type==='keep'||r.type==='protected')return false;
+ if(st==='clinical'&&((RB&&RB.pk[u]&&RB.pk[u].clinicalScope)||'safety')==='safety')return r.type==='safety';return true}
+function scopeCount(u,st){const U=UNITS[u];if(!U)return[0,0];const rs=U.rows.filter(r=>inScope(r,u,st));return[rs.filter(r=>RB&&RB.ck[r.id]).length,rs.length]}
+function canTake(u,st){if(!ME||ME.bad||!ME.roles.includes(st))return false;const P=RB.pk[u];if(!P||!(P.stages||[]).includes(st))return false;
+ const c=RB.cl[`${u}__${st}`],s=cst(c);if(s==='held'||s==='done')return false;if(c&&c.rid===ME.rid&&s==='held')return false;
+ const seat=RB.se[`${u}__${ME.rid}`];return !seat||seat.stage===st}
+async function roundAct(op,u,st){
+ const n=nonce(),rid=ME.rid,w=[wSet('mspAct/'+n,{key:ME.key,rid,pkg:u,stage:st,op},['t'])];
+ if(op==='claim'&&!RB.se[`${u}__${rid}`]) w.push(wSet(`mspSeats/${u}__${rid}`,{pkg:u,rid,stage:st,act:n}));
+ w.push(wSet(`mspClaims/${u}__${st}`,{pkg:u,stage:st,rid,act:n,done:op==='done',released:op==='release'},['at']));
+ try{await fsCommit(w);toast({claim:'Section taken. It is held for you for 3 days.',renew:'Hold renewed for 3 more days.',release:'Section released for others.',done:'Stage marked complete. Thank you.'}[op])}
+ catch(e){toast(op==='claim'?'This section could not be taken: someone may have taken it a moment ago. The list has been refreshed.':'This could not be saved. The page has been refreshed with the latest state.')}
+ await loadRound(true); render();
+}
+async function saveCheckRound(id,v,text,note){
+ const u=id.replace(/-\d{4}$/,''),st=myHold(u); if(!st){toast('Your hold on this section has ended. Open My review to take it again.');return false}
+ const o={pkg:u,stage:st,row:id,verdict:v}; if(v==='change')o.text=text; if(note)o.note=note;
+ try{await fsCommit([wSet(`mspWork/${ME.key}/checks/${u}__${st}__${id}`,o,['at'])]);RB.ck[id]={v,text,note,stage:st};return true}
+ catch(e){toast('Not saved: your hold on this section may have ended. The page has been refreshed.');await loadRound(true);return false}
+}
+async function undoCheckRound(id){const c=RB.ck[id];if(!c)return;const u=id.replace(/-\d{4}$/,'');
+ try{await fsCommit([{delete:`${FSN}/mspWork/${ME.key}/checks/${u}__${c.stage}__${id}`}]);delete RB.ck[id]}catch(e){toast('This could not be changed: your hold on this section may have ended.')}}
+
+function roundClosed(t){return `<section class="card stack"><h2 style="margin:0;color:var(--navy)">${t}</h2><p>The review round has not opened yet. Please keep your personal link: it will work here as soon as the round opens.</p></section>`}
+function minePage(){
+ if(!myKey()) return `<section class="card stack"><h2 style="margin:0;color:var(--navy)">My review</h2><p>Reviewers open this page through the personal link they receive from the review team. If you have a link, please open it again on this device.</p></section>`;
+ if(!ROUND_ON) return roundClosed('My review');
+ if(!ME||ME.bad) return `<section class="card stack"><h2 style="margin:0;color:var(--navy)">My review</h2><p>This personal link is not valid or is no longer active. Please contact the review team for a new link.</p><p><button class="btn" data-ract="forget">Remove this link from this device</button></p></section>`;
+ const roles=ME.roles.filter(r=>STAGES.includes(r));
+ const mineC=Object.values(RB.cl).filter(c=>c.rid===ME.rid&&!c.released&&cst(c)!=='free');
+ const order=u=>SITE.docs.flatMap(d=>d.units).indexOf(u);
+ mineC.sort((a,b)=>order(a.pkg)-order(b.pkg));
+ const label=u=>{const d=unitDoc(u),U=UNITS[u];return `<b>${esc(U?U.unit_title:u)}</b><br><span class="who-line">${esc(d?d.short:'')} · ${esc(u)}</span>`};
+ let h=`<section class="card stack"><div class="filters" style="justify-content:space-between;align-items:flex-start"><div><h2 style="margin:0;color:var(--navy)">My review</h2>
+  <p style="margin:6px 0 0">Reviewer code <b>${esc(ME.rid)}</b> · ${roles.map(r=>esc(STAGE[r][0])).join(' · ')||'no review stage'}${ME.roles.includes('reconcile')?' · Reconciliation':''}</p></div>
+  <button class="lnk" data-ract="forget">Remove my link from this device</button></div>
+  <p>Take a section to hold it for 3 days. Renew it if you need more time, or release it so that someone else can take it. When every row in your stage is checked, mark the stage complete.</p></section>`;
+ h+=`<section class="card stack"><h3 style="margin:0;color:var(--navy)">Sections you hold</h3>`;
+ if(!mineC.length) h+=`<p>You do not hold any section yet. Take one from the list below.</p>`;
+ else{h+=`<table class="rtab"><thead><tr><th>Section</th><th>Stage</th><th>Status</th><th>Rows checked</th><th></th></tr></thead><tbody>`;
+  for(const c of mineC){const s=cst(c),[k,n]=scopeCount(c.pkg,c.stage),d=unitDoc(c.pkg);
+   h+=`<tr><td data-l="Section">${label(c.pkg)}</td><td data-l="Stage">${esc(STAGE[c.stage][0])}</td>
+    <td data-l="Status">${s==='held'?`<span class="st-cell st-held">Held until ${dd(Date.parse(c.at)+LOCK_MS)}</span>`:s==='done'?'<span class="st-cell st-done">✓ Complete</span>':'<span class="st-cell st-lapsed">Hold ended</span>'}</td>
+    <td data-l="Rows">${k} of ${n}</td><td class="act">${s==='done'?'':`<a class="btn" href="#doc/${d.id}/${c.pkg}">Open</a>`}
+    ${s==='held'?`<button class="btn" data-ract="renew" data-u="${c.pkg}" data-s="${c.stage}">Renew</button><button class="btn" data-ract="release" data-u="${c.pkg}" data-s="${c.stage}">Release</button><button class="btn pri" data-ract="done" data-u="${c.pkg}" data-s="${c.stage}"${k<n?' disabled title="Check every row first"':''}>Complete</button>`:''}
+    ${s==='lapsed'&&canTake(c.pkg,c.stage)?`<button class="btn pri" data-ract="claim" data-u="${c.pkg}" data-s="${c.stage}">Take again</button>`:''}</td></tr>`}
+  h+=`</tbody></table>`}
+ h+=`</section>`;
+ for(const st of roles){
+  const avail=SITE.docs.flatMap(d=>d.units).filter(u=>canTake(u,st)&&!mineC.some(c=>c.pkg===u&&c.stage===st));
+  h+=`<section class="card stack"><h3 style="margin:0;color:var(--navy)">Sections you can take now · ${esc(STAGE[st][0])}</h3><p>${esc(STAGE[st][1])}</p>`;
+  if(!avail.length) h+=`<p>No section is open for this stage at the moment.</p>`;
+  else{h+=`<table class="rtab"><thead><tr><th>Section</th><th>Rows</th><th></th></tr></thead><tbody>`;
+   for(const u of avail){const n=scopeCount(u,st)[1];h+=`<tr><td data-l="Section">${label(u)}</td><td data-l="Rows">${n}</td><td class="act"><a class="btn" href="#doc/${unitDoc(u).id}/${u}">View</a><button class="btn pri" data-ract="claim" data-u="${u}" data-s="${st}">Take</button></td></tr>`}
+   h+=`</tbody></table>`}
+  h+=`</section>`}
+ if(ME.roles.includes('reconcile')) h+=`<section class="card stack"><h3 style="margin:0;color:var(--navy)">Reconciliation</h3><p>Rows where the stages disagree will appear here once the first stages are complete.</p></section>`;
+ return h;
+}
+function progressPage(){
+ if(!ROUND_ON) return roundClosed('Progress');
+ if(!ME||ME.bad) return minePage();
+ const all=SITE.docs.flatMap(d=>d.units.map(u=>[d,u]));let tot=0,dn=0,hd=0;
+ for(const[,u]of all)for(const st of STAGES){const P=RB.pk[u];if(!P||!(P.stages||[]).includes(st))continue;tot++;const s=cst(RB.cl[`${u}__${st}`]);if(s==='done')dn++;else if(s==='held')hd++}
+ const cell=(u,st)=>{const P=RB.pk[u];if(!P||!(P.stages||[]).includes(st))return'<span class="st-cell st-none">not needed</span>';const c=RB.cl[`${u}__${st}`],s=cst(c);
+  return s==='done'?`<span class="st-cell st-done">✓ ${esc(c.rid)}</span>`:s==='held'?`<span class="st-cell st-held">${esc(c.rid)} · to ${dd(Date.parse(c.at)+LOCK_MS)}</span>`:s==='lapsed'?'<span class="st-cell st-lapsed">open · hold ended</span>':'<span class="st-cell st-free">open</span>'};
+ let h=`<section class="card stack"><h2 style="margin:0;color:var(--navy)">Progress · sections × stages</h2>
+  <p>Each section is checked by two different people, language and MHPSS technical, at the same time; sections with safety messages also have a clinical stage. Reviewers appear by code only.</p>
+  <div class="kp"><span><b>${dn}</b> of ${tot} stages complete</span><span><b>${hd}</b> in progress</span><span><b>${tot-dn-hd}</b> open</span></div></section>
+  <section class="card"><table class="rtab"><thead><tr><th>Section</th><th>Language</th><th>MHPSS technical</th><th>Clinical</th></tr></thead><tbody>`;
+ for(const[d,u]of all){const U=UNITS[u];h+=`<tr><td data-l="Section"><b>${esc(U?U.unit_title:u)}</b><br><span class="who-line">${esc(d.short)} · ${esc(u)}</span></td>${STAGES.map(st=>`<td data-l="${esc(STAGE[st][0])}">${cell(u,st)}</td>`).join('')}</tr>`}
+ return h+`</tbody></table></section>`;
+}
+function holdBar(u){
+ if(!ROUND_ON||!myKey()) return `<div class="notice warm"><b>Preview.</b> The review round has not opened yet. Checks you make here stay on this device only.</div>`;
+ if(!ME||ME.bad) return `<div class="notice warm">This personal link is not valid or is no longer active. Rows can be read but not checked.</div>`;
+ const st=myHold(u);
+ if(st){const c=RB.cl[`${u}__${st}`],[k,n]=scopeCount(u,st);
+  return `<div class="notice hold"><span>You hold the <b>${esc(STAGE[st][0])}</b> stage of this section until <b>${dd(Date.parse(c.at)+LOCK_MS)}</b> · ${k} of ${n} rows checked${st==='clinical'&&n?' (safety rows)':''}.</span>
+   <button class="btn" data-ract="renew" data-u="${u}" data-s="${st}">Renew</button><button class="btn" data-ract="release" data-u="${u}" data-s="${st}">Release</button><button class="btn pri" data-ract="done" data-u="${u}" data-s="${st}"${k<n?' disabled title="Check every row first"':''}>Complete</button></div>`}
+ const can=STAGES.filter(x=>canTake(u,x));
+ return `<div class="notice">You can read this section. ${can.length?`To check its rows, take it: ${can.map(x=>`<button class="btn pri" data-ract="claim" data-u="${u}" data-s="${x}">Take · ${esc(STAGE[x][0])}</button>`).join(' ')}`:'It is not open for your review stage at the moment.'}</div>`;
+}
 
 function gate(){
  document.getElementById('gate').innerHTML=`<div class="card">
@@ -250,13 +391,13 @@ function gate(){
    <li>The Nepali drafts are <b>AI-assisted</b>, prepared under human direction, with a machine back-translation of each sentence to help check the meaning. Native-speaker review is what makes them usable.</li>
    <li>This is <b>not an official IASC translation</b>. The original English edition of the MSP is the binding and authentic edition.</li>
    <li>You may share this link with colleagues who will help review, provided they also agree to these points.</li>
-   <li>When you check a sentence, your name, organisation, email, your check and your acknowledgement choice are stored for the review team. They are not shown to other reviewers.</li>
+   <li>When the review round opens, each reviewer receives a personal link. Your checks are stored for the review team under a reviewer code; your name and email stay with the review team and are not stored in this site’s database. Checks are not shown to other reviewers.</li>
   </ol>
   <div class="acts"><button class="btn pri" data-gate="yes">I agree and will help with proofreading</button><button class="btn" data-gate="view">I agree, view the materials</button><button class="btn" data-gate="no">I do not agree</button></div>
   <p id="gmsg" class="small" style="margin-top:12px"></p></div>`;
  document.getElementById('gate').onclick=e=>{const b=e.target.closest('[data-gate]');if(!b)return;
   if(b.dataset.gate==='no'){document.getElementById('gmsg').textContent='Thank you. You can close this page. Nothing has been stored.';return}
-  ls.set('msp-entry',GATE_V);document.documentElement.classList.add('entered');location.hash=b.dataset.gate==='yes'?'#how':'#board';render()};
+  ls.set('msp-entry',GATE_V);document.documentElement.classList.add('entered');location.hash=b.dataset.gate==='yes'?(myKey()?'#mine':'#how'):'#board';render()};
 }
 
 function docRows(d){return d.units.reduce((a,u)=>a+((UNITS[u]&&UNITS[u].rows.length)||0),0)}
@@ -271,6 +412,7 @@ function side(route){
   <a class="nav${on('how')}" href="#how"><span class="ic">?</span>How to review</a>
   <a class="nav${on('glossary')}" href="#glossary"><span class="ic">Aa</span>Glossary</a>
   <a class="nav${on('about')}" href="#about"><span class="ic">i</span>About</a>`;
+ if(myKey()) h=`<a class="nav${on('mine')}" href="#mine"><span class="ic">★</span>My review</a><a class="nav${on('progress')}" href="#progress"><span class="ic">▤</span>Progress</a>`+h;
  for(const p of ['A','B','C']){
   h+=`<div class="lbl"><i style="background:${PH[p].c}"></i>${PH[p].name.toUpperCase()}</div>`;
   for(const d of SITE.docs.filter(x=>x.phase===p))
@@ -299,7 +441,7 @@ function board(){
    h+=`<a class="doc" href="#doc/${d.id}" style="--pc:${d.color||PH[p].c}"><span class="g">${d.color?'<i class="dot"></i>':''}${esc(d.group.toUpperCase())}</span><h4>${esc(d.short)}</h4>
     <span class="meta">${esc(d.pages)}${/^\d+$/.test(d.pages)?(d.pages==='1'?' page':' pages'):''} · ≈ ${fmt(d.words)} words${n?` · ${fmt(n)} rows`:''}</span>
     <span class="st">${status(d)}${n?`<span class="bar"><i style="width:${Math.round(100*k/n)}%"></i></span><span class="who-line">${k} of ${n} checked by you</span>`:''}
-    <span class="who-line">Reviewer: ${d.reviewer?esc(d.reviewer):'to be assigned'}</span></span></a>`}
+    <span class="who-line">${d.units.length>1?d.units.length+' sections, each taken separately':'One section'}</span></span></a>`}
   h+=`</div>`;
  }
  return h;
@@ -315,7 +457,7 @@ function whoForm(){const w=who()||{};
   <button class="btn pri">Save</button></form></div>`}
 
 const SECLABEL={frontmatter:'Opening pages'}; // internal section names shown in reader words (24 Nov 2026)
-function rowHtml(r,m){
+function rowHtml(r,m,lock){
  const k=KIND[r.type], st=m[r.id];
  const kind=k?`<span class="kind k-${r.type}">${k[0]}</span>`:'';
  let ne;
@@ -324,25 +466,29 @@ function rowHtml(r,m){
  else ne=`<span lang="ne">${esc(r.ne)}</span>${r.bt?`<span class="bt">${esc(r.bt)}</span>`:''}${(r.flags||[]).length?`<span class="fn">${(r.flags||[]).map(f=>esc(FLAG[f]||f)).join(' ')}${r.note?' '+esc(r.note):''}</span>`:''}`;
  let pr;
  if(r.type==='protected'||r.type==='keep'||!r.ne) pr=`<span class="who-line">No check needed here</span>`;
+ else if(lock&&lock(r)) pr=`<span class="who-line">${lock(r)}</span>`;
  else if(st) pr=`<span class="state ${st.v==='ok'?'ok':'ch'}">${st.v==='ok'?'✓ Correct':'✎ Correction saved'}</span><button class="lnk" data-act="redo">Change</button>`;
  else pr=`<div class="btns"><button class="btn ok" data-act="ok">✓ Correct</button><button class="btn ch" data-act="edit">✎ Suggest change</button></div>`;
  return `<tr data-row="${esc(r.id)}" class="${(r.flags||[]).length?'flag':''}${st?' done':''}"><td class="id"><b>${esc(r.id)}</b>p. ${esc(r.page)} ${kind}</td>
   <td class="en">${r.section?`<span class="sec">${esc(SECLABEL[r.section]||r.section)}</span>`:''}${esc(r.en)}</td><td class="ne">${ne}</td><td class="pr">${pr}</td></tr>`}
 
-function table(rows){
+function table(rows,u){
  const m=mine(), q=VIEW.q.toLowerCase();
+ const rnd=ROUND_ON&&myKey()&&u, st=rnd?myHold(u):null;
+ const lock=rnd?(r=>!ME||ME.bad||!st?'Take this section to check rows':!inScope(r,u,st)?'Not part of the clinical stage':''):null;
  let rs=rows.filter(r=>!q||(r.en+' '+r.ne).toLowerCase().includes(q));
  if(VIEW.filter==='attn') rs=rs.filter(r=>(r.flags||[]).length||r.type==='safety'||r.type==='check');
- if(VIEW.filter==='open') rs=rs.filter(r=>!m[r.id]&&r.ne);
+ if(VIEW.filter==='open') rs=rs.filter(r=>!m[r.id]&&r.ne&&(!st||inScope(r,u,st)));
  if(VIEW.filter==='attn') rs.sort((a,b)=>((b.flags||[]).length?2:0)+(b.type==='safety'?1:0)-((a.flags||[]).length?2:0)-(a.type==='safety'?1:0));
- const n=rows.filter(r=>r.ne&&r.type!=='protected'&&r.type!=='keep').length, k=rows.filter(r=>m[r.id]).length;
+ const sc=st?rows.filter(r=>inScope(r,u,st)):rows.filter(r=>r.ne&&r.type!=='protected'&&r.type!=='keep');
+ const n=sc.length, k=sc.filter(r=>m[r.id]).length;
  return `<div class="card stack">
   <div class="filters"><span class="seg">${[['all','All rows'],['attn','Needs attention first'],['open','Not yet checked by me']].map(([v,t])=>`<button data-f="${v}" class="${VIEW.filter===v?'on':''}">${t}</button>`).join('')}</span>
    <input type="search" id="q" placeholder="Search English or Nepali" value="${esc(VIEW.q)}"></div>
   <div class="prog"><span>${k} of ${n} rows checked by you</span><span class="bar"><i style="width:${n?Math.round(100*k/n):0}%"></i></span><span>${rs.length} shown</span></div>
   <table class="tr"><colgroup><col style="width:11%"><col style="width:34%"><col style="width:37%"><col style="width:18%"></colgroup>
   <thead><tr><th>Row</th><th>English (source)</th><th>नेपाली · Nepali draft</th><th>Your check</th></tr></thead>
-  <tbody>${rs.map(r=>rowHtml(r,m)).join('')||'<tr><td colspan="4">No rows match.</td></tr>'}</tbody></table></div>`}
+  <tbody>${rs.map(r=>rowHtml(r,m,lock)).join('')||'<tr><td colspan="4">No rows match.</td></tr>'}</tbody></table></div>`}
 
 function docPage(id,unit){
  const d=SITE.docs.find(x=>x.id===id); if(!d) return board();
@@ -353,7 +499,7 @@ function docPage(id,unit){
  if(d.units.length){
   const u=unit&&d.units.includes(unit)?unit:d.units[0], U=UNITS[u];
   if(d.units.length>1) h+=`<div class="tabs" style="--pc:${pc}">${d.units.map(x=>`<a class="tab${x===u?' on':''}" href="#doc/${d.id}/${x}">${esc(UNITS[x]?UNITS[x].unit_title:x)}</a>`).join('')}</div>`;
-  h+=whoForm()+(U?`<div style="--pc:${pc}">${table(U.rows)}</div>`:'<div class="card">Loading…</div>');
+  h+=(ROUND_ON&&myKey()?'':whoForm())+holdBar(u)+(U?`<div style="--pc:${pc}">${table(U.rows,u)}</div>`:'<div class="card">Loading…</div>');
   return h;
  }
  h+=`<section class="card empty"><div><h3>The Nepali draft of this document is being prepared</h3>
@@ -371,18 +517,17 @@ function how(){
  return `<section class="card stack"><h2 style="margin:0;color:var(--navy)">How to review · 6 steps</h2>
   <p>You can stop at any time: every click is saved, and you continue where you left off.</p>
   <div class="steps6">
-   ${st('01','var(--teal)','Enter your details once','On any document page, type your name, organisation and email, and choose how you wish to be acknowledged. This browser remembers you.','<i>Name</i><i>Organisation</i><i>Email</i>')}
-   ${st('02','var(--teal)','Open your document','On the Workboard, open the document assigned to you. Each document has its own page, so reviewers do not get in each other’s way.','<i>Workboard</i><i>▸ Health</i>')}
+   ${st('01','var(--teal)','Open your personal link','The review team sends each reviewer a personal link. Open it once on the device you will use; it shows My review. Do not forward it: it records your checks.','<i>My review</i>')}
+   ${st('02','var(--teal)','Take a section','In My review, take a section that is open for your stage. It is held for you for 3 days; renew it if you need more time, or release it for someone else.','<i>Take</i><i>Renew</i><i>Release</i>')}
    ${st('03','var(--coral)','Start with rows that need attention','Click “Needs attention first”. Safety and technical rows come first, then rows where the back-translation suggests the meaning may have shifted.','<i>Needs attention first</i>')}
    ${st('04','var(--purple)','Read one row at a time','English on the left, Nepali in the middle, the back-translation in small italics below it. Ask: does the Nepali say the same thing, in clear written Nepali?','<i>English</i><i>नेपाली</i><i>Back-translation</i>')}
    ${st('05','var(--purple)','Choose one button','If the Nepali is right, click Correct. If it needs a change, click Suggest change, type the better Nepali and, if useful, a short note.','<i class="ok">✓ CORRECT</i><i class="ch">✎ SUGGEST CHANGE</i>')}
-   ${st('06','#122E38','Repeat at your own pace','Work through the rows of your document. The bar at the top of the table shows how many rows you have checked.','<i>12 of 50 rows checked by you</i>')}
+   ${st('06','#122E38','Complete your stage','When every row of your stage is checked, click Complete in My review. The section then moves on, and you can take the next one.','<i>12 of 50 rows checked by you</i><i class="ok">COMPLETE</i>')}
   </div></section>
- <section class="card stack"><h3 style="margin:0;color:var(--navy)">How many reviewers each row needs</h3><div class="kinds">
-  <div><span class="kind k-safety">SAFETY</span><h4>Safety messages · 2 reviewers</h4><p>When and where to seek help or refer, risk of harm, violence, consent and confidentiality, medicines.</p><p class="who">At least one with an MHPSS or health background.</p></div>
-  <div><span class="kind k-check">CHECK</span><h4>Technical or clinical wording · 2 reviewers</h4><p>Clinical and psychological terms, intervention names, definitions, standards and numbers, licence lines.</p><p class="who">At least one bilingual MHPSS or clinical reviewer.</p></div>
-  <div><span class="kind k-activity">ACTIVITY</span><h4>MSP activity names · agreed once</h4><p>The names and codes of MSP activities must read the same in every document, so they follow the glossary.</p><p class="who">Agreed in the glossary, then used everywhere.</p></div>
-  <div><span class="kind" style="background:#eceff0;color:#44545a">NO LABEL</span><h4>Everyday text · 1 reviewer</h4><p>Headings, explanations and instructions in plain written Nepali.</p><p class="who">Any native Nepali speaker on the team.</p></div></div></section>
+ <section class="card stack"><h3 style="margin:0;color:var(--navy)">Two different people check every section</h3>
+  <p>Long documents are split into sections. Each section is checked in two stages by two different people, and sections with safety messages also have a clinical stage. The stages run at the same time on the same draft, so nobody waits for anyone else. A person takes only one stage in a section. Where the stages disagree on a row, the row goes to reconciliation.</p>
+  <div class="stages3">${STAGES.map(x=>`<div style="--sc:${STAGE[x][2]}"><h4>${STAGE[x][0]}</h4><p>${STAGE[x][1]}</p></div>`).join('')}</div>
+  <p>Row labels help you decide where to look first: <span class="kind k-safety">SAFETY</span> when and where to seek help or refer, risk of harm, violence, consent and confidentiality, medicines; <span class="kind k-check">CHECK</span> clinical and psychological terms, intervention names, definitions, standards and numbers; <span class="kind k-activity">ACTIVITY</span> MSP activity names, which follow the glossary.</p></section>
  <section class="card stack"><h3 style="margin:0;color:var(--navy)">6 things to check in every row</h3><ol class="steps">
   <li><b>Same meaning.</b> Nothing added, nothing left out. This is a translation, not an adaptation.</li>
   <li><b>Clear, formal written Nepali</b> suited to practitioners, coordinators and government officials.</li>
@@ -414,7 +559,7 @@ function about(){
   <p class="disc">“This translation/adaptation was not created by the Inter-Agency Standing Committee (IASC). The IASC is not responsible for the content or accuracy of this translation. The original English edition: Inter-Agency Standing Committee, The Mental Health and Psychosocial Support Minimum Service Package, Licence: CC BY-NC-SA 3.0 IGO, shall be the binding and authentic edition.”</p>
   <p><b>Suggested citation of the original:</b> Inter-Agency Standing Committee (IASC), The Mental Health and Psychosocial Support Minimum Service Package, IASC, Geneva, 2022.</p>
   <h3 style="margin:8px 0 0">Your data</h3>
-  <p>When you check a row, your name, organisation, email, your check and how you wish to be acknowledged are stored for the review team. Checks are not shown to other reviewers by name. Contributors who agree are acknowledged by name or organisation.</p></section>`}
+  <p>Each reviewer works through a personal link. Your checks, the section and stage you took, and the time are stored for the review team under a reviewer code. Your name, organisation and email stay with the review team and are not stored in this site’s database. Checks are not shown to other reviewers; the progress page shows reviewer codes only. Contributors who agree are acknowledged by name or organisation.</p></section>`}
 
 async function loadUnits(d){await Promise.all(d.units.filter(u=>!UNITS[u]).map(async u=>{try{UNITS[u]=await (await fetch(`data/units/${u}.json`,{cache:'no-cache'})).json()}catch(e){}}))}
 
@@ -423,41 +568,46 @@ async function render(){
  const [r0,a,b]=(location.hash.slice(1)||'board').split('/'), route=r0==='doc'?`doc/${a}`:r0;
  side(route);
  const main=document.getElementById('main');
- if(r0==='doc'){const d=SITE.docs.find(x=>x.id===a); if(d) await loadUnits(d); main.innerHTML=docPage(a,b)}
+ if(r0==='doc'){const d=SITE.docs.find(x=>x.id===a); if(d) await loadUnits(d); await loadRound(); main.innerHTML=docPage(a,b)}
  else if(r0==='how') main.innerHTML=how();
  else if(r0==='glossary') main.innerHTML=glossary();
  else if(r0==='about') main.innerHTML=about();
- else {for(const d of SITE.docs) await loadUnits(d); main.innerHTML=board()}
+ else if(r0==='mine'||r0==='progress'){for(const d of SITE.docs) await loadUnits(d); await loadRound(); main.innerHTML=r0==='mine'?minePage():progressPage()}
+ else {for(const d of SITE.docs) await loadUnits(d); await loadRound(); main.innerHTML=board()}
  document.querySelectorAll('.nav.on').forEach(n=>n.scrollIntoView({block:'nearest',inline:'center'}));
 }
 
 function currentRows(){const [r0,a,b]=location.hash.slice(1).split('/');const d=SITE.docs.find(x=>x.id===a);if(!d)return[];
  if(d.units.length){const u=b&&d.units.includes(b)?b:d.units[0];return (UNITS[u]&&UNITS[u].rows)||[]}
  return PREV[d.id]?PREV[d.id].rows:[]}
-function saveCheck(id,v,text,note){const m=mine();m[id]={v,text,note,t:new Date().toISOString()};ls.set('msp-checks',m);
- /* SEND_ENABLED: the review-round backend posts {row:id, verdict:v, text, note, who} here */}
+function saveCheck(id,v,text,note){if(ROUND_ON&&myKey()) return saveCheckRound(id,v,text,note);
+ const m=ls.get('msp-checks',{});m[id]={v,text,note,t:new Date().toISOString()};ls.set('msp-checks',m);return Promise.resolve(true)}
 
-document.addEventListener('click',e=>{
+document.addEventListener('click',async e=>{
  const f=e.target.closest('[data-f]'); if(f){VIEW.filter=f.dataset.f;render();return}
+ const ra=e.target.closest('[data-ract]'); if(ra){const op=ra.dataset.ract;
+  if(op==='forget'){try{localStorage.removeItem('msp-key')}catch(x){}ME=null;RB=null;location.hash='#board';render();return}
+  ra.disabled=true; await roundAct(op,ra.dataset.u,ra.dataset.s); return}
  const b=e.target.closest('[data-act]'); if(!b) return;
  const act=b.dataset.act;
  if(act==='who-edit'){document.getElementById('whof').style.display='';return}
  const tr=b.closest('tr'); if(!tr) return; const id=tr.dataset.row;
- if(act!=='redo'&&act!=='send'&&act!=='cancel'&&!who()){const f=document.getElementById('whof');if(f){f.style.display='';f.scrollIntoView({behavior:'smooth',block:'center'})}else alert('Please enter your details at the top of the page first.');return}
- if(act==='ok'){saveCheck(id,'ok');render();return}
- if(act==='redo'){const m=mine();delete m[id];ls.set('msp-checks',m);render();return}
+ if(act!=='redo'&&act!=='send'&&act!=='cancel'&&!who()&&!(ROUND_ON&&myKey())){const f=document.getElementById('whof');if(f){f.style.display='';f.scrollIntoView({behavior:'smooth',block:'center'})}else alert('Please enter your details at the top of the page first.');return}
+ if(act==='ok'){b.disabled=true;await saveCheck(id,'ok');render();return}
+ if(act==='redo'){if(ROUND_ON&&myKey()){await undoCheckRound(id)}else{const m=ls.get('msp-checks',{});delete m[id];ls.set('msp-checks',m)}render();return}
  if(act==='edit'){const r=currentRows().find(x=>x.id===id); if(tr.nextElementSibling&&tr.nextElementSibling.classList.contains('prf'))return;
   tr.insertAdjacentHTML('afterend',`<tr class="prf" data-row="${esc(id)}"><td colspan="4"><div class="grid2"><label style="font-size:12.5px;font-weight:600;color:var(--muted)">Better Nepali<textarea lang="ne">${esc(r?r.ne:'')}</textarea></label><label style="font-size:12.5px;font-weight:600;color:var(--muted)">Note (optional)<input maxlength="1000"></label><span style="display:flex;gap:8px"><button class="btn pri" data-act="send">Save</button><button class="btn" data-act="cancel">Cancel</button></span></div><span class="err" style="color:var(--safe);font-size:13px"></span></td></tr>`);return}
  if(act==='cancel'){tr.remove();return}
  if(act==='send'){const t=tr.querySelector('textarea').value.trim(),n=tr.querySelector('input').value.trim(),r=currentRows().find(x=>x.id===id);
   if(!t||(r&&t===r.ne)){tr.querySelector('.err').textContent='Please type the corrected Nepali (it is the same as the draft).';return}
-  saveCheck(id,'change',t,n);render();return}
+  b.disabled=true;await saveCheck(id,'change',t,n);render();return}
 });
 document.addEventListener('input',e=>{if(e.target.id==='q'){VIEW.q=e.target.value;const pos=e.target.selectionStart;render().then(()=>{const q=document.getElementById('q');if(q){q.focus();q.setSelectionRange(pos,pos)}})}});
 document.addEventListener('submit',e=>{if(e.target.id!=='whof')return;e.preventDefault();const f=new FormData(e.target);
  ls.set('msp-who',{name:f.get('name').trim(),org:f.get('org').trim(),email:f.get('email').trim(),credit:f.get('credit')});render()});
 addEventListener('hashchange',()=>{VIEW={filter:'all',q:''};render().then(()=>scrollTo(0,0))});
 
+(function(){const m=location.hash.match(/^#k=([A-Za-z0-9_-]{32,64})$/);if(m){ls.set('msp-key',m[1]);history.replaceState(null,'',location.pathname+location.search+'#mine')}})();
 (async()=>{
  SITE=await (await fetch('data/site.json',{cache:'no-cache'})).json();
  for(const d of SITE.docs.filter(x=>x.preview)){try{const r=await fetch(`data/preview/${d.id}.json`,{cache:'no-cache'});if(r.ok)PREV[d.id]=await r.json()}catch(e){}}

@@ -25,3 +25,11 @@ Removing anything that is live needs Adib's own words naming that item or group.
 
 ## Reviewer checks
 Until the review round opens, `SEND_ENABLED` in `index.html` is `false` and checks stay in the reviewer's browser. Opening the round (storage of checks for the review team) is a separate change recorded with a checkpoint.
+
+## Review round (built 24 November 2026)
+- **Design (owner decisions, 24 Nov 2026).** Each of the 90 sections is a review package. Every package needs two stages by two different people: language (professional translator) and MHPSS technical. Packages with safety rows (77) also have a clinical stage, which covers their safety rows. Stages run at the same time on the draft; rows where they disagree go to reconciliation.
+- **Where it runs.** Firestore of project `mhpss-nepal-iec-review`, collections `msp*`, beside the IEC and form proofreading collections. The page talks to it through the REST API, as the IEC review site does.
+- **Identity.** Each reviewer gets a personal link with a secret key (`#k=…`). The page stores the key in the browser and removes it from the address bar. The database holds the reviewer code, roles and an active flag; names and emails stay in the review team's local register.
+- **Enforced by the server rules, not by the page:** one person one stage per package; a stage only for a reviewer holding that role; a claim holds the package stage for 3 days, then lapses; checks only while holding a live claim; completed stages cannot be reopened from the page.
+- **Tests.** `tests/round_check.py` (end to end against a local emulator; the page honours `?emu=` only on localhost). The rules have their own emulator suite with the IEC and form collections as regression checks. Run both before any change to the round.
+- **Opening the round** is still a separate change with a checkpoint: set `SEND_ENABLED` to `true`, issue reviewer links from the CMC-Nepal list, and confirm how reviewer details are stored.

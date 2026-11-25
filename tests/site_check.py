@@ -8,6 +8,8 @@
 6. Row section labels in the English column stay small (24 Nov 2026: .sec card style leaked into them).
 7. Reviewer notes quote the Nepali wording, never a stand-in (24 Nov 2026: 588 notes hid the proposed term).
 8. No internal section name ("frontmatter") is shown as a row label (24 Nov 2026).
+9. Workboard steps span the full width of the hero and sit in one row (or one list on narrow screens),
+   never squeezed into the left column (25 Nov 2026: step texts were stacked left with empty space right).
 Usage: python3 tests/site_check.py [base_url]   (default http://localhost:8765/)
 """
 import json, os, sys
@@ -54,6 +56,11 @@ with sync_playwright() as pw:
             if tall: fails.append(f'{tall} row section labels taller than 40px (class collision with .sec cards)')
             raw = pg.evaluate("()=>[...document.querySelectorAll('td.en .sec')].filter(e=>/^frontmatter$/i.test(e.textContent.trim())).length")
             if raw: fails.append(f'{raw} row labels show the internal name "frontmatter"')
+        pg.goto(BASE + '#board'); pg.wait_for_timeout(600)
+        fw = pg.evaluate("()=>{const h=document.querySelector('section.hero'),f=h&&h.querySelector('ol.flow');if(!f)return null;const cs=getComputedStyle(h);const inner=h.clientWidth-parseFloat(cs.paddingLeft)-parseFloat(cs.paddingRight);const tops=new Set([...f.children].map(li=>Math.round(li.getBoundingClientRect().top)));return {ratio:f.getBoundingClientRect().width/inner, rows:tops.size, n:f.children.length}}")
+        if not fw or fw['ratio'] < 0.97: fails.append(f'{w}px workboard steps do not span the hero width: {fw}')
+        elif w == 1440 and fw['rows'] != 1: fails.append(f'1440px workboard steps not in one row: {fw}')
+        elif w < 1000 and fw['rows'] != fw['n']: fails.append(f'{w}px workboard steps neither one row nor one list: {fw}')
         fails += [f'{w}px JS error: {e}' for e in errs]
         pg.close()
     b.close()
